@@ -1,27 +1,48 @@
 # 🧬 Biotech MLE Job Scraper
 
-A GitHub Actions workflow that automatically scrapes **Machine Learning Engineer** job listings from biotech company career pages twice a week.
-
-## Companies Tracked
-
-| Company | Source |
-|---|---|
-| Genentech | careers.gene.com (JSON-LD + Phenom ATS) |
-| Recursion Pharmaceuticals | Greenhouse ATS API |
+A GitHub Actions workflow that automatically scrapes **Machine Learning Engineer and related AI/data roles** from ~337 biotech company career pages — 50 companies per day, cycling through the full list continuously.
 
 ## How It Works
 
-1. **Scheduled trigger** — runs every Monday and Thursday at 9am PT
-2. **`scrape_jobs.py`** — fetches job listings using only Python stdlib (no pip installs needed)
-3. Results are saved to `jobs.json` and `jobs.md`
-4. Changes are auto-committed back to the repo
+1. **Scheduled trigger** — runs daily at 9am PT
+2. **Wikipedia discovery** — fetches the current list of US biotech companies dynamically (no hard-coded list)
+3. **ATS probing** — tries Greenhouse and Lever public JSON APIs for each company using generated URL slugs
+4. **Genentech** — scraped separately via their Phenom ATS careers page
+5. **50 companies/day limit** — progress is tracked in `scrape_progress.json` and committed back to the repo; after all companies are checked, it resets and starts over
+6. Results saved to `jobs.json` and `jobs.md`, auto-committed, and emailed to you
+
+## Keywords Matched
+
+Roles are included if the job title contains any of:
+
+- `machine learning engineer`
+- `ml engineer`
+- `mle`
+- `machine learning infra`
+- `applied scientist`
+- `ai engineer`
+- `research engineer`
+- `data scientist`
+- `mlops`
 
 ## Output Files
 
-- **`jobs.json`** — structured data (good for downstream processing)
+- **`jobs.json`** — structured data with title, company, location, URL, and date posted
 - **`jobs.md`** — human-readable markdown (renders nicely on GitHub)
+- **`scrape_progress.json`** — tracks current position in the company list across daily runs
 
-## Run Manually
+## Setup
+
+### 1. Gmail secrets (for email delivery)
+
+Go to **Settings → Secrets and variables → Actions** and add:
+
+| Secret | Value |
+|---|---|
+| `GMAIL_USER` | Your Gmail address |
+| `GMAIL_APP_PASSWORD` | A [Gmail App Password](https://myaccount.google.com/apppasswords) |
+
+### 2. Run manually
 
 Go to **Actions → Biotech MLE Job Scraper → Run workflow**
 
@@ -30,38 +51,21 @@ Or locally:
 python scrape_jobs.py
 ```
 
-## Add More Companies
-
-In `scrape_jobs.py`, add a new function following the same pattern:
-
-```python
-def scrape_mycompany():
-    # Option A: hit a Greenhouse/Lever/Ashby ATS JSON API
-    # Option B: fetch HTML and regex/parse job titles
-    ...
-```
-
-Then call it in `__main__`:
-```python
-all_jobs.extend(scrape_mycompany())
-```
-
-### Common ATS API patterns
-
-| ATS | API URL pattern |
-|---|---|
-| Greenhouse | `https://boards-api.greenhouse.io/v1/boards/{company}/jobs` |
-| Lever | `https://api.lever.co/v0/postings/{company}?mode=json` |
-| Ashby | `https://jobs.ashbyhq.com/api/non-user-graphql` |
-| Workday | Usually requires JS rendering — use `workflow_dispatch` + manual check |
-
 ## Repo Structure
 
 ```
-├── scrape_jobs.py               # Scraper script
+├── scrape_jobs.py               # All scraping logic
 ├── jobs.json                    # Latest results (auto-updated)
 ├── jobs.md                      # Latest results in Markdown (auto-updated)
+├── scrape_progress.json         # Daily progress tracker (auto-updated)
 └── .github/
     └── workflows/
         └── scrape_jobs.yml      # GitHub Actions workflow
 ```
+
+## ATS API Patterns
+
+| ATS | API URL |
+|---|---|
+| Greenhouse | `https://boards-api.greenhouse.io/v1/boards/{company}/jobs` |
+| Lever | `https://api.lever.co/v0/postings/{company}?mode=json` |

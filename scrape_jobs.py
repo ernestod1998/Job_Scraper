@@ -21,7 +21,11 @@ HEADERS = {
     )
 }
 
-KEYWORDS = ["machine learning engineer", "ml engineer", "mle", "machine learning infra"]
+KEYWORDS = [
+    "machine learning engineer", "ml engineer", "mle",
+    "machine learning infra", "applied scientist", "ai engineer",
+    "research engineer", "data scientist", "mlops",
+]
 
 # Seconds to wait between API probes — keeps us polite
 REQUEST_DELAY = 0.3
@@ -36,7 +40,7 @@ def fetch(url):
     try:
         with urlopen(req, timeout=15) as r:
             return r.read().decode("utf-8", errors="ignore")
-    except URLError as e:
+    except (URLError, TimeoutError, OSError) as e:
         print(f"  ⚠️  Could not fetch {url}: {e}")
         return ""
 
@@ -301,17 +305,40 @@ def save_results(jobs: list):
 # Main
 # ---------------------------------------------------------------------------
 
-if __name__ == "__main__":
-    all_jobs = []
+DAILY_LIMIT = 50
 
-    all_jobs.extend(scrape_genentech())
+if __name__ == "__main__":
+    progress_path = os.path.join(SCRIPT_DIR, "scrape_progress.json")
 
     companies = get_biotech_companies()
-    for i, company_name in enumerate(companies, 1):
+
+    if os.path.exists(progress_path):
+        with open(progress_path) as f:
+            progress = json.load(f)
+        offset = progress["offset"]
+        all_jobs = progress["jobs"]
+        print(f"♻️  Resuming from company #{offset + 1} ({len(all_jobs)} jobs found so far)")
+    else:
+        offset = 0
+        all_jobs = []
+
+    all_jobs = [j for j in all_jobs if j["company"] != "Genentech"]
+    all_jobs.extend(scrape_genentech())
+
+    batch = companies[offset:offset + DAILY_LIMIT]
+    for i, company_name in enumerate(batch, start=offset + 1):
         print(f"[{i}/{len(companies)}] Checking {company_name}...")
         jobs = scrape_company(company_name)
         if jobs:
             print(f"  ✅ Found {len(jobs)} MLE role(s)")
             all_jobs.extend(jobs)
+
+    next_offset = offset + DAILY_LIMIT
+    if next_offset >= len(companies):
+        print(f"\n🔄 Reached end of company list — resetting to start")
+        next_offset = 0
+
+    with open(progress_path, "w") as f:
+        json.dump({"offset": next_offset, "jobs": all_jobs}, f)
 
     save_results(all_jobs)
