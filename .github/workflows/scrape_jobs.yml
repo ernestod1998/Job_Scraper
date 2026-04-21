@@ -1,0 +1,73 @@
+name: Biotech MLE Job Scraper
+
+on:
+  # Run every day at 9am PT (17:00 UTC)
+  schedule:
+    - cron: "0 17 * * *"
+
+  # Allow manual trigger from the Actions tab
+  workflow_dispatch:
+
+jobs:
+  scrape:
+    name: Scrape MLE Job Listings
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write  # needed to commit results back to repo
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Run scraper
+        run: python scrape_jobs.py
+
+      - name: Commit results to repo
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add jobs.json jobs.md
+          git diff --cached --quiet || git commit -m "chore: update job listings [$(date -u '+%Y-%m-%d')]"
+          git push
+
+      - name: Send email with results
+        env:
+          GMAIL_USER: ${{ secrets.GMAIL_USER }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+        run: |
+          python - <<'EOF'
+          import os, smtplib, json
+          from email.mime.multipart import MIMEMultipart
+          from email.mime.text import MIMEText
+
+          user = os.environ["GMAIL_USER"]
+          password = os.environ["GMAIL_APP_PASSWORD"]
+
+          with open("jobs.json") as f:
+              data = json.load(f)
+
+          with open("jobs.md") as f:
+              body_md = f.read()
+
+          total = data["total"]
+          scraped_at = data["scraped_at"]
+          subject = f"🧬 Biotech MLE Jobs — {total} role(s) found [{scraped_at[:10]}]"
+
+          msg = MIMEMultipart("alternative")
+          msg["Subject"] = subject
+          msg["From"] = user
+          msg["To"] = user
+          msg.attach(MIMEText(body_md, "plain"))
+
+          with smtplib.SMTP_SSL("smtp.gmail.com", 465) as smtp:
+              smtp.login(user, password)
+              smtp.sendmail(user, user, msg.as_string())
+
+          print(f"✅ Email sent to {user}")
+          EOF
