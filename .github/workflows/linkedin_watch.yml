@@ -1,0 +1,86 @@
+name: LinkedIn MLE/DS Watcher
+
+on:
+  schedule:
+    # 8am PT  (PDT 15:00 UTC / PST 16:00 UTC) — morning
+    - cron: "0 15 * * *"
+    # 12pm PT (PDT 19:00 UTC / PST 20:00 UTC) — midday
+    - cron: "0 19 * * *"
+    # 6pm PT  (PDT 01:00 UTC next / PST 02:00 UTC next) — evening
+    - cron: "0 1 * * *"
+
+  workflow_dispatch:
+
+jobs:
+  scrape:
+    name: LinkedIn scrape + email
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Scrape LinkedIn (last 1h / 6h / 24h)
+        run: python scrape_jobs.py --linkedin-only
+
+      - name: Commit results to repo
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add linkedin_jobs.json linkedin_jobs.md
+          git diff --cached --quiet || git commit -m "chore: update linkedin listings [$(date -u '+%Y-%m-%d %H:%MZ')]"
+          git pull --rebase origin main
+          git push
+
+      - name: Send email with results
+        env:
+          GMAIL_USER: ${{ secrets.GMAIL_USER }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+        run: |
+          python - <<'EOF'
+          import os, smtplib, json
+          from datetime import datetime, timezone
+          from email.mime.multipart import MIMEMultipart
+          from email.mime.text import MIMEText
+
+          user = os.environ["GMAIL_USER"]
+          password = os.environ["GMAIL_APP_PASSWORD"]
+
+          with open("linkedin_jobs.json") as f:
+              data = json.load(f)
+          with open("linkedin_jobs.md") as f:
+              body_md = f.read()
+
+          total = data["total"]
+          scraped_at = data["scraped_at"]
+
+          hour_utc = datetime.now(timezone.utc).hour
+          if hour_utc in (15, 16):
+              slot = "Morning"
+          elif hour_utc in (19, 20):
+              slot = "Midday"
+          else:
+              slot = "Evening"
+
+          subject = f"🔥 LinkedIn MLE/DS — {total} role(s) [{scraped_at[:10]} {slot}]"
+
+          msg = MIMEMultipart("alternative")
+          msg["Subject"] = subject
+          msg["From"] = user
+          msg["To"] = user
+          msg.attach(MIMEText(body_md, "plain"))
+
+          with smtplib.SMTP_SSL("smtp.gmail.com", 465) as smtp:
+              smtp.login(user, password)
+              smtp.sendmail(user, user, msg.as_string())
+
+          print(f"✅ Email sent to {user}")
+          EOF

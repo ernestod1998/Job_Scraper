@@ -7,7 +7,9 @@ company's Greenhouse and Lever job boards for Machine Learning Engineer roles.
 import json
 import os
 import re
+import sys
 import time
+import urllib.parse
 from datetime import datetime
 from urllib.request import urlopen, Request
 from urllib.error import URLError
@@ -22,9 +24,18 @@ HEADERS = {
 }
 
 KEYWORDS = [
+    # ML engineering
     "machine learning engineer", "ml engineer", "mle",
-    "machine learning infra", "applied scientist", "ai engineer",
-    "research engineer", "data scientist", "mlops",
+    "machine learning infra", "ai engineer", "mlops",
+    "research engineer",
+    # Applied / AI / ML scientist
+    "applied scientist", "ai scientist", "ml scientist",
+    # Data science
+    "data scientist", "data science",
+    # Computational / informatics
+    "computational scientist", "computational biologist",
+    "bioinformatics scientist", "bioinformatics engineer",
+    "cheminformatics",
 ]
 
 # Seconds to wait between API probes — keeps us polite
@@ -269,6 +280,140 @@ def scrape_genentech():
 
 
 # ---------------------------------------------------------------------------
+# LinkedIn — public guest endpoint, bucketed by recency (broad US-wide net)
+# ---------------------------------------------------------------------------
+
+LINKEDIN_SEARCH_TERMS = [
+    "machine learning engineer",
+    "data scientist",
+    "applied scientist",
+    "AI engineer",
+    "MLOps engineer",
+    "computational biologist",
+    "bioinformatics",
+    "cheminformatics",
+]
+
+# (label, seconds) — iterate smallest first so tightest bucket wins on dedupe
+LINKEDIN_BUCKETS = [("1h", 3600), ("6h", 21600), ("24h", 86400)]
+
+
+def _parse_linkedin_cards(html: str) -> list[dict]:
+    cards = re.split(r'<li[^>]*>', html)[1:]
+    parsed = []
+    for card in cards:
+        urn = re.search(r'data-entity-urn="urn:li:jobPosting:(\d+)"', card)
+        if not urn:
+            continue
+        title_m = re.search(r'base-search-card__title[^>]*>\s*([^<]+)', card)
+        company_m = re.search(
+            r'base-search-card__subtitle[^>]*>.*?<a[^>]*>\s*([^<]+)\s*</a>',
+            card, re.DOTALL,
+        ) or re.search(r'base-search-card__subtitle[^>]*>\s*([^<]+)', card)
+        location_m = re.search(r'job-search-card__location[^>]*>\s*([^<]+)', card)
+        time_m = re.search(r'<time[^>]*datetime="([^"]+)"', card)
+
+        title = title_m.group(1).strip() if title_m else ""
+        if not title or not is_mle_role(title):
+            continue
+        company = re.sub(r'\s+', ' ', company_m.group(1).strip()) if company_m else "Unknown"
+        parsed.append({
+            "id": urn.group(1),
+            "company": company,
+            "title": title,
+            "location": (location_m.group(1).strip() if location_m else "").replace("\n", " "),
+            "date_posted": time_m.group(1) if time_m else "",
+        })
+    return parsed
+
+
+def scrape_linkedin_recent() -> list:
+    """
+    Hits LinkedIn's public guest endpoint, bucketed past 1h / 6h / 24h.
+    Each job is tagged with its tightest bucket. Biotech + pharma industries.
+    """
+    print("🔎 Scraping LinkedIn (last 1h / 6h / 24h)...")
+    jobs_by_id: dict[str, dict] = {}
+
+    for bucket_label, seconds in LINKEDIN_BUCKETS:
+        for term in LINKEDIN_SEARCH_TERMS:
+            for start in range(0, 75, 25):
+                time.sleep(REQUEST_DELAY)
+                url = (
+                    "https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search"
+                    f"?keywords={urllib.parse.quote(term)}"
+                    "&location=United%20States"
+                    f"&f_TPR=r{seconds}"
+                    f"&start={start}"
+                )
+                html = fetch(url)
+                if not html.strip():
+                    break
+                parsed = _parse_linkedin_cards(html)
+                if not parsed:
+                    break
+                for p in parsed:
+                    # tightest bucket wins — don't overwrite if already seen
+                    if p["id"] in jobs_by_id:
+                        continue
+                    jobs_by_id[p["id"]] = {
+                        "company": p["company"],
+                        "title": p["title"],
+                        "location": p["location"],
+                        "url": f"https://www.linkedin.com/jobs/view/{p['id']}/",
+                        "date_posted": p["date_posted"],
+                        "ats": "LinkedIn",
+                        "freshness": bucket_label,
+                    }
+
+    jobs = list(jobs_by_id.values())
+    # sort: tightest bucket first, then most-recent datetime first
+    bucket_order = {b[0]: i for i, b in enumerate(LINKEDIN_BUCKETS)}
+    jobs.sort(key=lambda j: (bucket_order.get(j.get("freshness", "24h"), 99),
+                             -_iso_to_ts(j.get("date_posted", ""))))
+    bucket_counts = {b[0]: sum(1 for j in jobs if j["freshness"] == b[0]) for b in LINKEDIN_BUCKETS}
+    print(f"  ✅ LinkedIn: {len(jobs)} role(s) — {bucket_counts}")
+    return jobs
+
+
+def _iso_to_ts(iso: str) -> float:
+    if not iso:
+        return 0.0
+    try:
+        return datetime.fromisoformat(iso).timestamp()
+    except ValueError:
+        return 0.0
+
+
+def save_linkedin_results(jobs: list):
+    timestamp = datetime.utcnow().strftime("%Y-%m-%d %H:%M UTC")
+    output = {"scraped_at": timestamp, "total": len(jobs), "jobs": jobs}
+    with open(os.path.join(SCRIPT_DIR, "linkedin_jobs.json"), "w") as f:
+        json.dump(output, f, indent=2)
+
+    lines = [
+        "# 🔥 LinkedIn — MLE / DS / Applied Science",
+        f"*Last updated: {timestamp}*\n",
+        f"**Total roles found: {len(jobs)}**\n",
+    ]
+    for bucket_label, _ in LINKEDIN_BUCKETS:
+        bucket_jobs = [j for j in jobs if j.get("freshness") == bucket_label]
+        if not bucket_jobs:
+            continue
+        lines.append(f"## Posted in last {bucket_label} — {len(bucket_jobs)} role(s)\n")
+        for job in bucket_jobs:
+            lines.append(f"### [{job['title']}]({job['url']}) — {job['company']}")
+            lines.append(f"- 📍 **Location:** {job['location'] or 'Not specified'}")
+            if job.get("date_posted"):
+                lines.append(f"- 🕒 **Posted:** {job['date_posted']}")
+            lines.append("")
+
+    with open(os.path.join(SCRIPT_DIR, "linkedin_jobs.md"), "w") as f:
+        f.write("\n".join(lines))
+    print(f"📄 Saved linkedin_jobs.json and linkedin_jobs.md ({len(jobs)} roles)")
+
+
+# ---------------------------------------------------------------------------
 # Output
 # ---------------------------------------------------------------------------
 
@@ -308,6 +453,11 @@ def save_results(jobs: list):
 DAILY_LIMIT = 50
 
 if __name__ == "__main__":
+    if "--linkedin-only" in sys.argv:
+        linkedin_jobs = scrape_linkedin_recent()
+        save_linkedin_results(linkedin_jobs)
+        sys.exit(0)
+
     progress_path = os.path.join(SCRIPT_DIR, "scrape_progress.json")
 
     companies = get_biotech_companies()
