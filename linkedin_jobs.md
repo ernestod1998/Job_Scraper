@@ -1,7 +1,7 @@
 # 🔥 LinkedIn — MLE / DS / Applied Science (SF Bay Area)
-*Last updated: 2026-04-23 05:15 UTC*
+*Last updated: 2026-04-23 05:16 UTC*
 
-**Total roles found: 59**
+**Total roles found: 58**
 
 ## Posted in last 1h — 6 role(s)
 
@@ -87,7 +87,7 @@
 - 📍 **Location:** Redwood City, CA
 - 🕒 **Posted:** 2026-04-22
 
-## Posted in last 24h — 39 role(s)
+## Posted in last 24h — 38 role(s)
 
 ### [Data Scientist, All Levels](https://www.linkedin.com/jobs/view/4366263812/) — Ramp
 - 📍 **Location:** San Francisco, CA
@@ -127,6 +127,10 @@
 
 ### [Data Scientist](https://www.linkedin.com/jobs/view/4381767429/) — Solomon Page
 - 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-04-22
+
+### [Senior Machine Learning Engineer](https://www.linkedin.com/jobs/view/4404271334/) — GEICO
+- 📍 **Location:** Palo Alto, CA
 - 🕒 **Posted:** 2026-04-22
 
 ### [Data Scientist](https://www.linkedin.com/jobs/view/4393976495/) — Shipt
@@ -181,10 +185,6 @@
 - 📍 **Location:** San Francisco Bay Area
 - 🕒 **Posted:** 2026-04-22
 
-### [Senior Machine Learning Engineer](https://www.linkedin.com/jobs/view/4404271334/) — GEICO
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-04-22
-
 ### [Senior Solution Consultant AI Specialist - Data Science and Machine Learning](https://www.linkedin.com/jobs/view/4405251941/) — Anaplan
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-04-22
@@ -197,12 +197,8 @@
 - 📍 **Location:** Sunnyvale, CA
 - 🕒 **Posted:** 2026-04-22
 
-### [Sr. Applied Scientist](https://www.linkedin.com/jobs/view/4382257179/) — Adobe
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-04-22
-
-### [Machine Learning Engineer Graduate (Global E-commerce Recommendation/Search) - 2026 Start (BS/MS)](https://www.linkedin.com/jobs/view/4392851473/) — TikTok
-- 📍 **Location:** San Jose, CA
+### [Founding AI/ML Engineer ($200-250K + Equity) at Generalcatalyst.com](https://www.linkedin.com/jobs/view/4405263347/) — Jack &amp; Jill
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-04-22
 
 ### [Principal Applied Scientist](https://www.linkedin.com/jobs/view/4393975919/) — Microsoft AI
