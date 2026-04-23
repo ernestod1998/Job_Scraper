@@ -342,7 +342,8 @@ def scrape_linkedin_recent() -> list:
                 url = (
                     "https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search"
                     f"?keywords={urllib.parse.quote(term)}"
-                    "&location=United%20States"
+                    "&location=San%20Francisco%20Bay%20Area"
+                    "&geoId=90000084"
                     f"&f_TPR=r{seconds}"
                     f"&start={start}"
                 )
@@ -392,7 +393,7 @@ def save_linkedin_results(jobs: list):
         json.dump(output, f, indent=2)
 
     lines = [
-        "# 🔥 LinkedIn — MLE / DS / Applied Science",
+        "# 🔥 LinkedIn — MLE / DS / Applied Science (SF Bay Area)",
         f"*Last updated: {timestamp}*\n",
         f"**Total roles found: {len(jobs)}**\n",
     ]
