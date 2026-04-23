@@ -1,7 +1,7 @@
-# 🧬 Biotech MLE Job Listings
-*Last updated: 2026-04-22 17:58 UTC*
+# 🧬 Biotech MLE Job Listings (SF Bay Area)
+*Last updated: 2026-04-23 05:53 UTC*
 
-**Total roles found: 3**
+**Total roles found: 2**
 
 ## 10x Genomics (1 role(s))
 
@@ -14,9 +14,3 @@
 ### [Machine Learning Engineer/Machine Learning Scientist , Multi Modality](https://job-boards.greenhouse.io/altoslabs/jobs/5709084004)
 - 📍 **Location:** San Diego, CA; San Francisco Bay Area, CA
 - 📅 **Posted:** 2026-03-31
-
-## GeneDx (1 role(s))
-
-### [Sr. Machine Learning Engineer, Patient Health Intelligence](https://genedx.com/careers/openings?gh_jid=4672184005)
-- 📍 **Location:** Remote
-- 📅 **Posted:** 2026-03-30
