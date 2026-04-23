@@ -60,6 +60,29 @@ def is_mle_role(title: str) -> bool:
     return any(k in title.lower() for k in KEYWORDS)
 
 
+BAY_AREA_LOCATIONS = [
+    "bay area",
+    "san francisco", "south san francisco", "daly city",
+    "oakland", "berkeley", "alameda", "emeryville", "richmond",
+    "palo alto", "mountain view", "menlo park", "sunnyvale",
+    "santa clara", "san jose", "cupertino", "los altos", "los gatos",
+    "san mateo", "foster city", "redwood city", "brisbane", "millbrae",
+    "san bruno", "burlingame", "belmont",
+    "fremont", "hayward", "union city", "newark", "milpitas",
+    "concord", "walnut creek", "pleasanton", "dublin", "san ramon",
+    "danville", "livermore",
+    "novato", "san rafael", "mill valley", "sausalito",
+    "vacaville",
+]
+
+
+def is_bay_area(location: str) -> bool:
+    if not location:
+        return False
+    loc = location.lower()
+    return any(city in loc for city in BAY_AREA_LOCATIONS)
+
+
 def extract_location(job: dict) -> str:
     loc = job.get("jobLocation", {})
     if isinstance(loc, list):
@@ -426,7 +449,7 @@ def save_results(jobs: list):
         json.dump(output, f, indent=2)
 
     lines = [
-        "# 🧬 Biotech MLE Job Listings",
+        "# 🧬 Biotech MLE Job Listings (SF Bay Area)",
         f"*Last updated: {timestamp}*\n",
         f"**Total roles found: {len(jobs)}**\n",
     ]
@@ -451,45 +474,24 @@ def save_results(jobs: list):
 # Main
 # ---------------------------------------------------------------------------
 
-DAILY_LIMIT = 50
-
 if __name__ == "__main__":
     if "--linkedin-only" in sys.argv:
         linkedin_jobs = scrape_linkedin_recent()
         save_linkedin_results(linkedin_jobs)
         sys.exit(0)
 
-    progress_path = os.path.join(SCRIPT_DIR, "scrape_progress.json")
-
     companies = get_biotech_companies()
+    all_jobs = list(scrape_genentech())
 
-    if os.path.exists(progress_path):
-        with open(progress_path) as f:
-            progress = json.load(f)
-        offset = progress["offset"]
-        all_jobs = progress["jobs"]
-        print(f"♻️  Resuming from company #{offset + 1} ({len(all_jobs)} jobs found so far)")
-    else:
-        offset = 0
-        all_jobs = []
-
-    all_jobs = [j for j in all_jobs if j["company"] != "Genentech"]
-    all_jobs.extend(scrape_genentech())
-
-    batch = companies[offset:offset + DAILY_LIMIT]
-    for i, company_name in enumerate(batch, start=offset + 1):
+    for i, company_name in enumerate(companies, start=1):
         print(f"[{i}/{len(companies)}] Checking {company_name}...")
         jobs = scrape_company(company_name)
         if jobs:
             print(f"  ✅ Found {len(jobs)} MLE role(s)")
             all_jobs.extend(jobs)
 
-    next_offset = offset + DAILY_LIMIT
-    if next_offset >= len(companies):
-        print(f"\n🔄 Reached end of company list — resetting to start")
-        next_offset = 0
-
-    with open(progress_path, "w") as f:
-        json.dump({"offset": next_offset, "jobs": all_jobs}, f)
+    before = len(all_jobs)
+    all_jobs = [j for j in all_jobs if is_bay_area(j.get("location", ""))]
+    print(f"\n📍 Bay Area filter: {before} → {len(all_jobs)} roles")
 
     save_results(all_jobs)
