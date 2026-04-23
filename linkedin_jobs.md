@@ -1,9 +1,9 @@
 # 🔥 LinkedIn — MLE / DS / Applied Science
-*Last updated: 2026-04-23 05:03 UTC*
+*Last updated: 2026-04-23 05:05 UTC*
 
-**Total roles found: 131**
+**Total roles found: 124**
 
-## Posted in last 1h — 12 role(s)
+## Posted in last 1h — 11 role(s)
 
 ### [Machine Learning Engineer](https://www.linkedin.com/jobs/view/4404700577/) — LIMI AI
 - 📍 **Location:** Palo Alto, CA
@@ -19,10 +19,6 @@
 
 ### [AI/ML Engineer - Agentic](https://www.linkedin.com/jobs/view/4405493620/) — Hewlett Packard Enterprise
 - 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-04-23
-
-### [Data Scientist I - Advanced Analytics](https://www.linkedin.com/jobs/view/4405604426/) — BioSpace
-- 📍 **Location:** Plainsboro, NJ
 - 🕒 **Posted:** 2026-04-23
 
 ### [Senior, Data Scientist](https://www.linkedin.com/jobs/view/4402853470/) — Sam's Club
@@ -53,7 +49,7 @@
 - 📍 **Location:** United States
 - 🕒 **Posted:** 2026-04-23
 
-## Posted in last 6h — 47 role(s)
+## Posted in last 6h — 46 role(s)
 
 ### [Machine Learning Engineer](https://www.linkedin.com/jobs/view/4404702619/) — Autodesk
 - 📍 **Location:** San Francisco, CA
@@ -75,8 +71,20 @@
 - 📍 **Location:** Seattle, WA
 - 🕒 **Posted:** 2026-04-23
 
+### [AI Engineer](https://www.linkedin.com/jobs/view/4405484820/) — CGI
+- 📍 **Location:** Washington, DC
+- 🕒 **Posted:** 2026-04-23
+
+### [Software Engineer, Machine Learning Infrastructure](https://www.linkedin.com/jobs/view/4404490964/) — Whatnot
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-04-23
+
 ### [Machine Learning Engineer, Data &amp; Machine Learning (DML)](https://www.linkedin.com/jobs/view/4405475074/) — Amazon Web Services (AWS)
 - 📍 **Location:** Arlington, VA
+- 🕒 **Posted:** 2026-04-23
+
+### [Machine Learning Engineer, Data &amp; Machine Learning (DML)](https://www.linkedin.com/jobs/view/4405468209/) — Amazon Web Services (AWS)
+- 📍 **Location:** Herndon, VA
 - 🕒 **Posted:** 2026-04-23
 
 ### [Software Engineer, Machine Learning Infrastructure](https://www.linkedin.com/jobs/view/4404710017/) — Whatnot
@@ -111,8 +119,8 @@
 - 📍 **Location:** Phoenix, AZ
 - 🕒 **Posted:** 2026-04-23
 
-### [AI Engineer](https://www.linkedin.com/jobs/view/4405484820/) — CGI
-- 📍 **Location:** Washington, DC
+### [Business Data Scientist, Marketing Analytics](https://www.linkedin.com/jobs/view/4405497278/) — BECU
+- 📍 **Location:** Oregon, United States
 - 🕒 **Posted:** 2026-04-23
 
 ### [Data Scientist (Mid-level) - Model Development](https://www.linkedin.com/jobs/view/4402837582/) — USAA
@@ -131,12 +139,12 @@
 - 📍 **Location:** Georgia, United States
 - 🕒 **Posted:** 2026-04-23
 
-### [Software Engineer, Machine Learning Infrastructure](https://www.linkedin.com/jobs/view/4404493968/) — Whatnot
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-04-23
-
 ### [AI Research Engineer - Applied Scientist Compilers](https://www.linkedin.com/jobs/view/4404478751/) — NVIDIA
 - 📍 **Location:** Austin, TX
+- 🕒 **Posted:** 2026-04-23
+
+### [Software Engineer, Machine Learning Infrastructure](https://www.linkedin.com/jobs/view/4404493968/) — Whatnot
+- 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-04-23
 
 ### [Business Data Scientist, Marketing Analytics](https://www.linkedin.com/jobs/view/4405495360/) — BECU
@@ -147,56 +155,44 @@
 - 📍 **Location:** Idaho, United States
 - 🕒 **Posted:** 2026-04-23
 
-### [Senior Applied Scientist](https://www.linkedin.com/jobs/view/4405463593/) — Relativity
-- 📍 **Location:** California, United States
+### [Data Scientist - ML &amp; Operational Analytics](https://www.linkedin.com/jobs/view/4404494992/) — Jobs via Dice
+- 📍 **Location:** Washington, DC
 - 🕒 **Posted:** 2026-04-23
 
-### [Applied Scientist, Personalization](https://www.linkedin.com/jobs/view/4405469235/) — Amazon
-- 📍 **Location:** Irvine, CA
-- 🕒 **Posted:** 2026-04-23
-
-### [AI Research Engineer - Applied Scientist Compilers](https://www.linkedin.com/jobs/view/4404496593/) — NVIDIA
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-04-23
-
-### [Senior Applied Scientist](https://www.linkedin.com/jobs/view/4405482080/) — Relativity
-- 📍 **Location:** Connecticut, United States
-- 🕒 **Posted:** 2026-04-23
-
-### [Research Engineering/Scientist Associate II - (Part-time) Panpradist Lab, Department of Biomedical Engineering in the Cockrell School of Engineering](https://www.linkedin.com/jobs/view/4402032471/) — The University of Texas at Austin
-- 📍 **Location:** Austin, TX
-- 🕒 **Posted:** 2026-04-23
-
-### [AI Research Engineer - Applied Scientist Compilers](https://www.linkedin.com/jobs/view/4404484767/) — NVIDIA
-- 📍 **Location:** Washington, United States
-- 🕒 **Posted:** 2026-04-23
-
-### [AI Research Engineer - Applied Scientist Compilers](https://www.linkedin.com/jobs/view/4404475903/) — NVIDIA
-- 📍 **Location:** Texas, United States
-- 🕒 **Posted:** 2026-04-23
-
-### [Senior Applied Scientist](https://www.linkedin.com/jobs/view/4405474318/) — Relativity
-- 📍 **Location:** Colorado, United States
-- 🕒 **Posted:** 2026-04-23
-
-### [Senior Applied Scientist](https://www.linkedin.com/jobs/view/4405464450/) — Relativity
-- 📍 **Location:** Texas, United States
-- 🕒 **Posted:** 2026-04-23
-
-### [Data Scientist (Mid-level) - Model Development](https://www.linkedin.com/jobs/view/4402848194/) — USAA
-- 📍 **Location:** Colorado Springs, CO
+### [Machine Learning Engineer](https://www.linkedin.com/jobs/view/4405602006/) — Booz Allen Hamilton
+- 📍 **Location:** McLean, VA
 - 🕒 **Posted:** 2026-04-23
 
 ### [Data Scientist (Mid-level) - Model Development](https://www.linkedin.com/jobs/view/4402835619/) — USAA
 - 📍 **Location:** Phoenix, AZ
 - 🕒 **Posted:** 2026-04-23
 
+### [Applied Scientist, Personalization](https://www.linkedin.com/jobs/view/4405469235/) — Amazon
+- 📍 **Location:** Irvine, CA
+- 🕒 **Posted:** 2026-04-23
+
+### [Data Scientist (Mid-level) - Model Development](https://www.linkedin.com/jobs/view/4402848194/) — USAA
+- 📍 **Location:** Colorado Springs, CO
+- 🕒 **Posted:** 2026-04-23
+
 ### [Data Scientist (Mid-level) - Model Development](https://www.linkedin.com/jobs/view/4402853061/) — USAA
 - 📍 **Location:** San Antonio, TX
 - 🕒 **Posted:** 2026-04-23
 
-### [AI Engineer](https://www.linkedin.com/jobs/view/4391382536/) — Horizontal Talent
-- 📍 **Location:** Maplewood, MN
+### [Applied Scientist, Rufus Experience Science](https://www.linkedin.com/jobs/view/4405459780/) — Amazon
+- 📍 **Location:** Palo Alto, CA
+- 🕒 **Posted:** 2026-04-23
+
+### [Applied AI Engineer](https://www.linkedin.com/jobs/view/4405485758/) — Slash
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-04-23
+
+### [Senior AI/ML Engineer](https://www.linkedin.com/jobs/view/4405486512/) — Sayari
+- 📍 **Location:** Washington, DC
+- 🕒 **Posted:** 2026-04-23
+
+### [Senior Applied AI Engineer](https://www.linkedin.com/jobs/view/4404715794/) — Vation Ventures
+- 📍 **Location:** Denver, CO
 - 🕒 **Posted:** 2026-04-23
 
 ### [Machine Learning Engineer](https://www.linkedin.com/jobs/view/4405485740/) — Booz Allen Hamilton
@@ -205,10 +201,6 @@
 
 ### [AI Engineer (AIA)](https://www.linkedin.com/jobs/view/4404700510/) — Cognizant
 - 📍 **Location:** Missouri, United States
-- 🕒 **Posted:** 2026-04-23
-
-### [Machine Learning Engineer](https://www.linkedin.com/jobs/view/4405602006/) — Booz Allen Hamilton
-- 📍 **Location:** McLean, VA
 - 🕒 **Posted:** 2026-04-23
 
 ### [MLOps Engineer](https://www.linkedin.com/jobs/view/4404718002/) — Jobs via Dice
@@ -243,7 +235,7 @@
 - 📍 **Location:** Silver Spring, MD
 - 🕒 **Posted:** 2026-04-22
 
-## Posted in last 24h — 72 role(s)
+## Posted in last 24h — 67 role(s)
 
 ### [Data Scientist](https://www.linkedin.com/jobs/view/4404985135/) — Junction
 - 📍 **Location:** New York, NY
@@ -265,8 +257,8 @@
 - 📍 **Location:** United States
 - 🕒 **Posted:** 2026-04-22
 
-### [Data Scientist, All Levels](https://www.linkedin.com/jobs/view/4366263812/) — Ramp
-- 📍 **Location:** San Francisco, CA
+### [Machine Learning Engineer, ML Resources](https://www.linkedin.com/jobs/view/4404483282/) — Waymo
+- 📍 **Location:** Mountain View, CA
 - 🕒 **Posted:** 2026-04-22
 
 ### [Machine Learning Engineer - Generative AI](https://www.linkedin.com/jobs/view/4404464758/) — Qualcomm
@@ -293,6 +285,10 @@
 - 📍 **Location:** Houston, TX
 - 🕒 **Posted:** 2026-04-22
 
+### [AI/ML Engineer](https://www.linkedin.com/jobs/view/4405259593/) — KMM Technologies, Inc.
+- 📍 **Location:** Reston, VA
+- 🕒 **Posted:** 2026-04-22
+
 ### [Machine Learning Engineer (Remote)](https://www.linkedin.com/jobs/view/4356031325/) — Triumph
 - 📍 **Location:** United States
 - 🕒 **Posted:** 2026-04-22
@@ -317,10 +313,6 @@
 - 📍 **Location:** Dallas-Fort Worth Metroplex
 - 🕒 **Posted:** 2026-04-22
 
-### [Sr. AI/ML Engineer I (6475)](https://www.linkedin.com/jobs/view/4402481797/) — MetroStar
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-04-22
-
 ### [Data Science Intern](https://www.linkedin.com/jobs/view/4404921962/) — Airbnb
 - 📍 **Location:** United States
 - 🕒 **Posted:** 2026-04-22
@@ -331,6 +323,10 @@
 
 ### [Data Scientist](https://www.linkedin.com/jobs/view/4400451452/) — Berkshire Partners
 - 📍 **Location:** Boston, MA
+- 🕒 **Posted:** 2026-04-22
+
+### [Data Scientist, All Levels](https://www.linkedin.com/jobs/view/4366263812/) — Ramp
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-04-22
 
 ### [Data Scientist (Analyst)](https://www.linkedin.com/jobs/view/4402441983/) — Why Hiring
@@ -401,10 +397,6 @@
 - 📍 **Location:** San Diego, CA
 - 🕒 **Posted:** 2026-04-22
 
-### [Machine Learning Engineer, ML Resources](https://www.linkedin.com/jobs/view/4404483282/) — Waymo
-- 📍 **Location:** Mountain View, CA
-- 🕒 **Posted:** 2026-04-22
-
 ### [AI Engineer ($150k–$300k + Equity) at Vibecode](https://www.linkedin.com/jobs/view/4405259292/) — Jack &amp; Jill
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-04-22
@@ -435,10 +427,6 @@
 
 ### [AI/ML Engineer (AWS)](https://www.linkedin.com/jobs/view/4405421271/) — Valorem Reply
 - 📍 **Location:** Philadelphia, PA
-- 🕒 **Posted:** 2026-04-22
-
-### [AI/ML Engineer (AWS)](https://www.linkedin.com/jobs/view/4405431045/) — Valorem Reply
-- 📍 **Location:** Los Angeles Metropolitan Area
 - 🕒 **Posted:** 2026-04-22
 
 ### [Applied AI Engineer](https://www.linkedin.com/jobs/view/4404464676/) — SOCOTEC
@@ -477,16 +465,16 @@
 - 📍 **Location:** Boston, MA
 - 🕒 **Posted:** 2026-04-22
 
-### [Principal MLOps Engineer](https://www.linkedin.com/jobs/view/4404439298/) — Raft
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-04-22
-
 ### [Principal MLOps Engineer](https://www.linkedin.com/jobs/view/4404445264/) — Raft
 - 📍 **Location:** Tampa, FL
 - 🕒 **Posted:** 2026-04-22
 
 ### [Principal MLOps Engineer](https://www.linkedin.com/jobs/view/4404440347/) — Raft
 - 📍 **Location:** Colorado Springs, CO
+- 🕒 **Posted:** 2026-04-22
+
+### [MLOps Engineer](https://www.linkedin.com/jobs/view/4405449455/) — Guidehouse
+- 📍 **Location:** McLean, VA
 - 🕒 **Posted:** 2026-04-22
 
 ### [Technical Lead - AI &amp; Data Science](https://www.linkedin.com/jobs/view/4404531692/) — DaVita Kidney Care
@@ -507,22 +495,6 @@
 
 ### [Senior Computational Biologist – Target ID](https://www.linkedin.com/jobs/view/4404989358/) — BioSpace
 - 📍 **Location:** Salt Lake City, UT
-- 🕒 **Posted:** 2026-04-22
-
-### [Jr. Data Science Engineer](https://www.linkedin.com/jobs/view/4392410864/) — Axle
-- 📍 **Location:** Rockville, MD
-- 🕒 **Posted:** 2026-04-22
-
-### [Principal Data Scientist](https://www.linkedin.com/jobs/view/4401969812/) — University of Colorado
-- 📍 **Location:** Aurora, CO
-- 🕒 **Posted:** 2026-04-22
-
-### [Senior Specialist, Data Science](https://www.linkedin.com/jobs/view/4404524254/) — Merck
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-04-22
-
-### [Clinical Data Scientist - Road Home Research Full-time-26387](https://www.linkedin.com/jobs/view/4405430331/) — Rush University Medical Center
-- 📍 **Location:** Chicago, IL
 - 🕒 **Posted:** 2026-04-22
 
 ### [Cheminformatics Researcher](https://www.linkedin.com/jobs/view/4404891566/) — Guidehouse
