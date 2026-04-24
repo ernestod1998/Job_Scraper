@@ -1,13 +1,7 @@
 # 🧬 Biotech MLE Job Listings (SF Bay Area)
-*Last updated: 2026-04-23 18:19 UTC*
+*Last updated: 2026-04-24 18:05 UTC*
 
-**Total roles found: 2**
-
-## 10x Genomics (1 role(s))
-
-### [Staff Data Scientist, Marketing](https://boards.greenhouse.io/10xgenomics/jobs/7664742?gh_jid=7664742)
-- 📍 **Location:** Pleasanton, California, USA HQ
-- 📅 **Posted:** 2026-02-27
+**Total roles found: 1**
 
 ## Altos Labs (1 role(s))
 
