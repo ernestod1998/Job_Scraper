@@ -247,6 +247,139 @@ def scrape_company(company_name: str) -> list:
 
 
 # ---------------------------------------------------------------------------
+# Curated Bay Area biotechs — direct ATS probes (Greenhouse / Workday)
+# ---------------------------------------------------------------------------
+
+# Each entry must include: name, ats, fallback_location, and the ATS-specific id
+# - greenhouse: "slug" (used in boards-api.greenhouse.io/v1/boards/{slug}/jobs)
+# - workday:    "url"  (full /wday/cxs/{tenant}/{site}/jobs endpoint)
+CURATED_BIOTECHS = [
+    # ---- Greenhouse (confirmed via probes) ----
+    {"name": "10x Genomics",         "ats": "greenhouse", "slug": "10xgenomics",       "fallback_location": "Pleasanton, CA"},
+    {"name": "Twist Bioscience",     "ats": "greenhouse", "slug": "twistbioscience",   "fallback_location": "South San Francisco, CA"},
+    {"name": "Maze Therapeutics",    "ats": "greenhouse", "slug": "mazetherapeutics",  "fallback_location": "South San Francisco, CA"},
+    {"name": "Freenome",             "ats": "greenhouse", "slug": "freenome",          "fallback_location": "South San Francisco, CA"},
+    {"name": "Cytokinetics",         "ats": "greenhouse", "slug": "cytokinetics",      "fallback_location": "South San Francisco, CA"},
+    {"name": "Natera",               "ats": "greenhouse", "slug": "natera",            "fallback_location": "San Carlos, CA"},
+    {"name": "Inceptive",            "ats": "greenhouse", "slug": "inceptive",         "fallback_location": "Palo Alto, CA"},
+    {"name": "Atomwise",             "ats": "greenhouse", "slug": "atomwise",          "fallback_location": "San Francisco, CA"},
+    {"name": "Profluent",            "ats": "greenhouse", "slug": "profluent",         "fallback_location": "Berkeley, CA"},
+    {"name": "Eikon Therapeutics",   "ats": "greenhouse", "slug": "eikontherapeutics", "fallback_location": "South San Francisco, CA"},
+    {"name": "Altos Labs",           "ats": "greenhouse", "slug": "altoslabs",         "fallback_location": "Redwood City, CA"},
+    {"name": "Arc Institute",        "ats": "greenhouse", "slug": "arcinstitute",      "fallback_location": "Palo Alto, CA"},
+    {"name": "Caribou Biosciences",  "ats": "greenhouse", "slug": "caribou",           "fallback_location": "Berkeley, CA"},
+    {"name": "Octant Bio",           "ats": "greenhouse", "slug": "octantbio",         "fallback_location": "Emeryville, CA"},
+    # ---- Workday (confirmed) ----
+    {"name": "Gilead Sciences",      "ats": "workday",
+     "url": "https://gilead.wd1.myworkdayjobs.com/wday/cxs/gilead/gileadcareers/jobs",
+     "fallback_location": "Foster City, CA"},
+]
+
+
+def probe_curated_greenhouse(entry: dict) -> list:
+    time.sleep(REQUEST_DELAY)
+    url = f"https://boards-api.greenhouse.io/v1/boards/{entry['slug']}/jobs?content=true"
+    raw = fetch(url)
+    if not raw:
+        return []
+    try:
+        data = json.loads(raw)
+    except json.JSONDecodeError:
+        return []
+    jobs = []
+    for job in data.get("jobs", []):
+        title = job.get("title", "")
+        if not is_mle_role(title):
+            continue
+        loc = (job.get("location") or {}).get("name", "") or entry["fallback_location"]
+        jobs.append({
+            "company": entry["name"],
+            "title": title,
+            "location": loc,
+            "url": job.get("absolute_url", f"https://boards.greenhouse.io/{entry['slug']}"),
+            "date_posted": (job.get("updated_at") or "")[:10],
+            "ats": "Greenhouse",
+        })
+    return jobs
+
+
+WORKDAY_SEARCH_TERMS = [
+    "machine learning",
+    "data scientist",
+    "applied scientist",
+    "computational biology",
+    "bioinformatics",
+    "AI engineer",
+]
+
+
+def probe_curated_workday(entry: dict) -> list:
+    """
+    Workday's /jobs endpoint sometimes 400s on empty searchText, so we hit it
+    once per term and dedupe by externalPath.
+    """
+    domain_m = re.match(r'https://([^/]+)', entry["url"])
+    domain = domain_m.group(1) if domain_m else ""
+    site_m = re.search(r'/wday/cxs/[^/]+/([^/]+)/jobs', entry["url"])
+    site = site_m.group(1) if site_m else ""
+
+    seen: dict[str, dict] = {}
+    for term in WORKDAY_SEARCH_TERMS:
+        time.sleep(REQUEST_DELAY)
+        body = json.dumps({"appliedFacets": {}, "limit": 20, "offset": 0, "searchText": term}).encode()
+        try:
+            req = Request(
+                entry["url"],
+                data=body,
+                headers={**HEADERS, "Content-Type": "application/json", "Accept": "application/json"},
+            )
+            with urlopen(req, timeout=15) as r:
+                data = json.loads(r.read().decode("utf-8", errors="ignore"))
+        except (URLError, TimeoutError, OSError, json.JSONDecodeError) as e:
+            print(f"  ⚠️  Workday {entry['name']} ({term!r}): {e}")
+            continue
+
+        for posting in data.get("jobPostings", []):
+            ext_path = posting.get("externalPath", "")
+            if ext_path in seen:
+                continue
+            title = posting.get("title", "")
+            if not is_mle_role(title):
+                continue
+            public_url = f"https://{domain}/{site}{ext_path}" if ext_path else entry["url"]
+            loc = posting.get("locationsText", "") or entry["fallback_location"]
+            # Workday summarizes multi-location roles as "N Locations" — assume HQ
+            if re.match(r'^\d+ Locations?$', loc):
+                loc = entry["fallback_location"]
+            seen[ext_path] = {
+                "company": entry["name"],
+                "title": title,
+                "location": loc,
+                "url": public_url,
+                "date_posted": (posting.get("postedOn") or "")[:10],
+                "ats": "Workday",
+            }
+    return list(seen.values())
+
+
+def scrape_curated_biotechs() -> list:
+    print(f"🔬 Scraping {len(CURATED_BIOTECHS)} curated Bay Area biotechs...")
+    all_jobs: list = []
+    for entry in CURATED_BIOTECHS:
+        if entry["ats"] == "greenhouse":
+            jobs = probe_curated_greenhouse(entry)
+        elif entry["ats"] == "workday":
+            jobs = probe_curated_workday(entry)
+        else:
+            print(f"  ⚠️  Unknown ATS for {entry['name']}: {entry['ats']}")
+            continue
+        if jobs:
+            print(f"  ✅ {entry['name']}: {len(jobs)} role(s)")
+            all_jobs.extend(jobs)
+    return all_jobs
+
+
+# ---------------------------------------------------------------------------
 # Genentech — custom Phenom ATS, kept as standalone
 # ---------------------------------------------------------------------------
 
@@ -317,11 +450,12 @@ LINKEDIN_SEARCH_TERMS = [
     "cheminformatics",
 ]
 
-# (label, seconds) — iterate smallest first so tightest bucket wins on dedupe
-LINKEDIN_BUCKETS = [("1h", 3600), ("6h", 21600), ("24h", 86400)]
+# Only the past hour — fresh roles, no noise
+LINKEDIN_LOOKBACK_SECONDS = 3600
 
 
 def _parse_linkedin_cards(html: str) -> list[dict]:
+    import html as html_mod
     cards = re.split(r'<li[^>]*>', html)[1:]
     parsed = []
     for card in cards:
@@ -336,15 +470,21 @@ def _parse_linkedin_cards(html: str) -> list[dict]:
         location_m = re.search(r'job-search-card__location[^>]*>\s*([^<]+)', card)
         time_m = re.search(r'<time[^>]*datetime="([^"]+)"', card)
 
-        title = title_m.group(1).strip() if title_m else ""
+        title = html_mod.unescape(title_m.group(1).strip()) if title_m else ""
         if not title or not is_mle_role(title):
             continue
-        company = re.sub(r'\s+', ' ', company_m.group(1).strip()) if company_m else "Unknown"
+        company = (
+            html_mod.unescape(re.sub(r'\s+', ' ', company_m.group(1).strip()))
+            if company_m else "Unknown"
+        )
+        location = html_mod.unescape(
+            (location_m.group(1).strip() if location_m else "")
+        ).replace("\n", " ")
         parsed.append({
             "id": urn.group(1),
             "company": company,
             "title": title,
-            "location": (location_m.group(1).strip() if location_m else "").replace("\n", " "),
+            "location": location,
             "date_posted": time_m.group(1) if time_m else "",
         })
     return parsed
@@ -352,51 +492,44 @@ def _parse_linkedin_cards(html: str) -> list[dict]:
 
 def scrape_linkedin_recent() -> list:
     """
-    Hits LinkedIn's public guest endpoint, bucketed past 1h / 6h / 24h.
-    Each job is tagged with its tightest bucket. Biotech + pharma industries.
+    Hits LinkedIn's public guest endpoint for SF Bay Area MLE/DS roles
+    posted in the last hour. Returns a flat, deduped, recency-sorted list.
     """
-    print("🔎 Scraping LinkedIn (last 1h / 6h / 24h)...")
+    print("🔎 Scraping LinkedIn (last 1h)...")
     jobs_by_id: dict[str, dict] = {}
 
-    for bucket_label, seconds in LINKEDIN_BUCKETS:
-        for term in LINKEDIN_SEARCH_TERMS:
-            for start in range(0, 75, 25):
-                time.sleep(REQUEST_DELAY)
-                url = (
-                    "https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search"
-                    f"?keywords={urllib.parse.quote(term)}"
-                    "&location=San%20Francisco%20Bay%20Area"
-                    "&geoId=90000084"
-                    f"&f_TPR=r{seconds}"
-                    f"&start={start}"
-                )
-                html = fetch(url)
-                if not html.strip():
-                    break
-                parsed = _parse_linkedin_cards(html)
-                if not parsed:
-                    break
-                for p in parsed:
-                    # tightest bucket wins — don't overwrite if already seen
-                    if p["id"] in jobs_by_id:
-                        continue
-                    jobs_by_id[p["id"]] = {
-                        "company": p["company"],
-                        "title": p["title"],
-                        "location": p["location"],
-                        "url": f"https://www.linkedin.com/jobs/view/{p['id']}/",
-                        "date_posted": p["date_posted"],
-                        "ats": "LinkedIn",
-                        "freshness": bucket_label,
-                    }
+    for term in LINKEDIN_SEARCH_TERMS:
+        for start in range(0, 75, 25):
+            time.sleep(REQUEST_DELAY)
+            url = (
+                "https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search"
+                f"?keywords={urllib.parse.quote(term)}"
+                "&location=San%20Francisco%20Bay%20Area"
+                "&geoId=90000084"
+                f"&f_TPR=r{LINKEDIN_LOOKBACK_SECONDS}"
+                f"&start={start}"
+            )
+            html = fetch(url)
+            if not html.strip():
+                break
+            parsed = _parse_linkedin_cards(html)
+            if not parsed:
+                break
+            for p in parsed:
+                if p["id"] in jobs_by_id:
+                    continue
+                jobs_by_id[p["id"]] = {
+                    "company": p["company"],
+                    "title": p["title"],
+                    "location": p["location"],
+                    "url": f"https://www.linkedin.com/jobs/view/{p['id']}/",
+                    "date_posted": p["date_posted"],
+                    "ats": "LinkedIn",
+                }
 
     jobs = list(jobs_by_id.values())
-    # sort: tightest bucket first, then most-recent datetime first
-    bucket_order = {b[0]: i for i, b in enumerate(LINKEDIN_BUCKETS)}
-    jobs.sort(key=lambda j: (bucket_order.get(j.get("freshness", "24h"), 99),
-                             -_iso_to_ts(j.get("date_posted", ""))))
-    bucket_counts = {b[0]: sum(1 for j in jobs if j["freshness"] == b[0]) for b in LINKEDIN_BUCKETS}
-    print(f"  ✅ LinkedIn: {len(jobs)} role(s) — {bucket_counts}")
+    jobs.sort(key=lambda j: -_iso_to_ts(j.get("date_posted", "")))
+    print(f"  ✅ LinkedIn: {len(jobs)} role(s) in last hour")
     return jobs
 
 
@@ -416,25 +549,92 @@ def save_linkedin_results(jobs: list):
         json.dump(output, f, indent=2)
 
     lines = [
-        "# 🔥 LinkedIn — MLE / DS / Applied Science (SF Bay Area)",
+        "# 🔥 LinkedIn — Last Hour MLE / DS Roles (SF Bay Area)",
         f"*Last updated: {timestamp}*\n",
-        f"**Total roles found: {len(jobs)}**\n",
+        f"**{len(jobs)} role(s) posted in the last hour**\n",
     ]
-    for bucket_label, _ in LINKEDIN_BUCKETS:
-        bucket_jobs = [j for j in jobs if j.get("freshness") == bucket_label]
-        if not bucket_jobs:
-            continue
-        lines.append(f"## Posted in last {bucket_label} — {len(bucket_jobs)} role(s)\n")
-        for job in bucket_jobs:
-            lines.append(f"### [{job['title']}]({job['url']}) — {job['company']}")
-            lines.append(f"- 📍 **Location:** {job['location'] or 'Not specified'}")
-            if job.get("date_posted"):
-                lines.append(f"- 🕒 **Posted:** {job['date_posted']}")
-            lines.append("")
-
+    for job in jobs:
+        lines.append(f"### [{job['title']}]({job['url']}) — {job['company']}")
+        lines.append(f"- 📍 **Location:** {job['location'] or 'Not specified'}")
+        if job.get("date_posted"):
+            lines.append(f"- 🕒 **Posted:** {job['date_posted']}")
+        lines.append("")
     with open(os.path.join(SCRIPT_DIR, "linkedin_jobs.md"), "w") as f:
         f.write("\n".join(lines))
-    print(f"📄 Saved linkedin_jobs.json and linkedin_jobs.md ({len(jobs)} roles)")
+
+    with open(os.path.join(SCRIPT_DIR, "linkedin_jobs.html"), "w") as f:
+        f.write(_render_jobs_html(
+            title="🔥 LinkedIn — Last Hour MLE / DS",
+            subtitle="SF Bay Area · posted in the last hour",
+            timestamp=timestamp,
+            jobs=jobs,
+            empty_message="No new roles posted in the last hour.",
+            accent="#ff6b35",
+        ))
+    print(f"📄 Saved linkedin_jobs.json/.md/.html ({len(jobs)} roles)")
+
+
+def _render_jobs_html(*, title: str, subtitle: str, timestamp: str,
+                      jobs: list, empty_message: str, accent: str) -> str:
+    import html as html_mod
+
+    if not jobs:
+        body = f'<div class="empty">{html_mod.escape(empty_message)}</div>'
+    else:
+        cards = []
+        for j in jobs:
+            posted = (
+                f'<span class="meta-item">🕒 Posted {html_mod.escape(j["date_posted"])}</span>'
+                if j.get("date_posted") else ""
+            )
+            ats_tag = (
+                f'<span class="ats">{html_mod.escape(j["ats"])}</span>'
+                if j.get("ats") else ""
+            )
+            cards.append(
+                f'<div class="job">'
+                f'<div class="title"><a href="{html_mod.escape(j["url"])}">'
+                f'{html_mod.escape(j["title"])}</a></div>'
+                f'<div class="company">{html_mod.escape(j["company"])} {ats_tag}</div>'
+                f'<div class="meta">'
+                f'<span class="meta-item">📍 {html_mod.escape(j["location"] or "Not specified")}</span>'
+                f'{posted}'
+                f'</div></div>'
+            )
+        body = "\n".join(cards)
+
+    return f"""<!DOCTYPE html>
+<html><head><meta charset="utf-8"><style>
+body {{ font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  max-width: 720px; margin: 24px auto; padding: 0 16px; color: #1a1a1a; background: #fff; line-height: 1.5; }}
+h1 {{ font-size: 22px; margin: 0 0 4px 0; }}
+.subtitle {{ color: #666; font-size: 14px; margin-bottom: 16px; }}
+.summary {{ background: #fff7f2; padding: 12px 16px; border-left: 4px solid {accent};
+  margin: 16px 0; border-radius: 4px; font-size: 14px; }}
+.summary strong {{ font-size: 18px; color: {accent}; }}
+.job {{ background: #fafafa; border: 1px solid #e8e8e8; border-radius: 8px;
+  padding: 14px 18px; margin-bottom: 10px; }}
+.title {{ font-size: 16px; font-weight: 600; margin-bottom: 4px; }}
+.title a {{ color: #0a66c2; text-decoration: none; }}
+.title a:hover {{ text-decoration: underline; }}
+.company {{ color: #444; font-weight: 500; margin-bottom: 8px; font-size: 14px; }}
+.ats {{ display: inline-block; background: #eaf3fb; color: #0a66c2; font-size: 11px;
+  padding: 1px 8px; border-radius: 10px; font-weight: 500; margin-left: 6px; vertical-align: middle; }}
+.meta {{ font-size: 13px; color: #666; }}
+.meta-item {{ margin-right: 14px; }}
+.empty {{ color: #999; font-style: italic; padding: 28px; text-align: center;
+  background: #fafafa; border-radius: 8px; border: 1px dashed #ddd; }}
+.foot {{ margin-top: 28px; padding-top: 12px; border-top: 1px solid #eee;
+  color: #888; font-size: 12px; text-align: center; }}
+.foot a {{ color: #0a66c2; }}
+</style></head>
+<body>
+<h1>{title}</h1>
+<div class="subtitle">{subtitle}</div>
+<div class="summary"><strong>{len(jobs)}</strong> role(s) &nbsp;·&nbsp; scraped {timestamp}</div>
+{body}
+<div class="foot">Auto-generated by <a href="https://github.com/ernestod1998/Job_Scraper">Job_Scraper</a></div>
+</body></html>"""
 
 
 # ---------------------------------------------------------------------------
@@ -467,7 +667,17 @@ def save_results(jobs: list):
     with open(os.path.join(SCRIPT_DIR, "jobs.md"), "w") as f:
         f.write("\n".join(lines))
 
-    print(f"\n📄 Saved jobs.json and jobs.md ({len(jobs)} total roles)")
+    with open(os.path.join(SCRIPT_DIR, "jobs.html"), "w") as f:
+        f.write(_render_jobs_html(
+            title="🧬 Biotech MLE Job Listings",
+            subtitle="SF Bay Area · daily curated sweep",
+            timestamp=timestamp,
+            jobs=jobs,
+            empty_message="No biotech roles found today.",
+            accent="#2ea04f",
+        ))
+
+    print(f"\n📄 Saved jobs.json/.md/.html ({len(jobs)} total roles)")
 
 
 # ---------------------------------------------------------------------------
@@ -480,15 +690,8 @@ if __name__ == "__main__":
         save_linkedin_results(linkedin_jobs)
         sys.exit(0)
 
-    companies = get_biotech_companies()
     all_jobs = list(scrape_genentech())
-
-    for i, company_name in enumerate(companies, start=1):
-        print(f"[{i}/{len(companies)}] Checking {company_name}...")
-        jobs = scrape_company(company_name)
-        if jobs:
-            print(f"  ✅ Found {len(jobs)} MLE role(s)")
-            all_jobs.extend(jobs)
+    all_jobs.extend(scrape_curated_biotechs())
 
     before = len(all_jobs)
     all_jobs = [j for j in all_jobs if is_bay_area(j.get("location", ""))]

@@ -2,12 +2,12 @@ name: LinkedIn MLE/DS Watcher
 
 on:
   schedule:
-    # 8am PT  (PDT 15:00 UTC / PST 16:00 UTC) — morning
-    - cron: "0 15 * * *"
-    # 12pm PT (PDT 19:00 UTC / PST 20:00 UTC) — midday
-    - cron: "0 19 * * *"
-    # 6pm PT  (PDT 01:00 UTC next / PST 02:00 UTC next) — evening
-    - cron: "0 1 * * *"
+    # 9am PT  (PDT 16:00 UTC / PST 17:00 UTC) — morning
+    - cron: "0 16 * * *"
+    # 1pm PT  (PDT 20:00 UTC / PST 21:00 UTC) — early afternoon
+    - cron: "0 20 * * *"
+    # 5pm PT  (PDT 00:00 UTC next / PST 01:00 UTC next) — end of work day
+    - cron: "0 0 * * *"
 
   workflow_dispatch:
 
@@ -28,14 +28,14 @@ jobs:
         with:
           python-version: "3.11"
 
-      - name: Scrape LinkedIn (last 1h / 6h / 24h)
+      - name: Scrape LinkedIn (last 1h)
         run: python scrape_jobs.py --linkedin-only
 
       - name: Commit results to repo
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add linkedin_jobs.json linkedin_jobs.md
+          git add linkedin_jobs.json linkedin_jobs.md linkedin_jobs.html
           git diff --cached --quiet || git commit -m "chore: update linkedin listings [$(date -u '+%Y-%m-%d %H:%MZ')]"
           git pull --rebase origin main
           git push
@@ -58,25 +58,28 @@ jobs:
               data = json.load(f)
           with open("linkedin_jobs.md") as f:
               body_md = f.read()
+          with open("linkedin_jobs.html") as f:
+              body_html = f.read()
 
           total = data["total"]
           scraped_at = data["scraped_at"]
 
           hour_utc = datetime.now(timezone.utc).hour
-          if hour_utc in (15, 16):
+          if hour_utc in (16, 17):
               slot = "Morning"
-          elif hour_utc in (19, 20):
-              slot = "Midday"
+          elif hour_utc in (20, 21):
+              slot = "Afternoon"
           else:
               slot = "Evening"
 
-          subject = f"🔥 LinkedIn MLE/DS — {total} role(s) [{scraped_at[:10]} {slot}]"
+          subject = f"🔥 LinkedIn {slot} — {total} role(s) in last hour [{scraped_at[:10]}]"
 
           msg = MIMEMultipart("alternative")
           msg["Subject"] = subject
           msg["From"] = user
           msg["To"] = user
-          msg.attach(MIMEText(body_md, "plain"))
+          msg.attach(MIMEText(body_md, "plain", "utf-8"))
+          msg.attach(MIMEText(body_html, "html", "utf-8"))
 
           with smtplib.SMTP_SSL("smtp.gmail.com", 465) as smtp:
               smtp.login(user, password)
