@@ -1,5 +1,5 @@
 # 🧬 Biotech MLE Job Listings (SF Bay Area)
-*Last updated: 2026-04-25 03:54 UTC*
+*Last updated: 2026-04-26 04:25 UTC*
 
 **Total roles found: 6**
 
@@ -23,7 +23,7 @@
 
 ### [Exec Director, Commercial Data Science and Data Management](https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---New-Jersey---Parsippany/Exec-Director--Commercial-Data-Science-and-Data-Management_R0051466-3)
 - 📍 **Location:** Foster City, CA
-- 📅 **Posted:** Posted 11 
+- 📅 **Posted:** Posted 12 
 
 ## Profluent (2 role(s))
 
