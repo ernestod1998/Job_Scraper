@@ -2,12 +2,9 @@ name: LinkedIn MLE/DS Watcher
 
 on:
   schedule:
-    # 9am PT  (PDT 16:00 UTC / PST 17:00 UTC) — morning
-    - cron: "0 16 * * *"
-    # 1pm PT  (PDT 20:00 UTC / PST 21:00 UTC) — early afternoon
-    - cron: "0 20 * * *"
-    # 5pm PT  (PDT 00:00 UTC next / PST 01:00 UTC next) — end of work day
-    - cron: "0 0 * * *"
+    # Candidate UTC hours for 8am, 11am, 2pm, 5pm, and 8pm PT.
+    # A Pacific-time gate below handles PDT/PST daylight saving shifts.
+    - cron: "0 0,1,3,4,15,16,18,19,21,22 * * *"
 
   workflow_dispatch:
 
@@ -20,18 +17,41 @@ jobs:
       contents: write
 
     steps:
+      - name: Check Pacific schedule
+        id: schedule_gate
+        run: |
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            echo "should_run=true" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+
+          hour_pt="$(TZ=America/Los_Angeles date +'%H')"
+          case "$hour_pt" in
+            08|11|14|17|20)
+              echo "should_run=true" >> "$GITHUB_OUTPUT"
+              ;;
+            *)
+              echo "should_run=false" >> "$GITHUB_OUTPUT"
+              echo "Skipping LinkedIn watcher outside target PT hours. Current PT hour: $hour_pt"
+              ;;
+          esac
+
       - name: Checkout repo
+        if: steps.schedule_gate.outputs.should_run == 'true'
         uses: actions/checkout@v4
 
       - name: Set up Python
+        if: steps.schedule_gate.outputs.should_run == 'true'
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
 
       - name: Scrape LinkedIn (last 1h)
+        if: steps.schedule_gate.outputs.should_run == 'true'
         run: python scrape_jobs.py --linkedin-only
 
       - name: Commit results to repo
+        if: steps.schedule_gate.outputs.should_run == 'true'
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
@@ -41,15 +61,17 @@ jobs:
           git push
 
       - name: Send email with results
+        if: steps.schedule_gate.outputs.should_run == 'true'
         env:
           GMAIL_USER: ${{ secrets.GMAIL_USER }}
           GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
         run: |
           python - <<'EOF'
           import os, smtplib, json
-          from datetime import datetime, timezone
+          from datetime import datetime
           from email.mime.multipart import MIMEMultipart
           from email.mime.text import MIMEText
+          from zoneinfo import ZoneInfo
 
           user = os.environ["GMAIL_USER"]
           password = os.environ["GMAIL_APP_PASSWORD"]
@@ -64,13 +86,10 @@ jobs:
           total = data["total"]
           scraped_at = data["scraped_at"]
 
-          hour_utc = datetime.now(timezone.utc).hour
-          if hour_utc in (16, 17):
-              slot = "Morning"
-          elif hour_utc in (20, 21):
-              slot = "Afternoon"
-          else:
-              slot = "Evening"
+          now_pt = datetime.now(ZoneInfo("America/Los_Angeles"))
+          hour = now_pt.hour % 12 or 12
+          suffix = "AM" if now_pt.hour < 12 else "PM"
+          slot = f"{hour}{suffix} PT"
 
           subject = f"🔥 LinkedIn {slot} — {total} role(s) in last hour [{scraped_at[:10]}]"
 

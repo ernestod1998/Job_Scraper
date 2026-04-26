@@ -10,7 +10,7 @@ import re
 import sys
 import time
 import urllib.parse
-from datetime import datetime
+from datetime import datetime, timedelta, timezone
 from urllib.request import urlopen, Request
 from urllib.error import URLError
 
@@ -40,6 +40,9 @@ KEYWORDS = [
 
 # Seconds to wait between API probes — keeps us polite
 REQUEST_DELAY = 0.3
+
+# Biotech email should only contain reliably fresh roles.
+FRESH_JOB_LOOKBACK = timedelta(hours=24)
 
 
 # ---------------------------------------------------------------------------
@@ -93,6 +96,69 @@ def extract_location(job: dict) -> str:
         state = addr.get("addressRegion", "")
         return f"{city}, {state}".strip(", ")
     return str(addr)
+
+
+def _parse_posted_at(value: str, *, now: datetime | None = None) -> datetime | None:
+    """
+    Parse ATS posting dates into UTC datetimes.
+
+    Some ATS APIs return exact ISO dates/datetimes, while Workday often returns
+    relative strings like "Posted Today" or "Posted 3 hours ago".
+    """
+    if now is None:
+        now = datetime.now(timezone.utc)
+    elif now.tzinfo is None:
+        now = now.replace(tzinfo=timezone.utc)
+    else:
+        now = now.astimezone(timezone.utc)
+
+    raw = (value or "").strip()
+    if not raw:
+        return None
+
+    text = re.sub(r'\s+', ' ', raw).strip().lower()
+    text = text.removeprefix("posted ").strip()
+
+    if text in {"today", "just posted", "just now"}:
+        return now
+
+    relative_m = re.search(
+        r'(\d+)\s*(minutes?|mins?|hours?|hrs?)\b(?:\s*ago)?',
+        text,
+    )
+    if relative_m:
+        amount = int(relative_m.group(1))
+        unit = relative_m.group(2)
+        if unit.startswith(("minute", "min")):
+            return now - timedelta(minutes=amount)
+        return now - timedelta(hours=amount)
+
+    iso_value = raw.replace("Z", "+00:00")
+    try:
+        if re.fullmatch(r'\d{4}-\d{2}-\d{2}', iso_value):
+            parsed = datetime.strptime(iso_value, "%Y-%m-%d").replace(tzinfo=timezone.utc)
+        else:
+            parsed = datetime.fromisoformat(iso_value)
+            if parsed.tzinfo is None:
+                parsed = parsed.replace(tzinfo=timezone.utc)
+            else:
+                parsed = parsed.astimezone(timezone.utc)
+        return parsed
+    except ValueError:
+        return None
+
+
+def is_recent_posting(job: dict, *, now: datetime | None = None) -> bool:
+    posted_at = _parse_posted_at(job.get("date_posted", ""), now=now)
+    if posted_at is None:
+        return False
+    if now is None:
+        now = datetime.now(timezone.utc)
+    elif now.tzinfo is None:
+        now = now.replace(tzinfo=timezone.utc)
+    else:
+        now = now.astimezone(timezone.utc)
+    return timedelta(0) <= now - posted_at <= FRESH_JOB_LOOKBACK
 
 
 # ---------------------------------------------------------------------------
@@ -356,7 +422,7 @@ def probe_curated_workday(entry: dict) -> list:
                 "title": title,
                 "location": loc,
                 "url": public_url,
-                "date_posted": (posting.get("postedOn") or "")[:10],
+                "date_posted": posting.get("postedOn") or "",
                 "ats": "Workday",
             }
     return list(seen.values())
@@ -543,7 +609,7 @@ def _iso_to_ts(iso: str) -> float:
 
 
 def save_linkedin_results(jobs: list):
-    timestamp = datetime.utcnow().strftime("%Y-%m-%d %H:%M UTC")
+    timestamp = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
     output = {"scraped_at": timestamp, "total": len(jobs), "jobs": jobs}
     with open(os.path.join(SCRIPT_DIR, "linkedin_jobs.json"), "w") as f:
         json.dump(output, f, indent=2)
@@ -642,16 +708,16 @@ h1 {{ font-size: 22px; margin: 0 0 4px 0; }}
 # ---------------------------------------------------------------------------
 
 def save_results(jobs: list):
-    timestamp = datetime.utcnow().strftime("%Y-%m-%d %H:%M UTC")
+    timestamp = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
 
     output = {"scraped_at": timestamp, "total": len(jobs), "jobs": jobs}
     with open(os.path.join(SCRIPT_DIR, "jobs.json"), "w") as f:
         json.dump(output, f, indent=2)
 
     lines = [
-        "# 🧬 Biotech MLE Job Listings (SF Bay Area)",
+        "# 🧬 Fresh Biotech MLE Job Listings (SF Bay Area)",
         f"*Last updated: {timestamp}*\n",
-        f"**Total roles found: {len(jobs)}**\n",
+        f"**{len(jobs)} role(s) posted in the last 24 hours**\n",
     ]
 
     for company in sorted(set(j["company"] for j in jobs)):
@@ -669,11 +735,11 @@ def save_results(jobs: list):
 
     with open(os.path.join(SCRIPT_DIR, "jobs.html"), "w") as f:
         f.write(_render_jobs_html(
-            title="🧬 Biotech MLE Job Listings",
-            subtitle="SF Bay Area · daily curated sweep",
+            title="🧬 Fresh Biotech MLE Job Listings",
+            subtitle="SF Bay Area · posted in the last 24 hours",
             timestamp=timestamp,
             jobs=jobs,
-            empty_message="No biotech roles found today.",
+            empty_message="No biotech roles posted in the last 24 hours.",
             accent="#2ea04f",
         ))
 
@@ -696,5 +762,9 @@ if __name__ == "__main__":
     before = len(all_jobs)
     all_jobs = [j for j in all_jobs if is_bay_area(j.get("location", ""))]
     print(f"\n📍 Bay Area filter: {before} → {len(all_jobs)} roles")
+
+    before = len(all_jobs)
+    all_jobs = [j for j in all_jobs if is_recent_posting(j)]
+    print(f"🕒 Freshness filter (last 24h): {before} → {len(all_jobs)} roles")
 
     save_results(all_jobs)

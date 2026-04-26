@@ -1,71 +1,88 @@
-# 🧬 Biotech MLE Job Scraper
+# 🧬 Bay Area MLE / DS Job Scraper
 
-A GitHub Actions workflow that automatically scrapes **Machine Learning Engineer and related AI/data roles** from ~337 biotech company career pages — 50 companies per day, cycling through the full list continuously.
+Two GitHub Actions workflows that scrape **Machine Learning Engineer, Data Science, and related AI/ML roles** in the SF Bay Area and email the results as an HTML digest.
 
-## How It Works
+## What It Does
 
-1. **Scheduled trigger** — runs daily at 9am PT
-2. **Wikipedia discovery** — fetches the current list of US biotech companies dynamically (no hard-coded list)
-3. **ATS probing** — tries Greenhouse and Lever public JSON APIs for each company using generated URL slugs
-4. **Genentech** — scraped separately via their Phenom ATS careers page
-5. **50 companies/day limit** — progress is tracked in `scrape_progress.json` and committed back to the repo; after all companies are checked, it resets and starts over
-6. Results saved to `jobs.json` and `jobs.md`, auto-committed, and emailed to you
+### 1. Curated Bay Area biotech sweep — daily at 6pm PT
+Probes a hand-picked list of Bay Area biotech career boards directly:
+
+- **Greenhouse** — 10x Genomics, Twist Bioscience, Maze Therapeutics, Freenome, Cytokinetics, Natera, Inceptive, Atomwise, Profluent, Eikon Therapeutics, Altos Labs, Arc Institute, Caribou Biosciences, Octant Bio
+- **Workday** — Gilead Sciences (multi-term search across the Workday CXS API)
+- **Phenom** — Genentech (HTML + JSON-LD parse of the careers page)
+
+Results are filtered to Bay Area locations and reliable posting dates from the last 24 hours only. Output goes to `jobs.json`, `jobs.md`, and `jobs.html`, then auto-committed when changed. The workflow skips the email when there are no fresh biotech roles.
+
+### 2. LinkedIn last-hour watcher — every 3 hours through 8pm PT
+Hits LinkedIn's public guest endpoint for SF Bay Area roles posted in **the last hour** across multiple search terms, dedupes by job ID, and sorts by recency. Output goes to `linkedin_jobs.json`, `linkedin_jobs.md`, and `linkedin_jobs.html`.
+
+Runs at **8am, 11am, 2pm, 5pm, and 8pm Pacific time**. The workflow uses a Pacific-time gate so the cadence stays correct across PDT/PST daylight saving changes.
+
+> ⚠️ Uses the unauthenticated public guest endpoint only — **never** signs in with a user account and does not use LinkedIn cookies, tokens, or credentials.
 
 ## Keywords Matched
 
-Roles are included if the job title contains any of:
+A title is included if it contains any of:
 
-- `machine learning engineer`
-- `ml engineer`
-- `mle`
-- `machine learning infra`
-- `applied scientist`
-- `ai engineer`
-- `research engineer`
-- `data scientist`
-- `mlops`
+`machine learning engineer`, `ml engineer`, `mle`, `machine learning infra`, `ai engineer`, `mlops`, `research engineer`, `applied scientist`, `ai scientist`, `ml scientist`, `data scientist`, `data science`, `computational scientist`, `computational biologist`, `bioinformatics scientist`, `bioinformatics engineer`, `cheminformatics`
 
 ## Output Files
 
-- **`jobs.json`** — structured data with title, company, location, URL, and date posted
-- **`jobs.md`** — human-readable markdown (renders nicely on GitHub)
-- **`scrape_progress.json`** — tracks current position in the company list across daily runs
+| File | Source | Description |
+|---|---|---|
+| `jobs.json` / `.md` / `.html` | Curated biotech sweep | Bay-Area-filtered MLE/DS roles posted in the last 24 hours |
+| `linkedin_jobs.json` / `.md` / `.html` | LinkedIn watcher | Roles posted in the last hour |
+| `checked_companies.json` | (legacy) | Tracking file from earlier Wikipedia-based discovery |
+
+The `.html` files are styled email-ready digests; the `.md` files render nicely on GitHub.
+
+Both workflows keep a GitHub history of generated digests: result files are committed when changed, and each scheduled workflow still runs `git push`.
 
 ## Setup
 
-### 1. Gmail secrets (for email delivery)
+### Gmail secrets (for email delivery)
 
-Go to **Settings → Secrets and variables → Actions** and add:
+In **Settings → Secrets and variables → Actions**:
 
 | Secret | Value |
 |---|---|
-| `GMAIL_USER` | Your Gmail address |
-| `GMAIL_APP_PASSWORD` | A [Gmail App Password](https://myaccount.google.com/apppasswords) |
+| `GMAIL_USER` | Gmail address |
+| `GMAIL_APP_PASSWORD` | [Gmail App Password](https://myaccount.google.com/apppasswords) |
 
-### 2. Run manually
+Both workflows email `GMAIL_USER` from `GMAIL_USER` via `smtp.gmail.com:465`.
 
-Go to **Actions → Biotech MLE Job Scraper → Run workflow**
+### Run manually
+
+From the **Actions** tab:
+- *Biotech MLE Job Scraper* → Run workflow (full sweep)
+- *LinkedIn MLE/DS Watcher* → Run workflow (last hour only)
 
 Or locally:
 ```bash
-python scrape_jobs.py
+python scrape_jobs.py                  # full curated sweep
+python scrape_jobs.py --linkedin-only  # LinkedIn last-hour only
 ```
+
+No third-party Python deps — uses only the standard library.
 
 ## Repo Structure
 
 ```
-├── scrape_jobs.py               # All scraping logic
-├── jobs.json                    # Latest results (auto-updated)
-├── jobs.md                      # Latest results in Markdown (auto-updated)
-├── scrape_progress.json         # Daily progress tracker (auto-updated)
-└── .github/
-    └── workflows/
-        └── scrape_jobs.yml      # GitHub Actions workflow
+├── scrape_jobs.py                  # All scraping logic
+├── jobs.{json,md,html}             # Curated biotech sweep output
+├── linkedin_jobs.{json,md,html}    # LinkedIn last-hour output
+├── checked_companies.json          # Legacy tracking file
+├── deep-dive/                      # Notes / analysis
+└── .github/workflows/
+    ├── scrape_jobs.yml             # Daily 6pm PT — fresh curated sweep
+    └── linkedin_watch.yml          # 8am / 11am / 2pm / 5pm / 8pm PT — LinkedIn
 ```
 
-## ATS API Patterns
+## ATS Endpoints Used
 
-| ATS | API URL |
+| ATS | Endpoint |
 |---|---|
-| Greenhouse | `https://boards-api.greenhouse.io/v1/boards/{company}/jobs` |
-| Lever | `https://api.lever.co/v0/postings/{company}?mode=json` |
+| Greenhouse | `https://boards-api.greenhouse.io/v1/boards/{slug}/jobs?content=true` |
+| Workday | `https://{tenant}.wd1.myworkdayjobs.com/wday/cxs/{tenant}/{site}/jobs` (POST) |
+| Phenom (Genentech) | `https://careers.gene.com/us/en/search-results` (HTML + JSON-LD) |
+| LinkedIn | `https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search` (public guest) |
