@@ -1,9 +1,9 @@
 name: Biotech MLE Job Scraper
 
 on:
-  # Candidate UTC hours for 6pm PT. A Pacific-time gate below handles PDT/PST.
+  # 1 AM UTC = 6 PM PDT / 5 PM PST — close enough year-round
   schedule:
-    - cron: "0 1,2 * * *"
+    - cron: "0 1 * * *"
 
   # Allow manual trigger from the Actions tab
   workflow_dispatch:
@@ -17,38 +17,18 @@ jobs:
       contents: write  # needed to commit results back to repo
 
     steps:
-      - name: Check Pacific schedule
-        id: schedule_gate
-        run: |
-          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
-            echo "should_run=true" >> "$GITHUB_OUTPUT"
-            exit 0
-          fi
-
-          hour_pt="$(TZ=America/Los_Angeles date +'%H')"
-          if [ "$hour_pt" = "18" ]; then
-            echo "should_run=true" >> "$GITHUB_OUTPUT"
-          else
-            echo "should_run=false" >> "$GITHUB_OUTPUT"
-            echo "Skipping biotech scraper outside 6pm PT. Current PT hour: $hour_pt"
-          fi
-
       - name: Checkout repo
-        if: steps.schedule_gate.outputs.should_run == 'true'
         uses: actions/checkout@v4
 
       - name: Set up Python
-        if: steps.schedule_gate.outputs.should_run == 'true'
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
 
       - name: Run scraper
-        if: steps.schedule_gate.outputs.should_run == 'true'
         run: python scrape_jobs.py
 
       - name: Commit results to repo
-        if: steps.schedule_gate.outputs.should_run == 'true'
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
@@ -58,7 +38,6 @@ jobs:
           git push
 
       - name: Check whether to send email
-        if: steps.schedule_gate.outputs.should_run == 'true'
         id: email_gate
         run: |
           python - <<'EOF' >> "$GITHUB_OUTPUT"
@@ -72,7 +51,7 @@ jobs:
           EOF
 
       - name: Send email with results
-        if: steps.schedule_gate.outputs.should_run == 'true' && steps.email_gate.outputs.should_email == 'true'
+        if: steps.email_gate.outputs.should_email == 'true'
         env:
           GMAIL_USER: ${{ secrets.GMAIL_USER }}
           GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
