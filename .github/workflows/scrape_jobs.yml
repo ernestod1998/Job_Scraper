@@ -1,9 +1,9 @@
 name: Biotech MLE Job Scraper
 
 on:
-  # Every 3 hours, 8 AM–8 PM PST (UTC-8): 16, 19, 22, 01, 04 UTC
+  # 1 AM UTC = 6 PM PDT / 5 PM PST — close enough year-round
   schedule:
-    - cron: "0 1,4,16,19,22 * * *"
+    - cron: "0 1 * * *"
 
   workflow_dispatch:
 
@@ -32,11 +32,25 @@ jobs:
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add jobs.json jobs.md jobs.html
-          git diff --cached --quiet || git commit -m "chore: update job listings [$(date -u '+%Y-%m-%d %H:%MZ')]"
+          git diff --cached --quiet || git commit -m "chore: update job listings [$(date -u '+%Y-%m-%d')]"
           git pull --rebase origin main
           git push
 
+      - name: Check whether to send email
+        id: email_gate
+        run: |
+          python - <<'EOF' >> "$GITHUB_OUTPUT"
+          import json
+
+          with open("jobs.json") as f:
+              data = json.load(f)
+
+          total = int(data.get("total", 0))
+          print(f"should_email={'true' if total > 0 else 'false'}")
+          EOF
+
       - name: Send email with results
+        if: steps.email_gate.outputs.should_email == 'true'
         env:
           GMAIL_USER: ${{ secrets.GMAIL_USER }}
           GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}

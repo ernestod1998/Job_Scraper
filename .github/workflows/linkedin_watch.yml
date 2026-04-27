@@ -2,9 +2,8 @@ name: LinkedIn MLE/DS Watcher
 
 on:
   schedule:
-    # 8 AM, 11 AM, 2 PM, 5 PM, 8 PM PDT = 15, 18, 21, 0, 3 UTC
-    # (shifts by 1 hour during PST — acceptable drift)
-    - cron: "0 0,3,15,18,21 * * *"
+    # Every 3 hours, 8 AM–8 PM PST (UTC-8): 16, 19, 22, 01, 04 UTC
+    - cron: "0 1,4,16,19,22 * * *"
 
   workflow_dispatch:
 
