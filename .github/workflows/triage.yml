@@ -40,7 +40,8 @@ jobs:
       # --limit bounds worst-case daily spend; raise/lower as the cost knob.
       - name: Run triage agent
         env:
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          # Gemini is the cheap ranking backend (triage_agent picks it first).
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           CANDIDATE_PROFILE: ${{ secrets.CANDIDATE_PROFILE }}
           CANDIDATE_RESUME: ${{ secrets.CANDIDATE_RESUME }}
         run: python triage_agent.py --limit 300

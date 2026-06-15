@@ -31,6 +31,7 @@ SCORES_PATH = os.path.join(SCRIPT_DIR, "scores.json")
 SOURCE_FILES = ["jobs.json", "linkedin_jobs.json", "indeed_jobs.json"]
 
 DEFAULT_MODEL = "claude-haiku-4-5-20251001"
+GEMINI_MODEL = "gemini-3.5-flash"  # used when GEMINI_API_KEY is set (cheap CI path)
 JD_MAX_CHARS = 6000
 # Direct page-fetch sources. LinkedIn is handled via its guest posting
 # endpoint and Indeed via the description the scraper saves — see fetch_jd().
@@ -260,7 +261,41 @@ def build_job_prompt(job: dict, jd_text: str) -> str:
 # ---------------------------------------------------------------------------
 
 def make_call_model(model: str):
-    """Returns call_model(static_prefix, job_prompt) -> str, picking the backend."""
+    """Returns call_model(static_prefix, job_prompt) -> str, picking the backend.
+
+    Priority: Gemini (cheapest, used in CI) > Anthropic API > local claude CLI.
+    """
+    if os.environ.get("GEMINI_API_KEY"):
+        gem_model = model if model.startswith("gemini") else GEMINI_MODEL
+        endpoint = (
+            f"https://generativelanguage.googleapis.com/v1beta/models/"
+            f"{gem_model}:generateContent"
+        )
+
+        def call_gemini(static_prefix: str, job_prompt: str) -> str:
+            body = json.dumps({
+                # system_instruction is the cacheable static prefix; Gemini 2.5
+                # applies implicit caching to repeated prefixes automatically.
+                "system_instruction": {"parts": [{"text": static_prefix}]},
+                "contents": [{"parts": [{"text": job_prompt}]}],
+                "generationConfig": {
+                    "maxOutputTokens": 700,
+                    "temperature": 0,
+                    "responseMimeType": "application/json",  # force clean JSON
+                },
+            }).encode("utf-8")
+            req = urllib.request.Request(
+                endpoint, data=body,
+                headers={"Content-Type": "application/json",
+                         "x-goog-api-key": os.environ["GEMINI_API_KEY"]},
+            )
+            with urllib.request.urlopen(req, timeout=MODEL_TIMEOUT) as r:
+                data = json.loads(r.read().decode("utf-8"))
+            return data["candidates"][0]["content"]["parts"][0]["text"]
+
+        print(f"🧠 backend: Gemini API ({gem_model})")
+        return call_gemini
+
     if os.environ.get("ANTHROPIC_API_KEY"):
         try:
             import anthropic
@@ -481,7 +516,9 @@ def main() -> int:
         # Save incrementally so an interrupted run keeps its progress.
         data.update({
             "scored_at": verdict["scored_at"],
-            "model": args.model if os.environ.get("ANTHROPIC_API_KEY") else "claude-cli",
+            "model": (GEMINI_MODEL if os.environ.get("GEMINI_API_KEY")
+                      else args.model if os.environ.get("ANTHROPIC_API_KEY")
+                      else "claude-cli"),
         })
         with open(SCORES_PATH, "w") as f:
             json.dump(data, f, separators=(",", ":"))  # compact: dashboard fetches this
