@@ -1,68 +1,88 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area)
-*Last updated: 2026-06-15 18:17 UTC*
+*Last updated: 2026-06-15 19:17 UTC*
 
-**16 new role(s)** since last run · 29 total in last 1h
+**21 new role(s)** since last run · 30 total in last 1h
 
-### [Data Engineer (I) [210497]](https://www.linkedin.com/jobs/view/4428897477/) — Aquent
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-06-15
-
-### [Data Engineer - Ai Startup  -SF](https://www.linkedin.com/jobs/view/4428368191/) — Benchstack Ai
-- 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-06-15
-
-### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4427728835/) — RUCKUS Networks
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-06-15
-
-### [ML Systems Engineer – Inference Serving](https://www.linkedin.com/jobs/view/4427729821/) — Oho Group
+### [AI/ML Engineer](https://www.linkedin.com/jobs/view/4426415837/) — TechDoQuest
 - 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-06-15
 
-### [System Software Engineer, Engineering Workflow Platform](https://www.linkedin.com/jobs/view/4426415604/) — NVIDIA AI
-- 📍 **Location:** Santa Clara, CA
+### [Front End Software Engineer](https://www.linkedin.com/jobs/view/4429115204/) — Candid Health
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-06-15
 
-### [System Software Engineer, Distributed Systems](https://www.linkedin.com/jobs/view/4426433019/) — NVIDIA AI
-- 📍 **Location:** Santa Clara, CA
+### [Machine Learning Engineer, E-Commerce Risk Control - USDS](https://www.linkedin.com/jobs/view/4429104833/) — TikTok USDS Joint Venture
+- 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-06-15
 
-### [Software Engineer Intern - Air Taxi](https://www.linkedin.com/jobs/view/4428892919/) — Joby Aviation
-- 📍 **Location:** San Carlos, CA
+### [Data Scientist, Ecommerce  - USDS](https://www.linkedin.com/jobs/view/4429121226/) — TikTok USDS Joint Venture
+- 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-06-15
 
-### [Sr. Software Engineer](https://www.linkedin.com/jobs/view/4427750029/) — Globality, Inc.
+### [Senior Machine Learning Engineer, Recommendations - USDS](https://www.linkedin.com/jobs/view/4429113303/) — TikTok USDS Joint Venture
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-06-15
+
+### [Software Engineer II (Fullstack/Java/React/Microservices) - *HYBRID*](https://www.linkedin.com/jobs/view/4427748188/) — GEICO
 - 📍 **Location:** Palo Alto, CA
 - 🕒 **Posted:** 2026-06-15
 
-### [Full Stack Engineer](https://www.linkedin.com/jobs/view/4427749026/) — XTrace
-- 📍 **Location:** San Francisco Bay Area
+### [Software Engineer, Search - USDS](https://www.linkedin.com/jobs/view/4429103894/) — TikTok USDS Joint Venture
+- 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-06-15
 
-### [Senior AI-Native Full-Stack Engineer](https://www.linkedin.com/jobs/view/4425771673/) — Cliq Consulting
-- 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-06-15
-
-### [Senior Mobile Engineer, Invest](https://www.linkedin.com/jobs/view/4410076408/) — SoFi
+### [SMTS/LMTS Full Stack Software Engineer, Tableau Next](https://www.linkedin.com/jobs/view/4426415748/) — Tableau
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-06-15
 
-### [Senior Site Reliability Engineer (Kubernetes)](https://www.linkedin.com/jobs/view/4429112029/) — Nxt Level
+### [Senior Data Scientist, Trust & Safety - USDS](https://www.linkedin.com/jobs/view/4429104877/) — TikTok USDS Joint Venture
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-06-15
+
+### [Senior Physical AI Engineer](https://www.linkedin.com/jobs/view/4427753195/) — Samsung SDS America
+- 📍 **Location:** Mountain View, CA
+- 🕒 **Posted:** 2026-06-15
+
+### [Full Stack Engineer @ Stealth Startup](https://www.linkedin.com/jobs/view/4427725971/) — Stealth Company
 - 📍 **Location:** San Francisco Bay Area
 - 🕒 **Posted:** 2026-06-15
 
-### [Embedded Systems Engineer/Evaluator (Ph.D.)](https://www.linkedin.com/jobs/view/4051281342/) — Exponent
+### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4429106270/) — Storm2
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-06-15
+
+### [Software Engineer, Data Privacy & Infrastructure - USDS](https://www.linkedin.com/jobs/view/4429123210/) — TikTok USDS Joint Venture
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-06-15
+
+### [Senior Software Engineer, Search - USDS](https://www.linkedin.com/jobs/view/4429112091/) — TikTok USDS Joint Venture
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-06-15
+
+### [Senior Software Engineer - Wallet/Authentication Platform (Client & Credentials)](https://www.linkedin.com/jobs/view/4429102917/) — ID.me
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-06-15
+
+### [Matterport - Lead Android Engineer](https://www.linkedin.com/jobs/view/4369986348/) — Matterport
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-06-15
+
+### [Senior Software Engineer (Full Stack / Product Engineering)](https://www.linkedin.com/jobs/view/4427754173/) — Recruiting from Scratch
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-06-15
+
+### [Lead Software Engineer - Mobile](https://www.linkedin.com/jobs/view/4416331455/) — Hatch
 - 📍 **Location:** Menlo Park, CA
 - 🕒 **Posted:** 2026-06-15
 
-### [Data Engineer - Senior Associate](https://www.linkedin.com/jobs/view/4369135798/) — PwC
-- 📍 **Location:** San Francisco, CA
+### [Core Infrastructure & Security Engineer](https://www.linkedin.com/jobs/view/4427739365/) — Concerto Labs
+- 📍 **Location:** San Francisco Bay Area
 - 🕒 **Posted:** 2026-06-15
 
-### [Data Engineer](https://www.linkedin.com/jobs/view/4429114005/) — TalentAlly
-- 📍 **Location:** Los Altos, CA
+### [Senior Data Engineer](https://www.linkedin.com/jobs/view/4426428238/) — CoreWeave
+- 📍 **Location:** Sunnyvale, CA
 - 🕒 **Posted:** 2026-06-15
 
-### [Data Engineer - Senior Manager](https://www.linkedin.com/jobs/view/4369144022/) — PwC
-- 📍 **Location:** San Francisco, CA
+### [Senior Tech Lead - Clinical Data Engineering/ Data Platforms](https://www.linkedin.com/jobs/view/4427741312/) — Silicontek Inc
+- 📍 **Location:** Alameda, CA
 - 🕒 **Posted:** 2026-06-15
