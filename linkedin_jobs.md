@@ -1,72 +1,136 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area)
-*Last updated: 2026-06-16 17:17 UTC*
+*Last updated: 2026-06-16 18:17 UTC*
 
-**17 new role(s)** since last run · 34 total in last 1h
+**33 new role(s)** since last run · 40 total in last 1h
 
-### [AI/ML Engineer](https://www.linkedin.com/jobs/view/4429554682/) — Flexton Inc.
-- 📍 **Location:** Oakland, CA
-- 🕒 **Posted:** 2026-06-16
-
-### [Machine Learning Infrastructure Engineer- Model Inference](https://www.linkedin.com/jobs/view/4318555366/) — Abridge
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-06-16
-
-### [Senior Software Engineer, Frontend](https://www.linkedin.com/jobs/view/4287535859/) — Harvey
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-06-16
-
-### [Senior Machine Learning Engineer, User Behavior](https://www.linkedin.com/jobs/view/4428074135/) — Roblox
-- 📍 **Location:** San Mateo, CA
-- 🕒 **Posted:** 2026-06-16
-
-### [Lead Software Engineer](https://www.linkedin.com/jobs/view/4428082004/) — Rakuten Symphony
-- 📍 **Location:** San Mateo, CA
-- 🕒 **Posted:** 2026-06-16
-
-### [Sr. Software Engineer - Backend](https://www.linkedin.com/jobs/view/4428077112/) — Lively, Inc.
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-06-16
-
-### [Senior System Software Engineer - Performance](https://www.linkedin.com/jobs/view/4418223495/) — NVIDIA
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-06-16
-
-### [AI Engineer – Agentic AI & Frontier Models (Claude Code / Codex / MCP)](https://www.linkedin.com/jobs/view/4428048897/) — BayOne Solutions
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-06-16
-
-### [Senior Frontend Engineer](https://www.linkedin.com/jobs/view/4429559661/) — ICON Consultants, LP
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-06-16
-
-### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4377424831/) — Microsoft AI
+### [Software Engineer, Air AI](https://www.linkedin.com/jobs/view/4416999961/) — Commure
 - 📍 **Location:** Mountain View, CA
 - 🕒 **Posted:** 2026-06-16
 
-### [System Software Engineer, Engineering Workflow Platform](https://www.linkedin.com/jobs/view/4417504872/) — NVIDIA
-- 📍 **Location:** Santa Clara, CA
+### [Senior ML Engineer, Manipulation](https://www.linkedin.com/jobs/view/4429558928/) — Chef Robotics
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-06-16
 
-### [Senior Platform Engineer (Multi-Cloud & AI Adoption)](https://www.linkedin.com/jobs/view/4414654867/) — Hyve Solutions
-- 📍 **Location:** Fremont, CA
-- 🕒 **Posted:** 2026-06-16
-
-### [Site Reliability Engineer, Global E-commerce](https://www.linkedin.com/jobs/view/4373325812/) — TikTok
+### [Data Scientist, Payment Risk - USDS](https://www.linkedin.com/jobs/view/4416424329/) — TikTok USDS Joint Venture
 - 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-06-16
 
-### [Jr Devops Engineer - Oakland, CA (1 Day Onsite)](https://www.linkedin.com/jobs/view/4428071021/) — IH
-- 📍 **Location:** Oakland, CA
+### [Senior Software Engineer, Air AI](https://www.linkedin.com/jobs/view/4415804754/) — Commure
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-06-16
 
-### [Physical AI Engineer (Robotics & Agentic Systems)](https://www.linkedin.com/jobs/view/4426848593/) — HCLTech
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-06-16
-
-### [AI Security Engineer](https://www.linkedin.com/jobs/view/4426846570/) — Planet Pharma
+### [Software Engineer, Research Biology](https://www.linkedin.com/jobs/view/4417388124/) — Genentech
 - 📍 **Location:** South San Francisco, CA
 - 🕒 **Posted:** 2026-06-16
 
-### [Data Engineer](https://www.linkedin.com/jobs/view/4429561480/) — TalentAlly
-- 📍 **Location:** Los Altos, CA
+### [AI Software Engineer, Kernel Libraries - New College Grad 2026](https://www.linkedin.com/jobs/view/4415973808/) — NVIDIA
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-06-16
+
+### [Senior Systems Software Engineer – GPU Software](https://www.linkedin.com/jobs/view/4408945055/) — NVIDIA
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-06-16
+
+### [Senior Software Engineer – Time Synchronization](https://www.linkedin.com/jobs/view/4412959298/) — Clockwork Systems, Inc.
+- 📍 **Location:** Palo Alto, CA
+- 🕒 **Posted:** 2026-06-16
+
+### [Senior Software Engineer, Firmware](https://www.linkedin.com/jobs/view/4426863530/) — NVIDIA AI
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-06-16
+
+### [Senior System Software Engineer - AV Platform](https://www.linkedin.com/jobs/view/4426847734/) — NVIDIA AI
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-06-16
+
+### [Sr Data Scientist](https://www.linkedin.com/jobs/view/4416992353/) — Visa
+- 📍 **Location:** Foster City, CA
+- 🕒 **Posted:** 2026-06-16
+
+### [Senior MLOps / LLMOps Engineer](https://www.linkedin.com/jobs/view/4428073269/) — EROS Technologies Inc
+- 📍 **Location:** Milpitas, CA
+- 🕒 **Posted:** 2026-06-16
+
+### [Department of Applied Data Science Lecturer Pool](https://www.linkedin.com/jobs/view/4158336551/) — San José State University
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-06-16
+
+### [Senior Applied Scientist , Sponsored Products and Brands Ads Response Prediction](https://www.linkedin.com/jobs/view/4429569724/) — Amazon
+- 📍 **Location:** Palo Alto, CA
+- 🕒 **Posted:** 2026-06-16
+
+### [Senior ML Engineer, Foundation Models](https://www.linkedin.com/jobs/view/4429564848/) — Chef Robotics
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-06-16
+
+### [AI Infrastructure Engineer](https://www.linkedin.com/jobs/view/4426848578/) — Planet Pharma
+- 📍 **Location:** South San Francisco, CA
+- 🕒 **Posted:** 2026-06-16
+
+### [Platform Engineer](https://www.linkedin.com/jobs/view/4425274681/) — Shields Group Search
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-06-16
+
+### [Senior Backend Engineer, Ambient AI](https://www.linkedin.com/jobs/view/4426819044/) — Commure
+- 📍 **Location:** Mountain View, CA
+- 🕒 **Posted:** 2026-06-16
+
+### [Senior Software Engineer - Microsoft AI, Copilot](https://www.linkedin.com/jobs/view/4429576081/) — Microsoft AI
+- 📍 **Location:** Mountain View, CA
+- 🕒 **Posted:** 2026-06-16
+
+### [Senior Software Engineer, Infrastructure Development](https://www.linkedin.com/jobs/view/4426862595/) — NVIDIA AI
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-06-16
+
+### [Sr. Software Engineer, Communications Platform](https://www.linkedin.com/jobs/view/4429557903/) — Tesla
+- 📍 **Location:** Fremont, CA
+- 🕒 **Posted:** 2026-06-16
+
+### [Backend Engineer](https://www.linkedin.com/jobs/view/4426860602/) — Air Apps
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-06-16
+
+### [Robotics Engineer](https://www.linkedin.com/jobs/view/4420138071/) — SR2 | Socially Responsible Recruitment | Certified B Corporation™
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-06-16
+
+### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4426861418/) — Okta
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-06-16
+
+### [Senior Frontend Engineer](https://www.linkedin.com/jobs/view/4429584141/) — Clockwork Systems, Inc.
+- 📍 **Location:** Palo Alto, CA
+- 🕒 **Posted:** 2026-06-16
+
+### [Senior Backend Engineer (Platform)](https://www.linkedin.com/jobs/view/4317496788/) — Conversion
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-06-16
+
+### [Backend Engineer](https://www.linkedin.com/jobs/view/4428079332/) — Cylake
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-06-16
+
+### [Senior / Backend Full Stack Engineer](https://www.linkedin.com/jobs/view/4425892540/) — DTEX
+- 📍 **Location:** Fremont, CA
+- 🕒 **Posted:** 2026-06-16
+
+### [Full-Stack AI Engineer (evergreen)](https://www.linkedin.com/jobs/view/4429588074/) — Komodo Health
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-06-16
+
+### [Industrial and Systems Engineering Lecturer Pool](https://www.linkedin.com/jobs/view/4158336550/) — San José State University
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-06-16
+
+### [Senior Systems Engineer - AI Infrastructure](https://www.linkedin.com/jobs/view/4413200393/) — Clockwork Systems, Inc.
+- 📍 **Location:** Palo Alto, CA
+- 🕒 **Posted:** 2026-06-16
+
+### [Sr. Data Engineer, Data Analytics & Reporting](https://www.linkedin.com/jobs/view/4429559904/) — TATCHA
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-06-16
+
+### [Tech Lead Manager Data Platform – USDS](https://www.linkedin.com/jobs/view/4417407564/) — TikTok USDS Joint Venture
+- 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-06-16
