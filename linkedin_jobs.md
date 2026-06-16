@@ -1,72 +1,56 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area)
-*Last updated: 2026-06-16 21:17 UTC*
+*Last updated: 2026-06-16 22:01 UTC*
 
-**17 new role(s)** since last run · 36 total in last 1h
+**13 new role(s)** since last run · 19 total in last 1h
 
-### [Software Engineer](https://www.linkedin.com/jobs/view/4428400207/) — Oho Group
-- 📍 **Location:** Alameda, CA
+### [AI Engineer](https://www.linkedin.com/jobs/view/4426874377/) — scalr
+- 📍 **Location:** San Francisco Bay Area
 - 🕒 **Posted:** 2026-06-16
 
-### [Machine Learning Engineer, Speech LLM Training](https://www.linkedin.com/jobs/view/4428090465/) — Jobright.ai
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-06-16
-
-### [Java Software Engineer](https://www.linkedin.com/jobs/view/4429701377/) — Flexton Inc.
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-06-16
-
-### [Senior Software Engineer - AI Applications](https://www.linkedin.com/jobs/view/4406973289/) — Veeva Systems
-- 📍 **Location:** Pleasanton, CA
-- 🕒 **Posted:** 2026-06-16
-
-### [Senior Software Engineer - HashiCorp Secure Products](https://www.linkedin.com/jobs/view/4426874177/) — IBM
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-06-16
-
-### [Generative AI Lead](https://www.linkedin.com/jobs/view/4428413081/) — Intellectt Inc
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-06-16
-
-### [Senior Software Engineer, Product](https://www.linkedin.com/jobs/view/4428099176/) — Jobright.ai
-- 📍 **Location:** Burlingame, CA
-- 🕒 **Posted:** 2026-06-16
-
-### [Senior Data Engineer](https://www.linkedin.com/jobs/view/4388271724/) — Veeva Systems
-- 📍 **Location:** Pleasanton, CA
-- 🕒 **Posted:** 2026-06-16
-
-### [Full-Stack Engineer](https://www.linkedin.com/jobs/view/4428096121/) — Jobright.ai
-- 📍 **Location:** Redwood City, CA
-- 🕒 **Posted:** 2026-06-16
-
-### [Software Engineer III, Edge Networking Platform](https://www.linkedin.com/jobs/view/4429710355/) — Box
-- 📍 **Location:** Redwood City, CA
-- 🕒 **Posted:** 2026-06-16
-
-### [Embedded Systems Software Engineer (Linux/UI/Cloud Integration)](https://www.linkedin.com/jobs/view/4428098103/) — SafeTraces, Inc.
-- 📍 **Location:** Pleasanton, CA
-- 🕒 **Posted:** 2026-06-16
-
-### [Senior Full Stack Engineer](https://www.linkedin.com/jobs/view/4428402070/) — Pop-Up Talent
-- 📍 **Location:** Redwood City, CA
-- 🕒 **Posted:** 2026-06-16
-
-### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4428407097/) — Omnissa
+### [AI Senior Software Developer](https://www.linkedin.com/jobs/view/4429711662/) — General Motors
 - 📍 **Location:** Mountain View, CA
 - 🕒 **Posted:** 2026-06-16
 
-### [DevOps Engineer](https://www.linkedin.com/jobs/view/4426886178/) — Saxon Global
-- 📍 **Location:** Oakland, CA
-- 🕒 **Posted:** 2026-06-16
-
-### [Senior Cloud Platform Engineer](https://www.linkedin.com/jobs/view/4428404103/) — Akkodis
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-06-16
-
-### [Senior Security Software Engineer](https://www.linkedin.com/jobs/view/4428099086/) — Hover
+### [Growth Data Engineer](https://www.linkedin.com/jobs/view/4428406249/) — Jobright.ai
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-06-16
 
-### [Lab Infrastructure Engineer](https://www.linkedin.com/jobs/view/4429594894/) — VBeyond Corporation
-- 📍 **Location:** Menlo Park, CA
+### [Software Engineer – DevOps Platform](https://www.linkedin.com/jobs/view/4428090687/) — Wealthfront
+- 📍 **Location:** Palo Alto, CA
+- 🕒 **Posted:** 2026-06-16
+
+### [Software Engineer – DevOps Platform](https://www.linkedin.com/jobs/view/4428091328/) — Wealthfront
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-06-16
+
+### [Software Engineer (93143-1)](https://www.linkedin.com/jobs/view/4426883312/) — Infyshine, Inc
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-06-16
+
+### [Software Engineer](https://www.linkedin.com/jobs/view/4428099328/) — Cypress HCM
+- 📍 **Location:** Fremont, CA
+- 🕒 **Posted:** 2026-06-16
+
+### [Internship, Embedded Software Engineer, Steering, Chassis Systems (Fall 2026)](https://www.linkedin.com/jobs/view/4429711682/) — Tesla
+- 📍 **Location:** Palo Alto, CA
+- 🕒 **Posted:** 2026-06-16
+
+### [Software Engineer - AI Agent](https://www.linkedin.com/jobs/view/4428402340/) — Jobright.ai
+- 📍 **Location:** San Mateo County, CA
+- 🕒 **Posted:** 2026-06-16
+
+### [Full Stack Engineer - Growth](https://www.linkedin.com/jobs/view/4428405249/) — Jobright.ai
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-06-16
+
+### [Senior Cloud Engineer Azure](https://www.linkedin.com/jobs/view/4405260706/) — BMO U.S.
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-06-16
+
+### [Senior Cloud Engineer AI](https://www.linkedin.com/jobs/view/4403507894/) — BMO U.S.
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-06-16
+
+### [Sr. Product Security Engineer](https://www.linkedin.com/jobs/view/4409717963/) — Rivian and Volkswagen Group Technologies
+- 📍 **Location:** Palo Alto, CA
 - 🕒 **Posted:** 2026-06-16
