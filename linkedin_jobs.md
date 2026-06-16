@@ -1,92 +1,68 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area)
-*Last updated: 2026-06-15 23:17 UTC*
+*Last updated: 2026-06-16 00:14 UTC*
 
-**22 new role(s)** since last run · 25 total in last 1h
+**16 new role(s)** since last run · 25 total in last 1h
 
-### [AI Engineer](https://www.linkedin.com/jobs/view/4427763620/) — Human Longevity, Inc.
+### [Senior Machine Learning Engineer](https://www.linkedin.com/jobs/view/4429161825/) — Harnham
 - 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-06-15
+- 🕒 **Posted:** 2026-06-16
 
-### [Data Engineer, Machine Learning](https://www.linkedin.com/jobs/view/4429157352/) — Sesame
+### [Software Engineer — Full-Stack & Applied AI](https://www.linkedin.com/jobs/view/4427787069/) — THROCKMORTON PARTNERS LLC
+- 📍 **Location:** Mill Valley, CA
+- 🕒 **Posted:** 2026-06-16
+
+### [Sr. Software Engineer, Android](https://www.linkedin.com/jobs/view/4429159773/) — Pinterest
 - 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-06-15
+- 🕒 **Posted:** 2026-06-16
 
-### [Senior Software Engineer - Fraud](https://www.linkedin.com/jobs/view/4427767512/) — Roblox
-- 📍 **Location:** San Mateo, CA
-- 🕒 **Posted:** 2026-06-15
-
-### [Full Stack Engineer, ChatGPT Finances](https://www.linkedin.com/jobs/view/4427771351/) — OpenAI
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-06-15
-
-### [Lead Software Engineer](https://www.linkedin.com/jobs/view/4426463187/) — Code Red Partners
-- 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-06-15
-
-### [Senior Data Scientist](https://www.linkedin.com/jobs/view/4429157196/) — Semgrep
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-06-15
-
-### [Machine Learning/AI Engineer](https://www.linkedin.com/jobs/view/4429160029/) — Nexwave
-- 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-06-15
-
-### [Software Engineer, Applications](https://www.linkedin.com/jobs/view/4427771284/) — Voxel
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-06-15
-
-### [Software Engineer, iOS/Mobile - Electronic Flight Bag (EFB)](https://www.linkedin.com/jobs/view/4429154500/) — Beacon AI
-- 📍 **Location:** San Carlos, CA
-- 🕒 **Posted:** 2026-06-15
-
-### [Software Engineer, iOS/Mobile](https://www.linkedin.com/jobs/view/4429169165/) — Beacon AI
-- 📍 **Location:** San Carlos, CA
-- 🕒 **Posted:** 2026-06-15
-
-### [Software Engineer, Frontend/Web App](https://www.linkedin.com/jobs/view/4429174096/) — Beacon AI
-- 📍 **Location:** San Carlos, CA
-- 🕒 **Posted:** 2026-06-15
-
-### [Software Engineer, iOS/Mobile - Health Wearable](https://www.linkedin.com/jobs/view/4429160267/) — Beacon AI
-- 📍 **Location:** San Carlos, CA
-- 🕒 **Posted:** 2026-06-15
-
-### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4429166233/) — ONO.AI
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-06-15
-
-### [Software Engineer](https://www.linkedin.com/jobs/view/4426471176/) — Super Micro Computer Spain, S.L.
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-06-15
-
-### [Senior Software Engineer - AI Backend](https://www.linkedin.com/jobs/view/4416909711/) — IntelliPro
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-06-15
-
-### [Frontend Developer](https://www.linkedin.com/jobs/view/4427781050/) — IMCS Group
-- 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-06-15
-
-### [Lead Software Engineer, Frontend/Web App](https://www.linkedin.com/jobs/view/4429168200/) — Beacon AI
-- 📍 **Location:** San Carlos, CA
-- 🕒 **Posted:** 2026-06-15
-
-### [ios engineer](https://www.linkedin.com/jobs/view/4416446465/) — IntelliPro
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-06-15
-
-### [Salesforce Ads Systems Engineer](https://www.linkedin.com/jobs/view/4427761836/) — OpenAI
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-06-15
-
-### [Senior Infrastructure Engineer](https://www.linkedin.com/jobs/view/4427779118/) — Ariat International
-- 📍 **Location:** San Leandro, CA
-- 🕒 **Posted:** 2026-06-15
-
-### [Sr. Systems Engineer](https://www.linkedin.com/jobs/view/4427776168/) — Knightscope
+### [Senior Applied Scientist, AGI Customization](https://www.linkedin.com/jobs/view/4429163756/) — Amazon
 - 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-06-16
+
+### [Software Engineer, Integrated Vehicle Simulator](https://www.linkedin.com/jobs/view/4429161870/) — Joby Aviation
+- 📍 **Location:** Santa Cruz, CA
+- 🕒 **Posted:** 2026-06-16
+
+### [Software Engineer - Agentic Coding](https://www.linkedin.com/jobs/view/4429155836/) — Reval
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-06-16
+
+### [Senior Frontend Engineer - Access Control](https://www.linkedin.com/jobs/view/4429177152/) — Verkada
+- 📍 **Location:** San Mateo, CA
+- 🕒 **Posted:** 2026-06-16
+
+### [Cloud Hardware Dev Engineer (AWS Generative AI & ML Servers), Accelerator Servers](https://www.linkedin.com/jobs/view/4429160764/) — Amazon Web Services (AWS)
+- 📍 **Location:** Cupertino, CA
+- 🕒 **Posted:** 2026-06-16
+
+### [Senior Infrastructure Engineer – Bazel Remote Execution](https://www.linkedin.com/jobs/view/4427776498/) — NVIDIA
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-06-16
+
+### [Senior Machine Learning Engineer](https://www.linkedin.com/jobs/view/4429160439/) — Rubrik
+- 📍 **Location:** Palo Alto, CA
 - 🕒 **Posted:** 2026-06-15
 
-### [Senior Software Engineer - Creator Business](https://www.linkedin.com/jobs/view/4427782177/) — Roblox
-- 📍 **Location:** San Mateo, CA
+### [Forward Deployed Software Engineer](https://www.linkedin.com/jobs/view/4429164588/) — SoGal Ventures
+- 📍 **Location:** Stanford, CA
+- 🕒 **Posted:** 2026-06-15
+
+### [LATAM - Data Science Engineer](https://www.linkedin.com/jobs/view/4426469242/) — Playsaurus Inc.
+- 📍 **Location:** Alameda, CA
+- 🕒 **Posted:** 2026-06-15
+
+### [Computational Biologist](https://www.linkedin.com/jobs/view/4427764669/) — Transcripta Bio
+- 📍 **Location:** Palo Alto, CA
+- 🕒 **Posted:** 2026-06-15
+
+### [Sr. Data Scientist, GenAI & Labeling Platforms](https://www.linkedin.com/jobs/view/4426461223/) — ChatGPT Jobs
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-06-15
+
+### [LATAM - Backend Developer](https://www.linkedin.com/jobs/view/4426455272/) — Playsaurus Inc.
+- 📍 **Location:** Alameda, CA
+- 🕒 **Posted:** 2026-06-15
+
+### [Senior Frontend Engineer](https://www.linkedin.com/jobs/view/4429164652/) — Reval
+- 📍 **Location:** San Francisco Bay Area
 - 🕒 **Posted:** 2026-06-15
