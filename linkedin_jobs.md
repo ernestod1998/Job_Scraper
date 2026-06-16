@@ -1,20 +1,40 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area)
-*Last updated: 2026-06-16 00:33 UTC*
+*Last updated: 2026-06-16 01:17 UTC*
 
-**4 new role(s)** since last run · 26 total in last 1h
+**9 new role(s)** since last run · 19 total in last 1h
 
-### [Senior Software Engineer, Backend](https://www.linkedin.com/jobs/view/4429169950/) — Tubi
+### [Senior Software Engineer, Robotic Solutions Development](https://www.linkedin.com/jobs/view/4426467311/) — Intrinsic
+- 📍 **Location:** Mountain View, CA
+- 🕒 **Posted:** 2026-06-16
+
+### [IC Layout Automation Software Engineer](https://www.linkedin.com/jobs/view/4426467373/) — Rigetti Computing
+- 📍 **Location:** Fremont, CA
+- 🕒 **Posted:** 2026-06-16
+
+### [Software Engineering MTS](https://www.linkedin.com/jobs/view/4429189295/) — Salesforce
+- 📍 **Location:** Palo Alto, CA
+- 🕒 **Posted:** 2026-06-16
+
+### [Software Engineer, Integrated Vehicle Simulator](https://www.linkedin.com/jobs/view/4429161870/) — Joby Aviation
+- 📍 **Location:** Santa Cruz, CA
+- 🕒 **Posted:** 2026-06-16
+
+### [Applied AI Engineer, Investments](https://www.linkedin.com/jobs/view/4426468318/) — Chan Zuckerberg Initiative
+- 📍 **Location:** Redwood City, CA
+- 🕒 **Posted:** 2026-06-16
+
+### [Software Engineering MTS](https://www.linkedin.com/jobs/view/4429188332/) — Salesforce
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-06-16
+
+### [Full Stack Engineer](https://www.linkedin.com/jobs/view/4427749026/) — XTrace
 - 📍 **Location:** San Francisco Bay Area
 - 🕒 **Posted:** 2026-06-16
 
-### [Senior Software Engineer, CI/CD Platform](https://www.linkedin.com/jobs/view/4427771640/) — IXL Learning
+### [Senior Frontend Engineer - Access Control](https://www.linkedin.com/jobs/view/4427792334/) — Lightspeed
 - 📍 **Location:** San Mateo, CA
 - 🕒 **Posted:** 2026-06-16
 
-### [Senior Application Security Engineer](https://www.linkedin.com/jobs/view/4429159806/) — Randstad Digital Americas
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-06-16
-
-### [Senior Mission Lead Systems Engineer](https://www.linkedin.com/jobs/view/4429163847/) — Muon Space
-- 📍 **Location:** San Jose, CA
+### [Lead Software Engineer, ES & Finance Platform](https://www.linkedin.com/jobs/view/4429198197/) — Salesforce
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-06-16
