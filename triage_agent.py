@@ -279,9 +279,13 @@ def make_call_model(model: str):
                 "system_instruction": {"parts": [{"text": static_prefix}]},
                 "contents": [{"parts": [{"text": job_prompt}]}],
                 "generationConfig": {
-                    "maxOutputTokens": 700,
+                    # 3.5 Flash is a thinking model: thinking tokens count
+                    # against the output budget. Cap thinking low (cost) and
+                    # give plenty of headroom so the JSON verdict never truncates.
+                    "maxOutputTokens": 2048,
                     "temperature": 0,
                     "responseMimeType": "application/json",  # force clean JSON
+                    "thinkingConfig": {"thinkingBudget": 128},  # 0 = cheapest
                 },
             }).encode("utf-8")
             req = urllib.request.Request(
