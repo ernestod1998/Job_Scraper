@@ -1,56 +1,72 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area)
-*Last updated: 2026-06-17 21:17 UTC*
+*Last updated: 2026-06-17 22:17 UTC*
 
-**13 new role(s)** since last run · 40 total in last 1h
+**17 new role(s)** since last run · 19 total in last 1h
 
-### [Senior Machine Learning Engineer, Search Relevance](https://www.linkedin.com/jobs/view/4430115459/) — Box
-- 📍 **Location:** Redwood City, CA
-- 🕒 **Posted:** 2026-06-17
-
-### [Machine Learning Engineer, Speech LLM Training](https://www.linkedin.com/jobs/view/4428751438/) — Jobright.ai
+### [Data Science Engineer](https://www.linkedin.com/jobs/view/4430118776/) — MrBeast
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-06-17
 
-### [Software Engineer](https://www.linkedin.com/jobs/view/4430128534/) — Lockheed Martin
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-06-17
-
-### [Site Reliability Software Engineer](https://www.linkedin.com/jobs/view/4428758485/) — Shannon Technologies
+### [Senior Machine Learning Engineer](https://www.linkedin.com/jobs/view/4430133882/) — MrBeast
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-06-17
 
-### [Software Engineer - Smart Contract, Bridge](https://www.linkedin.com/jobs/view/4413480705/) — Stripe
+### [Senior Data Scientist](https://www.linkedin.com/jobs/view/4430142018/) — MrBeast
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-06-17
 
-### [Software Engineering Manager – Customer Applications](https://www.linkedin.com/jobs/view/4430116415/) — SquareTrade
+### [Senior Software Engineer – AI-Augmented Development](https://www.linkedin.com/jobs/view/4430112914/) — CoreAi Consulting
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-06-17
+
+### [Software Engineer - AI Agent](https://www.linkedin.com/jobs/view/4428743842/) — Jobright.ai
+- 📍 **Location:** San Mateo County, CA
+- 🕒 **Posted:** 2026-06-17
+
+### [Growth Data Engineer](https://www.linkedin.com/jobs/view/4428745754/) — Jobright.ai
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-06-17
 
-### [Security Software Engineer](https://www.linkedin.com/jobs/view/4427801064/) — AMD
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-06-17
-
-### [Full-Stack Engineer](https://www.linkedin.com/jobs/view/4428750515/) — Jobright.ai
-- 📍 **Location:** Redwood City, CA
-- 🕒 **Posted:** 2026-06-17
-
-### [Senior Backend Engineer](https://www.linkedin.com/jobs/view/4413807900/) — Inflection AI
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-06-17
-
-### [Senior Backend Engineer, Agentic AI](https://www.linkedin.com/jobs/view/4427398069/) — Airwallex
+### [Senior Data Engineer](https://www.linkedin.com/jobs/view/4430143033/) — MrBeast
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-06-17
 
-### [Senior DevOps Engineer](https://www.linkedin.com/jobs/view/4430122591/) — Qualified Health
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-06-17
-
-### [AWS Cloud Engineer](https://www.linkedin.com/jobs/view/4430125345/) — Themesoft Inc.
+### [Applied AI Engineer](https://www.linkedin.com/jobs/view/4430130904/) — Artos AI
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-06-17
 
-### [Software Engineering Sr](https://www.linkedin.com/jobs/view/4430118670/) — Lockheed Martin
-- 📍 **Location:** Sunnyvale, CA
+### [Expert Consultant, Coro, AI Engineer](https://www.linkedin.com/jobs/view/4430131903/) — Bain & Company
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-06-17
+
+### [Sr. Software Engineer - Accounting](https://www.linkedin.com/jobs/view/4430130840/) — AppFolio
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-06-17
+
+### [Senior Software Engineer - Integrations](https://www.linkedin.com/jobs/view/4428752714/) — Pivotal Health
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-06-17
+
+### [Full Stack Engineer - Growth](https://www.linkedin.com/jobs/view/4428765029/) — Jobright.ai
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-06-17
+
+### [Senior Fullstack Engineer - Growth + Onboarding](https://www.linkedin.com/jobs/view/4428750758/) — Pivotal Health
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-06-17
+
+### [Senior Backend Engineer](https://www.linkedin.com/jobs/view/4430144068/) — MrBeast
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-06-17
+
+### [Senior Software Engineer - Growth + Onboarding](https://www.linkedin.com/jobs/view/4428765111/) — Pivotal Health
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-06-17
+
+### [Cloud Engineer](https://www.linkedin.com/jobs/view/4430135557/) — UCSF Health
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-06-17
+
+### [Sr. Cloud Engineer (1 of 2)](https://www.linkedin.com/jobs/view/4430146030/) — UCSF Health
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-06-17
