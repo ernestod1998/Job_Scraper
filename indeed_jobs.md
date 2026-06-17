@@ -1,93 +1,63 @@
 # 🟦 Indeed — Engineering / ML / DS Roles (SF Bay Area)
-*Last updated: 2026-06-16 22:03 UTC*
+*Last updated: 2026-06-17 00:01 UTC*
 
-**18 new role(s)** since last run · 68 total in last 24h
+**12 new role(s)** since last run · 68 total in last 24h
 
-### [Senior Software Engineer](https://www.indeed.com/viewjob?jk=abf428d2a2da7848) — Okta
-- 📍 **Location:** San Francisco, CA, US
-- 💰 **Salary:** $165k–$227k/yr
-- 🕒 **Posted:** 2026-06-16
-
-### [Embedded Software Engineer, BSP/Kernel - Reality Labs](https://www.indeed.com/viewjob?jk=4687f27226a8411d) — Meta
-- 📍 **Location:** Sunnyvale, CA, US
-- 💰 **Salary:** $154k–$217k/yr
-- 🕒 **Posted:** 2026-06-14
-
-### [Jr. AI Engineer](https://www.indeed.com/viewjob?jk=6562cd54b158722b) — Vagaro
-- 📍 **Location:** Pleasanton, CA, US
-- 💰 **Salary:** $110k–$140k/yr
-- 🕒 **Posted:** 2026-06-01
-
-### [Machine Learning Engineer - Data Pipeline](https://www.indeed.com/viewjob?jk=53ecaba2e1c87173) — Articul8
-- 📍 **Location:** Dublin, CA, US
-- 🕒 **Posted:** 2026-06-16
-
-### [Senior DevOps Engineer, Robotics](https://www.indeed.com/viewjob?jk=b12e25c3893a4823) — Knightscope, Inc.
-- 📍 **Location:** Sunnyvale, CA, US
-- 💰 **Salary:** $180k–$220k/yr
-- 🕒 **Posted:** 2026-06-16
-
-### [Graphics Software Engineer](https://www.indeed.com/viewjob?jk=1d5e4b019fa6aaca) — Qualcomm
+### [Sr ML Infrastructure Engineer, E2E Autonomy](https://www.indeed.com/viewjob?jk=8a287ddf2efaaaf0) — Blue River Technology
 - 📍 **Location:** Santa Clara, CA, US
-- 💰 **Salary:** $117k–$175k/yr
+- 💰 **Salary:** $160k–$287k/yr
 - 🕒 **Posted:** 2026-06-16
 
-### [Senior Software Engineer, Connectors](https://www.indeed.com/viewjob?jk=9534108588e2ced5) — Redpanda
-- 📍 **Location:** San Francisco, CA, US
-- 💰 **Salary:** $172k–$235k/yr
-- 🕒 **Posted:** 2026-06-16
-
-### [Application Security Engineer [Remote-US]](https://www.indeed.com/viewjob?jk=79f17e4e35cd0ff5) — Quanata
-- 📍 **Location:** San Francisco, CA, US
-- 💰 **Salary:** $175k–$215k/yr
-- 🕒 **Posted:** 2026-06-16
-
-### [Sr Software Engineer, Fullstack - Auto](https://www.indeed.com/viewjob?jk=3766a8a0ef925eaf) — LendingClub
-- 📍 **Location:** San Francisco, CA, US
-- 💰 **Salary:** $176k–$207k/yr
-- 🕒 **Posted:** 2026-06-16
-
-### [Senior Product Manager, Generative AI, Google Cloud](https://www.indeed.com/viewjob?jk=a4d0d0b089339e3e) — Google
-- 📍 **Location:** Sunnyvale, CA, US
-- 💰 **Salary:** $192k–$279k/yr
-- 🕒 **Posted:** 2026-06-16
-
-### [Senior System Software Engineer - AV Platform](https://www.indeed.com/viewjob?jk=445d00b07610be6c) — NVIDIA
+### [Applied Scientist, Amazon Customer Service](https://www.indeed.com/viewjob?jk=a3f720499950c4dd) — Amazon.com
 - 📍 **Location:** Santa Clara, CA, US
-- 💰 **Salary:** $184k–$288k/yr
+- 💰 **Salary:** $143k–$222k/yr
+- 🕒 **Posted:** 2026-06-10
+
+### [Mid-Level AI Platform Engineers](https://www.indeed.com/viewjob?jk=be8fe69bb49f9794) — U.S. Bank
+- 📍 **Location:** Cupertino, CA, US
+- 💰 **Salary:** $111k–$131k/yr
 - 🕒 **Posted:** 2026-06-16
 
-### [LMTS AI Software Engineer - Agentforce Reasoning Engine](https://www.indeed.com/viewjob?jk=a41995f42e9d2c82) — Salesforce
+### [Lead AI Platform Engineer](https://www.indeed.com/viewjob?jk=4abd4244a5c3c5df) — U.S. Bank
+- 📍 **Location:** Cupertino, CA, US
+- 💰 **Salary:** $139k–$164k/yr
+- 🕒 **Posted:** 2026-06-16
+
+### [Software Engineer III, Edge Networking Platform](https://www.indeed.com/viewjob?jk=94274fe4f9fb89e1) — Box
+- 📍 **Location:** Redwood City, CA, US
+- 💰 **Salary:** $165k–$206k/yr
+- 🕒 **Posted:** 2026-06-16
+
+### [Senior Full Stack Software Engineer](https://www.indeed.com/viewjob?jk=9d3a1a74bcfca30d) — Adyen
 - 📍 **Location:** San Francisco, CA, US
-- 💰 **Salary:** $172k–$286k/yr
+- 💰 **Salary:** $198k–$293k/yr
 - 🕒 **Posted:** 2026-06-16
 
-### [Senior Software Engineer, Platform Infrastructure](https://www.indeed.com/viewjob?jk=8c6131409d865754) — Aptos Labs
-- 📍 **Location:** Palo Alto, CA, US
-- 💰 **Salary:** $160k–$260k/yr
+### [Senior Automation Systems Engineer](https://www.indeed.com/viewjob?jk=14719115641563ab) — Bloom Energy
+- 📍 **Location:** Fremont, CA, US
+- 💰 **Salary:** $98k–$142k/yr
 - 🕒 **Posted:** 2026-06-16
 
-### [Sr. Data Engineer, Data Analytics & Reporting](https://www.indeed.com/viewjob?jk=1688885355ce38d3) — TATCHA
+### [Software Engineer, Enterprise](https://www.indeed.com/viewjob?jk=b19e6f7fde49af34) — Amazon.com
 - 📍 **Location:** San Francisco, CA, US
-- 💰 **Salary:** $150k–$160k/yr
-- 🕒 **Posted:** 2026-06-16
+- 💰 **Salary:** $165k–$224k/yr
+- 🕒 **Posted:** 2026-06-15
 
-### [Senior, Software Engineer (partner engineer or solution engineer))](https://www.indeed.com/viewjob?jk=d06812506f0b1413) — Walmart
-- 📍 **Location:** Sunnyvale, CA, US
-- 💰 **Salary:** $117k–$234k/yr
-- 🕒 **Posted:** 2026-06-16
-
-### [Software Engineer](https://www.indeed.com/viewjob?jk=e027badb299b30e1) — DocuSign
-- 📍 **Location:** San Francisco, CA, US
-- 💰 **Salary:** $99k–$162k/yr
-- 🕒 **Posted:** 2026-06-16
-
-### [Software Engineering Manger, Identity Core Credentials](https://www.indeed.com/viewjob?jk=14d4f718e56e48ba) — Google
+### [Software Engineer Intern](https://www.indeed.com/viewjob?jk=8051effe6fa17959) — Cadence Design Systems
 - 📍 **Location:** San Jose, CA, US
-- 💰 **Salary:** $207k–$301k/yr
 - 🕒 **Posted:** 2026-06-16
 
-### [Manager, Clinical Research Engineering - Instruments (Future Forward team)](https://www.indeed.com/viewjob?jk=3bf9e81ab4d782d9) — Intuitive (Intuitive Surgical)
-- 📍 **Location:** Sunnyvale, CA, US
-- 💰 **Salary:** $159k–$269k/yr
+### [Software Engineer II](https://www.indeed.com/viewjob?jk=fc71f30a4df01ce3) — Cadence Design Systems
+- 📍 **Location:** San Jose, CA, US
+- 💰 **Salary:** $102k–$188k/yr
+- 🕒 **Posted:** 2026-06-16
+
+### [Software Engineer II](https://www.indeed.com/viewjob?jk=1d4f7fdb0616cc6d) — PlayStation
+- 📍 **Location:** San Mateo, CA, US
+- 💰 **Salary:** $164k–$246k/yr
+- 🕒 **Posted:** 2026-06-16
+
+### [Internship, Embedded Software Engineer, Steering, Chassis Systems (Fall 2026)](https://www.indeed.com/viewjob?jk=4a47e61dc8d35183) — Tesla
+- 📍 **Location:** Palo Alto, CA, US
+- 💰 **Salary:** $42–$58/hr
 - 🕒 **Posted:** 2026-06-16
