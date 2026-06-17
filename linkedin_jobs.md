@@ -1,64 +1,76 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area)
-*Last updated: 2026-06-16 23:17 UTC*
+*Last updated: 2026-06-17 00:17 UTC*
 
-**15 new role(s)** since last run · 17 total in last 1h
+**18 new role(s)** since last run · 20 total in last 1h
 
-### [Machine Learning Engineer](https://www.linkedin.com/jobs/view/4420148705/) — 10a Labs
+### [Software Engineer](https://www.linkedin.com/jobs/view/4428410962/) — Docusign
 - 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-06-16
+- 🕒 **Posted:** 2026-06-17
 
-### [AI/ML Engineer - AI Design Software Leader](https://www.linkedin.com/jobs/view/4424445791/) — Andiamo
+### [Software Engineer](https://www.linkedin.com/jobs/view/4428425047/) — Docusign
 - 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-06-16
+- 🕒 **Posted:** 2026-06-17
 
-### [AI/ML Engineer](https://www.linkedin.com/jobs/view/4428400583/) — Astera Labs
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-06-16
-
-### [Sr. Data Engineer - High-Growth Tech Startup](https://www.linkedin.com/jobs/view/4381044917/) — Andiamo
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-06-16
-
-### [Senior Machine Learning Engineer, User Behavior](https://www.linkedin.com/jobs/view/4428074135/) — Roblox
-- 📍 **Location:** San Mateo, CA
-- 🕒 **Posted:** 2026-06-16
-
-### [Software Engineer III, Core](https://www.linkedin.com/jobs/view/4428409359/) — Google
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-06-16
-
-### [Machine Learning Infrastructure Engineer](https://www.linkedin.com/jobs/view/4428412444/) — Astera Labs
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-06-16
-
-### [Software Engineer, North for Finance](https://www.linkedin.com/jobs/view/4428410424/) — Cohere
+### [Software Engineer](https://www.linkedin.com/jobs/view/4428428026/) — Docusign
 - 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-06-16
+- 🕒 **Posted:** 2026-06-17
 
-### [Jr. AI Engineer](https://www.linkedin.com/jobs/view/4426890390/) — Vagaro
-- 📍 **Location:** Pleasanton, CA
-- 🕒 **Posted:** 2026-06-16
+### [Senior Software Engineer, AI Developer Tools](https://www.linkedin.com/jobs/view/4428419098/) — NVIDIA
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-06-17
 
-### [AI Engineer - VC Backed Enterprise AI Startup](https://www.linkedin.com/jobs/view/4424448434/) — Andiamo
+### [Software Engineer](https://www.linkedin.com/jobs/view/4428411940/) — Docusign
 - 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-06-16
+- 🕒 **Posted:** 2026-06-17
 
-### [Remote Senior AI Application Security Engineer](https://www.linkedin.com/jobs/view/4429719506/) — Kforce Inc
-- 📍 **Location:** San Ramon, CA
-- 🕒 **Posted:** 2026-06-16
+### [Applied Scientist, Amazon Customer Service](https://www.linkedin.com/jobs/view/4429731802/) — Amazon
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-06-17
 
-### [Software Engineer Intern](https://www.linkedin.com/jobs/view/4428409392/) — Cadence
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-06-16
+### [Senior Systems Software Engineer, Semiconductor Systems Inspection](https://www.linkedin.com/jobs/view/4428413931/) — NVIDIA
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-06-17
 
-### [Software Engineer II](https://www.linkedin.com/jobs/view/4426889398/) — Sony Interactive Entertainment
-- 📍 **Location:** San Mateo, CA
-- 🕒 **Posted:** 2026-06-16
+### [Senior Software Engineer, Infrastructure Development](https://www.linkedin.com/jobs/view/4428404981/) — NVIDIA
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-06-17
 
-### [Mid Level Software Engineer](https://www.linkedin.com/jobs/view/4427718907/) — MaxQ Medical
+### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4428426047/) — Docusign
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-06-17
+
+### [Senior System Software Engineer - AV Platform](https://www.linkedin.com/jobs/view/4428418103/) — NVIDIA
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-06-17
+
+### [Security Engineer, Detection & Response](https://www.linkedin.com/jobs/view/4429727786/) — Scale AI
 - 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-06-17
+
+### [Senior Systems Software Engineer, Data Center Platform Enablement](https://www.linkedin.com/jobs/view/4428416117/) — NVIDIA
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-06-17
+
+### [ML Software Engineer 6 - AI for Member Systems (AIMS)](https://www.linkedin.com/jobs/view/4426870815/) — Netflix
+- 📍 **Location:** Los Gatos, CA
 - 🕒 **Posted:** 2026-06-16
 
-### [Senior Software Engineer, Infrastructure, Google Cloud Platforms](https://www.linkedin.com/jobs/view/4428410352/) — Google
+### [LATAM - Data Science Engineer](https://www.linkedin.com/jobs/view/4426884665/) — Playsaurus Inc.
+- 📍 **Location:** Alameda, CA
+- 🕒 **Posted:** 2026-06-16
+
+### [Embedded Software Engineer](https://www.linkedin.com/jobs/view/4429728626/) — Pyka
+- 📍 **Location:** Alameda, CA
+- 🕒 **Posted:** 2026-06-16
+
+### [Sr. AI Scientist - AI Detection and Response (AIDR) (Hybrid)](https://www.linkedin.com/jobs/view/4426879624/) — CrowdStrike
 - 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-06-16
+
+### [Applied AI Engineer](https://www.linkedin.com/jobs/view/4377869776/) — Arcade
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-06-16
+
+### [LATAM - Backend Developer](https://www.linkedin.com/jobs/view/4426879710/) — Playsaurus Inc.
+- 📍 **Location:** Alameda, CA
 - 🕒 **Posted:** 2026-06-16
