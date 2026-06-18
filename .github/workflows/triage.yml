@@ -44,7 +44,9 @@ jobs:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           CANDIDATE_PROFILE: ${{ secrets.CANDIDATE_PROFILE }}
           CANDIDATE_RESUME: ${{ secrets.CANDIDATE_RESUME }}
-        run: python triage_agent.py --limit 300
+        # --judge audits each fit score >= 50 (the shortlist) and writes judge_*
+        # fields the dashboard renders as ✅/⚖️ markers. Advisory, never gates.
+        run: python triage_agent.py --limit 300 --judge
 
       - name: Commit scores to repo
         run: |
