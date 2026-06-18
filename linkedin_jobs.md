@@ -1,64 +1,100 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area)
-*Last updated: 2026-06-18 21:17 UTC*
+*Last updated: 2026-06-18 22:17 UTC*
 
-**15 new role(s)** since last run · 46 total in last 1h
+**24 new role(s)** since last run · 28 total in last 1h
 
-### [Deep Learning Engineer](https://www.linkedin.com/jobs/view/4430731353/) — Hayden AI
+### [Senior Machine Learning Engineer, MLOps West Coast](https://www.linkedin.com/jobs/view/4394707893/) — Autodesk
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-06-18
 
-### [Senior Machine Learning Engineer ($250k + $100k Equity) at Omen AI](https://www.linkedin.com/jobs/view/4429364854/) — Jack & Jill
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-06-18
-
-### [Software Engineer - Machine Learning III](https://www.linkedin.com/jobs/view/4429365944/) — Jobs via Dice
-- 📍 **Location:** Mountain View, CA
-- 🕒 **Posted:** 2026-06-18
-
-### [Senior Software Engineer, AI/ML GenAI, Core](https://www.linkedin.com/jobs/view/4429357833/) — Google
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-06-18
-
-### [Gen AI Developer/Data Scientist](https://www.linkedin.com/jobs/view/4429367533/) — Jobs via Dice
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-06-18
-
-### [Senior Software Engineer, Algorithms](https://www.linkedin.com/jobs/view/4430730421/) — Hayden AI
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-06-18
-
-### [Remote Senior Software Engineer](https://www.linkedin.com/jobs/view/4430722853/) — Turing
+### [Full Stack Engineer](https://www.linkedin.com/jobs/view/4429374475/) — A4Assist
 - 📍 **Location:** San Francisco Bay Area
 - 🕒 **Posted:** 2026-06-18
 
-### [Data engineering Lead](https://www.linkedin.com/jobs/view/4427861833/) — Bitcruit Solutions
-- 📍 **Location:** San Francisco Bay Area
+### [Applied Scientist, Navigation](https://www.linkedin.com/jobs/view/4427867378/) — Amazon Science
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-06-18
 
-### [Systems Engineer](https://www.linkedin.com/jobs/view/4430730818/) — Lockheed Martin
+### [Data Scientist II, Monetization & Pricing](https://www.linkedin.com/jobs/view/4430762069/) — Thumbtack
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-06-18
+
+### [Data Engineer, Field Reliability](https://www.linkedin.com/jobs/view/4430732981/) — Tesla
+- 📍 **Location:** Fremont, CA
+- 🕒 **Posted:** 2026-06-18
+
+### [Software Engineer III](https://www.linkedin.com/jobs/view/4427878289/) — Walmart
 - 📍 **Location:** Sunnyvale, CA
 - 🕒 **Posted:** 2026-06-18
 
-### [Senior Software Engineer, Product](https://www.linkedin.com/jobs/view/4429387373/) — Jobright.ai
-- 📍 **Location:** Burlingame, CA
+### [Software Engineer - AI Agent](https://www.linkedin.com/jobs/view/4429384509/) — Jobright.ai
+- 📍 **Location:** San Mateo County, CA
 - 🕒 **Posted:** 2026-06-18
 
-### [Systems Engineer (Level 2)](https://www.linkedin.com/jobs/view/4430732723/) — Lockheed Martin
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-06-18
-
-### [Security Engineer](https://www.linkedin.com/jobs/view/4427863562/) — Merge
+### [Full Stack Engineer - Growth](https://www.linkedin.com/jobs/view/4429380426/) — Jobright.ai
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-06-18
 
-### [Data Engineer](https://www.linkedin.com/jobs/view/4430741230/) — Regard
-- 📍 **Location:** San Francisco, CA
+### [Sr Software Engineer, Fullstack (Developer Productivity)](https://www.linkedin.com/jobs/view/4409735064/) — Rivian and Volkswagen Group Technologies
+- 📍 **Location:** Palo Alto, CA
 - 🕒 **Posted:** 2026-06-18
 
-### [Software Engineer, Platform ($200k-$250k + Equity) at Duckbill](https://www.linkedin.com/jobs/view/4429372017/) — Jack & Jill
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-06-18
-
-### [Senior Software Engineer - AI Data & Analytics at HOAi](https://www.linkedin.com/jobs/view/4429364936/) — Jack & Jill
+### [Senior Software Engineer - Core Services](https://www.linkedin.com/jobs/view/4427868379/) — Snorkel AI
 - 📍 **Location:** Redwood City, CA
+- 🕒 **Posted:** 2026-06-18
+
+### [Senior Software Engineer - Core Services](https://www.linkedin.com/jobs/view/4427878262/) — Snorkel AI
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-06-18
+
+### [Senior Software Engineer, Compute](https://www.linkedin.com/jobs/view/4429392126/) — Persona
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-06-18
+
+### [Software Engineer](https://www.linkedin.com/jobs/view/4430756045/) — Sira Consulting, an Inc 5000 company
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-06-18
+
+### [Diagnostic Software Engineer (6151)](https://www.linkedin.com/jobs/view/4405830731/) — itD
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-06-18
+
+### [Senior Software Engineer, Front-End Infrastructure](https://www.linkedin.com/jobs/view/4429375585/) — Discord
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-06-18
+
+### [Software Engineer, Data Platform](https://www.linkedin.com/jobs/view/4429389528/) — Discord
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-06-18
+
+### [Senior Modem Software Engineer](https://www.linkedin.com/jobs/view/4429369303/) — Spanidea Inc
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-06-18
+
+### [Sr Software Engineer- Cloud Infrastructure and DevOps](https://www.linkedin.com/jobs/view/4430738860/) — PayPal
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-06-18
+
+### [Senior Site Reliability Engineer](https://www.linkedin.com/jobs/view/4429386487/) — Autodesk
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-06-18
+
+### [Senior Site Reliability Engineer](https://www.linkedin.com/jobs/view/4430732867/) — Fivetran
+- 📍 **Location:** Oakland, CA
+- 🕒 **Posted:** 2026-06-18
+
+### [Lead Infrastructure Engineer - Technical Solutions Engineering](https://www.linkedin.com/jobs/view/4429376407/) — hackajob
+- 📍 **Location:** Palo Alto, CA
+- 🕒 **Posted:** 2026-06-18
+
+### [Product Security Engineer](https://www.linkedin.com/jobs/view/4430753096/) — Doppel
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-06-18
+
+### [Application Security Engineer](https://www.linkedin.com/jobs/view/4427886165/) — Jobot Consulting
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-06-18
+
+### [Growth Data Engineer](https://www.linkedin.com/jobs/view/4429375443/) — Jobright.ai
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-06-18
