@@ -1,16 +1,20 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area)
-*Last updated: 2026-06-18 02:17 UTC*
+*Last updated: 2026-06-18 03:17 UTC*
 
-**3 new role(s)** since last run · 52 total in last 1h
+**4 new role(s)** since last run · 11 total in last 1h
 
-### [Software Engineer - Hybrid](https://www.linkedin.com/jobs/view/4428787360/) — Jobs via Dice
-- 📍 **Location:** San Francisco, CA
+### [AI Engineer](https://www.linkedin.com/jobs/view/4429227848/) — TalentAlly
+- 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-06-18
 
-### [Sr. Software Engineer](https://www.linkedin.com/jobs/view/4428774553/) — Jobs via Dice
+### [Software Engineer, Robotics](https://www.linkedin.com/jobs/view/4430179773/) — Brahma Consulting Group
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-06-18
+
+### [Senior Android Engineer IRC296966](https://www.linkedin.com/jobs/view/4430161979/) — GlobalLogic
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-06-18
+
+### [BMS Systems Engineer- US remote](https://www.linkedin.com/jobs/view/4430179746/) — CBRE
 - 📍 **Location:** Menlo Park, CA
-- 🕒 **Posted:** 2026-06-18
-
-### [Computer Vision Engineer – Autonomy & Perception](https://www.linkedin.com/jobs/view/4425868061/) — Pivotal
-- 📍 **Location:** Palo Alto, CA
 - 🕒 **Posted:** 2026-06-18
