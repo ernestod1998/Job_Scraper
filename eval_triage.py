@@ -25,6 +25,7 @@ Usage:
 """
 
 import argparse
+import json
 import re
 import sys
 import time
@@ -47,6 +48,9 @@ SLEEP_BETWEEN_CALLS = 0.2
 #                            in a case: main() fills it at runtime from the
 #                            secret profile/resume, so this PUBLIC file never
 #                            contains the candidate's name or employers.
+#   rationale              — (advisory only, --judge) plain-English claim the `why`
+#                            text must invoke; checked by the LLM judge, never by
+#                            check(), never gating.
 # ---------------------------------------------------------------------------
 
 CASES = [
@@ -63,7 +67,9 @@ CASES = [
                "PyTorch on GPU clusters. A PhD in Computer Science, Machine Learning, "
                "or a related quantitative field is required. Experience with U-Net "
                "style segmentation models and DICOM pipelines is a strong plus."),
-        "expect": {"max_score": 40, "verdicts": ["skip"], "flag_re": r"phd"},
+        "expect": {"max_score": 40, "verdicts": ["skip"], "flag_re": r"phd",
+                   "rationale": "the PhD hard-requirement is the reason the "
+                                "score is low"},
     },
     {
         "id": "phd-preferred-still-fits",
@@ -181,7 +187,131 @@ CASES = [
         "jd": "",
         "expect": {"max_score": 35, "verdicts": ["skip"]},
     },
+    {
+        "id": "resume-skill-match",
+        "note": "RESUME-PRIMARY: a role whose requirements map directly onto the "
+                "resume's demonstrated strengths must score high — proves real "
+                "skill overlap drives the score, not just family/seniority.",
+        "job": {"title": "Machine Learning Engineer, Medical Imaging",
+                "company": "Subtle Medical", "location": "Menlo Park, CA",
+                "ats": "Ashby", "date_posted": "2026-06-05"},
+        "jd": ("Build and deploy deep learning models (PyTorch) for MRI/CT image "
+               "analysis: U-Net segmentation and reconstruction networks over "
+               "DICOM data, shipped with Docker/FastAPI and CI/CD. 2-4 years of "
+               "applied DL experience; medical-imaging and DICOM experience "
+               "strongly preferred. M.S. welcome."),
+        "expect": {"min_score": 70, "verdicts": ["strong"],
+                   "families": ["ml-ai", "biotech-informatics"]},
+    },
+    {
+        "id": "resume-skill-mismatch",
+        "note": "RESUME-PRIMARY: an ON-TARGET family (ml-ai) role in a domain the "
+                "resume does NOT cover must NOT score high. The families assertion "
+                "is load-bearing: a low score only proves resume-driven "
+                "downranking if the model still classified the role on-target "
+                "(else it's a family veto, not a skill mismatch — pick another JD).",
+        "job": {"title": "Machine Learning Engineer, Trading Signals",
+                "company": "Citadel Securities", "location": "New York, NY",
+                "ats": "Greenhouse", "date_posted": "2026-06-05"},
+        "jd": ("Train machine-learning models to forecast short-term asset price "
+               "movements for a systematic trading desk. Engineer features from "
+               "market-microstructure and order-book data, build and validate "
+               "predictive models, and iterate on signal quality with quant "
+               "researchers. Python and standard ML tooling; hands-on experience "
+               "applying ML to financial-markets data is the core of this role. "
+               "No medical, biological, chemical, or scientific-computing work "
+               "involved."),
+        "expect": {"max_score": 55, "verdicts": ["maybe", "skip"],
+                   "families": ["ml-ai"],
+                   "rationale": "the low score is driven by the resume lacking "
+                                "financial-markets ML, not by an off-target role "
+                                "family"},
+    },
+    {
+        "id": "resume-new-strength-cheminformatics",
+        "note": "RESUME-PRIMARY + STALE-SECRET DETECTOR: keyed to a strength only "
+                "the current resume has (cheminformatics / molecular toxicity ML). "
+                "Passes on the current resume but would fail on an older one that "
+                "lacked it, so a green run confirms the live resume is in use.",
+        "job": {"title": "Machine Learning Scientist, Computational Toxicology",
+                "company": "Insilico Medicine", "location": "Remote (US)",
+                "ats": "Lever", "date_posted": "2026-06-05"},
+        "jd": ("Build ML models that predict chemical toxicity and ADMET "
+               "endpoints from molecular structure. Engineer molecular "
+               "descriptors and fingerprints with RDKit, train QSAR regression "
+               "models, and quantify applicability domain / out-of-distribution "
+               "confidence for predictions. Python, scikit-learn, and tree-based "
+               "models day to day. M.S. or equivalent experience."),
+        "expect": {"min_score": 70, "verdicts": ["strong"],
+                   "families": ["ml-ai", "biotech-informatics"]},
+    },
 ]
+
+
+# ---------------------------------------------------------------------------
+# Advisory judge (opt-in via --judge, non-gating)
+#
+# Grades ONLY the free-text `why` rationale: does it actually invoke the
+# mechanism the case claims (expect["rationale"])? Reuses the SAME scorer
+# call_model — decorrelation comes from the skeptical rubric, not the weights.
+# It can print warnings but NEVER affects check()/passes/exit code.
+# ---------------------------------------------------------------------------
+
+JUDGE_RUBRIC = (
+    "You are a strict evaluation judge. You are given a job description, a triage "
+    "verdict's score and one-sentence rationale, and a CLAIM about why the verdict "
+    "should be what it is. Decide ONLY whether the rationale's stated reasoning is "
+    "consistent with the CLAIM — NOT whether the score itself is correct (that is "
+    "checked separately). Respond with ONLY a JSON object, no prose:\n"
+    '{"aligned": true|false, "confidence": <int 0-100>, "note": "<one sentence>"}\n'
+    "Default to aligned=false if the rationale is vague, generic, boilerplate, or "
+    "does not actually invoke the mechanism the CLAIM describes."
+)
+
+
+def _extract_json(raw: str) -> dict | None:
+    """Tolerant single-object JSON extraction (judge may wrap in fences/prose)."""
+    try:
+        return json.loads(raw)
+    except Exception:
+        m = re.search(r"\{.*\}", raw, re.DOTALL)
+        if not m:
+            return None
+        try:
+            return json.loads(m.group(0))
+        except Exception:
+            return None
+
+
+def judge(case: dict, verdict: dict, judge_call) -> dict:
+    """Advisory: does the verdict's rationale support expect['rationale']?
+    Returns {"aligned": bool, "confidence": int, "note": str}. Never raises —
+    any failure degrades to aligned=True with a confidence=-1 sentinel."""
+    payload = (
+        f"JOB TITLE: {case['job']['title']}\n"
+        f"JD: {case['jd'][:1500] or '(none)'}\n\n"
+        f"VERDICT: score={verdict.get('score')} verdict={verdict.get('verdict')} "
+        f"role_family={verdict.get('role_family')}\n"
+        f"RATIONALE (why): {verdict.get('why', '')!r}\n"
+        f"FLAGS: {verdict.get('flags', [])}\n\n"
+        f"CLAIM the rationale must support: {case['expect']['rationale']}"
+    )
+    try:
+        parsed = _extract_json(judge_call(JUDGE_RUBRIC, payload))
+        err = None
+    except Exception as e:
+        parsed, err = None, type(e).__name__
+    # Both degrade paths — model error AND unparseable/missing-field output — collapse
+    # to an out-of-band confidence=-1 "could not judge" sentinel, distinct from a
+    # legitimate aligned-but-unsure verdict (which can really be confidence 0).
+    if not parsed or "aligned" not in parsed:
+        return {"aligned": True, "confidence": -1,
+                "note": f"judge unavailable ({err or 'unparseable output'}) — skipped"}
+    return {
+        "aligned": bool(parsed.get("aligned", True)),
+        "confidence": int(parsed.get("confidence", 0) or 0),
+        "note": str(parsed.get("note", "")),
+    }
 
 
 # ---------------------------------------------------------------------------
@@ -239,6 +369,8 @@ def main() -> int:
     ap.add_argument("--only", default="", help="run only cases whose id contains this")
     ap.add_argument("--runs", type=int, default=1, help="repeat the suite N times")
     ap.add_argument("--model", default=ta.DEFAULT_MODEL, help="model id for the API path")
+    ap.add_argument("--judge", action="store_true",
+                    help="advisory LLM-judge pass over rationale (non-gating)")
     args = ap.parse_args()
 
     profile = ta._read_first("CANDIDATE_PROFILE", "candidate_profile.md")
@@ -262,7 +394,11 @@ def main() -> int:
         return 1
 
     call_model = ta.make_call_model(args.model)
-    print(f"🧪 {len(cases)} cases × {args.runs} run(s)\n")
+    # The advisory judge reuses the scorer's call_model as-is (same model, skeptical
+    # rubric). None when --judge is off, which short-circuits the per-case block below.
+    judge_call = call_model if args.judge else None
+    print(f"🧪 {len(cases)} cases × {args.runs} run(s)"
+          f"{' · ⚖️  judge on' if judge_call else ''}\n")
 
     passes: dict[str, int] = {c["id"]: 0 for c in cases}
     for run in range(1, args.runs + 1):
@@ -280,6 +416,14 @@ def main() -> int:
             else:
                 passes[case["id"]] += 1
                 print(f"  ✅ {score} {case['id']}")
+            # Advisory judge pass — never touches passes/failures/exit code.
+            if judge_call and verdict and case["expect"].get("rationale"):
+                jv = judge(case, verdict, judge_call)
+                if jv["confidence"] < 0:        # could-not-judge sentinel — surface it
+                    print(f"       ⚖️  judge skipped: {jv['note']}")
+                elif not jv["aligned"]:
+                    print(f"       ⚖️  advisory: rationale may not justify the "
+                          f"verdict (conf {jv['confidence']}) — {jv['note']}")
             time.sleep(SLEEP_BETWEEN_CALLS)
 
     total = len(cases) * args.runs
