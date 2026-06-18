@@ -1,48 +1,48 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area)
-*Last updated: 2026-06-17 23:17 UTC*
+*Last updated: 2026-06-18 00:17 UTC*
 
-**11 new role(s)** since last run · 39 total in last 1h
+**11 new role(s)** since last run · 24 total in last 1h
 
-### [Sr. Software Engineer - Accounting](https://www.linkedin.com/jobs/view/4430130840/) — AppFolio
+### [Applied Scientist, Navigation](https://www.linkedin.com/jobs/view/4430146780/) — Amazon
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-06-18
+
+### [Applied Scientist, Navigation](https://www.linkedin.com/jobs/view/4430155635/) — Amazon
+- 📍 **Location:** San Francisco County, CA
+- 🕒 **Posted:** 2026-06-18
+
+### [AI Engineer](https://www.linkedin.com/jobs/view/4430141603/) — Crosscheck Staffing
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-06-17
 
-### [Senior Machine Learning Engineer](https://www.linkedin.com/jobs/view/4430145507/) — kadence
-- 📍 **Location:** San Francisco Bay Area
+### [Software Engineer, Agent](https://www.linkedin.com/jobs/view/4430149594/) — Sierra
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-06-17
 
-### [Data Science and Business Analytics Manager](https://www.linkedin.com/jobs/view/4430136245/) — Abbott
+### [Software Engineer II, Backend Full Stack - AI Platform](https://www.linkedin.com/jobs/view/4430147638/) — Rippling
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-06-17
+
+### [Backend Engineer](https://www.linkedin.com/jobs/view/4427393598/) — Air Apps
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-06-17
+
+### [LATAM - Data Science Engineer](https://www.linkedin.com/jobs/view/4427804494/) — Playsaurus Inc.
 - 📍 **Location:** Alameda, CA
 - 🕒 **Posted:** 2026-06-17
 
-### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4428760853/) — Credo
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-06-17
-
-### [Infrastructure Engineer and SRE](https://www.linkedin.com/jobs/view/4430153344/) — Crosscheck Staffing
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-06-17
-
-### [Senior Software Engineer, Ads Platform](https://www.linkedin.com/jobs/view/4428764766/) — Roblox
+### [Manager, Software Engineering](https://www.linkedin.com/jobs/view/4427814201/) — Sony Interactive Entertainment
 - 📍 **Location:** San Mateo, CA
 - 🕒 **Posted:** 2026-06-17
 
-### [Frontend Engineer](https://www.linkedin.com/jobs/view/4428766086/) — Mutuals
-- 📍 **Location:** San Francisco Bay Area
+### [Senior Embedded Platform Engineer](https://www.linkedin.com/jobs/view/4430157216/) — Zipline
+- 📍 **Location:** South San Francisco, CA
 - 🕒 **Posted:** 2026-06-17
 
-### [Senior Software Engineer - Growth + Onboarding](https://www.linkedin.com/jobs/view/4428765111/) — Pivotal Health
-- 📍 **Location:** San Francisco, CA
+### [Software Engineer in Test](https://www.linkedin.com/jobs/view/4428765394/) — Enexus Global Inc.
+- 📍 **Location:** Fremont, CA
 - 🕒 **Posted:** 2026-06-17
 
-### [Systems Engineer / Hardware Engineer](https://www.linkedin.com/jobs/view/4427399381/) — Ztek Consulting
-- 📍 **Location:** Dublin, CA
-- 🕒 **Posted:** 2026-06-17
-
-### [Senior Software Engineer (CA)](https://www.linkedin.com/jobs/view/4420619976/) — LTA Research
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-06-17
-
-### [Senior Software Engineer - Integrations](https://www.linkedin.com/jobs/view/4428752714/) — Pivotal Health
-- 📍 **Location:** San Francisco, CA
+### [Software Engineer L5 - Audio/Video Tools and Tests](https://www.linkedin.com/jobs/view/4427800488/) — Netflix
+- 📍 **Location:** Los Gatos, CA
 - 🕒 **Posted:** 2026-06-17
