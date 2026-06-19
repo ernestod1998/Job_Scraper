@@ -1,24 +1,24 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area)
-*Last updated: 2026-06-19 22:17 UTC*
+*Last updated: 2026-06-19 23:17 UTC*
 
 **5 new role(s)** since last run · 8 total in last 1h
 
-### [Software Engineer - AI Agent](https://www.linkedin.com/jobs/view/4430033169/) — Jobright.ai
-- 📍 **Location:** San Mateo County, CA
-- 🕒 **Posted:** 2026-06-19
-
-### [Growth Data Engineer](https://www.linkedin.com/jobs/view/4430032131/) — Jobright.ai
+### [Data Scientist](https://www.linkedin.com/jobs/view/4430035226/) — Jobright.ai
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-06-19
 
-### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4431153188/) — Arcadia
-- 📍 **Location:** San Francisco Bay Area
+### [Research Engineer / Research Scientist - RE / RS - Proactivity](https://www.linkedin.com/jobs/view/4430036361/) — OpenAI
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-06-19
 
-### [Lead Senior Security Engineer (Enterprise AI Platform)](https://www.linkedin.com/jobs/view/4430026241/) — Evolver
+### [Partner Engineer, Generative AI Integration and Distribution](https://www.linkedin.com/jobs/view/4428293847/) — ChatGPT Jobs
+- 📍 **Location:** Burlingame, CA
+- 🕒 **Posted:** 2026-06-19
+
+### [Senior Backend Engineer](https://www.linkedin.com/jobs/view/4431157527/) — Kforce Inc
+- 📍 **Location:** Fremont, CA
+- 🕒 **Posted:** 2026-06-19
+
+### [Senior Frontend Engineer](https://www.linkedin.com/jobs/view/4431161473/) — Kforce Inc
 - 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-06-19
-
-### [Full Stack Engineer - Growth](https://www.linkedin.com/jobs/view/4430039056/) — Jobright.ai
-- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-06-19
