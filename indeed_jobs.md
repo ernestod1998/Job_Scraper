@@ -1,19 +1,23 @@
 # 🟦 Indeed — Engineering / ML / DS Roles (SF Bay Area)
-*Last updated: 2026-06-19 19:17 UTC*
+*Last updated: 2026-06-19 20:55 UTC*
 
-**3 new role(s)** since last run · 94 total in last 24h
+**4 new role(s)** since last run · 84 total in last 24h
 
-### [Software Engineer - Data Protection Software Engineering](https://www.indeed.com/viewjob?jk=9bfe512ece354d6d) — Dell Technologies
-- 📍 **Location:** Santa Clara, CA, US
-- 💰 **Salary:** $140k–$182k/yr
+### [Data Engineer (SMTS / LMTS) - MDM](https://www.indeed.com/viewjob?jk=50844673569c1fb8) — Salesforce
+- 📍 **Location:** San Francisco, CA, US
+- 💰 **Salary:** $148k–$286k/yr
 - 🕒 **Posted:** 2026-06-19
 
-### [Senior Software Engineer - Data Protection Software Engineering (C, C++)](https://www.indeed.com/viewjob?jk=8fe3fa51dedf6cda) — Dell Technologies
-- 📍 **Location:** Santa Clara, CA, US
-- 💰 **Salary:** $161k–$222k/yr
+### [Senior, Software Engineer](https://www.indeed.com/viewjob?jk=3e4c1ef4967752c8) — Walmart
+- 📍 **Location:** Sunnyvale, CA, US
+- 💰 **Salary:** $117k–$234k/yr
 - 🕒 **Posted:** 2026-06-19
 
-### [Mobile Engineering Manager - Adobe Scan](https://www.indeed.com/viewjob?jk=4ffb039246ae1976) — Adobe
-- 📍 **Location:** San Jose, CA, US
-- 💰 **Salary:** $160k–$320k/yr
+### [Senior Full Stack Engineer](https://www.indeed.com/viewjob?jk=1eaf33d676184268) — Goliath Partners
+- 📍 **Location:** San Francisco, CA, US
+- 💰 **Salary:** $225k–$300k/yr
 - 🕒 **Posted:** 2026-06-19
+
+### [Data Engineer](https://www.indeed.com/viewjob?jk=690e477dea973841) — Unknown
+- 📍 **Location:** Mountain View, CA, US
+- 🕒 **Posted:** 2026-05-28
