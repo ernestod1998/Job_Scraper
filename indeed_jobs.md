@@ -1,28 +1,33 @@
 # 🟦 Indeed — Engineering / ML / DS Roles (SF Bay Area)
-*Last updated: 2026-06-19 22:34 UTC*
+*Last updated: 2026-06-19 23:45 UTC*
 
-**5 new role(s)** since last run · 81 total in last 24h
+**6 new role(s)** since last run · 79 total in last 24h
 
-### [Research Engineer, Domain Scaling](https://www.indeed.com/viewjob?jk=a798266e38cc31a6) — Anthropic
+### [Senior Applied Scientist](https://www.indeed.com/viewjob?jk=74aa30d7e16ac9e1) — Amazon.com
 - 📍 **Location:** San Francisco, CA, US
-- 💰 **Salary:** $1–$2/hr
+- 💰 **Salary:** $192k–$260k/yr
 - 🕒 **Posted:** 2026-06-19
 
-### [Backend Engineer](https://www.indeed.com/viewjob?jk=d7ab0104e01283dc) — Mem0
-- 📍 **Location:** San Francisco Bay Area, CA, US
-- 💰 **Salary:** $165k–$250k/yr
+### [Applied Scientist, Amazon Redshift](https://www.indeed.com/viewjob?jk=496d1a3f408ba56d) — Amazon Web Services
+- 📍 **Location:** East Palo Alto, CA, US
+- 💰 **Salary:** $143k–$222k/yr
+- 🕒 **Posted:** 2026-06-02
+
+### [Applied Scientist II, Visual Search Science](https://www.indeed.com/viewjob?jk=88339986d48a7c5d) — Amazon.com
+- 📍 **Location:** Palo Alto, CA, US
+- 🕒 **Posted:** 2026-05-22
+
+### [Senior Software Engineer – Platform (Containers & Kubernetes)](https://www.indeed.com/viewjob?jk=a6174de494959602) — AVEVA
+- 📍 **Location:** San Leandro, CA, US
+- 💰 **Salary:** $118k–$196k/yr
 - 🕒 **Posted:** 2026-06-19
 
-### [Full Stack Engineer](https://www.indeed.com/viewjob?jk=175ea923085d4b8f) — Mem0
-- 📍 **Location:** San Francisco Bay Area, CA, US
+### [Systems Development Eng (AWS Generative AI & ML Servers), AWS Hardware Engineering Accelerators](https://www.indeed.com/viewjob?jk=4fc24090b8293e43) — Amazon Web Services
+- 📍 **Location:** Cupertino, CA, US
+- 💰 **Salary:** $99k–$185k/yr
 - 🕒 **Posted:** 2026-06-19
 
-### [Senior Software Engineer, Cloud Security, Identity and Access Management](https://www.indeed.com/viewjob?jk=bff04bbe486295cc) — Google
+### [Software Engineer, iOS, eero, eero Software Services](https://www.indeed.com/viewjob?jk=e873d8cf208ce86a) — Amazon.com
 - 📍 **Location:** San Francisco, CA, US
-- 💰 **Salary:** $174k–$253k/yr
-- 🕒 **Posted:** 2026-06-19
-
-### [Senior Software Engineer, Cloud Security, Identity and Access Management](https://www.indeed.com/viewjob?jk=adcf4881b5885e37) — Google
-- 📍 **Location:** Sunnyvale, CA, US
-- 💰 **Salary:** $174k–$253k/yr
-- 🕒 **Posted:** 2026-06-19
+- 💰 **Salary:** $193k–$262k/yr
+- 🕒 **Posted:** 2026-03-17
