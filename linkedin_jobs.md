@@ -1,100 +1,76 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area)
-*Last updated: 2026-06-19 18:17 UTC*
+*Last updated: 2026-06-19 19:15 UTC*
 
-**24 new role(s)** since last run · 45 total in last 1h
+**18 new role(s)** since last run · 26 total in last 1h
 
-### [Software Engineer, Growth](https://www.linkedin.com/jobs/view/4411238234/) — Replit
-- 📍 **Location:** Foster City, CA
-- 🕒 **Posted:** 2026-06-19
-
-### [Software Engineer](https://www.linkedin.com/jobs/view/3986112648/) — Epic
-- 📍 **Location:** Oakland, CA
-- 🕒 **Posted:** 2026-06-19
-
-### [Software Engineer, Developer Experience](https://www.linkedin.com/jobs/view/4411246137/) — Replit
-- 📍 **Location:** Foster City, CA
-- 🕒 **Posted:** 2026-06-19
-
-### [Software Engineer](https://www.linkedin.com/jobs/view/4420517757/) — Docusign
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-06-19
-
-### [Senior Software Engineer - AI Inference](https://www.linkedin.com/jobs/view/4401821152/) — NVIDIA
+### [Senior Deep Learning Software Engineer, LLM Performance](https://www.linkedin.com/jobs/view/4402324620/) — NVIDIA
 - 📍 **Location:** Santa Clara, CA
 - 🕒 **Posted:** 2026-06-19
 
-### [Software Engineer](https://www.linkedin.com/jobs/view/4430007048/) — Donatech Corporation
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-06-19
-
-### [Senior Systems Software Engineer, CUDA Driver](https://www.linkedin.com/jobs/view/4401829032/) — NVIDIA
+### [Senior Solutions Architect, Generative AI](https://www.linkedin.com/jobs/view/4401826091/) — NVIDIA
 - 📍 **Location:** Santa Clara, CA
 - 🕒 **Posted:** 2026-06-19
 
-### [Sr. Data Scientist (Credit Risk)](https://www.linkedin.com/jobs/view/4430002035/) — Achieve
-- 📍 **Location:** San Mateo, CA
-- 🕒 **Posted:** 2026-06-19
-
-### [Senior Applied Scientist](https://www.linkedin.com/jobs/view/4411293048/) — Microsoft AI
-- 📍 **Location:** Mountain View, CA
-- 🕒 **Posted:** 2026-06-19
-
-### [Senior Applied Scientist](https://www.linkedin.com/jobs/view/4411274987/) — Microsoft AI
-- 📍 **Location:** Mountain View, CA
-- 🕒 **Posted:** 2026-06-19
-
-### [Senior Applied Scientist](https://www.linkedin.com/jobs/view/4411609385/) — Microsoft
-- 📍 **Location:** Mountain View, CA
-- 🕒 **Posted:** 2026-06-19
-
-### [Platform Engineering Expert](https://www.linkedin.com/jobs/view/4419751003/) — SAP
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-06-19
-
-### [Software Engineer II](https://www.linkedin.com/jobs/view/4420499526/) — Blackhawk Network
-- 📍 **Location:** Pleasanton, CA
-- 🕒 **Posted:** 2026-06-19
-
-### [Software Engineer, Enterprise Platform](https://www.linkedin.com/jobs/view/4411246140/) — Replit
-- 📍 **Location:** Foster City, CA
-- 🕒 **Posted:** 2026-06-19
-
-### [Software Engineer, Backend, Level 5](https://www.linkedin.com/jobs/view/4420993359/) — Snap Inc.
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-06-19
-
-### [Sr. AI Engineer](https://www.linkedin.com/jobs/view/4389866737/) — Docusign
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-06-19
-
-### [Robotics Engineer Team Lead – Dexterous Manipulation & Robotic Hands](https://www.linkedin.com/jobs/view/4429680925/) — TEEMA
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-06-19
-
-### [Remote Software Engineer – AI Research & Evaluation](https://www.linkedin.com/jobs/view/4430984951/) — Turing
-- 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-06-19
-
-### [Senior System Software Engineer](https://www.linkedin.com/jobs/view/4419335913/) — NVIDIA
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-06-19
-
-### [Associate, Software Engineer, Applications](https://www.linkedin.com/jobs/view/4431122086/) — BlackRock
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-06-19
-
-### [Senior Software Systems Engineer - Autonomous Vehicles](https://www.linkedin.com/jobs/view/4409992961/) — NVIDIA
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-06-19
-
-### [DevOps Engineer](https://www.linkedin.com/jobs/view/4427055790/) — Diligente Technologies
+### [Data Scientist, Platform Responsibility - USDS](https://www.linkedin.com/jobs/view/4431126350/) — TikTok USDS Joint Venture
 - 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-06-19
 
-### [Senior IT Systems Engineer- Onsite](https://www.linkedin.com/jobs/view/4419334053/) — Cognizant
-- 📍 **Location:** Mountain View, CA
+### [PhD Research Intern, Generative AI - 2026](https://www.linkedin.com/jobs/view/4419334985/) — NVIDIA
+- 📍 **Location:** Santa Clara, CA
 - 🕒 **Posted:** 2026-06-19
 
-### [GenAI Python Systems Engineer –Senior Manager](https://www.linkedin.com/jobs/view/4419098211/) — PwC
+### [Senior OutSystems Engineer](https://www.linkedin.com/jobs/view/4428505301/) — Staffline Solutions
+- 📍 **Location:** Menlo Park, CA
+- 🕒 **Posted:** 2026-06-19
+
+### [Senior Software Engineer – AI-Augmented Development](https://www.linkedin.com/jobs/view/4430112914/) — CoreAi Consulting
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-06-19
+
+### [Senior System Software Engineer - AI Performance and Efficiency Tools](https://www.linkedin.com/jobs/view/4410860672/) — NVIDIA
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-06-19
+
+### [GPU Development Tools System Software Engineer](https://www.linkedin.com/jobs/view/4401821154/) — NVIDIA
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-06-19
+
+### [System Software Engineer, GPU Development Tools](https://www.linkedin.com/jobs/view/4402307640/) — NVIDIA
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-06-19
+
+### [Software Engineer 3, Search Systems Replication & Routing](https://www.linkedin.com/jobs/view/4391100797/) — MongoDB
 - 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-06-19
+
+### [Platform Engineer](https://www.linkedin.com/jobs/view/4419747021/) — SAP
+- 📍 **Location:** Palo Alto, CA
+- 🕒 **Posted:** 2026-06-19
+
+### [Senior Android Engineer, Mobile Foundations](https://www.linkedin.com/jobs/view/4364964792/) — Lyft
+- 📍 **Location:** San Francisco County, CA
+- 🕒 **Posted:** 2026-06-19
+
+### [Site Reliability Engineer, Platform Responsibility - USDS](https://www.linkedin.com/jobs/view/4431137396/) — TikTok USDS Joint Venture
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-06-19
+
+### [Senior Site Reliability Engineer, Platform Responsibility - USDS](https://www.linkedin.com/jobs/view/4431120411/) — TikTok USDS Joint Venture
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-06-19
+
+### [Infrastructure Engineer IV](https://www.linkedin.com/jobs/view/4431127365/) — Skillsheet
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-06-19
+
+### [Lead Voice Infrastructure Engineer](https://www.linkedin.com/jobs/view/4429904162/) — Stuut
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-06-19
+
+### [Data Engineer (SMTS / LMTS) - MDM](https://www.linkedin.com/jobs/view/4431133298/) — Salesforce
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-06-19
+
+### [Lead Data Science (Bangkok based, Relocation provided)](https://www.linkedin.com/jobs/view/4411437747/) — Agoda
+- 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-06-19
