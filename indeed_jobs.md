@@ -1,9 +1,9 @@
 # 🟦 Indeed — Engineering / ML / DS Roles (SF Bay Area)
-*Last updated: 2026-06-20 18:58 UTC*
+*Last updated: 2026-06-20 20:53 UTC*
 
-**1 new role(s)** since last run · 29 total in last 24h
+**1 new role(s)** since last run · 21 total in last 24h
 
-### [Software Engineer II, Backend - IT Product](https://www.indeed.com/viewjob?jk=cda4b37ae3281400) — Rippling
+### [Software Engineer](https://www.indeed.com/viewjob?jk=d922226ef6149e93) — Unknown
 - 📍 **Location:** San Francisco, CA, US
-- 💰 **Salary:** $152k–$225k/yr
+- 💰 **Salary:** $180k–$280k/yr
 - 🕒 **Posted:** 2026-06-20
