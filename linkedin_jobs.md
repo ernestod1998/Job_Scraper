@@ -1,28 +1,24 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area)
-*Last updated: 2026-06-20 21:17 UTC*
+*Last updated: 2026-06-20 22:17 UTC*
 
-**6 new role(s)** since last run · 10 total in last 1h
+**5 new role(s)** since last run · 9 total in last 1h
 
-### [Machine Learning Engineer, Speech LLM Training](https://www.linkedin.com/jobs/view/4430091989/) — Jobright.ai
+### [Junior AI engineer/Data analyst/Junior java developer](https://www.linkedin.com/jobs/view/4430309143/) — SynergisticIT
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-06-20
+
+### [Software Engineer](https://www.linkedin.com/jobs/view/4430064629/) — Dexi
+- 📍 **Location:** Berkeley, CA
+- 🕒 **Posted:** 2026-06-20
+
+### [Data Scientist](https://www.linkedin.com/jobs/view/4430313132/) — Jobright.ai
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-06-20
 
-### [Growth Data Engineer](https://www.linkedin.com/jobs/view/4430303251/) — Jobright.ai
-- 📍 **Location:** San Francisco, CA
+### [Software Engineer - AI Agent](https://www.linkedin.com/jobs/view/4430315046/) — Jobright.ai
+- 📍 **Location:** San Mateo County, CA
 - 🕒 **Posted:** 2026-06-20
 
-### [Software Engineer III - Backend (On-site / SF)](https://www.linkedin.com/jobs/view/4431358290/) — TomoCredit
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-06-20
-
-### [Senior Software Engineer, Product](https://www.linkedin.com/jobs/view/4430300289/) — Jobright.ai
-- 📍 **Location:** Burlingame, CA
-- 🕒 **Posted:** 2026-06-20
-
-### [Full-Stack Engineer](https://www.linkedin.com/jobs/view/4430099333/) — Jobright.ai
-- 📍 **Location:** Redwood City, CA
-- 🕒 **Posted:** 2026-06-20
-
-### [Full Stack Engineer - Growth](https://www.linkedin.com/jobs/view/4430301282/) — Jobright.ai
+### [Software Engineer, Eve](https://www.linkedin.com/jobs/view/4431344443/) — Vercel
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-06-20
