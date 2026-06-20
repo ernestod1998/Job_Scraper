@@ -1,24 +1,16 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area)
-*Last updated: 2026-06-20 22:17 UTC*
+*Last updated: 2026-06-20 23:17 UTC*
 
-**5 new role(s)** since last run · 9 total in last 1h
+**3 new role(s)** since last run · 6 total in last 1h
 
-### [Junior AI engineer/Data analyst/Junior java developer](https://www.linkedin.com/jobs/view/4430309143/) — SynergisticIT
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-06-20
-
-### [Software Engineer](https://www.linkedin.com/jobs/view/4430064629/) — Dexi
-- 📍 **Location:** Berkeley, CA
-- 🕒 **Posted:** 2026-06-20
-
-### [Data Scientist](https://www.linkedin.com/jobs/view/4430313132/) — Jobright.ai
+### [AI / Machine Learning Engineer Leaders and Decision-Makers for Workflow Management Tools - US](https://www.linkedin.com/jobs/view/4428546862/) — ChatGPT Jobs
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-06-20
 
-### [Software Engineer - AI Agent](https://www.linkedin.com/jobs/view/4430315046/) — Jobright.ai
-- 📍 **Location:** San Mateo County, CA
+### [Senior Application Security Engineer](https://www.linkedin.com/jobs/view/4424430450/) — Tatari
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-06-20
 
-### [Software Engineer, Eve](https://www.linkedin.com/jobs/view/4431344443/) — Vercel
-- 📍 **Location:** San Francisco, CA
+### [Remote Senior AI Application Security Engineer](https://www.linkedin.com/jobs/view/4428543853/) — ChatGPT Jobs
+- 📍 **Location:** San Ramon, CA
 - 🕒 **Posted:** 2026-06-20
