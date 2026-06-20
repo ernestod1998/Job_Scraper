@@ -1,48 +1,52 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area)
-*Last updated: 2026-06-20 18:17 UTC*
+*Last updated: 2026-06-20 19:17 UTC*
 
-**11 new role(s)** since last run · 14 total in last 1h
+**12 new role(s)** since last run · 18 total in last 1h
 
-### [Senior Machine Learning Engineer, Advertiser Growth](https://www.linkedin.com/jobs/view/4428553530/) — Unity South APAC (SEA, ANZ, IND Subcont.)
-- 📍 **Location:** Mountain View, CA
-- 🕒 **Posted:** 2026-06-20
-
-### [Machine Learning Engineering Manager, App SW](https://www.linkedin.com/jobs/view/4417968935/) — Wayve
+### [Software Engineer](https://www.linkedin.com/jobs/view/3986118126/) — Epic
 - 📍 **Location:** Sunnyvale, CA
 - 🕒 **Posted:** 2026-06-20
 
-### [Machine Learning Engineering Manager, GAI Search Relevance - Moveworks](https://www.linkedin.com/jobs/view/4369052901/) — ServiceNow
-- 📍 **Location:** Mountain View, CA
-- 🕒 **Posted:** 2026-06-20
-
-### [AI Engineer / Data Scientist, AI Manager](https://www.linkedin.com/jobs/view/4422030781/) — PwC
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-06-20
-
-### [Full Stack Software Engineer](https://www.linkedin.com/jobs/view/4431336276/) — Future Motion
+### [Data Scientist - TikTok Integrity and Safety (San Jose)](https://www.linkedin.com/jobs/view/4430093540/) — TikTok
 - 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-06-20
 
-### [Senior Software Engineer, Agentic Systems](https://www.linkedin.com/jobs/view/4422081184/) — NVIDIA
+### [Software Engineer, TensorRT Specialized Platforms - New College Grad 2025](https://www.linkedin.com/jobs/view/4422061566/) — NVIDIA
 - 📍 **Location:** Santa Clara, CA
 - 🕒 **Posted:** 2026-06-20
 
-### [Senior Deep Learning Engineer](https://www.linkedin.com/jobs/view/4395473430/) — NVIDIA
+### [Senior Software Engineer - Agentic AI](https://www.linkedin.com/jobs/view/4422077235/) — NVIDIA
 - 📍 **Location:** Santa Clara, CA
 - 🕒 **Posted:** 2026-06-20
 
-### [Software Engineer, Backend, Level 4](https://www.linkedin.com/jobs/view/4421263365/) — Snap Inc.
-- 📍 **Location:** Palo Alto, CA
+### [Software Engineer II - Identity](https://www.linkedin.com/jobs/view/4417997343/) — Electronic Arts (EA)
+- 📍 **Location:** Redwood City, CA
 - 🕒 **Posted:** 2026-06-20
 
-### [Software Engineer, Backend, Level 5](https://www.linkedin.com/jobs/view/4420991365/) — Snap Inc.
-- 📍 **Location:** San Francisco, CA
+### [Associate Software Engineer, Core Infrastructure - Moveworks](https://www.linkedin.com/jobs/view/4369288501/) — ServiceNow
+- 📍 **Location:** Mountain View, CA
 - 🕒 **Posted:** 2026-06-20
 
-### [GenAI Python Systems Engineer-Manager](https://www.linkedin.com/jobs/view/4411738272/) — PwC
-- 📍 **Location:** San Francisco, CA
+### [Senior Software Engineer, At Scale Compute Analysis](https://www.linkedin.com/jobs/view/4402775288/) — NVIDIA
+- 📍 **Location:** Santa Clara, CA
 - 🕒 **Posted:** 2026-06-20
 
-### [GenAI Python Systems Engineer – Senior Associate](https://www.linkedin.com/jobs/view/4411727554/) — PwC
-- 📍 **Location:** San Francisco, CA
+### [Software Engineer II - Commerce](https://www.linkedin.com/jobs/view/4417990554/) — Electronic Arts (EA)
+- 📍 **Location:** Redwood City, CA
+- 🕒 **Posted:** 2026-06-20
+
+### [Senior Life Cycle Engineer, PyTorch - Deep Learning](https://www.linkedin.com/jobs/view/4402330638/) — NVIDIA
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-06-20
+
+### [Applied Deep Learning PhD Research Intern, Reinforcement Learning for LLMs - Fall 2026](https://www.linkedin.com/jobs/view/4410874474/) — NVIDIA
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-06-20
+
+### [Senior Software Engineer – Financial Systems Engineering](https://www.linkedin.com/jobs/view/4422079183/) — NVIDIA
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-06-20
+
+### [Senior C++ Software Engineer - Infrastructure Tools](https://www.linkedin.com/jobs/view/4422082100/) — NVIDIA
+- 📍 **Location:** Santa Clara, CA
 - 🕒 **Posted:** 2026-06-20
