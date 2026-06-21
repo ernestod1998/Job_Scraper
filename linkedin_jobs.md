@@ -1,12 +1,12 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area)
-*Last updated: 2026-06-21 00:17 UTC*
+*Last updated: 2026-06-21 01:17 UTC*
 
-**2 new role(s)** since last run · 2 total in last 1h
+**2 new role(s)** since last run · 4 total in last 1h
 
-### [LATAM - Data Science Engineer](https://www.linkedin.com/jobs/view/4428541839/) — Playsaurus Inc.
-- 📍 **Location:** Alameda, CA
+### [Software Engineer](https://www.linkedin.com/jobs/view/4417976234/) — Artie
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-06-21
 
-### [LATAM - Backend Developer](https://www.linkedin.com/jobs/view/4428548908/) — Playsaurus Inc.
-- 📍 **Location:** Alameda, CA
+### [Senior Software Engineer – AI-Augmented Development](https://www.linkedin.com/jobs/view/4430112914/) — CoreAi Consulting
+- 📍 **Location:** San Francisco Bay Area
 - 🕒 **Posted:** 2026-06-21
