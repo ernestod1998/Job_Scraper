@@ -1,40 +1,36 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area)
-*Last updated: 2026-06-21 16:17 UTC*
+*Last updated: 2026-06-21 17:08 UTC*
 
-**9 new role(s)** since last run · 19 total in last 1h
+**8 new role(s)** since last run · 13 total in last 1h
 
-### [Software Engineer - Workflow Platform](https://www.linkedin.com/jobs/view/4412155298/) — Addepar
-- 📍 **Location:** Mountain View, CA
+### [Machine Learning Infrastructure Engineer](https://www.linkedin.com/jobs/view/4081454578/) — Character.AI
+- 📍 **Location:** San Francisco Bay Area
 - 🕒 **Posted:** 2026-06-21
 
-### [Software Engineer, Robotic Applications](https://www.linkedin.com/jobs/view/4379326847/) — Atomic Machines
-- 📍 **Location:** Emeryville, CA
-- 🕒 **Posted:** 2026-06-21
-
-### [Software Engineer, AI SDK](https://www.linkedin.com/jobs/view/4342963837/) — Vercel
+### [Senior Software Engineer, Fraud](https://www.linkedin.com/jobs/view/4319403802/) — Whatnot
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-06-21
 
-### [Software Engineer - Data Platform Team at AI native Startup](https://www.linkedin.com/jobs/view/4412411414/) — Eightfold AI
-- 📍 **Location:** Santa Clara, CA
+### [AI Security Software Engineer (Starshield)](https://www.linkedin.com/jobs/view/4392002407/) — SpaceX
+- 📍 **Location:** Palo Alto, CA
 - 🕒 **Posted:** 2026-06-21
 
-### [Sr. Software Engineer, Data Plane, NPD Forwarding Stack, Data Plane](https://www.linkedin.com/jobs/view/4391552662/) — Amazon Web Services (AWS)
-- 📍 **Location:** Cupertino, CA
-- 🕒 **Posted:** 2026-06-21
-
-### [Lead Site Reliability Engineer](https://www.linkedin.com/jobs/view/4425533309/) — Stuut
+### [Senior Software Engineer, Storage](https://www.linkedin.com/jobs/view/4291800946/) — Crusoe
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-06-21
 
-### [Senior Software Engineer - Infrastructure Cloud Security](https://www.linkedin.com/jobs/view/4393146541/) — Snorkel AI
-- 📍 **Location:** Redwood City, CA
+### [Senior Software Engineer - Infrastructure Cloud Security](https://www.linkedin.com/jobs/view/4393153054/) — Snorkel AI
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-06-21
 
-### [Flight Research Navigation Software Engineer](https://www.linkedin.com/jobs/view/4382195832/) — Joby Aviation
-- 📍 **Location:** Santa Cruz, CA
+### [Applied Scientist- Pricing, Dynamic Pricing & Offer Selection](https://www.linkedin.com/jobs/view/4371638246/) — Lyft
+- 📍 **Location:** San Francisco County, CA
 - 🕒 **Posted:** 2026-06-21
 
-### [Data Engineering & AI Enablement Intern 2026](https://www.linkedin.com/jobs/view/4411964012/) — SB Energy
+### [Atlassian Cloud Engineer](https://www.linkedin.com/jobs/view/4372149933/) — Crusoe
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-06-21
+
+### [Senior Application Security Engineer](https://www.linkedin.com/jobs/view/4336876058/) — Zip
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-06-21
