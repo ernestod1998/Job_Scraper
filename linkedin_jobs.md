@@ -1,16 +1,12 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area)
-*Last updated: 2026-06-21 22:17 UTC*
+*Last updated: 2026-06-21 23:17 UTC*
 
-**3 new role(s)** since last run · 7 total in last 1h
+**2 new role(s)** since last run · 3 total in last 1h
 
-### [Data Scientist](https://www.linkedin.com/jobs/view/4430362715/) — Jobright.ai
+### [Data Scientist, Product Analytics](https://www.linkedin.com/jobs/view/4430369141/) — Flair AI
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-06-21
 
-### [Software Engineer - AI Agent](https://www.linkedin.com/jobs/view/4430367125/) — Jobright.ai
-- 📍 **Location:** San Mateo County, CA
-- 🕒 **Posted:** 2026-06-21
-
-### [Applied Scientist II, Visual Search Science](https://www.linkedin.com/jobs/view/4428900711/) — Amazon Science
-- 📍 **Location:** Palo Alto, CA
+### [Full Stack Engineer](https://www.linkedin.com/jobs/view/4430360134/) — Flair AI
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-06-21
