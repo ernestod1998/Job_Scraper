@@ -1,88 +1,68 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area)
-*Last updated: 2026-06-22 16:17 UTC*
+*Last updated: 2026-06-22 17:17 UTC*
 
-**21 new role(s)** since last run · 29 total in last 1h
+**16 new role(s)** since last run · 27 total in last 1h
 
-### [AI Research Scientist | Machine Learning | Deep Learning |Natural Language Processing | LLM | Hybrid | San Jose, CA](https://www.linkedin.com/jobs/view/4430581010/) — Enigma
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-06-22
-
-### [Senior Machine Learning Engineer](https://www.linkedin.com/jobs/view/4431725698/) — Harnham
+### [Software Engineer](https://www.linkedin.com/jobs/view/4431737349/) — Hilt
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-06-22
 
-### [Software Engineer - Personalization Platform (Frontend)](https://www.linkedin.com/jobs/view/4431723872/) — LinkedIn
-- 📍 **Location:** Mountain View, CA
-- 🕒 **Posted:** 2026-06-22
-
-### [Research Engineer / Scientist, Frontier Red Team (Cyber)](https://www.linkedin.com/jobs/view/4363467745/) — Anthropic
+### [Research Engineer, Machine Learning Systems](https://www.linkedin.com/jobs/view/4430566971/) — Deepgram
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-06-22
 
-### [Software Engineer](https://www.linkedin.com/jobs/view/4428955449/) — Russell Tobin
-- 📍 **Location:** San Jose, CA
+### [Senior Software Engineer, AI/ML, YouTube](https://www.linkedin.com/jobs/view/4430583006/) — Google
+- 📍 **Location:** San Bruno, CA
 - 🕒 **Posted:** 2026-06-22
 
-### [Software Engineer](https://www.linkedin.com/jobs/view/4431725997/) — Cisco
+### [Senior Machine Learning Engineer, On-Device & Mobile AI Optimization](https://www.linkedin.com/jobs/view/4431731819/) — Unity South APAC (SEA, ANZ, IND Subcont.)
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-06-22
+
+### [Research Engineer, AI Safety & Alignment](https://www.linkedin.com/jobs/view/4310498072/) — Character.AI
+- 📍 **Location:** Redwood City, CA
+- 🕒 **Posted:** 2026-06-22
+
+### [Remote Software Engineer – AI Research & Evaluation](https://www.linkedin.com/jobs/view/4430567932/) — Turing
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-06-22
+
+### [Backend Software Engineer, Codex for Finance](https://www.linkedin.com/jobs/view/4428954827/) — OpenAI
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-06-22
+
+### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4431741705/) — Opal Electronics
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-06-22
+
+### [Backend Software Engineer](https://www.linkedin.com/jobs/view/4424467575/) — Recruiting from Scratch
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-06-22
+
+### [Senior Software Engineer, Platform](https://www.linkedin.com/jobs/view/4431749495/) — Compa
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-06-22
+
+### [Senior Software Engineer (Full Stack / Product Engineering)](https://www.linkedin.com/jobs/view/4427754173/) — Recruiting from Scratch
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-06-22
+
+### [Frontend Engineer (San Francisco, CA)](https://www.linkedin.com/jobs/view/4430577087/) — Fuel Talent
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-06-22
+
+### [Software Engineering Technical Leader](https://www.linkedin.com/jobs/view/4431738133/) — Cisco
 - 📍 **Location:** Milpitas, CA
 - 🕒 **Posted:** 2026-06-22
 
-### [Software Engineer](https://www.linkedin.com/jobs/view/4290771622/) — Chalk
+### [Senior Software Engineer, Core Infrastructure](https://www.linkedin.com/jobs/view/4363471805/) — Harvey
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-06-22
 
-### [Software Engineer 2](https://www.linkedin.com/jobs/view/4430566777/) — Cypress HCM
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-06-22
-
-### [Full Stack Software Engineer](https://www.linkedin.com/jobs/view/4406562211/) — Chalk
+### [Senior Software Engineer, Backend](https://www.linkedin.com/jobs/view/4425278511/) — Recruiting from Scratch
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-06-22
 
-### [Senior ML/AI Engineer](https://www.linkedin.com/jobs/view/4421850307/) — MrBeast
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-06-22
-
-### [Senior AI Engineer](https://www.linkedin.com/jobs/view/4431729265/) — Harnham
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-06-22
-
-### [AI Engineer](https://www.linkedin.com/jobs/view/4430573707/) — Harnham
-- 📍 **Location:** San Francisco County, CA
-- 🕒 **Posted:** 2026-06-22
-
-### [Senior AI Engineer](https://www.linkedin.com/jobs/view/4431724695/) — Harnham
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-06-22
-
-### [Senior AI Software Engineer](https://www.linkedin.com/jobs/view/4430553982/) — Harnham
-- 📍 **Location:** San Francisco County, CA
-- 🕒 **Posted:** 2026-06-22
-
-### [Infrastructure Engineer](https://www.linkedin.com/jobs/view/4406566178/) — Chalk
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-06-22
-
-### [Frontend Software Engineer](https://www.linkedin.com/jobs/view/4406568149/) — Chalk
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-06-22
-
-### [Remote Software Engineer – AI Research & Evaluation](https://www.linkedin.com/jobs/view/4430581000/) — Turing
-- 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-06-22
-
-### [Backend Engineer](https://www.linkedin.com/jobs/view/4430551999/) — SproutsAI
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-06-22
-
-### [Senior Full Stack Engineer](https://www.linkedin.com/jobs/view/4431743066/) — Goliath Partners
-- 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-06-22
-
-### [Senior Software Engineer - Salesforce](https://www.linkedin.com/jobs/view/4431721930/) — Delta Dental Ins.
-- 📍 **Location:** Oakland, CA
-- 🕒 **Posted:** 2026-06-22
-
-### [Senior Cloud Engineer Azure](https://www.linkedin.com/jobs/view/4405260706/) — BMO U.S.
-- 📍 **Location:** San Francisco, CA
+### [Senior Software Engineer (Mandarin-speaking)](https://www.linkedin.com/jobs/view/4426382049/) — Bellota Labs
+- 📍 **Location:** Redwood City, CA
 - 🕒 **Posted:** 2026-06-22
