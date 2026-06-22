@@ -1,87 +1,74 @@
 # 🟦 Indeed — Engineering / ML / DS Roles (SF Bay Area)
-*Last updated: 2026-06-22 21:41 UTC*
+*Last updated: 2026-06-22 23:54 UTC*
 
-**17 new role(s)** since last run · 37 total in last 24h
+**15 new role(s)** since last run · 47 total in last 24h
 
-### [Senior Software Engineer, Generative AI, Core ML](https://www.indeed.com/viewjob?jk=ec469a6b2e10080b) — Google
-- 📍 **Location:** Mountain View, CA, US
-- 💰 **Salary:** $174k–$253k/yr
-- 🕒 **Posted:** 2026-06-22
-
-### [Senior AI Platform Engineer](https://www.indeed.com/viewjob?jk=679b995b3aa9e079) — SS&C
+### [Machine Learning Engineer](https://www.indeed.com/viewjob?jk=1b243686772972c6) — University of California - San Francisco
 - 📍 **Location:** San Francisco, CA, US
-- 💰 **Salary:** $140k–$180k/yr
 - 🕒 **Posted:** 2026-06-22
 
-### [Machine Learning Engineer](https://www.indeed.com/viewjob?jk=9c0458d76bdef156) — Intuitive (Intuitive Surgical)
-- 📍 **Location:** San Francisco, CA, US
-- 💰 **Salary:** $139k–$236k/yr
-- 🕒 **Posted:** 2026-06-22
-
-### [Data Scientist - Mapping](https://www.indeed.com/viewjob?jk=43ef178d2c5fe29c) — Zoox
-- 📍 **Location:** Foster City, CA, US
-- 💰 **Salary:** $176k–$240k/yr
-- 🕒 **Posted:** 2026-06-22
-
-### [AI/ML Engineering Manager](https://www.indeed.com/viewjob?jk=add3862cab5a367d) — Corsair
-- 📍 **Location:** Milpitas, CA, US
-- 💰 **Salary:** $170k–$210k/yr
-- 🕒 **Posted:** 2026-06-22
-
-### [Senior Software Engineer, Behavior Prediction- Planning](https://www.indeed.com/viewjob?jk=538920d281f7da04) — Kodiak
-- 📍 **Location:** Mountain View, CA, US
-- 🕒 **Posted:** 2026-06-22
-
-### [Infrastructure Engineer - Developer Platform](https://www.indeed.com/viewjob?jk=1fbb9df241d465d0) — Unknown
-- 📍 **Location:** San Francisco, CA, US
-- 💰 **Salary:** $180k–$280k/yr
-- 🕒 **Posted:** 2026-06-22
-
-### [Software Engineer](https://www.indeed.com/viewjob?jk=4d7edf6138a55eb4) — Visa
-- 📍 **Location:** Foster City, CA, US
-- 💰 **Salary:** $98k–$152k/yr
-- 🕒 **Posted:** 2026-06-22
-
-### [Lead DevOps Engineer](https://www.indeed.com/viewjob?jk=08d8a518ab5e14ab) — Happen Bank
-- 📍 **Location:** San Francisco, CA, US
-- 💰 **Salary:** $185k–$215k/yr
-- 🕒 **Posted:** 2026-06-22
-
-### [Software Engineering Manager, Site Reliability Engineering](https://www.indeed.com/viewjob?jk=396b8a538b8d48aa) — Google
+### [(USA) Software Engineer III](https://www.indeed.com/viewjob?jk=a33ab6c4631fc8b8) — Walmart
 - 📍 **Location:** Sunnyvale, CA, US
-- 💰 **Salary:** $207k–$301k/yr
+- 💰 **Salary:** $117k–$234k/yr
 - 🕒 **Posted:** 2026-06-22
 
-### [Security Engineer III, AutoVM](https://www.indeed.com/viewjob?jk=80f88b5b1c64c8a3) — Google
-- 📍 **Location:** San Jose, CA, US
-- 💰 **Salary:** $147k–$211k/yr
+### [Senior Data Scientist](https://www.indeed.com/viewjob?jk=25a99ebec39ec68c) — Arine
+- 📍 **Location:** San Francisco, CA, US
+- 💰 **Salary:** $160k–$180k/yr
 - 🕒 **Posted:** 2026-06-22
 
-### [Software Engineer - Networking Software and Services](https://www.indeed.com/viewjob?jk=326c85cbaece1d05) — Xai
+### [Senior Machine Learning Engineer, Risk Modeling](https://www.indeed.com/viewjob?jk=c96ebe8f7e65bd71) — Block
+- 📍 **Location:** San Francisco Bay Area, CA, US
+- 🕒 **Posted:** 2026-06-22
+
+### [Data Scientist/ Data Architect](https://www.indeed.com/viewjob?jk=17be7a125f62a198) — DDN
+- 📍 **Location:** San Francisco, CA, US
+- 💰 **Salary:** $265k–$320k/yr
+- 🕒 **Posted:** 2026-06-05
+
+### [Senior AI/ML Software Developer (req-260)](https://www.indeed.com/viewjob?jk=d37a4c6071acc539) — Cathexis
+- 📍 **Location:** Redwood City, CA, US
+- 💰 **Salary:** $148k–$179k/yr
+- 🕒 **Posted:** 2026-06-22
+
+### [Applied Scientist II, Search Ranking](https://www.indeed.com/viewjob?jk=49bee9db02261034) — Amazon.com
 - 📍 **Location:** Palo Alto, CA, US
+- 💰 **Salary:** $143k–$193k/yr
+- 🕒 **Posted:** 2026-01-30
+
+### [Backend Engineer, Flag Delivery](https://www.indeed.com/viewjob?jk=cf8f276b63513e45) — LaunchDarkly
+- 📍 **Location:** Oakland, CA, US
+- 💰 **Salary:** $146k–$235k/yr
 - 🕒 **Posted:** 2026-06-22
 
-### [Software Engineering Technical Leader](https://www.indeed.com/viewjob?jk=c24018f0a635ba88) — Cisco
-- 📍 **Location:** Milpitas, CA, US
-- 💰 **Salary:** $164k–$303k/yr
+### [Computer Vision Engineering Intern - Fall 2026](https://www.indeed.com/viewjob?jk=25d79e6a44993616) — Intuitive
+- 📍 **Location:** Sunnyvale, CA, US
 - 🕒 **Posted:** 2026-06-22
 
-### [Software Developer III, Embedded Systems/Firmware, XR](https://www.indeed.com/viewjob?jk=757d3f87c995e72d) — Google
-- 📍 **Location:** San Jose, CA, US
-- 💰 **Salary:** $147k–$211k/yr
+### [Associate AI/ML Software Developer (req-258)](https://www.indeed.com/viewjob?jk=b6a9e780a54684b6) — Cathexis
+- 📍 **Location:** Redwood City, CA, US
+- 💰 **Salary:** $120k–$145k/yr
 - 🕒 **Posted:** 2026-06-22
 
-### [Senior Software Engineer](https://www.indeed.com/viewjob?jk=bccd345f94aa456e) — General Motors (GM)
+### [AI/ML Software Developer (req-259)](https://www.indeed.com/viewjob?jk=0209fbcca23d2295) — Cathexis
+- 📍 **Location:** Redwood City, CA, US
+- 💰 **Salary:** $123k–$150k/yr
+- 🕒 **Posted:** 2026-06-22
+
+### [Software Engineer, Connectivity Cloud](https://www.indeed.com/viewjob?jk=752bd7b4ec4f835a) — Rivian and Volkswagen Group Technologies
+- 📍 **Location:** Palo Alto, CA, US
+- 💰 **Salary:** $116k–$145k/yr
+- 🕒 **Posted:** 2026-06-22
+
+### [Sr. Software Engineer](https://www.indeed.com/viewjob?jk=1b9c03d73ee30c0d) — XoriantːUS
+- 📍 **Location:** Sunnyvale, CA, US
+- 🕒 **Posted:** 2019-09-04
+
+### [Systems Engineer](https://www.indeed.com/viewjob?jk=f7a715d62312b9fa) — Santa Clara University
+- 📍 **Location:** Santa Clara, CA, US
+- 🕒 **Posted:** 2026-06-22
+
+### [Senior Manager, Software Engineering](https://www.indeed.com/viewjob?jk=30983ae7f5d28ab5) — iRhythm Technologies
 - 📍 **Location:** San Francisco, CA, US
-- 💰 **Salary:** $202k–$206k/yr
-- 🕒 **Posted:** 2026-06-22
-
-### [Senior Software Engineering Manager, Security, Detection and Response](https://www.indeed.com/viewjob?jk=9d1fbe1bab926dfd) — Google
-- 📍 **Location:** San Francisco, CA, US
-- 💰 **Salary:** $262k–$365k/yr
-- 🕒 **Posted:** 2026-06-22
-
-### [BIM Specialist - Kiewit Infrastructure Engineers](https://www.indeed.com/viewjob?jk=a8cc9a59bb7eaae7) — Kiewit Corporation
-- 📍 **Location:** San Jose, CA, US
-- 💰 **Salary:** $85k–$95k/yr
+- 💰 **Salary:** $166k–$216k/yr
 - 🕒 **Posted:** 2026-06-22
