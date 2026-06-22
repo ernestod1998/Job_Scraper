@@ -1,208 +1,124 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area)
-*Last updated: 2026-06-22 08:41 UTC*
+*Last updated: 2026-06-22 15:17 UTC*
 
-**51 new role(s)** since last run · 51 total in last 1h
+**30 new role(s)** since last run · 30 total in last 1h
 
-### [AI/ML Engineer ($250k-$400k + Equity) at Known](https://www.linkedin.com/jobs/view/4430384332/) — Jack & Jill
-- 📍 **Location:** San Francisco, CA
+### [Software Engineer, Context Platform](https://www.linkedin.com/jobs/view/4326701472/) — Glean
+- 📍 **Location:** Mountain View, CA
 - 🕒 **Posted:** 2026-06-22
 
-### [Machine Learning Engineer at Terranox AI](https://www.linkedin.com/jobs/view/4430379390/) — Jack & Jill
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-06-22
-
-### [Senior Machine Learning Engineer ($250k + $100k Equity) at Omen AI](https://www.linkedin.com/jobs/view/4430374375/) — Jack & Jill
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-06-22
-
-### [Machine Learning Engineer: LLM Interpretability & Systems ($175K – $250K + Equity) at CTGT, Inc.](https://www.linkedin.com/jobs/view/4430390291/) — Jack & Jill
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-06-22
-
-### [Software Engineer, Platform ($200k-$250k + Equity) at Duckbill](https://www.linkedin.com/jobs/view/4430383348/) — Jack & Jill
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-06-22
-
-### [Software Engineer, iOS/Mobile ($135K – $260K + Equity) at Beacon AI Inc.](https://www.linkedin.com/jobs/view/4430384321/) — Jack & Jill
-- 📍 **Location:** San Carlos, CA
-- 🕒 **Posted:** 2026-06-22
-
-### [Software Engineer ($140K - $250K + Equity) at Opal Security](https://www.linkedin.com/jobs/view/4430376359/) — Jack & Jill
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-06-22
-
-### [Software Engineer at Strala](https://www.linkedin.com/jobs/view/4430388295/) — Jack & Jill
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-06-22
-
-### [Software Engineer, Infrastructure ($140K–$215K + Equity) at Opal Security](https://www.linkedin.com/jobs/view/4430386281/) — Jack & Jill
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-06-22
-
-### [Senior Software Engineer - AI Data & Analytics at HOAi](https://www.linkedin.com/jobs/view/4430383337/) — Jack & Jill
+### [Data Scientist](https://www.linkedin.com/jobs/view/4430572349/) — Smart IT Frame LLC
 - 📍 **Location:** Redwood City, CA
 - 🕒 **Posted:** 2026-06-22
 
-### [Senior Software Engineer (+ Equity) at CommodityAI](https://www.linkedin.com/jobs/view/4430393312/) — Jack & Jill
+### [Expression of Interest: Machine Learning Engineer](https://www.linkedin.com/jobs/view/4382188165/) — Moloco
+- 📍 **Location:** Menlo Park, CA
+- 🕒 **Posted:** 2026-06-22
+
+### [Software Engineer](https://www.linkedin.com/jobs/view/4428968154/) — Morph Systems
+- 📍 **Location:** Mountain View, CA
+- 🕒 **Posted:** 2026-06-22
+
+### [Software Engineer](https://www.linkedin.com/jobs/view/4428967149/) — Glocomms
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-06-22
+
+### [Data Scientist](https://www.linkedin.com/jobs/view/4430571641/) — Jobright.ai
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-06-22
 
-### [Lead Software Engineer, Frontend/Web App ($185K – $240K + Equity) at Beacon AI Inc.](https://www.linkedin.com/jobs/view/4430386287/) — Jack & Jill
-- 📍 **Location:** San Carlos, CA
+### [Software Engineer - AI Agent](https://www.linkedin.com/jobs/view/4430566497/) — Jobright.ai
+- 📍 **Location:** San Mateo County, CA
 - 🕒 **Posted:** 2026-06-22
 
-### [Software Engineer, TPU Host Networking](https://www.linkedin.com/jobs/view/4430395240/) — Google
+### [Data Engineer](https://www.linkedin.com/jobs/view/4428953452/) — Rivago Infotech Inc
+- 📍 **Location:** Concord, CA
+- 🕒 **Posted:** 2026-06-22
+
+### [Machine Learning Engineer, Speech LLM Training](https://www.linkedin.com/jobs/view/4430550610/) — Jobright.ai
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-06-22
+
+### [AI Engineer](https://www.linkedin.com/jobs/view/4431711830/) — Harnham
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-06-22
+
+### [Senior Software Defined Radio Software Engineer](https://www.linkedin.com/jobs/view/4281401821/) — TCI International, Inc.
+- 📍 **Location:** Fremont, CA
+- 🕒 **Posted:** 2026-06-22
+
+### [Software Engineer, Guest Travel](https://www.linkedin.com/jobs/view/4392095309/) — Ramp
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-06-22
+
+### [AI Infrastructure Engineer](https://www.linkedin.com/jobs/view/4430553643/) — Lorven Technologies Inc.
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-06-22
+
+### [Infrastructure Engineer (AI Factory)](https://www.linkedin.com/jobs/view/4430558327/) — PRI Global
 - 📍 **Location:** Sunnyvale, CA
 - 🕒 **Posted:** 2026-06-22
 
-### [Research Engineer](https://www.linkedin.com/jobs/view/4428922694/) — Acceler8 Talent
+### [Sr Software Engineer - LCM - Veza](https://www.linkedin.com/jobs/view/4430718681/) — ServiceNow
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-06-22
+
+### [Backend Engineer](https://www.linkedin.com/jobs/view/4324478525/) — Wealthfront
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-06-22
 
-### [Software Engineer ($150k-$250k + Equity) at Altara](https://www.linkedin.com/jobs/view/4430388296/) — Jack & Jill
+### [Software Engineer, Core Infrastructure - Moveworks](https://www.linkedin.com/jobs/view/4430178153/) — ServiceNow
+- 📍 **Location:** Mountain View, CA
+- 🕒 **Posted:** 2026-06-22
+
+### [Remote Software Engineer](https://www.linkedin.com/jobs/view/4430564378/) — Turing
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-06-22
+
+### [Full Stack Engineer - Growth](https://www.linkedin.com/jobs/view/4430562417/) — Jobright.ai
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-06-22
 
-### [Software Engineer at fast-growing Series A healthtech startup](https://www.linkedin.com/jobs/view/4430375342/) — Jack & Jill
+### [Senior Frontend Engineer](https://www.linkedin.com/jobs/view/4428959166/) — Glocomms
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-06-22
+
+### [Full Stack Engineer](https://www.linkedin.com/jobs/view/4431725412/) — Ascii Group, LLC
+- 📍 **Location:** Santa Clara County, CA
+- 🕒 **Posted:** 2026-06-22
+
+### [Full Stack Engineer](https://www.linkedin.com/jobs/view/4430559394/) — Fonzi AI
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-06-22
+
+### [Backend Engineer](https://www.linkedin.com/jobs/view/4428963028/) — TRANSREACH TALENT LLC
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-06-22
+
+### [Analytics Engineer](https://www.linkedin.com/jobs/view/4412638307/) — Plaid
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-06-22
+
+### [Systems Engineer](https://www.linkedin.com/jobs/view/4312341186/) — Zipline
+- 📍 **Location:** South San Francisco, CA
+- 🕒 **Posted:** 2026-06-22
+
+### [Security Engineer with Zscaler](https://www.linkedin.com/jobs/view/4431704700/) — Arkhya Tech. Inc.
+- 📍 **Location:** Mountain View, CA
+- 🕒 **Posted:** 2026-06-22
+
+### [Senior Security Engineer](https://www.linkedin.com/jobs/view/4315282324/) — Otter.ai
+- 📍 **Location:** Mountain View, CA
+- 🕒 **Posted:** 2026-06-22
+
+### [Senior Analytics Engineer - Marketplace](https://www.linkedin.com/jobs/view/4380009511/) — Faire
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-06-22
 
-### [Software Engineer, Privacy & Data GovernanceNew](https://www.linkedin.com/jobs/view/4430388172/) — Figure
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-06-22
-
-### [Software Engineer (AI Agents) ($180K - $300K + Equity) at Pylon Labs, Inc.](https://www.linkedin.com/jobs/view/4430380340/) — Jack & Jill
+### [Growth Data Engineer](https://www.linkedin.com/jobs/view/4430574048/) — Jobright.ai
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-06-22
 
-### [AI Engineer ($170k-$220k + Equity) at Withshepherd](https://www.linkedin.com/jobs/view/4430396246/) — Jack & Jill
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-06-22
-
-### [AI Engineer (Generalist) ($180K-$250K + Equity) at BUILD, Inc.](https://www.linkedin.com/jobs/view/4430395261/) — Jack & Jill
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-06-22
-
-### [AI Engineer ($190K–$230K )](https://www.linkedin.com/jobs/view/4428908851/) — CodeRound AI
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-06-22
-
-### [Applied AI Engineer at Innovative AI simulation startup](https://www.linkedin.com/jobs/view/4430383352/) — Jack & Jill
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-06-22
-
-### [Frontend Engineer ($160K–$250K + Equity) at Greptile](https://www.linkedin.com/jobs/view/4430375349/) — Jack & Jill
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-06-22
-
-### [Software Engineer, Product ($140k–$250k + Equity) at fast-growing AI edtech startup](https://www.linkedin.com/jobs/view/4430374387/) — Jack & Jill
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-06-22
-
-### [Product Infrastructure Engineer ($200k-$220k + Equity) at Truewind](https://www.linkedin.com/jobs/view/4430392279/) — Jack & Jill
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-06-22
-
-### [Backend Engineer (+ Equity) at VC-backed AI retention platform](https://www.linkedin.com/jobs/view/4430382343/) — Jack & Jill
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-06-22
-
-### [AI Engineer](https://www.linkedin.com/jobs/view/4428908697/) — Haystack
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-06-22
-
-### [Autonomy and Robotics Software Engineer](https://www.linkedin.com/jobs/view/4431676008/) — Mach Industries
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-06-22
-
-### [Full Stack Engineer ($250k-$300k + Equity) at Caplight](https://www.linkedin.com/jobs/view/4430389280/) — Jack & Jill
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-06-22
-
-### [Backend Engineer at Tavus](https://www.linkedin.com/jobs/view/4430393308/) — Jack & Jill
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-06-22
-
-### [Senior Full-Stack Engineer ($180k-$200k + Equity) at blok](https://www.linkedin.com/jobs/view/4430375344/) — Jack & Jill
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-06-22
-
-### [Backend Engineer (+ Equity) at LlamaIndex](https://www.linkedin.com/jobs/view/4430383341/) — Jack & Jill
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-06-22
-
-### [Full-Stack Engineer at Drafter Inc.](https://www.linkedin.com/jobs/view/4430398021/) — Jack & Jill
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-06-22
-
-### [Senior Backend Engineer at Casa](https://www.linkedin.com/jobs/view/4430393310/) — Jack & Jill
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-06-22
-
-### [Frontend Engineer & UI Designer (Developer Tooling)](https://www.linkedin.com/jobs/view/4431657329/) — SearchApi
-- 📍 **Location:** Hong Kong, Hong Kong SAR
-- 🕒 **Posted:** 2026-06-22
-
-### [Frontend Developer](https://www.linkedin.com/jobs/view/4428903754/) — Haystack
-- 📍 **Location:** London, England, United Kingdom
-- 🕒 **Posted:** 2026-06-22
-
-### [Senior Frontend Engineer](https://www.linkedin.com/jobs/view/4428904804/) — Haystack
-- 📍 **Location:** London, England, United Kingdom
-- 🕒 **Posted:** 2026-06-22
-
-### [Frontend Engineer & UI Designer (Developer Tooling)](https://www.linkedin.com/jobs/view/4431664175/) — SearchApi
-- 📍 **Location:** Singapore
-- 🕒 **Posted:** 2026-06-22
-
-### [Senior Frontend Engineer](https://www.linkedin.com/jobs/view/4400560665/) — Gomibo l Belsimpel
-- 📍 **Location:** Groningen, Groningen, Netherlands
-- 🕒 **Posted:** 2026-06-22
-
-### [Senior Frontend Engineer](https://www.linkedin.com/jobs/view/4430392353/) — Ansarada
-- 📍 **Location:** Ho Chi Minh City, Ho Chi Minh City, Vietnam
-- 🕒 **Posted:** 2026-06-22
-
-### [Frontend Developer](https://www.linkedin.com/jobs/view/4430383562/) — FPT Asia Pacific
-- 📍 **Location:** Singapore, Singapore
-- 🕒 **Posted:** 2026-06-22
-
-### [Frontend Developer](https://www.linkedin.com/jobs/view/4431656588/) — Zenovo
-- 📍 **Location:** Lithuania
-- 🕒 **Posted:** 2026-06-22
-
-### [Frontend Developer](https://www.linkedin.com/jobs/view/4431656514/) — Pearson Carter
-- 📍 **Location:** Wirral, England, United Kingdom
-- 🕒 **Posted:** 2026-06-22
-
-### [Frontend Engineer at Stealth AI-powered retention startup](https://www.linkedin.com/jobs/view/4430394293/) — Jack & Jill
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-06-22
-
-### [Senior Software Engineer ($120K - $180K + Equity) at Truewind](https://www.linkedin.com/jobs/view/4430380339/) — Jack & Jill
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-06-22
-
-### [Senior Full Stack AI Engineer at Taste](https://www.linkedin.com/jobs/view/4430376358/) — Jack & Jill
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-06-22
-
-### [Senior Software Engineer ($180K–$220K + Equity) at CTGT, Inc.](https://www.linkedin.com/jobs/view/4430373879/) — Jack & Jill
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-06-22
-
-### [Senior Backend Engineer (+ Equity) at Caplight](https://www.linkedin.com/jobs/view/4430376366/) — Jack & Jill
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-06-22
-
-### [Deployment Infrastructure Engineer at well-funded enterprise AI platform](https://www.linkedin.com/jobs/view/4430375352/) — Jack & Jill
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-06-22
-
-### [Security Engineer, Vulnerability Management and AutomationNew](https://www.linkedin.com/jobs/view/4430381190/) — Figure
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-06-22
-
-### [Senior Security Engineer ($210K – $350K + Equity) at Giga](https://www.linkedin.com/jobs/view/4430393319/) — Jack & Jill
+### [Senior Analytics Engineering Manager](https://www.linkedin.com/jobs/view/4403548785/) — Nextdoor
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-06-22
