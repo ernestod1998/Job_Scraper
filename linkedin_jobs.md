@@ -1,88 +1,100 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area)
-*Last updated: 2026-06-23 18:17 UTC*
+*Last updated: 2026-06-23 19:17 UTC*
 
-**21 new role(s)** since last run · 27 total in last 1h
+**24 new role(s)** since last run · 36 total in last 1h
 
-### [ML and Agentic Systems Engineer](https://www.linkedin.com/jobs/view/4395475477/) — NVIDIA
-- 📍 **Location:** Santa Clara, CA
+### [Data Scientist](https://www.linkedin.com/jobs/view/4431299534/) — TheCorporate
+- 📍 **Location:** San Ramon, CA
 - 🕒 **Posted:** 2026-06-23
 
-### [Software Engineer, Test Infrastructure](https://www.linkedin.com/jobs/view/4249415639/) — Muon Space
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-06-23
-
-### [Senior Software Engineer, AI Agent Runtime and Open Source Infrastructure](https://www.linkedin.com/jobs/view/4413180381/) — NVIDIA
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-06-23
-
-### [Senior Systems Software Engineer, Windows and Linux Enablement -  DGX Station](https://www.linkedin.com/jobs/view/4423292583/) — NVIDIA
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-06-23
-
-### [Security Software Engineer Project Intern (Network Security) - 2026 Start (BS/MS)](https://www.linkedin.com/jobs/view/4432413655/) — ByteDance
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-06-23
-
-### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4431293374/) — Product Pulse
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-06-23
-
-### [Manager, Data Science - Consumer Identity Machine Learning](https://www.linkedin.com/jobs/view/4421891751/) — Capital One
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-06-23
-
-### [AI/ML Scientist Intern, AIMS AI Foundations (PhD) – Fall 2026](https://www.linkedin.com/jobs/view/4429448725/) — Netflix
-- 📍 **Location:** Los Gatos, CA
-- 🕒 **Posted:** 2026-06-23
-
-### [Senior AI Engineer – PLM Domain Must (Agile or Teamcenter)](https://www.linkedin.com/jobs/view/4432404501/) — Cygnus Professionals Inc.
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-06-23
-
-### [Full Stack Engineer- Medical Monitoring Wearable Device](https://www.linkedin.com/jobs/view/4431287459/) — HealthCare Recruiters International
+### [Machine Learning Engineer](https://www.linkedin.com/jobs/view/4432420866/) — Harrison Clarke
 - 📍 **Location:** San Francisco Bay Area
 - 🕒 **Posted:** 2026-06-23
 
-### [Software Engineer, Cash App - Lending Products](https://www.linkedin.com/jobs/view/4419219305/) — Cash App
+### [Data Scientist](https://www.linkedin.com/jobs/view/4431280839/) — inSync Staffing
+- 📍 **Location:** San Ramon, CA
+- 🕒 **Posted:** 2026-06-23
+
+### [Software Engineer III](https://www.linkedin.com/jobs/view/4431287614/) — Velovox Infotech
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-06-23
+
+### [Software Engineer, Web Products](https://www.linkedin.com/jobs/view/4429466872/) — Databricks
+- 📍 **Location:** Mountain View, CA
+- 🕒 **Posted:** 2026-06-23
+
+### [Senior Data Scientist](https://www.linkedin.com/jobs/view/4429461865/) — Rose International
+- 📍 **Location:** San Ramon, CA
+- 🕒 **Posted:** 2026-06-23
+
+### [Applied AI Scientist](https://www.linkedin.com/jobs/view/4431291691/) — Demandbase
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-06-23
 
-### [Senior Software Engineer, CUDA Core Libraries](https://www.linkedin.com/jobs/view/4395486152/) — NVIDIA
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-06-23
-
-### [Senior Infrastructure Engineer — Certification Authority](https://www.linkedin.com/jobs/view/4432299933/) — Fastly
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-06-23
-
-### [Lab Infrastructure Engineer](https://www.linkedin.com/jobs/view/4432417484/) — VBeyond Corporation
-- 📍 **Location:** Menlo Park, CA
-- 🕒 **Posted:** 2026-06-23
-
-### [Cellular-DevOps Engineer](https://www.linkedin.com/jobs/view/4432419434/) — VBeyond Corporation
-- 📍 **Location:** Menlo Park, CA
-- 🕒 **Posted:** 2026-06-23
-
-### [Cellular DevOps Engineer – Wearables Connectivity (Only W2)](https://www.linkedin.com/jobs/view/4432404584/) — VBeyond Corporation
-- 📍 **Location:** Menlo Park, CA
-- 🕒 **Posted:** 2026-06-23
-
-### [Cellular Devops Engineer- Telecom Network -Only W2](https://www.linkedin.com/jobs/view/4432420212/) — VBeyond Corporation
-- 📍 **Location:** Menlo Park, CA
-- 🕒 **Posted:** 2026-06-23
-
-### [Systems Engineer, IFPCS Verification](https://www.linkedin.com/jobs/view/4432412689/) — Joby Aviation
-- 📍 **Location:** Santa Cruz, CA
-- 🕒 **Posted:** 2026-06-23
-
-### [Data Engineer](https://www.linkedin.com/jobs/view/4431403052/) — Hillview Consulting Solutions
-- 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-06-23
-
-### [Sr. IT Data Engineer](https://www.linkedin.com/jobs/view/4432418329/) — xAI
+### [Software Engineer II, Backend (Infrastructure Platform)](https://www.linkedin.com/jobs/view/4431288682/) — Affirm
 - 📍 **Location:** Palo Alto, CA
 - 🕒 **Posted:** 2026-06-23
 
-### [Bioinformatics Scientist](https://www.linkedin.com/jobs/view/4419650237/) — Discover International
-- 📍 **Location:** San Francisco Bay Area
+### [Software Engineer II, Backend (Infrastructure Platform)](https://www.linkedin.com/jobs/view/4431295601/) — Affirm
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-06-23
+
+### [Software Engineer II, Backend (Infrastructure Platform)](https://www.linkedin.com/jobs/view/4431283690/) — Affirm
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-06-23
+
+### [Research Engineer, Global E-commerce](https://www.linkedin.com/jobs/view/4431406126/) — TikTok
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-06-23
+
+### [AI Automation / Agentic AI Engineer (Deployed)](https://www.linkedin.com/jobs/view/4429456744/) — Spherion Staffing & Recruiting, Milpitas CA
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-06-23
+
+### [Agentic AI Engineer](https://www.linkedin.com/jobs/view/4431297635/) — BayOne Solutions
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-06-23
+
+### [Senior AI Engineer with Java (W2 & Full-Time | Remote Possible)](https://www.linkedin.com/jobs/view/4429446944/) — Redolent, Inc
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-06-23
+
+### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4307243714/) — Confidential
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-06-23
+
+### [Développeur.se de logiciels / Software Developer](https://www.linkedin.com/jobs/view/4418782890/) — Electronic Arts (EA)
+- 📍 **Location:** Redwood City, CA
+- 🕒 **Posted:** 2026-06-23
+
+### [Senior Frontend Engineer](https://www.linkedin.com/jobs/view/4432433103/) — Baseten
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-06-23
+
+### [Mobile Engineer - Fintech / Banking Start-Up Experience](https://www.linkedin.com/jobs/view/4432425344/) — Phaxis
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-06-23
+
+### [GenAI Platform Cloud Engineer](https://www.linkedin.com/jobs/view/4431293626/) — Technogen India Pvt. Ltd.
+- 📍 **Location:** Concord, CA
+- 🕒 **Posted:** 2026-06-23
+
+### [Senior Site Reliability Engineer - Video Platform - USDS](https://www.linkedin.com/jobs/view/4432424335/) — TikTok USDS Joint Venture
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-06-23
+
+### [Senior Systems Software Engineer, AI Stack and Performance - DGX Station](https://www.linkedin.com/jobs/view/4423288855/) — NVIDIA
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-06-23
+
+### [Lead AI Engineer (FM Hosting, LLM Inference)](https://www.linkedin.com/jobs/view/4422426091/) — Capital One
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-06-23
+
+### [Senior Site Reliability Engineer, Product - USDS](https://www.linkedin.com/jobs/view/4432441010/) — TikTok USDS Joint Venture
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-06-23
+
+### [Software Engineer Project Intern (AI Infrastructure) - 2026 Start (PhD)](https://www.linkedin.com/jobs/view/4432416644/) — ByteDance
+- 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-06-23
