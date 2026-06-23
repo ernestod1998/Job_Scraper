@@ -1,52 +1,44 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area)
-*Last updated: 2026-06-23 03:17 UTC*
+*Last updated: 2026-06-23 04:44 UTC*
 
-**12 new role(s)** since last run · 20 total in last 1h
+**10 new role(s)** since last run · 10 total in last 1h
 
-### [ML Software Engineer](https://www.linkedin.com/jobs/view/4429438553/) — eBay
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-06-23
-
-### [Fullstack Software Engineer](https://www.linkedin.com/jobs/view/4429615868/) — TSMC
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-06-23
-
-### [Software Engineer, Systems](https://www.linkedin.com/jobs/view/4432065884/) — Chariot Defense
-- 📍 **Location:** South San Francisco, CA
-- 🕒 **Posted:** 2026-06-23
-
-### [Senior Data Engineer / Data Curator](https://www.linkedin.com/jobs/view/4429605893/) — TSMC
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-06-23
-
-### [Software Engineer, Embedded Linux](https://www.linkedin.com/jobs/view/4432070908/) — Chariot Defense
-- 📍 **Location:** South San Francisco, CA
-- 🕒 **Posted:** 2026-06-23
-
-### [AI Engineering - Power & Utilities Sector - Senior Manager - Consulting](https://www.linkedin.com/jobs/view/4429445295/) — EY
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-06-23
-
-### [AI Engineering - Power & Utilities Sector - Senior Manager - Consulting](https://www.linkedin.com/jobs/view/4429430386/) — EY
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-06-23
-
-### [AI Engineering - Power & Utilities Sector - Senior Manager - Consulting](https://www.linkedin.com/jobs/view/4429423468/) — EY
+### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4430854773/) — Employia
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-06-23
 
-### [AI Engineer](https://www.linkedin.com/jobs/view/4430863314/) — David Joseph & Company
+### [Senior Robotics Software Engineer](https://www.linkedin.com/jobs/view/4430864725/) — GigFinder.ai
+- 📍 **Location:** Oakland, CA
+- 🕒 **Posted:** 2026-06-23
+
+### [(USA) Senior, Data Engineer](https://www.linkedin.com/jobs/view/4429422995/) — Walmart
+- 📍 **Location:** San Bruno, CA
+- 🕒 **Posted:** 2026-06-23
+
+### [Comm Ops Data Engineer - Shockwave Medical](https://www.linkedin.com/jobs/view/4432098132/) — Shockwave Medical
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-06-23
+
+### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4432089109/) — Fivetran
+- 📍 **Location:** Oakland, CA
+- 🕒 **Posted:** 2026-06-23
+
+### [Senior Machine Learning Engineer – Video AI (Vision & Creative Systems)](https://www.linkedin.com/jobs/view/4432099223/) — Warner Bros. Discovery
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-06-23
 
-### [Senior Agent AI Engineer](https://www.linkedin.com/jobs/view/4429610901/) — TSMC
-- 📍 **Location:** San Jose, CA
+### [Full-Stack Engineer](https://www.linkedin.com/jobs/view/4430861680/) — Contour
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-06-23
 
-### [Dispatching Algorithm & Infrastructure Software Developers](https://www.linkedin.com/jobs/view/4429616893/) — TSMC
-- 📍 **Location:** San Jose, CA
+### [Full Stack Engineer](https://www.linkedin.com/jobs/view/4430862671/) — Employia
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-06-23
 
-### [Life Safety Systems Engineer (Construction Management)](https://www.linkedin.com/jobs/view/4429605899/) — TSMC
-- 📍 **Location:** San Jose, CA
+### [Senior Full Stack Engineer (AI Infrastructure / Data Platforms)](https://www.linkedin.com/jobs/view/4430858753/) — Principle Pen Media
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-06-23
+
+### [Lecturer/Senior Lecturer in Software Engineering](https://www.linkedin.com/jobs/view/4429450074/) — UNSW
+- 📍 **Location:** San Francisco Bay Area
 - 🕒 **Posted:** 2026-06-23
