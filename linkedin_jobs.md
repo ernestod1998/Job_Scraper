@@ -1,100 +1,56 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area)
-*Last updated: 2026-06-23 00:17 UTC*
+*Last updated: 2026-06-23 01:17 UTC*
 
-**24 new role(s)** since last run · 37 total in last 1h
+**13 new role(s)** since last run · 27 total in last 1h
 
-### [ML/AI Engineer Interns](https://www.linkedin.com/jobs/view/4430851312/) — Theo AI
-- 📍 **Location:** San Francisco, CA
+### [Machine Learning Engineer](https://www.linkedin.com/jobs/view/4432053846/) — Intuitive
+- 📍 **Location:** Sunnyvale, CA
 - 🕒 **Posted:** 2026-06-23
 
-### [Senior Software Engineer, PyTorch - Deep Learning](https://www.linkedin.com/jobs/view/4430832309/) — NVIDIA
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-06-23
-
-### [LATAM - Data Science Engineer](https://www.linkedin.com/jobs/view/4429411948/) — Playsaurus Inc.
-- 📍 **Location:** Alameda, CA
-- 🕒 **Posted:** 2026-06-23
-
-### [Applied Scientist II, Search Ranking](https://www.linkedin.com/jobs/view/4432040864/) — Amazon
+### [Lead Software Engineer](https://www.linkedin.com/jobs/view/4430838588/) — Commercial Programming Systems
 - 📍 **Location:** Palo Alto, CA
 - 🕒 **Posted:** 2026-06-23
 
-### [Data Scientist/ Data Architect](https://www.linkedin.com/jobs/view/4432062097/) — DDN
-- 📍 **Location:** San Francisco County, CA
-- 🕒 **Posted:** 2026-06-23
-
-### [System Software Engineer - CUDA Chips](https://www.linkedin.com/jobs/view/4430850297/) — NVIDIA
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-06-23
-
-### [Software Engineer (2027 University Grad)](https://www.linkedin.com/jobs/view/4432058132/) — Cylake
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-06-23
-
-### [Software Engineer](https://www.linkedin.com/jobs/view/4372856572/) — Broadcom
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-06-23
-
-### [LATAM - Backend Developer](https://www.linkedin.com/jobs/view/4429420874/) — Playsaurus Inc.
-- 📍 **Location:** Alameda, CA
-- 🕒 **Posted:** 2026-06-23
-
-### [Software Engineer](https://www.linkedin.com/jobs/view/4430842342/) — Figwork
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-06-22
-
-### [Software Engineer, Developer Productivity](https://www.linkedin.com/jobs/view/4432049605/) — Rubrik
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-06-22
-
-### [Software Engineer](https://www.linkedin.com/jobs/view/4419537677/) — Visa
-- 📍 **Location:** Foster City, CA
-- 🕒 **Posted:** 2026-06-22
-
-### [Software Engineer](https://www.linkedin.com/jobs/view/4430849299/) — BayOne Solutions
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-06-22
-
-### [Software Engineer](https://www.linkedin.com/jobs/view/4429412786/) — Applied Materials
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-06-22
-
-### [Software Engineer](https://www.linkedin.com/jobs/view/4429418743/) — Applied Materials
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-06-22
-
-### [Backend Software Engineer: Java-Python (Data Infrastructure)](https://www.linkedin.com/jobs/view/4430847220/) — Bayside Solutions
-- 📍 **Location:** Cupertino, CA
-- 🕒 **Posted:** 2026-06-22
-
-### [Software Engineer – Kubernetes developer](https://www.linkedin.com/jobs/view/4432050589/) — Fierceli Inc, MBE, SBE
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-06-22
-
-### [Lead Data Engineer - Delivery Lead](https://www.linkedin.com/jobs/view/4432036751/) — Capgemini
+### [Full Stack Engineer (Core)](https://www.linkedin.com/jobs/view/4430830717/) — Vendra (YC S24)
 - 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-06-22
+- 🕒 **Posted:** 2026-06-23
 
-### [Applied Scientist, Recommendation, E-Commerce Alliance](https://www.linkedin.com/jobs/view/4430830244/) — TikTok
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-06-22
-
-### [Backend Engineer (AI/ML)](https://www.linkedin.com/jobs/view/4432033751/) — MeeBoss
+### [Full Stack Engineer](https://www.linkedin.com/jobs/view/4430828628/) — Vendra (YC S24)
 - 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-06-22
+- 🕒 **Posted:** 2026-06-23
 
-### [Sr. Software Engineer](https://www.linkedin.com/jobs/view/4430833334/) — Blackhawk Network
+### [People Analytics Data Scientist](https://www.linkedin.com/jobs/view/4429428025/) — Workday
 - 📍 **Location:** Pleasanton, CA
-- 🕒 **Posted:** 2026-06-22
+- 🕒 **Posted:** 2026-06-23
 
-### [Site Reliability Engineering Manager](https://www.linkedin.com/jobs/view/4430835372/) — Calance
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-06-22
+### [Software Engineer - Game Development](https://www.linkedin.com/jobs/view/4430847398/) — Applied Intuition
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-06-23
 
-### [Digital Systems Engineer II](https://www.linkedin.com/jobs/view/4430835385/) — Astra
-- 📍 **Location:** Alameda, CA
-- 🕒 **Posted:** 2026-06-22
+### [Lead Backend Engineer](https://www.linkedin.com/jobs/view/4430846593/) — Code Metal
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-06-23
 
-### [Sr. Data Platform Architect](https://www.linkedin.com/jobs/view/4432037693/) — Nutanix
+### [Full Stack Engineer](https://www.linkedin.com/jobs/view/4430830510/) — edkey
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-06-23
+
+### [Kubernetes Platform Engineer](https://www.linkedin.com/jobs/view/4430842630/) — Bay Systems Consulting, Inc. (BSC)
+- 📍 **Location:** Berkeley, CA
+- 🕒 **Posted:** 2026-06-23
+
+### [Clinical Research Engineer - Future Forward](https://www.linkedin.com/jobs/view/4432060270/) — Intuitive
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-06-23
+
+### [Security Engineer Intern](https://www.linkedin.com/jobs/view/4432063158/) — Notable
+- 📍 **Location:** San Mateo, CA
+- 🕒 **Posted:** 2026-06-23
+
+### [Project - Data Engineer](https://www.linkedin.com/jobs/view/4432069004/) — Deloitte
 - 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-06-22
+- 🕒 **Posted:** 2026-06-23
+
+### [Project - Data Engineer](https://www.linkedin.com/jobs/view/4432048987/) — Deloitte
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-06-23
