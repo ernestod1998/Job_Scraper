@@ -1,80 +1,76 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area)
-*Last updated: 2026-06-23 22:17 UTC*
+*Last updated: 2026-06-23 23:17 UTC*
 
-**19 new role(s)** since last run · 25 total in last 1h
+**18 new role(s)** since last run · 27 total in last 1h
 
-### [Data Scientist](https://www.linkedin.com/jobs/view/4431441387/) — Jobright.ai
+### [Engineering Manager, MLE](https://www.linkedin.com/jobs/view/4431436578/) — OpenAI
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-06-23
 
-### [Data Engineer](https://www.linkedin.com/jobs/view/4432455360/) — General Motors
-- 📍 **Location:** Mountain View, CA
-- 🕒 **Posted:** 2026-06-23
-
-### [Senior Data Engineer](https://www.linkedin.com/jobs/view/4432456228/) — Modern Health
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-06-23
-
-### [Senior AI Engineer with Java (W2 & Full-Time | Remote Possible)](https://www.linkedin.com/jobs/view/4429446944/) — Redolent, Inc
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-06-23
-
-### [Software Engineer - AI Agent](https://www.linkedin.com/jobs/view/4431449283/) — Jobright.ai
-- 📍 **Location:** San Mateo County, CA
-- 🕒 **Posted:** 2026-06-23
-
-### [Software Engineer II](https://www.linkedin.com/jobs/view/4429488339/) — Sam's Club
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-06-23
-
-### [Sr Software Engineer](https://www.linkedin.com/jobs/view/4432452367/) — PayPal
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-06-23
-
-### [Software Engineer III](https://www.linkedin.com/jobs/view/4429491296/) — Walmart
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-06-23
-
-### [Robotics Engineer](https://www.linkedin.com/jobs/view/4429485354/) — INA Solution
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-06-23
-
-### [(USA) Senior, Software Engineer](https://www.linkedin.com/jobs/view/4429475492/) — Walmart
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-06-23
-
-### [Sr Full Stack Engineer](https://www.linkedin.com/jobs/view/4431449235/) — Clover
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-06-23
-
-### [Full Stack Engineer - Growth](https://www.linkedin.com/jobs/view/4431448279/) — Jobright.ai
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-06-23
-
-### [Senior Frontend Engineer](https://www.linkedin.com/jobs/view/4432456567/) — ICON Consultants, LP
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-06-23
-
-### [Associate Android Systems Engineer (Entry-Level)](https://www.linkedin.com/jobs/view/4400013102/) — Clover
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-06-23
-
-### [Senior Platform Analytics Engineer](https://www.linkedin.com/jobs/view/4431440356/) — Faire
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-06-23
-
-### [Systems Engineer](https://www.linkedin.com/jobs/view/4432469125/) — The Fountain Group
-- 📍 **Location:** Pleasanton, CA
-- 🕒 **Posted:** 2026-06-23
-
-### [Drive Unit Test Systems Engineer](https://www.linkedin.com/jobs/view/4432453431/) — Tesla
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-06-23
-
-### [Senior Full-Stack Software Engineer, Social Commerce](https://www.linkedin.com/jobs/view/4431435464/) — Discord
+### [Data Science - Lead / Manager](https://www.linkedin.com/jobs/view/4429484459/) — Galent
 - 📍 **Location:** San Francisco Bay Area
 - 🕒 **Posted:** 2026-06-23
 
-### [Growth Data Engineer](https://www.linkedin.com/jobs/view/4431438248/) — Jobright.ai
+### [Software Engineer - ML/Computer Vision (Battery Sorting)](https://www.linkedin.com/jobs/view/4431449425/) — Redwood Materials
 - 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-06-23
+
+### [MLOps Engineer - AI Trainer](https://www.linkedin.com/jobs/view/4429478608/) — ChatGPT Jobs
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-06-23
+
+### [Software Engineer II, AV Labs](https://www.linkedin.com/jobs/view/4432468501/) — Uber
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-06-23
+
+### [Physical AI Engineer (Robotics & Agentic Systems)](https://www.linkedin.com/jobs/view/4426848593/) — HCLTech
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-06-23
+
+### [AI Research Engineer – Agentic AI](https://www.linkedin.com/jobs/view/4429486536/) — Bosch USA
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-06-23
+
+### [AI Engineer](https://www.linkedin.com/jobs/view/4429480595/) — ChatGPT Jobs
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-06-23
+
+### [Senior Software Engineer, Infrastructure, Google Cloud Networking](https://www.linkedin.com/jobs/view/4431436445/) — Google
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-06-23
+
+### [Modem Software Engineer](https://www.linkedin.com/jobs/view/4431429613/) — Spanidea Inc
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-06-23
+
+### [Senior AI Engineer - Agent Team](https://www.linkedin.com/jobs/view/4427101793/) — FurtherAI
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-06-23
+
+### [Senior Software Engineer, Android Laptop and Tablet Sensor](https://www.linkedin.com/jobs/view/4431444412/) — Google
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-06-23
+
+### [Sr. SRE Platform Software Engineer](https://www.linkedin.com/jobs/view/4431429537/) — Bitdeer (NASDAQ: BTDR)
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-06-23
+
+### [Senior Site Reliability Engineer](https://www.linkedin.com/jobs/view/4429471690/) — Oracle
+- 📍 **Location:** Pleasanton, CA
+- 🕒 **Posted:** 2026-06-23
+
+### [Senior Site Reliability Engineer](https://www.linkedin.com/jobs/view/4429471689/) — Oracle
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-06-23
+
+### [Lead Software Engineer](https://www.linkedin.com/jobs/view/4431444430/) — Cadence
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-06-23
+
+### [Senior Software Engineer  - Data Protection Software Engineering (C, C++)](https://www.linkedin.com/jobs/view/4431439469/) — Dell Technologies
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-06-23
+
+### [Fullstack Engineer](https://www.linkedin.com/jobs/view/4432450858/) — REALM
+- 📍 **Location:** San Francisco Bay Area
 - 🕒 **Posted:** 2026-06-23
