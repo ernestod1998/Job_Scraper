@@ -1,60 +1,80 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area)
-*Last updated: 2026-06-23 21:17 UTC*
+*Last updated: 2026-06-23 22:17 UTC*
 
-**14 new role(s)** since last run · 35 total in last 1h
+**19 new role(s)** since last run · 25 total in last 1h
 
-### [Senior Software Engineer, Ad Serving](https://www.linkedin.com/jobs/view/4432448029/) — Roku
+### [Data Scientist](https://www.linkedin.com/jobs/view/4431441387/) — Jobright.ai
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-06-23
+
+### [Data Engineer](https://www.linkedin.com/jobs/view/4432455360/) — General Motors
+- 📍 **Location:** Mountain View, CA
+- 🕒 **Posted:** 2026-06-23
+
+### [Senior Data Engineer](https://www.linkedin.com/jobs/view/4432456228/) — Modern Health
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-06-23
+
+### [Senior AI Engineer with Java (W2 & Full-Time | Remote Possible)](https://www.linkedin.com/jobs/view/4429446944/) — Redolent, Inc
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-06-23
+
+### [Software Engineer - AI Agent](https://www.linkedin.com/jobs/view/4431449283/) — Jobright.ai
+- 📍 **Location:** San Mateo County, CA
+- 🕒 **Posted:** 2026-06-23
+
+### [Software Engineer II](https://www.linkedin.com/jobs/view/4429488339/) — Sam's Club
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-06-23
+
+### [Sr Software Engineer](https://www.linkedin.com/jobs/view/4432452367/) — PayPal
 - 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-06-23
 
-### [Senior Software Engineer - AI Agents](https://www.linkedin.com/jobs/view/4392883325/) — Xcede
-- 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-06-23
-
-### [Senior Software Engineer – AI-Augmented Development](https://www.linkedin.com/jobs/view/4430112914/) — CoreAi Consulting
-- 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-06-23
-
-### [Systems Engineer](https://www.linkedin.com/jobs/view/4432444796/) — Select Source International
-- 📍 **Location:** Pleasanton, CA
-- 🕒 **Posted:** 2026-06-23
-
-### [Java Backend Engineer](https://www.linkedin.com/jobs/view/4429490089/) — UST
+### [Software Engineer III](https://www.linkedin.com/jobs/view/4429491296/) — Walmart
 - 📍 **Location:** Sunnyvale, CA
 - 🕒 **Posted:** 2026-06-23
 
-### [Senior Full Stack Engineer (Core Engine)](https://www.linkedin.com/jobs/view/4432444688/) — Office Ally
-- 📍 **Location:** Concord, CA
-- 🕒 **Posted:** 2026-06-23
-
-### [Backend Engineer (+ Equity) at LlamaIndex](https://www.linkedin.com/jobs/view/4431291938/) — Jack & Jill
+### [Robotics Engineer](https://www.linkedin.com/jobs/view/4429485354/) — INA Solution
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-06-23
 
-### [Backend Engineer (+ Equity) at VC-backed AI retention platform](https://www.linkedin.com/jobs/view/4431286935/) — Jack & Jill
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-06-23
-
-### [Software Engineer, Infrastructure ($140K–$215K + Equity) at Opal Security](https://www.linkedin.com/jobs/view/4431295819/) — Jack & Jill
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-06-23
-
-### [Senior Software Engineer, Platform Engineering](https://www.linkedin.com/jobs/view/4432430704/) — Decagon
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-06-23
-
-### [Software Engineer III, Infrastructure, Kubernetes Networking](https://www.linkedin.com/jobs/view/4431286856/) — Google
+### [(USA) Senior, Software Engineer](https://www.linkedin.com/jobs/view/4429475492/) — Walmart
 - 📍 **Location:** Sunnyvale, CA
 - 🕒 **Posted:** 2026-06-23
 
-### [Senior Software Engineer, Core Platform](https://www.linkedin.com/jobs/view/4431400939/) — Reddit, Inc.
+### [Sr Full Stack Engineer](https://www.linkedin.com/jobs/view/4431449235/) — Clover
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-06-23
+
+### [Full Stack Engineer - Growth](https://www.linkedin.com/jobs/view/4431448279/) — Jobright.ai
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-06-23
 
-### [Senior Software Engineer, Developer Experience](https://www.linkedin.com/jobs/view/4432444521/) — Decagon
+### [Senior Frontend Engineer](https://www.linkedin.com/jobs/view/4432456567/) — ICON Consultants, LP
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-06-23
 
-### [Systems Engineer – Medical Devices](https://www.linkedin.com/jobs/view/4431419163/) — Intellectt Inc
+### [Associate Android Systems Engineer (Entry-Level)](https://www.linkedin.com/jobs/view/4400013102/) — Clover
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-06-23
+
+### [Senior Platform Analytics Engineer](https://www.linkedin.com/jobs/view/4431440356/) — Faire
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-06-23
+
+### [Systems Engineer](https://www.linkedin.com/jobs/view/4432469125/) — The Fountain Group
 - 📍 **Location:** Pleasanton, CA
+- 🕒 **Posted:** 2026-06-23
+
+### [Drive Unit Test Systems Engineer](https://www.linkedin.com/jobs/view/4432453431/) — Tesla
+- 📍 **Location:** Palo Alto, CA
+- 🕒 **Posted:** 2026-06-23
+
+### [Senior Full-Stack Software Engineer, Social Commerce](https://www.linkedin.com/jobs/view/4431435464/) — Discord
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-06-23
+
+### [Growth Data Engineer](https://www.linkedin.com/jobs/view/4431438248/) — Jobright.ai
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-06-23
