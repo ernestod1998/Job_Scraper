@@ -1,32 +1,52 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area)
-*Last updated: 2026-06-24 21:17 UTC*
+*Last updated: 2026-06-24 22:17 UTC*
 
-**7 new role(s)** since last run · 30 total in last 1h
+**12 new role(s)** since last run · 21 total in last 1h
 
-### [Software Engineer](https://www.linkedin.com/jobs/view/4432868389/) — MeeBoss
-- 📍 **Location:** San Francisco Bay Area
+### [Software Engineer](https://www.linkedin.com/jobs/view/4432883207/) — General Motors
+- 📍 **Location:** Sunnyvale, CA
 - 🕒 **Posted:** 2026-06-24
 
-### [Senior Robotics Research Engineer](https://www.linkedin.com/jobs/view/4431890914/) — Ambi Robotics
+### [Bioinformatics & Data Scientist or Postdoctoral Researcher- Furman lab](https://www.linkedin.com/jobs/view/4427934142/) — Buck Institute for Research on Aging
+- 📍 **Location:** Novato, CA
+- 🕒 **Posted:** 2026-06-24
+
+### [Senior Software Engineer, Vehicle AI](https://www.linkedin.com/jobs/view/4432874411/) — General Motors
+- 📍 **Location:** Mountain View, CA
+- 🕒 **Posted:** 2026-06-24
+
+### [Software Engineer- Cloud Infrastructure and DevOps](https://www.linkedin.com/jobs/view/4432121027/) — PayPal
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-06-24
+
+### [Applied Scientist II, Visual Search Science](https://www.linkedin.com/jobs/view/4430206144/) — Amazon Science
+- 📍 **Location:** Palo Alto, CA
+- 🕒 **Posted:** 2026-06-24
+
+### [Software Engineer, Perception Attributes Autolabeling Pipeline](https://www.linkedin.com/jobs/view/4430202129/) — Ursus, Inc.
+- 📍 **Location:** Foster City, CA
+- 🕒 **Posted:** 2026-06-24
+
+### [AI Engineer, Ecosystem](https://www.linkedin.com/jobs/view/4432865801/) — Brex
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-06-24
+
+### [Full Stack Engineer](https://www.linkedin.com/jobs/view/4432111131/) — Qrata
+- 📍 **Location:** Palo Alto, CA
+- 🕒 **Posted:** 2026-06-24
+
+### [Software Engineer Intern](https://www.linkedin.com/jobs/view/4432110301/) — Syft.ai
 - 📍 **Location:** Berkeley, CA
 - 🕒 **Posted:** 2026-06-24
 
-### [Software Developer](https://www.linkedin.com/jobs/view/4432861554/) — Randstad Digital Americas
+### [Full Stack Engineer](https://www.linkedin.com/jobs/view/4432874542/) — EMW Staffing Solutions LLC
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-06-24
 
-### [Sr. Software Engineer](https://www.linkedin.com/jobs/view/4432869279/) — KLA
+### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4432882416/) — Cisco
 - 📍 **Location:** Milpitas, CA
 - 🕒 **Posted:** 2026-06-24
 
-### [React Frontend Developer  – Team Lead](https://www.linkedin.com/jobs/view/4432108184/) — Smart IT Frame LLC
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-06-24
-
-### [Analytics Engineer](https://www.linkedin.com/jobs/view/4432851493/) — Coinbase
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-06-24
-
-### [Sr. AI Data Engineer](https://www.linkedin.com/jobs/view/4406719191/) — iSoftStone
-- 📍 **Location:** Menlo Park, CA
+### [Associate Android Systems Engineer (Entry-Level)](https://www.linkedin.com/jobs/view/4400013102/) — Clover
+- 📍 **Location:** Sunnyvale, CA
 - 🕒 **Posted:** 2026-06-24
