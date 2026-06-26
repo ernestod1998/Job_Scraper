@@ -1,53 +1,59 @@
 # 🟦 Indeed — Engineering / ML / DS Roles (SF Bay Area)
-*Last updated: 2026-06-25 23:00 UTC*
+*Last updated: 2026-06-26 01:40 UTC*
 
-**10 new role(s)** since last run · 86 total in last 24h
+**11 new role(s)** since last run · 76 total in last 24h
 
-### [AI Infrastructure Engineer](https://www.indeed.com/viewjob?jk=50271c64d028c25b) — Crowe LLP
-- 📍 **Location:** San Jose, CA, US
-- 💰 **Salary:** $94k–$212k/yr
+### [Senior Computer Vision Engineer](https://www.indeed.com/viewjob?jk=1922808b993468ba) — Unknown
+- 📍 **Location:** Alameda, CA, US
+- 💰 **Salary:** $170k–$210k/yr
 - 🕒 **Posted:** 2026-06-25
 
-### [AI Infrastructure Engineer](https://www.indeed.com/viewjob?jk=65debdcacac26f86) — Crowe LLP
-- 📍 **Location:** San Francisco, CA, US
-- 💰 **Salary:** $94k–$212k/yr
-- 🕒 **Posted:** 2026-06-25
-
-### [Senior Data Scientist, Product & Growth](https://www.indeed.com/viewjob?jk=2c8a7fd4f1ca04b4) — COMFY
-- 📍 **Location:** San Francisco, CA, US
-- 💰 **Salary:** $180k–$250k/yr
-- 🕒 **Posted:** 2026-06-25
-
-### [Builder Product Manager, AI Platform & Agentic Workflows](https://www.indeed.com/viewjob?jk=4a57e1636929b93b) — Articul8
-- 📍 **Location:** Dublin, CA, US
-- 🕒 **Posted:** 2026-06-25
-
-### [Sr Applied Scientist, ML Codesign, Edge AI Platform](https://www.indeed.com/viewjob?jk=d921e72a5da410aa) — Amazon.com
+### [Data Scientist II, Tech](https://www.indeed.com/viewjob?jk=bbf6243636de736e) — Uber
 - 📍 **Location:** Sunnyvale, CA, US
-- 💰 **Salary:** $192k–$260k/yr
-- 🕒 **Posted:** 2026-05-26
-
-### [Senior Frontend Engineer, Platform](https://www.indeed.com/viewjob?jk=0b2e520ddcb094da) — EvenUp
-- 📍 **Location:** San Francisco, CA, US
-- 💰 **Salary:** $190k–$249k/yr
+- 💰 **Salary:** $174k–$209k/yr
 - 🕒 **Posted:** 2026-06-25
 
-### [Senior Software Engineer](https://www.indeed.com/viewjob?jk=321ab7e09526522f) — AiPrise
-- 📍 **Location:** San Jose, CA, US
-- 💰 **Salary:** $185k–$230k/yr
+### [Senior Data Infra Engineer](https://www.indeed.com/viewjob?jk=0bce72fe2aabb677) — Newsbreak
+- 📍 **Location:** Mountain View, CA, US
+- 💰 **Salary:** $175k–$221k/yr
 - 🕒 **Posted:** 2026-06-25
 
-### [MFG Factory Infrastructure Engineer, eero MFG Eng & Operations WW](https://www.indeed.com/viewjob?jk=cc2f5193a9146fc2) — Amazon.com
-- 📍 **Location:** San Francisco, CA, US
-- 💰 **Salary:** $149k–$201k/yr
-- 🕒 **Posted:** 2026-06-24
-
-### [Senior Software Engineer, Full-stack, Bee](https://www.indeed.com/viewjob?jk=5d802d7ddf98e6f3) — Amazon.com
-- 📍 **Location:** San Francisco, CA, US
-- 💰 **Salary:** $193k–$262k/yr
-- 🕒 **Posted:** 2026-06-01
-
-### [#Virtual Platform Engineer](https://www.indeed.com/viewjob?jk=5114131e991353d5) — Qualcomm
+### [Software Engineer QA (E3)](https://www.indeed.com/viewjob?jk=22af17deca43ac8e) — Applied Materials
 - 📍 **Location:** Santa Clara, CA, US
-- 💰 **Salary:** $111k–$167k/yr
+- 💰 **Salary:** $124k–$171k/yr
+- 🕒 **Posted:** 2026-06-25
+
+### [Finance Systems & AI Engineer](https://www.indeed.com/viewjob?jk=b67214219e7ec5db) — Ironclad
+- 📍 **Location:** San Francisco, CA, US
+- 💰 **Salary:** $130k–$163k/yr
+- 🕒 **Posted:** 2026-06-25
+
+### [Analytics Engineer](https://www.indeed.com/viewjob?jk=d2df12fc784d2e38) — Ensemble Health Partners
+- 📍 **Location:** San Jose, CA, US
+- 💰 **Salary:** $102k–$175k/yr
+- 🕒 **Posted:** 2026-06-25
+
+### [Software Engineer, Data Engineering](https://www.indeed.com/viewjob?jk=d8d8e68e3aad0edb) — Roblox
+- 📍 **Location:** San Mateo, CA, US
+- 💰 **Salary:** $153k–$197k/yr
+- 🕒 **Posted:** 2026-06-25
+
+### [Software Engineer I](https://www.indeed.com/viewjob?jk=86af7ca0364fc210) — Uber
+- 📍 **Location:** Sunnyvale, CA, US
+- 💰 **Salary:** $188k–$225k/yr
+- 🕒 **Posted:** 2026-06-25
+
+### [Software Engineer II](https://www.indeed.com/viewjob?jk=78c3ec73bd7e5d77) — Uber
+- 📍 **Location:** Sunnyvale, CA, US
+- 💰 **Salary:** $198k–$209k/yr
+- 🕒 **Posted:** 2026-06-25
+
+### [NFC System Software Engineer - Entry Level](https://www.indeed.com/viewjob?jk=d9edaee9d687a96b) — NXP Semiconductors
+- 📍 **Location:** San Jose, CA, US
+- 💰 **Salary:** $84k–$115k/yr
+- 🕒 **Posted:** 2026-06-25
+
+### [Site Reliability Engineer, TikTok Generalized Arch USTO](https://www.indeed.com/viewjob?jk=8117c8a7a8f5b09a) — TikTok
+- 📍 **Location:** San Jose, CA, US
+- 💰 **Salary:** $123k–$317k/yr
 - 🕒 **Posted:** 2026-06-25
