@@ -1,68 +1,100 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area)
-*Last updated: 2026-06-26 00:17 UTC*
+*Last updated: 2026-06-26 01:17 UTC*
 
-**16 new role(s)** since last run · 29 total in last 1h
+**24 new role(s)** since last run · 33 total in last 1h
 
-### [Software Engineer, New Grad (AI)](https://www.linkedin.com/jobs/view/4432918261/) — Product Pioneers Podcast
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-06-26
-
-### [Data Scientist](https://www.linkedin.com/jobs/view/4432911383/) — BayOne Solutions
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-06-26
-
-### [Software Engineer, New Grad](https://www.linkedin.com/jobs/view/4432923159/) — Product Pioneers Podcast
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-06-26
-
-### [Data Scientist, Level 4](https://www.linkedin.com/jobs/view/4433541179/) — Snap Inc.
+### [Software Engineer, Computer Vision and Deep Learning](https://www.linkedin.com/jobs/view/4432924415/) — Mashgin
 - 📍 **Location:** Palo Alto, CA
 - 🕒 **Posted:** 2026-06-26
 
-### [Data Scientist, Level 4](https://www.linkedin.com/jobs/view/4433529492/) — Snap Inc.
+### [Software Engineer, Routing](https://www.linkedin.com/jobs/view/4344640928/) — Nuro
+- 📍 **Location:** Mountain View, CA
+- 🕒 **Posted:** 2026-06-26
+
+### [Software Engineer, X-Scientist](https://www.linkedin.com/jobs/view/4426621897/) — Xaira Therapeutics
+- 📍 **Location:** South San Francisco, CA
+- 🕒 **Posted:** 2026-06-26
+
+### [Software Engineer, AI Workflows](https://www.linkedin.com/jobs/view/4432919214/) — Product Pioneers Podcast
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-06-26
 
-### [Senior Software Engineer, Full-stack, Bee](https://www.linkedin.com/jobs/view/4433525991/) — Amazon
+### [Data Scientist](https://www.linkedin.com/jobs/view/4432905936/) — Jobright.ai
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-06-26
 
-### [Software Engineer Intern (Fall 2026)](https://www.linkedin.com/jobs/view/4432907732/) — Product Pioneers Podcast
+### [Data Scientist](https://www.linkedin.com/jobs/view/4432925139/) — Jobright.ai
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-06-26
 
-### [Sr Applied Scientist, ML Codesign, Edge AI Platform](https://www.linkedin.com/jobs/view/4433539302/) — Amazon
+### [LATAM - Data Science Engineer](https://www.linkedin.com/jobs/view/4430277815/) — Playsaurus Inc.
+- 📍 **Location:** Alameda, CA
+- 🕒 **Posted:** 2026-06-26
+
+### [Senior AI Engineer](https://www.linkedin.com/jobs/view/4200074222/) — Infocusp Innovations
+- 📍 **Location:** Mountain View, CA
+- 🕒 **Posted:** 2026-06-26
+
+### [Salesforce Software Engineer](https://www.linkedin.com/jobs/view/4407656438/) — Robert Half
+- 📍 **Location:** San Ramon, CA
+- 🕒 **Posted:** 2026-06-26
+
+### [Android Software Engineer - Applications](https://www.linkedin.com/jobs/view/4432927197/) — Applied Intuition
 - 📍 **Location:** Sunnyvale, CA
 - 🕒 **Posted:** 2026-06-26
 
-### [Senior Deep Learning and Computer Vision Engineer - Autonomous Vehicles](https://www.linkedin.com/jobs/view/4432915263/) — NVIDIA
-- 📍 **Location:** Santa Clara, CA
+### [Sr. Full-stack Engineer](https://www.linkedin.com/jobs/view/4432913496/) — Infocusp Innovations
+- 📍 **Location:** Mountain View, CA
 - 🕒 **Posted:** 2026-06-26
 
-### [Software Engineer, Collections Experience](https://www.linkedin.com/jobs/view/4432917287/) — Product Pioneers Podcast
+### [LATAM - Backend Developer](https://www.linkedin.com/jobs/view/4430264855/) — Playsaurus Inc.
+- 📍 **Location:** Alameda, CA
+- 🕒 **Posted:** 2026-06-26
+
+### [Senior Software Engineer, Routing](https://www.linkedin.com/jobs/view/4269426244/) — Nuro
+- 📍 **Location:** Mountain View, CA
+- 🕒 **Posted:** 2026-06-26
+
+### [Software Engineer, Trust](https://www.linkedin.com/jobs/view/4432926128/) — Product Pioneers Podcast
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-06-26
 
-### [Software Engineer, AI Capture](https://www.linkedin.com/jobs/view/4432920236/) — Product Pioneers Podcast
+### [Software Engineer, Web Infrastructure](https://www.linkedin.com/jobs/view/4432904901/) — Product Pioneers Podcast
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-06-26
 
-### [MFG Factory Infrastructure Engineer, eero MFG Eng & Operations WW](https://www.linkedin.com/jobs/view/4433525990/) — Amazon
+### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4423543332/) — Federato
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-06-26
+
+### [Software Engineer, DevInfra](https://www.linkedin.com/jobs/view/4433532805/) — Mixpanel
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-06-26
 
-### [Software Engineer, Full-Stack](https://www.linkedin.com/jobs/view/4423522793/) — Loop
+### [DevOps Engineer](https://www.linkedin.com/jobs/view/4371325194/) — Robert Half
+- 📍 **Location:** San Ramon, CA
+- 🕒 **Posted:** 2026-06-26
+
+### [Senior Analytics Engineer](https://www.linkedin.com/jobs/view/4433537608/) — ID.me
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-06-26
+
+### [Software Engineer, Security](https://www.linkedin.com/jobs/view/4432912393/) — Product Pioneers Podcast
 - 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-06-25
+- 🕒 **Posted:** 2026-06-26
 
-### [Senior Software Engineer, Embedded Systems](https://www.linkedin.com/jobs/view/4430279738/) — Elroy Air
-- 📍 **Location:** Byron, CA
-- 🕒 **Posted:** 2026-06-25
-
-### [Lead Backend Developer](https://www.linkedin.com/jobs/view/4430272764/) — LandBridge
+### [Security Engineer, Corporate Security](https://www.linkedin.com/jobs/view/4432914375/) — Product Pioneers Podcast
 - 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-06-25
+- 🕒 **Posted:** 2026-06-26
 
-### [Senior Software Engineer, Operator Tools](https://www.linkedin.com/jobs/view/4430273721/) — Elroy Air
-- 📍 **Location:** Byron, CA
-- 🕒 **Posted:** 2026-06-25
+### [Finance Systems & AI Engineer](https://www.linkedin.com/jobs/view/4433527874/) — Ironclad
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-06-26
+
+### [Security Engineer, Detection and Response](https://www.linkedin.com/jobs/view/4432919256/) — Product Pioneers Podcast
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-06-26
+
+### [Application Security Engineer, AI Security](https://www.linkedin.com/jobs/view/4432912412/) — Product Pioneers Podcast
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-06-26
