@@ -1,12 +1,12 @@
 # 🧬 Biotech LinkedIn — MLE / DS Roles
-*Last updated: 2026-06-25 06:56 UTC*
+*Last updated: 2026-06-26 07:02 UTC*
 
 **2 new role(s)** since last run · 13 total in last 24h
 
-### [Bioinformatics & Data Scientist or Postdoctoral Researcher- Furman lab](https://www.linkedin.com/jobs/view/4427934142/) — Buck Institute for Research on Aging
-- 📍 **Location:** Novato, CA
-- 🕒 **Posted:** 2026-06-24
+### [(Senior) ML Scientist](https://www.linkedin.com/jobs/view/4405604535/) — insitro
+- 📍 **Location:** South San Francisco, CA
+- 🕒 **Posted:** 2026-06-25
 
-### [Sr. Data Scientist, Translational Research](https://www.linkedin.com/jobs/view/4413092836/) — Tempus AI
-- 📍 **Location:** Redwood City, CA
-- 🕒 **Posted:** 2026-06-24
+### [AI Scientist/Senior, Clinical & Molecular Genomics Modeling, BRAID](https://www.linkedin.com/jobs/view/4405250531/) — Genentech
+- 📍 **Location:** South San Francisco, CA
+- 🕒 **Posted:** 2026-06-25
