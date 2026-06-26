@@ -1,84 +1,84 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area)
-*Last updated: 2026-06-26 22:17 UTC*
+*Last updated: 2026-06-26 23:17 UTC*
 
-**20 new role(s)** since last run · 23 total in last 1h
+**20 new role(s)** since last run · 33 total in last 1h
 
-### [Machine Learning Infrastructure Engineer](https://www.linkedin.com/jobs/view/4433291479/) — Efference
-- 📍 **Location:** San Francisco, CA
+### [Machine Learning Engineer III, Core Agents](https://www.linkedin.com/jobs/view/4434049216/) — Box
+- 📍 **Location:** Redwood City, CA
 - 🕒 **Posted:** 2026-06-26
 
-### [Robotics Software Engineer](https://www.linkedin.com/jobs/view/4433291445/) — Efference
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-06-26
-
-### [Senior ML/AI Engineer - Observability](https://www.linkedin.com/jobs/view/4434046116/) — General Motors
+### [Senior ML Engineer, Computer Vision - Applied AI](https://www.linkedin.com/jobs/view/4434050253/) — Uber
 - 📍 **Location:** Sunnyvale, CA
 - 🕒 **Posted:** 2026-06-26
 
-### [Data Scientist](https://www.linkedin.com/jobs/view/4433281946/) — Jobright.ai
+### [Senior ML Engineer, Computer Vision - Applied AI](https://www.linkedin.com/jobs/view/4434039898/) — Uber
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-06-26
 
-### [Senior ML Engineer](https://www.linkedin.com/jobs/view/4433401299/) — Jobright.ai
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-06-26
-
-### [Software Engineer, Data Product Platform](https://www.linkedin.com/jobs/view/4433286660/) — Notion @ RMIT
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-06-26
-
-### [Software Engineer, Data Product Platform](https://www.linkedin.com/jobs/view/4433299259/) — Recursia
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-06-26
-
-### [Senior Software Engineer, Mapping Field Response](https://www.linkedin.com/jobs/view/4410441668/) — Waymo
-- 📍 **Location:** Mountain View, CA
-- 🕒 **Posted:** 2026-06-26
-
-### [Sr Applied Scientist, ML Codesign, Edge AI Platform](https://www.linkedin.com/jobs/view/4430640271/) — Amazon Science
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-06-26
-
-### [Senior Software Engineer – Go / Rust | Cloud Networking | AI Infrastructure](https://www.linkedin.com/jobs/view/4433404074/) — Colossus Technologies Group
-- 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-06-26
-
-### [Software Engineer](https://www.linkedin.com/jobs/view/4433283873/) — Jobright.ai
-- 📍 **Location:** Los Altos, CA
-- 🕒 **Posted:** 2026-06-26
-
-### [AI Engineer](https://www.linkedin.com/jobs/view/4433295473/) — AI Fund
-- 📍 **Location:** Mountain View, CA
-- 🕒 **Posted:** 2026-06-26
-
-### [Senior Software Engineer, Infrastructure - Core Infra Systems](https://www.linkedin.com/jobs/view/4434028950/) — Coinbase
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-06-26
-
-### [Senior Fullstack Software Engineer A.I.](https://www.linkedin.com/jobs/view/4433285798/) — Pebl
+### [Software Engineer 2](https://www.linkedin.com/jobs/view/4433294647/) — Rivian
 - 📍 **Location:** Palo Alto, CA
 - 🕒 **Posted:** 2026-06-26
 
-### [Software Engineer](https://www.linkedin.com/jobs/view/4434035826/) — Supermicro
+### [Software Engineer, Product](https://www.linkedin.com/jobs/view/4309529399/) — Opto Investments
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-06-26
+
+### [GCP Data engineer](https://www.linkedin.com/jobs/view/4433299430/) — Data Capital Incorporation
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-06-26
+
+### [Software Engineer](https://www.linkedin.com/jobs/view/4430636551/) — Super Micro Computer Spain, S.L.
 - 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-06-26
 
-### [Sr. Software Engineer, Platform](https://www.linkedin.com/jobs/view/4434044353/) — Thumbtack
+### [Robotics Engineer](https://www.linkedin.com/jobs/view/4430652134/) — SageBeans RPO
+- 📍 **Location:** San Mateo, CA
+- 🕒 **Posted:** 2026-06-26
+
+### [Computer Vision Engineer](https://www.linkedin.com/jobs/view/4433293383/) — Efference
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-06-26
 
-### [Senior Cloud Engineer Azure](https://www.linkedin.com/jobs/view/4405260706/) — BMO U.S.
+### [Embedded Systems Engineer](https://www.linkedin.com/jobs/view/4433282946/) — Efference
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-06-26
 
-### [Wireless Systems Engineer](https://www.linkedin.com/jobs/view/4433288573/) — Efference
+### [Software Engineer, Cloud Infrastructure (Multiple Seniority Levels)](https://www.linkedin.com/jobs/view/4434043653/) — Beacon AI
+- 📍 **Location:** San Carlos, CA
+- 🕒 **Posted:** 2026-06-26
+
+### [Senior Backend Engineer – Golang](https://www.linkedin.com/jobs/view/4434050209/) — Apex Systems
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-06-26
 
-### [Camera Systems Engineer](https://www.linkedin.com/jobs/view/4433402227/) — Efference
+### [Senior Frontend Engineer (Team Lead)](https://www.linkedin.com/jobs/view/4433407179/) — Meltwater
+- 📍 **Location:** Redwood City, CA
+- 🕒 **Posted:** 2026-06-26
+
+### [DevOps Engineer](https://www.linkedin.com/jobs/view/4429703111/) — netPolarity, Inc. (Saicon Consultants, Inc.)
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-06-26
+
+### [DevOps/Automation Engineer](https://www.linkedin.com/jobs/view/4434052183/) — Aditi Consulting
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-06-26
 
-### [Software Engineer Lead](https://www.linkedin.com/jobs/view/4433293464/) — VeeAR Projects Inc.
+### [Senior DevOps/Automation Engineer : 26-01652](https://www.linkedin.com/jobs/view/4434045443/) — Akraya, Inc.
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-06-26
+
+### [Sr. Software Engineer, Cloud Infrastructure](https://www.linkedin.com/jobs/view/4427581012/) — Personalis, Inc.
 - 📍 **Location:** Fremont, CA
+- 🕒 **Posted:** 2026-06-26
+
+### [Senior Manager, Infrastructure Platform Engineering](https://www.linkedin.com/jobs/view/4434045434/) — Crusoe
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-06-26
+
+### [Network Security Engineer](https://www.linkedin.com/jobs/view/4433405688/) — Zoox
+- 📍 **Location:** Foster City, CA
+- 🕒 **Posted:** 2026-06-26
+
+### [Lead Software Engineer, ML](https://www.linkedin.com/jobs/view/4433404224/) — Cadence
+- 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-06-26
