@@ -1,59 +1,78 @@
 # 🟦 Indeed — Engineering / ML / DS Roles (SF Bay Area)
-*Last updated: 2026-06-26 01:40 UTC*
+*Last updated: 2026-06-26 06:38 UTC*
 
-**11 new role(s)** since last run · 76 total in last 24h
+**15 new role(s)** since last run · 74 total in last 24h
 
-### [Senior Computer Vision Engineer](https://www.indeed.com/viewjob?jk=1922808b993468ba) — Unknown
-- 📍 **Location:** Alameda, CA, US
-- 💰 **Salary:** $170k–$210k/yr
-- 🕒 **Posted:** 2026-06-25
-
-### [Data Scientist II, Tech](https://www.indeed.com/viewjob?jk=bbf6243636de736e) — Uber
-- 📍 **Location:** Sunnyvale, CA, US
-- 💰 **Salary:** $174k–$209k/yr
-- 🕒 **Posted:** 2026-06-25
-
-### [Senior Data Infra Engineer](https://www.indeed.com/viewjob?jk=0bce72fe2aabb677) — Newsbreak
-- 📍 **Location:** Mountain View, CA, US
-- 💰 **Salary:** $175k–$221k/yr
-- 🕒 **Posted:** 2026-06-25
-
-### [Software Engineer QA (E3)](https://www.indeed.com/viewjob?jk=22af17deca43ac8e) — Applied Materials
-- 📍 **Location:** Santa Clara, CA, US
-- 💰 **Salary:** $124k–$171k/yr
-- 🕒 **Posted:** 2026-06-25
-
-### [Finance Systems & AI Engineer](https://www.indeed.com/viewjob?jk=b67214219e7ec5db) — Ironclad
+### [Research Data Scientist, Cybersecurity, Google Cloud](https://www.indeed.com/viewjob?jk=7559d1ea8c24ee82) — Google
 - 📍 **Location:** San Francisco, CA, US
-- 💰 **Salary:** $130k–$163k/yr
+- 💰 **Salary:** $147k–$211k/yr
 - 🕒 **Posted:** 2026-06-25
 
-### [Analytics Engineer](https://www.indeed.com/viewjob?jk=d2df12fc784d2e38) — Ensemble Health Partners
+### [Full-Stack Engineer](https://www.indeed.com/viewjob?jk=ded108879d5d23e5) — CLERA
+- 📍 **Location:** San Francisco, CA, US
+- 💰 **Salary:** $90k–$200k/yr
+- 🕒 **Posted:** 2026-06-25
+
+### [Network Security Engineer](https://www.indeed.com/viewjob?jk=3d201d46da83f0ad) — Etched
 - 📍 **Location:** San Jose, CA, US
-- 💰 **Salary:** $102k–$175k/yr
+- 💰 **Salary:** $175k–$275k/yr
 - 🕒 **Posted:** 2026-06-25
 
-### [Software Engineer, Data Engineering](https://www.indeed.com/viewjob?jk=d8d8e68e3aad0edb) — Roblox
-- 📍 **Location:** San Mateo, CA, US
-- 💰 **Salary:** $153k–$197k/yr
+### [Senior Software Engineer - AI Tools](https://www.indeed.com/viewjob?jk=f8f0d6c92d282bba) — Workday
+- 📍 **Location:** Pleasanton, CA, US
+- 💰 **Salary:** $148k–$264k/yr
 - 🕒 **Posted:** 2026-06-25
 
-### [Software Engineer I](https://www.indeed.com/viewjob?jk=86af7ca0364fc210) — Uber
+### [Cyber Zscaler Network Security Engineer / Senior Consultant, Strategy, Growth, and Transformation](https://www.indeed.com/viewjob?jk=e0e842a04ee7c374) — Deloitte
+- 📍 **Location:** San Francisco, CA, US
+- 💰 **Salary:** $105k–$208k/yr
+- 🕒 **Posted:** 2026-06-25
+
+### [Cyber Zscaler Network Security Engineer / Senior Consultant, Strategy, Growth, and Transformation](https://www.indeed.com/viewjob?jk=923085ba4a1a5991) — Deloitte
+- 📍 **Location:** San Jose, CA, US
+- 💰 **Salary:** $105k–$208k/yr
+- 🕒 **Posted:** 2026-06-25
+
+### [Lead Quality Software Engineer](https://www.indeed.com/viewjob?jk=1cf3375eb31cd2c0) — Salesforce
+- 📍 **Location:** San Francisco, CA, US
+- 💰 **Salary:** $172k–$286k/yr
+- 🕒 **Posted:** 2026-06-25
+
+### [Software Engineer II (Full Time)- United States](https://www.indeed.com/viewjob?jk=7bf220d3e6443559) — Cisco
+- 📍 **Location:** San Francisco, CA, US
+- 💰 **Salary:** $110k–$200k/yr
+- 🕒 **Posted:** 2026-06-25
+
+### [Software Engineer, Backend](https://www.indeed.com/viewjob?jk=89c86aac6f960c5b) — Cisco
+- 📍 **Location:** San Francisco, CA, US
+- 💰 **Salary:** $136k–$252k/yr
+- 🕒 **Posted:** 2026-06-25
+
+### [Backend Engineer](https://www.indeed.com/viewjob?jk=c236ebd42e0207f6) — CLERA
+- 📍 **Location:** San Francisco, CA, US
+- 💰 **Salary:** $80k–$120k/yr
+- 🕒 **Posted:** 2026-06-25
+
+### [Senior Software Engineer, AV Launch](https://www.indeed.com/viewjob?jk=646115d977527643) — General Motors (GM)
 - 📍 **Location:** Sunnyvale, CA, US
-- 💰 **Salary:** $188k–$225k/yr
+- 💰 **Salary:** $153k–$234k/yr
 - 🕒 **Posted:** 2026-06-25
 
-### [Software Engineer II](https://www.indeed.com/viewjob?jk=78c3ec73bd7e5d77) — Uber
-- 📍 **Location:** Sunnyvale, CA, US
-- 💰 **Salary:** $198k–$209k/yr
+### [Senior Software Developer Engineer in Test, Charging Systems](https://www.indeed.com/viewjob?jk=643424c51242409c) — Ford Motor Company
+- 📍 **Location:** Palo Alto, CA, US
 - 🕒 **Posted:** 2026-06-25
 
-### [NFC System Software Engineer - Entry Level](https://www.indeed.com/viewjob?jk=d9edaee9d687a96b) — NXP Semiconductors
+### [Data Platform Security & Governance Leader](https://www.indeed.com/viewjob?jk=8cd3ddbc3cfeb884) — U.S. Bank
+- 📍 **Location:** Cupertino, CA, US
+- 💰 **Salary:** $148k–$175k/yr
+- 🕒 **Posted:** 2026-06-25
+
+### [Cyber Palo Alto Networks Security Engineer/ Senior Consultant, Strategy, Growth, and Transformation](https://www.indeed.com/viewjob?jk=9111813b7c4e0aaa) — Deloitte
+- 📍 **Location:** San Francisco, CA, US
+- 💰 **Salary:** $105k–$208k/yr
+- 🕒 **Posted:** 2026-06-25
+
+### [Cyber Palo Alto Networks Security Engineer/ Senior Consultant, Strategy, Growth, and Transformation](https://www.indeed.com/viewjob?jk=ce76ab416cb045eb) — Deloitte
 - 📍 **Location:** San Jose, CA, US
-- 💰 **Salary:** $84k–$115k/yr
-- 🕒 **Posted:** 2026-06-25
-
-### [Site Reliability Engineer, TikTok Generalized Arch USTO](https://www.indeed.com/viewjob?jk=8117c8a7a8f5b09a) — TikTok
-- 📍 **Location:** San Jose, CA, US
-- 💰 **Salary:** $123k–$317k/yr
+- 💰 **Salary:** $105k–$208k/yr
 - 🕒 **Posted:** 2026-06-25
