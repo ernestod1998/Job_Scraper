@@ -1,268 +1,140 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area)
-*Last updated: 2026-06-27 05:33 UTC*
+*Last updated: 2026-06-27 15:17 UTC*
 
-**66 new role(s)** since last run · 66 total in last 1h
+**34 new role(s)** since last run · 34 total in last 1h
 
-### [Software Engineer II](https://www.linkedin.com/jobs/view/4434088764/) — Uber
+### [Software Engineer, New Grad](https://www.linkedin.com/jobs/view/4406118990/) — Notion
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-06-27
 
-### [Sr Software Engineer](https://www.linkedin.com/jobs/view/4434088772/) — Uber
+### [Research Engineer, Machine Learning (RL Velocity)](https://www.linkedin.com/jobs/view/4405020607/) — Anthropic
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-06-27
+
+### [Senior Machine Learning Engineer](https://www.linkedin.com/jobs/view/4373086442/) — Otter.ai
+- 📍 **Location:** Mountain View, CA
+- 🕒 **Posted:** 2026-06-27
+
+### [AI & Data Systems Engineer (Remote)](https://www.linkedin.com/jobs/view/4424913503/) — Ceribell │ AI-Powered Point-of-Care EEG
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-06-27
+
+### [Data Scientist](https://www.linkedin.com/jobs/view/4433463559/) — Jobright.ai
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-06-27
 
-### [Software Engineer – Motion & Behavioral Planning](https://www.linkedin.com/jobs/view/4434079988/) — DiDi
+### [Senior Machine Learning Engineer, Agentic Application](https://www.linkedin.com/jobs/view/4382304284/) — ServiceNow
+- 📍 **Location:** Mountain View, CA
+- 🕒 **Posted:** 2026-06-27
+
+### [Software Engineer, Collections Experience](https://www.linkedin.com/jobs/view/4405869769/) — Notion
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-06-27
+
+### [Senior ML Engineer](https://www.linkedin.com/jobs/view/4433468488/) — Jobright.ai
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-06-27
+
+### [Senior Data Scientist - Network Value](https://www.linkedin.com/jobs/view/4415582313/) — Plaid
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-06-27
+
+### [Senior Battery Management System (BMS) software Engineer](https://www.linkedin.com/jobs/view/4411514420/) — Lyten
 - 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-06-27
 
-### [Full-Stack Software Engineer](https://www.linkedin.com/jobs/view/4433450367/) — Adobe
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-06-27
-
-### [Sr Software Engineer](https://www.linkedin.com/jobs/view/4434088771/) — Uber
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-06-27
-
-### [Sr Software Engineer](https://www.linkedin.com/jobs/view/4434079964/) — Uber
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-06-27
-
-### [Sr Software Engineer](https://www.linkedin.com/jobs/view/4434081895/) — Uber
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-06-27
-
-### [Software Engineer II](https://www.linkedin.com/jobs/view/4434093350/) — Uber
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-06-27
-
-### [Software Engineer II](https://www.linkedin.com/jobs/view/4434082954/) — Uber
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-06-27
-
-### [Sr Software Engineer](https://www.linkedin.com/jobs/view/4434083909/) — Uber
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-06-27
-
-### [Sr Software Engineer](https://www.linkedin.com/jobs/view/4434080946/) — Uber
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-06-27
-
-### [Software Engineer II](https://www.linkedin.com/jobs/view/4434099118/) — Uber
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-06-27
-
-### [Sr Software Engineer](https://www.linkedin.com/jobs/view/4434098166/) — Uber
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-06-27
-
-### [Software Engineer II](https://www.linkedin.com/jobs/view/4434093341/) — Uber
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-06-27
-
-### [Software Engineer II](https://www.linkedin.com/jobs/view/4434094320/) — Uber
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-06-27
-
-### [Sr Software Engineer](https://www.linkedin.com/jobs/view/4434201081/) — Uber
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-06-27
-
-### [Sr Software Engineer](https://www.linkedin.com/jobs/view/4434082956/) — Uber
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-06-27
-
-### [Sr Software Engineer](https://www.linkedin.com/jobs/view/4434095259/) — Uber
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-06-27
-
-### [Sr Software Engineer](https://www.linkedin.com/jobs/view/4434085916/) — Uber
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-06-27
-
-### [Sr Software Engineer](https://www.linkedin.com/jobs/view/4434082964/) — Uber
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-06-27
-
-### [Sr Software Engineer](https://www.linkedin.com/jobs/view/4434082961/) — Uber
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-06-27
-
-### [Sr Software Engineer](https://www.linkedin.com/jobs/view/4434093339/) — Uber
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-06-27
-
-### [Sr Software Engineer](https://www.linkedin.com/jobs/view/4434092357/) — Uber
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-06-27
-
-### [Sr Software Engineer](https://www.linkedin.com/jobs/view/4434089643/) — Uber
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-06-27
-
-### [Data Scientist II, Tech](https://www.linkedin.com/jobs/view/4434091386/) — Uber
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-06-27
-
-### [Sr Data Scientist, Tech](https://www.linkedin.com/jobs/view/4434093343/) — Uber
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-06-27
-
-### [Software Engineer II](https://www.linkedin.com/jobs/view/4434080932/) — Uber
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-06-27
-
-### [Software Engineer II](https://www.linkedin.com/jobs/view/4434098174/) — Uber
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-06-27
-
-### [Software Engineer II](https://www.linkedin.com/jobs/view/4434086823/) — Uber
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-06-27
-
-### [Software Engineer II](https://www.linkedin.com/jobs/view/4434095251/) — Uber
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-06-27
-
-### [Software Engineer II](https://www.linkedin.com/jobs/view/4434078987/) — Uber
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-06-27
-
-### [Senior Data Engineer - Consumer Subscriptions](https://www.linkedin.com/jobs/view/4434094407/) — A16Z GAMES
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-06-27
-
-### [Software Engineer I](https://www.linkedin.com/jobs/view/4434084885/) — Uber
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-06-27
-
-### [Software Engineer I](https://www.linkedin.com/jobs/view/4434084887/) — Uber
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-06-27
-
-### [Sr Software Engineer](https://www.linkedin.com/jobs/view/4434090623/) — Uber
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-06-27
-
-### [Software Engineer II](https://www.linkedin.com/jobs/view/4434081892/) — Uber
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-06-27
-
-### [Senior Full-Stack Software Engineer](https://www.linkedin.com/jobs/view/4433450368/) — Adobe
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-06-27
-
-### [Software Engineer I](https://www.linkedin.com/jobs/view/4434098170/) — Uber
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-06-27
-
-### [Software Engineer II](https://www.linkedin.com/jobs/view/4434087812/) — Uber
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-06-27
-
-### [Software Engineer II](https://www.linkedin.com/jobs/view/4434095250/) — Uber
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-06-27
-
-### [Software Engineer II](https://www.linkedin.com/jobs/view/4434093334/) — Uber
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-06-27
-
-### [Sr Software Engineer](https://www.linkedin.com/jobs/view/4434082955/) — Uber
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-06-27
-
-### [Software Engineer II](https://www.linkedin.com/jobs/view/4434094321/) — Uber
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-06-27
-
-### [Sr Software Engineer](https://www.linkedin.com/jobs/view/4434080948/) — Uber
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-06-27
-
-### [Software Engineer II](https://www.linkedin.com/jobs/view/4434086831/) — Uber
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-06-27
-
-### [Software Engineer II](https://www.linkedin.com/jobs/view/4434080936/) — Uber
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-06-27
-
-### [Senior Mobile Systems Engineer, Audio Team (Android & C++)](https://www.linkedin.com/jobs/view/4433425266/) — Roblox
+### [Senior Software Engineer, Service Mesh](https://www.linkedin.com/jobs/view/4382486715/) — Roblox
 - 📍 **Location:** San Mateo, CA
 - 🕒 **Posted:** 2026-06-27
 
-### [Software Engineer Intern (Fall 2026)](https://www.linkedin.com/jobs/view/4434080977/) — Zipline
+### [Senior Software Engineer, Full Stack](https://www.linkedin.com/jobs/view/4434234376/) — GFR Fund
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-06-27
+
+### [Software Engineer - Systems Validation Infrastructure](https://www.linkedin.com/jobs/view/4343806304/) — Zipline
 - 📍 **Location:** South San Francisco, CA
 - 🕒 **Posted:** 2026-06-27
 
-### [Senior, Software Engineer](https://www.linkedin.com/jobs/view/4430663625/) — Walmart
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-06-27
-
-### [Sr Software Engineer](https://www.linkedin.com/jobs/view/4434200086/) — Uber
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-06-27
-
-### [Sr Software Engineer](https://www.linkedin.com/jobs/view/4434200090/) — Uber
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-06-27
-
-### [Software Engineer I](https://www.linkedin.com/jobs/view/4434090630/) — Uber
+### [Senior Software Security Engineer](https://www.linkedin.com/jobs/view/4372946293/) — Anthropic
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-06-27
 
-### [Sr Software Engineer](https://www.linkedin.com/jobs/view/4434201078/) — Uber
+### [AI Engineer](https://www.linkedin.com/jobs/view/4433479225/) — MeritFirst
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-06-27
+
+### [Engineering Manager, Stateful Distributed Systems](https://www.linkedin.com/jobs/view/4424764695/) — Mixpanel
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-06-27
 
-### [Sr Software Engineer](https://www.linkedin.com/jobs/view/4434081898/) — Uber
+### [Lead Data Engineer](https://www.linkedin.com/jobs/view/4415383073/) — Capital One
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-06-27
 
-### [Sr Software Engineer](https://www.linkedin.com/jobs/view/4434096205/) — Uber
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-06-27
-
-### [Software Engineer I](https://www.linkedin.com/jobs/view/4434078994/) — Uber
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-06-27
-
-### [Software Engineer I](https://www.linkedin.com/jobs/view/4434201077/) — Uber
+### [Senior Software Engineer, Platform](https://www.linkedin.com/jobs/view/4383297523/) — Hover
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-06-27
 
-### [Software Engineer I](https://www.linkedin.com/jobs/view/4434094332/) — Uber
+### [Senior Lead AI Engineer(MLX, Agentic AI, Gen AI platform Services)](https://www.linkedin.com/jobs/view/4415383072/) — Capital One
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-06-27
+
+### [Senior Lead AI Engineer(MLX, Agentic AI, Gen AI platform Services)](https://www.linkedin.com/jobs/view/4415374625/) — Capital One
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-06-27
 
-### [Software Engineer I](https://www.linkedin.com/jobs/view/4434079958/) — Uber
+### [Senior Lead AI Engineer(MLX, Agentic AI, Gen AI platform Services)](https://www.linkedin.com/jobs/view/4415370764/) — Capital One
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-06-27
+
+### [Software Engineer, Crypto Platform](https://www.linkedin.com/jobs/view/4434231493/) — Inflection (Angel List Syndicate)
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-06-27
 
-### [Software Engineer I](https://www.linkedin.com/jobs/view/4434084889/) — Uber
+### [Software Engineer](https://www.linkedin.com/jobs/view/4433479173/) — Jobright.ai
+- 📍 **Location:** Los Altos, CA
+- 🕒 **Posted:** 2026-06-27
+
+### [Senior Lead Software Engineer, Back-End Distributed Systems (AWS, Go, Kubernetes, MCP, Lua, Python)](https://www.linkedin.com/jobs/view/4425127176/) — Capital One
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-06-27
+
+### [Senior Software Engineer, Inference Platform](https://www.linkedin.com/jobs/view/4358453456/) — MongoDB
+- 📍 **Location:** Palo Alto, CA
+- 🕒 **Posted:** 2026-06-27
+
+### [Frontend Engineer, Platform](https://www.linkedin.com/jobs/view/4421198294/) — Grow Therapy
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-06-27
 
-### [Software Engineer I](https://www.linkedin.com/jobs/view/4434095262/) — Uber
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-06-27
-
-### [Software Engineer I](https://www.linkedin.com/jobs/view/4434090626/) — Uber
+### [Frontend Engineer, Product](https://www.linkedin.com/jobs/view/4421517059/) — Grow Therapy
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-06-27
 
-### [Senior, Software Engineer](https://www.linkedin.com/jobs/view/4430675479/) — Sam's Club
-- 📍 **Location:** Sunnyvale, CA
+### [Senior Software Engineer, Digital Experiences](https://www.linkedin.com/jobs/view/4395739020/) — BillionToOne
+- 📍 **Location:** Menlo Park, CA
 - 🕒 **Posted:** 2026-06-27
 
-### [Software Engineer II](https://www.linkedin.com/jobs/view/4434094323/) — Uber
-- 📍 **Location:** Sunnyvale, CA
+### [Backend Engineer - Access Control](https://www.linkedin.com/jobs/view/4304184923/) — Verkada
+- 📍 **Location:** San Mateo, CA
 - 🕒 **Posted:** 2026-06-27
 
-### [Security Engineer, Enterprise Security](https://www.linkedin.com/jobs/view/4434082892/) — Turo
+### [iOS Engineer](https://www.linkedin.com/jobs/view/4373022694/) — Wealthfront
+- 📍 **Location:** Palo Alto, CA
+- 🕒 **Posted:** 2026-06-27
+
+### [Platform Engineer](https://www.linkedin.com/jobs/view/4230186743/) — Speak
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-06-27
+
+### [Senior Lead Site Reliability Engineer](https://www.linkedin.com/jobs/view/4434229544/) — JPMorganChase
+- 📍 **Location:** Palo Alto, CA
+- 🕒 **Posted:** 2026-06-27
+
+### [Application Security Engineer, AI Security](https://www.linkedin.com/jobs/view/4393945632/) — Notion
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-06-27
 
-### [Senior Security Engineer, Enterprise Security](https://www.linkedin.com/jobs/view/4434082890/) — Turo
-- 📍 **Location:** San Francisco, CA
+### [Senior Software Engineer, Knowledge Graph/Entity Systems - Microsoft AI Search](https://www.linkedin.com/jobs/view/4422389525/) — Microsoft
+- 📍 **Location:** Mountain View, CA
 - 🕒 **Posted:** 2026-06-27
