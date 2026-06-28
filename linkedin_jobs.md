@@ -1,16 +1,12 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area)
-*Last updated: 2026-06-27 23:17 UTC*
+*Last updated: 2026-06-28 00:17 UTC*
 
-**3 new role(s)** since last run · 4 total in last 1h
+**2 new role(s)** since last run · 4 total in last 1h
 
-### [Backend Software Engineer](https://www.linkedin.com/jobs/view/4434246584/) — Doxel
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-06-27
+### [Software Engineer, Perception](https://www.linkedin.com/jobs/view/4431015198/) — Mach Industries
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-06-28
 
-### [Senior Platform Engineer, Security](https://www.linkedin.com/jobs/view/4434258263/) — Doxel
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-06-27
-
-### [MES / Manufacturing Systems Engineer](https://www.linkedin.com/jobs/view/4433481572/) — Akash Systems
-- 📍 **Location:** Emeryville, CA
-- 🕒 **Posted:** 2026-06-27
+### [Student Researcher (LLM Post Training – Agent & Reinforcement Learning) - 2026 Start (PhD)](https://www.linkedin.com/jobs/view/4434249627/) — ByteDance
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-06-28
