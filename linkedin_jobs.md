@@ -1,20 +1,28 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area)
-*Last updated: 2026-06-28 21:17 UTC*
+*Last updated: 2026-06-28 22:17 UTC*
 
-**4 new role(s)** since last run · 11 total in last 1h
+**6 new role(s)** since last run · 6 total in last 1h
 
-### [Software Engineer - AI Agent](https://www.linkedin.com/jobs/view/4433621631/) — Jobright.ai
-- 📍 **Location:** San Mateo County, CA
+### [AI Engineer](https://www.linkedin.com/jobs/view/4431040719/) — scalr
+- 📍 **Location:** San Francisco Bay Area
 - 🕒 **Posted:** 2026-06-28
 
-### [Applied Scientist](https://www.linkedin.com/jobs/view/4434408506/) — Cerebro
+### [Senior ML Engineer](https://www.linkedin.com/jobs/view/4433629401/) — Jobright.ai
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-06-28
 
-### [AI Research engineer](https://www.linkedin.com/jobs/view/4434414033/) — Cerebro
+### [Software Engineer](https://www.linkedin.com/jobs/view/4433632231/) — Jobright.ai
+- 📍 **Location:** Los Altos, CA
+- 🕒 **Posted:** 2026-06-28
+
+### [Data Scientist](https://www.linkedin.com/jobs/view/4433625555/) — Jobright.ai
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-06-28
 
-### [Security Engineer](https://www.linkedin.com/jobs/view/4433619702/) — Butterfly Security
+### [Senior Lead Site Reliability Engineer](https://www.linkedin.com/jobs/view/4433627471/) — hackajob
+- 📍 **Location:** Palo Alto, CA
+- 🕒 **Posted:** 2026-06-28
+
+### [Lead Infrastructure Engineer-Network Engineer](https://www.linkedin.com/jobs/view/4433618671/) — hackajob
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-06-28
