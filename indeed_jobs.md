@@ -1,19 +1,39 @@
 # 🟦 Indeed — Engineering / ML / DS Roles (SF Bay Area)
-*Last updated: 2026-06-27 22:41 UTC*
+*Last updated: 2026-06-28 01:37 UTC*
 
-**3 new role(s)** since last run · 51 total in last 24h
+**7 new role(s)** since last run · 43 total in last 24h
 
-### [Sr Software Engineer](https://www.indeed.com/viewjob?jk=81f7603b6e36c654) — Unknown
+### [Security Engineer (Research Infrastructure)](https://www.indeed.com/viewjob?jk=1a14f8ee4e3e13cf) — Resolution
+- 📍 **Location:** Berkeley, CA, US
+- 💰 **Salary:** $346k–$930k/yr
+- 🕒 **Posted:** 2026-06-27
+
+### [Research Engineer](https://www.indeed.com/viewjob?jk=ba713e86dc8807e3) — Resolution
+- 📍 **Location:** Berkeley, CA, US
+- 💰 **Salary:** $236k–$930k/yr
+- 🕒 **Posted:** 2026-06-27
+
+### [Security Engineer (Corporate IT)](https://www.indeed.com/viewjob?jk=435bda062efda987) — Resolution
+- 📍 **Location:** Berkeley, CA, US
+- 💰 **Salary:** $287k–$676k/yr
+- 🕒 **Posted:** 2026-06-27
+
+### [Software Engineer II](https://www.indeed.com/viewjob?jk=a54619fe76c691ff) — Unknown
+- 📍 **Location:** Sunnyvale, CA, US
+- 💰 **Salary:** $188k–$225k/yr
+- 🕒 **Posted:** 2026-06-27
+
+### [Software Engineer II](https://www.indeed.com/viewjob?jk=21516c93734b32d8) — Unknown
+- 📍 **Location:** Sunnyvale, CA, US
+- 💰 **Salary:** $226k–$271k/yr
+- 🕒 **Posted:** 2026-06-27
+
+### [Software Engineer II](https://www.indeed.com/viewjob?jk=c441bb392dc26a16) — Unknown
+- 📍 **Location:** Sunnyvale, CA, US
+- 💰 **Salary:** $189k–$209k/yr
+- 🕒 **Posted:** 2026-06-27
+
+### [Sr Software Engineer](https://www.indeed.com/viewjob?jk=cc4e3269c2590622) — Unknown
 - 📍 **Location:** San Francisco, CA, US
 - 💰 **Salary:** $202k–$224k/yr
-- 🕒 **Posted:** 2026-06-27
-
-### [Software Engineer II](https://www.indeed.com/viewjob?jk=0d03284594a03ea7) — Unknown
-- 📍 **Location:** Sunnyvale, CA, US
-- 💰 **Salary:** $167k–$204k/yr
-- 🕒 **Posted:** 2026-06-27
-
-### [Software Engineer I](https://www.indeed.com/viewjob?jk=085a5a2779be4523) — Unknown
-- 📍 **Location:** Sunnyvale, CA, US
-- 💰 **Salary:** $150k–$166k/yr
 - 🕒 **Posted:** 2026-06-27
