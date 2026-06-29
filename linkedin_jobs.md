@@ -1,8 +1,16 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area)
-*Last updated: 2026-06-29 00:17 UTC*
+*Last updated: 2026-06-29 01:17 UTC*
 
-**1 new role(s)** since last run · 2 total in last 1h
+**3 new role(s)** since last run · 4 total in last 1h
 
-### [AI Vision Research Engineer Graduate (PICO) - 2026 Start (PhD)](https://www.linkedin.com/jobs/view/4434415250/) — ByteDance
-- 📍 **Location:** San Jose, CA
+### [AI Scientist (US Temporary)](https://www.linkedin.com/jobs/view/4433637210/) — PromptBio
+- 📍 **Location:** Pleasanton, CA
+- 🕒 **Posted:** 2026-06-29
+
+### [Applied Scientist](https://www.linkedin.com/jobs/view/4433635171/) — vijil
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-06-29
+
+### [Junior Data Engineer](https://www.linkedin.com/jobs/view/4433628753/) — Raven Labs
+- 📍 **Location:** Dublin, CA
 - 🕒 **Posted:** 2026-06-29
