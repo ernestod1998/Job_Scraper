@@ -1,64 +1,140 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area)
-*Last updated: 2026-06-30 23:17 UTC*
+*Last updated: 2026-07-01 00:17 UTC*
 
-**15 new role(s)** since last run · 33 total in last 1h
+**34 new role(s)** since last run · 43 total in last 1h
 
-### [Senior Software Engineer, Sensor Simulation Platform](https://www.linkedin.com/jobs/view/4434356889/) — Waymo
+### [Machine Learning Engineer, Causal Inference, Level 5](https://www.linkedin.com/jobs/view/4435359179/) — Snap Inc.
+- 📍 **Location:** Palo Alto, CA
+- 🕒 **Posted:** 2026-07-01
+
+### [Machine Learning Engineer, Causal Inference, Level 5](https://www.linkedin.com/jobs/view/4435340792/) — Snap Inc.
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-07-01
+
+### [Software Engineer](https://www.linkedin.com/jobs/view/4434367798/) — Docusign
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-07-01
+
+### [Senior System Software Engineer, AI Infrastructure](https://www.linkedin.com/jobs/view/4434384201/) — NVIDIA
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-07-01
+
+### [Manager, Machine Learning Engineering, Web Ads Ranking](https://www.linkedin.com/jobs/view/4435346519/) — Snap Inc.
+- 📍 **Location:** Palo Alto, CA
+- 🕒 **Posted:** 2026-07-01
+
+### [Manager, Machine Learning Engineering, Web Ads Ranking](https://www.linkedin.com/jobs/view/4435336859/) — Snap Inc.
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-07-01
+
+### [Senior Systems Software Engineer, Accelerated Kubernetes Performance and Scale - DGX Cloud](https://www.linkedin.com/jobs/view/4434369788/) — NVIDIA
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-07-01
+
+### [Deep Learning Product Research Engineer](https://www.linkedin.com/jobs/view/4434376559/) — NVIDIA
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-07-01
+
+### [Deep Learning Product Research Engineer - Product Innovation](https://www.linkedin.com/jobs/view/4434367805/) — NVIDIA
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-07-01
+
+### [Performance Research Engineer (multiple levels)](https://www.linkedin.com/jobs/view/4431981627/) — Efficient Computer
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-07-01
+
+### [Research Engineer Graduate (AI Training Systems & RL Infrastructure - Seed Infra) - 2026 Start (PhD)](https://www.linkedin.com/jobs/view/4435354356/) — ByteDance
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-07-01
+
+### [Software Engineer, Backend, Level 4](https://www.linkedin.com/jobs/view/4435336858/) — Snap Inc.
+- 📍 **Location:** Palo Alto, CA
+- 🕒 **Posted:** 2026-07-01
+
+### [Software Engineer, Identity](https://www.linkedin.com/jobs/view/4435348450/) — Scale AI
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-07-01
+
+### [Systems Software Engineer - New College Grad 2026](https://www.linkedin.com/jobs/view/4434385069/) — NVIDIA
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-07-01
+
+### [Software Engineer, Internship](https://www.linkedin.com/jobs/view/4434151279/) — Palantir Technologies
+- 📍 **Location:** Palo Alto, CA
+- 🕒 **Posted:** 2026-07-01
+
+### [Senior DevOps Engineer - Infrastructure](https://www.linkedin.com/jobs/view/4434383276/) — NVIDIA
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-07-01
+
+### [Senior Software Engineer, Quantum Applied Research](https://www.linkedin.com/jobs/view/4434361982/) — NVIDIA
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-07-01
+
+### [Software Engineer, New Grad](https://www.linkedin.com/jobs/view/4423350635/) — Authorium
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-06-30
 
-### [Senior Software Engineer, Sensor Simulation Platform](https://www.linkedin.com/jobs/view/4434357766/) — Waymo
+### [Software Engineer - Data Platform](https://www.linkedin.com/jobs/view/4435336666/) — Baton
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-06-30
+
+### [LATAM - Data Science Engineer](https://www.linkedin.com/jobs/view/4431994309/) — Playsaurus Inc.
+- 📍 **Location:** Alameda, CA
+- 🕒 **Posted:** 2026-06-30
+
+### [Software Engineer](https://www.linkedin.com/jobs/view/4414066946/) — Authorium
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-06-30
+
+### [Full-Stack Software Engineer 5 - Ecosystem and Operational Insights](https://www.linkedin.com/jobs/view/4431984632/) — Netflix
+- 📍 **Location:** Los Gatos, CA
+- 🕒 **Posted:** 2026-06-30
+
+### [Software Engineer, Cloud Infrastructure](https://www.linkedin.com/jobs/view/4434383183/) — Glean
 - 📍 **Location:** Mountain View, CA
 - 🕒 **Posted:** 2026-06-30
 
-### [Data Scientist II, Device Economics](https://www.linkedin.com/jobs/view/4431981315/) — Amazon Science
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-06-30
-
-### [Senior Machine Learning Engineer, Perception](https://www.linkedin.com/jobs/view/4434371508/) — Aurelius Systems
+### [AI Engineer](https://www.linkedin.com/jobs/view/4431981620/) — P-1 AI
 - 📍 **Location:** San Francisco Bay Area
 - 🕒 **Posted:** 2026-06-30
 
-### [Software Developer 2](https://www.linkedin.com/jobs/view/4431987353/) — Oracle
+### [Frontend Engineer II, AI Experiences](https://www.linkedin.com/jobs/view/4435336737/) — Box
 - 📍 **Location:** Redwood City, CA
 - 🕒 **Posted:** 2026-06-30
 
-### [Software Engineer - Advanced](https://www.linkedin.com/jobs/view/4434381033/) — Siemens EDA (Siemens Digital Industries Software)
+### [Sr Software Engineer - Network & SDN - TeraWave](https://www.linkedin.com/jobs/view/4431975620/) — Blue Origin
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-06-30
+
+### [Software Engineer, Data Products](https://www.linkedin.com/jobs/view/4434378572/) — Persona
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-06-30
+
+### [Senior Robotics Software Engineer, Controls](https://www.linkedin.com/jobs/view/4434369711/) — Aurelius Systems
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-06-30
+
+### [Full Stack Engineer](https://www.linkedin.com/jobs/view/4435340697/) — MeeBoss
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-06-30
+
+### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4424262630/) — TruckSmarter
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-06-30
+
+### [Senior Mobile Engineer](https://www.linkedin.com/jobs/view/4423275186/) — TruckSmarter
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-06-30
+
+### [Platform Engineer](https://www.linkedin.com/jobs/view/4414654865/) — Hyve Solutions
 - 📍 **Location:** Fremont, CA
 - 🕒 **Posted:** 2026-06-30
 
-### [Software Engineer (Party Cell)](https://www.linkedin.com/jobs/view/4435338321/) — Nex
+### [Senior Engineering Manager, AI Platform](https://www.linkedin.com/jobs/view/4435351284/) — Rippling
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-06-30
 
-### [Software Engineer- Database Infrastructure](https://www.linkedin.com/jobs/view/4395728226/) — Discord
-- 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-06-30
-
-### [Software Engineer, AI Platform ($180K–$250K + equity) Enterprise AI Infrastructure](https://www.linkedin.com/jobs/view/4434380041/) — CoffeeSpace
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-06-30
-
-### [Senior Software Engineer, Core Platform](https://www.linkedin.com/jobs/view/4435350070/) — FloQast
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-06-30
-
-### [Sr. Software Engineer](https://www.linkedin.com/jobs/view/4434383048/) — Synctera
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-06-30
-
-### [Python Software Engineer - Test Systems & Automation](https://www.linkedin.com/jobs/view/4434367451/) — Red Oak Technologies
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-06-30
-
-### [SDET / Software Engineer in Test](https://www.linkedin.com/jobs/view/4434367543/) — Unify Technologies
-- 📍 **Location:** Cupertino, CA
-- 🕒 **Posted:** 2026-06-30
-
-### [robotic systems engineer](https://www.linkedin.com/jobs/view/4435343120/) — mundane
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-06-30
-
-### [Senior Embedded Software Engineer - TeraWave Customer Terminals](https://www.linkedin.com/jobs/view/4431992290/) — Blue Origin
-- 📍 **Location:** San Francisco Bay Area
+### [Platform Engineer](https://www.linkedin.com/jobs/view/4414650997/) — Hyve Solutions
+- 📍 **Location:** Fremont, CA
 - 🕒 **Posted:** 2026-06-30
