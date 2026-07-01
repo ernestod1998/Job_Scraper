@@ -1,52 +1,44 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area)
-*Last updated: 2026-07-01 03:17 UTC*
+*Last updated: 2026-07-01 06:53 UTC*
 
-**12 new role(s)** since last run · 24 total in last 1h
+**10 new role(s)** since last run · 10 total in last 1h
 
-### [Applied Scientist / Machine Learning Engineer](https://www.linkedin.com/jobs/view/4432312543/) — Wayve
+### [Senior Software Engineer, AI Data Application – USDS](https://www.linkedin.com/jobs/view/4432328311/) — TikTok USDS Joint Venture
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-07-01
+
+### [Software Engineer, Growth Data Platform](https://www.linkedin.com/jobs/view/4435523304/) — Omni
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-07-01
+
+### [Senior Software Engineer, Data Foundation – USDS](https://www.linkedin.com/jobs/view/4432320661/) — TikTok USDS Joint Venture
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-07-01
+
+### [Full Stack Software Engineer / Product Engineer](https://www.linkedin.com/jobs/view/4435385825/) — Talent Stack
+- 📍 **Location:** Palo Alto, CA
+- 🕒 **Posted:** 2026-07-01
+
+### [Internship, Software Engineer, Torque Path & Chassis Controls (Fall 2026)](https://www.linkedin.com/jobs/view/4435504832/) — Tesla
+- 📍 **Location:** Palo Alto, CA
+- 🕒 **Posted:** 2026-07-01
+
+### [Entry Level Software Developer](https://www.linkedin.com/jobs/view/4432339191/) — Revature
 - 📍 **Location:** Sunnyvale, CA
 - 🕒 **Posted:** 2026-07-01
 
-### [AI Engineer - Forward Deployed](https://www.linkedin.com/jobs/view/4435378726/) — Edison Scientific
+### [GPS HST Software Engineer III](https://www.linkedin.com/jobs/view/4435521144/) — Deloitte
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-07-01
+
+### [Senior Full Stack Engineer [32944]](https://www.linkedin.com/jobs/view/4432336160/) — Stealth Startup
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-07-01
 
-### [Data Scientist RD](https://www.linkedin.com/jobs/view/4434609183/) — Lily AI
-- 📍 **Location:** Mountain View, CA
+### [Analytics Engineer](https://www.linkedin.com/jobs/view/4435520021/) — Snowflake
+- 📍 **Location:** Menlo Park, CA
 - 🕒 **Posted:** 2026-07-01
 
-### [Computational Biologist](https://www.linkedin.com/jobs/view/4435368850/) — Edison Scientific
+### [Cloud Security Engineer Manager](https://www.linkedin.com/jobs/view/4435515345/) — Deloitte
 - 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-07-01
-
-### [Senior Frontend Engineer](https://www.linkedin.com/jobs/view/4435371828/) — Weave Bio
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-07-01
-
-### [Full Stack Engineer, Support Experience (Greater China Support)](https://www.linkedin.com/jobs/view/4435382462/) — Stripe
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-07-01
-
-### [Remote Senior Backend Engineer (Python/FastAPI)](https://www.linkedin.com/jobs/view/4435365980/) — Turing
-- 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-07-01
-
-### [Remote Software Engineer ($300/hr.)](https://www.linkedin.com/jobs/view/4435381811/) — Turing
-- 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-07-01
-
-### [Remote Software Engineer ($300/hr.)](https://www.linkedin.com/jobs/view/4435376822/) — Turing
-- 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-07-01
-
-### [Remote Software Engineer ($300/hr.)](https://www.linkedin.com/jobs/view/4435368969/) — Turing
-- 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-07-01
-
-### [Remote Software Engineer ($300/hr.)](https://www.linkedin.com/jobs/view/4435379769/) — Turing
-- 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-07-01
-
-### [Security Engineer, Corporate Security](https://www.linkedin.com/jobs/view/4434398741/) — Persona
-- 📍 **Location:** San Francisco Bay Area
 - 🕒 **Posted:** 2026-07-01
