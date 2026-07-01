@@ -1,84 +1,52 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area)
-*Last updated: 2026-07-01 20:17 UTC*
+*Last updated: 2026-07-01 21:10 UTC*
 
-**20 new role(s)** since last run · 32 total in last 1h
+**12 new role(s)** since last run · 27 total in last 1h
 
-### [Data Scientist, GTM](https://www.linkedin.com/jobs/view/4434672626/) — Anthropic
+### [Software Engineer, Data Infrastructure](https://www.linkedin.com/jobs/view/4434683386/) — Wing
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-07-01
 
-### [ML Engineer, Prompt Safety & Agent Security](https://www.linkedin.com/jobs/view/4434665751/) — OSI Engineering
+### [Data Scientist: Measurement and Decision Sciences](https://www.linkedin.com/jobs/view/4434676863/) — McAfee
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-07-01
+
+### [RL Environment Software Engineer](https://www.linkedin.com/jobs/view/4436113065/) — talentpluto
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-07-01
+
+### [Head, Innovation Accelerator Data Science](https://www.linkedin.com/jobs/view/4436101300/) — Genentech
+- 📍 **Location:** South San Francisco, CA
+- 🕒 **Posted:** 2026-07-01
+
+### [RL Environment Software Engineer](https://www.linkedin.com/jobs/view/4436107214/) — talentpluto
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-07-01
+
+### [Software Engineer - AI Agent](https://www.linkedin.com/jobs/view/4434683498/) — Jobright.ai
+- 📍 **Location:** San Mateo County, CA
+- 🕒 **Posted:** 2026-07-01
+
+### [Senior AI Engineer, MarTech](https://www.linkedin.com/jobs/view/4434675861/) — McAfee
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-07-01
+
+### [Computer Vision Engineer](https://www.linkedin.com/jobs/view/4434685319/) — MSR Technology Group
 - 📍 **Location:** Mountain View, CA
 - 🕒 **Posted:** 2026-07-01
 
-### [Machine Learning Engineer, Speech LLM Training](https://www.linkedin.com/jobs/view/4434661970/) — Jobright.ai
+### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4435894884/) — Eames Institute
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-07-01
 
-### [Data Scientist](https://www.linkedin.com/jobs/view/4434674671/) — Jobright.ai
-- 📍 **Location:** San Francisco, CA
+### [DevOps Kubernetes Administrator](https://www.linkedin.com/jobs/view/4432712654/) — UST
+- 📍 **Location:** Milpitas, CA
 - 🕒 **Posted:** 2026-07-01
 
-### [Applied AI Engineer](https://www.linkedin.com/jobs/view/4430130904/) — Artos AI
-- 📍 **Location:** San Francisco, CA
+### [AI Security Engineer](https://www.linkedin.com/jobs/view/4426846570/) — Planet Pharma
+- 📍 **Location:** South San Francisco, CA
 - 🕒 **Posted:** 2026-07-01
 
-### [Sr. Software Engineer - AI](https://www.linkedin.com/jobs/view/4432703817/) — LogicMonitor
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-07-01
-
-### [Platform Engineer I](https://www.linkedin.com/jobs/view/4436102183/) — Blackhawk Network
-- 📍 **Location:** Pleasanton, CA
-- 🕒 **Posted:** 2026-07-01
-
-### [Site Reliability Engineer](https://www.linkedin.com/jobs/view/4403260426/) — Gamma
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-07-01
-
-### [Senior Software Engineer, Enterprise AI](https://www.linkedin.com/jobs/view/4434660771/) — Google
+### [Endpoint Security Engineer](https://www.linkedin.com/jobs/view/4434673935/) — McAfee
 - 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-07-01
-
-### [Software Engineer, Trust & Safety](https://www.linkedin.com/jobs/view/4403262419/) — Gamma
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-07-01
-
-### [Sr. Manager, Platform Engineering](https://www.linkedin.com/jobs/view/4435893513/) — Translation
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-07-01
-
-### [Software Engineer](https://www.linkedin.com/jobs/view/4434680401/) — Jack
-- 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-07-01
-
-### [Software Engineer Lead](https://www.linkedin.com/jobs/view/4433293464/) — VeeAR Projects Inc.
-- 📍 **Location:** Fremont, CA
-- 🕒 **Posted:** 2026-07-01
-
-### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4434673675/) — FutureTech Recruitment
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-07-01
-
-### [Senior / Backend Full Stack Engineer](https://www.linkedin.com/jobs/view/4425892540/) — DTEX
-- 📍 **Location:** Fremont, CA
-- 🕒 **Posted:** 2026-07-01
-
-### [Senior Software Engineer, Android Dialer, Calling Protection](https://www.linkedin.com/jobs/view/4434668532/) — Google
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-07-01
-
-### [Frontend Engineer — Distributed Systems OS](https://www.linkedin.com/jobs/view/4435899458/) — Clera
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-07-01
-
-### [Systems Engineer](https://www.linkedin.com/jobs/view/4429402737/) — Applied Materials
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-07-01
-
-### [Sr. Security Engineer (contract)](https://www.linkedin.com/jobs/view/4435899349/) — Airbnb
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-07-01
-
-### [Growth Data Engineer](https://www.linkedin.com/jobs/view/4434677633/) — Jobright.ai
-- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-07-01
