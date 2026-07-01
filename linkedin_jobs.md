@@ -1,164 +1,116 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area)
-*Last updated: 2026-07-01 22:17 UTC*
+*Last updated: 2026-07-01 23:17 UTC*
 
-**40 new role(s)** since last run · 42 total in last 1h
+**28 new role(s)** since last run · 49 total in last 1h
 
-### [Sr Machine Learning Engineer](https://www.linkedin.com/jobs/view/4436113334/) — PayPal
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-07-01
-
-### [AI/Machine Learning Engineer - Python - Loops](https://www.linkedin.com/jobs/view/4435899980/) — IFS
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-07-01
-
-### [Robotics Engineer](https://www.linkedin.com/jobs/view/4434694314/) — EmbodyX
-- 📍 **Location:** San Mateo, CA
-- 🕒 **Posted:** 2026-07-01
-
-### [Sr. Software Engineer, Marketplace ML Platform](https://www.linkedin.com/jobs/view/4413538458/) — Waymo
-- 📍 **Location:** Mountain View, CA
-- 🕒 **Posted:** 2026-07-01
-
-### [Senior ML Engineer](https://www.linkedin.com/jobs/view/4434690243/) — Jobright.ai
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-07-01
-
-### [Data Scientist - Agentic AI Systems - Loops](https://www.linkedin.com/jobs/view/4436111386/) — IFS
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-07-01
-
-### [Data Scientist 2](https://www.linkedin.com/jobs/view/4434689255/) — Lam Research
-- 📍 **Location:** Fremont, CA
-- 🕒 **Posted:** 2026-07-01
-
-### [(USA) Software Engineer III](https://www.linkedin.com/jobs/view/4432724225/) — Walmart
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-07-01
-
-### [(USA) Software Engineer III](https://www.linkedin.com/jobs/view/4432726229/) — Walmart
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-07-01
-
-### [(USA) Software Engineer III](https://www.linkedin.com/jobs/view/4432725193/) — Walmart
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-07-01
-
-### [(USA) Software Engineer III](https://www.linkedin.com/jobs/view/4432725197/) — Walmart
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-07-01
-
-### [(USA) Software Engineer III](https://www.linkedin.com/jobs/view/4432727217/) — Walmart
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-07-01
-
-### [(USA) Software Engineer III](https://www.linkedin.com/jobs/view/4432713878/) — Walmart
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-07-01
-
-### [(USA) Software Engineer III](https://www.linkedin.com/jobs/view/4432732042/) — Walmart
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-07-01
-
-### [(USA) Software Engineer III](https://www.linkedin.com/jobs/view/4432721312/) — Walmart
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-07-01
-
-### [(USA) Software Engineer III](https://www.linkedin.com/jobs/view/4432730092/) — Walmart
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-07-01
-
-### [(USA) Software Engineer III](https://www.linkedin.com/jobs/view/4432714866/) — Walmart
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-07-01
-
-### [Data Scientist](https://www.linkedin.com/jobs/view/4434699115/) — Jobright.ai
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-07-01
-
-### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4434682824/) — Credo
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-07-01
-
-### [(USA) Software Engineer III](https://www.linkedin.com/jobs/view/4432714867/) — Walmart
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-07-01
-
-### [(USA) Software Engineer III](https://www.linkedin.com/jobs/view/4432725191/) — Walmart
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-07-01
-
-### [(USA) Software Engineer III](https://www.linkedin.com/jobs/view/4432721311/) — Walmart
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-07-01
-
-### [Software Engineer III](https://www.linkedin.com/jobs/view/4432714861/) — Walmart
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-07-01
-
-### [Data Engineer - Java - Loops](https://www.linkedin.com/jobs/view/4436106523/) — IFS
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-07-01
-
-### [Full-Stack Software Engineer (Base Up to $225K + Equity)](https://www.linkedin.com/jobs/view/4434693101/) — Resourceful Talent Group
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-07-01
-
-### [Software Engineer III](https://www.linkedin.com/jobs/view/4432730084/) — Walmart
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-07-01
-
-### [Internship, Distributed Systems Software Engineer, Energy Engineering (Fall 2026)](https://www.linkedin.com/jobs/view/4436112383/) — Tesla
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-07-01
-
-### [(USA) Senior, Software Engineer](https://www.linkedin.com/jobs/view/4432728191/) — Walmart
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-07-01
-
-### [(USA) Software Engineer III](https://www.linkedin.com/jobs/view/4432715703/) — Walmart
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-07-01
-
-### [(USA) Software Engineer III](https://www.linkedin.com/jobs/view/4432729179/) — Walmart
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-07-01
-
-### [Software Engineer](https://www.linkedin.com/jobs/view/4434697076/) — Jobright.ai
-- 📍 **Location:** Los Altos, CA
-- 🕒 **Posted:** 2026-07-01
-
-### [(USA) Software Engineer III](https://www.linkedin.com/jobs/view/4432716594/) — Walmart
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-07-01
-
-### [Senior Software Engineer, Release Infra](https://www.linkedin.com/jobs/view/4436119407/) — Brex
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-07-01
-
-### [Embedded Linux Software Engineer](https://www.linkedin.com/jobs/view/4434698003/) — Sunday
+### [Senior Machine Learning Engineer, Shield](https://www.linkedin.com/jobs/view/4436116653/) — Box
 - 📍 **Location:** Redwood City, CA
 - 🕒 **Posted:** 2026-07-01
 
-### [GPU Software Engineer](https://www.linkedin.com/jobs/view/4424465660/) — Triune Infomatics Inc
-- 📍 **Location:** San Jose, CA
+### [Machine Learning Engineer](https://www.linkedin.com/jobs/view/4413758032/) — LeanData
+- 📍 **Location:** Santa Clara, CA
 - 🕒 **Posted:** 2026-07-01
 
-### [Senior Android Engineer, Growth](https://www.linkedin.com/jobs/view/4413167055/) — Waymo
-- 📍 **Location:** San Francisco, CA
+### [AI Engineer (LLM, Agents & Data Engineering)](https://www.linkedin.com/jobs/view/4432712928/) — Wise Skulls
+- 📍 **Location:** Sunnyvale, CA
 - 🕒 **Posted:** 2026-07-01
 
-### [Robotics Systems Engineer, Optimus](https://www.linkedin.com/jobs/view/4436105657/) — Tesla
-- 📍 **Location:** Palo Alto, CA
+### [Lead Data Scientist](https://www.linkedin.com/jobs/view/4429484459/) — Galent
+- 📍 **Location:** San Francisco Bay Area
 - 🕒 **Posted:** 2026-07-01
 
-### [Automotive HVAC Systems Engineer](https://www.linkedin.com/jobs/view/4434681611/) — Waymo
+### [Software Engineer](https://www.linkedin.com/jobs/view/4436105973/) — eTeam
 - 📍 **Location:** Mountain View, CA
 - 🕒 **Posted:** 2026-07-01
 
-### [Information Security Engineer 4](https://www.linkedin.com/jobs/view/4434681567/) — Lam Research
+### [Senior Software Engineer, AI/ML, Core](https://www.linkedin.com/jobs/view/4435003082/) — Google
+- 📍 **Location:** Mountain View, CA
+- 🕒 **Posted:** 2026-07-01
+
+### [Software Engineer](https://www.linkedin.com/jobs/view/4436120773/) — LeadStack Inc.
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-07-01
+
+### [Software Engineer](https://www.linkedin.com/jobs/view/4435002304/) — Jack
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-07-01
+
+### [Senior Data Scientist](https://www.linkedin.com/jobs/view/4432727342/) — Mastercard
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-07-01
+
+### [Lead Data Scientist, Experimentation Platform](https://www.linkedin.com/jobs/view/4432735155/) — Strava
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-07-01
+
+### [Machine Learning Engineer, Prompt Safety and Agent Security](https://www.linkedin.com/jobs/view/4436110891/) — The Mom Project
+- 📍 **Location:** Mountain View, CA
+- 🕒 **Posted:** 2026-07-01
+
+### [Software Engineer, Product (Frontend-leaning)](https://www.linkedin.com/jobs/view/4434699260/) — Assembled
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-07-01
+
+### [Senior MLOps & AI Infrastructure Engineer](https://www.linkedin.com/jobs/view/4436136002/) — Altera
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-07-01
+
+### [Software Engineer, Design Systems](https://www.linkedin.com/jobs/view/4434687605/) — Assembled
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-07-01
+
+### [Senior Software Developer](https://www.linkedin.com/jobs/view/4432715860/) — Oracle
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-07-01
+
+### [Senior Software Developer](https://www.linkedin.com/jobs/view/4432722373/) — Oracle
+- 📍 **Location:** Redwood City, CA
+- 🕒 **Posted:** 2026-07-01
+
+### [Sr. Software Engineer II, Cloud/Backend - SCP (Hybrid)](https://www.linkedin.com/jobs/view/4432738066/) — CrowdStrike
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-07-01
+
+### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4434695452/) — Radiant Systems Inc
+- 📍 **Location:** Mountain View, CA
+- 🕒 **Posted:** 2026-07-01
+
+### [Sr. Software Engineer, Cloud Infrastructure](https://www.linkedin.com/jobs/view/4427581012/) — Personalis, Inc.
 - 📍 **Location:** Fremont, CA
 - 🕒 **Posted:** 2026-07-01
 
-### [Data Engineer, Cell Quality & Field Reliability](https://www.linkedin.com/jobs/view/4436120278/) — Tesla
-- 📍 **Location:** Fremont, CA
+### [Senior Software Developer](https://www.linkedin.com/jobs/view/4432723390/) — Oracle
+- 📍 **Location:** Redwood City, CA
+- 🕒 **Posted:** 2026-07-01
+
+### [Senior Software Developer](https://www.linkedin.com/jobs/view/4432720500/) — Oracle
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-07-01
+
+### [Frontend - Data Platform (Autonomy)](https://www.linkedin.com/jobs/view/4436130019/) — Zipline
+- 📍 **Location:** South San Francisco, CA
+- 🕒 **Posted:** 2026-07-01
+
+### [Senior Manager, Mobile Engineering](https://www.linkedin.com/jobs/view/4432509910/) — Abbott
+- 📍 **Location:** Alameda, CA
+- 🕒 **Posted:** 2026-07-01
+
+### [System Infrastructure / Platform Engineer, HPC Technology Department](https://www.linkedin.com/jobs/view/4434686612/) — Berkeley Lab
+- 📍 **Location:** Berkeley, CA
+- 🕒 **Posted:** 2026-07-01
+
+### [Lead DevOps Engineer](https://www.linkedin.com/jobs/view/4414716485/) — Happen Bank
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-07-01
+
+### [Senior Data Engineer (1043) - DataSF - Office of City Administrator](https://www.linkedin.com/jobs/view/4436108794/) — City and County of San Francisco
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-07-01
+
+### [Senior Systems Engineer [CAMPUS ONLY recruitment]](https://www.linkedin.com/jobs/view/4432525161/) — University of California, Santa Cruz
+- 📍 **Location:** Santa Cruz County, CA
+- 🕒 **Posted:** 2026-07-01
+
+### [Software Engineer Intern](https://www.linkedin.com/jobs/view/4436128010/) — SK hynix memory solutions America Inc.
+- 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-07-01
