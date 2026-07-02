@@ -1,64 +1,52 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area)
-*Last updated: 2026-07-02 02:17 UTC*
+*Last updated: 2026-07-02 03:17 UTC*
 
-**15 new role(s)** since last run · 23 total in last 1h
+**12 new role(s)** since last run · 14 total in last 1h
 
-### [Full-Stack Software Engineer](https://www.linkedin.com/jobs/view/4436159307/) — Straia
+### [Healthcare Software Engineer - Fully Remote | Upto $87/hr](https://www.linkedin.com/jobs/view/4435024500/) — Mercor
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-07-02
 
-### [Applied AI Engineer](https://www.linkedin.com/jobs/view/4436163280/) — Amigo
+### [ML Research Engineer - PhD](https://www.linkedin.com/jobs/view/4435025428/) — Mercor
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-07-02
 
-### [Internship, AI Engineer, Tesla AI (Fall 2026)](https://www.linkedin.com/jobs/view/4436150497/) — Tesla
-- 📍 **Location:** Palo Alto, CA
+### [Machine Learning Infrastructure Engineer- Model Inference](https://www.linkedin.com/jobs/view/4432738387/) — Abridge
+- 📍 **Location:** San Francisco Bay Area
 - 🕒 **Posted:** 2026-07-02
 
-### [AI Engineer](https://www.linkedin.com/jobs/view/4432731529/) — Haystack
+### [Clinical Data Engineer - TypeScript](https://www.linkedin.com/jobs/view/4435013733/) — Mercor
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-07-02
 
-### [[P] Data Engineer, Safeguards](https://www.linkedin.com/jobs/view/4435008828/) — Anthropic
+### [Software Engineer - Backend Specialist](https://www.linkedin.com/jobs/view/4435020602/) — Mercor
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-07-02
 
-### [Sr. Software Engineer – Real-Time Controls](https://www.linkedin.com/jobs/view/4436128587/) — Apptronik
-- 📍 **Location:** Sunnyvale, CA
+### [Software Engineer](https://www.linkedin.com/jobs/view/4432746111/) — KLA
+- 📍 **Location:** Milpitas, CA
 - 🕒 **Posted:** 2026-07-02
 
-### [Senior DevOps Engineer](https://www.linkedin.com/jobs/view/4429192616/) — Monks
-- 📍 **Location:** Cupertino, CA
-- 🕒 **Posted:** 2026-07-02
-
-### [Software Engineer, Multimodal Storage Infrastructure](https://www.linkedin.com/jobs/view/4436160320/) — Eventual
+### [Data Science Specialist - Fully Remote | Upto $75/hr](https://www.linkedin.com/jobs/view/4435033006/) — Mercor
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-07-02
 
-### [R&D Software Engineer](https://www.linkedin.com/jobs/view/4412841288/) — Keysight Technologies
-- 📍 **Location:** Santa Rosa, CA
-- 🕒 **Posted:** 2026-07-02
-
-### [Senior Software Engineer (Backend)](https://www.linkedin.com/jobs/view/4436166257/) — Amigo
+### [Research Engineers & Research Scientists](https://www.linkedin.com/jobs/view/4435024554/) — PerfectBit
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-07-02
 
-### [Senior Full-Stack Engineer](https://www.linkedin.com/jobs/view/4436166231/) — Amigo
+### [Full Stack Engineer - Fully Remote | Upto $130/hr](https://www.linkedin.com/jobs/view/4435031111/) — Mercor
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-07-02
 
-### [Software Engineer](https://www.linkedin.com/jobs/view/4432722751/) — Zuora Community
-- 📍 **Location:** Foster City, CA
+### [iOS Engineer - AI Model Evaluator](https://www.linkedin.com/jobs/view/4435017724/) — Mercor
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-07-02
 
-### [Software Engineer III, Hardware/Software Co-Design](https://www.linkedin.com/jobs/view/4435027085/) — Google
-- 📍 **Location:** Sunnyvale, CA
+### [DevOps Engineer - AI Model Evaluator](https://www.linkedin.com/jobs/view/4435022529/) — Mercor
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-07-02
 
-### [End to End Systems Engineer](https://www.linkedin.com/jobs/view/4432737318/) — HireArt
-- 📍 **Location:** Foster City, CA
-- 🕒 **Posted:** 2026-07-02
-
-### [Embedded Systems Security Engineer](https://www.linkedin.com/jobs/view/4432733420/) — HireArt
-- 📍 **Location:** Foster City, CA
+### [Senior Data Scientist](https://www.linkedin.com/jobs/view/4436164455/) — LiveRamp
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-07-02
