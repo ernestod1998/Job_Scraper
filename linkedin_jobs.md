@@ -1,48 +1,56 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area)
-*Last updated: 2026-07-02 00:17 UTC*
+*Last updated: 2026-07-02 01:17 UTC*
 
-**11 new role(s)** since last run · 39 total in last 1h
+**13 new role(s)** since last run · 18 total in last 1h
 
-### [Test Software Engineer Intern (Intelligent Creation) - 2026 Summer (BS/MS)](https://www.linkedin.com/jobs/view/4436133536/) — ByteDance
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-07-02
-
-### [Senior SOCD Applied AI Engineer](https://www.linkedin.com/jobs/view/4435009202/) — NVIDIA
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-07-02
-
-### [Senior Systems Software Engineer, Containers and Kubernetes](https://www.linkedin.com/jobs/view/4435009205/) — NVIDIA
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-07-02
-
-### [Senior Software Engineer - Topography](https://www.linkedin.com/jobs/view/4434690917/) — NVIDIA
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-07-02
-
-### [Bioinformatics Engineer](https://www.linkedin.com/jobs/view/4422755876/) — The Select Group
-- 📍 **Location:** South San Francisco, CA
-- 🕒 **Posted:** 2026-07-02
-
-### [Student Researcher (LLM Post Training – Agent & Reinforcement Learning) - 2026 Start (PhD)](https://www.linkedin.com/jobs/view/4436126677/) — ByteDance
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-07-01
-
-### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4432724372/) — Ayna
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-07-01
-
-### [Software Engineer, Full Stack - Marketplace](https://www.linkedin.com/jobs/view/4436146039/) — Snowflake
-- 📍 **Location:** Menlo Park, CA
-- 🕒 **Posted:** 2026-07-01
-
-### [Senior Software Engineer, Billing Platform](https://www.linkedin.com/jobs/view/4436133387/) — Sentry
+### [Senior ML Engineer, Agentic AI](https://www.linkedin.com/jobs/view/4425587203/) — Ellipsis Health
 - 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-07-01
+- 🕒 **Posted:** 2026-07-02
 
-### [Senior Software Engineer, Accelerated Delivery](https://www.linkedin.com/jobs/view/4436140143/) — Snowflake
-- 📍 **Location:** Menlo Park, CA
-- 🕒 **Posted:** 2026-07-01
+### [Computer Vision/Machine Learning Engineer](https://www.linkedin.com/jobs/view/4419602701/) — The Select Group
+- 📍 **Location:** Cupertino, CA
+- 🕒 **Posted:** 2026-07-02
 
-### [Senior Software Engineer, Backend](https://www.linkedin.com/jobs/view/4435008278/) — Archer
+### [Manager, Software Engineering, ML Inference](https://www.linkedin.com/jobs/view/4436131442/) — Snap Inc.
+- 📍 **Location:** Palo Alto, CA
+- 🕒 **Posted:** 2026-07-02
+
+### [Software Engineer Graduate (Cloud Native Infrastructure) - 2026 Start (BS/MS)](https://www.linkedin.com/jobs/view/4436145180/) — ByteDance
 - 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-07-01
+- 🕒 **Posted:** 2026-07-02
+
+### [Software Engineer, Identity](https://www.linkedin.com/jobs/view/4436143874/) — Mercor
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-07-02
+
+### [Senior Software Engineer, Marketing Engineering](https://www.linkedin.com/jobs/view/4436151015/) — Postman
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-07-02
+
+### [Infrastructure Engineer](https://www.linkedin.com/jobs/view/4435010369/) — Console
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-07-02
+
+### [Senior Full Stack Engineer (AI SaaS • Production Systems)](https://www.linkedin.com/jobs/view/4433492596/) — Lif3away Inc.
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-07-02
+
+### [Cloud Engineer](https://www.linkedin.com/jobs/view/4435004544/) — Capstone Technology Resources, Inc. (Capstone)
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-07-02
+
+### [Senior Data Platform Engineer](https://www.linkedin.com/jobs/view/4425298253/) — Ellipsis Health
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-07-02
+
+### [End-to-End Systems Engineer](https://www.linkedin.com/jobs/view/4436146708/) — Source One Technical Solutions
+- 📍 **Location:** Foster City, CA
+- 🕒 **Posted:** 2026-07-02
+
+### [Site Reliability Engineer Project Intern (Security Engineering) - 2026 Start (BS/MS)](https://www.linkedin.com/jobs/view/4436137330/) — ByteDance
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-07-02
+
+### [Senior Infrastructure Engineer](https://www.linkedin.com/jobs/view/4435021186/) — Manufact (YC S25)
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-07-02
