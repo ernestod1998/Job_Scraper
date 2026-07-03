@@ -1,32 +1,60 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area)
-*Last updated: 2026-07-03 03:17 UTC*
+*Last updated: 2026-07-03 05:32 UTC*
 
-**7 new role(s)** since last run · 14 total in last 1h
+**14 new role(s)** since last run · 14 total in last 1h
 
-### [Machine Learning Infrastructure Engineer](https://www.linkedin.com/jobs/view/4436460954/) — Mind Robotics
-- 📍 **Location:** Palo Alto, CA
+### [Machine Learning Engineer](https://www.linkedin.com/jobs/view/4435418219/) — Adobe
+- 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-07-03
 
-### [Computer Vision Research Engineer](https://www.linkedin.com/jobs/view/4388119842/) — Bobyard
+### [AI Data Software Engineer](https://www.linkedin.com/jobs/view/4436490014/) — Tiki AI
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-07-03
 
-### [Senior Software Engineer - Machine Learning](https://www.linkedin.com/jobs/view/4435297760/) — Uber Freight
-- 📍 **Location:** San Francisco, CA
+### [Senior, Software Engineer](https://www.linkedin.com/jobs/view/4433149521/) — Walmart
+- 📍 **Location:** Sunnyvale, CA
 - 🕒 **Posted:** 2026-07-03
 
-### [Senior AI Research Engineer](https://www.linkedin.com/jobs/view/4436457935/) — Agility Robotics
-- 📍 **Location:** Fremont, CA
+### [(USA) Senior, Software Engineer](https://www.linkedin.com/jobs/view/4433148567/) — Walmart
+- 📍 **Location:** Sunnyvale, CA
 - 🕒 **Posted:** 2026-07-03
 
-### [Software Engineer, Infrastructure](https://www.linkedin.com/jobs/view/4436464543/) — Middesk
-- 📍 **Location:** San Francisco, CA
+### [(USA) Software Engineer III](https://www.linkedin.com/jobs/view/4433149519/) — Walmart
+- 📍 **Location:** Sunnyvale, CA
 - 🕒 **Posted:** 2026-07-03
 
-### [Robotics Software Engineer](https://www.linkedin.com/jobs/view/4436475195/) — Mind Robotics
-- 📍 **Location:** Palo Alto, CA
+### [Senior, Software Engineer](https://www.linkedin.com/jobs/view/4433146598/) — Walmart
+- 📍 **Location:** Sunnyvale, CA
 - 🕒 **Posted:** 2026-07-03
 
-### [Senior Data Engineer](https://www.linkedin.com/jobs/view/4435411085/) — Revolution Medicines
+### [(USA) Senior, Software Engineer](https://www.linkedin.com/jobs/view/4433140806/) — Walmart
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-07-03
+
+### [Senior Software Engineer, Workflow Platforms](https://www.linkedin.com/jobs/view/4424025803/) — Bot Auto
 - 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-07-03
+
+### [Senior Software Engineer, School Integrations](https://www.linkedin.com/jobs/view/4435408697/) — RemoteFront
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-07-03
+
+### [(USA) Software Engineer III](https://www.linkedin.com/jobs/view/4433153362/) — Walmart
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-07-03
+
+### [Computer Vision Engineer](https://www.linkedin.com/jobs/view/4435406560/) — Mora Studio
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-07-03
+
+### [Senior Analytics Engineer](https://www.linkedin.com/jobs/view/4436468867/) — Fieldguide
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-07-03
+
+### [Site Reliability Engineer](https://www.linkedin.com/jobs/view/4436489100/) — Obsidian Security
+- 📍 **Location:** Palo Alto, CA
+- 🕒 **Posted:** 2026-07-03
+
+### [Senior Infrastructure Engineer](https://www.linkedin.com/jobs/view/4436484432/) — Vast.ai
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-07-03
