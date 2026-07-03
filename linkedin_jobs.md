@@ -1,128 +1,168 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area)
-*Last updated: 2026-07-03 17:17 UTC*
+*Last updated: 2026-07-03 18:17 UTC*
 
-**31 new role(s)** since last run · 48 total in last 1h
+**41 new role(s)** since last run · 65 total in last 1h
 
-### [Machine Learning Engineer, Assessments](https://www.linkedin.com/jobs/view/4398980271/) — Speak
-- 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-07-03
-
-### [Senior Software Engineer, AI Networking](https://www.linkedin.com/jobs/view/4395922222/) — NVIDIA
+### [Senior Deep Learning Performance Architect](https://www.linkedin.com/jobs/view/4395478537/) — NVIDIA
 - 📍 **Location:** Santa Clara, CA
 - 🕒 **Posted:** 2026-07-03
 
-### [Lead Machine Learning Engineer (Manager IC)](https://www.linkedin.com/jobs/view/4427976376/) — Capital One
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-07-03
-
-### [System Software Engineer - Tegra](https://www.linkedin.com/jobs/view/4395489152/) — NVIDIA
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-07-03
-
-### [Senior Debugger Software Engineer](https://www.linkedin.com/jobs/view/4426901232/) — NVIDIA
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-07-03
-
-### [Senior Software Engineer - CUDA and Unified Memory](https://www.linkedin.com/jobs/view/4395491340/) — NVIDIA
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-07-03
-
-### [Senior Software Engineer, Hardware Tools and Methodology Development](https://www.linkedin.com/jobs/view/4395470563/) — NVIDIA
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-07-03
-
-### [Embedded Firmware PHY Software Engineer](https://www.linkedin.com/jobs/view/4395474500/) — NVIDIA
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-07-03
-
-### [Senior Data Scientist, Pricing](https://www.linkedin.com/jobs/view/4427656640/) — Mudflap
+### [Senior Data Scientist, Product](https://www.linkedin.com/jobs/view/4427656639/) — Mudflap
 - 📍 **Location:** Palo Alto, CA
 - 🕒 **Posted:** 2026-07-03
 
-### [Software Engineer, AI Agents](https://www.linkedin.com/jobs/view/4333129648/) — Hightouch
-- 📍 **Location:** San Francisco Bay Area
+### [Senior Data Scientist, Borrow](https://www.linkedin.com/jobs/view/4399461705/) — SoFi
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-07-03
 
-### [Senior Research Scientist for Generative AI](https://www.linkedin.com/jobs/view/4395473386/) — NVIDIA
-- 📍 **Location:** Santa Clara, CA
+### [Senior Data Scientist, Risk](https://www.linkedin.com/jobs/view/4427666551/) — Mudflap
+- 📍 **Location:** Palo Alto, CA
 - 🕒 **Posted:** 2026-07-03
 
-### [Delivery Consultant- GenAI/ML & Data Science, Professional Services, AWS Industries](https://www.linkedin.com/jobs/view/4427673619/) — Amazon Web Services (AWS)
+### [Machine Learning Engineer](https://www.linkedin.com/jobs/view/4435461846/) — Evlo AI
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-07-03
+
+### [Machine Learning Engineer](https://www.linkedin.com/jobs/view/4435475415/) — Unity
 - 📍 **Location:** Mountain View, CA
 - 🕒 **Posted:** 2026-07-03
 
-### [AI Engineer - Onsite - San Francisco, CA](https://www.linkedin.com/jobs/view/4436764220/) — RS Global Services
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-07-03
-
-### [Delivery Consultant- GenAI/ML & Data Science, Professional Services, AWS Industries](https://www.linkedin.com/jobs/view/4427666662/) — Amazon Web Services (AWS)
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-07-03
-
-### [Delivery Consultant- GenAI/ML & Data Science, AWS Industries](https://www.linkedin.com/jobs/view/4427664717/) — Amazon Web Services (AWS)
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-07-03
-
-### [Software Engineer Intern (Fall 2026)](https://www.linkedin.com/jobs/view/4435457809/) — EventReels
-- 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-07-03
-
-### [Software Engineer](https://www.linkedin.com/jobs/view/4429400725/) — Applied Materials
+### [Senior Applied Deep Learning Research Scientist, Efficiency](https://www.linkedin.com/jobs/view/4395477534/) — NVIDIA
 - 📍 **Location:** Santa Clara, CA
 - 🕒 **Posted:** 2026-07-03
 
-### [iOS SDET / Software Engineer in Test](https://www.linkedin.com/jobs/view/4434367543/) — Unify Technologies
-- 📍 **Location:** Cupertino, CA
-- 🕒 **Posted:** 2026-07-03
-
-### [Senior Software Engineer - Autonomous Vehicles](https://www.linkedin.com/jobs/view/4395474386/) — NVIDIA
+### [Senior Deep Learning Frameworks Sustaining Engineer](https://www.linkedin.com/jobs/view/4395481210/) — NVIDIA
 - 📍 **Location:** Santa Clara, CA
 - 🕒 **Posted:** 2026-07-03
 
-### [Senior Deep Learning Software Engineer, TensorRT Performance](https://www.linkedin.com/jobs/view/4395484503/) — NVIDIA
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-07-03
-
-### [Senior DGX Cloud AI Infrastructure Software Engineer](https://www.linkedin.com/jobs/view/4395485471/) — NVIDIA
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-07-03
-
-### [Senior Software Engineer, Deep Learning Inference - Automotive Safety](https://www.linkedin.com/jobs/view/4395472482/) — NVIDIA
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-07-03
-
-### [Senior System Software Engineer Platform - OpenBMC](https://www.linkedin.com/jobs/view/4395477341/) — NVIDIA
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-07-03
-
-### [Senior Software Engineer - Performance](https://www.linkedin.com/jobs/view/4382370995/) — Microsoft
+### [Senior Machine Learning Engineer, Agentic Systems - Moveworks](https://www.linkedin.com/jobs/view/4369638244/) — ServiceNow
 - 📍 **Location:** Mountain View, CA
 - 🕒 **Posted:** 2026-07-03
 
-### [Senior Software Engineer, Parking - Autonomous Vehicles](https://www.linkedin.com/jobs/view/4395479292/) — NVIDIA
+### [Software Engineer, Finance Applications](https://www.linkedin.com/jobs/view/4408048989/) — Block
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-07-03
+
+### [Senior Developer Technology Engineer - Windows AI Platform](https://www.linkedin.com/jobs/view/4395473392/) — NVIDIA
 - 📍 **Location:** Santa Clara, CA
 - 🕒 **Posted:** 2026-07-03
 
-### [Data Engineer, Human Cohorts](https://www.linkedin.com/jobs/view/4416785716/) — Calico Life Sciences
-- 📍 **Location:** South San Francisco, CA
+### [Software Engineer, Agentic AI Systems - Moveworks](https://www.linkedin.com/jobs/view/4408548145/) — ServiceNow
+- 📍 **Location:** Mountain View, CA
 - 🕒 **Posted:** 2026-07-03
 
-### [Senior Software Engineer - Developer Experience](https://www.linkedin.com/jobs/view/4396846959/) — Snorkel AI
-- 📍 **Location:** Redwood City, CA
-- 🕒 **Posted:** 2026-07-03
-
-### [DevOps/Automation Engineer](https://www.linkedin.com/jobs/view/4424801975/) — Solomon Page
-- 📍 **Location:** Pleasanton, CA
-- 🕒 **Posted:** 2026-07-03
-
-### [Senior Software Engineer, Metropolis Vision AI](https://www.linkedin.com/jobs/view/4395477245/) — NVIDIA
+### [Applied Machine Learning Engineer, Circuit Design - New College Grad 2026](https://www.linkedin.com/jobs/view/4395488463/) — NVIDIA
 - 📍 **Location:** Santa Clara, CA
 - 🕒 **Posted:** 2026-07-03
 
-### [Detection & Response Security Engineer](https://www.linkedin.com/jobs/view/4396382743/) — Harvey
+### [Senior Software Engineer, C++ and CUDA - Analytics and Data Intelligence](https://www.linkedin.com/jobs/view/4433700793/) — NVIDIA AI
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-07-03
+
+### [Senior Software Engineer - Simulation](https://www.linkedin.com/jobs/view/4416738702/) — NVIDIA
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-07-03
+
+### [Senior Systems Software Engineer, Kubernetes Scale - DGX Cloud](https://www.linkedin.com/jobs/view/4426685635/) — NVIDIA
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-07-03
+
+### [Senior Software Engineer - Simulation](https://www.linkedin.com/jobs/view/4416732771/) — NVIDIA
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-07-03
+
+### [Sr. Machine Learning Engineer, Infrastructure](https://www.linkedin.com/jobs/view/4435470577/) — Unity
+- 📍 **Location:** Mountain View, CA
+- 🕒 **Posted:** 2026-07-03
+
+### [Senior Software Engineer, AI and DL Kernel Libraries](https://www.linkedin.com/jobs/view/4395482269/) — NVIDIA
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-07-03
+
+### [Senior Software Engineer - Autonomous Driving Simulation](https://www.linkedin.com/jobs/view/4426686246/) — NVIDIA
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-07-03
+
+### [Senior System Software Engineer - Dynamo-Triton Inference Server](https://www.linkedin.com/jobs/view/4395472687/) — NVIDIA
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-07-03
+
+### [Sr. Software Engineer](https://www.linkedin.com/jobs/view/4435480167/) — Unity
+- 📍 **Location:** Mountain View, CA
+- 🕒 **Posted:** 2026-07-03
+
+### [Deep Learning Senior Engineer, End-To-End Autonomous Driving](https://www.linkedin.com/jobs/view/4395482513/) — NVIDIA
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-07-03
+
+### [Senior System Software Engineer, GPU Performance Profiling](https://www.linkedin.com/jobs/view/4395486272/) — NVIDIA
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-07-03
+
+### [Senior System Software Engineer - AV Platform](https://www.linkedin.com/jobs/view/4395470502/) — NVIDIA
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-07-03
+
+### [Senior VLSI CAD Software Engineer](https://www.linkedin.com/jobs/view/4395476582/) — NVIDIA
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-07-03
+
+### [Senior Software Engineer - VLM Microservices for Neural Reconstruction](https://www.linkedin.com/jobs/view/4395484510/) — NVIDIA
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-07-03
+
+### [Senior Systems Software Engineer, Data Center Infrastructure Management - EngOps](https://www.linkedin.com/jobs/view/4395484714/) — NVIDIA
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-07-03
+
+### [Full Stack Engineer ($32M Series A Startup)](https://www.linkedin.com/jobs/view/4434906066/) — Epic Placements
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-07-03
 
-### [Security Engineer - Vuln Management (Code)](https://www.linkedin.com/jobs/view/4416340741/) — Replit
-- 📍 **Location:** Foster City, CA
+### [Senior System Software Engineer - Tegra](https://www.linkedin.com/jobs/view/4395473399/) — NVIDIA
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-07-03
+
+### [Senior System Software Engineer, Enterprise MODS](https://www.linkedin.com/jobs/view/4395469823/) — NVIDIA
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-07-03
+
+### [Software Engineer](https://www.linkedin.com/jobs/view/4433703703/) — JCW Group
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-07-03
+
+### [Senior Software Engineer, Webshops](https://www.linkedin.com/jobs/view/4435482164/) — Unity
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-07-03
+
+### [Senior Software Engineer, DevOps - Moveworks](https://www.linkedin.com/jobs/view/4408025072/) — ServiceNow
+- 📍 **Location:** Mountain View, CA
+- 🕒 **Posted:** 2026-07-03
+
+### [Senior DevOps Engineer - Robotics](https://www.linkedin.com/jobs/view/4395471485/) — NVIDIA
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-07-03
+
+### [Security Engineer](https://www.linkedin.com/jobs/view/4436761875/) — Vast.ai
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-07-03
+
+### [Senior Software Engineer - Networking](https://www.linkedin.com/jobs/view/4395478241/) — NVIDIA
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-07-03
+
+### [Senior Software Engineer, CUDA UMD - Graphs and GPU Sharing](https://www.linkedin.com/jobs/view/4395470524/) — NVIDIA
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-07-03
+
+### [Test Software Engineer Intern (Intelligent Creation) - 2026 Summer (BS/MS)](https://www.linkedin.com/jobs/view/4436782361/) — ByteDance
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-07-03
+
+### [Matterport - Senior Software Engineer](https://www.linkedin.com/jobs/view/4427578440/) — Matterport
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-07-03
+
+### [Expert Development Architect - Data & AI Platforms](https://www.linkedin.com/jobs/view/4426656490/) — SAP
+- 📍 **Location:** Palo Alto, CA
 - 🕒 **Posted:** 2026-07-03
