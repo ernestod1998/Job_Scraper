@@ -1,20 +1,32 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area)
-*Last updated: 2026-07-03 21:17 UTC*
+*Last updated: 2026-07-03 22:17 UTC*
 
-**4 new role(s)** since last run · 6 total in last 1h
+**7 new role(s)** since last run · 10 total in last 1h
 
-### [Software Engineer - AI Agent](https://www.linkedin.com/jobs/view/4435481540/) — Jobright.ai
-- 📍 **Location:** San Mateo County, CA
-- 🕒 **Posted:** 2026-07-03
-
-### [Software Engineer](https://www.linkedin.com/jobs/view/4435485325/) — Jobright.ai
-- 📍 **Location:** Los Altos, CA
-- 🕒 **Posted:** 2026-07-03
-
-### [Full Stack Engineer - Startup - Onsite SF](https://www.linkedin.com/jobs/view/4398967514/) — RS Global Services
+### [Data Scientist](https://www.linkedin.com/jobs/view/4435480670/) — Jobright.ai
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-07-03
 
-### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4435484490/) — Gappify
-- 📍 **Location:** San Ramon, CA
+### [Senior ML Engineer](https://www.linkedin.com/jobs/view/4435492205/) — Jobright.ai
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-07-03
+
+### [Senior Software Engineer (Backend)](https://www.linkedin.com/jobs/view/4436791802/) — Raydar
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-07-03
+
+### [Sr. Software Engineer](https://www.linkedin.com/jobs/view/4436454771/) — Pilot.com
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-07-03
+
+### [Sr. DevOps Engineer - Shockwave Medical](https://www.linkedin.com/jobs/view/4436909148/) — Shockwave Medical
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-07-03
+
+### [Senior Data Engineer](https://www.linkedin.com/jobs/view/4416313907/) — Pilot.com
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-07-03
+
+### [Senior Analytics Engineer](https://www.linkedin.com/jobs/view/4414521516/) — Pilot.com
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-07-03
