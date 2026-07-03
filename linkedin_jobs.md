@@ -1,84 +1,68 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area)
-*Last updated: 2026-07-03 00:17 UTC*
+*Last updated: 2026-07-03 01:12 UTC*
 
-**20 new role(s)** since last run · 26 total in last 1h
+**16 new role(s)** since last run · 29 total in last 1h
 
-### [Robotics Software Engineer - Robot Simulation and Benchmarking](https://www.linkedin.com/jobs/view/4435283498/) — NVIDIA
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-07-03
-
-### [Machine Learning Engineer (PyTorch)](https://www.linkedin.com/jobs/view/4433123822/) — AfterQuery Experts
+### [Software Engineer](https://www.linkedin.com/jobs/view/4432908277/) — Payna | YC W26
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-07-03
 
-### [Data Engineer](https://www.linkedin.com/jobs/view/4436440704/) — Cornerstone OnDemand
-- 📍 **Location:** Dublin, CA
-- 🕒 **Posted:** 2026-07-03
-
-### [Software Engineer, New Grad](https://www.linkedin.com/jobs/view/4435281631/) — IXL Learning
-- 📍 **Location:** San Mateo, CA
-- 🕒 **Posted:** 2026-07-03
-
-### [Security Software Engineer II, Detection and Response](https://www.linkedin.com/jobs/view/4436444422/) — Pinterest
+### [Machine Learning Engineer III](https://www.linkedin.com/jobs/view/4433143128/) — Workday
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-07-03
 
-### [Sr. Systems Engineer, Sales & Marketing](https://www.linkedin.com/jobs/view/4436438726/) — Pinterest
+### [Machine Learning Engineer III](https://www.linkedin.com/jobs/view/4433134566/) — Workday
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-07-03
+
+### [Machine Learning Engineer III](https://www.linkedin.com/jobs/view/4433129820/) — Workday
+- 📍 **Location:** Pleasanton, CA
+- 🕒 **Posted:** 2026-07-03
+
+### [Machine Learning Infrastructure Engineer, Model Inference](https://www.linkedin.com/jobs/view/4436460174/) — Abridge
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-07-03
 
-### [Senior Software Engineer, Low Latency Physical AI Sensor Systems](https://www.linkedin.com/jobs/view/4435295085/) — NVIDIA
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-07-03
-
-### [Senior Software Engineer, Test - Autonomous Vehicles](https://www.linkedin.com/jobs/view/4435282491/) — NVIDIA
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-07-03
-
-### [Software Engineer, GPU Design Automation](https://www.linkedin.com/jobs/view/4435278693/) — NVIDIA
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-07-03
-
-### [Software Engineer, Backend, Level 5](https://www.linkedin.com/jobs/view/4436437698/) — Snap Inc.
+### [Senior Data Scientist](https://www.linkedin.com/jobs/view/4436461126/) — Abridge
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-07-03
 
-### [Software Engineer, Backend, Level 5](https://www.linkedin.com/jobs/view/4436453014/) — Snap Inc.
+### [Data Engineer](https://www.linkedin.com/jobs/view/4436462101/) — Abridge
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-07-03
+
+### [Senior Software Engineer (Compiler & AI Tooling)](https://www.linkedin.com/jobs/view/4425661709/) — Code Metal
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-07-03
+
+### [Software Engineering SMTS](https://www.linkedin.com/jobs/view/4436440967/) — Salesforce
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-07-03
+
+### [Software Engineering SMTS](https://www.linkedin.com/jobs/view/4436455378/) — Salesforce
 - 📍 **Location:** Palo Alto, CA
 - 🕒 **Posted:** 2026-07-03
 
-### [Senior Software Engineer, Infrastructure and Tooling Lead - Automation](https://www.linkedin.com/jobs/view/4435292097/) — NVIDIA
+### [Senior Software Engineer, Multi-Sensor-Fusion - Autonomous Vehicles](https://www.linkedin.com/jobs/view/4435279662/) — NVIDIA
 - 📍 **Location:** Santa Clara, CA
 - 🕒 **Posted:** 2026-07-03
 
-### [Senior IT Platform Engineer](https://www.linkedin.com/jobs/view/4433119990/) — ŌURA
+### [Senior Platform Engineer](https://www.linkedin.com/jobs/view/4436462100/) — Abridge
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-07-03
 
-### [Senior Data Engineer – Hardware & Supply Chain](https://www.linkedin.com/jobs/view/4433128715/) — ŌURA
+### [Senior Software Engineer, Scaling AI Systems](https://www.linkedin.com/jobs/view/4436446690/) — Abridge
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-07-03
 
-### [Senior AI Engineer](https://www.linkedin.com/jobs/view/4436429952/) — Snowflake
-- 📍 **Location:** Menlo Park, CA
-- 🕒 **Posted:** 2026-07-02
-
-### [Applied AI Engineer](https://www.linkedin.com/jobs/view/4435296005/) — Insight Global
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-07-02
-
-### [Software Engineer, Cloud Deployment Infrastructure](https://www.linkedin.com/jobs/view/4435290116/) — Glean
+### [Senior Enterprise Security Engineer](https://www.linkedin.com/jobs/view/4436447671/) — Abridge
 - 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-07-02
+- 🕒 **Posted:** 2026-07-03
 
-### [DevOps Robotics Engineer](https://www.linkedin.com/jobs/view/4435276765/) — JLG Industries
+### [Senior Application Security Engineer](https://www.linkedin.com/jobs/view/4436448597/) — Abridge
 - 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-07-02
+- 🕒 **Posted:** 2026-07-03
 
-### [Full-Stack Engineer](https://www.linkedin.com/jobs/view/4436428965/) — Max AI
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-07-02
-
-### [Senior Embedded Systems Engineer](https://www.linkedin.com/jobs/view/4435267742/) — Hatch
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-07-02
+### [Senior QA Software Engineer - Networking](https://www.linkedin.com/jobs/view/4435282489/) — NVIDIA
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-07-03
