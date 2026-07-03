@@ -1,113 +1,95 @@
 # 🟦 Indeed — Engineering / ML / DS Roles (SF Bay Area)
-*Last updated: 2026-07-03 01:13 UTC*
+*Last updated: 2026-07-03 05:34 UTC*
 
-**22 new role(s)** since last run · 86 total in last 24h
+**19 new role(s)** since last run · 90 total in last 24h
 
-### [Lead ML Engineer](https://www.indeed.com/viewjob?jk=f0837b00a20ce74b) — Unknown
-- 📍 **Location:** San Francisco, CA, US
-- 💰 **Salary:** $270k–$310k/yr
-- 🕒 **Posted:** 2026-07-02
+### [Machine Learning Engineer, Supply Chain Systems](https://www.indeed.com/viewjob?jk=8c986f91dc34a864) — Tesla
+- 📍 **Location:** Fremont, CA, US
+- 💰 **Salary:** $140k–$210k/yr
+- 🕒 **Posted:** 2026-07-03
 
-### [AI Data Software Engineer](https://www.indeed.com/viewjob?jk=5490a82855b12772) — Tiki AI
-- 📍 **Location:** San Francisco, CA, US
-- 🕒 **Posted:** 2026-07-02
-
-### [Software Engineer - Backend Infrastructure, Standalone Apps Team](https://www.indeed.com/viewjob?jk=752bedfb5b2c793d) — Meta
-- 📍 **Location:** Menlo Park, CA, US
-- 💰 **Salary:** $219k–$301k/yr
-- 🕒 **Posted:** 2026-06-25
-
-### [Software Engineer - Backend, Standalone Apps Team](https://www.indeed.com/viewjob?jk=b72d511051758e22) — Meta
-- 📍 **Location:** Menlo Park, CA, US
-- 💰 **Salary:** $219k–$301k/yr
-- 🕒 **Posted:** 2026-06-25
-
-### [Software Engineer - Android, Standalone Apps Team](https://www.indeed.com/viewjob?jk=0cb211983d702296) — Meta
-- 📍 **Location:** Menlo Park, CA, US
-- 💰 **Salary:** $219k–$301k/yr
-- 🕒 **Posted:** 2026-06-25
-
-### [Software Engineer - iOS, Standalone Apps Team](https://www.indeed.com/viewjob?jk=bf43b6e20617c7df) — Meta
-- 📍 **Location:** Menlo Park, CA, US
-- 💰 **Salary:** $219k–$301k/yr
-- 🕒 **Posted:** 2026-06-25
-
-### [Research Engineer, SysML - FAIR](https://www.indeed.com/viewjob?jk=e582174b94c6950f) — Meta
-- 📍 **Location:** Menlo Park, CA, US
-- 💰 **Salary:** $154k–$217k/yr
-- 🕒 **Posted:** 2026-06-03
-
-### [Data Science - Analyst 4](https://www.indeed.com/viewjob?jk=ad4faec9469b26b2) — eBay
-- 📍 **Location:** San Jose, CA, US
-- 💰 **Salary:** $149k–$199k/yr
-- 🕒 **Posted:** 2026-07-02
-
-### [Senior Manager, Data Engineering](https://www.indeed.com/viewjob?jk=65bc333002d64259) — Scribd, Inc.
-- 📍 **Location:** San Francisco, CA, US
-- 💰 **Salary:** $154k–$265k/yr
-- 🕒 **Posted:** 2026-07-02
-
-### [Senior Backend Engineer - Java](https://www.indeed.com/viewjob?jk=53365d0170096079) — REAL Broker, LLC
-- 📍 **Location:** Newark, CA, US
-- 💰 **Salary:** $152k–$194k/yr
-- 🕒 **Posted:** 2026-07-02
-
-### [Software Engineer](https://www.indeed.com/viewjob?jk=7e09b16d15cf9134) — dutch
-- 📍 **Location:** Oakland, CA, US
-- 💰 **Salary:** $149k–$155k/yr
-- 🕒 **Posted:** 2026-07-02
-
-### [Senior, Software Engineer](https://www.indeed.com/viewjob?jk=427ba0994bf1976a) — Walmart
-- 📍 **Location:** Sunnyvale, CA, US
-- 💰 **Salary:** $117k–$234k/yr
-- 🕒 **Posted:** 2026-07-02
-
-### [(USA) Senior Manager, Software Engineering](https://www.indeed.com/viewjob?jk=d059b22d620fbb6f) — Sam's Club
-- 📍 **Location:** Sunnyvale, CA, US
-- 💰 **Salary:** $110k–$286k/yr
-- 🕒 **Posted:** 2026-07-02
-
-### [Senior, Software Engineer](https://www.indeed.com/viewjob?jk=ccaa90de4c62f369) — Walmart
-- 📍 **Location:** Sunnyvale, CA, US
-- 💰 **Salary:** $117k–$234k/yr
-- 🕒 **Posted:** 2026-07-02
-
-### [Software Engineer, Full Stack, Tinker](https://www.indeed.com/viewjob?jk=49eee38d400a8b1b) — Thinking Machines
-- 📍 **Location:** San Francisco, CA, US
-- 💰 **Salary:** $350k–$475k/yr
-- 🕒 **Posted:** 2026-07-02
-
-### [Full-Stack Engineer](https://www.indeed.com/viewjob?jk=65d5b674a7183d40) — Max AI, Inc.
-- 📍 **Location:** San Francisco, CA, US
-- 💰 **Salary:** $140k–$220k/yr
-- 🕒 **Posted:** 2026-07-02
-
-### [(USA) Software Engineer III](https://www.indeed.com/viewjob?jk=62ad2a81ab58e2a2) — Walmart
-- 📍 **Location:** Sunnyvale, CA, US
-- 💰 **Salary:** $117k–$234k/yr
-- 🕒 **Posted:** 2026-07-02
-
-### [Optical Systems Engineer – Data Center Hardware](https://www.indeed.com/viewjob?jk=81fb0aabf7d09c13) — Marvell Technology
+### [Robotics Software Engineer - Robot Simulation and Benchmarking](https://www.indeed.com/viewjob?jk=8abf469674a596d4) — NVIDIA
 - 📍 **Location:** Santa Clara, CA, US
-- 💰 **Salary:** $134k–$201k/yr
+- 💰 **Salary:** $152k–$242k/yr
 - 🕒 **Posted:** 2026-07-02
 
-### [Software Engineer - Network (C++)](https://www.indeed.com/viewjob?jk=30cd2cea5d67ba53) — Xai
+### [Data Engineer](https://www.indeed.com/viewjob?jk=d7dce5ca3032b2ad) — Cornerstone OnDemand
+- 📍 **Location:** Dublin, CA, US
+- 💰 **Salary:** $88k–$141k/yr
+- 🕒 **Posted:** 2026-07-02
+
+### [Senior Machine Learning Engineer - Large Driving Model (Behavioral Alignment)](https://www.indeed.com/viewjob?jk=75b7e2774607fc02) — Rivian
 - 📍 **Location:** Palo Alto, CA, US
-- 💰 **Salary:** $180k–$440k/yr
-- 🕒 **Posted:** 2026-07-02
+- 🕒 **Posted:** 2026-06-15
 
-### [ASG - AI Systems Engineer](https://www.indeed.com/viewjob?jk=a7a339a3e0f76b12) — Alpine SG
+### [C++ Software Engineer](https://www.indeed.com/viewjob?jk=42d3ddc2cdd73bad) — Vast
 - 📍 **Location:** San Francisco, CA, US
-- 💰 **Salary:** $150k–$200k/yr
+- 💰 **Salary:** $120k–$180k/yr
 - 🕒 **Posted:** 2026-07-02
 
-### [Sr. Software Engineer, Megapack Test Automation](https://www.indeed.com/viewjob?jk=9d367f6abe9a2c45) — Tesla
+### [GPU Systems Engineer – HPC / Parallel Computing](https://www.indeed.com/viewjob?jk=272485d0e0909840) — Vast
+- 📍 **Location:** San Francisco, CA, US
+- 💰 **Salary:** $160k–$320k/yr
+- 🕒 **Posted:** 2026-07-02
+
+### [Systems/GPU Research Engineer](https://www.indeed.com/viewjob?jk=2c631955570015b4) — Vast
+- 📍 **Location:** San Francisco, CA, US
+- 💰 **Salary:** $160k–$320k/yr
+- 🕒 **Posted:** 2026-07-02
+
+### [Senior Infrastructure Engineer](https://www.indeed.com/viewjob?jk=0cb319327bf1845e) — Vast
+- 📍 **Location:** San Francisco, CA, US
+- 💰 **Salary:** $180k–$300k/yr
+- 🕒 **Posted:** 2026-07-02
+
+### [Senior Software Engineer, Product](https://www.indeed.com/viewjob?jk=108de85bd41b7984) — LUNAR
+- 📍 **Location:** San Francisco, CA, US
+- 💰 **Salary:** $190k–$250k/yr
+- 🕒 **Posted:** 2026-07-02
+
+### [Senior Software Engineer, Platform](https://www.indeed.com/viewjob?jk=fb9a5f68426dccfe) — LUNAR
+- 📍 **Location:** San Francisco, CA, US
+- 💰 **Salary:** $170k–$210k/yr
+- 🕒 **Posted:** 2026-07-02
+
+### [Site Reliability Engineer](https://www.indeed.com/viewjob?jk=e5e6c42d9d1ac126) — Specter
+- 📍 **Location:** San Francisco, CA, US
+- 🕒 **Posted:** 2026-07-02
+
+### [Embedded Software Engineer, Optimus](https://www.indeed.com/viewjob?jk=c24e464441c1d43a) — Tesla
 - 📍 **Location:** Palo Alto, CA, US
-- 💰 **Salary:** $120k–$252k/yr
+- 💰 **Salary:** $140k–$390k/yr
+- 🕒 **Posted:** 2026-07-03
+
+### [Embedded Systems Engineer, Optimus](https://www.indeed.com/viewjob?jk=c854cb767b28e7d4) — Tesla
+- 📍 **Location:** Palo Alto, CA, US
+- 💰 **Salary:** $140k–$390k/yr
+- 🕒 **Posted:** 2026-07-03
+
+### [Internship, Software Engineer Diagnostics, Energy Engineering (Fall 2026)](https://www.indeed.com/viewjob?jk=a06ca2aa10cc4570) — Tesla
+- 📍 **Location:** Palo Alto, CA, US
+- 💰 **Salary:** $20–$50/hr
+- 🕒 **Posted:** 2026-07-03
+
+### [Software Engineer III](https://www.indeed.com/viewjob?jk=c86e047d3a4a6ff4) — Hewlett Packard Enterprise | HPE
+- 📍 **Location:** Cupertino, CA, US
+- 💰 **Salary:** $93k–$188k/yr
 - 🕒 **Posted:** 2026-07-02
 
-### [Software Engineer - Hybrid](https://www.indeed.com/viewjob?jk=6a22e943f90efd96) — Worker's Compensation Insurance Rating Bureau
-- 📍 **Location:** San Francisco, CA, US
-- 💰 **Salary:** $117k–$146k/yr
+### [Software Developer](https://www.indeed.com/viewjob?jk=c4752077d3fd9852) — Oracle
+- 📍 **Location:** Redwood City, CA, US
+- 🕒 **Posted:** 2026-07-02
+
+### [Software Developer](https://www.indeed.com/viewjob?jk=9eda7811d436ca76) — Oracle
+- 📍 **Location:** Santa Clara, CA, US
+- 🕒 **Posted:** 2026-07-02
+
+### [Sr. Software Engineer, 3DQ Lab](https://www.indeed.com/viewjob?jk=f9c8d2a501b3fcd9) — Stanford Health Care
+- 📍 **Location:** Palo Alto, CA, US
+- 💰 **Salary:** $74–$99/hr
+- 🕒 **Posted:** 2026-07-02
+
+### [Sr. Software Engineer, 3DQ Lab](https://www.indeed.com/viewjob?jk=36ef91a05c2d86e4) — Stanford Health Care
+- 📍 **Location:** Palo Alto, CA, US
+- 💰 **Salary:** $74–$99/hr
 - 🕒 **Posted:** 2026-07-02
