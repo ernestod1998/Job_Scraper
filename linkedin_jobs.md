@@ -1,64 +1,56 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area)
-*Last updated: 2026-07-03 19:17 UTC*
+*Last updated: 2026-07-03 20:17 UTC*
 
-**15 new role(s)** since last run · 26 total in last 1h
+**13 new role(s)** since last run · 27 total in last 1h
 
-### [Machine Learning Engineer, Search - USDS](https://www.linkedin.com/jobs/view/4436770771/) — TikTok USDS Joint Venture
+### [Data Scientist](https://www.linkedin.com/jobs/view/4435476737/) — Jobright.ai
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-07-03
+
+### [Research Engineer, Life Sciences](https://www.linkedin.com/jobs/view/4435493023/) — Anthropic
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-07-03
+
+### [Machine Learning Engineer, Speech LLM Training](https://www.linkedin.com/jobs/view/4435487153/) — Jobright.ai
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-07-03
+
+### [Growth Data Engineer](https://www.linkedin.com/jobs/view/4435488110/) — Jobright.ai
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-07-03
+
+### [Full Stack Software Engineer](https://www.linkedin.com/jobs/view/4427222595/) — Illumio
 - 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-07-03
 
-### [Machine Learning Engineer](https://www.linkedin.com/jobs/view/4433703789/) — XOR
-- 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-07-03
-
-### [Machine Learning Engineer, New Graduate](https://www.linkedin.com/jobs/view/4433715175/) — XOR
-- 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-07-03
-
-### [Sr. Machine Learning Engineer](https://www.linkedin.com/jobs/view/4406232692/) — Illumio
+### [Software Engineer, Cloud Security](https://www.linkedin.com/jobs/view/4388979848/) — Illumio
 - 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-07-03
 
-### [Sr. Security Data Scientist](https://www.linkedin.com/jobs/view/4414482292/) — Illumio
+### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4404448500/) — Illumio
 - 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-07-03
 
-### [Software Engineer (Payments Architecture) - Global Payment - San Jose](https://www.linkedin.com/jobs/view/4435484245/) — ByteDance
+### [Senior Backend Software Developer – IBM Quantum](https://www.linkedin.com/jobs/view/4433724056/) — IBM
 - 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-07-03
 
-### [Research Engineer / Research Scientist - Post-training](https://www.linkedin.com/jobs/view/4433708570/) — XOR
-- 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-07-03
-
-### [Applied Scientist II, Console Science](https://www.linkedin.com/jobs/view/4436767866/) — Amazon
-- 📍 **Location:** Santa Clara County, CA
-- 🕒 **Posted:** 2026-07-03
-
-### [Product Manager, Generative AI and Creative](https://www.linkedin.com/jobs/view/4435466851/) — TikTok
+### [Sr. Software Engineer, Cloud Security](https://www.linkedin.com/jobs/view/4388991540/) — Illumio
 - 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-07-03
 
-### [Software Engineer](https://www.linkedin.com/jobs/view/4433199866/) — XOR
-- 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-07-03
-
-### [Sr. Site Reliability Engineer](https://www.linkedin.com/jobs/view/4414445152/) — Illumio
+### [Sr. Full Stack Engineer](https://www.linkedin.com/jobs/view/4427254966/) — Illumio
 - 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-07-03
 
-### [Sr. Software Engineer](https://www.linkedin.com/jobs/view/4388978995/) — Illumio
-- 📍 **Location:** San Jose, CA
+### [Senior Data Engineer](https://www.linkedin.com/jobs/view/4436781767/) — Kiddom
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-07-03
 
-### [Sr. Site Reliability Engineer](https://www.linkedin.com/jobs/view/4426025809/) — Illumio
-- 📍 **Location:** San Jose, CA
+### [Junior DevOps / Release Engineer](https://www.linkedin.com/jobs/view/4435466987/) — ZealTech
+- 📍 **Location:** San Leandro, CA
 - 🕒 **Posted:** 2026-07-03
 
-### [Security Engineer](https://www.linkedin.com/jobs/view/4433705697/) — XOR
-- 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-07-03
-
-### [Security Engineer](https://www.linkedin.com/jobs/view/4409155106/) — Bloom Energy
+### [Sr. Site Reliability Engineer](https://www.linkedin.com/jobs/view/4426028633/) — Illumio
 - 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-07-03
