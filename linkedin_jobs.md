@@ -1,6 +1,12 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area)
-*Last updated: 2026-07-04 03:17 UTC*
+*Last updated: 2026-07-04 05:26 UTC*
 
-**0 new role(s)** since last run · 1 total in last 1h
+**2 new role(s)** since last run · 2 total in last 1h
 
-No new roles since the last run.
+### [Lead, AI Engineering](https://www.linkedin.com/jobs/view/4390699168/) — Bain & Company
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-07-04
+
+### [Senior Software Engineer, Product](https://www.linkedin.com/jobs/view/4436928472/) — Better Tomorrow Ventures
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-07-04
