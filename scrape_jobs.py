@@ -865,6 +865,12 @@ def save_jobs_output(jobs: list, *, basename: str, title: str, subtitle: str,
     md_path = os.path.join(SCRIPT_DIR, f"{basename}.md")
     html_path = os.path.join(SCRIPT_DIR, f"{basename}.html")
 
+    # Choke-point blocklist filter: the per-scraper guards miss the blocked-run
+    # fallbacks (which reload the previous JSON verbatim), so pre-blocklist rows
+    # could be re-persisted into the digests the dashboard reads. Filtering here
+    # covers every source — including future ones — before anything is written.
+    jobs = [j for j in jobs if not is_excluded_company(j.get("company", ""))]
+
     prev_ids = _load_prev_ids(json_path)
     new_jobs = [j for j in jobs if _job_identity(j.get("url", "")) not in prev_ids]
 

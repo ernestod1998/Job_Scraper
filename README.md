@@ -43,7 +43,7 @@ A title is included if it contains any of (case-insensitive substring match):
 
 **Excluded seniority:** titles containing `staff`, `principal`, `distinguished`, `founding`, `director`, `vice president`, `vp`/`svp`, `chief`, or `head of` are dropped everywhere (mid-level IC focus). Single-word keywords are word-bounded, so `mle` can't match inside another word.
 
-**Excluded companies:** `EXCLUDED_COMPANIES` in `scrape_jobs.py` is a blocklist for recruiting-platform/aggregator accounts that repost roles which mostly don't exist (e.g. "Jack & Jill"). Matched case-insensitively against the parsed company name in the LinkedIn parser, the Indeed scraper, and as a backstop before anything enters `all_jobs.json` — add a line there to block the next one.
+**Excluded companies:** `EXCLUDED_COMPANIES` in `scrape_jobs.py` is a blocklist for recruiting-platform/aggregator accounts that repost roles which mostly don't exist (e.g. "Jack & Jill"). Matched case-insensitively against the parsed company name in the LinkedIn parser, the Indeed scraper, at the top of `save_jobs_output()` (so every source — including blocked-run fallbacks and future scrapers — is filtered before any digest is written), and as a backstop before anything enters `all_jobs.json`. Add a line there to block the next one.
 
 ## Output Files
 
