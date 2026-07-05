@@ -64,6 +64,10 @@ KEYWORDS = [
     "computational scientist", "computational biologist",
     "bioinformatics scientist", "bioinformatics engineer",
     "cheminformatics",
+    # Narrow phrase (substring match) — catches Biohub-style "Research
+    # Scientist, AI" titles without the noise a bare "research scientist"
+    # keyword would admit across LinkedIn/Indeed.
+    "research scientist, ai",
 ]
 
 # Seconds to wait between API probes — keeps us polite
@@ -246,6 +250,7 @@ CURATED_BIOTECHS = [
     {"name": "Arc Institute",        "ats": "greenhouse", "slug": "arcinstitute",      "fallback_location": "Palo Alto, CA"},
     {"name": "Caribou Biosciences",  "ats": "greenhouse", "slug": "caribou",           "fallback_location": "Berkeley, CA"},
     {"name": "Octant Bio",           "ats": "greenhouse", "slug": "octantbio",         "fallback_location": "Emeryville, CA"},
+    {"name": "Chan Zuckerberg Biohub", "ats": "greenhouse", "slug": "biohub",          "fallback_location": "San Francisco, CA"},
     # ---- Workday (confirmed) ----
     {"name": "Gilead Sciences",      "ats": "workday",
      "url": "https://gilead.wd1.myworkdayjobs.com/wday/cxs/gilead/gileadcareers/jobs",
