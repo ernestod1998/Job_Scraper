@@ -78,6 +78,21 @@ EXCLUDED_SENIORITY_RE = re.compile(
     r'\b(staff|principal|distinguished|founding|director|vice president|s?vp|chief|head of)\b',
     re.IGNORECASE)
 
+# Recruiting-platform / aggregator accounts that repost roles which mostly don't
+# actually exist (e.g. "Jack & Jill" reposts other companies' jobs on LinkedIn).
+# Matched against the parsed company name; add a line to block the next one.
+EXCLUDED_COMPANIES = [
+    "jack & jill",
+    "jack and jill",
+]
+_EXCLUDED_COMPANY_RE = re.compile(
+    "|".join(re.escape(c) for c in EXCLUDED_COMPANIES), re.IGNORECASE
+)
+
+
+def is_excluded_company(company: str) -> bool:
+    return bool(company) and bool(_EXCLUDED_COMPANY_RE.search(company))
+
 # Multi-word phrases keep substring semantics; single-word keywords ("mle",
 # "devops") are word-bounded so they can't match inside a word ("Hamlet").
 _KEYWORD_RE = re.compile(
@@ -506,6 +521,8 @@ def _parse_linkedin_cards(html: str) -> tuple[list[dict], int]:
             html_mod.unescape(re.sub(r'\s+', ' ', company_m.group(1).strip()))
             if company_m else "Unknown"
         )
+        if is_excluded_company(company):
+            continue
         location = html_mod.unescape(
             (location_m.group(1).strip() if location_m else "")
         ).replace("\n", " ")
@@ -660,6 +677,8 @@ def scrape_indeed_recent() -> list:
             title = str(row.get("title", "") or "")
             if not is_mle_role(title):
                 continue
+            if is_excluded_company(str(row.get("company", "") or "")):
+                continue
             url = str(row.get("job_url", "") or "")
             ident = _job_identity(url)
             if ident in jobs_by_id:
@@ -806,6 +825,8 @@ def _merge_into_all_jobs(new_jobs: list) -> int:
     by_url = {j.get("url"): j for j in master if j.get("url")}
     added = 0
     for j in new_jobs:
+        if is_excluded_company(j.get("company", "")):
+            continue  # backstop: keep blocklisted recruiters out of the master
         url = j.get("url")
         if url and url not in by_url:  # first writer wins on first_seen
             # Drop the JD text: the dashboard fetches this whole file on every
