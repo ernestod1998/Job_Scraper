@@ -39,7 +39,7 @@ A title is included if it contains any of (case-insensitive substring match):
 
 **Robotics / perception:** `robotics engineer`, `perception engineer`
 
-**Computational / informatics (biotech):** `computational scientist`, `computational biologist`, `bioinformatics scientist`, `bioinformatics engineer`, `cheminformatics`, `research scientist, ai`
+**Computational / informatics (biotech):** `computational scientist`, `computational biologist`, `bioinformatics scientist`, `bioinformatics engineer`, `cheminformatics`, `biostatistician`, `bioinformatician`, `bioinformatics analyst`, `genomics scientist`, `research software engineer`, `scientific software engineer`, `associate computational biologist`, `research associate, computational`, `research scientist, ai`
 
 **Excluded seniority:** titles containing `staff`, `principal`, `distinguished`, `founding`, `director`, `vice president`, `vp`/`svp`, `chief`, or `head of` are dropped everywhere (mid-level IC focus). Single-word keywords are word-bounded, so `mle` can't match inside another word.
 
@@ -87,6 +87,7 @@ they follow whatever roles you already target):
 | `--governmentjobs-only` | [governmentjobs.com](https://www.governmentjobs.com) (NEOGOV) | State & local government; filtered to your `BAY_AREA_LOCATIONS` via `is_bay_area()`. |
 | `--calopps-only` | [calopps.org](https://www.calopps.org) | California local agencies (cities/counties/special districts). |
 | `--calcareers-only` | [calcareers.ca.gov](https://calcareers.ca.gov) | California state civil service (ASP.NET postback). |
+| `--boards-only` | ZipRecruiter + Google Jobs | Via `python-jobspy` (same library as Indeed); runs twice daily via `boards_watch.yml`. |
 
 Heavier per-term sources share `GOV_SEARCH_TERMS` (a slice of `LINKEDIN_SEARCH_TERMS`); widen it to taste. Each new source has a matching workflow (`usajobs_watch.yml`, `localgov_watch.yml`, `calcareers_watch.yml`).
 

@@ -147,20 +147,27 @@ def _extract_text(html: str) -> str:
 
 _INDEED_JDS: dict[str, str] | None = None
 
+# Sources whose scraper saves the JD alongside the posting (page fetches are
+# blocked or pointless for these) — all read through the same URL → JD map.
+_SAVED_JD_FILES = ["indeed_jobs.json", "boards_jobs.json"]
+_SAVED_JD_ATS = {"Indeed", "ZipRecruiter", "Google"}
+
 
 def _indeed_jds() -> dict[str, str]:
-    """URL → JD text the Indeed scraper saved (rolling 24h window)."""
+    """URL → JD text the Indeed/boards scrapers saved (rolling 24h windows)."""
     global _INDEED_JDS
     if _INDEED_JDS is None:
-        try:
-            with open(os.path.join(SCRIPT_DIR, "indeed_jobs.json")) as f:
-                _INDEED_JDS = {
-                    j["url"]: j["description"]
-                    for j in json.load(f).get("jobs", [])
-                    if j.get("url") and j.get("description")
-                }
-        except (FileNotFoundError, json.JSONDecodeError):
-            _INDEED_JDS = {}
+        _INDEED_JDS = {}
+        for name in _SAVED_JD_FILES:
+            try:
+                with open(os.path.join(SCRIPT_DIR, name)) as f:
+                    _INDEED_JDS.update({
+                        j["url"]: j["description"]
+                        for j in json.load(f).get("jobs", [])
+                        if j.get("url") and j.get("description")
+                    })
+            except (FileNotFoundError, json.JSONDecodeError):
+                continue
     return _INDEED_JDS
 
 
@@ -169,9 +176,9 @@ def fetch_jd(job: dict) -> str:
     verdict's `jd` field records which path was taken, so coverage stays
     observable run over run."""
     ats = job.get("ats")
-    if ats == "Indeed":
-        # Indeed blocks page fetches, but the scraper already saved the JD.
-        # Roles that aged out of the 24h window fall back to metadata-only.
+    if ats in _SAVED_JD_ATS:
+        # These boards block page fetches, but the scraper already saved the
+        # JD. Roles aged out of the 24h window fall back to metadata-only.
         return _indeed_jds().get(job.get("url", ""), "")[:JD_MAX_CHARS]
     if ats == "LinkedIn":
         # The guest posting endpoint serves the JD unauthenticated — the same

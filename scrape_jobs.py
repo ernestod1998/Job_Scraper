@@ -64,6 +64,11 @@ KEYWORDS = [
     "computational scientist", "computational biologist",
     "bioinformatics scientist", "bioinformatics engineer",
     "cheminformatics",
+    "biostatistician", "bioinformatician", "bioinformatics analyst",
+    "genomics scientist", "research software engineer",
+    "scientific software engineer",
+    # Entry-level computational research titles
+    "associate computational biologist", "research associate, computational",
     # Narrow phrase (substring match) — catches Biohub-style "Research
     # Scientist, AI" titles without the noise a bare "research scientist"
     # keyword would admit across LinkedIn/Indeed.
@@ -233,6 +238,8 @@ def is_recent_posting(job: dict, *, now: datetime | None = None) -> bool:
 
 # Each entry must include: name, ats, fallback_location, and the ATS-specific id
 # - greenhouse: "slug" (used in boards-api.greenhouse.io/v1/boards/{slug}/jobs)
+# - ashby:      "slug" (used in api.ashbyhq.com/posting-api/job-board/{slug})
+# - lever:      "slug" (used in api.lever.co/v0/postings/{slug}?mode=json)
 # - workday:    "url"  (full /wday/cxs/{tenant}/{site}/jobs endpoint)
 CURATED_BIOTECHS = [
     # ---- Greenhouse (confirmed via probes) ----
@@ -251,6 +258,17 @@ CURATED_BIOTECHS = [
     {"name": "Caribou Biosciences",  "ats": "greenhouse", "slug": "caribou",           "fallback_location": "Berkeley, CA"},
     {"name": "Octant Bio",           "ats": "greenhouse", "slug": "octantbio",         "fallback_location": "Emeryville, CA"},
     {"name": "Chan Zuckerberg Biohub", "ats": "greenhouse", "slug": "biohub",          "fallback_location": "San Francisco, CA"},
+    {"name": "Xaira Therapeutics",   "ats": "greenhouse", "slug": "xairatherapeutics", "fallback_location": "South San Francisco, CA"},
+    {"name": "Isomorphic Labs",      "ats": "greenhouse", "slug": "isomorphiclabs",    "fallback_location": "South San Francisco, CA"},
+    {"name": "Formation Bio",        "ats": "greenhouse", "slug": "formationbio",      "fallback_location": "New York, NY"},
+    {"name": "Septerna",             "ats": "greenhouse", "slug": "septerna",          "fallback_location": "South San Francisco, CA"},
+    {"name": "Calico Life Sciences", "ats": "greenhouse", "slug": "calicolabs",        "fallback_location": "South San Francisco, CA"},
+    {"name": "Ultima Genomics",      "ats": "greenhouse", "slug": "ultimagenomics",    "fallback_location": "Newark, CA"},
+    {"name": "Element Biosciences",  "ats": "greenhouse", "slug": "elementbiosciences", "fallback_location": "San Diego, CA"},
+    # ---- Ashby (confirmed) ----
+    {"name": "Chai Discovery",       "ats": "ashby",      "slug": "chaidiscovery",     "fallback_location": "San Francisco, CA"},
+    # ---- Lever (confirmed) ----
+    {"name": "Karius",               "ats": "lever",      "slug": "kariusdx",          "fallback_location": "Redwood City, CA"},
     # ---- Workday (confirmed) ----
     {"name": "Gilead Sciences",      "ats": "workday",
      "url": "https://gilead.wd1.myworkdayjobs.com/wday/cxs/gilead/gileadcareers/jobs",
@@ -281,6 +299,66 @@ def probe_curated_greenhouse(entry: dict) -> list:
             "url": job.get("absolute_url", f"https://boards.greenhouse.io/{entry['slug']}"),
             "date_posted": (job.get("updated_at") or "")[:10],
             "ats": "Greenhouse",
+        })
+    return jobs
+
+
+def probe_curated_ashby(entry: dict) -> list:
+    time.sleep(REQUEST_DELAY)
+    url = f"https://api.ashbyhq.com/posting-api/job-board/{entry['slug']}"
+    raw = fetch(url)
+    if not raw:
+        return []
+    try:
+        data = json.loads(raw)
+    except json.JSONDecodeError:
+        return []
+    jobs = []
+    for job in data.get("jobs", []):
+        title = job.get("title", "")
+        if not is_mle_role(title):
+            continue
+        jobs.append({
+            "company": entry["name"],
+            "title": title,
+            "location": job.get("location") or entry["fallback_location"],
+            "url": job.get("jobUrl", f"https://jobs.ashbyhq.com/{entry['slug']}"),
+            "date_posted": (job.get("publishedAt") or "")[:10],
+            "ats": "Ashby",
+        })
+    return jobs
+
+
+def probe_curated_lever(entry: dict) -> list:
+    time.sleep(REQUEST_DELAY)
+    url = f"https://api.lever.co/v0/postings/{entry['slug']}?mode=json"
+    raw = fetch(url)
+    if not raw:
+        return []
+    try:
+        data = json.loads(raw)
+    except json.JSONDecodeError:
+        return []
+    if not isinstance(data, list):
+        return []
+    jobs = []
+    for job in data:
+        title = job.get("text", "")
+        if not is_mle_role(title):
+            continue
+        created_ms = job.get("createdAt") or 0
+        date_posted = (
+            datetime.fromtimestamp(created_ms / 1000, tz=timezone.utc).strftime("%Y-%m-%d")
+            if created_ms else ""
+        )
+        jobs.append({
+            "company": entry["name"],
+            "title": title,
+            "location": (job.get("categories") or {}).get("location")
+                        or entry["fallback_location"],
+            "url": job.get("hostedUrl", f"https://jobs.lever.co/{entry['slug']}"),
+            "date_posted": date_posted,
+            "ats": "Lever",
         })
     return jobs
 
@@ -350,6 +428,10 @@ def scrape_curated_biotechs() -> list:
     for entry in CURATED_BIOTECHS:
         if entry["ats"] == "greenhouse":
             jobs = probe_curated_greenhouse(entry)
+        elif entry["ats"] == "ashby":
+            jobs = probe_curated_ashby(entry)
+        elif entry["ats"] == "lever":
+            jobs = probe_curated_lever(entry)
         elif entry["ats"] == "workday":
             jobs = probe_curated_workday(entry)
         else:
@@ -447,6 +529,8 @@ LINKEDIN_SEARCH_TERMS = [
     "computational biologist",
     "bioinformatics",
     "cheminformatics",
+    "biostatistician",
+    "research software engineer",
 ]
 
 LINKEDIN_LOOKBACK_SECONDS = 3600          # 1h — every-2h watcher only surfaces the freshest hour
@@ -463,7 +547,8 @@ BIOTECH_COMPANY_NAMES = [
     "10x Genomics", "Twist Bioscience", "Maze Therapeutics", "Freenome",
     "Cytokinetics", "Natera", "Inceptive", "Atomwise", "Profluent",
     "Eikon Therapeutics", "Altos Labs", "Arc Institute", "Caribou Biosciences",
-    "Octant Bio", "Gilead Sciences",
+    "Octant Bio", "Gilead Sciences", "Xaira Therapeutics", "Formation Bio",
+    "Septerna", "Chai Discovery",
     # Big pharma / biotech with Bay Area MLE hiring
     "Genentech", "AbbVie", "Amgen", "BioMarin", "Vertex Pharmaceuticals",
     "Bristol Myers Squibb", "Regeneron", "Pfizer",
@@ -732,6 +817,98 @@ def scrape_indeed_recent() -> list:
     return jobs
 
 
+BOARDS_LOOKBACK_HOURS = 24  # same day-resolution rationale as Indeed
+_BOARDS_ATS_LABELS = {"zip_recruiter": "ZipRecruiter", "google": "Google"}
+
+
+def scrape_boards_recent() -> list:
+    """ZipRecruiter + Google Jobs via jobspy — same pipeline shape as Indeed."""
+    print(f"🟪 Scraping ZipRecruiter + Google Jobs (last {BOARDS_LOOKBACK_HOURS}h)...")
+    try:
+        from jobspy import scrape_jobs as jobspy_scrape
+    except ImportError:
+        print("  ⚠️  python-jobspy not installed; skipping boards")
+        return []
+
+    jobs_by_id: dict[str, dict] = {}
+    ok_terms = 0
+    errored_terms = 0
+    raw_rows = 0
+    for term in LINKEDIN_SEARCH_TERMS:
+        time.sleep(REQUEST_DELAY)
+        try:
+            # Same jobspy gotcha as Indeed: keep hours_old, don't add the other
+            # mutually-exclusive filters. Google ignores plain search_term —
+            # it needs the full google_search_term query string.
+            df = jobspy_scrape(
+                site_name=["zip_recruiter", "google"],
+                search_term=term,
+                google_search_term=(
+                    f"{term} jobs near San Francisco, CA since yesterday"
+                ),
+                location="San Francisco, CA",
+                distance=50,
+                results_wanted=50,
+                hours_old=BOARDS_LOOKBACK_HOURS,
+            )
+        except Exception as e:
+            errored_terms += 1
+            print(f"  ⚠️  Boards ({term!r}): {e}")
+            continue
+        ok_terms += 1
+        if df is None or df.empty:
+            continue
+        raw_rows += len(df)
+        df.columns = [c.lower() for c in df.columns]
+        df = df.fillna("")
+        for _, row in df.iterrows():
+            title = str(row.get("title", "") or "")
+            if not is_mle_role(title):
+                continue
+            if is_excluded_company(str(row.get("company", "") or "")):
+                continue
+            url = str(row.get("job_url", "") or "")
+            ident = _job_identity(url)
+            if ident in jobs_by_id:
+                continue
+            loc = str(row.get("location", "") or "")
+            if not loc:
+                city = str(row.get("city", "") or "")
+                state = str(row.get("state", "") or "")
+                loc = ", ".join(p for p in [city, state] if p)
+            site = str(row.get("site", "") or "").lower()
+            jobs_by_id[ident] = {
+                "company": str(row.get("company", "") or "Unknown"),
+                "title": title,
+                "location": loc,
+                "url": url,
+                "date_posted": str(row.get("date_posted", "") or ""),
+                "description": str(row.get("description", "") or "")[:INDEED_JD_MAX_CHARS],
+                "salary": format_salary(
+                    row.get("min_amount", ""),
+                    row.get("max_amount", ""),
+                    row.get("interval", ""),
+                ),
+                "ats": _BOARDS_ATS_LABELS.get(site, "Boards"),
+            }
+    jobs = list(jobs_by_id.values())
+    print(
+        f"  📊 Boards: {len(LINKEDIN_SEARCH_TERMS)} terms → "
+        f"{ok_terms} ok / {errored_terms} errored · {raw_rows} raw, {len(jobs)} matched"
+    )
+
+    # Same block guard as Indeed: preserve the previous file on a no-data run.
+    if raw_rows == 0:
+        prev = _load_prev_jobs(os.path.join(SCRIPT_DIR, "boards_jobs.json"))
+        print(
+            f"  ⛔ Boards returned 0 rows across all terms (likely blocked); "
+            f"preserving previous {len(prev)} result(s)"
+        )
+        return prev
+
+    return jobs
+
+
 def format_salary(min_amount, max_amount, interval) -> str:
     """
     Display string for jobspy's Indeed pay fields, e.g. "$150k–$190k/yr" or
@@ -952,6 +1129,18 @@ def save_indeed_results(jobs: list):
         accent="#2557a7",
         empty_message="No new roles since the last run.",
         window_label=f"last {INDEED_LOOKBACK_HOURS}h",
+    )
+
+
+def save_boards_results(jobs: list):
+    save_jobs_output(
+        jobs,
+        basename="boards_jobs",
+        title="🟪 ZipRecruiter + Google — Engineering / ML / DS Roles (SF Bay Area)",
+        subtitle=f"SF Bay Area · last {BOARDS_LOOKBACK_HOURS}h",
+        accent="#7c5cff",
+        empty_message="No new roles since the last run.",
+        window_label=f"last {BOARDS_LOOKBACK_HOURS}h",
     )
 
 
@@ -1502,6 +1691,10 @@ def save_calcareers_results(jobs: list):
 if __name__ == "__main__":
     if "--indeed-only" in sys.argv:
         save_indeed_results(scrape_indeed_recent())
+        sys.exit(0)
+
+    if "--boards-only" in sys.argv:
+        save_boards_results(scrape_boards_recent())
         sys.exit(0)
 
     if "--linkedin-only" in sys.argv:
