@@ -1,87 +1,36 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area)
-*Last updated: 2026-07-06 20:17 UTC*
+*Last updated: 2026-07-06 21:17 UTC*
 
-**20 new role(s)** since last run · 22 total in last 1h
+**8 new role(s)** since last run · 23 total in last 1h
 
-### [AI Research Engineer – Machine Learning Systems](https://www.linkedin.com/jobs/view/4437458362/) — Agilesoft
+### [Software Engineer, Early Career (AI)](https://www.linkedin.com/jobs/view/4437472369/) — Notion
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-07-06
+
+### [Software Engineer, Early Career](https://www.linkedin.com/jobs/view/4437461678/) — Notion
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-07-06
+
+### [Software Engineer](https://www.linkedin.com/jobs/view/4436260211/) — forml
 - 📍 **Location:** San Francisco Bay Area
 - 🕒 **Posted:** 2026-07-06
 
-### [AI Data Scientist-Furman lab](https://www.linkedin.com/jobs/view/4427938237/) — Buck Institute for Research on Aging
-- 📍 **Location:** Novato, CA
+### [Sr. Data Engineer II, Assoc.Dir.](https://www.linkedin.com/jobs/view/4437472114/) — Federal Home Loan Bank of San Francisco
+- 📍 **Location:** San Francisco Bay Area
 - 🕒 **Posted:** 2026-07-06
 
-### [AI, Software Engineer](https://www.linkedin.com/jobs/view/4410427037/) — Career Movement
+### [Senior Analytics Engineer, Product](https://www.linkedin.com/jobs/view/4437457583/) — ClickHouse
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-07-06
 
-### [Research Engineer, Post-Training Inference](https://www.linkedin.com/jobs/view/4436253202/) — Together AI
+### [Software Engineer (Mid-Level) - Growth Team](https://www.linkedin.com/jobs/view/4433999149/) — Sprinter Health
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-07-06
 
-### [AI Research Engineer/Scientist](https://www.linkedin.com/jobs/view/4436240527/) — Intel
-- 📍 **Location:** Santa Clara, CA
+### [Software Engineer - AI Agent](https://www.linkedin.com/jobs/view/4436264089/) — Jobright.ai
+- 📍 **Location:** San Mateo County, CA
 - 🕒 **Posted:** 2026-07-06
 
-### [Data Scientist](https://www.linkedin.com/jobs/view/4436245778/) — Jobright.ai
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-07-06
-
-### [Software Engineer, Research Infrastructure](https://www.linkedin.com/jobs/view/4436239818/) — Anthropic
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-07-06
-
-### [Growth Data Engineer](https://www.linkedin.com/jobs/view/4436240781/) — Jobright.ai
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-07-06
-
-### [Software Engineer - Medical Applications & Algorithms](https://www.linkedin.com/jobs/view/4430588518/) — Heartflow
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-07-06
-
-### [Senior Data Engineer](https://www.linkedin.com/jobs/view/4430353072/) — Strategic Employment Partners (SEP)
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-07-06
-
-### [Artificial Intelligence Research Engineer](https://www.linkedin.com/jobs/view/4436260089/) — Zero RFI
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-07-06
-
-### [Senior Machine Learning Engineer](https://www.linkedin.com/jobs/view/4437451716/) — Affinity.co
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-07-06
-
-### [Lead Software Engineer, ML](https://www.linkedin.com/jobs/view/4436244693/) — Cadence
-- 📍 **Location:** San Jose, CA
-- 💰 **Salary:** $114,000.00/yr - $213,000.00/yr
-- 🕒 **Posted:** 2026-07-06
-
-### [AI Engineer](https://www.linkedin.com/jobs/view/4433994248/) — Fixity Technologies
-- 📍 **Location:** Concord, CA
-- 🕒 **Posted:** 2026-07-06
-
-### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4429397404/) — Heartflow
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-07-06
-
-### [Senior Java Software Engineer](https://www.linkedin.com/jobs/view/4437446647/) — Vaiticka Solution
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $130,000.00/yr - $135,000.00/yr
-- 🕒 **Posted:** 2026-07-06
-
-### [Senior Software Engineer - Frontend](https://www.linkedin.com/jobs/view/4430062112/) — Heartflow
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-07-06
-
-### [Senior UI/Frontend Engineer (AI)](https://www.linkedin.com/jobs/view/4437449955/) — Pragmatike
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-07-06
-
-### [Senior Software Engineer (Startup)](https://www.linkedin.com/jobs/view/4436243753/) — Fuel Talent
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $180,000.00/yr - $250,000.00/yr
-- 🕒 **Posted:** 2026-07-06
-
-### [Senior Platform Engineer](https://www.linkedin.com/jobs/view/4437447984/) — EverOps
-- 📍 **Location:** San Francisco, CA
+### [Software Engineer](https://www.linkedin.com/jobs/view/4436257471/) — Jobright.ai
+- 📍 **Location:** Los Altos, CA
 - 🕒 **Posted:** 2026-07-06
