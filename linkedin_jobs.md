@@ -1,13 +1,12 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area)
-*Last updated: 2026-07-06 01:17 UTC*
+*Last updated: 2026-07-06 02:17 UTC*
 
-**2 new role(s)** since last run · 5 total in last 1h
+**2 new role(s)** since last run · 4 total in last 1h
 
-### [Senior Frontend Engineer, AI Product UX](https://www.linkedin.com/jobs/view/4436063152/) — Stacksync - Integration Cloud
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $60,000.00/yr - $160,000.00/yr
+### [Senior Software Engineer - Remote](https://www.linkedin.com/jobs/view/4436065205/) — YO IT Consulting
+- 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-07-06
 
-### [Security Engineer](https://www.linkedin.com/jobs/view/4436051607/) — Trident
-- 📍 **Location:** San Francisco Bay Area
+### [Cloud Infrastructure – Site Reliability Engineer (SRE)-Sunnyvale](https://www.linkedin.com/jobs/view/4433913187/) — Alibaba Cloud
+- 📍 **Location:** Sunnyvale, CA
 - 🕒 **Posted:** 2026-07-06
