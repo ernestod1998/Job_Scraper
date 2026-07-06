@@ -1,69 +1,90 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area)
-*Last updated: 2026-07-06 17:17 UTC*
+*Last updated: 2026-07-06 18:17 UTC*
 
-**15 new role(s)** since last run · 22 total in last 1h
+**20 new role(s)** since last run · 25 total in last 1h
 
-### [AI Engineer](https://www.linkedin.com/jobs/view/4425541293/) — AppZen
-- 📍 **Location:** San Jose, CA
-- 💰 **Salary:** $160,000.00/yr - $210,000.00/yr
-- 🕒 **Posted:** 2026-07-06
-
-### [Senior AI Engineer](https://www.linkedin.com/jobs/view/4333291067/) — Hippocratic AI
+### [Machine Learning Engineer, Level 4](https://www.linkedin.com/jobs/view/4437449022/) — Snap Inc.
 - 📍 **Location:** Palo Alto, CA
 - 🕒 **Posted:** 2026-07-06
 
-### [AI Research Scientist | Machine Learning | Deep Learning |Natural Language Processing | LLM | Hybrid | San Jose, CA](https://www.linkedin.com/jobs/view/4436238001/) — Enigma
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-07-06
-
-### [Senior Full Stack Engineer, AI Experience](https://www.linkedin.com/jobs/view/4436228542/) — Kiddom
-- 📍 **Location:** San Francisco Bay Area
-- 💰 **Salary:** $180,000.00/yr - $230,000.00/yr
-- 🕒 **Posted:** 2026-07-06
-
-### [Data Engineer](https://www.linkedin.com/jobs/view/4437414997/) — DLA Piper
-- 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-07-06
-
-### [Full Stack Engineer](https://www.linkedin.com/jobs/view/4436211974/) — Robert Half
-- 📍 **Location:** San Jose, CA
-- 💰 **Salary:** $40.00/hr - $50.00/hr
-- 🕒 **Posted:** 2026-07-06
-
-### [Senior Software Engineer, Growth Platforms](https://www.linkedin.com/jobs/view/4428693569/) — Lyft
-- 📍 **Location:** San Francisco County, CA
-- 🕒 **Posted:** 2026-07-06
-
-### [Software Engineer](https://www.linkedin.com/jobs/view/4428668066/) — Valeo
-- 📍 **Location:** San Mateo, CA
-- 🕒 **Posted:** 2026-07-06
-
-### [Sr Software Engineer (Node.js, Python & React) - 15+ yrs](https://www.linkedin.com/jobs/view/4436231313/) — Xyant Services
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-07-06
-
-### [SR PLATFORM SOFTWARE ENGINEER](https://www.linkedin.com/jobs/view/4437429032/) — Trinity Technology Solutions LLC
-- 📍 **Location:** San Mateo, CA
-- 🕒 **Posted:** 2026-07-06
-
-### [Platform Engineer](https://www.linkedin.com/jobs/view/4436223728/) — Stellar Consulting Solutions, LLC
+### [Machine Learning Engineer, Level 4](https://www.linkedin.com/jobs/view/4437427761/) — Snap Inc.
 - 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $70.00/hr - $80.00/hr
 - 🕒 **Posted:** 2026-07-06
 
-### [DevOps/Automation Engineer](https://www.linkedin.com/jobs/view/4436233220/) — Stellar Consulting Solutions, LLC
-- 📍 **Location:** Pleasanton, CA
-- 🕒 **Posted:** 2026-07-06
-
-### [Devops with Networking](https://www.linkedin.com/jobs/view/4437418605/) — Infobahn Softworld Inc
+### [Senior Software Engineer, AI](https://www.linkedin.com/jobs/view/4437430727/) — People In AI
 - 📍 **Location:** San Francisco Bay Area
 - 🕒 **Posted:** 2026-07-06
 
-### [Senior Network Software Engineer](https://www.linkedin.com/jobs/view/4406920172/) — ACL Digital
-- 📍 **Location:** Santa Clara, CA
-- 💰 **Salary:** $85.00/hr - $95.00/hr
+### [Infrastructure Engineer](https://www.linkedin.com/jobs/view/4406566178/) — Chalk
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $170,000.00/yr - $280,000.00/yr
 - 🕒 **Posted:** 2026-07-06
 
-### [Systems Engineer III](https://www.linkedin.com/jobs/view/4429406725/) — Applied Materials
+### [Machine Learning Engineer, Level 5](https://www.linkedin.com/jobs/view/4437430607/) — Snap Inc.
+- 📍 **Location:** Palo Alto, CA
+- 🕒 **Posted:** 2026-07-06
+
+### [Machine Learning Engineer, Level 5](https://www.linkedin.com/jobs/view/4437435404/) — Snap Inc.
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-07-06
+
+### [Remote Software Engineer](https://www.linkedin.com/jobs/view/4437429763/) — Turing
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-07-06
+
+### [Full Stack Engineer](https://www.linkedin.com/jobs/view/4437415992/) — Venture Up
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $180,000.00/yr - $235,000.00/yr
+- 🕒 **Posted:** 2026-07-06
+
+### [AI Platform Architect](https://www.linkedin.com/jobs/view/4427389564/) — Planet Pharma
+- 📍 **Location:** Alameda, CA
+- 🕒 **Posted:** 2026-07-06
+
+### [Frontend Software Engineer](https://www.linkedin.com/jobs/view/4406568149/) — Chalk
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $170,000.00/yr - $280,000.00/yr
+- 🕒 **Posted:** 2026-07-06
+
+### [Full Stack Software Engineer](https://www.linkedin.com/jobs/view/4406562211/) — Chalk
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $170,000.00/yr - $280,000.00/yr
+- 🕒 **Posted:** 2026-07-06
+
+### [Software Engineer](https://www.linkedin.com/jobs/view/4437427451/) — TalentAlly
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-07-06
+
+### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4409509284/) — Resource Innovations
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $100,000.00/yr - $144,000.00/yr
+- 🕒 **Posted:** 2026-07-06
+
+### [Distributed Systems Engineer](https://www.linkedin.com/jobs/view/4437434390/) — Alexander Chapman
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-07-06
+
+### [Senior Software Engineer, Data Integrations (Java/Python)](https://www.linkedin.com/jobs/view/4369792281/) — BlackRock
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-07-06
+
+### [Senior Software Engineer, Robotics](https://www.linkedin.com/jobs/view/4381625959/) — Saildrone
+- 📍 **Location:** Alameda, CA
+- 🕒 **Posted:** 2026-07-06
+
+### [Site Reliability Engineer, Compute Platform](https://www.linkedin.com/jobs/view/4436224906/) — TikTok
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-07-06
+
+### [Senior Site Reliability Engineer](https://www.linkedin.com/jobs/view/4398876031/) — Block
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-07-06
+
+### [Product Security Engineer](https://www.linkedin.com/jobs/view/4437446242/) — VARITE INC
+- 📍 **Location:** San Jose, CA
+- 💰 **Salary:** $80.00/hr - $92.69/hr
+- 🕒 **Posted:** 2026-07-06
+
+### [Sr. Information Security Engineer](https://www.linkedin.com/jobs/view/4369185471/) — OMNIVISION
 - 📍 **Location:** Santa Clara, CA
 - 🕒 **Posted:** 2026-07-06
