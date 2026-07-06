@@ -1,82 +1,97 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area)
-*Last updated: 2026-07-06 22:17 UTC*
+*Last updated: 2026-07-06 23:17 UTC*
 
-**18 new role(s)** since last run · 21 total in last 1h
+**23 new role(s)** since last run · 35 total in last 1h
 
-### [Software Engineer](https://www.linkedin.com/jobs/view/4436258499/) — Jack
-- 📍 **Location:** San Francisco Bay Area
-- 💰 **Salary:** $160,000.00/yr - $220,000.00/yr
+### [Software Engineer, Frontend/Web App](https://www.linkedin.com/jobs/view/4437491221/) — Beacon AI
+- 📍 **Location:** San Carlos, CA
 - 🕒 **Posted:** 2026-07-06
 
-### [Sr. Software Engineer Device](https://www.linkedin.com/jobs/view/4437468700/) — Blackstone Talent Group
+### [Software Engineer, iOS/Mobile - Electronic Flight Bag (EFB)](https://www.linkedin.com/jobs/view/4437474845/) — Beacon AI
+- 📍 **Location:** San Carlos, CA
+- 🕒 **Posted:** 2026-07-06
+
+### [Software Engineer, Backend](https://www.linkedin.com/jobs/view/4437481457/) — Beacon AI
+- 📍 **Location:** San Carlos, CA
+- 🕒 **Posted:** 2026-07-06
+
+### [Software Engineer, iOS/Mobile](https://www.linkedin.com/jobs/view/4437478598/) — Beacon AI
+- 📍 **Location:** San Carlos, CA
+- 🕒 **Posted:** 2026-07-06
+
+### [Associate Software Engineer - Mobile (IOS)](https://www.linkedin.com/jobs/view/4436263546/) — Treinetic
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-07-06
 
-### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4436248929/) — Jack
-- 📍 **Location:** San Francisco Bay Area
-- 💰 **Salary:** $180,000.00/yr - $230,000.00/yr
+### [Software Engineer II](https://www.linkedin.com/jobs/view/4437475619/) — Uber
+- 📍 **Location:** Sunnyvale, CA
 - 🕒 **Posted:** 2026-07-06
 
-### [Data Scientist](https://www.linkedin.com/jobs/view/4436256469/) — Jobright.ai
+### [Software Engineer, iOS/Mobile - Health Wearable](https://www.linkedin.com/jobs/view/4437493180/) — Beacon AI
+- 📍 **Location:** San Carlos, CA
+- 🕒 **Posted:** 2026-07-06
+
+### [Senior Machine Learning Engineer](https://www.linkedin.com/jobs/view/4437491093/) — Warner Bros. Discovery
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-07-06
 
-### [Software Engineer, Bulk/Interactive Inference](https://www.linkedin.com/jobs/view/4436260422/) — Waymo
+### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4436254859/) — Float Health
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-07-06
+
+### [Research Engineer](https://www.linkedin.com/jobs/view/4403260429/) — Gamma
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-07-06
+
+### [Senior AI Data Scientist I](https://www.linkedin.com/jobs/view/4437488254/) — Exelixis
+- 📍 **Location:** Alameda, CA
+- 🕒 **Posted:** 2026-07-06
+
+### [Software Engineer](https://www.linkedin.com/jobs/view/4437472880/) — netPolarity, Inc. (Saicon Consultants, Inc.)
 - 📍 **Location:** Mountain View, CA
+- 💰 **Salary:** $90.00/hr - $107.00/hr
 - 🕒 **Posted:** 2026-07-06
 
-### [Software Engineer Sys 5](https://www.linkedin.com/jobs/view/4436265116/) — Lam Research
-- 📍 **Location:** Fremont, CA
+### [ONLY W2 & LOCALS :: Software Engineer III (Python & Node.js) in Cupertino, CA (Hybrid Role)](https://www.linkedin.com/jobs/view/4436270358/) — Infotree Global Solutions
+- 📍 **Location:** Cupertino, CA
 - 🕒 **Posted:** 2026-07-06
 
-### [Software Engineer - Systems](https://www.linkedin.com/jobs/view/4418846856/) — San Francisco Compute Company
+### [Software Engineer - Sensor, macOS  (Hybrid)](https://www.linkedin.com/jobs/view/4434509073/) — CrowdStrike
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-07-06
+
+### [Lead Software Engineer, Frontend/Web App](https://www.linkedin.com/jobs/view/4437476676/) — Beacon AI
+- 📍 **Location:** San Carlos, CA
+- 🕒 **Posted:** 2026-07-06
+
+### [Full Stack Engineer](https://www.linkedin.com/jobs/view/4436262492/) — Hire Hangar
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-07-06
 
-### [Software Engineer](https://www.linkedin.com/jobs/view/4436258494/) — Jack
-- 📍 **Location:** San Francisco Bay Area
-- 💰 **Salary:** $130,000.00/yr - $240,000.00/yr
+### [Software Engineer (27799)](https://www.linkedin.com/jobs/view/4433996675/) — Super Micro Computer Spain, S.L.
+- 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-07-06
 
-### [Software Engineer - Product](https://www.linkedin.com/jobs/view/4418852599/) — San Francisco Compute Company
+### [Software Engineer, Cloud Infrastructure (Multiple Seniority Levels)](https://www.linkedin.com/jobs/view/4437480427/) — Beacon AI
+- 📍 **Location:** San Carlos, CA
+- 🕒 **Posted:** 2026-07-06
+
+### [Sr Cloud Engineer](https://www.linkedin.com/jobs/view/4437483251/) — Uber
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-07-06
 
-### [Software Engineer - Training/Inference (C++)](https://www.linkedin.com/jobs/view/4437459957/) — xAI
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-07-06
-
-### [Senior ML Engineer](https://www.linkedin.com/jobs/view/4436253616/) — Jobright.ai
+### [Senior Software Engineer, Frontend Platform](https://www.linkedin.com/jobs/view/4437484196/) — Roo
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-07-06
 
-### [Senior Software Engineer, Online Data Stores](https://www.linkedin.com/jobs/view/4436271148/) — Persona
-- 📍 **Location:** San Francisco, CA
+### [Sr Software Engineer](https://www.linkedin.com/jobs/view/4437491096/) — Uber
+- 📍 **Location:** Sunnyvale, CA
 - 🕒 **Posted:** 2026-07-06
 
-### [Senior Fullstack Engineer](https://www.linkedin.com/jobs/view/4437457985/) — NimbleRx
-- 📍 **Location:** Redwood City, CA
-- 💰 **Salary:** $205,000.00/yr - $240,000.00/yr
+### [Lead Software Engineer, Advanced Pilot Assistant Software (Autonomy/Robotics)](https://www.linkedin.com/jobs/view/4437480428/) — Beacon AI
+- 📍 **Location:** San Carlos, CA
 - 🕒 **Posted:** 2026-07-06
 
-### [Lead Software Engineer – Mobile](https://www.linkedin.com/jobs/view/4436254561/) — TheCorporate
-- 📍 **Location:** Oakland, CA
-- 💰 **Salary:** $100.00/hr - $105.00/hr
-- 🕒 **Posted:** 2026-07-06
-
-### [DevOps Engineer](https://www.linkedin.com/jobs/view/4437478137/) — Johnson & Johnson MedTech
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-07-06
-
-### [Storage Systems Engineer](https://www.linkedin.com/jobs/view/4437481291/) — UCSF Health
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-07-06
-
-### [Cyber Security Engineer](https://www.linkedin.com/jobs/view/4404214810/) — Atomus
-- 📍 **Location:** San Francisco Bay Area
-- 💰 **Salary:** $140,000.00/yr - $170,000.00/yr
-- 🕒 **Posted:** 2026-07-06
-
-### [Data Science Manager](https://www.linkedin.com/jobs/view/4422067394/) — Mochi Health
-- 📍 **Location:** San Francisco, CA
+### [Lead Backend Software Engineer](https://www.linkedin.com/jobs/view/4437475762/) — Beacon AI
+- 📍 **Location:** San Carlos, CA
 - 🕒 **Posted:** 2026-07-06
