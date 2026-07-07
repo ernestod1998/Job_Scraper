@@ -1,120 +1,134 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area)
-*Last updated: 2026-07-07 17:18 UTC*
+*Last updated: 2026-07-07 18:18 UTC*
 
-**27 new role(s)** since last run · 43 total in last 1h
+**32 new role(s)** since last run · 49 total in last 1h
 
-### [Machine Learning Engineer](https://www.linkedin.com/jobs/view/4437842106/) — MeeBoss
+### [Machine Learning Engineer | Python | Pytorch | Distributed Training | Optimisation | GPU | Hybrid, San Jose, CA](https://www.linkedin.com/jobs/view/4436842079/) — Enigma
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-07-07
+
+### [AI Software Engineer](https://www.linkedin.com/jobs/view/4434571529/) — NVIDIA AI
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-07-07
+
+### [Senior Machine Learning Engineer](https://www.linkedin.com/jobs/view/4434564796/) — NVIDIA AI
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-07-07
+
+### [Senior ML Engineer](https://www.linkedin.com/jobs/view/4436842105/) — Jobright.ai
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-07-07
+
+### [Software Engineer, Gen AI](https://www.linkedin.com/jobs/view/4437849290/) — Scale AI
 - 📍 **Location:** San Francisco Bay Area
-- 💰 **Salary:** $170,000.00/yr - $220,000.00/yr
 - 🕒 **Posted:** 2026-07-07
 
-### [AI Research Scientist | Machine Learning | Deep Learning |Natural Language Processing | LLM | Hybrid | San Jose, CA](https://www.linkedin.com/jobs/view/4436822489/) — Enigma
-- 📍 **Location:** San Jose, CA
+### [Software Engineer](https://www.linkedin.com/jobs/view/4436833407/) — Jobright.ai
+- 📍 **Location:** Los Altos, CA
 - 🕒 **Posted:** 2026-07-07
 
-### [Senior Python Software Engineer](https://www.linkedin.com/jobs/view/4437840477/) — Venture Up
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $200,000.00/yr - $300,000.00/yr
+### [Java Software Engineer](https://www.linkedin.com/jobs/view/4435282444/) — Tranzeal Incorporated
+- 📍 **Location:** Sunnyvale, CA
 - 🕒 **Posted:** 2026-07-07
 
-### [Senior Python Software Engineer – Manufacturing Test & Automation](https://www.linkedin.com/jobs/view/4432106172/) — Red Oak Technologies
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $150,000.00/yr - $165,000.00/yr
+### [Senior Software Engineer - Cloud and Kubernetes](https://www.linkedin.com/jobs/view/4434557979/) — NVIDIA AI
+- 📍 **Location:** Santa Clara, CA
 - 🕒 **Posted:** 2026-07-07
 
-### [Python Software Engineer - Test Systems & Automation](https://www.linkedin.com/jobs/view/4434367451/) — Red Oak Technologies
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $155.00/yr - $165.00/yr
-- 🕒 **Posted:** 2026-07-07
-
-### [Software Engineer - AI Agent](https://www.linkedin.com/jobs/view/4436818824/) — Jobright.ai
-- 📍 **Location:** San Mateo County, CA
-- 🕒 **Posted:** 2026-07-07
-
-### [Senior Data Scientist, CX Analytics](https://www.linkedin.com/jobs/view/4429541827/) — Coinbase
+### [Data Engineer - Senior Associate](https://www.linkedin.com/jobs/view/4369135798/) — PwC
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-07-07
 
-### [C++ Software Engineer](https://www.linkedin.com/jobs/view/4437840179/) — Venture Up
+### [Senior Software Engineer - Cloud and Kubernetes](https://www.linkedin.com/jobs/view/4407984141/) — NVIDIA
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-07-07
+
+### [Senior Software Engineer — MD Simulation Engineering](https://www.linkedin.com/jobs/view/4418218509/) — NVIDIA
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-07-07
+
+### [Senior Storage Software Engineer, DGXC Data Services](https://www.linkedin.com/jobs/view/4434568661/) — NVIDIA AI
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-07-07
+
+### [Data Scientist](https://www.linkedin.com/jobs/view/4436833469/) — Jobright.ai
 - 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $170,000.00/yr - $250,000.00/yr
 - 🕒 **Posted:** 2026-07-07
 
-### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4436823668/) — Sydecar
+### [Senior Physics-Machine Learning Engineer - CAE](https://www.linkedin.com/jobs/view/4434566787/) — NVIDIA AI
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-07-07
+
+### [AI Engineer / Data Scientist, AI Senior Associate](https://www.linkedin.com/jobs/view/4436839148/) — PwC
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-07-07
 
-### [Senior Data Scientist, Systems Performance](https://www.linkedin.com/jobs/view/4434563602/) — Motional
-- 📍 **Location:** San Francisco, CA
+### [Battery Simulation Software Engineer](https://www.linkedin.com/jobs/view/4436841198/) — Infotree Global Solutions
+- 📍 **Location:** Cupertino, CA
 - 🕒 **Posted:** 2026-07-07
 
-### [Performance Research Engineer (multiple levels)](https://www.linkedin.com/jobs/view/4431981627/) — Efficient Computer
-- 📍 **Location:** San Jose, CA
+### [Battery Simulation Software Engineer](https://www.linkedin.com/jobs/view/4436841027/) — OSI Engineering
+- 📍 **Location:** Cupertino, CA
+- 💰 **Salary:** $69.00/hr - $84.00/hr
 - 🕒 **Posted:** 2026-07-07
 
-### [Full Stack Software Engineer (Starlink)](https://www.linkedin.com/jobs/view/4401565319/) — SpaceX
+### [Sr. Engineering Manager, MLOps](https://www.linkedin.com/jobs/view/4418249096/) — Quince
 - 📍 **Location:** Palo Alto, CA
 - 🕒 **Posted:** 2026-07-07
 
-### [AI Infra Engineer](https://www.linkedin.com/jobs/view/4426162079/) — Black Sesame Technologies Inc
+### [Generative AI Engineer](https://www.linkedin.com/jobs/view/4437846167/) — Urbane Systems
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-07-07
+
+### [Senior AI Software Engineer (Java/Python + LLMs)](https://www.linkedin.com/jobs/view/4432652797/) — BayOne Solutions
 - 📍 **Location:** San Jose, CA
+- 💰 **Salary:** $70.00/hr - $75.00/hr
 - 🕒 **Posted:** 2026-07-07
 
-### [Helix AI Engineer, Training Infrastructure](https://www.linkedin.com/jobs/view/4205919655/) — Figure
-- 📍 **Location:** San Jose, CA
+### [Senior Infrastructure Engineer – Bazel Remote Execution](https://www.linkedin.com/jobs/view/4427776498/) — NVIDIA
+- 📍 **Location:** Santa Clara, CA
 - 🕒 **Posted:** 2026-07-07
 
-### [Full Stack Engineer](https://www.linkedin.com/jobs/view/4437844233/) — Venture Up
+### [Senior Software Engineer - BaseOS](https://www.linkedin.com/jobs/view/4417520009/) — NVIDIA
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-07-07
+
+### [Senior System Software Engineer - CUDA Chips](https://www.linkedin.com/jobs/view/4434563741/) — NVIDIA AI
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-07-07
+
+### [Senior Software Engineer, Product](https://www.linkedin.com/jobs/view/4436835498/) — Jobright.ai
+- 📍 **Location:** Burlingame, CA
+- 🕒 **Posted:** 2026-07-07
+
+### [Backend Engineer](https://www.linkedin.com/jobs/view/4436826738/) — Evlo AI
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-07-07
 
-### [Senior Software Engineer - Pay & Safety](https://www.linkedin.com/jobs/view/4410942288/) — Handshake
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $225,000.00/yr - $250,000.00/yr
-- 🕒 **Posted:** 2026-07-07
-
-### [Senior Software Engineer, Full-Stack (Agentic Platform)](https://www.linkedin.com/jobs/view/4437833785/) — Supio
+### [Senior Software Engineer II, Enterprise Platform](https://www.linkedin.com/jobs/view/4437844400/) — Lila Sciences
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-07-07
 
-### [Software Engineer Lead](https://www.linkedin.com/jobs/view/4433293464/) — VeeAR Projects Inc.
-- 📍 **Location:** Fremont, CA
-- 🕒 **Posted:** 2026-07-07
-
-### [Backend Engineer (Infra)](https://www.linkedin.com/jobs/view/4317493942/) — Conversion
+### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4437854199/) — Boosted.ai
 - 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $175,000.00/yr - $225,000.00/yr
 - 🕒 **Posted:** 2026-07-07
 
-### [Software Engineer](https://www.linkedin.com/jobs/view/4437823656/) — TalentAlly
+### [Senior System Software Engineer - CUDA Chips](https://www.linkedin.com/jobs/view/4395486145/) — NVIDIA
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-07-07
+
+### [Junior Software Engineer](https://www.linkedin.com/jobs/view/4434567606/) — OliveGreen™
 - 📍 **Location:** San Francisco Bay Area
 - 🕒 **Posted:** 2026-07-07
 
-### [Senior Software Engineer, Trust Platform](https://www.linkedin.com/jobs/view/4340084920/) — Credit Genie
+### [Software Engineer](https://www.linkedin.com/jobs/view/4436835396/) — Docusign
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-07-07
 
-### [Embedded Display Software Engineer (Qualcomm Snapdragon AR/XR)](https://www.linkedin.com/jobs/view/4436834184/) — Quest Global
-- 📍 **Location:** Fremont, CA
-- 🕒 **Posted:** 2026-07-07
-
-### [Full Stack Engineer, AI Accelerator Open Source Ecosystem](https://www.linkedin.com/jobs/view/4437827777/) — SemiAnalysis
+### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4436832455/) — Product Pulse
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-07-07
 
-### [Infrastructure Engineer](https://www.linkedin.com/jobs/view/4436822531/) — Harvey Nash
-- 📍 **Location:** Cupertino, CA
-- 💰 **Salary:** $65.00/yr - $69.00/yr
-- 🕒 **Posted:** 2026-07-07
-
-### [Senior Infrastructure Engineer](https://www.linkedin.com/jobs/view/4425848756/) — QuantumScape
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-07-07
-
-### [Senior DevOps Engineer - Payments & AI Platforms](https://www.linkedin.com/jobs/view/4436826371/) — KeyBank
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-07-07
-
-### [Senior Core Infrastructure Engineer](https://www.linkedin.com/jobs/view/4434556842/) — Oracle
-- 📍 **Location:** Santa Clara, CA
+### [Sr Applied Scientist, Ring AI](https://www.linkedin.com/jobs/view/4437845564/) — Ring
+- 📍 **Location:** Sunnyvale, CA
 - 🕒 **Posted:** 2026-07-07
