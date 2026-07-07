@@ -1,59 +1,57 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area)
-*Last updated: 2026-07-07 02:17 UTC*
+*Last updated: 2026-07-07 03:17 UTC*
 
-**13 new role(s)** since last run · 21 total in last 1h
+**13 new role(s)** since last run · 24 total in last 1h
 
-### [Senior Computer Vision Engineer](https://www.linkedin.com/jobs/view/4437722306/) — Epia Neuro
-- 📍 **Location:** Alameda, CA
-- 💰 **Salary:** $170,000.00/yr - $210,000.00/yr
+### [Robotics Engineer(Mandarin)](https://www.linkedin.com/jobs/view/4436289289/) — Neusoft
+- 📍 **Location:** Mountain View, CA
 - 🕒 **Posted:** 2026-07-07
 
-### [Senior AI Engineer](https://www.linkedin.com/jobs/view/4437704924/) — Affinity.co
+### [Logistics Research Team - Software Engineer (Mid-Level)](https://www.linkedin.com/jobs/view/4437727105/) — Sprinter Health
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-07-07
 
-### [Cloud Site Reliability Engineer](https://www.linkedin.com/jobs/view/4408072933/) — SambaNova
-- 📍 **Location:** San Jose, CA
+### [Applied Scientist, Shopping Convo Foundations - Pre-purchases Science, Shopping Convo Foundations - Pre-purchases Science](https://www.linkedin.com/jobs/view/4437490621/) — Amazon
+- 📍 **Location:** Santa Clara, CA
 - 🕒 **Posted:** 2026-07-07
 
-### [Senior Site Reliability Engineer - SDN](https://www.linkedin.com/jobs/view/4437719486/) — Lambda
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $240,000.00/yr - $312,000.00/yr
-- 🕒 **Posted:** 2026-07-07
-
-### [Senior Site Reliability Engineer - SDN](https://www.linkedin.com/jobs/view/4437705878/) — Lambda
-- 📍 **Location:** San Jose, CA
-- 💰 **Salary:** $240,000.00/yr - $312,000.00/yr
-- 🕒 **Posted:** 2026-07-07
-
-### [Linux Embedded Software Engineer](https://www.linkedin.com/jobs/view/4434500725/) — Science
-- 📍 **Location:** Alameda, CA
-- 🕒 **Posted:** 2026-07-07
-
-### [Senior Software Engineer, Full Stack](https://www.linkedin.com/jobs/view/4437711730/) — Parasail
-- 📍 **Location:** San Mateo, CA
-- 🕒 **Posted:** 2026-07-07
-
-### [System on Chip Software Engineer](https://www.linkedin.com/jobs/view/4434515034/) — Science
-- 📍 **Location:** Alameda, CA
-- 🕒 **Posted:** 2026-07-07
-
-### [Senior Software Engineer, Distributed Systems](https://www.linkedin.com/jobs/view/4437706766/) — Parasail
-- 📍 **Location:** San Mateo, CA
-- 🕒 **Posted:** 2026-07-07
-
-### [Sr Systems Engineer](https://www.linkedin.com/jobs/view/4437722235/) — Parker Hannifin
-- 📍 **Location:** Livermore, CA
-- 🕒 **Posted:** 2026-07-07
-
-### [Senior Frontend Engineer - Design Systems](https://www.linkedin.com/jobs/view/4437709456/) — Mercury
+### [HPC Platform Engineer, Software, Center for Quantum Computing](https://www.linkedin.com/jobs/view/4437480842/) — Amazon Web Services (AWS)
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-07-07
 
-### [Senior Software Engineer - Kernel & Device Drivers](https://www.linkedin.com/jobs/view/4404855953/) — SambaNova
-- 📍 **Location:** San Jose, CA
+### [Engagement Platform Team - Software Engineer (Early Career / Mid-Level)](https://www.linkedin.com/jobs/view/4437708894/) — Sprinter Health
+- 📍 **Location:** Menlo Park, CA
 - 🕒 **Posted:** 2026-07-07
 
-### [Sr. Data Engineer, Accounting & Finance](https://www.linkedin.com/jobs/view/4436269891/) — Tesla
-- 📍 **Location:** Fremont, CA
+### [Mobile Platform Engineer](https://www.linkedin.com/jobs/view/4436275841/) — Pop-Up Talent
+- 📍 **Location:** Santa Clara, CA
+- 💰 **Salary:** $130,000.00/yr - $160,000.00/yr
+- 🕒 **Posted:** 2026-07-07
+
+### [Product Engineering Team - Software Engineer (Mid-Level)](https://www.linkedin.com/jobs/view/4437709997/) — Sprinter Health
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-07-07
+
+### [Data Services Team - Software Engineer (Mid-Level)](https://www.linkedin.com/jobs/view/4437711935/) — Sprinter Health
+- 📍 **Location:** Menlo Park, CA
+- 🕒 **Posted:** 2026-07-07
+
+### [AI Automation Team - Software Engineer (Senior)](https://www.linkedin.com/jobs/view/4437720614/) — Sprinter Health
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-07-07
+
+### [Software Engineer I](https://www.linkedin.com/jobs/view/4385678571/) — Aurora
+- 📍 **Location:** Mountain View, CA
+- 🕒 **Posted:** 2026-07-07
+
+### [Linux Systems Engineer for Image Computer Product Development](https://www.linkedin.com/jobs/view/4437731166/) — KLA
+- 📍 **Location:** Milpitas, CA
+- 🕒 **Posted:** 2026-07-07
+
+### [Research Software Engineer, Calibration, MQS Center for Quantum Computing](https://www.linkedin.com/jobs/view/4437494429/) — Amazon Web Services (AWS)
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-07-07
+
+### [Senior Analytics Engineer, Product](https://www.linkedin.com/jobs/view/4436287315/) — ClickHouse
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-07-07
