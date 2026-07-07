@@ -1,141 +1,115 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area)
-*Last updated: 2026-07-07 00:18 UTC*
+*Last updated: 2026-07-07 01:18 UTC*
 
-**33 new role(s)** since last run · 36 total in last 1h
+**24 new role(s)** since last run · 46 total in last 1h
 
-### [AI Software Engineer](https://www.linkedin.com/jobs/view/4436259866/) — NVIDIA
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-07-07
-
-### [Senior Machine Learning Engineer](https://www.linkedin.com/jobs/view/4436277074/) — NVIDIA
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-07-07
-
-### [RL Environment Software Engineer](https://www.linkedin.com/jobs/view/4437492694/) — talentpluto
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $180,000.00/yr - $400,000.00/yr
-- 🕒 **Posted:** 2026-07-07
-
-### [Software Engineer - AI Research Clusters](https://www.linkedin.com/jobs/view/4436268489/) — NVIDIA
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-07-07
-
-### [Senior Software Engineer - AI Research Clusters](https://www.linkedin.com/jobs/view/4436278021/) — NVIDIA
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-07-07
-
-### [Research Software Engineer, Calibration, MQS Center for Quantum Computing](https://www.linkedin.com/jobs/view/4437494429/) — Amazon Web Services (AWS)
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-07-07
-
-### [HPC Platform Engineer, Software, Center for Quantum Computing](https://www.linkedin.com/jobs/view/4437480842/) — Amazon Web Services (AWS)
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-07-07
-
-### [Software Engineer, Android, Level 4](https://www.linkedin.com/jobs/view/4437496311/) — Snap Inc.
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-07-07
-
-### [Software Engineer, Android, Level 4](https://www.linkedin.com/jobs/view/4437498129/) — Snap Inc.
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-07-07
-
-### [Lead Software Engineer (Backend)](https://www.linkedin.com/jobs/view/4436272369/) — Happen Bank
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-07-07
-
-### [Lead Data Scientist](https://www.linkedin.com/jobs/view/4436262742/) — Brisk Teaching
-- 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-07-07
-
-### [Applied Scientist, Shopping Convo Foundations - Pre-purchases Science, Shopping Convo Foundations - Pre-purchases Science](https://www.linkedin.com/jobs/view/4437490621/) — Amazon
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-07-07
-
-### [Senior Storage Software Engineer, DGXC Data Services](https://www.linkedin.com/jobs/view/4436254969/) — NVIDIA
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-07-07
-
-### [Data Product Manager, Generative AI](https://www.linkedin.com/jobs/view/4436257916/) — NVIDIA
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-07-07
-
-### [Embedded Software Engineer](https://www.linkedin.com/jobs/view/4437483776/) — Aditi Consulting
-- 📍 **Location:** Burlingame, CA
-- 💰 **Salary:** $82.00/hr - $87.00/hr
-- 🕒 **Posted:** 2026-07-07
-
-### [Security Engineer, Level 4](https://www.linkedin.com/jobs/view/4437476965/) — Snap Inc.
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-07-07
-
-### [Machine Learning Engineer](https://www.linkedin.com/jobs/view/4436268384/) — CoreViva
-- 📍 **Location:** Cupertino, CA
-- 🕒 **Posted:** 2026-07-06
-
-### [RL Environment Software Engineer](https://www.linkedin.com/jobs/view/4437476900/) — talentpluto
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $180,000.00/yr - $400,000.00/yr
-- 🕒 **Posted:** 2026-07-06
-
-### [LATAM - Data Science Engineer](https://www.linkedin.com/jobs/view/4433997735/) — Playsaurus Inc.
-- 📍 **Location:** Alameda, CA
-- 🕒 **Posted:** 2026-07-06
-
-### [Software Engineer](https://www.linkedin.com/jobs/view/4437478814/) — Pyka
-- 📍 **Location:** Alameda, CA
-- 🕒 **Posted:** 2026-07-06
-
-### [Lead Data Engineer](https://www.linkedin.com/jobs/view/4437479592/) — Visa
-- 📍 **Location:** Foster City, CA
-- 🕒 **Posted:** 2026-07-06
-
-### [Research Engineer](https://www.linkedin.com/jobs/view/4437483646/) — talentpluto
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $140,000.00/yr - $250,000.00/yr
-- 🕒 **Posted:** 2026-07-06
-
-### [Data Engineer](https://www.linkedin.com/jobs/view/4436116277/) — Relanto
-- 📍 **Location:** Fremont, CA
-- 🕒 **Posted:** 2026-07-06
-
-### [Senior Software Engineer, Agentic AI Platform](https://www.linkedin.com/jobs/view/4434504120/) — C3 AI
-- 📍 **Location:** Redwood City, CA
-- 🕒 **Posted:** 2026-07-06
-
-### [Backend Software Engineer, TikTok Multimedia Arch Creation Platform](https://www.linkedin.com/jobs/view/4436273211/) — TikTok
+### [Sr. Machine Learning Engineer](https://www.linkedin.com/jobs/view/4406232692/) — Illumio
 - 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-07-06
+- 💰 **Salary:** $191,000.00/yr - $220,000.00/yr
+- 🕒 **Posted:** 2026-07-07
 
-### [Embedded Software Engineer](https://www.linkedin.com/jobs/view/4436270448/) — SGS Consulting
-- 📍 **Location:** Burlingame, CA
-- 💰 **Salary:** $75.00/hr - $100.00/hr
-- 🕒 **Posted:** 2026-07-06
+### [Software Engineer](https://www.linkedin.com/jobs/view/4434509168/) — Rhombus Power Inc.
+- 📍 **Location:** Palo Alto, CA
+- 🕒 **Posted:** 2026-07-07
 
-### [Embedded Software Engineer](https://www.linkedin.com/jobs/view/4436275146/) — Creospan Inc.
-- 📍 **Location:** Burlingame, CA
-- 🕒 **Posted:** 2026-07-06
+### [Full Stack Software Engineer](https://www.linkedin.com/jobs/view/4427222595/) — Illumio
+- 📍 **Location:** San Jose, CA
+- 💰 **Salary:** $141,000.00/yr - $162,000.00/yr
+- 🕒 **Posted:** 2026-07-07
 
-### [Senior Software Engineer, Frontend Full Stack - HR Product](https://www.linkedin.com/jobs/view/4437486457/) — Rippling
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-07-06
-
-### [Senior Software Engineer, Backend - HR Product](https://www.linkedin.com/jobs/view/4437478790/) — Rippling
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-07-06
-
-### [Senior Software Engineer, Backend Full Stack - HR Product](https://www.linkedin.com/jobs/view/4437485536/) — Rippling
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-07-06
-
-### [LATAM - Backend Developer](https://www.linkedin.com/jobs/view/4434504200/) — Playsaurus Inc.
-- 📍 **Location:** Alameda, CA
-- 🕒 **Posted:** 2026-07-06
-
-### [Sr. Software Engineer - Falcon Fusion Product (Hybrid)](https://www.linkedin.com/jobs/view/4434509072/) — CrowdStrike
+### [Senior ML Infrastructure Engineer](https://www.linkedin.com/jobs/view/4436267527/) — Applied Intuition
 - 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-07-06
+- 💰 **Salary:** $125,000.00/yr - $220,000.00/yr
+- 🕒 **Posted:** 2026-07-07
 
-### [Software Engineer](https://www.linkedin.com/jobs/view/4436277050/) — Stealth Startup
-- 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-07-06
+### [Sr. Security Data Scientist](https://www.linkedin.com/jobs/view/4414482292/) — Illumio
+- 📍 **Location:** San Jose, CA
+- 💰 **Salary:** $170,000.00/yr - $196,000.00/yr
+- 🕒 **Posted:** 2026-07-07
+
+### [Senior MLOps Engineer](https://www.linkedin.com/jobs/view/4436277164/) — Applied Intuition
+- 📍 **Location:** Sunnyvale, CA
+- 💰 **Salary:** $125,000.00/yr - $220,000.00/yr
+- 🕒 **Posted:** 2026-07-07
+
+### [Hardware-Software Systems Engineer](https://www.linkedin.com/jobs/view/4434502377/) — Rose International
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-07-07
+
+### [AI Engineer On-site San Francisco $200K - $250K](https://www.linkedin.com/jobs/view/4437712044/) — RS Global Services
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-07-07
+
+### [Software Engineering SMTS](https://www.linkedin.com/jobs/view/4437704347/) — Salesforce
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-07-07
+
+### [Software Engineer SMTS/ MTS](https://www.linkedin.com/jobs/view/4437702411/) — Salesforce
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-07-07
+
+### [Senior AI Platform Engineer - Frisco](https://www.linkedin.com/jobs/view/4436278243/) — McAfee
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-07-07
+
+### [Sr. Software Engineer, Cloud Security](https://www.linkedin.com/jobs/view/4388991540/) — Illumio
+- 📍 **Location:** San Jose, CA
+- 💰 **Salary:** $170,000.00/yr - $196,000.00/yr
+- 🕒 **Posted:** 2026-07-07
+
+### [Sr. Full Stack Engineer](https://www.linkedin.com/jobs/view/4427254966/) — Illumio
+- 📍 **Location:** San Jose, CA
+- 💰 **Salary:** $170,000.00/yr - $196,000.00/yr
+- 🕒 **Posted:** 2026-07-07
+
+### [Senior Software Engineer - Supply Core (Fullstack)](https://www.linkedin.com/jobs/view/4437710232/) — StubHub
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-07-07
+
+### [Senior Frontend Engineer (Full-Stack)](https://www.linkedin.com/jobs/view/4436276200/) — Applied Intuition
+- 📍 **Location:** Sunnyvale, CA
+- 💰 **Salary:** $150,000.00/yr - $240,000.00/yr
+- 🕒 **Posted:** 2026-07-07
+
+### [Sr. Software Engineer](https://www.linkedin.com/jobs/view/4388978995/) — Illumio
+- 📍 **Location:** San Jose, CA
+- 💰 **Salary:** $170,000.00/yr - $196,000.00/yr
+- 🕒 **Posted:** 2026-07-07
+
+### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4404448500/) — Illumio
+- 📍 **Location:** San Jose, CA
+- 💰 **Salary:** $170,000.00/yr - $196,000.00/yr
+- 🕒 **Posted:** 2026-07-07
+
+### [Senior Software Engineer - Supply Integrations](https://www.linkedin.com/jobs/view/4437710234/) — StubHub
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-07-07
+
+### [Distributed Systems Engineer](https://www.linkedin.com/jobs/view/4436273589/) — Beam
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $160,000.00/yr - $200,000.00/yr
+- 🕒 **Posted:** 2026-07-07
+
+### [Site Reliability Engineer](https://www.linkedin.com/jobs/view/4436275423/) — Beam
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-07-07
+
+### [Software Engineer, Cloud Security](https://www.linkedin.com/jobs/view/4388979848/) — Illumio
+- 📍 **Location:** San Jose, CA
+- 💰 **Salary:** $141,000.00/yr - $162,000.00/yr
+- 🕒 **Posted:** 2026-07-07
+
+### [Sr. Site Reliability Engineer](https://www.linkedin.com/jobs/view/4414445152/) — Illumio
+- 📍 **Location:** San Jose, CA
+- 💰 **Salary:** $170,000.00/yr - $196,000.00/yr
+- 🕒 **Posted:** 2026-07-07
+
+### [Sr. Site Reliability Engineer](https://www.linkedin.com/jobs/view/4426025809/) — Illumio
+- 📍 **Location:** San Jose, CA
+- 💰 **Salary:** $170,000.00/yr - $196,000.00/yr
+- 🕒 **Posted:** 2026-07-07
+
+### [Sr. Site Reliability Engineer](https://www.linkedin.com/jobs/view/4426028633/) — Illumio
+- 📍 **Location:** San Jose, CA
+- 💰 **Salary:** $170,000.00/yr - $196,000.00/yr
+- 🕒 **Posted:** 2026-07-07
