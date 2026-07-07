@@ -1,85 +1,129 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area)
-*Last updated: 2026-07-07 21:17 UTC*
+*Last updated: 2026-07-07 22:17 UTC*
 
-**20 new role(s)** since last run · 37 total in last 1h
+**29 new role(s)** since last run · 33 total in last 1h
 
-### [Forward Deployed AI Engineer](https://www.linkedin.com/jobs/view/4434586353/) — AMD
-- 📍 **Location:** Santa Clara, CA
-- 💰 **Salary:** $204,000.00/yr - $306,000.00/yr
+### [Software Engineer, ML Tools](https://www.linkedin.com/jobs/view/4436871046/) — Waymo
+- 📍 **Location:** Mountain View, CA
 - 🕒 **Posted:** 2026-07-07
 
-### [Machine Learning Engineer](https://www.linkedin.com/jobs/view/4427790061/) — Intel
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-07-07
-
-### [Software Engineer](https://www.linkedin.com/jobs/view/4437875492/) — Rec Gen
+### [Senior Machine Learning Engineer](https://www.linkedin.com/jobs/view/4436866182/) — SAP
 - 📍 **Location:** Palo Alto, CA
 - 🕒 **Posted:** 2026-07-07
 
-### [Software Engineer - ML Model Training](https://www.linkedin.com/jobs/view/4434579637/) — Weights & Biases
+### [Lead Data Scientist](https://www.linkedin.com/jobs/view/4429484459/) — Galent
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-07-07
+
+### [Senior Software Engineer, AI](https://www.linkedin.com/jobs/view/4436846972/) — Flow Engineering
+- 📍 **Location:** San Francisco Bay Area
+- 💰 **Salary:** $190,000.00/yr - $280,000.00/yr
+- 🕒 **Posted:** 2026-07-07
+
+### [Software Engineer - AI Agent](https://www.linkedin.com/jobs/view/4436851890/) — Jobright.ai
+- 📍 **Location:** San Mateo County, CA
+- 🕒 **Posted:** 2026-07-07
+
+### [Senior Data Platform Engineer- Weights & Biases](https://www.linkedin.com/jobs/view/4434593248/) — Weights & Biases
 - 📍 **Location:** Sunnyvale, CA
 - 🕒 **Posted:** 2026-07-07
 
-### [Data Scientist (Entry Level) - GSCS](https://www.linkedin.com/jobs/view/4434580636/) — KLA
-- 📍 **Location:** Milpitas, CA
-- 🕒 **Posted:** 2026-07-07
-
-### [Senior Data Scientist, AI & App Experience](https://www.linkedin.com/jobs/view/4434588276/) — Chime
+### [Senior Data Platform Engineer- Weights & Biases](https://www.linkedin.com/jobs/view/4434584517/) — Weights & Biases
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-07-07
 
-### [Software Engineer - ML Model Training](https://www.linkedin.com/jobs/view/4434578735/) — Weights & Biases
+### [USA Software Engineer III](https://www.linkedin.com/jobs/view/4434592383/) — Walmart
+- 📍 **Location:** Sunnyvale, CA
+- 💰 **Salary:** $117,000.00/yr - $234,000.00/yr
+- 🕒 **Posted:** 2026-07-07
+
+### [Workforce Data Engineer](https://www.linkedin.com/jobs/view/4437890685/) — UCSF Health
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-07-07
 
-### [Software Engineer - Agent Harness](https://www.linkedin.com/jobs/view/4427798060/) — Intel
-- 📍 **Location:** Santa Clara, CA
+### [Computational Scientist](https://www.linkedin.com/jobs/view/4434585538/) — Pharmaceutical Company
+- 📍 **Location:** South San Francisco, CA
+- 💰 **Salary:** $50.00/hr - $62.00/hr
 - 🕒 **Posted:** 2026-07-07
 
-### [Quantum Error Correction Software Engineer](https://www.linkedin.com/jobs/view/4428074646/) — Intel
-- 📍 **Location:** Santa Clara, CA
+### [(USA) Software Engineer III](https://www.linkedin.com/jobs/view/4434582711/) — Walmart
+- 📍 **Location:** Sunnyvale, CA
+- 💰 **Salary:** $117,000.00/yr - $234,000.00/yr
 - 🕒 **Posted:** 2026-07-07
 
-### [Software Engineer III , Caching](https://www.linkedin.com/jobs/view/4437883085/) — Box
-- 📍 **Location:** Redwood City, CA
+### [(USA) Software Engineer III](https://www.linkedin.com/jobs/view/4434583622/) — Walmart
+- 📍 **Location:** Sunnyvale, CA
+- 💰 **Salary:** $117,000.00/yr - $234,000.00/yr
 - 🕒 **Posted:** 2026-07-07
 
-### [Embedded Software Engineer](https://www.linkedin.com/jobs/view/4437883065/) — Tailored Management
-- 📍 **Location:** Burlingame, CA
+### [Software Engineer III](https://www.linkedin.com/jobs/view/4434586592/) — Walmart
+- 📍 **Location:** Sunnyvale, CA
+- 💰 **Salary:** $117,000.00/yr - $234,000.00/yr
 - 🕒 **Posted:** 2026-07-07
 
-### [Robotics Software Engineer](https://www.linkedin.com/jobs/view/4436857286/) — IPolarity
+### [Software Engineer (simulation)](https://www.linkedin.com/jobs/view/4437890528/) — Cisco
 - 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-07-07
 
-### [Senior AI Software Engineer – Agentic AI System](https://www.linkedin.com/jobs/view/4436517761/) — Intel
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-07-07
-
-### [Senior AWS AgentCore Platform Engineer/Architect IRC292142](https://www.linkedin.com/jobs/view/4436865092/) — GlobalLogic
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-07-07
-
-### [Platform Security Engineering, Operating Systems](https://www.linkedin.com/jobs/view/4436836951/) — Anthropic
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-07-07
-
-### [Senior Data Engineer](https://www.linkedin.com/jobs/view/4435251173/) — Red Oak Technologies
-- 📍 **Location:** Cupertino, CA
-- 🕒 **Posted:** 2026-07-07
-
-### [Data Engineer with Palantir Foundry - W2](https://www.linkedin.com/jobs/view/4437890162/) — Ascii Group, LLC
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-07-07
-
-### [Senior Software Engineer, W&B Agent - W&B](https://www.linkedin.com/jobs/view/4434578725/) — Weights & Biases
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-07-07
-
-### [Senior Software Engineer, W&B Agent - W&B](https://www.linkedin.com/jobs/view/4434587364/) — Weights & Biases
+### [(USA) Senior, Software Engineer](https://www.linkedin.com/jobs/view/4434593365/) — Walmart
 - 📍 **Location:** Sunnyvale, CA
 - 🕒 **Posted:** 2026-07-07
 
-### [Senior SCADA Controls Systems Engineer - Battery Storage](https://www.linkedin.com/jobs/view/4437871528/) — Plus Power
+### [[W2] UI Fullstack Engineer](https://www.linkedin.com/jobs/view/4437899139/) — AMISEQ
+- 📍 **Location:** Oakland, CA
+- 🕒 **Posted:** 2026-07-07
+
+### [Software Engineer](https://www.linkedin.com/jobs/view/4436857640/) — Jobright.ai
+- 📍 **Location:** Los Altos, CA
+- 🕒 **Posted:** 2026-07-07
+
+### [(USA) Senior, Software Engineer](https://www.linkedin.com/jobs/view/4434588547/) — Sam's Club
+- 📍 **Location:** Sunnyvale, CA
+- 💰 **Salary:** $117,000.00/yr - $234,000.00/yr
+- 🕒 **Posted:** 2026-07-07
+
+### [Senior Front-End Engineer, Web Dev Lead](https://www.linkedin.com/jobs/view/4434573959/) — Unconventional AI
+- 📍 **Location:** Palo Alto, CA
+- 🕒 **Posted:** 2026-07-07
+
+### [Senior DevOps Engineer](https://www.linkedin.com/jobs/view/4437896282/) — HP
+- 📍 **Location:** Palo Alto, CA
+- 🕒 **Posted:** 2026-07-07
+
+### [Bioinformatics Cloud Engineer](https://www.linkedin.com/jobs/view/4436872115/) — Dualitas Therapeutics
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-07-07
+
+### [Data Engineer - Palantir Foundry and AWS Kendra exp.](https://www.linkedin.com/jobs/view/4437882889/) — METRIX IT SOLUTIONS INC
 - 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-07-07
+
+### [Senior Platform Engineer](https://www.linkedin.com/jobs/view/4423363153/) — Authorium
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-07-07
+
+### [Cyber Security Engineer](https://www.linkedin.com/jobs/view/4437892427/) — Lawrence Livermore National Laboratory
+- 📍 **Location:** Livermore, CA
+- 🕒 **Posted:** 2026-07-07
+
+### [Full-Stack Engineer](https://www.linkedin.com/jobs/view/4436854664/) — TheCorporate
+- 📍 **Location:** Oakland, CA
+- 🕒 **Posted:** 2026-07-07
+
+### [(USA) Senior, Software Engineer](https://www.linkedin.com/jobs/view/4434573994/) — Sam's Club
+- 📍 **Location:** Sunnyvale, CA
+- 💰 **Salary:** $117,000.00/yr - $234,000.00/yr
+- 🕒 **Posted:** 2026-07-07
+
+### [Data Solutions Architect – Cloud Data Platform & Multi Tenancy](https://www.linkedin.com/jobs/view/4434577813/) — PineQ Lab Technology
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-07-07
+
+### [Computational Scientist II](https://www.linkedin.com/jobs/view/4434575783/) — TALENT Software Services
+- 📍 **Location:** South San Francisco, CA
+- 💰 **Salary:** $50.00/hr - $65.00/hr
+- 🕒 **Posted:** 2026-07-07
+
+### [Optics Inspection Analysis Software Developer](https://www.linkedin.com/jobs/view/4437887584/) — Lawrence Livermore National Laboratory
+- 📍 **Location:** Livermore, CA
 - 🕒 **Posted:** 2026-07-07
