@@ -1,129 +1,117 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area)
-*Last updated: 2026-07-07 22:17 UTC*
+*Last updated: 2026-07-07 23:18 UTC*
 
-**29 new role(s)** since last run · 33 total in last 1h
+**27 new role(s)** since last run · 49 total in last 1h
 
-### [Software Engineer, ML Tools](https://www.linkedin.com/jobs/view/4436871046/) — Waymo
-- 📍 **Location:** Mountain View, CA
+### [Senior Data Scientist #4887](https://www.linkedin.com/jobs/view/4436860892/) — GRAIL
+- 📍 **Location:** Menlo Park, CA
 - 🕒 **Posted:** 2026-07-07
 
-### [Senior Machine Learning Engineer](https://www.linkedin.com/jobs/view/4436866182/) — SAP
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-07-07
-
-### [Lead Data Scientist](https://www.linkedin.com/jobs/view/4429484459/) — Galent
-- 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-07-07
-
-### [Senior Software Engineer, AI](https://www.linkedin.com/jobs/view/4436846972/) — Flow Engineering
-- 📍 **Location:** San Francisco Bay Area
-- 💰 **Salary:** $190,000.00/yr - $280,000.00/yr
-- 🕒 **Posted:** 2026-07-07
-
-### [Software Engineer - AI Agent](https://www.linkedin.com/jobs/view/4436851890/) — Jobright.ai
-- 📍 **Location:** San Mateo County, CA
-- 🕒 **Posted:** 2026-07-07
-
-### [Senior Data Platform Engineer- Weights & Biases](https://www.linkedin.com/jobs/view/4434593248/) — Weights & Biases
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-07-07
-
-### [Senior Data Platform Engineer- Weights & Biases](https://www.linkedin.com/jobs/view/4434584517/) — Weights & Biases
+### [Data Scientist](https://www.linkedin.com/jobs/view/4436862523/) — Jobright.ai
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-07-07
 
-### [USA Software Engineer III](https://www.linkedin.com/jobs/view/4434592383/) — Walmart
-- 📍 **Location:** Sunnyvale, CA
-- 💰 **Salary:** $117,000.00/yr - $234,000.00/yr
-- 🕒 **Posted:** 2026-07-07
-
-### [Workforce Data Engineer](https://www.linkedin.com/jobs/view/4437890685/) — UCSF Health
+### [Senior ML Engineer](https://www.linkedin.com/jobs/view/4436862502/) — Jobright.ai
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-07-07
 
-### [Computational Scientist](https://www.linkedin.com/jobs/view/4434585538/) — Pharmaceutical Company
-- 📍 **Location:** South San Francisco, CA
-- 💰 **Salary:** $50.00/hr - $62.00/hr
+### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4434593599/) — Oscar
+- 📍 **Location:** San Jose, CA
+- 💰 **Salary:** $250,000.00/yr - $300,000.00/yr
 - 🕒 **Posted:** 2026-07-07
 
-### [(USA) Software Engineer III](https://www.linkedin.com/jobs/view/4434582711/) — Walmart
-- 📍 **Location:** Sunnyvale, CA
-- 💰 **Salary:** $117,000.00/yr - $234,000.00/yr
+### [Senior Data Engineer (1043) - DataSF - Office of City Administrator](https://www.linkedin.com/jobs/view/4437893548/) — City and County of San Francisco
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-07-07
 
-### [(USA) Software Engineer III](https://www.linkedin.com/jobs/view/4434583622/) — Walmart
-- 📍 **Location:** Sunnyvale, CA
-- 💰 **Salary:** $117,000.00/yr - $234,000.00/yr
+### [AI Engineer](https://www.linkedin.com/jobs/view/4436870520/) — Jobright.ai
+- 📍 **Location:** Santa Clara County, CA
 - 🕒 **Posted:** 2026-07-07
 
-### [Software Engineer III](https://www.linkedin.com/jobs/view/4434586592/) — Walmart
-- 📍 **Location:** Sunnyvale, CA
-- 💰 **Salary:** $117,000.00/yr - $234,000.00/yr
+### [Senior AI Engineer](https://www.linkedin.com/jobs/view/4438104142/) — Shipt
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-07-07
 
-### [Software Engineer (simulation)](https://www.linkedin.com/jobs/view/4437890528/) — Cisco
+### [Senior AI Engineer](https://www.linkedin.com/jobs/view/4437898284/) — Shipt
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-07-07
+
+### [Site Reliability Engineer (SRE)](https://www.linkedin.com/jobs/view/4434582964/) — Retool
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $163,710.00/yr - $306,000.00/yr
+- 🕒 **Posted:** 2026-07-07
+
+### [Site Reliability Engineer - Video Platform - USDS](https://www.linkedin.com/jobs/view/4412956813/) — TikTok USDS Joint Venture
 - 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-07-07
 
-### [(USA) Senior, Software Engineer](https://www.linkedin.com/jobs/view/4434593365/) — Walmart
+### [Senior Software Engineer, W&B Agent - W&B](https://www.linkedin.com/jobs/view/4434578725/) — Weights & Biases
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-07-07
+
+### [Senior Software Engineer, Product](https://www.linkedin.com/jobs/view/4436874136/) — Jobright.ai
+- 📍 **Location:** Burlingame, CA
+- 🕒 **Posted:** 2026-07-07
+
+### [Senior Software Engineer, W&B Agent - W&B](https://www.linkedin.com/jobs/view/4434587364/) — Weights & Biases
 - 📍 **Location:** Sunnyvale, CA
 - 🕒 **Posted:** 2026-07-07
 
-### [[W2] UI Fullstack Engineer](https://www.linkedin.com/jobs/view/4437899139/) — AMISEQ
-- 📍 **Location:** Oakland, CA
+### [Software Engineer](https://www.linkedin.com/jobs/view/4436857788/) — Infotree Global Solutions
+- 📍 **Location:** Cupertino, CA
+- 💰 **Salary:** $70.00/hr - $75.00/hr
 - 🕒 **Posted:** 2026-07-07
 
-### [Software Engineer](https://www.linkedin.com/jobs/view/4436857640/) — Jobright.ai
-- 📍 **Location:** Los Altos, CA
+### [Backend Software Engineer](https://www.linkedin.com/jobs/view/4436858795/) — edkey
+- 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-07-07
 
-### [(USA) Senior, Software Engineer](https://www.linkedin.com/jobs/view/4434588547/) — Sam's Club
-- 📍 **Location:** Sunnyvale, CA
-- 💰 **Salary:** $117,000.00/yr - $234,000.00/yr
+### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4434575995/) — Sony Interactive Entertainment
+- 📍 **Location:** San Mateo, CA
 - 🕒 **Posted:** 2026-07-07
 
-### [Senior Front-End Engineer, Web Dev Lead](https://www.linkedin.com/jobs/view/4434573959/) — Unconventional AI
-- 📍 **Location:** Palo Alto, CA
+### [Senior Full Stack Engineer](https://www.linkedin.com/jobs/view/4437896438/) — Dealpath
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-07-07
 
-### [Senior DevOps Engineer](https://www.linkedin.com/jobs/view/4437896282/) — HP
-- 📍 **Location:** Palo Alto, CA
+### [Senior Software Engineer, Client Systems (C++)](https://www.linkedin.com/jobs/view/4436863673/) — Roblox
+- 📍 **Location:** San Mateo, CA
 - 🕒 **Posted:** 2026-07-07
 
-### [Bioinformatics Cloud Engineer](https://www.linkedin.com/jobs/view/4436872115/) — Dualitas Therapeutics
+### [Software Engineer](https://www.linkedin.com/jobs/view/4438100173/) — Apex Systems
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $200.00/hr - $255.00/hr
+- 🕒 **Posted:** 2026-07-07
+
+### [Backend Engineer (Swift)](https://www.linkedin.com/jobs/view/4436857790/) — Bayside Solutions
+- 📍 **Location:** Cupertino, CA
+- 🕒 **Posted:** 2026-07-07
+
+### [Senior Data Engineer](https://www.linkedin.com/jobs/view/4427633654/) — Harnham
 - 📍 **Location:** San Francisco Bay Area
+- 💰 **Salary:** $180,000.00/yr - $240,000.00/yr
 - 🕒 **Posted:** 2026-07-07
 
-### [Data Engineer - Palantir Foundry and AWS Kendra exp.](https://www.linkedin.com/jobs/view/4437882889/) — METRIX IT SOLUTIONS INC
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-07-07
-
-### [Senior Platform Engineer](https://www.linkedin.com/jobs/view/4423363153/) — Authorium
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-07-07
-
-### [Cyber Security Engineer](https://www.linkedin.com/jobs/view/4437892427/) — Lawrence Livermore National Laboratory
-- 📍 **Location:** Livermore, CA
-- 🕒 **Posted:** 2026-07-07
-
-### [Full-Stack Engineer](https://www.linkedin.com/jobs/view/4436854664/) — TheCorporate
-- 📍 **Location:** Oakland, CA
-- 🕒 **Posted:** 2026-07-07
-
-### [(USA) Senior, Software Engineer](https://www.linkedin.com/jobs/view/4434573994/) — Sam's Club
-- 📍 **Location:** Sunnyvale, CA
-- 💰 **Salary:** $117,000.00/yr - $234,000.00/yr
-- 🕒 **Posted:** 2026-07-07
-
-### [Data Solutions Architect – Cloud Data Platform & Multi Tenancy](https://www.linkedin.com/jobs/view/4434577813/) — PineQ Lab Technology
+### [Senior Core Infrastructure Engineer](https://www.linkedin.com/jobs/view/4434577986/) — Oracle
 - 📍 **Location:** Santa Clara, CA
 - 🕒 **Posted:** 2026-07-07
 
-### [Computational Scientist II](https://www.linkedin.com/jobs/view/4434575783/) — TALENT Software Services
-- 📍 **Location:** South San Francisco, CA
-- 💰 **Salary:** $50.00/hr - $65.00/hr
+### [IT Infrastructure Engineer](https://www.linkedin.com/jobs/view/4437890702/) — Trident Consulting
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-07-07
 
-### [Optics Inspection Analysis Software Developer](https://www.linkedin.com/jobs/view/4437887584/) — Lawrence Livermore National Laboratory
-- 📍 **Location:** Livermore, CA
+### [Senior Systems Engineer, Compute](https://www.linkedin.com/jobs/view/4437899209/) — Crusoe
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-07-07
+
+### [Infrastructure Engineering and Operations Manager - Last Mile & Edge Compute](https://www.linkedin.com/jobs/view/4437894358/) — Marathon Petroleum Corporation
+- 📍 **Location:** Martinez, CA
+- 🕒 **Posted:** 2026-07-07
+
+### [Security Engineer III](https://www.linkedin.com/jobs/view/4434591602/) — Ross Stores, Inc.
+- 📍 **Location:** Dublin, CA
+- 🕒 **Posted:** 2026-07-07
+
+### [Data Scientist, Product Analytics - USDS](https://www.linkedin.com/jobs/view/4412954961/) — TikTok USDS Joint Venture
+- 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-07-07
