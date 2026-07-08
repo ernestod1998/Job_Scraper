@@ -1,106 +1,64 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area)
-*Last updated: 2026-07-08 20:17 UTC*
+*Last updated: 2026-07-08 21:17 UTC*
 
-**24 new role(s)** since last run · 43 total in last 1h
+**14 new role(s)** since last run · 26 total in last 1h
 
-### [Data Scientist](https://www.linkedin.com/jobs/view/4438297110/) — TalentAlly
-- 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-07-08
-
-### [Software Engineer - Backend](https://www.linkedin.com/jobs/view/4438510051/) — Cardless
+### [AI Research Engineer - Hardware Environments](https://www.linkedin.com/jobs/view/4437317030/) — ARCVEREX
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-07-08
 
-### [Senior Software Engineer - Systems](https://www.linkedin.com/jobs/view/4438292859/) — Boson AI
-- 📍 **Location:** Santa Clara, CA
-- 💰 **Salary:** $150,000.00/yr - $400,000.00/yr
+### [Python Backend Engineer](https://www.linkedin.com/jobs/view/4434895304/) — Resource Logistics Inc.
+- 📍 **Location:** San Jose, CA
+- 💰 **Salary:** $60.00/hr - $65.00/hr
 - 🕒 **Posted:** 2026-07-08
 
-### [Frontend Software Engineer](https://www.linkedin.com/jobs/view/4438505342/) — Pi Security
+### [Data Engineer (AI Pipelines)](https://www.linkedin.com/jobs/view/4438517015/) — DeWinter Group
+- 📍 **Location:** Campbell, CA
+- 🕒 **Posted:** 2026-07-08
+
+### [Lead Software Engineer, Identity](https://www.linkedin.com/jobs/view/4317493070/) — Zeta Global
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-07-08
 
-### [Data Scientist](https://www.linkedin.com/jobs/view/4437306180/) — Jobright.ai
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-07-08
-
-### [Robotics Research Engineer](https://www.linkedin.com/jobs/view/4438292770/) — Trener Robotics
+### [AI Architect cum Data Scientist](https://www.linkedin.com/jobs/view/4434885972/) — Signature IT World Inc
 - 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-07-08
 
-### [Platform Engineer](https://www.linkedin.com/jobs/view/4438292787/) — Pi Security
+### [Agentic AI Engineer](https://www.linkedin.com/jobs/view/4437097866/) — AllianceIT Inc
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-07-08
+
+### [Full Stack Engineer (End to End)](https://www.linkedin.com/jobs/view/4437314174/) — TheCorporate
+- 📍 **Location:** Oakland, CA
+- 💰 **Salary:** $80.00/hr - $87.00/hr
+- 🕒 **Posted:** 2026-07-08
+
+### [Sr. Data Engineer](https://www.linkedin.com/jobs/view/4438508580/) — SS&C Technologies
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-07-08
 
-### [Senior Machine Learning Engineer](https://www.linkedin.com/jobs/view/4437312010/) — EvenUp
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $196,000.00/yr - $265,000.00/yr
+### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4437303374/) — Signify Technology
+- 📍 **Location:** Menlo Park, CA
 - 🕒 **Posted:** 2026-07-08
 
-### [AI Engineer - Dragonfly Portfolio](https://www.linkedin.com/jobs/view/4437305263/) — Dragonfly
-- 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-07-08
-
-### [AI Engineer, Search & Knowledge Systems](https://www.linkedin.com/jobs/view/4438287969/) — Pi Security
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-07-08
-
-### [Intern - Software Engineer, AI User Experience](https://www.linkedin.com/jobs/view/4438299442/) — Rakuten International
-- 📍 **Location:** San Mateo, CA
-- 🕒 **Posted:** 2026-07-08
-
-### [Backend Engineer](https://www.linkedin.com/jobs/view/4438509105/) — Pi Security
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-07-08
-
-### [Early Career AI Engineer (Contract)](https://www.linkedin.com/jobs/view/4438294596/) — Rakuten International
-- 📍 **Location:** San Mateo, CA
-- 🕒 **Posted:** 2026-07-08
-
-### [Sr. Software Engineer, CDN (Starlink)](https://www.linkedin.com/jobs/view/4438295565/) — SpaceX
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-07-08
-
-### [Full Stack Engineer](https://www.linkedin.com/jobs/view/4438504137/) — Arcadia
-- 📍 **Location:** San Francisco Bay Area
-- 💰 **Salary:** $100,000.00/yr - $200,000.00/yr
-- 🕒 **Posted:** 2026-07-08
-
-### [Fullstack Engineer, Ambient AI](https://www.linkedin.com/jobs/view/4438290806/) — Athelas
+### [Java Backend Developer](https://www.linkedin.com/jobs/view/4436225128/) — Divish Consulting
 - 📍 **Location:** Mountain View, CA
-- 💰 **Salary:** $130,000.00/yr - $180,000.00/yr
 - 🕒 **Posted:** 2026-07-08
 
-### [Senior Mobile Cross Platform Engineer](https://www.linkedin.com/jobs/view/4435602030/) — Chime
-- 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-07-08
-
-### [Senior Software Engineer, Platform](https://www.linkedin.com/jobs/view/4434888808/) — Chime
+### [Android Platform Engineer | Contract W2](https://www.linkedin.com/jobs/view/4431854087/) — Next Gen Software Solutions LLC
 - 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $50.00/hr - $55.00/hr
 - 🕒 **Posted:** 2026-07-08
 
-### [IT Systems Engineer](https://www.linkedin.com/jobs/view/4438286866/) — Litmus
-- 📍 **Location:** Santa Clara, CA
-- 💰 **Salary:** $100,000.00/yr - $120,000.00/yr
+### [Embedded Software Engineer (C/C++)](https://www.linkedin.com/jobs/view/4427133014/) — Luxoft
+- 📍 **Location:** Mountain View, CA
 - 🕒 **Posted:** 2026-07-08
 
-### [System Security Engineer](https://www.linkedin.com/jobs/view/4437092619/) — Denken Solutions, Inc.
-- 📍 **Location:** Foster City, CA
-- 🕒 **Posted:** 2026-07-08
-
-### [Growth Data Engineer](https://www.linkedin.com/jobs/view/4437307187/) — Jobright.ai
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-07-08
-
-### [Computational Scientist II](https://www.linkedin.com/jobs/view/4437882741/) — The Fountain Group
-- 📍 **Location:** South San Francisco, CA
-- 🕒 **Posted:** 2026-07-08
-
-### [Computational Scientist II](https://www.linkedin.com/jobs/view/4438287464/) — BEPC Inc. - Business Excellence Professional Consulting
-- 📍 **Location:** South San Francisco, CA
-- 💰 **Salary:** $60.94/yr - $62.94/yr
-- 🕒 **Posted:** 2026-07-08
-
-### [Software Engineer, CDN (Starlink)](https://www.linkedin.com/jobs/view/4438296564/) — SpaceX
+### [Senior Data Engineer](https://www.linkedin.com/jobs/view/4438502931/) — iFlow Inc.
 - 📍 **Location:** Palo Alto, CA
+- 💰 **Salary:** $89.00/hr - $94.00/hr
+- 🕒 **Posted:** 2026-07-08
+
+### [Bioinformatics Scientist](https://www.linkedin.com/jobs/view/4419650237/) — Discover International
+- 📍 **Location:** San Francisco Bay Area
 - 🕒 **Posted:** 2026-07-08
