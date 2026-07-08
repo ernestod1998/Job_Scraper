@@ -1,19 +1,19 @@
 # 🇺🇸 USAJOBS — Federal Roles
-*Last updated: 2026-07-07 17:35 UTC*
+*Last updated: 2026-07-08 17:04 UTC*
 
-**3 new role(s)** since last run · 22 total in current USAJOBS postings
+**3 new role(s)** since last run · 25 total in current USAJOBS postings
 
-### [DATA AND AI ENGINEER/SCIENTIST](https://www.usajobs.gov/job/875502000) — Joint Activities
-- 📍 **Location:** Stuttgart, Germany
-- 💰 **Salary:** Starting at $90,925 Per year (GS 13)
-- 🕒 **Posted:** 2026-07-07
+### [Data Scientist - DIRECT HIRE](https://www.usajobs.gov/job/875648800) — Federal Transit Administration
+- 📍 **Location:** Denver, Colorado
+- 💰 **Salary:** Starting at $85,447 Per year (GS 11-13)
+- 🕒 **Posted:** 2026-07-08
 
-### [Data Scientist](https://www.usajobs.gov/job/875473800) — Veterans Health Administration
-- 📍 **Location:** Minneapolis, Minnesota
-- 💰 **Salary:** Starting at $116,038 Per year (GS 13)
-- 🕒 **Posted:** 2026-07-07
+### [Research Data Scientist](https://www.usajobs.gov/job/875648600) — Veterans Health Administration
+- 📍 **Location:** Bedford, Massachusetts
+- 💰 **Salary:** Starting at $0 Without compensation (ZZ 00)
+- 🕒 **Posted:** 2026-07-08
 
-### [Data Scientist - Experienced to Expert Level (Maryland)](https://www.usajobs.gov/job/875461200) — National Security Agency/Central Security Service
-- 📍 **Location:** Fort Meade, Maryland
-- 💰 **Salary:** Starting at $132,751 Per year (GG 13-15)
-- 🕒 **Posted:** 2026-07-06
+### [Data Scientist](https://www.usajobs.gov/job/875624400) — National Oceanic and Atmospheric Administration
+- 📍 **Location:** Boulder, Colorado
+- 💰 **Salary:** Starting at $74,678 Per year (ZP 3)
+- 🕒 **Posted:** 2026-07-08
