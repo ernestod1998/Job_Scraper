@@ -1,180 +1,136 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area)
-*Last updated: 2026-07-08 22:18 UTC*
+*Last updated: 2026-07-08 23:17 UTC*
 
-**38 new role(s)** since last run · 49 total in last 1h
+**31 new role(s)** since last run · 55 total in last 1h
 
-### [Software Engineer, Ambient AI](https://www.linkedin.com/jobs/view/4346548369/) — Commure
-- 📍 **Location:** Mountain View, CA
-- 💰 **Salary:** $130,000.00/yr - $180,000.00/yr
+### [AI Engineer ($150-$400K)](https://www.linkedin.com/jobs/view/4438517666/) — Fonzi AI
+- 📍 **Location:** San Francisco Bay Area
 - 🕒 **Posted:** 2026-07-08
 
-### [Software Engineer, Ambient AI](https://www.linkedin.com/jobs/view/4410363089/) — Commure
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $130,000.00/yr - $180,000.00/yr
+### [AI Engineer](https://www.linkedin.com/jobs/view/4437308725/) — Jobright.ai
+- 📍 **Location:** Santa Clara County, CA
 - 🕒 **Posted:** 2026-07-08
 
-### [Software Engineer, Air AI](https://www.linkedin.com/jobs/view/4416999961/) — Commure
-- 📍 **Location:** Mountain View, CA
-- 💰 **Salary:** $130,000.00/yr - $170,000.00/yr
+### [Senior Software Engineer ($200-$400K)](https://www.linkedin.com/jobs/view/4438527333/) — Fonzi AI
+- 📍 **Location:** San Francisco Bay Area
 - 🕒 **Posted:** 2026-07-08
 
-### [Senior Software Engineer, Air AI](https://www.linkedin.com/jobs/view/4415804754/) — Commure
+### [Robotics Software Engineer](https://www.linkedin.com/jobs/view/4379733817/) — Scout AI
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-07-08
+
+### [Backend Engineer, Ambient AI](https://www.linkedin.com/jobs/view/4413250517/) — Commure
 - 📍 **Location:** San Francisco, CA
 - 💰 **Salary:** $170,000.00/yr - $230,000.00/yr
 - 🕒 **Posted:** 2026-07-08
 
-### [Senior Software Engineer, Air AI](https://www.linkedin.com/jobs/view/4415808643/) — Commure
+### [Senior Software Engineer, R&D](https://www.linkedin.com/jobs/view/4434077910/) — Commure
 - 📍 **Location:** Mountain View, CA
-- 💰 **Salary:** $170,000.00/yr - $230,000.00/yr
+- 💰 **Salary:** $170,000.00/yr - $220,000.00/yr
 - 🕒 **Posted:** 2026-07-08
 
-### [Senior Software Engineer, Evals and AI Infra](https://www.linkedin.com/jobs/view/4318298390/) — Commure
+### [Applied Science / Data Science Leader](https://www.linkedin.com/jobs/view/4438519675/) — Attentive
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-07-08
+
+### [Software Engineer](https://www.linkedin.com/jobs/view/4438519514/) — Uber
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-07-08
+
+### [Software Engineer, R&D](https://www.linkedin.com/jobs/view/4435607235/) — ChatGPT Jobs
+- 📍 **Location:** Mountain View, CA
+- 🕒 **Posted:** 2026-07-08
+
+### [Lead ML Engineer](https://www.linkedin.com/jobs/view/4435601368/) — ChatGPT Jobs
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-07-08
+
+### [Full-Stack Software Engineer](https://www.linkedin.com/jobs/view/4437307752/) — Abby Care
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $150,000.00/yr - $190,000.00/yr
+- 🕒 **Posted:** 2026-07-08
+
+### [Senior Software Engineer, RCM Core](https://www.linkedin.com/jobs/view/4388329753/) — Commure
 - 📍 **Location:** Mountain View, CA
 - 💰 **Salary:** $170,000.00/yr - $240,000.00/yr
 - 🕒 **Posted:** 2026-07-08
 
-### [Software Engineer - AI Agent](https://www.linkedin.com/jobs/view/4437097975/) — Jobright.ai
-- 📍 **Location:** San Mateo County, CA
+### [Senior Software Engineer, Cloud Monitoring Service](https://www.linkedin.com/jobs/view/4438523413/) — Crusoe
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-07-08
 
-### [Software Developer](https://www.linkedin.com/jobs/view/4437307540/) — SCITON
+### [Senior Fullstack Engineer, Ambient AI](https://www.linkedin.com/jobs/view/4438508826/) — Commure
+- 📍 **Location:** Mountain View, CA
+- 🕒 **Posted:** 2026-07-08
+
+### [Infrastructure Engineer](https://www.linkedin.com/jobs/view/4437321270/) — Navi AI
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-07-08
+
+### [Site Reliability Engineer (SRE)](https://www.linkedin.com/jobs/view/4434582964/) — Retool
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $163,710.00/yr - $306,000.00/yr
+- 🕒 **Posted:** 2026-07-08
+
+### [Technical Lead Platform Engineer](https://www.linkedin.com/jobs/view/4437305856/) — Jobright.ai
 - 📍 **Location:** Palo Alto, CA
 - 🕒 **Posted:** 2026-07-08
 
-### [Software Engineer, Real-time Software](https://www.linkedin.com/jobs/view/4438510676/) — Johnson & Johnson MedTech
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-07-08
-
-### [Senior ML Engineer](https://www.linkedin.com/jobs/view/4437316352/) — Jobright.ai
+### [Senior Backend Engineer, Ambient AI](https://www.linkedin.com/jobs/view/4426482950/) — Commure
 - 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $170,000.00/yr - $230,000.00/yr
 - 🕒 **Posted:** 2026-07-08
 
-### [Software Engineer, R&D](https://www.linkedin.com/jobs/view/4436421471/) — Commure
+### [Sr Software Engineer](https://www.linkedin.com/jobs/view/4438526477/) — Badger Meter
+- 📍 **Location:** Los Gatos, CA
+- 🕒 **Posted:** 2026-07-08
+
+### [Senior Software Engineer, Patient Experience](https://www.linkedin.com/jobs/view/4338361913/) — Commure
 - 📍 **Location:** Mountain View, CA
-- 💰 **Salary:** $130,000.00/yr - $180,000.00/yr
 - 🕒 **Posted:** 2026-07-08
 
-### [Software Engineer, Air AI](https://www.linkedin.com/jobs/view/4417008892/) — Commure
+### [Senior Software Engineer, Evals and AI Infra](https://www.linkedin.com/jobs/view/4410364157/) — Commure
 - 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $130,000.00/yr - $170,000.00/yr
 - 🕒 **Posted:** 2026-07-08
 
-### [Fullstack Engineer, Ambient AI](https://www.linkedin.com/jobs/view/4438508827/) — Commure
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $130,000.00/yr - $180,000.00/yr
+### [Displays Software Engineer, C/C++](https://www.linkedin.com/jobs/view/4376813058/) — Reliable Robotics Corporation
+- 📍 **Location:** Mountain View, CA
 - 🕒 **Posted:** 2026-07-08
 
-### [Senior Full Stack Engineer, AI Experience](https://www.linkedin.com/jobs/view/4436228542/) — Kiddom
+### [Software Engineer - Learning Management Systems](https://www.linkedin.com/jobs/view/4438520631/) — The Mom Project
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-07-08
+
+### [Senior Software Engineer – Visual C++](https://www.linkedin.com/jobs/view/4438521514/) — Yoh, A Day & Zimmermann Company
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-07-08
+
+### [Senior Full Stack Engineer](https://www.linkedin.com/jobs/view/4438519602/) — Goliath Partners
 - 📍 **Location:** San Francisco Bay Area
-- 💰 **Salary:** $180,000.00/yr - $230,000.00/yr
 - 🕒 **Posted:** 2026-07-08
 
-### [Software Engineer](https://www.linkedin.com/jobs/view/4437313422/) — Jobright.ai
-- 📍 **Location:** Los Altos, CA
+### [Senior Frontend Engineer ($70m Series B)](https://www.linkedin.com/jobs/view/4437320417/) — Day One Partners
+- 📍 **Location:** San Francisco Bay Area
+- 💰 **Salary:** $150,000.00/yr - $230,000.00/yr
 - 🕒 **Posted:** 2026-07-08
 
-### [(USA) Software Engineer II](https://www.linkedin.com/jobs/view/4435611064/) — Walmart
-- 📍 **Location:** Sunnyvale, CA
-- 💰 **Salary:** $104,000.00/yr - $202,000.00/yr
-- 🕒 **Posted:** 2026-07-08
-
-### [Data Engineer (Python, Spark, GCP, PySpark) - Locals only & No c2c](https://www.linkedin.com/jobs/view/4435606108/) — Redolent, Inc
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-07-08
-
-### [Senior Software Engineer, Rejections & Denials](https://www.linkedin.com/jobs/view/4432502800/) — Commure
-- 📍 **Location:** Mountain View, CA
-- 💰 **Salary:** $170,000.00/yr - $240,000.00/yr
-- 🕒 **Posted:** 2026-07-08
-
-### [Senior Software Engineer, AI Integrations](https://www.linkedin.com/jobs/view/4432505647/) — Commure
+### [Senior Software Engineer, Rejections & Denials](https://www.linkedin.com/jobs/view/4432507640/) — Commure
 - 📍 **Location:** San Francisco, CA
 - 💰 **Salary:** $170,000.00/yr - $240,000.00/yr
 - 🕒 **Posted:** 2026-07-08
 
-### [Senior Software Engineer, AI Integrations](https://www.linkedin.com/jobs/view/4431184822/) — Commure
-- 📍 **Location:** Mountain View, CA
-- 💰 **Salary:** $170,000.00/yr - $240,000.00/yr
-- 🕒 **Posted:** 2026-07-08
-
-### [Senior Software Engineer, Information Security](https://www.linkedin.com/jobs/view/4410284972/) — Commure
-- 📍 **Location:** Mountain View, CA
-- 💰 **Salary:** $160,000.00/yr - $190,000.00/yr
-- 🕒 **Posted:** 2026-07-08
-
-### [Backend Engineer, Ambient AI](https://www.linkedin.com/jobs/view/4318505164/) — Commure
-- 📍 **Location:** Mountain View, CA
-- 💰 **Salary:** $170,000.00/yr - $230,000.00/yr
-- 🕒 **Posted:** 2026-07-08
-
-### [Senior Software Engineer, Ambient AI](https://www.linkedin.com/jobs/view/4410356514/) — Commure
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $170,000.00/yr - $230,000.00/yr
-- 🕒 **Posted:** 2026-07-08
-
-### [Senior Software Engineer, Ambient AI](https://www.linkedin.com/jobs/view/4335399819/) — Commure
-- 📍 **Location:** Mountain View, CA
-- 💰 **Salary:** $170,000.00/yr - $230,000.00/yr
-- 🕒 **Posted:** 2026-07-08
-
-### [Senior Software Engineer, Patient Experience](https://www.linkedin.com/jobs/view/4410351130/) — Commure
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $170,000.00/yr - $240,000.00/yr
-- 🕒 **Posted:** 2026-07-08
-
-### [Senior Software Engineer-Frontend](https://www.linkedin.com/jobs/view/4434893702/) — Scout Motors Inc.
-- 📍 **Location:** Fremont, CA
-- 🕒 **Posted:** 2026-07-08
-
-### [Senior Frontend Software Engineer](https://www.linkedin.com/jobs/view/4438511738/) — Cisco
+### [Senior Systems Engineer](https://www.linkedin.com/jobs/view/4437323468/) — California School Employees Association
 - 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-07-08
 
-### [Senior Software Engineer, RCM Core](https://www.linkedin.com/jobs/view/4410371007/) — Commure
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $170,000.00/yr - $240,000.00/yr
-- 🕒 **Posted:** 2026-07-08
-
-### [Senior Software Engineer-Backend](https://www.linkedin.com/jobs/view/4435605182/) — Scout Motors Inc.
-- 📍 **Location:** Fremont, CA
-- 🕒 **Posted:** 2026-07-08
-
-### [Senior NetSuite Software Engineer](https://www.linkedin.com/jobs/view/4438516350/) — Vika Talent Solutions
-- 📍 **Location:** Fremont, CA
-- 🕒 **Posted:** 2026-07-08
-
-### [Senior Backend Software Engineer/SRE - GM Energy](https://www.linkedin.com/jobs/view/4438513536/) — General Motors
+### [Client Platform Engineer](https://www.linkedin.com/jobs/view/4376814031/) — Reliable Robotics Corporation
 - 📍 **Location:** Mountain View, CA
 - 🕒 **Posted:** 2026-07-08
 
-### [Senior Mobile Infrastructure Engineer, Ambient AI](https://www.linkedin.com/jobs/view/4410358137/) — Commure
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $170,000.00/yr - $240,000.00/yr
-- 🕒 **Posted:** 2026-07-08
-
-### [Senior Backend Engineer, Ambient AI](https://www.linkedin.com/jobs/view/4426819044/) — Commure
+### [Senior Mobile Infrastructure Engineer, Ambient AI](https://www.linkedin.com/jobs/view/4380133163/) — Commure
 - 📍 **Location:** Mountain View, CA
-- 💰 **Salary:** $170,000.00/yr - $230,000.00/yr
 - 🕒 **Posted:** 2026-07-08
 
-### [Sr. DevOps / Cloud Engineer, Billing Infrastructure](https://www.linkedin.com/jobs/view/4437302609/) — Clover
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-07-08
-
-### [Sr. Cybersecurity Engineer, Energy](https://www.linkedin.com/jobs/view/4438519239/) — Tesla
-- 📍 **Location:** Fremont, CA
-- 🕒 **Posted:** 2026-07-08
-
-### [Software Engineer](https://www.linkedin.com/jobs/view/4437307527/) — Eastridge Workforce Solutions
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-07-08
-
-### [Senior Software Engineer, RCM Billing](https://www.linkedin.com/jobs/view/4432507642/) — Commure
-- 📍 **Location:** Mountain View, CA
-- 💰 **Salary:** $170,000.00/yr - $240,000.00/yr
-- 🕒 **Posted:** 2026-07-08
-
-### [Fullstack Engineer, Ambient AI](https://www.linkedin.com/jobs/view/4438516340/) — Commure
-- 📍 **Location:** Mountain View, CA
-- 💰 **Salary:** $130,000.00/yr - $180,000.00/yr
+### [AI Security Engineer](https://www.linkedin.com/jobs/view/4435614142/) — ChatGPT Jobs
+- 📍 **Location:** Palo Alto, CA
 - 🕒 **Posted:** 2026-07-08
