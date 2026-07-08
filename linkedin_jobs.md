@@ -1,43 +1,19 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area)
-*Last updated: 2026-07-08 01:06 UTC*
+*Last updated: 2026-07-08 01:17 UTC*
 
-**9 new role(s)** since last run · 22 total in last 1h
+**3 new role(s)** since last run · 19 total in last 1h
 
-### [Forward Deployed Machine Learning Engineer](https://www.linkedin.com/jobs/view/4409107814/) — Federato
-- 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-07-08
-
-### [Software Engineer, Backend (Product)](https://www.linkedin.com/jobs/view/4438123306/) — Otter.ai
-- 📍 **Location:** Mountain View, CA
-- 💰 **Salary:** $136,000.00/yr - $185,000.00/yr
-- 🕒 **Posted:** 2026-07-08
-
-### [Senior Software Engineer, Backend (Product)](https://www.linkedin.com/jobs/view/4438128112/) — Otter.ai
-- 📍 **Location:** Mountain View, CA
-- 💰 **Salary:** $185,000.00/yr - $230,000.00/yr
-- 🕒 **Posted:** 2026-07-08
-
-### [Backend Software Engineer - Platforms](https://www.linkedin.com/jobs/view/4436887110/) — ByteDance
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-07-08
-
-### [Senior Applied Scientist, Delivery Foundation Model](https://www.linkedin.com/jobs/view/4438113353/) — Amazon
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-07-08
-
-### [Software Engineer, Backend (New Grad)](https://www.linkedin.com/jobs/view/4438126142/) — Otter.ai
-- 📍 **Location:** Mountain View, CA
-- 💰 **Salary:** $136,000.00/yr - $164,500.00/yr
-- 🕒 **Posted:** 2026-07-08
-
-### [Systems Engineer, VDI Platform](https://www.linkedin.com/jobs/view/4434584973/) — CoreWeave
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-07-08
-
-### [Systems Engineer, VDI Platform](https://www.linkedin.com/jobs/view/4434593691/) — CoreWeave
+### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4436884275/) — Whatnot
 - 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $207,000.00/yr - $230,000.00/yr
 - 🕒 **Posted:** 2026-07-08
 
-### [Junior DevOps / Release Engineer](https://www.linkedin.com/jobs/view/4436887032/) — ZealTech
-- 📍 **Location:** San Leandro, CA
+### [AI Engineer/ Scientist](https://www.linkedin.com/jobs/view/4436884273/) — Lawrence Harvey
+- 📍 **Location:** San Francisco Bay Area
+- 💰 **Salary:** $300,000.00/yr - $500,000.00/yr
+- 🕒 **Posted:** 2026-07-08
+
+### [Mobile Engineer - Full time On-site (Internships available too)](https://www.linkedin.com/jobs/view/4436892018/) — Besimple AI
+- 📍 **Location:** San Mateo, CA
+- 💰 **Salary:** $130,000.00/yr - $200,000.00/yr
 - 🕒 **Posted:** 2026-07-08
