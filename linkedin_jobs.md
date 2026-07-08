@@ -1,111 +1,106 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area)
-*Last updated: 2026-07-08 19:17 UTC*
+*Last updated: 2026-07-08 20:17 UTC*
 
-**26 new role(s)** since last run · 37 total in last 1h
+**24 new role(s)** since last run · 43 total in last 1h
 
-### [Research Engineer/Scientist (all levels), Efficient Models](https://www.linkedin.com/jobs/view/4437077906/) — TikTok
+### [Data Scientist](https://www.linkedin.com/jobs/view/4438297110/) — TalentAlly
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-07-08
+
+### [Software Engineer - Backend](https://www.linkedin.com/jobs/view/4438510051/) — Cardless
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-07-08
+
+### [Senior Software Engineer - Systems](https://www.linkedin.com/jobs/view/4438292859/) — Boson AI
+- 📍 **Location:** Santa Clara, CA
+- 💰 **Salary:** $150,000.00/yr - $400,000.00/yr
+- 🕒 **Posted:** 2026-07-08
+
+### [Frontend Software Engineer](https://www.linkedin.com/jobs/view/4438505342/) — Pi Security
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-07-08
+
+### [Data Scientist](https://www.linkedin.com/jobs/view/4437306180/) — Jobright.ai
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-07-08
+
+### [Robotics Research Engineer](https://www.linkedin.com/jobs/view/4438292770/) — Trener Robotics
 - 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-07-08
 
-### [Research Engineer/Scientist (all levels), Efficient Models](https://www.linkedin.com/jobs/view/4437092431/) — ByteDance
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-07-08
-
-### [Machine Learning Engineer / Research Engineer](https://www.linkedin.com/jobs/view/4438279753/) — IntelliPro
-- 📍 **Location:** Fremont, CA
-- 💰 **Salary:** $130,000.00/yr - $200,000.00/yr
-- 🕒 **Posted:** 2026-07-08
-
-### [Sr. Research Engineer/Scientist (all levels), Efficient Models](https://www.linkedin.com/jobs/view/4437093436/) — ByteDance
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-07-08
-
-### [Senior Software and AI Engineer](https://www.linkedin.com/jobs/view/4434877621/) — CoreWeave
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-07-08
-
-### [Senior Software and AI Engineer](https://www.linkedin.com/jobs/view/4434883468/) — CoreWeave
+### [Platform Engineer](https://www.linkedin.com/jobs/view/4438292787/) — Pi Security
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-07-08
 
-### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4437099043/) — Whirl AI
+### [Senior Machine Learning Engineer](https://www.linkedin.com/jobs/view/4437312010/) — EvenUp
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $196,000.00/yr - $265,000.00/yr
+- 🕒 **Posted:** 2026-07-08
+
+### [AI Engineer - Dragonfly Portfolio](https://www.linkedin.com/jobs/view/4437305263/) — Dragonfly
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-07-08
+
+### [AI Engineer, Search & Knowledge Systems](https://www.linkedin.com/jobs/view/4438287969/) — Pi Security
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-07-08
 
-### [Senior Software Engineer (Payments and Finance)](https://www.linkedin.com/jobs/view/4437077828/) — Rec Technologies
+### [Intern - Software Engineer, AI User Experience](https://www.linkedin.com/jobs/view/4438299442/) — Rakuten International
+- 📍 **Location:** San Mateo, CA
+- 🕒 **Posted:** 2026-07-08
+
+### [Backend Engineer](https://www.linkedin.com/jobs/view/4438509105/) — Pi Security
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-07-08
 
-### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4438276917/) — Salesforce
-- 📍 **Location:** San Francisco, CA
+### [Early Career AI Engineer (Contract)](https://www.linkedin.com/jobs/view/4438294596/) — Rakuten International
+- 📍 **Location:** San Mateo, CA
 - 🕒 **Posted:** 2026-07-08
 
-### [Senior Software Engineer, Server Fleet Infrastructure](https://www.linkedin.com/jobs/view/4434881527/) — CoreWeave
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-07-08
-
-### [Senior Software Engineer, Server Fleet Infrastructure](https://www.linkedin.com/jobs/view/4434872767/) — CoreWeave
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-07-08
-
-### [Data Scientist, Product Infrastructure - TikTok (San Jose)](https://www.linkedin.com/jobs/view/4437084599/) — TikTok
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-07-08
-
-### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4437086550/) — FutureTech Recruitment
+### [Sr. Software Engineer, CDN (Starlink)](https://www.linkedin.com/jobs/view/4438295565/) — SpaceX
 - 📍 **Location:** Palo Alto, CA
-- 💰 **Salary:** $200,000.00/yr - $650,000.00/yr
 - 🕒 **Posted:** 2026-07-08
 
-### [Sr. Software Engineer](https://www.linkedin.com/jobs/view/4410210221/) — 6sense
-- 📍 **Location:** San Francisco, CA
+### [Full Stack Engineer](https://www.linkedin.com/jobs/view/4438504137/) — Arcadia
+- 📍 **Location:** San Francisco Bay Area
+- 💰 **Salary:** $100,000.00/yr - $200,000.00/yr
 - 🕒 **Posted:** 2026-07-08
 
-### [Senior Software Engineer (Full Stack)](https://www.linkedin.com/jobs/view/4437096229/) — Rec Technologies
-- 📍 **Location:** San Francisco, CA
+### [Fullstack Engineer, Ambient AI](https://www.linkedin.com/jobs/view/4438290806/) — Athelas
+- 📍 **Location:** Mountain View, CA
+- 💰 **Salary:** $130,000.00/yr - $180,000.00/yr
 - 🕒 **Posted:** 2026-07-08
 
-### [Software Engineer](https://www.linkedin.com/jobs/view/4438283620/) — TalentAlly
+### [Senior Mobile Cross Platform Engineer](https://www.linkedin.com/jobs/view/4435602030/) — Chime
 - 📍 **Location:** San Francisco Bay Area
 - 🕒 **Posted:** 2026-07-08
 
-### [Software Engineer, Global Traffic Infrastructure](https://www.linkedin.com/jobs/view/4437097306/) — ByteDance
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-07-08
-
-### [Senior Software Engineer (Developer Experience)](https://www.linkedin.com/jobs/view/4437078800/) — Rec Technologies
+### [Senior Software Engineer, Platform](https://www.linkedin.com/jobs/view/4434888808/) — Chime
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-07-08
 
-### [Full-Stack Engineer](https://www.linkedin.com/jobs/view/4437090333/) — Product Pulse
+### [IT Systems Engineer](https://www.linkedin.com/jobs/view/4438286866/) — Litmus
+- 📍 **Location:** Santa Clara, CA
+- 💰 **Salary:** $100,000.00/yr - $120,000.00/yr
+- 🕒 **Posted:** 2026-07-08
+
+### [System Security Engineer](https://www.linkedin.com/jobs/view/4437092619/) — Denken Solutions, Inc.
+- 📍 **Location:** Foster City, CA
+- 🕒 **Posted:** 2026-07-08
+
+### [Growth Data Engineer](https://www.linkedin.com/jobs/view/4437307187/) — Jobright.ai
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-07-08
 
-### [Tech Lead Software Engineer - Spatial Web](https://www.linkedin.com/jobs/view/4437098175/) — ByteDance
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-07-08
-
-### [Senior Software Engineer (Infrastructure)](https://www.linkedin.com/jobs/view/4437084593/) — Rec Technologies
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-07-08
-
-### [DevOps Site Reliability Engineer](https://www.linkedin.com/jobs/view/4438272952/) — Artech L.L.C.
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-07-08
-
-### [Systems Engineer](https://www.linkedin.com/jobs/view/4414416176/) — RADAR
-- 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-07-08
-
-### [Harness Systems Engineer](https://www.linkedin.com/jobs/view/4437079861/) — Lumicity
-- 📍 **Location:** San Francisco Bay Area
-- 💰 **Salary:** $40.00/hr - $50.00/hr
-- 🕒 **Posted:** 2026-07-08
-
-### [Security Engineer, Detection & Response - Global Security Organization](https://www.linkedin.com/jobs/view/4437097269/) — TikTok
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-07-08
-
-### [Senior Computational Scientist scRNA-seq Analysis](https://www.linkedin.com/jobs/view/4434871914/) — Rose International
+### [Computational Scientist II](https://www.linkedin.com/jobs/view/4437882741/) — The Fountain Group
 - 📍 **Location:** South San Francisco, CA
+- 🕒 **Posted:** 2026-07-08
+
+### [Computational Scientist II](https://www.linkedin.com/jobs/view/4438287464/) — BEPC Inc. - Business Excellence Professional Consulting
+- 📍 **Location:** South San Francisco, CA
+- 💰 **Salary:** $60.94/yr - $62.94/yr
+- 🕒 **Posted:** 2026-07-08
+
+### [Software Engineer, CDN (Starlink)](https://www.linkedin.com/jobs/view/4438296564/) — SpaceX
+- 📍 **Location:** Palo Alto, CA
 - 🕒 **Posted:** 2026-07-08
