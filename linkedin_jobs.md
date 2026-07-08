@@ -1,119 +1,103 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area)
-*Last updated: 2026-07-08 16:18 UTC*
+*Last updated: 2026-07-08 17:02 UTC*
 
-**28 new role(s)** since last run · 64 total in last 1h
+**24 new role(s)** since last run · 45 total in last 1h
 
-### [Senior ML Engineer](https://www.linkedin.com/jobs/view/4437070349/) — Jobright.ai
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-07-08
-
-### [Senior Software Engineer - Fountain One](https://www.linkedin.com/jobs/view/4437078125/) — Fountain
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-07-08
-
-### [Senior+ Software Engineer, Research Tools](https://www.linkedin.com/jobs/view/4322400111/) — Anthropic
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-07-08
-
-### [Software Engineer, Kubernetes](https://www.linkedin.com/jobs/view/4252412973/) — CoreWeave
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-07-08
-
-### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4437076411/) — Fountain
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-07-08
-
-### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4437063892/) — Fountain
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-07-08
-
-### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4437061933/) — Fountain
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-07-08
-
-### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4437061928/) — Fountain
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-07-08
-
-### [Machine Learning Engineering Manager, Critical Harms](https://www.linkedin.com/jobs/view/4388999729/) — Roblox
-- 📍 **Location:** San Mateo, CA
-- 🕒 **Posted:** 2026-07-08
-
-### [Research Engineer, Production Model Post-Training](https://www.linkedin.com/jobs/view/4322460020/) — Anthropic
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-07-08
-
-### [Data Scientist (Technical Leadership)](https://www.linkedin.com/jobs/view/4434869242/) — Meta
-- 📍 **Location:** Menlo Park, CA
-- 💰 **Salary:** $210,000.00/yr - $281,000.00/yr
-- 🕒 **Posted:** 2026-07-08
-
-### [Machine Learning Engineer](https://www.linkedin.com/jobs/view/4437071432/) — Trilyon, Inc.
-- 📍 **Location:** Mountain View, CA
-- 🕒 **Posted:** 2026-07-08
-
-### [Senior Applied ML Engineer, On-Device](https://www.linkedin.com/jobs/view/4385765779/) — Gridware
-- 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-07-08
-
-### [Research Engineer / Research Scientist, Tokens](https://www.linkedin.com/jobs/view/4378287279/) — Anthropic
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-07-08
-
-### [Software Engineer, Systems ML](https://www.linkedin.com/jobs/view/4434859701/) — Meta
-- 📍 **Location:** Menlo Park, CA
-- 💰 **Salary:** $154,003.00/yr - $217,000.00/yr
-- 🕒 **Posted:** 2026-07-08
-
-### [Applied Scientist II, Amazon AWS Agentic AI, AWS AI Fundamental Research](https://www.linkedin.com/jobs/view/4419846773/) — Amazon Web Services (AWS)
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-07-08
-
-### [Software Engineer Sys 2](https://www.linkedin.com/jobs/view/4437059762/) — Lam Research
-- 📍 **Location:** Fremont, CA
-- 🕒 **Posted:** 2026-07-08
-
-### [Software Engineer](https://www.linkedin.com/jobs/view/4438241965/) — General Motors
-- 📍 **Location:** Mountain View, CA
-- 🕒 **Posted:** 2026-07-08
-
-### [Software Engineer - Datapath](https://www.linkedin.com/jobs/view/4438246933/) — Alkira, Inc.
+### [AI Research Scientist | Machine Learning | Deep Learning |Natural Language Processing | LLM | Hybrid | San Jose, CA](https://www.linkedin.com/jobs/view/4437070679/) — Enigma
 - 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-07-08
 
-### [Frontend Software Engineer](https://www.linkedin.com/jobs/view/4427338050/) — Intrinsic
-- 📍 **Location:** Mountain View, CA
-- 🕒 **Posted:** 2026-07-08
-
-### [Software Engineer, Databases](https://www.linkedin.com/jobs/view/4434853906/) — Meta
-- 📍 **Location:** Menlo Park, CA
-- 💰 **Salary:** $183,997.00/yr - $257,000.00/yr
-- 🕒 **Posted:** 2026-07-08
-
-### [Software Engineer, Systems ML](https://www.linkedin.com/jobs/view/4434862692/) — Meta
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-07-08
-
-### [Software Engineer Lead](https://www.linkedin.com/jobs/view/4433293464/) — VeeAR Projects Inc.
-- 📍 **Location:** Fremont, CA
-- 🕒 **Posted:** 2026-07-08
-
-### [Senior Full-Stack Engineer, Growth](https://www.linkedin.com/jobs/view/4318542230/) — Scribe
+### [Senior Software Engineer - Fountain One](https://www.linkedin.com/jobs/view/4437077181/) — Fountain
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-07-08
 
-### [Software Engineer Platform Tinker](https://www.linkedin.com/jobs/view/4419989315/) — Thinking Machines Lab
+### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4426861418/) — Okta
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-07-08
+
+### [Senior software engineer, AI platform](https://www.linkedin.com/jobs/view/4427312615/) — Watershed
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-07-08
+
+### [Data Scientist, Marketing](https://www.linkedin.com/jobs/view/4359264895/) — Harvey
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-07-08
+
+### [Senior Software Engineer - Fountain One](https://www.linkedin.com/jobs/view/4437057991/) — Fountain
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-07-08
+
+### [Data Scientist](https://www.linkedin.com/jobs/view/4438249739/) — Beezwax Datatools, Inc.
+- 📍 **Location:** Cupertino, CA
+- 🕒 **Posted:** 2026-07-08
+
+### [Computer Vision Engineer](https://www.linkedin.com/jobs/view/4414350185/) — SR2 | Socially Responsible Recruitment | Certified B Corporation™
+- 📍 **Location:** San Francisco Bay Area
+- 💰 **Salary:** $200,000.00/yr - $400,000.00/yr
+- 🕒 **Posted:** 2026-07-08
+
+### [Applied AI Engineer](https://www.linkedin.com/jobs/view/4437065915/) — Panoptic Bio
 - 📍 **Location:** San Francisco Bay Area
 - 🕒 **Posted:** 2026-07-08
 
-### [Senior AI Infrastructure Engineer](https://www.linkedin.com/jobs/view/4438259449/) — Seekr
-- 📍 **Location:** San Francisco, CA
+### [Agentic AI Engineer](https://www.linkedin.com/jobs/view/4437076550/) — Xaxis Solutions
+- 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-07-08
 
-### [Senior Backend Engineer](https://www.linkedin.com/jobs/view/4438265091/) — Aurora
+### [[W2] UI Fullstack Engineer](https://www.linkedin.com/jobs/view/4437899139/) — AMISEQ
+- 📍 **Location:** Oakland, CA
+- 🕒 **Posted:** 2026-07-08
+
+### [Software Engineer (Starlink Enterprise)](https://www.linkedin.com/jobs/view/4428435667/) — SpaceX
+- 📍 **Location:** Palo Alto, CA
+- 🕒 **Posted:** 2026-07-08
+
+### [Senior Backend Engineer (Platform)](https://www.linkedin.com/jobs/view/4317496788/) — Conversion
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $200,000.00/yr - $300,000.00/yr
+- 🕒 **Posted:** 2026-07-08
+
+### [Software Engineer II (New College Grad - Santa Clara, CA)](https://www.linkedin.com/jobs/view/4434870453/) — Applied Materials
 - 📍 **Location:** Santa Clara, CA
 - 🕒 **Posted:** 2026-07-08
 
-### [Technical Lead Platform Engineer](https://www.linkedin.com/jobs/view/4437066741/) — Jobright.ai
-- 📍 **Location:** Palo Alto, CA
+### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4377424831/) — Microsoft AI
+- 📍 **Location:** Mountain View, CA
+- 🕒 **Posted:** 2026-07-08
+
+### [Senior Software Engineer II - HashiCorp Vault, Radar, Boundary](https://www.linkedin.com/jobs/view/4416854477/) — IBM
+- 📍 **Location:** San Jose, CA
+- 💰 **Salary:** $161,000.00/yr - $299,000.00/yr
+- 🕒 **Posted:** 2026-07-08
+
+### [Senior Platform Software Engineer](https://www.linkedin.com/jobs/view/4434887003/) — Oracle
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-07-08
+
+### [Frontend Developer (React, Vue.js & Node.js)](https://www.linkedin.com/jobs/view/4437082145/) — Intelliswift - An LTTS Company
+- 📍 **Location:** Cupertino, CA
+- 🕒 **Posted:** 2026-07-08
+
+### [Senior Software Engineer, Frontend](https://www.linkedin.com/jobs/view/4287535859/) — Harvey
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-07-08
+
+### [Frontend Developer UI/UX](https://www.linkedin.com/jobs/view/4437070795/) — enableIT
+- 📍 **Location:** San Ramon, CA
+- 🕒 **Posted:** 2026-07-08
+
+### [Systems Engineer](https://www.linkedin.com/jobs/view/4438255787/) — MasTec Power Delivery
+- 📍 **Location:** Dublin, CA
+- 🕒 **Posted:** 2026-07-08
+
+### [Senior Systems Engineer / Server Architecture](https://www.linkedin.com/jobs/view/4437077438/) — Aivres
+- 📍 **Location:** Fremont, CA
+- 🕒 **Posted:** 2026-07-08
+
+### [Finance Systems Engineer, Revenue](https://www.linkedin.com/jobs/view/4400039458/) — Anthropic
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-07-08
+
+### [Bioinformatics Engineer](https://www.linkedin.com/jobs/view/4438259466/) — AccuraGen
+- 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-07-08
