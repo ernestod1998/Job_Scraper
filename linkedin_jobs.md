@@ -1,48 +1,96 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area)
-*Last updated: 2026-07-09 21:18 UTC*
+*Last updated: 2026-07-09 22:17 UTC*
 
-**10 new role(s)** since last run · 38 total in last 1h
+**22 new role(s)** since last run · 32 total in last 1h
 
-### [Software Engineer](https://www.linkedin.com/jobs/view/4438289395/) — The Context Company
-- 📍 **Location:** San Francisco Bay Area
+### [Data Science Lead](https://www.linkedin.com/jobs/view/4438831558/) — Johnson & Johnson MedTech
+- 📍 **Location:** Milpitas, CA
 - 🕒 **Posted:** 2026-07-09
 
-### [Software Engineer - AI Agent](https://www.linkedin.com/jobs/view/4437905677/) — Jobright.ai
-- 📍 **Location:** San Mateo County, CA
+### [Senior AI Platform Engineer](https://www.linkedin.com/jobs/view/4438826833/) — Afresh
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-07-09
 
-### [Software Engineer - Python Service - Walkin - F2F - Onsite](https://www.linkedin.com/jobs/view/4435913212/) — Dew Software
+### [Machine Learning Engineer (Generative AI)](https://www.linkedin.com/jobs/view/4429447621/) — Applied Materials
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-07-09
+
+### [Senior ML Engineer](https://www.linkedin.com/jobs/view/4437910662/) — Jobright.ai
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-07-09
+
+### [Software Engineer](https://www.linkedin.com/jobs/view/4437907766/) — Jobright.ai
+- 📍 **Location:** Los Altos, CA
+- 🕒 **Posted:** 2026-07-09
+
+### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4435908895/) — Walmart
+- 📍 **Location:** Sunnyvale, CA
+- 💰 **Salary:** $117,000.00/yr - $234,000.00/yr
+- 🕒 **Posted:** 2026-07-09
+
+### [Senior Software Engineer, Product](https://www.linkedin.com/jobs/view/4437905883/) — Jobright.ai
+- 📍 **Location:** Burlingame, CA
+- 🕒 **Posted:** 2026-07-09
+
+### [(USA) Software Engineer III](https://www.linkedin.com/jobs/view/4435920099/) — Walmart
+- 📍 **Location:** Sunnyvale, CA
+- 💰 **Salary:** $117,000.00/yr - $234,000.00/yr
+- 🕒 **Posted:** 2026-07-09
+
+### [Full Stack Software Engineer, Vehicle Test Data Platform](https://www.linkedin.com/jobs/view/4438837284/) — Tesla
 - 📍 **Location:** Fremont, CA
 - 🕒 **Posted:** 2026-07-09
 
-### [Physical AI Engineer](https://www.linkedin.com/jobs/view/4435912494/) — HCLTech
+### [Epic Lab Software Engineer](https://www.linkedin.com/jobs/view/4429413818/) — Applied Materials
 - 📍 **Location:** Santa Clara, CA
-- 💰 **Salary:** $180,000.00/yr - $220,000.00/yr
 - 🕒 **Posted:** 2026-07-09
 
-### [AI/ML Engineer](https://www.linkedin.com/jobs/view/4378358230/) — Gem
+### [Internship, Supercharger SIL Test Infrastructure Software Engineer, Energy Engineering (Fall 2026)](https://www.linkedin.com/jobs/view/4438843121/) — Tesla
+- 📍 **Location:** Palo Alto, CA
+- 🕒 **Posted:** 2026-07-09
+
+### [Senior Backend Engineer](https://www.linkedin.com/jobs/view/4437914624/) — Mochi Health
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-07-09
 
-### [Software Engineer - PLC Programming](https://www.linkedin.com/jobs/view/4435915257/) — Trispoke Managed Services Pvt. Ltd.
-- 📍 **Location:** Santa Rosa, CA
-- 💰 **Salary:** $50.00/hr - $55.00/hr
+### [Software Engineer](https://www.linkedin.com/jobs/view/4429404781/) — Applied Materials
+- 📍 **Location:** Santa Clara, CA
 - 🕒 **Posted:** 2026-07-09
 
-### [Infrastructure Engineer and SRE](https://www.linkedin.com/jobs/view/4430153344/) — Crosscheck Staffing
-- 📍 **Location:** San Francisco, CA
+### [Controls/Systems Engineer, (Linux / EPICS / DCS/SCADA Focus) III (E3)](https://www.linkedin.com/jobs/view/4429413817/) — Applied Materials
+- 📍 **Location:** Benicia, CA
 - 🕒 **Posted:** 2026-07-09
 
-### [Lead Voice Infrastructure Engineer](https://www.linkedin.com/jobs/view/4437192901/) — Stuut
+### [Systems Engineer IV (E4)](https://www.linkedin.com/jobs/view/4429414829/) — Applied Materials
+- 📍 **Location:** Benicia, CA
+- 🕒 **Posted:** 2026-07-09
+
+### [Software Engineer QA (E3)](https://www.linkedin.com/jobs/view/4430626433/) — Applied Materials
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-07-09
+
+### [Software Engineer II (New College Grad - Santa Clara, CA)](https://www.linkedin.com/jobs/view/4434870453/) — Applied Materials
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-07-09
+
+### [Lead Infrastructure Engineer ( SDWAN)- Risk Management](https://www.linkedin.com/jobs/view/4437919350/) — hackajob
+- 📍 **Location:** Palo Alto, CA
+- 💰 **Salary:** $142,500.00/yr - $185,000.00/yr
+- 🕒 **Posted:** 2026-07-09
+
+### [Foundry Data Engineer](https://www.linkedin.com/jobs/view/4437910625/) — Intelliswift - An LTTS Company
+- 📍 **Location:** Oakland, CA
+- 💰 **Salary:** $100.00/hr - $110.00/hr
+- 🕒 **Posted:** 2026-07-09
+
+### [Sr Software Engineer](https://www.linkedin.com/jobs/view/4438842075/) — TTE Staffing
 - 📍 **Location:** San Francisco Bay Area
-- 💰 **Salary:** $250,000.00/yr - $290,000.00/yr
 - 🕒 **Posted:** 2026-07-09
 
-### [AI Engineer](https://www.linkedin.com/jobs/view/4430141603/) — Crosscheck Staffing
+### [Embedded Software Engineer – Power Electronics, Energy Storage](https://www.linkedin.com/jobs/view/4437923337/) — Redwood Materials
 - 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $180,000.00/yr - $240,000.00/yr
 - 🕒 **Posted:** 2026-07-09
 
-### [Software Engineer, On-Device Machine Learning](https://www.linkedin.com/jobs/view/4437580842/) — Google
-- 📍 **Location:** Sunnyvale, CA
+### [Software Engineer](https://www.linkedin.com/jobs/view/4429412786/) — Applied Materials
+- 📍 **Location:** Santa Clara, CA
 - 🕒 **Posted:** 2026-07-09
