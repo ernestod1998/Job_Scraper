@@ -1,20 +1,16 @@
 # 🧬 Biotech LinkedIn — MLE / DS Roles
-*Last updated: 2026-07-08 06:07 UTC*
+*Last updated: 2026-07-09 06:54 UTC*
 
-**4 new role(s)** since last run · 30 total in last 24h
+**3 new role(s)** since last run · 29 total in last 24h
 
-### [Machine Learning Engineer](https://www.linkedin.com/jobs/view/4427790061/) — Intel
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-07-07
+### [Machine Learning Engineer I](https://www.linkedin.com/jobs/view/4435609415/) — Gen
+- 📍 **Location:** Mountain View, CA
+- 🕒 **Posted:** 2026-07-09
 
-### [Senior AI Software Engineer – Agentic AI System](https://www.linkedin.com/jobs/view/4436517761/) — Intel
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-07-07
+### [Software Engineer - Real-Time Storage](https://www.linkedin.com/jobs/view/4278369473/) — xAI
+- 📍 **Location:** Palo Alto, CA
+- 🕒 **Posted:** 2026-07-08
 
-### [Senior Software Engineer II, Enterprise Platform](https://www.linkedin.com/jobs/view/4437844400/) — Lila Sciences
+### [Senior Software Engineer, Data](https://www.linkedin.com/jobs/view/4419451247/) — Lila Sciences
 - 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-07-07
-
-### [Senior Data Scientist #4887](https://www.linkedin.com/jobs/view/4436860892/) — GRAIL
-- 📍 **Location:** Menlo Park, CA
-- 🕒 **Posted:** 2026-07-07
+- 🕒 **Posted:** 2026-07-08
