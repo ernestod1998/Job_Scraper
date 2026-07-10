@@ -1,32 +1,17 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area)
-*Last updated: 2026-07-10 01:12 UTC*
+*Last updated: 2026-07-10 01:17 UTC*
 
-**7 new role(s)** since last run · 28 total in last 1h
+**3 new role(s)** since last run · 31 total in last 1h
 
-### [MLOps / AI Platform Engineer | Tala Health](https://www.linkedin.com/jobs/view/4438873133/) — Titan Holdings
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-07-10
-
-### [Lead Applied AI Engineer II](https://www.linkedin.com/jobs/view/4438850924/) — Deloitte
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-07-10
-
-### [Lead Applied AI Engineer II](https://www.linkedin.com/jobs/view/4438870057/) — Deloitte
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-07-10
-
-### [Research Engineer - RL Infrastructure](https://www.linkedin.com/jobs/view/4438855758/) — Prime Intellect
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-07-10
-
-### [Research Engineer/ Applied Scientist](https://www.linkedin.com/jobs/view/4435916615/) — WisdomAI
-- 📍 **Location:** San Mateo, CA
-- 🕒 **Posted:** 2026-07-10
-
-### [Robotic Software Engineer, Perception](https://www.linkedin.com/jobs/view/4437921931/) — Applied Intuition
+### [Senior Applied Scientist, AGI Customization](https://www.linkedin.com/jobs/view/4438848752/) — Amazon
 - 📍 **Location:** Sunnyvale, CA
 - 🕒 **Posted:** 2026-07-10
 
-### [Senior Software Engineer - Core Platform - Streaming & Storages](https://www.linkedin.com/jobs/view/4438868482/) — StubHub
+### [Software Engineer, New Grad](https://www.linkedin.com/jobs/view/4438850428/) — Pylon
 - 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-07-10
+- 💰 **Salary:** $150,000.00/yr - $180,000.00/yr
+- 🕒 **Posted:** 2026-07-09
+
+### [Senior Software Engineer, Backend Full Stack - Data Cloud](https://www.linkedin.com/jobs/view/4438843717/) — Rippling
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-07-09
