@@ -1,53 +1,59 @@
 # 🟦 Indeed — Engineering / ML / DS Roles (SF Bay Area)
-*Last updated: 2026-07-10 19:07 UTC*
+*Last updated: 2026-07-10 20:53 UTC*
 
-**10 new role(s)** since last run · 123 total in last 24h
+**11 new role(s)** since last run · 99 total in last 24h
 
-### [GCP Data Engineer](https://www.indeed.com/viewjob?jk=ca8d0f916325965c) — Wipro
+### [Systems Software Engineer, Autonomous Systems Mapping - New College Graduate 2026](https://www.indeed.com/viewjob?jk=8c472ce81bb9d401) — NVIDIA
 - 📍 **Location:** Santa Clara, CA, US
-- 💰 **Salary:** $45k–$121k/yr
+- 💰 **Salary:** $124k–$242k/yr
 - 🕒 **Posted:** 2026-07-10
 
-### [Software Engineer – Scientific Instrument Software (C#, Python & AI)](https://www.indeed.com/viewjob?jk=6b85160096db3d81) — RTEC Instruments
-- 📍 **Location:** San Jose, CA, US
-- 💰 **Salary:** $92k–$110k/yr
+### [Supply Chain Data Engineer](https://www.indeed.com/viewjob?jk=1b45757fcb27c5bb) — NVIDIA
+- 📍 **Location:** Santa Clara, CA, US
+- 💰 **Salary:** $152k–$288k/yr
 - 🕒 **Posted:** 2026-07-10
 
-### [Data Scientist, AI Enabled Analytics - Procurement](https://www.indeed.com/viewjob?jk=3c92c9d1cceb1f27) — Gilead Sciences
-- 📍 **Location:** Foster City, CA, US
-- 💰 **Salary:** $158k–$204k/yr
+### [Machine Learning Engineer, Ads Personalization](https://www.indeed.com/viewjob?jk=238dae26706a6d13) — Unity Technologies
+- 📍 **Location:** Mountain View, CA, US
+- 💰 **Salary:** $160k–$239k/yr
 - 🕒 **Posted:** 2026-07-10
 
-### [(USA) Senior, Data Scientist](https://www.indeed.com/viewjob?jk=f2916fa5d33a60f9) — Walmart
+### [Data Scientist](https://www.indeed.com/viewjob?jk=2fb983c498758e38) — Stanford Blood Center
+- 📍 **Location:** Palo Alto, CA, US
+- 💰 **Salary:** $75–$100/hr
+- 🕒 **Posted:** 2026-07-10
+
+### [(USA) Senior, Data Scientist](https://www.indeed.com/viewjob?jk=5cccb97bb0ba2570) — Walmart
 - 📍 **Location:** Sunnyvale, CA, US
 - 💰 **Salary:** $117k–$234k/yr
 - 🕒 **Posted:** 2026-07-10
 
-### [(USA) Data Scientist III](https://www.indeed.com/viewjob?jk=08396f5f66134d3b) — Walmart
+### [(USA) Senior, Data Scientist](https://www.indeed.com/viewjob?jk=529138d422ca4f80) — Walmart
 - 📍 **Location:** Sunnyvale, CA, US
 - 💰 **Salary:** $117k–$234k/yr
 - 🕒 **Posted:** 2026-07-10
 
-### [Entry Level Software Engineer - ANF (Azure NetApp Files)](https://www.indeed.com/viewjob?jk=4b9263b2e445e31b) — NetApp
-- 📍 **Location:** San Jose, CA, US
-- 💰 **Salary:** $100k–$150k/yr
-- 🕒 **Posted:** 2026-07-10
-
-### [Software Engineer - ANF (Azure NetApp Files)](https://www.indeed.com/viewjob?jk=50866c5edd81ad9f) — NetApp
-- 📍 **Location:** San Jose, CA, US
-- 💰 **Salary:** $113k–$168k/yr
-- 🕒 **Posted:** 2026-07-10
-
-### [Senior Software Developer](https://www.indeed.com/viewjob?jk=7f13af40d8cd17d0) — The Misch Group
-- 📍 **Location:** San Mateo, CA, US
-- 🕒 **Posted:** 2026-07-10
-
-### [Software Engineer](https://www.indeed.com/viewjob?jk=a994cc0d13da2ba1) — Unknown
+### [Sr. Manager - Software Engineering - Developer Experience](https://www.indeed.com/viewjob?jk=bceac413f0106006) — Salesforce
 - 📍 **Location:** San Francisco, CA, US
-- 💰 **Salary:** $150k–$200k/yr
+- 💰 **Salary:** $172k–$286k/yr
 - 🕒 **Posted:** 2026-07-10
 
-### [Senior Full-Stack Engineer](https://www.indeed.com/viewjob?jk=89a61dda2355ab20) — SightSpectrum
+### [Software Engineering Manager, General Platform](https://www.indeed.com/viewjob?jk=c15914d349fd6339) — Radar
+- 📍 **Location:** Sunnyvale, CA, US
+- 💰 **Salary:** $200k–$250k/yr
+- 🕒 **Posted:** 2026-07-10
+
+### [Software Engineer II, Fulfillment](https://www.indeed.com/viewjob?jk=3888649101820d7c) — Taskrabbit
 - 📍 **Location:** San Francisco, CA, US
-- 💰 **Salary:** $90k–$130k/yr
+- 💰 **Salary:** $106k–$142k/yr
+- 🕒 **Posted:** 2026-07-10
+
+### [Senior OpenStack DevOps Engineer](https://www.indeed.com/viewjob?jk=3db799ac8edfc8df) — Five9
+- 📍 **Location:** San Ramon, CA, US
+- 💰 **Salary:** $91k–$252k/yr
+- 🕒 **Posted:** 2026-07-10
+
+### [(USA) Senior Manager, Software Engineering](https://www.indeed.com/viewjob?jk=88cd0efbd6afc91d) — Walmart
+- 📍 **Location:** Sunnyvale, CA, US
+- 💰 **Salary:** $132k–$286k/yr
 - 🕒 **Posted:** 2026-07-10
