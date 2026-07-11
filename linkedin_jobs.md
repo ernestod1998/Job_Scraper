@@ -1,111 +1,124 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area)
-*Last updated: 2026-07-11 04:46 UTC*
+*Last updated: 2026-07-11 15:17 UTC*
 
-**26 new role(s)** since last run · 26 total in last 1h
+**29 new role(s)** since last run · 29 total in last 1h
 
-### [DATA SCIENTIST](https://www.linkedin.com/jobs/view/4439515460/) — Flexi-bond
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-07-11
-
-### [Software Engineer (Remote)](https://www.linkedin.com/jobs/view/4439521353/) — RoShay Services
-- 📍 **Location:** Redwood City, CA
-- 🕒 **Posted:** 2026-07-11
-
-### [Research Engineer [ Data Engineering ]](https://www.linkedin.com/jobs/view/4438916076/) — Metamorphic
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-07-11
-
-### [Software Engineer II](https://www.linkedin.com/jobs/view/4436652572/) — Walmart
-- 📍 **Location:** Sunnyvale, CA
-- 💰 **Salary:** $104,000.00/yr - $202,000.00/yr
-- 🕒 **Posted:** 2026-07-11
-
-### [Software Engineer [ Data Pipelines & Interface ]](https://www.linkedin.com/jobs/view/4438906337/) — Metamorphic
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-07-11
-
-### [Senior Software Engineer, Cloud Reliability](https://www.linkedin.com/jobs/view/4439512906/) — Zilliz
-- 📍 **Location:** Redwood City, CA
-- 💰 **Salary:** $175,000.00/yr - $225,000.00/yr
-- 🕒 **Posted:** 2026-07-11
-
-### [Senior Software Engineer, Database Systems](https://www.linkedin.com/jobs/view/4439514701/) — Zilliz
-- 📍 **Location:** Redwood City, CA
-- 💰 **Salary:** $175,000.00/yr - $250,000.00/yr
-- 🕒 **Posted:** 2026-07-11
-
-### [Senior Software Engineer, Revenue- San Francisco HQ](https://www.linkedin.com/jobs/view/4436659065/) — Orb
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-07-11
-
-### [DEEP LEARNING ENGINEER](https://www.linkedin.com/jobs/view/4439509869/) — Flexi-bond
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-07-11
-
-### [Research Engineer [ Model Training ]](https://www.linkedin.com/jobs/view/4438397933/) — Metamorphic
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-07-11
-
-### [Research Scientist [ Computer Vision ]](https://www.linkedin.com/jobs/view/4438908354/) — Metamorphic
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-07-11
-
-### [Research Scientist (Embodied AI & Reinforcement Learning)](https://www.linkedin.com/jobs/view/4438398967/) — Metamorphic
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-07-11
-
-### [Research Engineer [ Language ]](https://www.linkedin.com/jobs/view/4438905383/) — Metamorphic
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-07-11
-
-### [Research Engineer [ Computer Vision ]](https://www.linkedin.com/jobs/view/4438910271/) — Metamorphic
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-07-11
-
-### [C++ Software Developer](https://www.linkedin.com/jobs/view/4439516445/) — Lawrence Livermore National Laboratory
-- 📍 **Location:** Livermore, CA
-- 🕒 **Posted:** 2026-07-11
-
-### [Data Infrastructure Engineer (contract)](https://www.linkedin.com/jobs/view/4430190376/) — Lunar Energy
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-07-11
-
-### [Software Engineer – Map Fusion & Planning](https://www.linkedin.com/jobs/view/4439529429/) — DiDi
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-07-11
-
-### [Research Engineer [ Distributed Training ]](https://www.linkedin.com/jobs/view/4438913191/) — Metamorphic
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-07-11
-
-### [Senior Platform Engineer- San Francisco HQ](https://www.linkedin.com/jobs/view/4436651588/) — Orb
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-07-11
-
-### [Junior Frontend Developer](https://www.linkedin.com/jobs/view/4439524389/) — Buildplan
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-07-11
-
-### [Senior IT Infrastructure & Security Engineer](https://www.linkedin.com/jobs/view/4439534197/) — Scout AI
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-07-11
-
-### [Senior Security Engineer- San Francisco HQ](https://www.linkedin.com/jobs/view/4436641736/) — Orb
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-07-11
-
-### [Senior Computational Biologist](https://www.linkedin.com/jobs/view/4439509856/) — Effective Altruism Global
-- 📍 **Location:** South San Francisco, CA
-- 🕒 **Posted:** 2026-07-11
-
-### [Computational Scientist (Medicinal Chemistry)](https://www.linkedin.com/jobs/view/4438398957/) — Axiom Bio
+### [Senior AI Engineer](https://www.linkedin.com/jobs/view/4346803447/) — Drata
 - 📍 **Location:** San Francisco Bay Area
 - 🕒 **Posted:** 2026-07-11
 
-### [Research Engineer [ Performance Engineering ]](https://www.linkedin.com/jobs/view/4438917075/) — Metamorphic
+### [Senior ML Engineer](https://www.linkedin.com/jobs/view/4438943173/) — Jobright.ai
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-07-11
+
+### [Sr. AI Engineer](https://www.linkedin.com/jobs/view/4389866737/) — Docusign
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-07-11
+
+### [Senior Machine Learning Engineer (Mandarin speaking)](https://www.linkedin.com/jobs/view/4365010555/) — Moloco
+- 📍 **Location:** Menlo Park, CA
+- 🕒 **Posted:** 2026-07-11
+
+### [AI Engineer](https://www.linkedin.com/jobs/view/4438947115/) — Jobright.ai
+- 📍 **Location:** Santa Clara County, CA
+- 🕒 **Posted:** 2026-07-11
+
+### [Scientific Lead - Forward Deployed AI Engineer, Applied Intelligence for Discovery](https://www.linkedin.com/jobs/view/4378600744/) — Eli Lilly and Company
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-07-11
+
+### [Full Stack Engineer](https://www.linkedin.com/jobs/view/4436681353/) — turtil
+- 📍 **Location:** Mountain View, CA
+- 🕒 **Posted:** 2026-07-11
+
+### [Senior Platform Engineer](https://www.linkedin.com/jobs/view/4419733958/) — SAP
 - 📍 **Location:** Palo Alto, CA
 - 🕒 **Posted:** 2026-07-11
 
-### [Software Engineer – Motion Planning](https://www.linkedin.com/jobs/view/4439521572/) — DiDi
+### [Senior Applied Scientist](https://www.linkedin.com/jobs/view/4431152870/) — Amazon
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-07-11
+
+### [Data Science Manager](https://www.linkedin.com/jobs/view/4381617289/) — Hinge Health
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $220,000.00/yr - $330,000.00/yr
+- 🕒 **Posted:** 2026-07-11
+
+### [Senior Applied Scientist](https://www.linkedin.com/jobs/view/4411293048/) — Microsoft AI
+- 📍 **Location:** Mountain View, CA
+- 🕒 **Posted:** 2026-07-11
+
+### [Senior Applied Scientist](https://www.linkedin.com/jobs/view/4411274987/) — Microsoft AI
+- 📍 **Location:** Mountain View, CA
+- 🕒 **Posted:** 2026-07-11
+
+### [Applied Scientist, Navigation](https://www.linkedin.com/jobs/view/4411836297/) — Amazon
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-07-11
+
+### [Sr. Applied Scientist, Amazon Ads](https://www.linkedin.com/jobs/view/4342708535/) — Amazon
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-07-11
+
+### [Sr Software Engineer, Embedded Machine Learning](https://www.linkedin.com/jobs/view/4369149808/) — CARIAD, Inc.
+- 📍 **Location:** Mountain View, CA
+- 🕒 **Posted:** 2026-07-11
+
+### [Software Engineer I, Commerce Engineering](https://www.linkedin.com/jobs/view/4390703326/) — Twitch
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-07-11
+
+### [Senior Software Engineer, Product](https://www.linkedin.com/jobs/view/4438931517/) — Jobright.ai
+- 📍 **Location:** Burlingame, CA
+- 🕒 **Posted:** 2026-07-11
+
+### [Applied Scientist II, Foundation Model, Industrial Robotics Group](https://www.linkedin.com/jobs/view/4410906460/) — Amazon
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-07-11
+
+### [Software Engineer, Developer Experience](https://www.linkedin.com/jobs/view/4411246137/) — Replit
+- 📍 **Location:** Foster City, CA
+- 💰 **Salary:** $180,000.00/yr - $230,000.00/yr
+- 🕒 **Posted:** 2026-07-11
+
+### [Software Engineer, Growth Infrastructure](https://www.linkedin.com/jobs/view/4411243159/) — Replit
+- 📍 **Location:** Foster City, CA
+- 💰 **Salary:** $180,000.00/yr - $290,000.00/yr
+- 🕒 **Posted:** 2026-07-11
+
+### [Software Engineer](https://www.linkedin.com/jobs/view/4438945158/) — Jobright.ai
+- 📍 **Location:** Los Altos, CA
+- 🕒 **Posted:** 2026-07-11
+
+### [Aircraft Dynamics & Sim Software Engineer](https://www.linkedin.com/jobs/view/4381133576/) — Joby Aviation
+- 📍 **Location:** Santa Cruz, CA
+- 🕒 **Posted:** 2026-07-11
+
+### [Sr. Open Source Software Engineer - Apache Cassandra](https://www.linkedin.com/jobs/view/4436667746/) — NetApp
 - 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-07-11
+
+### [Software Engineer, Enterprise Platform](https://www.linkedin.com/jobs/view/4411246140/) — Replit
+- 📍 **Location:** Foster City, CA
+- 🕒 **Posted:** 2026-07-11
+
+### [Senior Software Engineer, Replit Cloud](https://www.linkedin.com/jobs/view/4411252041/) — Replit
+- 📍 **Location:** Foster City, CA
+- 💰 **Salary:** $160,000.00/yr - $260,000.00/yr
+- 🕒 **Posted:** 2026-07-11
+
+### [Software Engineer, iOS, eero, eero Software Services](https://www.linkedin.com/jobs/view/4431156822/) — Amazon
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-07-11
+
+### [Senior Software Engineer, Co-Experience](https://www.linkedin.com/jobs/view/4390446001/) — Roblox
+- 📍 **Location:** San Mateo, CA
+- 🕒 **Posted:** 2026-07-11
+
+### [Senior System Software Engineer - AI Performance and Efficiency Tools](https://www.linkedin.com/jobs/view/4410860672/) — NVIDIA
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-07-11
+
+### [Security Engineer, IAM](https://www.linkedin.com/jobs/view/4421262376/) — Sentry
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-07-11
