@@ -1,40 +1,29 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area)
-*Last updated: 2026-07-12 18:17 UTC*
+*Last updated: 2026-07-12 19:17 UTC*
 
-**9 new role(s)** since last run · 19 total in last 1h
+**6 new role(s)** since last run · 9 total in last 1h
 
-### [Machine Learning Engineer, Agentic Application](https://www.linkedin.com/jobs/view/4369049918/) — ServiceNow
-- 📍 **Location:** Mountain View, CA
+### [Senior Machine Learning Engineer](https://www.linkedin.com/jobs/view/4439756159/) — Cerebro
+- 📍 **Location:** San Francisco Bay Area
+- 💰 **Salary:** $230,000.00/yr - $250,000.00/yr
 - 🕒 **Posted:** 2026-07-12
 
-### [Software Engineer](https://www.linkedin.com/jobs/view/3986118126/) — Epic
-- 📍 **Location:** Sunnyvale, CA
+### [Mid-Level Machine Learning Engineer](https://www.linkedin.com/jobs/view/4438994796/) — TetraMem - Accelerate The World
+- 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-07-12
 
-### [Software Engineer II - Identity](https://www.linkedin.com/jobs/view/4417997343/) — Electronic Arts (EA)
-- 📍 **Location:** Redwood City, CA
+### [Software Engineer - LLM Applications and AI Agents](https://www.linkedin.com/jobs/view/4439102378/) — TikTok
+- 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-07-12
 
-### [Software Engineer II - Commerce](https://www.linkedin.com/jobs/view/4417990554/) — Electronic Arts (EA)
-- 📍 **Location:** Redwood City, CA
+### [Software Engineer I – Compiler & Runtime](https://www.linkedin.com/jobs/view/4438989859/) — TetraMem - Accelerate The World
+- 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-07-12
 
-### [Senior Software Engineer, At Scale Compute Analysis](https://www.linkedin.com/jobs/view/4402775288/) — NVIDIA
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-07-12
-
-### [Senior Software Engineer, DevOps](https://www.linkedin.com/jobs/view/4411953561/) — IXL Learning
-- 📍 **Location:** San Mateo, CA
-- 🕒 **Posted:** 2026-07-12
-
-### [Applied Scientist- Pricing, Dynamic Pricing & Offer Selection](https://www.linkedin.com/jobs/view/4371638246/) — Lyft
-- 📍 **Location:** San Francisco County, CA
-- 🕒 **Posted:** 2026-07-12
-
-### [Applied Scientist- Pricing, Dynamic Pricing & Offer Selection](https://www.linkedin.com/jobs/view/4438997643/) — CHEManager International
+### [DEEP LEARNING ENGINEER](https://www.linkedin.com/jobs/view/4437224567/) — Vitaliti
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-07-12
 
-### [Applied Deep Learning PhD Research Intern, Reinforcement Learning for LLMs - Fall 2026](https://www.linkedin.com/jobs/view/4410874474/) — NVIDIA
-- 📍 **Location:** Santa Clara, CA
+### [Backend Engineer](https://www.linkedin.com/jobs/view/4439753397/) — CareerWellness
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-07-12
