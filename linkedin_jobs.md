@@ -1,50 +1,40 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area)
-*Last updated: 2026-07-12 17:17 UTC*
+*Last updated: 2026-07-12 18:17 UTC*
 
-**11 new role(s)** since last run · 22 total in last 1h
+**9 new role(s)** since last run · 19 total in last 1h
 
-### [Research Engineer](https://www.linkedin.com/jobs/view/4439748425/) — Judgment Labs
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-07-12
-
-### [Senior Deep Learning Engineer](https://www.linkedin.com/jobs/view/4395473430/) — NVIDIA
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-07-12
-
-### [AI Engineer](https://www.linkedin.com/jobs/view/4437215673/) — Ursus, Inc.
-- 📍 **Location:** Foster City, CA
-- 💰 **Salary:** $180,000.00/yr - $220,000.00/yr
-- 🕒 **Posted:** 2026-07-12
-
-### [Software Engineer II and Sr. Software Engineer - AI Frameworks](https://www.linkedin.com/jobs/view/4421358246/) — Microsoft
+### [Machine Learning Engineer, Agentic Application](https://www.linkedin.com/jobs/view/4369049918/) — ServiceNow
 - 📍 **Location:** Mountain View, CA
 - 🕒 **Posted:** 2026-07-12
 
-### [Data Scientist](https://www.linkedin.com/jobs/view/4437210792/) — Ursus, Inc.
-- 📍 **Location:** Foster City, CA
-- 💰 **Salary:** $180,000.00/yr - $220,000.00/yr
+### [Software Engineer](https://www.linkedin.com/jobs/view/3986118126/) — Epic
+- 📍 **Location:** Sunnyvale, CA
 - 🕒 **Posted:** 2026-07-12
 
-### [Full-Stack Engineer](https://www.linkedin.com/jobs/view/4438984817/) — Contour
-- 📍 **Location:** San Francisco, CA
+### [Software Engineer II - Identity](https://www.linkedin.com/jobs/view/4417997343/) — Electronic Arts (EA)
+- 📍 **Location:** Redwood City, CA
 - 🕒 **Posted:** 2026-07-12
 
-### [Software Engineer, TensorRT Specialized Platforms - New College Grad 2025](https://www.linkedin.com/jobs/view/4422061566/) — NVIDIA
+### [Software Engineer II - Commerce](https://www.linkedin.com/jobs/view/4417990554/) — Electronic Arts (EA)
+- 📍 **Location:** Redwood City, CA
+- 🕒 **Posted:** 2026-07-12
+
+### [Senior Software Engineer, At Scale Compute Analysis](https://www.linkedin.com/jobs/view/4402775288/) — NVIDIA
 - 📍 **Location:** Santa Clara, CA
 - 🕒 **Posted:** 2026-07-12
 
-### [Full Stack Engineer, Venture Capital](https://www.linkedin.com/jobs/view/4438994591/) — Almond Partners (Buy-Side Executive Search)
-- 📍 **Location:** San Francisco Bay Area
+### [Senior Software Engineer, DevOps](https://www.linkedin.com/jobs/view/4411953561/) — IXL Learning
+- 📍 **Location:** San Mateo, CA
 - 🕒 **Posted:** 2026-07-12
 
-### [Senior Software Engineer, Lyft Business](https://www.linkedin.com/jobs/view/4380966305/) — Lyft
+### [Applied Scientist- Pricing, Dynamic Pricing & Offer Selection](https://www.linkedin.com/jobs/view/4371638246/) — Lyft
 - 📍 **Location:** San Francisco County, CA
 - 🕒 **Posted:** 2026-07-12
 
-### [Associate Software Engineer, Core Infrastructure - Moveworks](https://www.linkedin.com/jobs/view/4369288501/) — ServiceNow
-- 📍 **Location:** Mountain View, CA
+### [Applied Scientist- Pricing, Dynamic Pricing & Offer Selection](https://www.linkedin.com/jobs/view/4438997643/) — CHEManager International
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-07-12
 
-### [Senior C++ Software Engineer - Infrastructure Tools](https://www.linkedin.com/jobs/view/4422082100/) — NVIDIA
+### [Applied Deep Learning PhD Research Intern, Reinforcement Learning for LLMs - Fall 2026](https://www.linkedin.com/jobs/view/4410874474/) — NVIDIA
 - 📍 **Location:** Santa Clara, CA
 - 🕒 **Posted:** 2026-07-12
