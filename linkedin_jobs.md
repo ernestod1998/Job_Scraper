@@ -1,24 +1,12 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area)
-*Last updated: 2026-07-12 22:17 UTC*
+*Last updated: 2026-07-12 23:17 UTC*
 
-**5 new role(s)** since last run · 11 total in last 1h
+**2 new role(s)** since last run · 3 total in last 1h
 
-### [Senior ML Engineer](https://www.linkedin.com/jobs/view/4439102577/) — Jobright.ai
-- 📍 **Location:** San Francisco, CA
+### [Senior Data Engineer](https://www.linkedin.com/jobs/view/4439751999/) — Tessera Data
+- 📍 **Location:** San Francisco Bay Area
 - 🕒 **Posted:** 2026-07-12
 
-### [Software Engineer - 6 month+ On-Site (ML)](https://www.linkedin.com/jobs/view/4438916692/) — TalentAlly
-- 📍 **Location:** San Mateo, CA
-- 🕒 **Posted:** 2026-07-12
-
-### [Software Engineer](https://www.linkedin.com/jobs/view/4438997936/) — Jobright.ai
-- 📍 **Location:** Los Altos, CA
-- 🕒 **Posted:** 2026-07-12
-
-### [Senior Software Engineer, Product](https://www.linkedin.com/jobs/view/4439104372/) — Jobright.ai
-- 📍 **Location:** Burlingame, CA
-- 🕒 **Posted:** 2026-07-12
-
-### [AI Engineer](https://www.linkedin.com/jobs/view/4438996978/) — Jobright.ai
-- 📍 **Location:** Santa Clara County, CA
+### [Technical Lead Platform Engineer](https://www.linkedin.com/jobs/view/4439117020/) — Jobright.ai
+- 📍 **Location:** Palo Alto, CA
 - 🕒 **Posted:** 2026-07-12
