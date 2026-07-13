@@ -1,473 +1,256 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area)
-*Last updated: 2026-07-13 15:18 UTC*
+*Last updated: 2026-07-13 16:18 UTC*
 
-**116 new role(s)** since last run · 116 total in last 1h
+**60 new role(s)** since last run · 150 total in last 1h
 
-### [Machine Learning Engineer, GAI Search Platform - Moveworks](https://www.linkedin.com/jobs/view/4411693179/) — ServiceNow
-- 📍 **Location:** Mountain View, CA
+### [Data Engineer Intern (Data Platfrom TikTok BP) - 2026 Summer (BS/MS)](https://www.linkedin.com/jobs/view/4280000003/) — TikTok
+- 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-07-13
 
-### [Expression of Interest: Machine Learning Engineer](https://www.linkedin.com/jobs/view/4382188165/) — Moloco
-- 📍 **Location:** Menlo Park, CA
+### [Machine Learning Engineer Intern (Commerce Ads) - 2026 Summer (BS/MS)](https://www.linkedin.com/jobs/view/4363793117/) — TikTok
+- 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-07-13
 
-### [Sr. Machine Learning Engineer (Recommendation Systems)](https://www.linkedin.com/jobs/view/4439420555/) — Philo
+### [Frontend Software Engineer](https://www.linkedin.com/jobs/view/4406568149/) — Chalk
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $170,000.00/yr - $280,000.00/yr
+- 🕒 **Posted:** 2026-07-13
+
+### [Applied Scientist - Trust and Safety (Multimodal Foundation Model) - Global Frontier Tech Recruitment Program - 2027 Start (PhD)](https://www.linkedin.com/jobs/view/4406929832/) — TikTok
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-07-13
+
+### [Applied Scientist - Business Integrity - Global Frontier Tech Recruitment Program - 2027 Start (PhD)](https://www.linkedin.com/jobs/view/4402369656/) — TikTok
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-07-13
+
+### [Software Engineer – Autonomy Behavior ML Data Optimization Team](https://www.linkedin.com/jobs/view/4439428382/) — Comrise
+- 📍 **Location:** Foster City, CA
+- 💰 **Salary:** $95.00/hr - $99.00/hr
+- 🕒 **Posted:** 2026-07-13
+
+### [AI Engineer - Startups](https://www.linkedin.com/jobs/view/4440050924/) — Fonzi AI
+- 📍 **Location:** San Francisco Bay Area
+- 💰 **Salary:** $150,000.00/yr - $400,000.00/yr
+- 🕒 **Posted:** 2026-07-13
+
+### [Senior ML/AI Engineer](https://www.linkedin.com/jobs/view/4421850307/) — MrBeast
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-07-13
 
-### [Sr AI Engineer](https://www.linkedin.com/jobs/view/4437279568/) — eBay
-- 📍 **Location:** San Jose, CA
+### [Software Engineer, Workflows](https://www.linkedin.com/jobs/view/4372135667/) — Vercel
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-07-13
 
-### [Machine Learning Engineer (Local Services Search) - 2026 Start (BS/MS)](https://www.linkedin.com/jobs/view/4405087139/) — TikTok
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-07-13
-
-### [(General Hire) Machine Learning Engineer Graduate (TikTok Recommendation) - 2026 Start (BS/MS)](https://www.linkedin.com/jobs/view/4275030063/) — TikTok
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-07-13
-
-### [Senior Machine Learning Engineer, Agentic AI Systems - Moveworks](https://www.linkedin.com/jobs/view/4369053877/) — ServiceNow
-- 📍 **Location:** Mountain View, CA
-- 🕒 **Posted:** 2026-07-13
-
-### [Software Engineer - Data Platform Team at AI native Startup](https://www.linkedin.com/jobs/view/4412411414/) — Eightfold AI
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-07-13
-
-### [Full Time - Onsite - Full-Stack Engineer with React / TypeScript and Python](https://www.linkedin.com/jobs/view/4440045400/) — Amtex Systems Inc
+### [Senior Software Engineer - Startups](https://www.linkedin.com/jobs/view/4440053805/) — Fonzi AI
 - 📍 **Location:** San Francisco Bay Area
+- 💰 **Salary:** $200,000.00/yr - $400,000.00/yr
 - 🕒 **Posted:** 2026-07-13
 
-### [Software Engineer - Cloud Storage (GO , Python automation)](https://www.linkedin.com/jobs/view/4437278749/) — NetApp
+### [Senior Full Stack AI Engineer (LLM / Python / FastAPI)](https://www.linkedin.com/jobs/view/4440072151/) — Kelly
+- 📍 **Location:** San Francisco Bay Area
+- 💰 **Salary:** $75.00/hr - $95.00/hr
+- 🕒 **Posted:** 2026-07-13
+
+### [SAP iXp Intern - AI Engineer](https://www.linkedin.com/jobs/view/4439432088/) — SAP
+- 📍 **Location:** Palo Alto, CA
+- 🕒 **Posted:** 2026-07-13
+
+### [GPU/AI Application System Software Engineer Intern (System Technologies and Engineering) - 2026 Summer (BS/MS)](https://www.linkedin.com/jobs/view/4325372891/) — TikTok
 - 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-07-13
 
-### [Software Engineer](https://www.linkedin.com/jobs/view/4437293262/) — KLA
-- 📍 **Location:** Milpitas, CA
+### [Machine Learning Engineer Intern (TikTok Search Local Services) - 2026 Summer (BS/MS)](https://www.linkedin.com/jobs/view/4279794771/) — TikTok
+- 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-07-13
 
-### [Cloud Infrastructure Engineer](https://www.linkedin.com/jobs/view/4440048618/) — Cerebras
-- 📍 **Location:** Sunnyvale, CA
+### [Machine Learning Engineer Intern (Lead Ads) - 2026 Summer (BS/MS)](https://www.linkedin.com/jobs/view/4432224562/) — TikTok
+- 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-07-13
 
-### [Senior Full Stack Engineer](https://www.linkedin.com/jobs/view/4440030844/) — Goliath Partners
+### [Software Engineer Intern (Monetization Technology - Ads Creative AI) - 2026 Summer (BS/MS)](https://www.linkedin.com/jobs/view/4282732071/) — TikTok
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-07-13
+
+### [Senior Software Engineer, Storage](https://www.linkedin.com/jobs/view/4291800946/) — Crusoe
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-07-13
+
+### [Senior Frontend Developer](https://www.linkedin.com/jobs/view/4440058448/) — Syndesus, Inc.
 - 📍 **Location:** San Francisco Bay Area
 - 💰 **Salary:** $200,000.00/yr - $300,000.00/yr
 - 🕒 **Posted:** 2026-07-13
 
-### [Software Engineer Graduate (Data Arch - AI/ML Infrastructure) - 2026 Start (BS/MS)](https://www.linkedin.com/jobs/view/4323474244/) — TikTok
+### [Backend Software Engineer Intern(Media Platform) - 2026 Summer (BS/MS)](https://www.linkedin.com/jobs/view/4286408716/) — TikTok
 - 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-07-13
 
-### [Software Engineer Graduate (Data Arch - AI/ML Infrastructure) - 2026 Start (PhD)](https://www.linkedin.com/jobs/view/4262546412/) — TikTok
+### [Software Engineer Intern (Trust and Safety -Engineer-AI Safety)- 2026 Summer (BS/MS)](https://www.linkedin.com/jobs/view/4404792798/) — TikTok
 - 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-07-13
 
-### [AI Vision Research Engineer Graduate (PICO) - 2026 Start (PhD)](https://www.linkedin.com/jobs/view/4435845643/) — ByteDance
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-07-13
-
-### [Research Engineer Graduate (AI Training Systems & RL Infrastructure - Seed Infra) - 2026 Start (PhD)](https://www.linkedin.com/jobs/view/4435853379/) — ByteDance
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-07-13
-
-### [Lead Data Scientist](https://www.linkedin.com/jobs/view/4429484459/) — Galent
+### [Remote Software Engineer ($300/hr.)](https://www.linkedin.com/jobs/view/4439434147/) — Turing
 - 📍 **Location:** San Francisco Bay Area
 - 🕒 **Posted:** 2026-07-13
 
-### [Applied Scientist, AGI , AGI Information](https://www.linkedin.com/jobs/view/4403539836/) — Amazon
+### [Software Engineer Intern (TikTok-Growth-Customer Lifecycle) - 2026 Summer (BS/MS)](https://www.linkedin.com/jobs/view/4377361618/) — TikTok
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-07-13
+
+### [Software Engineer Intern (Business Integrity) - 2026 Summer (BS/MS)](https://www.linkedin.com/jobs/view/4293057718/) — TikTok
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-07-13
+
+### [Frontend Software Engineer Intern (Ads Measurement Signal and Privacy) - 2026 Summer (BS/MS)](https://www.linkedin.com/jobs/view/4359022183/) — TikTok
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-07-13
+
+### [Software Engineer Intern(Media Engine) - 2026 Summer (BS/MS)](https://www.linkedin.com/jobs/view/4286406759/) — TikTok
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-07-13
+
+### [Software Engineer Intern(Live Service) - 2026 Summer (BS/MS)](https://www.linkedin.com/jobs/view/4286408647/) — TikTok
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-07-13
+
+### [Software Engineer Intern (Recommendation Infrastructure) - 2026 Fall (BS/MS)](https://www.linkedin.com/jobs/view/4419024330/) — TikTok
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-07-13
+
+### [Software Engineer Project Intern (Security-Data) - 2026 Start (BS/MS)](https://www.linkedin.com/jobs/view/4436327390/) — ByteDance
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-07-13
+
+### [Frontend Engineer II, AI Experiences](https://www.linkedin.com/jobs/view/4440064223/) — Box
+- 📍 **Location:** Redwood City, CA
+- 🕒 **Posted:** 2026-07-13
+
+### [Senior Frontend Engineer (Multiple Opportunities)](https://www.linkedin.com/jobs/view/4439436231/) — Greylock Partners
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-07-13
+
+### [Full Stack Software Engineer](https://www.linkedin.com/jobs/view/4406562211/) — Chalk
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $170,000.00/yr - $280,000.00/yr
+- 🕒 **Posted:** 2026-07-13
+
+### [Full Stack Engineer](https://www.linkedin.com/jobs/view/4429508866/) — Syndesus, Inc.
+- 📍 **Location:** San Francisco Bay Area
+- 💰 **Salary:** $180,000.00/yr - $230,000.00/yr
+- 🕒 **Posted:** 2026-07-13
+
+### [Full Stack Engineer](https://www.linkedin.com/jobs/view/4404858188/) — Syndesus, Inc.
+- 📍 **Location:** San Francisco Bay Area
+- 💰 **Salary:** $190,000.00/yr - $280,000.00/yr
+- 🕒 **Posted:** 2026-07-13
+
+### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4437280681/) — Edge Tech
+- 📍 **Location:** Redwood City, CA
+- 💰 **Salary:** $220,000.00/yr - $300,000.00/yr
+- 🕒 **Posted:** 2026-07-13
+
+### [Software Engineer](https://www.linkedin.com/jobs/view/4437285605/) — WorkGenius Group
+- 📍 **Location:** Foster City, CA
+- 💰 **Salary:** $93.00/hr - $93.00/hr
+- 🕒 **Posted:** 2026-07-13
+
+### [Software Engineer](https://www.linkedin.com/jobs/view/4440053657/) — Cisco
+- 📍 **Location:** Milpitas, CA
+- 🕒 **Posted:** 2026-07-13
+
+### [Software Engineer](https://www.linkedin.com/jobs/view/4439439017/) — Jobright.ai
+- 📍 **Location:** Los Altos, CA
+- 🕒 **Posted:** 2026-07-13
+
+### [Senior Software Engineer - Infrastructure Cloud Security](https://www.linkedin.com/jobs/view/4393153054/) — Snorkel AI
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-07-13
+
+### [Remote Senior Backend Engineer (Python/FastAPI)](https://www.linkedin.com/jobs/view/4439428326/) — Turing
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-07-13
+
+### [Remote Senior Backend Engineer (Python/FastAPI)](https://www.linkedin.com/jobs/view/4439419878/) — Turing
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-07-13
+
+### [Senior Platform/DevOps Engineer](https://www.linkedin.com/jobs/view/4439435158/) — Hyperion360
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-07-13
+
+### [Infrastructure Engineer](https://www.linkedin.com/jobs/view/4406566178/) — Chalk
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $170,000.00/yr - $280,000.00/yr
+- 🕒 **Posted:** 2026-07-13
+
+### [Senior Atlassian Cloud Engineer](https://www.linkedin.com/jobs/view/4372149933/) — Crusoe
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-07-13
+
+### [Cyber Security Engineer](https://www.linkedin.com/jobs/view/4440047883/) — Connect Life Sciences
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-07-13
+
+### [Remote Software Engineer ($300/hr.)](https://www.linkedin.com/jobs/view/4439433112/) — Turing
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-07-13
+
+### [Software Engineer Project Intern (Network Security) - 2026 Start (BS/MS)](https://www.linkedin.com/jobs/view/4435848630/) — ByteDance
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-07-13
+
+### [Data Engineer Intern (Ads Data) - 2026 Summer (BS/MS)](https://www.linkedin.com/jobs/view/4328048201/) — TikTok
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-07-13
+
+### [Data Engineer Intern (E-commerce) - 2026 Summer (BS/MS)](https://www.linkedin.com/jobs/view/4281120423/) — TikTok
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-07-13
+
+### [Machine Learning Engineer Intern (Data-Search-TikTok Recommendation) - 2026 Summer (BS/MS)](https://www.linkedin.com/jobs/view/4323533893/) — TikTok
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-07-13
+
+### [Senior Software Engineer, Fraud](https://www.linkedin.com/jobs/view/4319403802/) — Whatnot
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-07-13
+
+### [Software Engineer Graduate (Global CRM) - 2026 Start (BS/MS)](https://www.linkedin.com/jobs/view/4273515903/) — TikTok
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-07-13
+
+### [Senior Software Engineer II, AI Workload Orchestration](https://www.linkedin.com/jobs/view/4355393019/) — CoreWeave
 - 📍 **Location:** Sunnyvale, CA
 - 🕒 **Posted:** 2026-07-13
 
-### [Applied Scientist II, Annapurna ML](https://www.linkedin.com/jobs/view/4403549655/) — Amazon
-- 📍 **Location:** Cupertino, CA
-- 🕒 **Posted:** 2026-07-13
-
-### [Machine Learning Engineer Graduate (E-Commerce Supply Chain & Logistics) - 2026 Start (PhD)](https://www.linkedin.com/jobs/view/4432861979/) — TikTok
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-07-13
-
-### [Machine Learning Engineer Graduate (TikTok Recommendation-Live) - 2026 Start (BS/MS)](https://www.linkedin.com/jobs/view/4323493936/) — TikTok
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-07-13
-
-### [Machine Learning Engineer Graduate (TikTok-Data-Search-Basic Ranking) - 2026 Start (BS/MS)](https://www.linkedin.com/jobs/view/4414480174/) — TikTok
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-07-13
-
-### [Data Knowledge System Research Scientist - (Data Platform-Global Live) - Global Frontier Tech Recruitment Program - 2027 Start (PhD)](https://www.linkedin.com/jobs/view/4403808859/) — TikTok
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-07-13
-
-### [Machine Learning Engineer Graduate (Search E-Commerce) - 2026 Start (BS/MS)](https://www.linkedin.com/jobs/view/4401186044/) — TikTok
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-07-13
-
-### [CV/NLP/Multimodal LLM Machine Learning Engineer Graduate (TikTok Trust and Safety) - 2026 Start (BS/MS)](https://www.linkedin.com/jobs/view/4304863555/) — TikTok
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-07-13
-
-### [Machine Learning Engineer Graduate (Data-Search-TikTok) - 2026 Start (PhD)](https://www.linkedin.com/jobs/view/4304559137/) — TikTok
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-07-13
-
-### [Machine Learning Engineer Project Intern (Security-Data) - 2026 Start (BS/MS)](https://www.linkedin.com/jobs/view/4435854231/) — ByteDance
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-07-13
-
-### [Machine Learning Engineer Intern (Brand Ads) - 2026 Fall (BS/MS)](https://www.linkedin.com/jobs/view/4414064895/) — TikTok
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-07-13
-
-### [Research Scientist, Multimodal Generative AI (Intelligent Creation) – Global Frontier Tech Recruitment Program - 2027 Start (PhD)](https://www.linkedin.com/jobs/view/4404718382/) — TikTok
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-07-13
-
-### [AI Engineer](https://www.linkedin.com/jobs/view/4439417816/) — Jobright.ai
-- 📍 **Location:** Santa Clara County, CA
-- 🕒 **Posted:** 2026-07-13
-
-### [Senior Data and ML Engineer](https://www.linkedin.com/jobs/view/4437287305/) — Oscar
-- 📍 **Location:** San Mateo County, CA
-- 💰 **Salary:** $200,000.00/yr - $220,000.00/yr
-- 🕒 **Posted:** 2026-07-13
-
-### [Applied Scientist - AI-3D Creation Engine - Global Frontier Tech Recruitment Program - 2027 Start (PhD)](https://www.linkedin.com/jobs/view/4402370676/) — TikTok
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-07-13
-
-### [Research Scientist - TikTok Search (Generative AI) - Global Frontier Tech Recruitment Program - 2027 Start (PhD)](https://www.linkedin.com/jobs/view/4402373654/) — TikTok
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-07-13
-
-### [Research Scientist in Generative AI Graduate (Intelligent Creation) - 2026 Start (PhD)](https://www.linkedin.com/jobs/view/4419350088/) — TikTok
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-07-13
-
-### [Machine Learning Engineer Graduate (Data-Search-TikTok) - 2026 Start (BS/MS)](https://www.linkedin.com/jobs/view/4281123069/) — TikTok
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-07-13
-
-### [Agentic AI Engineer](https://www.linkedin.com/jobs/view/4439424068/) — Aroha Technologies, Inc
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-07-13
-
-### [Applied AI Engineer](https://www.linkedin.com/jobs/view/4431767191/) — Pivotal Partners
-- 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-07-13
-
-### [(General Hire) Machine Learning Engineer Graduate (Commerce& Content Service & Search Ads) - 2026 Start (BS/MS)](https://www.linkedin.com/jobs/view/4277938223/) — TikTok
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-07-13
-
-### [(General Hire) Machine Learning Engineer Intern (TikTok-Recommendation) - 2026 Summer (BS/MS)](https://www.linkedin.com/jobs/view/4273285373/) — TikTok
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-07-13
-
-### [Machine Learning Engineer Intern (App Ads) - 2026 Fall (BS/MS)](https://www.linkedin.com/jobs/view/4392145998/) — TikTok
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-07-13
-
-### [MTS 1, Software Engineer](https://www.linkedin.com/jobs/view/4437285387/) — eBay
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-07-13
-
-### [Machine Learning Engineer Intern (Search Ads) - 2026 Fall (BS/MS)](https://www.linkedin.com/jobs/view/4392157153/) — TikTok
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-07-13
-
-### [AI Native MTS1 Software Engineer, Risk](https://www.linkedin.com/jobs/view/4437285397/) — eBay
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-07-13
-
-### [Machine Learning Engineer Graduate (Local Services Search) - 2026 Start (PhD)](https://www.linkedin.com/jobs/view/4414795438/) — TikTok
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-07-13
-
-### [Machine Learning Engineer Graduate (Global E-commerce Recommendation/Search) - 2026 Start (PhD)](https://www.linkedin.com/jobs/view/4329292440/) — TikTok
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-07-13
-
-### [Software Engineer I (Data Eng infra)](https://www.linkedin.com/jobs/view/4439405866/) — Aurora
-- 📍 **Location:** Mountain View, CA
-- 🕒 **Posted:** 2026-07-13
-
-### [Lead Software Engineer - Cloud Storage (GO , Python automation)](https://www.linkedin.com/jobs/view/4437298034/) — NetApp
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-07-13
-
-### [Full Stack Engineer](https://www.linkedin.com/jobs/view/4440045434/) — Amtex Systems Inc
-- 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-07-13
-
-### [Embedded Software Engineer](https://www.linkedin.com/jobs/view/4437190924/) — Aegis Search
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $200,000.00/yr - $250,000.00/yr
-- 🕒 **Posted:** 2026-07-13
-
-### [Software Engineer Project Intern (Content AI Infrastructure) - 2026 Start (BS/MS)](https://www.linkedin.com/jobs/view/4390430358/) — TikTok
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-07-13
-
-### [Senior Full Stack Software Engineer](https://www.linkedin.com/jobs/view/4440032868/) — Programming.com
-- 📍 **Location:** Fremont, CA
-- 🕒 **Posted:** 2026-07-13
-
-### [Software Engineer Intern (Capital Platform) - 2026 Summer (BS/MS)](https://www.linkedin.com/jobs/view/4283316305/) — TikTok
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-07-13
-
-### [Software Engineer Graduate (Data Arch - Data Ecosystem) - 2026 Start (BS/MS)](https://www.linkedin.com/jobs/view/4280399737/) — TikTok
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-07-13
-
-### [Flight Research Navigation Software Engineer](https://www.linkedin.com/jobs/view/4382195832/) — Joby Aviation
-- 📍 **Location:** Santa Cruz, CA
-- 🕒 **Posted:** 2026-07-13
-
-### [AI Native MTS1 Software Engineer, Risk](https://www.linkedin.com/jobs/view/4437284386/) — eBay
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-07-13
-
-### [Software Engineer Intern (TikTok-Product Infrastructure-Customer Service Platform) - 2026 Summer (BS/MS)](https://www.linkedin.com/jobs/view/4414477188/) — TikTok
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-07-13
-
-### [AI software Engineer Project Intern (Transaction Platform) - 2026 Start (BS/MS)](https://www.linkedin.com/jobs/view/4425842745/) — TikTok
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-07-13
-
-### [AI/ML Software Engineer Intern (Data Platform) - 2026 Summer (BS/MS)](https://www.linkedin.com/jobs/view/4405987988/) — TikTok
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-07-13
-
-### [Software Engineer Intern (Global SRE) - 2026 Summer (BS/MS)](https://www.linkedin.com/jobs/view/4359034720/) — TikTok
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-07-13
-
-### [Software Engineer Project Intern(Video-on-Demand Algorithm) - 2026 Start (BS/MS)](https://www.linkedin.com/jobs/view/4375342566/) — TikTok
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-07-13
-
-### [Software Engineer Intern (Monetization Technology - Ads Creative) - 2026 Summer (BS/MS)](https://www.linkedin.com/jobs/view/4274019984/) — TikTok
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-07-13
-
-### [Frontend Software Engineer Project Intern (Global CRM) - 2026 Start（BS/MS）](https://www.linkedin.com/jobs/view/4433657836/) — TikTok
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-07-13
-
-### [Software Engineer Intern (Ads Infrastructure) - 2026 Summer (BS/MS)](https://www.linkedin.com/jobs/view/4359064279/) — TikTok
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-07-13
-
-### [Software Engineer Intern (Monetization Technology) - 2026 Summer (BS/MS)](https://www.linkedin.com/jobs/view/4316100697/) — TikTok
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-07-13
-
-### [Software Engineer Intern (Developer Infrastructure) - 2026 Summer (BS/MS)](https://www.linkedin.com/jobs/view/4435853280/) — ByteDance
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-07-13
-
-### [Software Engineer Project Intern (Platform efficiency) - 2026 Start (BS/MS)](https://www.linkedin.com/jobs/view/4271876513/) — TikTok
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-07-13
-
-### [Security Software Engineer Project Intern (Product Security) - 2026 Start (BS/MS)](https://www.linkedin.com/jobs/view/4366561915/) — TikTok
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-07-13
-
-### [Payments - Software Engineer 3](https://www.linkedin.com/jobs/view/4437278788/) — eBay
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-07-13
-
-### [Senior Software Engineer – Go / Rust | Cloud Networking | AI Infrastructure](https://www.linkedin.com/jobs/view/4439422566/) — Colossus Technologies Group
-- 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-07-13
-
-### [Frontend Engineer Intern (Ads Interface and Platform) - 2026 Summer (BS/MS)](https://www.linkedin.com/jobs/view/4363783159/) — TikTok
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-07-13
-
-### [(General Hire) Software Engineer Intern (TikTok Eng-Short Video) - 2026 Summer (BS/MS)](https://www.linkedin.com/jobs/view/4351597305/) — TikTok
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-07-13
-
-### [Frontend Engineer Project Intern (TikTok Multimedia Arch) - 2026 (BS/MS)](https://www.linkedin.com/jobs/view/4432695583/) — TikTok
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-07-13
-
-### [Software Engineer Graduate (Experimentation and Evaluation) - 2026 Start (BS/MS)](https://www.linkedin.com/jobs/view/4279794736/) — TikTok
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-07-13
-
-### [Software Engineer Graduate (Capital Platform) - 2026 Start (BS/MS)](https://www.linkedin.com/jobs/view/4273518055/) — TikTok
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-07-13
-
-### [Software Engineer Project Intern (Lead Ads) - 2026 Start (BS/MS)](https://www.linkedin.com/jobs/view/4343679484/) — TikTok
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-07-13
-
-### [Full Stack Engineer](https://www.linkedin.com/jobs/view/4440038652/) — CBL Solutions
-- 📍 **Location:** Fremont, CA
-- 💰 **Salary:** $50.00/hr - $60.00/hr
-- 🕒 **Posted:** 2026-07-13
-
-### [Software Engineer/Mobile Engineer Intern (Monetization Technology - Ads Core Demonstration) - 2026 Start (BS/MS)](https://www.linkedin.com/jobs/view/4369106755/) — TikTok
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-07-13
-
-### [Senior Software Engineer (Hardware Test)](https://www.linkedin.com/jobs/view/4440049177/) — CSG Talent
-- 📍 **Location:** San Francisco County, CA
-- 🕒 **Posted:** 2026-07-13
-
-### [Software Engineer Intern (Agentic AI Engine - Data Management platform) - 2026 Summer (BS/MS)](https://www.linkedin.com/jobs/view/4279799288/) — TikTok
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-07-13
-
-### [Software Engineer Project Intern (Security-Data) - 2026 Start (BS/MS)](https://www.linkedin.com/jobs/view/4435855159/) — ByteDance
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-07-13
-
-### [Security Software Engineer Project Intern (Product Security) - 2026 Start (BS/MS)](https://www.linkedin.com/jobs/view/4369879280/) — TikTok
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-07-13
-
-### [Remote Senior Backend Engineer (Python/FastAPI)](https://www.linkedin.com/jobs/view/4439415849/) — Turing
-- 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-07-13
-
-### [Software Engineer Graduate (Data Arch - Data Ecosystem ) - 2026 (PhD)](https://www.linkedin.com/jobs/view/4268471164/) — TikTok
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-07-13
-
-### [Software Engineer Project Intern (Security Engineering) - 2026 Start (BS/MS)](https://www.linkedin.com/jobs/view/4436379505/) — ByteDance
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-07-13
-
-### [Software Engineer Graduate (Inference Infrastructure) - 2026 Start (PhD)](https://www.linkedin.com/jobs/view/4436391222/) — ByteDance
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-07-13
-
-### [Technical Lead Platform Engineer](https://www.linkedin.com/jobs/view/4439420656/) — Jobright.ai
+### [Sr. AI Security Software Engineer (Starshield)](https://www.linkedin.com/jobs/view/4392000550/) — SpaceX
 - 📍 **Location:** Palo Alto, CA
 - 🕒 **Posted:** 2026-07-13
 
-### [Site Reliability Engineer Intern (Data Infrastructure) - 2026 Summer (BS/MS)](https://www.linkedin.com/jobs/view/4435848645/) — ByteDance
+### [Software Engineer Graduate (Ads Measurement Signal and Privacy Infra Technology) - 2026 Start (BS/MS)](https://www.linkedin.com/jobs/view/4274317782/) — TikTok
 - 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-07-13
 
-### [Software Engineer Graduate (Cloud Native Infrastructure) - 2026 Start (PhD)](https://www.linkedin.com/jobs/view/4435855195/) — ByteDance
+### [SoC Systems Software Engineer, Annapurna Labs Machine Learning Accelerators, AWS](https://www.linkedin.com/jobs/view/4392022613/) — Amazon Web Services (AWS)
+- 📍 **Location:** Cupertino, CA
+- 🕒 **Posted:** 2026-07-13
+
+### [Machine Learning Engineer Intern (TikTok Search E-Commerce) - 2026 Summer (BS/MS)](https://www.linkedin.com/jobs/view/4280503479/) — TikTok
 - 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-07-13
 
-### [Site Reliability Engineer Project Intern (Security Engineering) - 2026 Start (BS/MS)](https://www.linkedin.com/jobs/view/4436137330/) — ByteDance
+### [Machine Learning Engineer Graduate (Global E-commerce Recommendation/Search) - 2026 Start (BS/MS)](https://www.linkedin.com/jobs/view/4392851473/) — TikTok
 - 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-07-13
 
-### [Research Intern, Efficient ML Engineer (AI Platform)- 2026 Start (PhD)](https://www.linkedin.com/jobs/view/4417838662/) — TikTok
+### [Gen-AI Engineer](https://www.linkedin.com/jobs/view/4437298180/) — Resource Logistics Inc.
 - 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-07-13
 
-### [Software Engineer Intern (Experimentation & Evaluation, Data Platform) - 2026 Summer (BS/MS)](https://www.linkedin.com/jobs/view/4279795719/) — TikTok
+### [Research Engineer Intern (Ads ML Infra) - 2026 Start (PhD)](https://www.linkedin.com/jobs/view/4315504760/) — TikTok
 - 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-07-13
 
-### [Software Engineer Intern (Ads Interface and Platform) - 2026 Summer (BS/MS)](https://www.linkedin.com/jobs/view/4321549934/) — TikTok
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-07-13
-
-### [Backend Software Engineer Intern(Foundation Platform) - 2026 Summer (BS/MS)](https://www.linkedin.com/jobs/view/4286410193/) — TikTok
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-07-13
-
-### [Site Reliability Engineer Graduate (Global SRE) - 2026 Start (BS/MS)](https://www.linkedin.com/jobs/view/4275026603/) — TikTok
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-07-13
-
-### [Software Engineer Graduate (Dev Infra) - 2026 Start (BS/MS)](https://www.linkedin.com/jobs/view/4437790139/) — ByteDance
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-07-13
-
-### [Product Security Engineer](https://www.linkedin.com/jobs/view/4343037404/) — ID.me
-- 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-07-13
-
-### [Site Reliability Engineer Intern (Compute Platform) - 2026 Summer (BS/MS)](https://www.linkedin.com/jobs/view/4279793843/) — TikTok
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-07-13
-
-### [Systems Engineer](https://www.linkedin.com/jobs/view/4440039545/) — eTeam
-- 📍 **Location:** Santa Rosa, CA
-- 🕒 **Posted:** 2026-07-13
-
-### [Data Engineer Intern (Data Platform - Global Live) - 2026 Start (MS)](https://www.linkedin.com/jobs/view/4324359857/) — TikTok
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-07-13
-
-### [Software Engineer Project Intern (AI Infrastructure) - 2026 Start (PhD)](https://www.linkedin.com/jobs/view/4435844742/) — ByteDance
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-07-13
-
-### [Software Engineer Intern (Recommendation Infrastructure) - 2026 Summer (BS/MS)](https://www.linkedin.com/jobs/view/4275028255/) — TikTok
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-07-13
-
-### [Security Engineer](https://www.linkedin.com/jobs/view/4437285384/) — Planet Pharma
-- 📍 **Location:** Alameda, CA
-- 🕒 **Posted:** 2026-07-13
-
-### [Security Software Engineer Project Intern (Network Security) - 2026 Start (BS/MS)](https://www.linkedin.com/jobs/view/4435851443/) — ByteDance
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-07-13
-
-### [Security Software Engineer Project Intern (Network Security) - 2026 Start (BS/MS)](https://www.linkedin.com/jobs/view/4435855106/) — ByteDance
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-07-13
-
-### [Security Software Engineer Project Intern (Network Security) - 2026 Start (BS/MS)](https://www.linkedin.com/jobs/view/4435857047/) — ByteDance
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-07-13
-
-### [Growth Data Engineer](https://www.linkedin.com/jobs/view/4439418461/) — Jobright.ai
+### [Senior ML Engineer](https://www.linkedin.com/jobs/view/4439428441/) — Jobright.ai
 - 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-07-13
-
-### [Senior Data Engineer](https://www.linkedin.com/jobs/view/4434465708/) — Pivotal Partners
-- 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-07-13
-
-### [People Data Engineer](https://www.linkedin.com/jobs/view/4438835818/) — Vertisystem (A MOURI Tech Company)
-- 📍 **Location:** San Jose, CA
-- 💰 **Salary:** $65.00/hr - $68.00/hr
-- 🕒 **Posted:** 2026-07-13
-
-### [Student Researcher (LLM Post Training – Agent & Reinforcement Learning) - 2026 Start (PhD)](https://www.linkedin.com/jobs/view/4436126677/) — ByteDance
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-07-13
-
-### [Machine Learning Engineer Intern (TikTok Search) - 2026 Start (PhD)](https://www.linkedin.com/jobs/view/4314712262/) — TikTok
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-07-13
-
-### [Machine Learning Engineer Intern (Global E-Commerce Content Recommendation) - 2026 Summer (BS/MS)](https://www.linkedin.com/jobs/view/4397509379/) — TikTok
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-07-13
-
-### [Machine Learning Engineer Intern (Monetization Technology - Ads Creative AI) - 2026 Summer (BS/MS)](https://www.linkedin.com/jobs/view/4281378727/) — TikTok
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-07-13
-
-### [Machine Learning Engineer Intern (Monetization Technology - Ads Creative) - 2026 Start (BS/MS)](https://www.linkedin.com/jobs/view/4274027009/) — TikTok
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-07-13
-
-### [Machine Learning Engineer Intern (Trust and Safety - CV/NLP/Multimodal LLM) - 2026 Summer(BS/MS)](https://www.linkedin.com/jobs/view/4273281490/) — TikTok
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-07-13
-
-### [Machine Learning Engineer Intern (Ads Measurement Signal and Privacy) - 2026 Summer (BS/MS)](https://www.linkedin.com/jobs/view/4359002191/) — TikTok
-- 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-07-13
