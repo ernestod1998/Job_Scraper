@@ -1,34 +1,56 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area)
-*Last updated: 2026-07-13 02:17 UTC*
+*Last updated: 2026-07-13 03:17 UTC*
 
-**7 new role(s)** since last run · 14 total in last 1h
+**13 new role(s)** since last run · 20 total in last 1h
 
-### [Software Engineer, Localization](https://www.linkedin.com/jobs/view/4439767705/) — Mach Industries
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $125,000.00/yr - $220,000.00/yr
+### [Senior Machine Learning Engineer](https://www.linkedin.com/jobs/view/4430145507/) — kadence
+- 📍 **Location:** San Francisco Bay Area
 - 🕒 **Posted:** 2026-07-13
 
-### [Software Engineer, Scientific Computing](https://www.linkedin.com/jobs/view/4439764792/) — Vorticity Inc.
-- 📍 **Location:** Redwood City, CA
-- 💰 **Salary:** $130,000.00/yr - $190,000.00/yr
-- 🕒 **Posted:** 2026-07-13
-
-### [Lead Data Scientist](https://www.linkedin.com/jobs/view/4439766707/) — Onos Health
+### [Data Scientist / ML Engineer](https://www.linkedin.com/jobs/view/4439776472/) — VCAZ Digital Marketing Agency
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-07-13
 
-### [Senior Software Engineer, Internal Tools](https://www.linkedin.com/jobs/view/4439112641/) — Garuda Ventures
+### [DATA SCIENTIST](https://www.linkedin.com/jobs/view/4439771694/) — InaiPro Point Private Limited
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-07-13
 
-### [LATAM - Backend Developer](https://www.linkedin.com/jobs/view/4437244044/) — Playsaurus Inc.
-- 📍 **Location:** Alameda, CA
-- 🕒 **Posted:** 2026-07-13
-
-### [LATAM - Data Science Engineer](https://www.linkedin.com/jobs/view/4437235272/) — Playsaurus Inc.
-- 📍 **Location:** Alameda, CA
-- 🕒 **Posted:** 2026-07-13
-
-### [MACHINE LEARNING ENGINEER](https://www.linkedin.com/jobs/view/4439758887/) — VCAZ Digital Marketing Agency
+### [Senior Software Engineer, Payments](https://www.linkedin.com/jobs/view/4439761974/) — Wonderschool
 - 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-07-13
+
+### [Lead Backend Engineer (AI Infrastructure & Data Platforms) | USA](https://www.linkedin.com/jobs/view/4439117581/) — C&D Talent Advisory - Academy
+- 📍 **Location:** Palo Alto, CA
+- 🕒 **Posted:** 2026-07-13
+
+### [Lead Backend Engineer (AI Infrastructure & Data Platforms) | USA](https://www.linkedin.com/jobs/view/4439105921/) — C&D Talent Advisory - Academy
+- 📍 **Location:** Mountain View, CA
+- 🕒 **Posted:** 2026-07-13
+
+### [Lead Backend Engineer (AI Infrastructure & Data Platforms) | USA](https://www.linkedin.com/jobs/view/4439112719/) — C&D Talent Advisory - Academy
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-07-13
+
+### [Deep Learning Engineer](https://www.linkedin.com/jobs/view/4439764848/) — VCAZ Digital Marketing Agency
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-07-13
+
+### [DEEP LEARNING ENGINEER](https://www.linkedin.com/jobs/view/4439764950/) — InaiPro Point Private Limited
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-07-13
+
+### [COMPUTER VISION ENGINEER](https://www.linkedin.com/jobs/view/4439769643/) — VCAZ Digital Marketing Agency
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-07-13
+
+### [AI Engineer](https://www.linkedin.com/jobs/view/4439371023/) — kadence
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-07-13
+
+### [COMPUTER VISION SPECIALIST](https://www.linkedin.com/jobs/view/4439758886/) — VCAZ Digital Marketing Agency
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-07-13
+
+### [Lead Backend Engineer (AI Infrastructure & Data Platforms) | USA](https://www.linkedin.com/jobs/view/4439117573/) — C&D Talent Advisory - Academy
+- 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-07-13
