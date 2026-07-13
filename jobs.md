@@ -1,12 +1,8 @@
 # 🧬 Biotech LinkedIn — MLE / DS Roles
-*Last updated: 2026-07-12 06:12 UTC*
+*Last updated: 2026-07-13 06:29 UTC*
 
-**2 new role(s)** since last run · 28 total in last 24h
+**1 new role(s)** since last run · 27 total in last 24h
 
-### [Rust/C++ Backend Engineer - Enterprise Agent](https://www.linkedin.com/jobs/view/4262573291/) — xAI
+### [Software Engineer - X Data](https://www.linkedin.com/jobs/view/4439717536/) — xAI
 - 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-07-11
-
-### [MSAT Data Science Engineer](https://www.linkedin.com/jobs/view/4430968589/) — Allogene Therapeutics
-- 📍 **Location:** Newark, CA
-- 🕒 **Posted:** 2026-07-11
+- 🕒 **Posted:** 2026-07-12
