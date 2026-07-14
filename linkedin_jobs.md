@@ -1,88 +1,84 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area)
-*Last updated: 2026-07-14 21:17 UTC*
+*Last updated: 2026-07-14 22:17 UTC*
 
-**20 new role(s)** since last run · 39 total in last 1h
+**19 new role(s)** since last run · 30 total in last 1h
 
-### [Research Engineer](https://www.linkedin.com/jobs/view/4440842477/) — Hedra
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-07-14
-
-### [Software Engineer - Science Platform (BE) - San Francisco](https://www.linkedin.com/jobs/view/4438352196/) — Haus
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-07-14
-
-### [Robotics Software Engineer: Simulation and Data Collection](https://www.linkedin.com/jobs/view/4439902949/) — Honda Research Institute USA, Inc.
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-07-14
-
-### [Software Engineer](https://www.linkedin.com/jobs/view/4439917303/) — Allen Control Systems
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-07-14
-
-### [AI Engineer](https://www.linkedin.com/jobs/view/4439928024/) — Jobright.ai
-- 📍 **Location:** Santa Clara County, CA
-- 🕒 **Posted:** 2026-07-14
-
-### [Senior AI Engineer – Voice & Agentic Systems](https://www.linkedin.com/jobs/view/4439927118/) — MeeBoss
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-07-14
-
-### [Microsoft 365 AI Platform Engineer](https://www.linkedin.com/jobs/view/4439924305/) — Innova Solutions
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-07-14
-
-### [Senior Software Engineer, Annotation Systems](https://www.linkedin.com/jobs/view/4433012652/) — Obvio
-- 📍 **Location:** San Carlos, CA
-- 🕒 **Posted:** 2026-07-14
-
-### [Data Engineer](https://www.linkedin.com/jobs/view/4439911594/) — Denken Solutions, Inc.
-- 📍 **Location:** San Mateo, CA
-- 🕒 **Posted:** 2026-07-14
-
-### [Product Engineering Team - Software Engineer (Mid-Level)](https://www.linkedin.com/jobs/view/4438018640/) — Sprinter Health
-- 📍 **Location:** Menlo Park, CA
-- 🕒 **Posted:** 2026-07-14
-
-### [Product Engineering Team - Software Engineer (Senior)](https://www.linkedin.com/jobs/view/4438017677/) — Sprinter Health
-- 📍 **Location:** Menlo Park, CA
-- 🕒 **Posted:** 2026-07-14
-
-### [Embedded Software Engineer](https://www.linkedin.com/jobs/view/4440840117/) — Motion Recruitment
-- 📍 **Location:** Foster City, CA
-- 🕒 **Posted:** 2026-07-14
-
-### [Senior Backend Engineer](https://www.linkedin.com/jobs/view/4440849184/) — Hedra
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $175,000.00/yr - $275,000.00/yr
-- 🕒 **Posted:** 2026-07-14
-
-### [Senior Full-Stack Engineer](https://www.linkedin.com/jobs/view/4440845370/) — Hedra
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $175,000.00/yr - $275,000.00/yr
-- 🕒 **Posted:** 2026-07-14
-
-### [Senior Full Stack Engineer - San Francisco](https://www.linkedin.com/jobs/view/4414192999/) — Haus
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-07-14
-
-### [Java Software Engineer Only W2](https://www.linkedin.com/jobs/view/4440830811/) — Flexton Inc.
+### [AI/ML Engineer - Model Inference](https://www.linkedin.com/jobs/view/4440861108/) — General Motors
 - 📍 **Location:** Sunnyvale, CA
 - 🕒 **Posted:** 2026-07-14
 
-### [Technical Lead Platform Engineer](https://www.linkedin.com/jobs/view/4439925140/) — Jobright.ai
-- 📍 **Location:** Palo Alto, CA
+### [Machine Learning Engineer, Sensor Pipelines](https://www.linkedin.com/jobs/view/4439926350/) — Waymo
+- 📍 **Location:** Mountain View, CA
 - 🕒 **Posted:** 2026-07-14
 
-### [Enterprise Security Engineer](https://www.linkedin.com/jobs/view/4423580983/) — Benchling
+### [Senior ML Engineer](https://www.linkedin.com/jobs/view/4439926288/) — Jobright.ai
 - 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $189,000.00/yr - $256,000.00/yr
 - 🕒 **Posted:** 2026-07-14
 
-### [Senior Software Engineer, Product](https://www.linkedin.com/jobs/view/4439908886/) — Jobright.ai
-- 📍 **Location:** Burlingame, CA
+### [Senior AI Software Engineer - HP IQ](https://www.linkedin.com/jobs/view/4440839919/) — HP
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-07-14
 
-### [Senior Data Engineer](https://www.linkedin.com/jobs/view/4439910794/) — Insight Global
-- 📍 **Location:** Oakland, CA
-- 💰 **Salary:** $115,000.00/yr - $140,000.00/yr
+### [Lead Data Scientist](https://www.linkedin.com/jobs/view/4438015842/) — Snorkel AI
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-07-14
+
+### [Navigation Software Engineer](https://www.linkedin.com/jobs/view/4439913960/) — Spanidea Inc
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-07-14
+
+### [Software Engineer, Fleet Orchestration Core](https://www.linkedin.com/jobs/view/4416102610/) — Waymo
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-07-14
+
+### [Pricing Data Engineer](https://www.linkedin.com/jobs/view/4440852570/) — McDermott Will & Schulte
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-07-14
+
+### [Software Engineer - AI Agent](https://www.linkedin.com/jobs/view/4439921715/) — Jobright.ai
+- 📍 **Location:** San Mateo County, CA
+- 🕒 **Posted:** 2026-07-14
+
+### [Software Engineer](https://www.linkedin.com/jobs/view/4439910855/) — Jobright.ai
+- 📍 **Location:** Los Altos, CA
+- 🕒 **Posted:** 2026-07-14
+
+### [Software Engineer II](https://www.linkedin.com/jobs/view/4438032108/) — Sam's Club
+- 📍 **Location:** Sunnyvale, CA
+- 💰 **Salary:** $104,000.00/yr - $202,000.00/yr
+- 🕒 **Posted:** 2026-07-14
+
+### [Co-Op, Software Engineer - Action Runtime](https://www.linkedin.com/jobs/view/4440835953/) — LiveRamp
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-07-14
+
+### [Software Engineer QA II (Full Time) – United States](https://www.linkedin.com/jobs/view/4440852506/) — Cisco
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-07-14
+
+### [Senior Backend Software Engineer (Java)](https://www.linkedin.com/jobs/view/4439929000/) — OSI Engineering
+- 📍 **Location:** Menlo Park, CA
+- 💰 **Salary:** $175,000.00/yr - $190,000.00/yr
+- 🕒 **Posted:** 2026-07-14
+
+### [Senior, Software Engineer](https://www.linkedin.com/jobs/view/4438032111/) — Walmart
+- 📍 **Location:** Sunnyvale, CA
+- 💰 **Salary:** $117,000.00/yr - $234,000.00/yr
+- 🕒 **Posted:** 2026-07-14
+
+### [Senior Software Engineer – Virtual Cloud Platform](https://www.linkedin.com/jobs/view/4440845559/) — General Motors
+- 📍 **Location:** Mountain View, CA
+- 🕒 **Posted:** 2026-07-14
+
+### [Lead Google Cloud Platform Data Engineer](https://www.linkedin.com/jobs/view/4439930029/) — Staffing Spot, Inc.
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $65.00/hr - $70.00/hr
+- 🕒 **Posted:** 2026-07-14
+
+### [Beam Delivery Systems Engineering Department Head](https://www.linkedin.com/jobs/view/4440326510/) — Stanford University
+- 📍 **Location:** Menlo Park, CA
+- 🕒 **Posted:** 2026-07-14
+
+### [Software Engineering Specialist](https://www.linkedin.com/jobs/view/4438024239/) — VertoTech
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-07-14
