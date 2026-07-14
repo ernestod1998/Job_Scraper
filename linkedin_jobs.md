@@ -1,97 +1,114 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area)
-*Last updated: 2026-07-14 00:17 UTC*
+*Last updated: 2026-07-14 01:17 UTC*
 
-**23 new role(s)** since last run · 30 total in last 1h
+**24 new role(s)** since last run · 39 total in last 1h
 
-### [Software Engineer, Ads Pangle - USDS](https://www.linkedin.com/jobs/view/4402088508/) — TikTok USDS Joint Venture
+### [AI/ML Engineer](https://www.linkedin.com/jobs/view/4439495375/) — Ello
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $155,000.00/yr - $205,000.00/yr
+- 🕒 **Posted:** 2026-07-14
+
+### [Research Engineer, Synthetic Data](https://www.linkedin.com/jobs/view/4439485644/) — HUD
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $140,000.00/yr - $250,000.00/yr
+- 🕒 **Posted:** 2026-07-14
+
+### [Full-Stack Software Engineer](https://www.linkedin.com/jobs/view/4439494471/) — Alex AI
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $100,000.00/yr - $250,000.00/yr
+- 🕒 **Posted:** 2026-07-14
+
+### [Software Engineer, Scientific Computing](https://www.linkedin.com/jobs/view/4439489559/) — Vorticity Inc.
+- 📍 **Location:** Redwood City, CA
+- 💰 **Salary:** $130,000.00/yr - $190,000.00/yr
+- 🕒 **Posted:** 2026-07-14
+
+### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4440369171/) — Carbon
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-07-14
+
+### [Software Engineer](https://www.linkedin.com/jobs/view/4437625913/) — Super Micro Computer Spain, S.L.
 - 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-07-14
 
-### [Senior Software Engineer, Ads Pangle - USDS](https://www.linkedin.com/jobs/view/4402075980/) — TikTok USDS Joint Venture
+### [Sr. Software Engineer - System Validation](https://www.linkedin.com/jobs/view/4437642008/) — Super Micro Computer Spain, S.L.
 - 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-07-14
 
-### [Senior Data Scientist, Voice of the Customer - GeForce NOW](https://www.linkedin.com/jobs/view/4439495088/) — NVIDIA
-- 📍 **Location:** Santa Clara, CA
+### [Applied Research Engineer](https://www.linkedin.com/jobs/view/4439479769/) — HUD
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $140,000.00/yr - $250,000.00/yr
 - 🕒 **Posted:** 2026-07-14
 
-### [Data Scientist, Ads - USDS](https://www.linkedin.com/jobs/view/4402081843/) — TikTok USDS Joint Venture
+### [Research Engineer (General)](https://www.linkedin.com/jobs/view/4439489560/) — HUD
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $140,000.00/yr - $250,000.00/yr
+- 🕒 **Posted:** 2026-07-14
+
+### [Research Engineer, Benchmarks](https://www.linkedin.com/jobs/view/4439485642/) — HUD
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $140,000.00/yr - $250,000.00/yr
+- 🕒 **Posted:** 2026-07-14
+
+### [Research Engineer, QC Automation](https://www.linkedin.com/jobs/view/4439492532/) — HUD
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $140,000.00/yr - $250,000.00/yr
+- 🕒 **Posted:** 2026-07-14
+
+### [Software Engineer](https://www.linkedin.com/jobs/view/4437635254/) — Super Micro Computer Spain, S.L.
 - 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-07-14
 
-### [High Performance AI Engineer](https://www.linkedin.com/jobs/view/4439475836/) — NVIDIA
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-07-14
-
-### [Senior Machine Learning Engineer - Ads Pangle - USDS](https://www.linkedin.com/jobs/view/4402091358/) — TikTok USDS Joint Venture
+### [Software Engineer](https://www.linkedin.com/jobs/view/4437619941/) — Super Micro Computer Spain, S.L.
 - 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-07-14
 
-### [Senior Software Engineer, Ads - Core Infra - USDS](https://www.linkedin.com/jobs/view/4402084703/) — TikTok USDS Joint Venture
-- 📍 **Location:** San Jose, CA
+### [Platform Engineer](https://www.linkedin.com/jobs/view/4439485643/) — HUD
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $140,000.00/yr - $250,000.00/yr
 - 🕒 **Posted:** 2026-07-14
 
-### [Software Engineer I, Creator Sponsorships](https://www.linkedin.com/jobs/view/4440357335/) — Amazon Web Services (AWS)
+### [Senior Backend Engineer, Risk Systems](https://www.linkedin.com/jobs/view/4439492534/) — Slope
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-07-14
 
-### [Senior System Software Engineer - Data Platform Observability](https://www.linkedin.com/jobs/view/4439479479/) — NVIDIA
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-07-14
-
-### [Senior Platform Engineer, Workday Extend & Integrations](https://www.linkedin.com/jobs/view/4440349506/) — Lyft
-- 📍 **Location:** San Francisco County, CA
-- 🕒 **Posted:** 2026-07-14
-
-### [Senior C++ Software Engineer - Infrastructure Tools](https://www.linkedin.com/jobs/view/4439489249/) — NVIDIA
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-07-14
-
-### [Senior Data Engineer](https://www.linkedin.com/jobs/view/4440360416/) — Fastly
+### [Software Engineer (Infra)](https://www.linkedin.com/jobs/view/4439801041/) — Numeral
 - 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $180,000.00/yr - $300,000.00/yr
 - 🕒 **Posted:** 2026-07-14
 
-### [Applied Scientist II, Search Ranking](https://www.linkedin.com/jobs/view/4440364071/) — Amazon
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-07-14
-
-### [Senior Data Scientist – Prognostic and Health Monitoring (HUMS)](https://www.linkedin.com/jobs/view/4440368119/) — Joby Aviation
-- 📍 **Location:** Santa Cruz, CA
-- 🕒 **Posted:** 2026-07-14
-
-### [LATAM - Data Science Engineer](https://www.linkedin.com/jobs/view/4437632309/) — Playsaurus Inc.
-- 📍 **Location:** Alameda, CA
-- 🕒 **Posted:** 2026-07-13
-
-### [Sr. Data Engineer, Demand Decision Systems](https://www.linkedin.com/jobs/view/4439481166/) — Rivian
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-07-13
-
-### [Senior Software Engineer, Platform](https://www.linkedin.com/jobs/view/4437636082/) — Omada Health
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-07-13
-
-### [Sr. Data Engineer, Ops Decision Systems](https://www.linkedin.com/jobs/view/4439482126/) — Rivian
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-07-13
-
-### [DevOps Engineer III](https://www.linkedin.com/jobs/view/4440349380/) — Robert Half
-- 📍 **Location:** San Ramon, CA
-- 🕒 **Posted:** 2026-07-13
-
-### [Helix AI Engineer, Android Tooling](https://www.linkedin.com/jobs/view/4440347681/) — Figure
+### [Software Engineer](https://www.linkedin.com/jobs/view/4437619940/) — Super Micro Computer Spain, S.L.
 - 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-07-13
+- 🕒 **Posted:** 2026-07-14
 
-### [LATAM - Backend Developer](https://www.linkedin.com/jobs/view/4437637092/) — Playsaurus Inc.
-- 📍 **Location:** Alameda, CA
-- 🕒 **Posted:** 2026-07-13
+### [Software Engineer 3, Documentation Platform](https://www.linkedin.com/jobs/view/4440369093/) — MongoDB
+- 📍 **Location:** Palo Alto, CA
+- 🕒 **Posted:** 2026-07-14
 
-### [Urgent_Network Devops Engineer@ San Francisco, Bay Area/ Hybrid](https://www.linkedin.com/jobs/view/4440352264/) — Platinum Enterprise Solutions, Inc.
-- 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-07-13
+### [Software Engineer 3, Documentation Platform](https://www.linkedin.com/jobs/view/4440368217/) — MongoDB
+- 📍 **Location:** Palo Alto, CA
+- 🕒 **Posted:** 2026-07-14
 
-### [Data Platform Infrastructure Engineer](https://www.linkedin.com/jobs/view/4439491088/) — Bayside Solutions
-- 📍 **Location:** Cupertino, CA
-- 💰 **Salary:** $55.00/hr - $65.00/hr
-- 🕒 **Posted:** 2026-07-13
+### [Software Engineer 3, Documentation Platform](https://www.linkedin.com/jobs/view/4440356572/) — MongoDB
+- 📍 **Location:** Palo Alto, CA
+- 🕒 **Posted:** 2026-07-14
+
+### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4439801048/) — FleetWorks
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $160,000.00/yr - $240,000.00/yr
+- 🕒 **Posted:** 2026-07-14
+
+### [Distributed Systems Engineer](https://www.linkedin.com/jobs/view/4439487606/) — Dedalus Labs
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $180,000.00/yr - $280,000.00/yr
+- 🕒 **Posted:** 2026-07-14
+
+### [Systems Engineer](https://www.linkedin.com/jobs/view/4439478979/) — Dedalus Labs
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $150,000.00/yr - $250,000.00/yr
+- 🕒 **Posted:** 2026-07-14
+
+### [Backend Engineer](https://www.linkedin.com/jobs/view/4440359739/) — Scribe
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $140,000.00/yr - $185,000.00/yr
+- 🕒 **Posted:** 2026-07-14
