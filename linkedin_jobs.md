@@ -1,80 +1,97 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area)
-*Last updated: 2026-07-13 23:17 UTC*
+*Last updated: 2026-07-14 00:17 UTC*
 
-**18 new role(s)** since last run · 36 total in last 1h
+**23 new role(s)** since last run · 30 total in last 1h
 
-### [Senior Software Engineer, Crusoe Container Registry](https://www.linkedin.com/jobs/view/4440326703/) — Crusoe
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-07-13
+### [Software Engineer, Ads Pangle - USDS](https://www.linkedin.com/jobs/view/4402088508/) — TikTok USDS Joint Venture
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-07-14
 
-### [Software Engineer - Systems](https://www.linkedin.com/jobs/view/4440343594/) — FUJIFILM Dimatix, Inc.
+### [Senior Software Engineer, Ads Pangle - USDS](https://www.linkedin.com/jobs/view/4402075980/) — TikTok USDS Joint Venture
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-07-14
+
+### [Senior Data Scientist, Voice of the Customer - GeForce NOW](https://www.linkedin.com/jobs/view/4439495088/) — NVIDIA
 - 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-07-13
+- 🕒 **Posted:** 2026-07-14
 
-### [Senior Motion Planning Software Engineer](https://www.linkedin.com/jobs/view/4440342687/) — Zipline
-- 📍 **Location:** South San Francisco, CA
-- 🕒 **Posted:** 2026-07-13
+### [Data Scientist, Ads - USDS](https://www.linkedin.com/jobs/view/4402081843/) — TikTok USDS Joint Venture
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-07-14
 
-### [Software Engineer Intern](https://www.linkedin.com/jobs/view/4439470867/) — Serval
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $11,000.00/mo - $11,000.00/mo
-- 🕒 **Posted:** 2026-07-13
-
-### [Senior Research Data Scientist, Search Ads](https://www.linkedin.com/jobs/view/4439477290/) — Google
-- 📍 **Location:** Mountain View, CA
-- 🕒 **Posted:** 2026-07-13
-
-### [Software Engineer, Codex — User Activation](https://www.linkedin.com/jobs/view/4439488019/) — OpenAI
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $230,000.00/yr - $385,000.00/yr
-- 🕒 **Posted:** 2026-07-13
-
-### [AI Engineer Lead](https://www.linkedin.com/jobs/view/4437627222/) — Galaxy i technologies Inc
+### [High Performance AI Engineer](https://www.linkedin.com/jobs/view/4439475836/) — NVIDIA
 - 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-07-13
+- 🕒 **Posted:** 2026-07-14
 
-### [AI Engineer](https://www.linkedin.com/jobs/view/4439482090/) — Jobright.ai
+### [Senior Machine Learning Engineer - Ads Pangle - USDS](https://www.linkedin.com/jobs/view/4402091358/) — TikTok USDS Joint Venture
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-07-14
+
+### [Senior Software Engineer, Ads - Core Infra - USDS](https://www.linkedin.com/jobs/view/4402084703/) — TikTok USDS Joint Venture
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-07-14
+
+### [Software Engineer I, Creator Sponsorships](https://www.linkedin.com/jobs/view/4440357335/) — Amazon Web Services (AWS)
 - 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-07-13
+- 🕒 **Posted:** 2026-07-14
 
-### [Software Engineer III, AI/ML, gUP Customer Support](https://www.linkedin.com/jobs/view/4439476334/) — Google
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-07-13
-
-### [Lead AI Engineer (Agentic AI / LLM Engineer)](https://www.linkedin.com/jobs/view/4439482032/) — Galaxy i technologies Inc
+### [Senior System Software Engineer - Data Platform Observability](https://www.linkedin.com/jobs/view/4439479479/) — NVIDIA
 - 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-07-14
+
+### [Senior Platform Engineer, Workday Extend & Integrations](https://www.linkedin.com/jobs/view/4440349506/) — Lyft
+- 📍 **Location:** San Francisco County, CA
+- 🕒 **Posted:** 2026-07-14
+
+### [Senior C++ Software Engineer - Infrastructure Tools](https://www.linkedin.com/jobs/view/4439489249/) — NVIDIA
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-07-14
+
+### [Senior Data Engineer](https://www.linkedin.com/jobs/view/4440360416/) — Fastly
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-07-14
+
+### [Applied Scientist II, Search Ranking](https://www.linkedin.com/jobs/view/4440364071/) — Amazon
+- 📍 **Location:** Palo Alto, CA
+- 🕒 **Posted:** 2026-07-14
+
+### [Senior Data Scientist – Prognostic and Health Monitoring (HUMS)](https://www.linkedin.com/jobs/view/4440368119/) — Joby Aviation
+- 📍 **Location:** Santa Cruz, CA
+- 🕒 **Posted:** 2026-07-14
+
+### [LATAM - Data Science Engineer](https://www.linkedin.com/jobs/view/4437632309/) — Playsaurus Inc.
+- 📍 **Location:** Alameda, CA
 - 🕒 **Posted:** 2026-07-13
 
-### [Senior Software Engineering Manager, Chrome Enterprise](https://www.linkedin.com/jobs/view/4439467771/) — Google
-- 📍 **Location:** Mountain View, CA
+### [Sr. Data Engineer, Demand Decision Systems](https://www.linkedin.com/jobs/view/4439481166/) — Rivian
+- 📍 **Location:** Palo Alto, CA
 - 🕒 **Posted:** 2026-07-13
 
-### [Java Full Stack Engineer](https://www.linkedin.com/jobs/view/4439465968/) — Tata Consultancy Services
+### [Senior Software Engineer, Platform](https://www.linkedin.com/jobs/view/4437636082/) — Omada Health
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-07-13
 
-### [DevOps Engineer with Terraform](https://www.linkedin.com/jobs/view/4440348334/) — Infobahn Softworld Inc
+### [Sr. Data Engineer, Ops Decision Systems](https://www.linkedin.com/jobs/view/4439482126/) — Rivian
+- 📍 **Location:** Palo Alto, CA
+- 🕒 **Posted:** 2026-07-13
+
+### [DevOps Engineer III](https://www.linkedin.com/jobs/view/4440349380/) — Robert Half
+- 📍 **Location:** San Ramon, CA
+- 🕒 **Posted:** 2026-07-13
+
+### [Helix AI Engineer, Android Tooling](https://www.linkedin.com/jobs/view/4440347681/) — Figure
 - 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-07-13
 
-### [Embedded Software Engineer](https://www.linkedin.com/jobs/view/4439473712/) — Lumicity
+### [LATAM - Backend Developer](https://www.linkedin.com/jobs/view/4437637092/) — Playsaurus Inc.
+- 📍 **Location:** Alameda, CA
+- 🕒 **Posted:** 2026-07-13
+
+### [Urgent_Network Devops Engineer@ San Francisco, Bay Area/ Hybrid](https://www.linkedin.com/jobs/view/4440352264/) — Platinum Enterprise Solutions, Inc.
 - 📍 **Location:** San Francisco Bay Area
-- 💰 **Salary:** $155,000.00/yr - $175,000.00/yr
 - 🕒 **Posted:** 2026-07-13
 
-### [Software Engineer, Codex -Enterprise Controls](https://www.linkedin.com/jobs/view/4439471828/) — OpenAI
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $230,000.00/yr - $385,000.00/yr
-- 🕒 **Posted:** 2026-07-13
-
-### [Android Software Engineer III, Verily Me](https://www.linkedin.com/jobs/view/4414498994/) — Verily Health
-- 📍 **Location:** San Bruno, CA
-- 🕒 **Posted:** 2026-07-13
-
-### [Data Technical Product Manager (Research & Data Platform)](https://www.linkedin.com/jobs/view/4439460755/) — Carnaby Fox
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-07-13
-
-### [Simulation Software Engineer](https://www.linkedin.com/jobs/view/4440347373/) — Zipline
-- 📍 **Location:** South San Francisco, CA
+### [Data Platform Infrastructure Engineer](https://www.linkedin.com/jobs/view/4439491088/) — Bayside Solutions
+- 📍 **Location:** Cupertino, CA
+- 💰 **Salary:** $55.00/hr - $65.00/hr
 - 🕒 **Posted:** 2026-07-13
