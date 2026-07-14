@@ -1,114 +1,86 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area)
-*Last updated: 2026-07-14 01:17 UTC*
+*Last updated: 2026-07-14 02:18 UTC*
 
-**24 new role(s)** since last run · 39 total in last 1h
+**19 new role(s)** since last run · 33 total in last 1h
 
-### [AI/ML Engineer](https://www.linkedin.com/jobs/view/4439495375/) — Ello
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $155,000.00/yr - $205,000.00/yr
+### [Machine Learning Research Engineer](https://www.linkedin.com/jobs/view/4440367954/) — WindBorne Systems
+- 📍 **Location:** Palo Alto, CA
 - 🕒 **Posted:** 2026-07-14
 
-### [Research Engineer, Synthetic Data](https://www.linkedin.com/jobs/view/4439485644/) — HUD
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $140,000.00/yr - $250,000.00/yr
+### [Machine Learning Research Engineer, Applied Research](https://www.linkedin.com/jobs/view/4440385056/) — WindBorne Systems
+- 📍 **Location:** Palo Alto, CA
 - 🕒 **Posted:** 2026-07-14
 
-### [Full-Stack Software Engineer](https://www.linkedin.com/jobs/view/4439494471/) — Alex AI
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $100,000.00/yr - $250,000.00/yr
+### [Senior AI Research Engineer](https://www.linkedin.com/jobs/view/4440377144/) — Deep Abacus
+- 📍 **Location:** San Francisco Bay Area
 - 🕒 **Posted:** 2026-07-14
 
-### [Software Engineer, Scientific Computing](https://www.linkedin.com/jobs/view/4439489559/) — Vorticity Inc.
+### [Soccer Data Scientist](https://www.linkedin.com/jobs/view/4439486853/) — Swish Analytics
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-07-14
+
+### [Software Engineer, Android](https://www.linkedin.com/jobs/view/4434760131/) — Wispr Flow
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $180,000.00/yr - $325,000.00/yr
+- 🕒 **Posted:** 2026-07-14
+
+### [Low Level Software Engineer (SPU)](https://www.linkedin.com/jobs/view/4440369747/) — Vorticity Inc.
 - 📍 **Location:** Redwood City, CA
 - 💰 **Salary:** $130,000.00/yr - $190,000.00/yr
 - 🕒 **Posted:** 2026-07-14
 
-### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4440369171/) — Carbon
+### [Lead Software Engineer - Kernels](https://www.linkedin.com/jobs/view/4440372232/) — MatX
+- 📍 **Location:** Mountain View, CA
+- 🕒 **Posted:** 2026-07-14
+
+### [Machine Learning Research Engineer, Model Evaluation](https://www.linkedin.com/jobs/view/4440369758/) — WindBorne Systems
+- 📍 **Location:** Palo Alto, CA
+- 🕒 **Posted:** 2026-07-14
+
+### [Software Engineer I, Entry-Level (Graduation Date: Fall 2025-Summer 2026)](https://www.linkedin.com/jobs/view/4437636303/) — DoorDash
 - 📍 **Location:** Sunnyvale, CA
 - 🕒 **Posted:** 2026-07-14
 
-### [Software Engineer](https://www.linkedin.com/jobs/view/4437625913/) — Super Micro Computer Spain, S.L.
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-07-14
-
-### [Sr. Software Engineer - System Validation](https://www.linkedin.com/jobs/view/4437642008/) — Super Micro Computer Spain, S.L.
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-07-14
-
-### [Applied Research Engineer](https://www.linkedin.com/jobs/view/4439479769/) — HUD
+### [Software Engineer](https://www.linkedin.com/jobs/view/4440374428/) — Circleback
 - 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $140,000.00/yr - $250,000.00/yr
+- 💰 **Salary:** $145,000.00/yr - $240,000.00/yr
 - 🕒 **Posted:** 2026-07-14
 
-### [Research Engineer (General)](https://www.linkedin.com/jobs/view/4439489560/) — HUD
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $140,000.00/yr - $250,000.00/yr
+### [Software Engineer](https://www.linkedin.com/jobs/view/4440366911/) — MintMCP
+- 📍 **Location:** San Mateo, CA
 - 🕒 **Posted:** 2026-07-14
 
-### [Research Engineer, Benchmarks](https://www.linkedin.com/jobs/view/4439485642/) — HUD
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $140,000.00/yr - $250,000.00/yr
-- 🕒 **Posted:** 2026-07-14
-
-### [Research Engineer, QC Automation](https://www.linkedin.com/jobs/view/4439492532/) — HUD
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $140,000.00/yr - $250,000.00/yr
-- 🕒 **Posted:** 2026-07-14
-
-### [Software Engineer](https://www.linkedin.com/jobs/view/4437635254/) — Super Micro Computer Spain, S.L.
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-07-14
-
-### [Software Engineer](https://www.linkedin.com/jobs/view/4437619941/) — Super Micro Computer Spain, S.L.
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-07-14
-
-### [Platform Engineer](https://www.linkedin.com/jobs/view/4439485643/) — HUD
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $140,000.00/yr - $250,000.00/yr
-- 🕒 **Posted:** 2026-07-14
-
-### [Senior Backend Engineer, Risk Systems](https://www.linkedin.com/jobs/view/4439492534/) — Slope
+### [Software Engineer](https://www.linkedin.com/jobs/view/4440383152/) — MintMCP
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-07-14
 
-### [Software Engineer (Infra)](https://www.linkedin.com/jobs/view/4439801041/) — Numeral
+### [Site Reliability Engineer](https://www.linkedin.com/jobs/view/4440384196/) — Runloop AI
 - 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $180,000.00/yr - $300,000.00/yr
 - 🕒 **Posted:** 2026-07-14
 
-### [Software Engineer](https://www.linkedin.com/jobs/view/4437619940/) — Super Micro Computer Spain, S.L.
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-07-14
-
-### [Software Engineer 3, Documentation Platform](https://www.linkedin.com/jobs/view/4440369093/) — MongoDB
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-07-14
-
-### [Software Engineer 3, Documentation Platform](https://www.linkedin.com/jobs/view/4440368217/) — MongoDB
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-07-14
-
-### [Software Engineer 3, Documentation Platform](https://www.linkedin.com/jobs/view/4440356572/) — MongoDB
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-07-14
-
-### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4439801048/) — FleetWorks
+### [Senior Software Engineer (AI Agents)](https://www.linkedin.com/jobs/view/4440381222/) — Traba
 - 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $160,000.00/yr - $240,000.00/yr
+- 💰 **Salary:** $200,000.00/yr - $240,000.00/yr
 - 🕒 **Posted:** 2026-07-14
 
-### [Distributed Systems Engineer](https://www.linkedin.com/jobs/view/4439487606/) — Dedalus Labs
+### [Research Engineer, Chip Design RL (Reinforcement Learning)](https://www.linkedin.com/jobs/view/4439494667/) — Anthropic
 - 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $180,000.00/yr - $280,000.00/yr
 - 🕒 **Posted:** 2026-07-14
 
-### [Systems Engineer](https://www.linkedin.com/jobs/view/4439478979/) — Dedalus Labs
+### [Software Engineer I, Entry-Level (Graduation Date: Fall 2025-Summer 2026)](https://www.linkedin.com/jobs/view/4437643167/) — DoorDash
 - 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $150,000.00/yr - $250,000.00/yr
 - 🕒 **Posted:** 2026-07-14
 
-### [Backend Engineer](https://www.linkedin.com/jobs/view/4440359739/) — Scribe
+### [Senior Full Stack Engineer](https://www.linkedin.com/jobs/view/4440376220/) — Sinclair Talent Solutions
 - 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $140,000.00/yr - $185,000.00/yr
+- 💰 **Salary:** $180,000.00/yr - $250,000.00/yr
+- 🕒 **Posted:** 2026-07-14
+
+### [Senior Software Engineer (Applied AI)](https://www.linkedin.com/jobs/view/4440385062/) — Traba
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $200,000.00/yr - $240,000.00/yr
+- 🕒 **Posted:** 2026-07-14
+
+### [Part-Time Student Worker Software Engineer (6-month Contract)](https://www.linkedin.com/jobs/view/4440382170/) — Zoox
+- 📍 **Location:** Foster City, CA
 - 🕒 **Posted:** 2026-07-14
