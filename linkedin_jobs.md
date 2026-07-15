@@ -1,76 +1,69 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area)
-*Last updated: 2026-07-15 22:17 UTC*
+*Last updated: 2026-07-15 23:17 UTC*
 
-**18 new role(s)** since last run · 32 total in last 1h
+**16 new role(s)** since last run · 23 total in last 1h
 
-### [Generative AI - ML System Engineering](https://www.linkedin.com/jobs/view/4441280182/) — MeshyAI
+### [Software Engineer, iOS/Mobile - Electronic Flight Bag (EFB)](https://www.linkedin.com/jobs/view/4441291029/) — Beacon AI
+- 📍 **Location:** San Carlos, CA
+- 🕒 **Posted:** 2026-07-15
+
+### [Software Engineer, Artificial Intelligence/LLM (Multiple Seniority Levels)](https://www.linkedin.com/jobs/view/4441274862/) — Beacon AI
+- 📍 **Location:** San Carlos, CA
+- 🕒 **Posted:** 2026-07-15
+
+### [Software Engineer, iOS/Mobile](https://www.linkedin.com/jobs/view/4441286218/) — Beacon AI
+- 📍 **Location:** San Carlos, CA
+- 🕒 **Posted:** 2026-07-15
+
+### [Software Engineer, iOS/Mobile - Health Wearable](https://www.linkedin.com/jobs/view/4441269967/) — Beacon AI
+- 📍 **Location:** San Carlos, CA
+- 🕒 **Posted:** 2026-07-15
+
+### [Senior Machine Learning Engineer, Applied AI Quality](https://www.linkedin.com/jobs/view/4441292056/) — Block
 - 📍 **Location:** San Francisco Bay Area
 - 🕒 **Posted:** 2026-07-15
 
-### [Research Engineer](https://www.linkedin.com/jobs/view/4441271677/) — Brahma Consulting Group
+### [Senior Software Engineer, Consumer Revenue](https://www.linkedin.com/jobs/view/4387199825/) — Discord
 - 📍 **Location:** San Francisco Bay Area
 - 🕒 **Posted:** 2026-07-15
 
-### [Generative AI - 3D Foundation Model](https://www.linkedin.com/jobs/view/4441268708/) — MeshyAI
+### [Software Engineer, Advanced Pilot Assistant Software (Autonomy/Robotics)](https://www.linkedin.com/jobs/view/4441282395/) — Beacon AI
+- 📍 **Location:** San Carlos, CA
+- 🕒 **Posted:** 2026-07-15
+
+### [AI Engineer](https://www.linkedin.com/jobs/view/4438433539/) — scalr
 - 📍 **Location:** San Francisco Bay Area
+- 💰 **Salary:** $200,000.00/yr - $350,000.00/yr
 - 🕒 **Posted:** 2026-07-15
 
-### [Senior AI Infrastructure Engineer](https://www.linkedin.com/jobs/view/4438259449/) — Seekr
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-07-15
-
-### [Data Scientist 2](https://www.linkedin.com/jobs/view/4440276712/) — Lam Research
-- 📍 **Location:** Fremont, CA
-- 🕒 **Posted:** 2026-07-15
-
-### [Senior AI/ML Engineer, Autonomy Build Platform](https://www.linkedin.com/jobs/view/4441268467/) — General Motors
-- 📍 **Location:** Mountain View, CA
-- 🕒 **Posted:** 2026-07-15
-
-### [Senior Technical Lead (Golang, Distributed Systems) – Isovalent Secure Workload (remote)](https://www.linkedin.com/jobs/view/4441265822/) — Cisco
-- 📍 **Location:** Milpitas, CA
-- 🕒 **Posted:** 2026-07-15
-
-### [Site Reliability Engineer](https://www.linkedin.com/jobs/view/4441279133/) — Cisco
-- 📍 **Location:** Milpitas, CA
-- 🕒 **Posted:** 2026-07-15
-
-### [Site Reliability Engineer](https://www.linkedin.com/jobs/view/4441280081/) — Cisco
+### [Software Engineer II](https://www.linkedin.com/jobs/view/4440279745/) — Cadence
 - 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-07-15
 
-### [Software Engineer - AI Agent](https://www.linkedin.com/jobs/view/4440282489/) — Jobright.ai
-- 📍 **Location:** San Mateo County, CA
-- 🕒 **Posted:** 2026-07-15
-
-### [Generative AI - Graphics Engineer](https://www.linkedin.com/jobs/view/4441264889/) — MeshyAI
+### [Senior Data Engineer](https://www.linkedin.com/jobs/view/4441280483/) — Tessera Data
 - 📍 **Location:** San Francisco Bay Area
 - 🕒 **Posted:** 2026-07-15
 
-### [Cloud Security Engineer](https://www.linkedin.com/jobs/view/4441266502/) — Theory Ventures
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-07-15
-
-### [Site Reliability Engineer](https://www.linkedin.com/jobs/view/4441263889/) — Cisco
+### [AI Engineer](https://www.linkedin.com/jobs/view/4440293409/) — Tata Consultancy Services
 - 📍 **Location:** Santa Clara, CA
 - 🕒 **Posted:** 2026-07-15
 
-### [Security Engineer – Pentesting](https://www.linkedin.com/jobs/view/4440277844/) — Envision Technology Solutions
+### [Senior Software Engineer, Product Foundations](https://www.linkedin.com/jobs/view/4441280487/) — Tessera Data
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-07-15
+
+### [DevOps Engineer](https://www.linkedin.com/jobs/view/4441277609/) — Hewlett Packard Enterprise
 - 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-07-15
 
-### [Security Engineer – Pentesting](https://www.linkedin.com/jobs/view/4440288315/) — Envision Technology Solutions
+### [DevOps/Automation Engineer](https://www.linkedin.com/jobs/view/4441281150/) — Aditi Consulting
 - 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-07-15
 
-### [Security Engineer- Penetration Testing](https://www.linkedin.com/jobs/view/4440290314/) — Envision Technology Solutions
-- 📍 **Location:** San Jose, CA
+### [Senior AWS DevOps Engineer](https://www.linkedin.com/jobs/view/4440279830/) — Tata Consultancy Services
+- 📍 **Location:** Oakland, CA
 - 🕒 **Posted:** 2026-07-15
 
-### [Lead Application Security Engineer](https://www.linkedin.com/jobs/view/4440292194/) — Zeta Global
+### [Sr. Software Engineer - Data Engineering](https://www.linkedin.com/jobs/view/4441279288/) — Early Warning
 - 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-07-15
-
-### [Tech Lead Manager, Data Engineer](https://www.linkedin.com/jobs/view/4416721188/) — Waymo
-- 📍 **Location:** Mountain View, CA
 - 🕒 **Posted:** 2026-07-15
