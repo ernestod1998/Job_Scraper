@@ -1,106 +1,76 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area)
-*Last updated: 2026-07-15 21:17 UTC*
+*Last updated: 2026-07-15 22:17 UTC*
 
-**25 new role(s)** since last run · 32 total in last 1h
+**18 new role(s)** since last run · 32 total in last 1h
 
-### [Junior Software Engineer](https://www.linkedin.com/jobs/view/4439926870/) — Simplify
+### [Generative AI - ML System Engineering](https://www.linkedin.com/jobs/view/4441280182/) — MeshyAI
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-07-15
+
+### [Research Engineer](https://www.linkedin.com/jobs/view/4441271677/) — Brahma Consulting Group
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-07-15
+
+### [Generative AI - 3D Foundation Model](https://www.linkedin.com/jobs/view/4441268708/) — MeshyAI
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-07-15
+
+### [Senior AI Infrastructure Engineer](https://www.linkedin.com/jobs/view/4438259449/) — Seekr
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-07-15
 
-### [AI, Software Engineer](https://www.linkedin.com/jobs/view/4410427037/) — Career Movement
-- 📍 **Location:** San Francisco, CA
+### [Data Scientist 2](https://www.linkedin.com/jobs/view/4440276712/) — Lam Research
+- 📍 **Location:** Fremont, CA
 - 🕒 **Posted:** 2026-07-15
 
-### [AI Data Scientist with PCAP Certification](https://www.linkedin.com/jobs/view/4441259514/) — Themesoft Inc.
+### [Senior AI/ML Engineer, Autonomy Build Platform](https://www.linkedin.com/jobs/view/4441268467/) — General Motors
+- 📍 **Location:** Mountain View, CA
+- 🕒 **Posted:** 2026-07-15
+
+### [Senior Technical Lead (Golang, Distributed Systems) – Isovalent Secure Workload (remote)](https://www.linkedin.com/jobs/view/4441265822/) — Cisco
+- 📍 **Location:** Milpitas, CA
+- 🕒 **Posted:** 2026-07-15
+
+### [Site Reliability Engineer](https://www.linkedin.com/jobs/view/4441279133/) — Cisco
+- 📍 **Location:** Milpitas, CA
+- 🕒 **Posted:** 2026-07-15
+
+### [Site Reliability Engineer](https://www.linkedin.com/jobs/view/4441280081/) — Cisco
 - 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-07-15
 
-### [Software Engineer](https://www.linkedin.com/jobs/view/4438418860/) — Tech Consulting
+### [Software Engineer - AI Agent](https://www.linkedin.com/jobs/view/4440282489/) — Jobright.ai
+- 📍 **Location:** San Mateo County, CA
+- 🕒 **Posted:** 2026-07-15
+
+### [Generative AI - Graphics Engineer](https://www.linkedin.com/jobs/view/4441264889/) — MeshyAI
 - 📍 **Location:** San Francisco Bay Area
 - 🕒 **Posted:** 2026-07-15
 
-### [Senior Software Engineer, Coding](https://www.linkedin.com/jobs/view/4441244849/) — Handshake
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $225,000.00/yr - $250,000.00/yr
-- 🕒 **Posted:** 2026-07-15
-
-### [Senior ML Engineer](https://www.linkedin.com/jobs/view/4440287220/) — Jobright.ai
+### [Cloud Security Engineer](https://www.linkedin.com/jobs/view/4441266502/) — Theory Ventures
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-07-15
 
-### [Architecture & Algorithms / Agentic AI ML Engineer (Level 2 - 3)](https://www.linkedin.com/jobs/view/4441275121/) — Lockheed Martin
-- 📍 **Location:** Sunnyvale, CA
+### [Site Reliability Engineer](https://www.linkedin.com/jobs/view/4441263889/) — Cisco
+- 📍 **Location:** Santa Clara, CA
 - 🕒 **Posted:** 2026-07-15
 
-### [Senior Data Scientist, Trust](https://www.linkedin.com/jobs/view/4440277694/) — Linktree
+### [Security Engineer – Pentesting](https://www.linkedin.com/jobs/view/4440277844/) — Envision Technology Solutions
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-07-15
+
+### [Security Engineer – Pentesting](https://www.linkedin.com/jobs/view/4440288315/) — Envision Technology Solutions
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-07-15
+
+### [Security Engineer- Penetration Testing](https://www.linkedin.com/jobs/view/4440290314/) — Envision Technology Solutions
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-07-15
+
+### [Lead Application Security Engineer](https://www.linkedin.com/jobs/view/4440292194/) — Zeta Global
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-07-15
 
-### [Sr. Bioinformatics Scientist](https://www.linkedin.com/jobs/view/4441256555/) — Veracyte, Inc.
-- 📍 **Location:** South San Francisco, CA
-- 🕒 **Posted:** 2026-07-15
-
-### [AI Engineer](https://www.linkedin.com/jobs/view/4440269807/) — Jobright.ai
-- 📍 **Location:** Santa Clara County, CA
-- 🕒 **Posted:** 2026-07-15
-
-### [Senior Applied AI Engineer](https://www.linkedin.com/jobs/view/4441244875/) — Parametrix
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-07-15
-
-### [Senior AI Engineer](https://www.linkedin.com/jobs/view/4441254634/) — Weave Bio
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-07-15
-
-### [AI Engineer (1-5 yrs of experience)](https://www.linkedin.com/jobs/view/4441256504/) — Jecona
-- 📍 **Location:** San Mateo, CA
-- 🕒 **Posted:** 2026-07-15
-
-### [Software Engineer](https://www.linkedin.com/jobs/view/4440269983/) — Jobright.ai
-- 📍 **Location:** Los Altos, CA
-- 🕒 **Posted:** 2026-07-15
-
-### [System Software Engineer, Networking](https://www.linkedin.com/jobs/view/4441253922/) — Tensordyne
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-07-15
-
-### [Senior ML Platform Engineer - AD/ADAS](https://www.linkedin.com/jobs/view/4438419611/) — Woven by Toyota
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-07-15
-
-### [Senior Full-Stack Engineer](https://www.linkedin.com/jobs/view/4441246935/) — Sift
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $170,000.00/yr - $230,000.00/yr
-- 🕒 **Posted:** 2026-07-15
-
-### [Technical Lead Platform Engineer](https://www.linkedin.com/jobs/view/4440283135/) — Jobright.ai
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-07-15
-
-### [Senior Software Engineer, Weave - Weights & Biases](https://www.linkedin.com/jobs/view/4438425621/) — Weights & Biases
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-07-15
-
-### [Senior Software Engineer, Weave - Weights & Biases](https://www.linkedin.com/jobs/view/4438426568/) — Weights & Biases
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-07-15
-
-### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4438432415/) — Mars IT Software Solutions LLC
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-07-15
-
-### [Senior Platform Engineer (Kubernetes)](https://www.linkedin.com/jobs/view/4441258340/) — Clera
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-07-15
-
-### [Urgent_Network Devops Engineer@ San Francisco, Bay Area/ Hybrid](https://www.linkedin.com/jobs/view/4441248850/) — Platinum Enterprise Solutions, Inc.
-- 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-07-15
-
-### [Senior Systems Engineer, Fail Operational Safety Strategy](https://www.linkedin.com/jobs/view/4441241959/) — Zoox
-- 📍 **Location:** Foster City, CA
-- 🕒 **Posted:** 2026-07-15
-
-### [Senior Bioinformatics Scientist](https://www.linkedin.com/jobs/view/4441265241/) — Veracyte, Inc.
-- 📍 **Location:** South San Francisco, CA
+### [Tech Lead Manager, Data Engineer](https://www.linkedin.com/jobs/view/4416721188/) — Waymo
+- 📍 **Location:** Mountain View, CA
 - 🕒 **Posted:** 2026-07-15
