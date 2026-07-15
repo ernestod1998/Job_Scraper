@@ -1,101 +1,57 @@
 # 🟦 Indeed — Engineering / ML / DS Roles (SF Bay Area)
-*Last updated: 2026-07-15 22:34 UTC*
+*Last updated: 2026-07-15 23:37 UTC*
 
-**20 new role(s)** since last run · 97 total in last 24h
+**11 new role(s)** since last run · 104 total in last 24h
 
-### [Senior Machine Learning Engineer, Applied AI Quality](https://www.indeed.com/viewjob?jk=71561dc38069c0fe) — Block
-- 📍 **Location:** San Francisco Bay Area, CA, US
-- 💰 **Salary:** $206k–$343k/yr
-- 🕒 **Posted:** 2026-07-15
-
-### [Senior Manager, AI Engineering (People Leader) (Gen AI Platform Services)](https://www.indeed.com/viewjob?jk=532824daa2252d96) — Capital One
-- 📍 **Location:** San Jose, CA, US
-- 🕒 **Posted:** 2026-07-15
-
-### [Software Engineer, Backend](https://www.indeed.com/viewjob?jk=7fb737e96bcbf07a) — Unknown
-- 📍 **Location:** San Carlos, CA, US
-- 💰 **Salary:** $135k–$190k/yr
-- 🕒 **Posted:** 2026-07-15
-
-### [Senior Software Engineer, Coding](https://www.indeed.com/viewjob?jk=f8090825b16fc51e) — Handshake
+### [Sr. Data Expert, Data Engineer (Clinical & Multimodal Data Integration)](https://www.indeed.com/viewjob?jk=45e9ac0386ce8131) — Genentech
 - 📍 **Location:** San Francisco, CA, US
-- 💰 **Salary:** $225k–$250k/yr
+- 💰 **Salary:** $120k–$222k/yr
 - 🕒 **Posted:** 2026-07-15
 
-### [Software Engineer](https://www.indeed.com/viewjob?jk=8d224022ca726d71) — Unknown
-- 📍 **Location:** San Mateo, CA, US
-- 🕒 **Posted:** 2026-07-15
-
-### [Software Engineer](https://www.indeed.com/viewjob?jk=ffbd452175ba7770) — Unknown
-- 📍 **Location:** San Francisco, CA, US
-- 🕒 **Posted:** 2026-07-15
-
-### [Senior Applied Machine Learning Engineer](https://www.indeed.com/viewjob?jk=2f8466d78980a1ab) — Hewlett Packard Enterprise | HPE
-- 📍 **Location:** San Jose, CA, US
-- 💰 **Salary:** $144k–$273k/yr
+### [Architecture & Algorithms / Agentic AI ML Engineer (Level 2 - 3)](https://www.indeed.com/viewjob?jk=3246f7bdb896c578) — Lockheed Martin
+- 📍 **Location:** Sunnyvale, CA, US
 - 🕒 **Posted:** 2026-07-14
 
-### [Data Scientist, Core Experience Trust](https://www.indeed.com/viewjob?jk=69d03fdc45d1868a) — Google
+### [Senior Applied AI Engineer](https://www.indeed.com/viewjob?jk=0f8f8a8199115e74) — Parametrix, Inc.
 - 📍 **Location:** San Francisco, CA, US
-- 💰 **Salary:** $138k–$198k/yr
+- 💰 **Salary:** $165k–$195k/yr
 - 🕒 **Posted:** 2026-07-15
 
-### [Data Scientist, Core Experience Trust](https://www.indeed.com/viewjob?jk=f0f956bd54a10e0e) — Google
+### [Software Engineer II](https://www.indeed.com/viewjob?jk=3ea51119601597d0) — Cadence Design Systems
 - 📍 **Location:** San Jose, CA, US
-- 💰 **Salary:** $138k–$198k/yr
+- 💰 **Salary:** $102k–$188k/yr
 - 🕒 **Posted:** 2026-07-15
 
-### [Software Engineer III, AI/ML, Google Cloud Performance](https://www.indeed.com/viewjob?jk=a1fec30416ee1942) — Google
-- 📍 **Location:** Sunnyvale, CA, US
-- 💰 **Salary:** $147k–$211k/yr
+### [Software Engineer, New College Grad - 2026, Foster City](https://www.indeed.com/viewjob?jk=6fde336d8caba0b6) — Visa
+- 📍 **Location:** Foster City, CA, US
 - 🕒 **Posted:** 2026-07-15
 
-### [Software Engineer III, AI/ML GenAI, Search](https://www.indeed.com/viewjob?jk=7afb1cf85bd3a900) — Google
+### [System Software Engineer](https://www.indeed.com/viewjob?jk=75cbf66aa6069bea) — MATX
 - 📍 **Location:** Mountain View, CA, US
-- 💰 **Salary:** $147k–$211k/yr
+- 💰 **Salary:** $120k–$475k/yr
 - 🕒 **Posted:** 2026-07-15
 
-### [Network Security Engineer](https://www.indeed.com/viewjob?jk=e61cb8870852af4b) — SpaceXAI
-- 📍 **Location:** Palo Alto, CA, US
-- 💰 **Salary:** $180k–$440k/yr
+### [System Software Engineer - Linux Kernel and Device Drivers](https://www.indeed.com/viewjob?jk=a5ade080c761c356) — MATX
+- 📍 **Location:** Mountain View, CA, US
+- 💰 **Salary:** $120k–$475k/yr
 - 🕒 **Posted:** 2026-07-15
 
-### [Senior Backend Engineer - Access Control](https://www.indeed.com/viewjob?jk=9ac51839b2d297d3) — Verkada
+### [Senior Frontend Engineer - Access Control](https://www.indeed.com/viewjob?jk=49fe1c2fb62bb849) — Verkada
 - 📍 **Location:** San Mateo, CA, US
-- 💰 **Salary:** $150k–$300k/yr
+- 💰 **Salary:** $160k–$280k/yr
 - 🕒 **Posted:** 2026-07-15
 
-### [Software Engineer III, Developer AI, Payments Platform](https://www.indeed.com/viewjob?jk=84799092fd3215c7) — Google
-- 📍 **Location:** Mountain View, CA, US
-- 💰 **Salary:** $147k–$211k/yr
-- 🕒 **Posted:** 2026-07-15
-
-### [Security Engineer II, Devices and Services Security](https://www.indeed.com/viewjob?jk=cf2a332f9a52b892) — Amazon.com
-- 📍 **Location:** Sunnyvale, CA, US
-- 💰 **Salary:** $167k–$213k/yr
-- 🕒 **Posted:** 2026-06-23
-
-### [Software Engineer](https://www.indeed.com/viewjob?jk=bd3aaaf4a0c309b2) — Teradyne
+### [Software Engineer, Frontend](https://www.indeed.com/viewjob?jk=0abd8872951b051b) — Muon Space
 - 📍 **Location:** San Jose, CA, US
-- 💰 **Salary:** $143k–$228k/yr
+- 💰 **Salary:** $156k–$186k/yr
 - 🕒 **Posted:** 2026-07-15
 
-### [iOS Engineer, App Platform](https://www.indeed.com/viewjob?jk=779fe3a2e89f2d60) — Whatnot
+### [Senior Software Engineer - SDK iOS](https://www.indeed.com/viewjob?jk=5c51ae45e5c7c27a) — Amplitude
 - 📍 **Location:** San Francisco, CA, US
-- 💰 **Salary:** $170k–$290k/yr
+- 💰 **Salary:** $165k–$276k/yr
 - 🕒 **Posted:** 2026-07-15
 
-### [Software Engineer, Android (All Teams)](https://www.indeed.com/viewjob?jk=ad8c7db2b6f84be6) — DoorDash
-- 📍 **Location:** San Francisco, CA, US
-- 💰 **Salary:** $131k–$192k/yr
-- 🕒 **Posted:** 2026-07-15
-
-### [Sr. Java backend developer](https://www.indeed.com/viewjob?jk=3f57274185751022) — Cognizant
-- 📍 **Location:** Sunnyvale, CA, US
-- 💰 **Salary:** $110k–$130k/yr
-- 🕒 **Posted:** 2026-07-15
-
-### [Senior Platform Engineer (Kubernetes)](https://www.indeed.com/viewjob?jk=7e50768a7b122b59) — CLERA
-- 📍 **Location:** San Francisco, CA, US
-- 💰 **Salary:** $150k–$200k/yr
+### [Software Engineer II - Commerce](https://www.indeed.com/viewjob?jk=5d338f665f2fb51d) — Electronic Arts
+- 📍 **Location:** Redwood City, CA, US
+- 💰 **Salary:** $121k–$184k/yr
 - 🕒 **Posted:** 2026-07-15
