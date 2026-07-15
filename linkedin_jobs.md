@@ -1,68 +1,121 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area)
-*Last updated: 2026-07-14 23:17 UTC*
+*Last updated: 2026-07-15 00:18 UTC*
 
-**16 new role(s)** since last run · 27 total in last 1h
+**29 new role(s)** since last run · 39 total in last 1h
 
-### [Senior Machine Learning Engineer](https://www.linkedin.com/jobs/view/4407444700/) — Instrumental Inc.
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-07-14
-
-### [Software Engineer II - AV Labs](https://www.linkedin.com/jobs/view/4440851672/) — Uber
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-07-14
-
-### [Applied Scientist II, Search Ranking](https://www.linkedin.com/jobs/view/4438037032/) — Amazon Science
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-07-14
-
-### [Senior Full Stack Engineer](https://www.linkedin.com/jobs/view/4440861453/) — Dealpath
+### [ML/AI Platform Architect / Engineer](https://www.linkedin.com/jobs/view/4440874295/) — GigSumo.com
 - 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-07-14
+- 🕒 **Posted:** 2026-07-15
 
-### [Software Engineer, Frontend/Fullstack](https://www.linkedin.com/jobs/view/4439915965/) — WisdomAI
-- 📍 **Location:** San Mateo, CA
-- 🕒 **Posted:** 2026-07-14
+### [Software Engineer – Satellite Modeling and Tasking](https://www.linkedin.com/jobs/view/4329385765/) — Array Labs
+- 📍 **Location:** San Francisco Bay Area
+- 💰 **Salary:** $150,000.00/yr - $300,000.00/yr
+- 🕒 **Posted:** 2026-07-15
 
-### [Site Reliability Engineer](https://www.linkedin.com/jobs/view/4440868069/) — Forward
+### [Senior Machine Learning Engineer, Agent Oversight](https://www.linkedin.com/jobs/view/4440871256/) — Scale AI
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-07-15
+
+### [Data Engineer](https://www.linkedin.com/jobs/view/4439954165/) — ShimentoX Technologies
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-07-15
+
+### [Software Engineer, Public Sector](https://www.linkedin.com/jobs/view/4440857947/) — Scale AI
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-07-15
+
+### [Software Engineer - Grid Services](https://www.linkedin.com/jobs/view/4436408265/) — Emerald AI
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-07-15
+
+### [Software Engineer, DGX Cloud AI Infrastructure](https://www.linkedin.com/jobs/view/4439957026/) — NVIDIA
 - 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-07-14
+- 🕒 **Posted:** 2026-07-15
 
-### [Senior Data Engineer](https://www.linkedin.com/jobs/view/4440847983/) — Tessera Data
+### [Senior Platform AI Engineer](https://www.linkedin.com/jobs/view/4439938887/) — NVIDIA
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-07-15
+
+### [Software Engineer - Backend/Distributed Systems](https://www.linkedin.com/jobs/view/4345039901/) — Emerald AI
 - 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-07-14
+- 🕒 **Posted:** 2026-07-15
 
-### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4440868148/) — Tessera Data
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-07-14
+### [Senior Frontend Engineer - Alarms](https://www.linkedin.com/jobs/view/4440873158/) — Verkada
+- 📍 **Location:** San Mateo, CA
+- 🕒 **Posted:** 2026-07-15
 
-### [Senior Software Engineer, Product Foundations](https://www.linkedin.com/jobs/view/4440861600/) — Tessera Data
+### [Senior Systems Software Engineer - CI/CD Infrastructure for Open-Source Accelerated Computing Software](https://www.linkedin.com/jobs/view/4439949378/) — NVIDIA
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-07-15
+
+### [Senior Systems Software Engineer - CI/CD Infrastructure for Open-Source Accelerated Computing Software](https://www.linkedin.com/jobs/view/4439942704/) — NVIDIA
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-07-15
+
+### [System Software Engineer, Dynamo-Triton Inference Server - New College Grad 2026](https://www.linkedin.com/jobs/view/4439953227/) — NVIDIA
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-07-15
+
+### [Software Engineer - Datacenter/Power Systems](https://www.linkedin.com/jobs/view/4369966918/) — Emerald AI
 - 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-07-14
+- 🕒 **Posted:** 2026-07-15
 
-### [Lead Software Engineer (Embedded & Cloud)](https://www.linkedin.com/jobs/view/4439932172/) — Arcticar
+### [Site Reliability Engineer, Cloud](https://www.linkedin.com/jobs/view/4439935934/) — NVIDIA
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-07-15
+
+### [Senior Software Engineer, Agent Oversight](https://www.linkedin.com/jobs/view/4440878102/) — Scale AI
 - 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-07-14
+- 🕒 **Posted:** 2026-07-15
 
-### [Backend Senior Software Engineer](https://www.linkedin.com/jobs/view/4440858763/) — Visa
-- 📍 **Location:** Foster City, CA
-- 🕒 **Posted:** 2026-07-14
+### [Senior DevOps Engineer - E-commerce](https://www.linkedin.com/jobs/view/4439936941/) — NVIDIA
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-07-15
 
-### [Fullstack Senior Software Engineer](https://www.linkedin.com/jobs/view/4440867229/) — Visa
-- 📍 **Location:** Foster City, CA
-- 🕒 **Posted:** 2026-07-14
+### [Senior Software Engineer, DGX Cloud Production Engineering](https://www.linkedin.com/jobs/view/4439951337/) — NVIDIA
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-07-15
 
-### [Urgent_Network Devops Engineer@ San Francisco, Bay Area/ Hybrid](https://www.linkedin.com/jobs/view/4440862358/) — Platinum Enterprise Solutions, Inc.
-- 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-07-14
-
-### [Senior Security Engineer, Firmware Security, Cloud CISO](https://www.linkedin.com/jobs/view/4439916882/) — Google
+### [Senior Data Scientist, Strategy & Insights](https://www.linkedin.com/jobs/view/4440871153/) — LinkedIn
 - 📍 **Location:** Sunnyvale, CA
 - 🕒 **Posted:** 2026-07-14
 
-### [Senior Cyber Security Engineer - Automation, Data Center & Networking Security](https://www.linkedin.com/jobs/view/4440854843/) — Latitude AI
-- 📍 **Location:** Palo Alto, CA
+### [Software Engineer](https://www.linkedin.com/jobs/view/4440877016/) — Ascend
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-07-14
 
-### [Senior Engineering Manager, Data Engineering](https://www.linkedin.com/jobs/view/4440853883/) — Tessera Data
+### [LATAM - Data Science Engineer](https://www.linkedin.com/jobs/view/4438022839/) — Playsaurus Inc.
+- 📍 **Location:** Alameda, CA
+- 🕒 **Posted:** 2026-07-14
+
+### [Senior Data Scientist, Applied AI](https://www.linkedin.com/jobs/view/4440864370/) — Rippling
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-07-14
+
+### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4439954112/) — Bellwether Coffee
+- 📍 **Location:** Berkeley, CA
+- 🕒 **Posted:** 2026-07-14
+
+### [LATAM - Backend Developer](https://www.linkedin.com/jobs/view/4438028510/) — Playsaurus Inc.
+- 📍 **Location:** Alameda, CA
+- 🕒 **Posted:** 2026-07-14
+
+### [Senior Software Engineer, Snowpark Container Service](https://www.linkedin.com/jobs/view/4440854975/) — Snowflake
+- 📍 **Location:** Menlo Park, CA
+- 🕒 **Posted:** 2026-07-14
+
+### [Sr Software Engineer - Network & SDN - TeraWave](https://www.linkedin.com/jobs/view/4438044023/) — Blue Origin
 - 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-07-14
+
+### [Sr Software Engineer - Network & SDN - TeraWave](https://www.linkedin.com/jobs/view/4438030297/) — Blue Origin
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-07-14
+
+### [Senior Security Engineer](https://www.linkedin.com/jobs/view/4439954004/) — Pacific Fusion
+- 📍 **Location:** San Leandro, CA
+- 🕒 **Posted:** 2026-07-14
+
+### [Senior Corporate Security Engineer](https://www.linkedin.com/jobs/view/4440849982/) — Endor Labs
+- 📍 **Location:** Palo Alto, CA
 - 🕒 **Posted:** 2026-07-14
