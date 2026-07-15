@@ -1,83 +1,106 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area)
-*Last updated: 2026-07-15 20:17 UTC*
+*Last updated: 2026-07-15 21:17 UTC*
 
-**19 new role(s)** since last run · 24 total in last 1h
+**25 new role(s)** since last run · 32 total in last 1h
 
-### [AI/ML Software Engineer / Senior software engineer/ Tech lead](https://www.linkedin.com/jobs/view/4440230930/) — Expert Intelligence™
-- 📍 **Location:** San Francisco Bay Area
+### [Junior Software Engineer](https://www.linkedin.com/jobs/view/4439926870/) — Simplify
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-07-15
 
-### [AI Engineer](https://www.linkedin.com/jobs/view/4429235586/) — BayOne Solutions
-- 📍 **Location:** San Francisco Bay Area
+### [AI, Software Engineer](https://www.linkedin.com/jobs/view/4410427037/) — Career Movement
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-07-15
 
-### [Software Engineer](https://www.linkedin.com/jobs/view/4441253427/) — Calvis
-- 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-07-15
-
-### [Senior Data Scientist](https://www.linkedin.com/jobs/view/4425820582/) — Rundoo
-- 📍 **Location:** Redwood City, CA
-- 🕒 **Posted:** 2026-07-15
-
-### [Data Scientist, Core Experience Trust](https://www.linkedin.com/jobs/view/4440256644/) — Google
+### [AI Data Scientist with PCAP Certification](https://www.linkedin.com/jobs/view/4441259514/) — Themesoft Inc.
 - 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-07-15
 
-### [Data Scientist, Core Experience Trust](https://www.linkedin.com/jobs/view/4440270183/) — Google
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-07-15
-
-### [Software Engineer, Data Platform](https://www.linkedin.com/jobs/view/4438430266/) — Profound
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-07-15
-
-### [Senior Software Engineer - AI Backend](https://www.linkedin.com/jobs/view/4416909711/) — IntelliPro
-- 📍 **Location:** Palo Alto, CA
-- 💰 **Salary:** $150,000.00/yr - $250,000.00/yr
-- 🕒 **Posted:** 2026-07-15
-
-### [(USA) Senior, Software Engineer](https://www.linkedin.com/jobs/view/4438435117/) — Walmart
-- 📍 **Location:** Sunnyvale, CA
-- 💰 **Salary:** $117,000.00/yr - $234,000.00/yr
-- 🕒 **Posted:** 2026-07-15
-
-### [Software Engineer, Android (All Teams)](https://www.linkedin.com/jobs/view/4438433214/) — DoorDash
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-07-15
-
-### [Software Engineer, Android (All Teams)](https://www.linkedin.com/jobs/view/4438439075/) — DoorDash
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-07-15
-
-### [Navigation Software Engineer](https://www.linkedin.com/jobs/view/4440270636/) — Spanidea Inc
+### [Software Engineer](https://www.linkedin.com/jobs/view/4438418860/) — Tech Consulting
 - 📍 **Location:** San Francisco Bay Area
 - 🕒 **Posted:** 2026-07-15
 
-### [Backend Software Engineer — Data Platform & AI Data Products](https://www.linkedin.com/jobs/view/4441239496/) — Together AI
+### [Senior Software Engineer, Coding](https://www.linkedin.com/jobs/view/4441244849/) — Handshake
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $225,000.00/yr - $250,000.00/yr
+- 🕒 **Posted:** 2026-07-15
+
+### [Senior ML Engineer](https://www.linkedin.com/jobs/view/4440287220/) — Jobright.ai
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-07-15
 
-### [Software Engineer I - Java - Local to Bay Area candidates (No C2C)](https://www.linkedin.com/jobs/view/4433338895/) — Flexton Inc.
+### [Architecture & Algorithms / Agentic AI ML Engineer (Level 2 - 3)](https://www.linkedin.com/jobs/view/4441275121/) — Lockheed Martin
 - 📍 **Location:** Sunnyvale, CA
-- 💰 **Salary:** $100,000.00/yr - $120,000.00/yr
 - 🕒 **Posted:** 2026-07-15
 
-### [Senior Software Engineer - Frontend Developer Experience](https://www.linkedin.com/jobs/view/4438425292/) — Mercury
+### [Senior Data Scientist, Trust](https://www.linkedin.com/jobs/view/4440277694/) — Linktree
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-07-15
 
-### [Senior Android Engineer (Fable Core)](https://www.linkedin.com/jobs/view/4440282077/) — Scribd, Inc.
+### [Sr. Bioinformatics Scientist](https://www.linkedin.com/jobs/view/4441256555/) — Veracyte, Inc.
+- 📍 **Location:** South San Francisco, CA
+- 🕒 **Posted:** 2026-07-15
+
+### [AI Engineer](https://www.linkedin.com/jobs/view/4440269807/) — Jobright.ai
+- 📍 **Location:** Santa Clara County, CA
+- 🕒 **Posted:** 2026-07-15
+
+### [Senior Applied AI Engineer](https://www.linkedin.com/jobs/view/4441244875/) — Parametrix
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-07-15
 
-### [Robotics Metrics Infrastructure Engineer (AWS & Python) - REMOTE](https://www.linkedin.com/jobs/view/4441252207/) — Feuji
+### [Senior AI Engineer](https://www.linkedin.com/jobs/view/4441254634/) — Weave Bio
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-07-15
+
+### [AI Engineer (1-5 yrs of experience)](https://www.linkedin.com/jobs/view/4441256504/) — Jecona
+- 📍 **Location:** San Mateo, CA
+- 🕒 **Posted:** 2026-07-15
+
+### [Software Engineer](https://www.linkedin.com/jobs/view/4440269983/) — Jobright.ai
 - 📍 **Location:** Los Altos, CA
 - 🕒 **Posted:** 2026-07-15
 
-### [GCP data engineer](https://www.linkedin.com/jobs/view/4441242534/) — TestingXperts
-- 📍 **Location:** Pleasanton, CA
+### [System Software Engineer, Networking](https://www.linkedin.com/jobs/view/4441253922/) — Tensordyne
+- 📍 **Location:** Sunnyvale, CA
 - 🕒 **Posted:** 2026-07-15
 
-### [Senior GCP Data Engineer](https://www.linkedin.com/jobs/view/4441232807/) — Inherent Technologies
-- 📍 **Location:** Pleasanton, CA
+### [Senior ML Platform Engineer - AD/ADAS](https://www.linkedin.com/jobs/view/4438419611/) — Woven by Toyota
+- 📍 **Location:** Palo Alto, CA
+- 🕒 **Posted:** 2026-07-15
+
+### [Senior Full-Stack Engineer](https://www.linkedin.com/jobs/view/4441246935/) — Sift
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $170,000.00/yr - $230,000.00/yr
+- 🕒 **Posted:** 2026-07-15
+
+### [Technical Lead Platform Engineer](https://www.linkedin.com/jobs/view/4440283135/) — Jobright.ai
+- 📍 **Location:** Palo Alto, CA
+- 🕒 **Posted:** 2026-07-15
+
+### [Senior Software Engineer, Weave - Weights & Biases](https://www.linkedin.com/jobs/view/4438425621/) — Weights & Biases
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-07-15
+
+### [Senior Software Engineer, Weave - Weights & Biases](https://www.linkedin.com/jobs/view/4438426568/) — Weights & Biases
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-07-15
+
+### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4438432415/) — Mars IT Software Solutions LLC
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-07-15
+
+### [Senior Platform Engineer (Kubernetes)](https://www.linkedin.com/jobs/view/4441258340/) — Clera
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-07-15
+
+### [Urgent_Network Devops Engineer@ San Francisco, Bay Area/ Hybrid](https://www.linkedin.com/jobs/view/4441248850/) — Platinum Enterprise Solutions, Inc.
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-07-15
+
+### [Senior Systems Engineer, Fail Operational Safety Strategy](https://www.linkedin.com/jobs/view/4441241959/) — Zoox
+- 📍 **Location:** Foster City, CA
+- 🕒 **Posted:** 2026-07-15
+
+### [Senior Bioinformatics Scientist](https://www.linkedin.com/jobs/view/4441265241/) — Veracyte, Inc.
+- 📍 **Location:** South San Francisco, CA
 - 🕒 **Posted:** 2026-07-15
