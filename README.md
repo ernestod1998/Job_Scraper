@@ -141,6 +141,7 @@ Biotech and LinkedIn pipelines use only the standard library. The Indeed pipelin
 
 ```
 ├── scrape_jobs.py                  # All scraping logic
+├── discover.py                     # Find startups from accelerator/VC portfolios + resolve their ATS
 ├── triage_agent.py                 # Nightly fit-scoring agent (Claude API / claude CLI)
 ├── eval_triage.py                  # Golden-case evals for the triage agent
 ├── requirements.txt                # python-jobspy (Indeed only; LinkedIn/biotech are stdlib)
@@ -168,6 +169,43 @@ Biotech and LinkedIn pipelines use only the standard library. The Indeed pipelin
 |---|---|
 | Greenhouse | `https://boards-api.greenhouse.io/v1/boards/{slug}/jobs?content=true` |
 | Workday | `https://{tenant}.wd1.myworkdayjobs.com/wday/cxs/{tenant}/{site}/jobs` (POST) |
+| Ashby | `https://api.ashbyhq.com/posting-api/job-board/{slug}` |
+| Lever | `https://api.lever.co/v0/postings/{slug}?mode=json` |
 | Phenom (Genentech) | `https://careers.gene.com/us/en/search-results` (HTML + JSON-LD) |
+| Custom (own site) | `careers_url` fetched directly; nav/footer stripped, job titles extracted heuristically (best-effort, no JS) |
 | LinkedIn | `https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search` (public guest) |
 | Indeed | `python-jobspy` library (mobile-app API; no public endpoint since 2026 deprecation) |
+
+## Startup discovery & own-site monitoring
+
+The curated biotech sweep (`--biotech-only`) checks each company in `CURATED_BIOTECHS`.
+Beyond the established biotechs, it now also watches small techbio **startups** — including
+ones that post only on their **own website** rather than a standard ATS.
+
+**`discover.py` — find startups automatically, no homepage entry:**
+
+```bash
+python discover.py --portfolios --write      # pull SOSV/IndieBio portfolio via its API, resolve, auto-add
+python discover.py --portfolios --limit 0    # resolve the whole list, print (no write)
+python discover.py https://www.some-startup.bio   # resolve one homepage
+python discover.py --file homepages.txt      # resolve a list (one homepage URL per line)
+```
+
+`--portfolios` pulls the SOSV/IndieBio portfolio (companies tagged *Human Health* / *Therapeutics*)
+straight from SOSV's public WordPress REST API — names **and** homepages, no manual entry — plus a
+small built-in list of ML-native drug-discovery shops. For each, it finds the careers page and
+detects the ATS (Greenhouse/Lever/Ashby by URL pattern, including a Greenhouse `?for=` embed or a
+board one hop into the careers page). `--limit N` caps how many to resolve (default 60; 0 = all).
+
+`--write` appends resolved companies to **`discovered_companies.json`**, which
+`scrape_curated_biotechs()` loads and merges automatically — so the daily sweep picks them up with
+**no copy/paste** into `CURATED_BIOTECHS`. Already-tracked companies (and Genentech, scraped
+separately) are skipped; unresolved ones and non-dispatchable ATSes (Workable/Rippling) print as
+`# TODO manual`. Honest limits: the tiniest IndieBio companies often have no careers page (low hit
+rate on that tail), and a `custom` careers page that renders its jobs via JavaScript yields nothing.
+
+**`custom` ATS entries** monitor own-site boards: `{"name": .., "ats": "custom", "careers_url": .., "fallback_location": ..}`.
+The handler respects `robots.txt` (timeout-guarded), rate-limits via `REQUEST_DELAY`, and extracts
+job titles heuristically. **Limitation:** it can't see JavaScript-rendered job lists (stdlib runs no JS),
+so those companies yield nothing — a known gap. A `fallback_location` is required, since the Bay-Area
+gate drops location-less roles. Keep the curated list to O(dozens): `custom` probes are sequential.
