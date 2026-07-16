@@ -1,97 +1,76 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area)
-*Last updated: 2026-07-16 00:17 UTC*
+*Last updated: 2026-07-16 01:17 UTC*
 
-**22 new role(s)** since last run · 31 total in last 1h
+**18 new role(s)** since last run · 34 total in last 1h
 
-### [Software Engineer](https://www.linkedin.com/jobs/view/4439905375/) — Jack
-- 📍 **Location:** San Francisco Bay Area
-- 💰 **Salary:** $160,000.00/yr - $220,000.00/yr
-- 🕒 **Posted:** 2026-07-16
-
-### [Software Engineer](https://www.linkedin.com/jobs/view/4439911117/) — Jack
-- 📍 **Location:** San Francisco Bay Area
-- 💰 **Salary:** $130,000.00/yr - $240,000.00/yr
-- 🕒 **Posted:** 2026-07-16
-
-### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4439905264/) — Jack
-- 📍 **Location:** San Francisco Bay Area
-- 💰 **Salary:** $180,000.00/yr - $230,000.00/yr
-- 🕒 **Posted:** 2026-07-16
-
-### [Software Engineer - Drive OS](https://www.linkedin.com/jobs/view/4440605057/) — NVIDIA
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-07-16
-
-### [Senior Systems Software Engineer, Observability and Telemetry Platform](https://www.linkedin.com/jobs/view/4440294617/) — NVIDIA
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-07-16
-
-### [Full Stack Engineer](https://www.linkedin.com/jobs/view/4439921187/) — Jack
-- 📍 **Location:** San Francisco Bay Area
-- 💰 **Salary:** $160,000.00/yr - $220,000.00/yr
-- 🕒 **Posted:** 2026-07-16
-
-### [Full Stack Engineer](https://www.linkedin.com/jobs/view/4439908529/) — Jack
-- 📍 **Location:** San Francisco Bay Area
-- 💰 **Salary:** $130,000.00/yr - $240,000.00/yr
-- 🕒 **Posted:** 2026-07-16
-
-### [Senior C++ Software Engineer](https://www.linkedin.com/jobs/view/4440298394/) — NVIDIA
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-07-16
-
-### [Senior Backend Engineer - Access Control](https://www.linkedin.com/jobs/view/4441284679/) — Verkada
-- 📍 **Location:** San Mateo, CA
-- 🕒 **Posted:** 2026-07-16
-
-### [React Senior Frontend Developer](https://www.linkedin.com/jobs/view/4438445146/) — First Principles
+### [DEEP LEARNING ENGINEER](https://www.linkedin.com/jobs/view/4441407432/) — ThriveLink
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-07-16
 
-### [React Senior Frontend Developer](https://www.linkedin.com/jobs/view/4438437650/) — First Principles
+### [DATA SCIENTIST](https://www.linkedin.com/jobs/view/4441299795/) — Tech Energy Partners
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-07-16
 
-### [Software Engineer, Frontend](https://www.linkedin.com/jobs/view/4441288778/) — Muon Space
-- 📍 **Location:** San Jose, CA
+### [Full-Stack Engineer](https://www.linkedin.com/jobs/view/4440295787/) — Product Pulse
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-07-16
 
-### [Senior Frontend Engineer - Access Control](https://www.linkedin.com/jobs/view/4441282779/) — Verkada
-- 📍 **Location:** San Mateo, CA
+### [Robotics Engineer](https://www.linkedin.com/jobs/view/4440297583/) — HYFIX Spatial Intelligence
+- 📍 **Location:** Santa Clara, CA
 - 🕒 **Posted:** 2026-07-16
 
-### [Security Engineer, Level 5](https://www.linkedin.com/jobs/view/4441278931/) — Snap Inc.
+### [DATA SCIENTIST](https://www.linkedin.com/jobs/view/4441414207/) — ThriveLink
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-07-16
+
+### [Senior Software Engineer, Foundation Model API](https://www.linkedin.com/jobs/view/4438455009/) — Databricks
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-07-16
+
+### [Data Scientist – Consumer Banking Pricing & Profitability](https://www.linkedin.com/jobs/view/4441289854/) — City National Bank
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-07-16
+
+### [AI Engineer - Europe](https://www.linkedin.com/jobs/view/4440611166/) — Reflow
+- 📍 **Location:** Oakland, CA
+- 🕒 **Posted:** 2026-07-16
+
+### [Software Engineer, Web Products](https://www.linkedin.com/jobs/view/4438441764/) — Databricks
+- 📍 **Location:** Mountain View, CA
+- 🕒 **Posted:** 2026-07-16
+
+### [Senior Software Engineer, AI Native Web Platform](https://www.linkedin.com/jobs/view/4438434940/) — Databricks
+- 📍 **Location:** Mountain View, CA
+- 🕒 **Posted:** 2026-07-16
+
+### [Sr Software Engineer- CXI](https://www.linkedin.com/jobs/view/4438440728/) — Databricks
+- 📍 **Location:** Mountain View, CA
+- 🕒 **Posted:** 2026-07-16
+
+### [iOS Engineer, App Platform](https://www.linkedin.com/jobs/view/4440624056/) — Whatnot
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-07-16
+
+### [Senior DevOps Engineer (Security)](https://www.linkedin.com/jobs/view/4441412271/) — Hyperproof
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-07-16
+
+### [Senior Site Reliability Engineer](https://www.linkedin.com/jobs/view/4441404499/) — Salesforce
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-07-16
+
+### [Security Engineer](https://www.linkedin.com/jobs/view/4441298638/) — Check Point Software
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-07-16
+
+### [Senior Security Engineer](https://www.linkedin.com/jobs/view/4440601981/) — Guardant Health
 - 📍 **Location:** Palo Alto, CA
 - 🕒 **Posted:** 2026-07-16
 
-### [Security Engineer II, Devices and Services Security](https://www.linkedin.com/jobs/view/4441296362/) — Amazon
-- 📍 **Location:** Sunnyvale, CA
+### [Sr Databricks Data Engineer](https://www.linkedin.com/jobs/view/4441283927/) — Deloitte
+- 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-07-16
 
-### [LATAM - Data Science Engineer](https://www.linkedin.com/jobs/view/4438448017/) — Playsaurus Inc.
-- 📍 **Location:** Alameda, CA
-- 🕒 **Posted:** 2026-07-15
-
-### [Software Engineer 3- Ink](https://www.linkedin.com/jobs/view/4438447027/) — Netflix
-- 📍 **Location:** Los Gatos, CA
-- 🕒 **Posted:** 2026-07-15
-
-### [Software Engineer, Full Stack + AI](https://www.linkedin.com/jobs/view/4441278769/) — Calvis
-- 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-07-15
-
-### [AI Engineer (Agents)](https://www.linkedin.com/jobs/view/4441292259/) — Castle Island Ventures
+### [Sr Databricks Data Engineer](https://www.linkedin.com/jobs/view/4441294553/) — Deloitte
 - 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-07-15
-
-### [Senior / Backend Full Stack Engineer](https://www.linkedin.com/jobs/view/4425892540/) — DTEX
-- 📍 **Location:** Fremont, CA
-- 🕒 **Posted:** 2026-07-15
-
-### [LATAM - Backend Developer](https://www.linkedin.com/jobs/view/4438435740/) — Playsaurus Inc.
-- 📍 **Location:** Alameda, CA
-- 🕒 **Posted:** 2026-07-15
-
-### [Senior Software Engineer - Fountain One](https://www.linkedin.com/jobs/view/4440286899/) — Fountain
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-07-15
+- 🕒 **Posted:** 2026-07-16
