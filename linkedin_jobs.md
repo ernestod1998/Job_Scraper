@@ -1,118 +1,92 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area)
-*Last updated: 2026-07-16 02:18 UTC*
+*Last updated: 2026-07-16 03:17 UTC*
 
-**28 new role(s)** since last run · 39 total in last 1h
+**22 new role(s)** since last run · 43 total in last 1h
 
-### [Software Engineer, Data Product Platform](https://www.linkedin.com/jobs/view/4438448291/) — Sail Lore
+### [Software Engineer, New Grad (AI)](https://www.linkedin.com/jobs/view/4441409937/) — action.
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-07-16
 
-### [AI Software Engineer, Security](https://www.linkedin.com/jobs/view/4438448288/) — Sail Lore
+### [Software Engineer, Early Career (AI)](https://www.linkedin.com/jobs/view/4441423603/) — action.
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-07-16
 
-### [Data Science, Finance & Strategy](https://www.linkedin.com/jobs/view/4440608847/) — Anthropic
+### [Software Engineer, New Grad](https://www.linkedin.com/jobs/view/4441412841/) — action.
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-07-16
 
-### [Software Engineer III, AI/ML, YouTube Ads Bidding](https://www.linkedin.com/jobs/view/4440624074/) — Google
-- 📍 **Location:** Mountain View, CA
-- 🕒 **Posted:** 2026-07-16
-
-### [Senior Machine Learning Engineer](https://www.linkedin.com/jobs/view/4441427016/) — Bicycle Couriers and Company
+### [DATA SCIENTIST](https://www.linkedin.com/jobs/view/4441428099/) — Layer Metrics Inc.
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-07-16
 
-### [Software Engineer, AI Platform](https://www.linkedin.com/jobs/view/4438452192/) — Sail Lore
+### [Software Engineer, Early Career](https://www.linkedin.com/jobs/view/4441419616/) — action.
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-07-16
 
-### [Reliability Data Engineer](https://www.linkedin.com/jobs/view/4441402777/) — Tesla
-- 📍 **Location:** Fremont, CA
-- 🕒 **Posted:** 2026-07-16
-
-### [Software Engineer, AI Workflows](https://www.linkedin.com/jobs/view/4438460046/) — Sail Lore
+### [Software Engineer, AI Workflows](https://www.linkedin.com/jobs/view/4441413896/) — action.
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-07-16
 
-### [Software Engineer, New Grad](https://www.linkedin.com/jobs/view/4438447346/) — Sail Lore
+### [Machine Learning Engineer, Capital Underwriting](https://www.linkedin.com/jobs/view/4420226497/) — Stripe
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-07-16
 
-### [Software Engineer, Applied AI, New Grad](https://www.linkedin.com/jobs/view/4441406776/) — Lightfield
+### [Software Engineer, Collections Experience](https://www.linkedin.com/jobs/view/4441422594/) — action.
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-07-16
 
-### [Software Engineer, New Grad (AI)](https://www.linkedin.com/jobs/view/4438453155/) — Sail Lore
+### [Software Engineer (Level 2 - 5)](https://www.linkedin.com/jobs/view/4441417608/) — Lockheed Martin
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-07-16
+
+### [Software Engineer, Product Infrastructure](https://www.linkedin.com/jobs/view/4441430110/) — action.
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-07-16
 
-### [Sr. Data Expert, Data Engineer (Clinical & Multimodal Data Integration)](https://www.linkedin.com/jobs/view/4441412581/) — Genentech
-- 📍 **Location:** South San Francisco, CA
-- 🕒 **Posted:** 2026-07-16
-
-### [Backend Infrastructure Engineer](https://www.linkedin.com/jobs/view/4441405780/) — Vinci4D.ai
-- 📍 **Location:** Palo Alto, CA
-- 💰 **Salary:** $165,000.00/yr - $180,000.00/yr
-- 🕒 **Posted:** 2026-07-16
-
-### [Software Engineer](https://www.linkedin.com/jobs/view/4441409567/) — MintMCP
-- 📍 **Location:** San Mateo, CA
-- 🕒 **Posted:** 2026-07-16
-
-### [Software Engineer II, Fulfillment](https://www.linkedin.com/jobs/view/4441414496/) — Bicycle Couriers and Company
+### [Software Engineer, Developer Experience (Go Lead)](https://www.linkedin.com/jobs/view/4441421577/) — action.
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-07-16
 
-### [Software Engineer, Trust](https://www.linkedin.com/jobs/view/4438445438/) — Sail Lore
+### [DEEP LEARNING ENGINEER](https://www.linkedin.com/jobs/view/4441412787/) — Layer Metrics Inc.
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-07-16
 
-### [Software Engineer, AI Capture](https://www.linkedin.com/jobs/view/4438456108/) — Sail Lore
+### [Software Engineer, AI Platform](https://www.linkedin.com/jobs/view/4441417662/) — action.
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-07-16
 
-### [Software Engineer, Product Infrastructure](https://www.linkedin.com/jobs/view/4438454132/) — Sail Lore
+### [Software Engineer, Web Infrastructure](https://www.linkedin.com/jobs/view/4441426265/) — action.
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-07-16
 
-### [Software Engineer](https://www.linkedin.com/jobs/view/4441411468/) — Elegant Tek
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-07-16
-
-### [Software Engineer, Collections Experience](https://www.linkedin.com/jobs/view/4438448289/) — Sail Lore
+### [Software Engineer, Data Product Platform](https://www.linkedin.com/jobs/view/4441419625/) — action.
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-07-16
 
-### [Software Engineer, Developer Experience (Go Lead)](https://www.linkedin.com/jobs/view/4438449313/) — Sail Lore
+### [Software Engineer, AI Capture](https://www.linkedin.com/jobs/view/4441413894/) — action.
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-07-16
 
-### [Software Engineer, Web Infrastructure](https://www.linkedin.com/jobs/view/4438447348/) — Sail Lore
+### [Software Engineer, Trust](https://www.linkedin.com/jobs/view/4441419626/) — action.
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-07-16
 
-### [Senior Software Engineer - SDK iOSNew
-San Francisco, CA](https://www.linkedin.com/jobs/view/4438450212/) — Amplitude Software Co
+### [AI Software Engineer, Security](https://www.linkedin.com/jobs/view/4441412849/) — action.
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-07-16
 
-### [Senior Software Engineer - SDK iOS](https://www.linkedin.com/jobs/view/4441427000/) — Amplitude
-- 📍 **Location:** San Francisco Bay Area
+### [Software Engineer Intern (Fall 2026)](https://www.linkedin.com/jobs/view/4441429111/) — action.
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-07-16
 
-### [Contract Site Reliability Engineer — AI Accelerator Infrastructure](https://www.linkedin.com/jobs/view/4441408720/) — Entrada Ventures
-- 📍 **Location:** Santa Clara, CA
+### [Security Engineer, Corporate Security](https://www.linkedin.com/jobs/view/4441421618/) — action.
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-07-16
 
-### [Buildings and Systems Engineering Specialist (Union)](https://www.linkedin.com/jobs/view/4440603857/) — UPS
-- 📍 **Location:** San Pablo, CA
+### [Security Engineer, Detection and Response](https://www.linkedin.com/jobs/view/4441433018/) — action.
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-07-16
 
-### [Buildings and Systems Engineering Specialist (Union)](https://www.linkedin.com/jobs/view/4440616454/) — UPS
-- 📍 **Location:** San Pablo, CA
-- 🕒 **Posted:** 2026-07-16
-
-### [R&D Software Engineer](https://www.linkedin.com/jobs/view/4412841288/) — Keysight Technologies
-- 📍 **Location:** Santa Rosa, CA
+### [Data Engineer, People Analytics](https://www.linkedin.com/jobs/view/4441420665/) — action.
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-07-16
