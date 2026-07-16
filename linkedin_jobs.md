@@ -1,54 +1,86 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area)
-*Last updated: 2026-07-16 22:17 UTC*
+*Last updated: 2026-07-16 23:17 UTC*
 
-**12 new role(s)** since last run · 24 total in last 1h
+**20 new role(s)** since last run · 28 total in last 1h
 
-### [AI Data Scientist-Furman lab](https://www.linkedin.com/jobs/view/4427938237/) — Buck Institute for Research on Aging
-- 📍 **Location:** Novato, CA
-- 🕒 **Posted:** 2026-07-16
-
-### [Machine Learning Engineer](https://www.linkedin.com/jobs/view/4441111314/) — Oscar Faye
+### [Big Data Engineer](https://www.linkedin.com/jobs/view/4441124061/) — BayOne Solutions
 - 📍 **Location:** San Francisco Bay Area
-- 💰 **Salary:** $200,000.00/yr - $300,000.00/yr
+- 💰 **Salary:** $70.00/hr - $80.00/hr
 - 🕒 **Posted:** 2026-07-16
 
-### [Data Scientist](https://www.linkedin.com/jobs/view/4418523141/) — Waymo
-- 📍 **Location:** Mountain View, CA
+### [Data Scientist, Amazon Music - DISCO](https://www.linkedin.com/jobs/view/4438759552/) — Amazon Science
+- 📍 **Location:** Sunnyvale, CA
 - 🕒 **Posted:** 2026-07-16
 
-### [Data Scientist, Marketing](https://www.linkedin.com/jobs/view/4441120030/) — Scopely
+### [Senior Machine Learning Engineer](https://www.linkedin.com/jobs/view/4441684349/) — Freenome
+- 📍 **Location:** Brisbane, CA
+- 🕒 **Posted:** 2026-07-16
+
+### [AI Engineer](https://www.linkedin.com/jobs/view/4441121289/) — Tata Consultancy Services
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-07-16
+
+### [Applied AI Engineer](https://www.linkedin.com/jobs/view/4441101819/) — Abby Care
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-07-16
 
-### [Sr. Data Scientist](https://www.linkedin.com/jobs/view/4441668742/) — Slickdeals
-- 📍 **Location:** San Mateo, CA
+### [Senior Manager, GTM Data Science](https://www.linkedin.com/jobs/view/4441116305/) — Adobe
+- 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-07-16
 
-### [Operations Intelligence & AI Systems Engineer](https://www.linkedin.com/jobs/view/4441111241/) — Astra
-- 📍 **Location:** Alameda, CA
+### [Research Engineer - AI-Optimized Inference](https://www.linkedin.com/jobs/view/4440799690/) — Infinity Artificial Intelligence Institute
+- 📍 **Location:** San Francisco Bay Area
 - 🕒 **Posted:** 2026-07-16
 
-### [Security Engineer](https://www.linkedin.com/jobs/view/4441117022/) — Voice AI Space
+### [Senior Applied AI/ML Scientist - Retailer Growth](https://www.linkedin.com/jobs/view/4441122015/) — Faire
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-07-16
 
-### [Data Engineer, Energy Software](https://www.linkedin.com/jobs/view/4441684013/) — Tesla
-- 📍 **Location:** Palo Alto, CA
+### [Software Developer 5](https://www.linkedin.com/jobs/view/4438748890/) — Oracle
+- 📍 **Location:** Santa Clara, CA
 - 🕒 **Posted:** 2026-07-16
 
-### [Senior Software Engineer, Platform Engineering](https://www.linkedin.com/jobs/view/4441110315/) — Voice AI Space
-- 📍 **Location:** San Francisco, CA
+### [Lead Software Engineer (AI Driven)](https://www.linkedin.com/jobs/view/4441671786/) — GSPANN Technologies, Inc
+- 📍 **Location:** San Ramon, CA
 - 🕒 **Posted:** 2026-07-16
 
-### [(USA) Software Engineer III](https://www.linkedin.com/jobs/view/4438755620/) — Walmart
+### [(USA) Software Engineer III](https://www.linkedin.com/jobs/view/4438759454/) — Walmart
 - 📍 **Location:** Sunnyvale, CA
 - 💰 **Salary:** $117,000.00/yr - $234,000.00/yr
 - 🕒 **Posted:** 2026-07-16
 
-### [Security Software Engineer, Open Source Frameworks](https://www.linkedin.com/jobs/view/4441666934/) — Vercel
+### [Senior Software Engineer, Google Ads](https://www.linkedin.com/jobs/view/4441108450/) — Google
+- 📍 **Location:** Mountain View, CA
+- 🕒 **Posted:** 2026-07-16
+
+### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4438754740/) — Oracle
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-07-16
+
+### [Software Engineer, Ads Platform](https://www.linkedin.com/jobs/view/4441125234/) — Roblox
+- 📍 **Location:** San Mateo, CA
+- 🕒 **Posted:** 2026-07-16
+
+### [Senior Frontend Engineer - Editing Accessibility (RELOCATE to Sydney)](https://www.linkedin.com/jobs/view/4441119119/) — Canva
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-07-16
 
-### [Senior Security Software Engineer, v0](https://www.linkedin.com/jobs/view/4441679226/) — Vercel
-- 📍 **Location:** San Francisco, CA
+### [Senior Software Engineer - Platform](https://www.linkedin.com/jobs/view/4438761512/) — C3 AI
+- 📍 **Location:** Redwood City, CA
+- 🕒 **Posted:** 2026-07-16
+
+### [AWS DevOps Engineer L1](https://www.linkedin.com/jobs/view/4441117346/) — Tata Consultancy Services
+- 📍 **Location:** Oakland, CA
+- 🕒 **Posted:** 2026-07-16
+
+### [Site Reliability Engineer](https://www.linkedin.com/jobs/view/4441117207/) — Modis
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-07-16
+
+### [Data Engineer](https://www.linkedin.com/jobs/view/4432407239/) — PTR Global
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-07-16
+
+### [Machine Learning Engineer, Monetization Technology](https://www.linkedin.com/jobs/view/4441111861/) — TikTok
+- 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-07-16
