@@ -1,65 +1,54 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area)
-*Last updated: 2026-07-16 21:17 UTC*
+*Last updated: 2026-07-16 22:17 UTC*
 
-**15 new role(s)** since last run · 21 total in last 1h
+**12 new role(s)** since last run · 24 total in last 1h
 
-### [Senior ML Engineer](https://www.linkedin.com/jobs/view/4440794955/) — Jobright.ai
+### [AI Data Scientist-Furman lab](https://www.linkedin.com/jobs/view/4427938237/) — Buck Institute for Research on Aging
+- 📍 **Location:** Novato, CA
+- 🕒 **Posted:** 2026-07-16
+
+### [Machine Learning Engineer](https://www.linkedin.com/jobs/view/4441111314/) — Oscar Faye
+- 📍 **Location:** San Francisco Bay Area
+- 💰 **Salary:** $200,000.00/yr - $300,000.00/yr
+- 🕒 **Posted:** 2026-07-16
+
+### [Data Scientist](https://www.linkedin.com/jobs/view/4418523141/) — Waymo
+- 📍 **Location:** Mountain View, CA
+- 🕒 **Posted:** 2026-07-16
+
+### [Data Scientist, Marketing](https://www.linkedin.com/jobs/view/4441120030/) — Scopely
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-07-16
 
-### [AI Engineer](https://www.linkedin.com/jobs/view/4440787970/) — Jobright.ai
-- 📍 **Location:** Santa Clara County, CA
-- 🕒 **Posted:** 2026-07-16
-
-### [Senior Data Scientist](https://www.linkedin.com/jobs/view/4441669390/) — MrBeast
+### [Sr. Data Scientist](https://www.linkedin.com/jobs/view/4441668742/) — Slickdeals
 - 📍 **Location:** San Mateo, CA
 - 🕒 **Posted:** 2026-07-16
 
-### [Senior Data Engineer](https://www.linkedin.com/jobs/view/4441675023/) — MrBeast
-- 📍 **Location:** San Mateo, CA
+### [Operations Intelligence & AI Systems Engineer](https://www.linkedin.com/jobs/view/4441111241/) — Astra
+- 📍 **Location:** Alameda, CA
 - 🕒 **Posted:** 2026-07-16
 
-### [Senior Platform Engineer – AI/ML Infrastructure & Reliability](https://www.linkedin.com/jobs/view/4441670263/) — StratITech
+### [Security Engineer](https://www.linkedin.com/jobs/view/4441117022/) — Voice AI Space
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-07-16
 
-### [Senior Data Scientist, Engine Systems](https://www.linkedin.com/jobs/view/4406239300/) — Roblox
-- 📍 **Location:** San Mateo, CA
-- 🕒 **Posted:** 2026-07-16
-
-### [Sr. Data Scientist](https://www.linkedin.com/jobs/view/4441671105/) — Slickdeals
-- 📍 **Location:** San Mateo, CA
-- 🕒 **Posted:** 2026-07-16
-
-### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4441113085/) — Genesys
-- 📍 **Location:** Menlo Park, CA
-- 🕒 **Posted:** 2026-07-16
-
-### [Senior Frontend Engineer](https://www.linkedin.com/jobs/view/4441658726/) — MrBeast
-- 📍 **Location:** San Mateo, CA
-- 🕒 **Posted:** 2026-07-16
-
-### [Senior Software Engineer, Security Development](https://www.linkedin.com/jobs/view/4438751442/) — Asana
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-07-16
-
-### [Senior Software Engineer, Product](https://www.linkedin.com/jobs/view/4441104344/) — Jobright.ai
-- 📍 **Location:** Burlingame, CA
-- 🕒 **Posted:** 2026-07-16
-
-### [Senior DevOps Engineer](https://www.linkedin.com/jobs/view/4441667443/) — Source One Technical Solutions
-- 📍 **Location:** Palo Alto, CA
-- 💰 **Salary:** $95.00/hr - $99.00/hr
-- 🕒 **Posted:** 2026-07-16
-
-### [Senior Software Engineer, Cloud Infrastructure](https://www.linkedin.com/jobs/view/4441103430/) — Voice AI Space
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-07-16
-
-### [Technical Lead Platform Engineer](https://www.linkedin.com/jobs/view/4440798587/) — Jobright.ai
+### [Data Engineer, Energy Software](https://www.linkedin.com/jobs/view/4441684013/) — Tesla
 - 📍 **Location:** Palo Alto, CA
 - 🕒 **Posted:** 2026-07-16
 
-### [Tech Lead Manager, Data Infrastructure](https://www.linkedin.com/jobs/view/4441103440/) — Voice AI Space
+### [Senior Software Engineer, Platform Engineering](https://www.linkedin.com/jobs/view/4441110315/) — Voice AI Space
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-07-16
+
+### [(USA) Software Engineer III](https://www.linkedin.com/jobs/view/4438755620/) — Walmart
+- 📍 **Location:** Sunnyvale, CA
+- 💰 **Salary:** $117,000.00/yr - $234,000.00/yr
+- 🕒 **Posted:** 2026-07-16
+
+### [Security Software Engineer, Open Source Frameworks](https://www.linkedin.com/jobs/view/4441666934/) — Vercel
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-07-16
+
+### [Senior Security Software Engineer, v0](https://www.linkedin.com/jobs/view/4441679226/) — Vercel
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-07-16
