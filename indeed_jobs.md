@@ -1,46 +1,107 @@
 # 🟦 Indeed — Engineering / ML / DS Roles (SF Bay Area)
-*Last updated: 2026-07-17 01:07 UTC*
+*Last updated: 2026-07-17 04:47 UTC*
 
-**9 new role(s)** since last run · 83 total in last 24h
+**21 new role(s)** since last run · 78 total in last 24h
 
-### [Data Scientist III, Behavioral Marketing Analytics & Customer Insights](https://www.indeed.com/viewjob?jk=a3dbada6b8768df9) — Thermo Fisher Scientific
-- 📍 **Location:** Pleasanton, CA, US
-- 💰 **Salary:** $96k–$128k/yr
-- 🕒 **Posted:** 2026-07-16
-
-### [Data Science Manager, Tapestry](https://www.indeed.com/viewjob?jk=79056bfe3149ab88) — X Development
-- 📍 **Location:** Mountain View, CA, US
-- 💰 **Salary:** $207k–$304k/yr
-- 🕒 **Posted:** 2026-07-16
-
-### [Senior ML Engineer, Perception](https://www.indeed.com/viewjob?jk=5008bbd5864d4879) — Rivian
-- 📍 **Location:** Palo Alto, CA, US
-- 🕒 **Posted:** 2026-07-08
-
-### [Sr. Software Engineer, Sensor - Anti-Tampering/SSP (Hybrid)](https://www.indeed.com/viewjob?jk=48fe9901b68392f9) — CrowdStrike
+### [Sr Software Engineer - AV Labs](https://www.indeed.com/viewjob?jk=e337be94faa75381) — Uber
 - 📍 **Location:** Sunnyvale, CA, US
-- 💰 **Salary:** $140k–$215k/yr
+- 💰 **Salary:** $202k–$224k/yr
+- 🕒 **Posted:** 2026-07-17
+
+### [Senior Software Engineer](https://www.indeed.com/viewjob?jk=cf62376c80ca1a47) — Volkswagen
+- 📍 **Location:** Belmont, CA, US
 - 🕒 **Posted:** 2026-07-16
 
-### [Robotics Software Engineer – Autonomy/AI (X-Caddie)](https://www.indeed.com/viewjob?jk=c27c3c4a7d8f4519) — Windquiet Technologies Inc
-- 📍 **Location:** Saratoga, CA, US
-- 💰 **Salary:** $110k–$180k/yr
-- 🕒 **Posted:** 2026-07-16
-
-### [Senior Backend Software Engineer, Developer Productivity Engineering](https://www.indeed.com/viewjob?jk=cc5a102e9acb4f5c) — X Development
+### [Software Engineer III, Ads Bidding](https://www.indeed.com/viewjob?jk=6407beca3ea0a37d) — Google
 - 📍 **Location:** Mountain View, CA, US
-- 💰 **Salary:** $161k–$194k/yr
+- 💰 **Salary:** $147k–$211k/yr
 - 🕒 **Posted:** 2026-07-16
 
-### [Sr. Software Engineer, Pose, Localization & Calibration, Autonomy](https://www.indeed.com/viewjob?jk=cb4d5c929265a4d2) — Rivian
+### [Sr Databricks Data Engineer](https://www.indeed.com/viewjob?jk=ee699af0925dbbc0) — Deloitte
+- 📍 **Location:** San Francisco, CA, US
+- 💰 **Salary:** $116k–$229k/yr
+- 🕒 **Posted:** 2026-07-16
+
+### [Sr Databricks Data Engineer](https://www.indeed.com/viewjob?jk=d241129f70a15de3) — Deloitte
+- 📍 **Location:** San Jose, CA, US
+- 💰 **Salary:** $116k–$229k/yr
+- 🕒 **Posted:** 2026-07-16
+
+### [Senior Manager, Software Engineering - Telemetry Platform](https://www.indeed.com/viewjob?jk=94bac00f10f65fd5) — Salesforce
+- 📍 **Location:** San Francisco, CA, US
+- 💰 **Salary:** $172k–$286k/yr
+- 🕒 **Posted:** 2026-07-16
+
+### [Machine Learning Infrastructure Tech Lead](https://www.indeed.com/viewjob?jk=269cd21571818a4b) — Unknown
+- 📍 **Location:** San Francisco, CA, US
+- 💰 **Salary:** $200k–$300k/yr
+- 🕒 **Posted:** 2026-07-16
+
+### [Senior Data Engineer](https://www.indeed.com/viewjob?jk=3b04521ddf59dfb3) — REGARD
+- 📍 **Location:** San Francisco, CA, US
+- 💰 **Salary:** $165k–$220k/yr
+- 🕒 **Posted:** 2026-07-16
+
+### [Software Engineer, Data Foundations](https://www.indeed.com/viewjob?jk=100f0edfd16804d0) — Whatnot
+- 📍 **Location:** San Francisco, CA, US
+- 💰 **Salary:** $200k–$275k/yr
+- 🕒 **Posted:** 2026-07-16
+
+### [Senior Data Scientist](https://www.indeed.com/viewjob?jk=fc7a4452cc269627) — Latica
 - 📍 **Location:** Palo Alto, CA, US
-- 🕒 **Posted:** 2026-05-27
+- 💰 **Salary:** $160k–$190k/yr
+- 🕒 **Posted:** 2026-07-01
 
-### [Kubernetes Platform Engineer](https://www.indeed.com/viewjob?jk=ecf3a1354b96a8aa) — Bay Systems Consulting, Inc.
-- 📍 **Location:** Berkeley, CA, US
+### [Finance Systems Engineer, Revenue](https://www.indeed.com/viewjob?jk=6d6c73524b44da3f) — Anthropic
+- 📍 **Location:** San Francisco, CA, US
+- 💰 **Salary:** $205k–$270k/yr
 - 🕒 **Posted:** 2026-07-16
 
-### [Bioinformatics Scientist](https://www.indeed.com/viewjob?jk=70535d5bfb47541f) — Thermo Fisher Scientific
-- 📍 **Location:** Pleasanton, CA, US
-- 💰 **Salary:** $83k–$95k/yr
+### [Software Engineer III, Infrastructure, GDC Enterprise Application Platform](https://www.indeed.com/viewjob?jk=ad301efeff62a827) — Google
+- 📍 **Location:** Sunnyvale, CA, US
+- 💰 **Salary:** $147k–$211k/yr
+- 🕒 **Posted:** 2026-07-16
+
+### [Senior Software Engineer, Spatial Intelligence and Foundation Models](https://www.indeed.com/viewjob?jk=7292511150ecfd71) — NVIDIA
+- 📍 **Location:** Santa Clara, CA, US
+- 💰 **Salary:** $184k–$356k/yr
+- 🕒 **Posted:** 2026-07-16
+
+### [Senior Network Security Engineer - DGX Cloud](https://www.indeed.com/viewjob?jk=229e9169cca98585) — NVIDIA
+- 📍 **Location:** Santa Clara, CA, US
+- 💰 **Salary:** $168k–$334k/yr
+- 🕒 **Posted:** 2026-07-16
+
+### [Senior MLOps Engineer](https://www.indeed.com/viewjob?jk=d79765dd39a4d401) — Unknown
+- 📍 **Location:** Palo Alto, CA, US
+- 🕒 **Posted:** 2026-07-16
+
+### [Internship, Software Engineer, Energy Engineering (Fall 2026)](https://www.indeed.com/viewjob?jk=8f0b15a697558049) — Tesla
+- 📍 **Location:** Palo Alto, CA, US
+- 💰 **Salary:** $20–$50/hr
+- 🕒 **Posted:** 2026-07-17
+
+### [Software Engineer I](https://www.indeed.com/viewjob?jk=6dc58c458c31477d) — PlayStation
+- 📍 **Location:** San Francisco, CA, US
+- 💰 **Salary:** $137k–$206k/yr
+- 🕒 **Posted:** 2026-07-17
+
+### [Software Engineer, Google Distributed Cloud Infrastructure Cluster](https://www.indeed.com/viewjob?jk=73faa4345118c7bc) — Google
+- 📍 **Location:** Sunnyvale, CA, US
+- 💰 **Salary:** $147k–$211k/yr
+- 🕒 **Posted:** 2026-07-16
+
+### [Senior Software Engineer, Google Distributed Cloud Hosted, Infrastructure](https://www.indeed.com/viewjob?jk=9adfe8f814987a8a) — Google
+- 📍 **Location:** Sunnyvale, CA, US
+- 💰 **Salary:** $174k–$253k/yr
+- 🕒 **Posted:** 2026-07-16
+
+### [PostDoc-Computational Materials Science & Scientific Software Engineering](https://www.indeed.com/viewjob?jk=a4cd432350603d65) — Merck KGaA
+- 📍 **Location:** San Jose, CA, US
+- 💰 **Salary:** $86k–$128k/yr
+- 🕒 **Posted:** 2026-07-16
+
+### [Senior Computational Chemistry Engineer](https://www.indeed.com/viewjob?jk=c72057ed3e389a5e) — Lam Research
+- 📍 **Location:** Fremont, CA, US
+- 💰 **Salary:** $119k–$261k/yr
 - 🕒 **Posted:** 2026-07-16
