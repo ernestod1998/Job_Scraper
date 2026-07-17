@@ -13,7 +13,9 @@ import re
 import sys
 import time
 import urllib.parse
+import urllib.robotparser
 from datetime import datetime, timedelta, timezone
+from html.parser import HTMLParser
 from urllib.request import urlopen, Request, build_opener, HTTPCookieProcessor
 from urllib.error import URLError
 
@@ -37,6 +39,10 @@ KEYWORDS = [
     "computer vision", "nlp engineer",
     # ---- Applied / AI / ML scientist ----
     "applied scientist", "ai scientist", "ml scientist",
+    # Spelled-out forms — "ml scientist" alone misses "Machine Learning
+    # Scientist", the most common title at ML-native biotechs (Insitro/Calico/
+    # Profluent). Substring match also covers the "Senior …" prefix.
+    "machine learning scientist", "machine learning research scientist",
     # ---- Data science ----
     "data scientist", "data science",
     # ---- Software engineering (broad) ----
@@ -73,6 +79,15 @@ KEYWORDS = [
     # Scientist, AI" titles without the noise a bare "research scientist"
     # keyword would admit across LinkedIn/Indeed.
     "research scientist, ai",
+    # ---- Comp-tox / DMPK / cheminformatics / imaging (targeted lane) ----
+    # Single tokens (dmpk/admet/qsar/pbpk) are word-bounded by _KEYWORD_RE so
+    # they can't match inside another word. Bare "imaging"/"toxicology" are
+    # deliberately excluded as too broad for the shared LinkedIn/Indeed gate.
+    "computational toxicology", "predictive toxicology", "predictive safety",
+    "dmpk", "admet", "qsar", "pbpk",
+    "molecular property", "computational chemistry", "computational chemist",
+    "medical imaging", "computational pathology", "imaging scientist",
+    "research scientist, machine learning", "research scientist, ml",
 ]
 
 # Seconds to wait between API probes — keeps us polite
@@ -273,6 +288,14 @@ CURATED_BIOTECHS = [
     {"name": "Gilead Sciences",      "ats": "workday",
      "url": "https://gilead.wd1.myworkdayjobs.com/wday/cxs/gilead/gileadcareers/jobs",
      "fallback_location": "Foster City, CA"},
+    # ---- Startups added via careers-page sweep (2026-07) ----
+    {"name": "Insitro",              "ats": "ashby",      "slug": "insitro",             "fallback_location": "South San Francisco, CA"},
+    {"name": "Manifold Bio",         "ats": "greenhouse", "slug": "manifoldbio",         "fallback_location": "San Francisco, CA"},
+    {"name": "Relay Therapeutics",   "ats": "greenhouse", "slug": "relaytherapeutics",   "fallback_location": "Cambridge, MA"},
+    {"name": "Nimbus Therapeutics",  "ats": "greenhouse", "slug": "nimbustherapeutics",  "fallback_location": "Boston, MA"},
+    {"name": "Generate Biomedicines", "ats": "greenhouse", "slug": "generatebiomedicines", "fallback_location": "Somerville, MA"},
+    {"name": "Kernal Bio",           "ats": "greenhouse", "slug": "kernalbio",           "fallback_location": "Boston, MA"},
+    {"name": "Dyno Therapeutics",    "ats": "greenhouse", "slug": "dynotherapeutics",    "fallback_location": "Watertown, MA"},
 ]
 
 
@@ -422,10 +445,170 @@ def probe_curated_workday(entry: dict) -> list:
     return list(seen.values())
 
 
+# ---------------------------------------------------------------------------
+# Custom / own-site careers pages — best-effort HTML extraction
+# ---------------------------------------------------------------------------
+# For startups that post on their own site rather than a supported ATS API.
+# Heuristic and best-effort: it CANNOT see JS-rendered job lists (stdlib can't
+# run JS), so those companies yield nothing — a known gap, not a bug. Every
+# probe fails soft (returns []) so one broken page never kills the run.
+
+_ROBOTS_CACHE: dict = {}
+_JOB_HREF_RE = re.compile(r'/job|/careers?/|greenhouse|lever|ashby|workable', re.IGNORECASE)
+
+
+def _robots_allows(url: str) -> bool:
+    """
+    Best-effort robots.txt check with a hard timeout. RobotFileParser.read()
+    has no timeout and can hang the daily run on a slow host, so we fetch
+    robots.txt via the timeout-guarded fetch() and hand it to .parse().
+    Fail open (allow) when robots.txt is missing/unreachable — browser posture.
+    """
+    try:
+        parts = urllib.parse.urlsplit(url)
+        base = f"{parts.scheme}://{parts.netloc}"
+    except ValueError:
+        return True
+    if base not in _ROBOTS_CACHE:
+        txt = fetch(urllib.parse.urljoin(base, "/robots.txt"))
+        rp = None
+        if txt:
+            rp = urllib.robotparser.RobotFileParser()
+            try:
+                rp.parse(txt.splitlines())
+            except Exception:
+                rp = None
+        _ROBOTS_CACHE[base] = rp
+    rp = _ROBOTS_CACHE[base]
+    if rp is None:
+        return True
+    try:
+        return rp.can_fetch(HEADERS["User-Agent"], url)
+    except Exception:
+        return True
+
+
+class _CareersHTMLParser(HTMLParser):
+    """Collect (anchor_text, href) pairs and heading/list text, skipping
+    nav/footer/header/script/style regions."""
+    _SKIP = {"nav", "footer", "header", "script", "style"}
+    _TEXT_TAGS = {"a", "h1", "h2", "h3", "h4", "li"}
+
+    def __init__(self):
+        super().__init__()
+        self._skip_depth = 0
+        self._tag_stack: list = []
+        self._cur_href = None
+        self._cur_text: list = []
+        self.links: list = []   # (text, href)
+        self.texts: list = []   # non-anchor heading/list text
+
+    def handle_starttag(self, tag, attrs):
+        if tag in self._SKIP:
+            self._skip_depth += 1
+        if tag in self._TEXT_TAGS:
+            self._tag_stack.append(tag)
+            self._cur_text = []
+            self._cur_href = dict(attrs).get("href") if tag == "a" else None
+
+    def handle_endtag(self, tag):
+        if tag in self._SKIP and self._skip_depth:
+            self._skip_depth -= 1
+        if self._tag_stack and tag == self._tag_stack[-1]:
+            text = " ".join("".join(self._cur_text).split())
+            if text and self._skip_depth == 0:
+                if tag == "a":
+                    self.links.append((text, self._cur_href or ""))
+                else:
+                    self.texts.append(text)
+            self._tag_stack.pop()
+            self._cur_text = []
+
+    def handle_data(self, data):
+        if self._tag_stack:
+            self._cur_text.append(data)
+
+
+def _slugify(text: str) -> str:
+    return re.sub(r'[^a-z0-9]+', '-', text.lower()).strip('-')[:60]
+
+
+def probe_curated_custom(entry: dict) -> list:
+    """
+    Best-effort scrape of a company's own careers page (no supported ATS API).
+    Keeps anchor/heading text that looks like a job title AND passes is_mle_role.
+    Roles without a dedicated link get a `careers_url#slug(title)` identity so
+    they don't collide in _job_identity / all_jobs dedup. Fails soft.
+    """
+    careers_url = entry.get("careers_url", "")
+    if not careers_url:
+        return []
+    if not _robots_allows(careers_url):
+        print(f"  ⚠️  robots.txt disallows {careers_url} — skipping {entry['name']}")
+        return []
+    time.sleep(REQUEST_DELAY)
+    html = fetch(careers_url)
+    if not html:
+        return []
+    parser = _CareersHTMLParser()
+    try:
+        parser.feed(html)
+    except Exception as e:
+        print(f"  ⚠️  Custom parse failed for {entry['name']}: {e}")
+        return []
+
+    loc = entry.get("fallback_location", "")
+    seen_titles: set = set()
+    jobs: list = []
+
+    def _add(title: str, url: str):
+        title = title.strip()
+        key = title.lower()
+        if not title or len(title) > 100 or key in seen_titles:
+            return
+        if not is_mle_role(title):
+            return
+        seen_titles.add(key)
+        jobs.append({
+            "company": entry["name"], "title": title, "location": loc,
+            "url": url, "date_posted": "", "ats": "Custom",
+        })
+
+    # Anchors whose href looks job-like give a real per-role URL.
+    for text, href in parser.links:
+        if _JOB_HREF_RE.search(href or ""):
+            _add(text, urllib.parse.urljoin(careers_url, href) if href else careers_url)
+    # Heading/list titles with no dedicated link — synthesize a distinct URL.
+    for text in parser.texts:
+        _add(text, f"{careers_url}#{_slugify(text)}")
+    return jobs
+
+
+def _load_discovered_companies() -> list:
+    """Companies found by discover.py --write, auto-merged into the sweep so no
+    manual paste into CURATED_BIOTECHS is needed. Missing/corrupt file → []."""
+    path = os.path.join(SCRIPT_DIR, "discovered_companies.json")
+    try:
+        with open(path) as f:
+            data = json.load(f)
+    except (FileNotFoundError, json.JSONDecodeError):
+        return []
+    return data if isinstance(data, list) else data.get("companies", [])
+
+
 def scrape_curated_biotechs() -> list:
-    print(f"🔬 Scraping {len(CURATED_BIOTECHS)} curated Bay Area biotechs...")
+    companies = list(CURATED_BIOTECHS)
+    known = {e["name"].strip().lower() for e in companies}
+    for e in _load_discovered_companies():
+        name = (e.get("name") or "").strip()
+        if name and e.get("ats") and name.lower() not in known:
+            companies.append(e)
+            known.add(name.lower())
+    n_disc = len(companies) - len(CURATED_BIOTECHS)
+    print(f"🔬 Scraping {len(companies)} biotechs "
+          f"({len(CURATED_BIOTECHS)} curated + {n_disc} discovered)...")
     all_jobs: list = []
-    for entry in CURATED_BIOTECHS:
+    for entry in companies:
         if entry["ats"] == "greenhouse":
             jobs = probe_curated_greenhouse(entry)
         elif entry["ats"] == "ashby":
@@ -434,6 +617,8 @@ def scrape_curated_biotechs() -> list:
             jobs = probe_curated_lever(entry)
         elif entry["ats"] == "workday":
             jobs = probe_curated_workday(entry)
+        elif entry["ats"] == "custom":
+            jobs = probe_curated_custom(entry)
         else:
             print(f"  ⚠️  Unknown ATS for {entry['name']}: {entry['ats']}")
             continue
