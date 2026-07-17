@@ -6,10 +6,12 @@ with no manual homepage entry.
 Modes:
 
   python discover.py --portfolios [--limit N] [--write]
-      Pull the SOSV/IndieBio portfolio (Human Health / Therapeutics companies)
-      straight from SOSV's public WordPress REST API — names + homepages, fully
-      automatic — plus a small built-in list of ML-native shops not in that
-      portfolio. Resolve each one's careers page + ATS.
+      Pull the SOSV/IndieBio portfolio (bio trend/category companies) from
+      SOSV's public WordPress REST API and Y Combinator's healthcare list
+      (small + actively-hiring + target-hub only) — names + homepages, fully
+      automatic — plus a small built-in list of ML-native shops not in those
+      portfolios. Resolve each one's careers page + ATS. Unresolved companies
+      go on a 30-day cooldown (discovered_todo.json) so repeat runs stay fast.
       --limit N   cap how many companies to resolve (default 60; 0 = all).
       --write     append resolved companies to discovered_companies.json, which
                   scrape_jobs.scrape_curated_biotechs() loads automatically — so
@@ -31,17 +33,36 @@ import os
 import re
 import sys
 import urllib.parse
+from datetime import date
 from html.parser import HTMLParser
 
-import scrape_jobs  # reuse HEADERS, fetch(), BAY_AREA_LOCATIONS, the tracked list
+import scrape_jobs  # reuse HEADERS, fetch(), location gates, the tracked list
 
 fetch = scrape_jobs.fetch
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 DISCOVERED_PATH = os.path.join(SCRIPT_DIR, "discovered_companies.json")
 
+# Attempted-but-unresolved companies, keyed by lowercased name, with a
+# last-tried date. Skipped for TODO_RETRY_DAYS then retried — a company with
+# no careers page today may add one later, so the skip expires rather than
+# blinding discovery permanently.
+TODO_PATH = os.path.join(SCRIPT_DIR, "discovered_todo.json")
+TODO_RETRY_DAYS = 30
+
 # --- Automatic source: SOSV / IndieBio portfolio via its WordPress REST API ---
 SOSV_API = "https://sosv.com/wp-json/wp/v2/company"
 SOSV_BIO_TRENDS = {2542, 2543}   # "Human Health", "Therapeutics" trend term IDs
+SOSV_BIO_CATEGORIES = {1070, 1132}  # bio category term IDs (broader than trends)
+
+# --- Automatic source: Y Combinator healthcare companies (static JSON) -------
+YC_HEALTHCARE_API = "https://yc-oss.github.io/api/industries/healthcare.json"
+# Non-technical subindustries to skip. NOTE: the API prefixes every
+# subindustry with "Healthcare -> " (verified 2026-07-16) — the bare names
+# would silently match nothing.
+YC_EXCLUDED_SUBINDUSTRIES = {
+    "Healthcare -> Healthcare Services",
+    "Healthcare -> Consumer Health and Wellness",
+}
 
 # Small built-in supplement: ML-native drug-discovery shops not in the SOSV
 # portfolio. Not "pasting" — a maintained default so these get resolved too.
@@ -124,15 +145,39 @@ def _detect_ats(text: str):
     return None, None
 
 
+_STATE_FULL = {"NY": "new york", "MA": "massachusetts", "CA": "california",
+               "WA": "washington", "NC": "north carolina"}
+
+
+def _comma_form(low: str, city: str, state: str) -> bool:
+    return (f"{city}, {state.lower()}" in low
+            or f"{city}, {_STATE_FULL[state]}" in low)
+
+
 def _guess_location(html: str) -> str:
-    """Best-effort HQ city from a Bay-Area mention on the homepage (reuses the
-    scraper's city list). Empty if none — the caller then flags the company for
-    manual location rather than emitting a location-less custom entry that the
-    is_bay_area() gate would always drop."""
+    """Best-effort HQ city from a Bay-Area or biotech-hub mention on the
+    homepage (reuses the scraper's city lists). On free homepage text,
+    ambiguous city names (Cambridge, Dublin, Durham…) only count in their
+    contiguous "city, st" / "city, state" form — the gate's word-boundary
+    state confirmation is too loose across a whole page (CSS ids like "#ma"
+    and phrases like "mass spectrometry" false-confirm; a Cambridge-UK
+    company must not resolve to Cambridge, MA). Empty if none — the caller
+    then flags the company for manual location rather than emitting a
+    location-less custom entry that the is_target_location() gate would
+    always drop."""
     low = (html or "").lower()
     for city in scrape_jobs.BAY_AREA_LOCATIONS:
-        if city in low:
-            return f"{city.title()}, CA"
+        if city not in low:
+            continue
+        if city in scrape_jobs._BAY_AMBIGUOUS and not _comma_form(low, city, "CA"):
+            continue
+        return f"{city.title()}, CA"
+    for tok, state in scrape_jobs.US_BIOTECH_HUBS.items():
+        if tok == "ny office" or tok not in low:
+            continue
+        if tok in scrape_jobs._HUB_AMBIGUOUS and not _comma_form(low, tok, state):
+            continue
+        return f"{tok.title()}, {state}"
     return ""
 
 
@@ -191,7 +236,7 @@ def sosv_bio_companies(max_pages: int = 12) -> list:
     out: list = []
     page = 1
     while page <= max_pages:
-        raw = fetch(f"{SOSV_API}?per_page=100&page={page}&_fields=title,acf,tx_trend")
+        raw = fetch(f"{SOSV_API}?per_page=100&page={page}&_fields=title,acf,tx_trend,tx_category")
         if not raw:
             break
         try:
@@ -201,7 +246,8 @@ def sosv_bio_companies(max_pages: int = 12) -> list:
         if not isinstance(arr, list) or not arr:
             break
         for c in arr:
-            if SOSV_BIO_TRENDS & set(c.get("tx_trend") or []):
+            if (SOSV_BIO_TRENDS & set(c.get("tx_trend") or [])
+                    or SOSV_BIO_CATEGORIES & set(c.get("tx_category") or [])):
                 name = _html.unescape((c.get("title") or {}).get("rendered", "")).strip()
                 site = ((c.get("acf") or {}).get("website") or "").strip()
                 if name and site:
@@ -210,6 +256,33 @@ def sosv_bio_companies(max_pages: int = 12) -> list:
             break
         page += 1
     print(f"# sosv/indiebio API: {len(out)} bio companies with homepage", file=sys.stderr)
+    return out
+
+
+def yc_bio_companies() -> list:
+    """Y Combinator healthcare companies from the yc-oss static JSON mirror,
+    kept to the same tight small+hiring target as the SOSV pull: Active,
+    1–50 people, actively hiring, technical subindustry, located in a target
+    hub (Bay / US biotech hubs / US-remote). Returns [(name, homepage)].
+    isHiring/team_size are YC self-reported and can be stale."""
+    raw = fetch(YC_HEALTHCARE_API)
+    if not raw:
+        return []
+    try:
+        arr = json.loads(raw)
+    except json.JSONDecodeError:
+        return []
+    out: list = []
+    for c in arr if isinstance(arr, list) else []:
+        team = c.get("team_size")
+        if (c.get("status") == "Active"
+                and isinstance(team, int) and 1 <= team <= 50
+                and c.get("isHiring")
+                and (c.get("website") or "").strip()
+                and (c.get("subindustry") or "") not in YC_EXCLUDED_SUBINDUSTRIES
+                and scrape_jobs.is_target_location(c.get("all_locations") or "")):
+            out.append((c.get("name", "").strip(), c["website"].strip()))
+    print(f"# yc healthcare API: {len(out)} small hiring bio companies", file=sys.stderr)
     return out
 
 
@@ -235,6 +308,25 @@ def _load_discovered() -> list:
         return []
 
 
+def _load_todo() -> dict:
+    try:
+        with open(TODO_PATH) as f:
+            data = json.load(f)
+        return data if isinstance(data, dict) else {}
+    except (FileNotFoundError, json.JSONDecodeError):
+        return {}
+
+
+def _in_cooldown(todo_entry, today: date) -> bool:
+    if not isinstance(todo_entry, dict):
+        return False
+    try:
+        last = date.fromisoformat(todo_entry.get("last_tried", ""))
+    except (TypeError, ValueError):
+        return False
+    return (today - last).days < TODO_RETRY_DAYS
+
+
 def _int_flag(argv: list, flag: str, default: int) -> int:
     if flag in argv:
         try:
@@ -248,8 +340,9 @@ def main(argv: list) -> int:
     write = "--write" in argv
     if "--portfolios" in argv:
         # Reliable ML-native shops first, so --limit never cuts them off; then
-        # the auto-pulled SOSV/IndieBio portfolio (larger, lower hit-rate tail).
-        pairs = EXTRA_HOMEPAGES + sosv_bio_companies()
+        # the auto-pulled YC healthcare and SOSV/IndieBio portfolios (larger,
+        # lower hit-rate tail).
+        pairs = EXTRA_HOMEPAGES + yc_bio_companies() + sosv_bio_companies()
         limit = _int_flag(argv, "--limit", 60)
         if limit and len(pairs) > limit:
             print(f"# resolving first {limit} of {len(pairs)} (use --limit 0 for all)", file=sys.stderr)
@@ -266,9 +359,11 @@ def main(argv: list) -> int:
         pairs = [(_name_from_url(u), u) for u in urls]
 
     tracked = _tracked_names()
+    todo_cache = _load_todo()
+    today = date.today()
     print("# --- discover.py results ---")
     new_entries: list = []
-    n_ok = n_todo = n_skip = 0
+    n_ok = n_todo = n_skip = n_cooldown = 0
     seen: set = set()
     for i, (name, homepage) in enumerate(pairs, 1):
         key = name.strip().lower()
@@ -276,15 +371,24 @@ def main(argv: list) -> int:
             n_skip += 1
             continue
         seen.add(key)
+        if key in todo_cache and _in_cooldown(todo_cache[key], today):
+            n_cooldown += 1
+            continue
         if i % 20 == 0:
             print(f"# ...resolved {i}/{len(pairs)}", file=sys.stderr)
         r = resolve(name, homepage)
         if r["status"] == "ok":
+            todo_cache.pop(key, None)
             entry = _entry_dict(name, r)
             new_entries.append(entry)
             _print_entry(entry)
             n_ok += 1
         else:
+            # A transient homepage failure shouldn't blind discovery to the
+            # company for TODO_RETRY_DAYS — only cache structural misses.
+            if "unreachable" not in r["reason"]:
+                todo_cache[key] = {"name": name, "reason": r["reason"],
+                                   "last_tried": today.isoformat()}
             print(f'    # TODO manual: {name} — {r["reason"]}')
             n_todo += 1
 
@@ -296,8 +400,14 @@ def main(argv: list) -> int:
             json.dump(existing, f, indent=2)
         print(f"# wrote {len(new_entries)} new to discovered_companies.json "
               f"({len(existing)} total) — the daily sweep will pick them up", file=sys.stderr)
+    if write:
+        with open(TODO_PATH, "w") as f:
+            json.dump(todo_cache, f, indent=2)
+        print(f"# todo cache: {len(todo_cache)} unresolved on {TODO_RETRY_DAYS}-day "
+              f"cooldown (discovered_todo.json)", file=sys.stderr)
 
-    print(f"# resolved={n_ok}  todo={n_todo}  skipped(tracked/dup)={n_skip}", file=sys.stderr)
+    print(f"# resolved={n_ok}  todo={n_todo}  skipped(tracked/dup)={n_skip}  "
+          f"skipped(cooldown)={n_cooldown}", file=sys.stderr)
     return 0
 
 

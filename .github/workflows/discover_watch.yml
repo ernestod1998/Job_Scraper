@@ -28,14 +28,17 @@ jobs:
         with:
           python-version: "3.11"
 
-      - name: Discover startups (SOSV/IndieBio portfolio) and update the seed file
-        run: python discover.py --portfolios --write
+      - name: Discover startups (SOSV/IndieBio + YC portfolios) and update the seed file
+        # --limit 0 resolves the full widened net; the discovered_todo.json
+        # cooldown cache keeps repeat runs fast (only new/expired companies
+        # are re-probed).
+        run: python discover.py --portfolios --write --limit 0
 
       - name: Commit discovered companies to repo
         run: |
           git config user.name  "ernestod1998"
           git config user.email "61074783+ernestod1998@users.noreply.github.com"
-          git add discovered_companies.json
+          git add discovered_companies.json discovered_todo.json
           git diff --cached --quiet || git commit -m "chore: update discovered startups [$(date -u '+%Y-%m-%d')]"
           git pull --rebase origin main
           git push

@@ -134,11 +134,13 @@ _KEYWORD_RE = re.compile(
 # ---------------------------------------------------------------------------
 
 def fetch(url):
-    req = Request(url, headers=HEADERS)
     try:
+        # Request() itself raises ValueError on malformed/schemeless URLs
+        # (third-party portfolio data), so it must sit inside the try.
+        req = Request(url, headers=HEADERS)
         with urlopen(req, timeout=15) as r:
             return r.read().decode("utf-8", errors="ignore")
-    except (URLError, TimeoutError, OSError) as e:
+    except (URLError, TimeoutError, OSError, ValueError) as e:
         print(f"  ⚠️  Could not fetch {url}: {e}")
         return ""
 
@@ -155,7 +157,7 @@ BAY_AREA_LOCATIONS = [
     "oakland", "berkeley", "alameda", "emeryville", "richmond",
     "palo alto", "mountain view", "menlo park", "sunnyvale",
     "santa clara", "san jose", "cupertino", "los altos", "los gatos",
-    "san mateo", "foster city", "redwood city", "brisbane", "millbrae",
+    "san mateo", "foster city", "redwood city", "san carlos", "brisbane", "millbrae",
     "san bruno", "burlingame", "belmont",
     "fremont", "hayward", "union city", "newark", "milpitas",
     "concord", "walnut creek", "pleasanton", "dublin", "san ramon",
@@ -170,6 +172,107 @@ def is_bay_area(location: str) -> bool:
         return False
     loc = location.lower()
     return any(city in loc for city in BAY_AREA_LOCATIONS)
+
+
+# Non-Bay US biotech hubs, token → state. Tokens are substring-matched like
+# BAY_AREA_LOCATIONS. City names with a well-known non-US or wrong-state
+# namesake (Cambridge UK/MD, Durham UK, Pasadena TX, Irvine Scotland,
+# Queensland…) live in _HUB_AMBIGUOUS and only match when the right state
+# also appears in the string — so "Cambridge, MA", "Cambridge, Massachusetts"
+# and Workday's "Cambridge Crossing - MA - US" all match while "Cambridge,
+# UK" never does. "ny office" catches Greenhouse boards that write NYC that
+# way (e.g. Flatiron Health); "tarrytown" is Regeneron's Westchester HQ.
+# The state values let discover.py emit a real "City, ST" fallback_location.
+US_BIOTECH_HUBS = {
+    # NYC
+    "new york": "NY", "brooklyn": "NY", "manhattan": "NY",
+    "queens": "NY", "long island city": "NY", "tarrytown": "NY",
+    "ny office": "NY",
+    # Boston / Cambridge
+    "boston": "MA", "cambridge": "MA", "somerville": "MA",
+    "watertown": "MA", "waltham": "MA",
+    # SoCal
+    "san diego": "CA", "los angeles": "CA", "thousand oaks": "CA",
+    "pasadena": "CA", "irvine": "CA",
+    # Seattle
+    "seattle": "WA", "bothell": "WA",
+    # Research Triangle
+    "raleigh": "NC", "durham": "NC", "research triangle": "NC",
+    "chapel hill": "NC",
+}
+
+_HUB_AMBIGUOUS = {"cambridge", "queens", "watertown", "pasadena", "irvine", "durham"}
+
+_STATE_CONFIRM = {
+    "NY": re.compile(r'\b(ny|new york)\b', re.IGNORECASE),
+    "MA": re.compile(r'\b(ma|mass|massachusetts)\b', re.IGNORECASE),
+    "CA": re.compile(r'\b(ca|calif|california)\b', re.IGNORECASE),
+    "WA": re.compile(r'\b(wa|washington)\b', re.IGNORECASE),
+    "NC": re.compile(r'\b(nc|north carolina)\b', re.IGNORECASE),
+}
+
+
+def hub_city_match(text: str):
+    """Return (token, state) for the first US biotech hub mentioned in text
+    (state-confirmed for ambiguous city names), else None."""
+    low = (text or "").lower()
+    for tok, state in US_BIOTECH_HUBS.items():
+        if tok not in low:
+            continue
+        if tok in _HUB_AMBIGUOUS and not _STATE_CONFIRM[state].search(low):
+            continue
+        return tok, state
+    return None
+
+
+# Bay Area city names with well-known non-CA namesakes (Dublin IE, Brisbane
+# AU, Newark NJ/DE, Richmond VA/UK, Concord NH, Union City NJ, Danville VA).
+# The target gate requires CA confirmation for these; is_bay_area() itself is
+# left alone so the geo-scoped LinkedIn/Indeed/gov watchers keep their
+# existing behavior.
+_BAY_AMBIGUOUS = {"dublin", "brisbane", "newark", "richmond", "concord",
+                  "union city", "danville"}
+
+
+def _bay_area_confirmed(location: str) -> bool:
+    loc = (location or "").lower()
+    for city in BAY_AREA_LOCATIONS:
+        if city not in loc:
+            continue
+        if city in _BAY_AMBIGUOUS and not _STATE_CONFIRM["CA"].search(loc):
+            continue
+        return True
+    return False
+
+
+# Remote roles count as US only on an affirmative US signal, or when the
+# string names no other geography at all — a blocklist of non-US markets
+# can't keep up with strings like "Spain - Remote" (live on Amgen's board).
+_US_MARKET_RE = re.compile(r'\b(us|usa|u\.s|united states)\b', re.IGNORECASE)
+_BARE_REMOTE = {"remote", "fully remote", "remote first", "remote work",
+                "remote position", "work from home"}
+
+
+def is_remote_us(location: str) -> bool:
+    loc = (location or "").lower()
+    if "remote" not in loc:
+        return False
+    if _US_MARKET_RE.search(loc):
+        return True
+    return re.sub(r'[^a-z]+', ' ', loc).strip() in _BARE_REMOTE
+
+
+def is_target_location(location: str) -> bool:
+    """Bay Area + the other major US biotech hubs + US-remote. Used by the
+    biotech sweep (and discover.py) only — the LinkedIn/Indeed/gov watchers
+    stay Bay-focused."""
+    if not location:
+        return False
+    return (
+        _bay_area_confirmed(location)
+        or hub_city_match(location) is not None
+        or is_remote_us(location)
+    )
 
 
 def extract_location(job: dict) -> str:
@@ -288,6 +391,25 @@ CURATED_BIOTECHS = [
     {"name": "Gilead Sciences",      "ats": "workday",
      "url": "https://gilead.wd1.myworkdayjobs.com/wday/cxs/gilead/gileadcareers/jobs",
      "fallback_location": "Foster City, CA"},
+    # ---- Big-name biotechs (endpoints verified live 2026-07-16) ----
+    {"name": "Ginkgo Bioworks",      "ats": "greenhouse", "slug": "ginkgobioworks",   "fallback_location": "Boston, MA"},
+    {"name": "Flatiron Health",      "ats": "greenhouse", "slug": "flatironhealth",   "fallback_location": "New York, NY"},
+    {"name": "Benchling",            "ats": "ashby",      "slug": "benchling",        "fallback_location": "San Francisco, CA"},
+    {"name": "Vertex Pharmaceuticals", "ats": "workday",
+     "url": "https://vrtx.wd501.myworkdayjobs.com/wday/cxs/vrtx/Vertex_Careers/jobs",
+     "fallback_location": "Boston, MA"},
+    {"name": "Amgen",                "ats": "workday",
+     "url": "https://amgen.wd1.myworkdayjobs.com/wday/cxs/amgen/careers/jobs",
+     "fallback_location": "Thousand Oaks, CA"},
+    {"name": "Regeneron",            "ats": "workday",
+     "url": "https://regeneron.wd1.myworkdayjobs.com/wday/cxs/regeneron/careers/jobs",
+     "fallback_location": "Tarrytown, NY"},
+    {"name": "Moderna",              "ats": "workday",
+     "url": "https://modernatx.wd1.myworkdayjobs.com/wday/cxs/modernatx/M_tx/jobs",
+     "fallback_location": "Cambridge, MA"},
+    {"name": "Bristol Myers Squibb", "ats": "workday",
+     "url": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/wday/cxs/bristolmyerssquibb/BMS/jobs",
+     "fallback_location": "Princeton, NJ"},
     # ---- Startups added via careers-page sweep (2026-07) ----
     {"name": "Insitro",              "ats": "ashby",      "slug": "insitro",             "fallback_location": "South San Francisco, CA"},
     {"name": "Manifold Bio",         "ats": "greenhouse", "slug": "manifoldbio",         "fallback_location": "San Francisco, CA"},
@@ -394,6 +516,32 @@ WORKDAY_SEARCH_TERMS = [
     "bioinformatics",
     "AI engineer",
 ]
+# Workday's CXS API caps each response at 20 results; page up to this many
+# results per search term (3 pages) so big-pharma tenants aren't truncated
+# to the first response.
+WORKDAY_MAX_PER_TERM = 60
+
+
+def _workday_posting_locations(entry: dict, ext_path: str) -> str:
+    """Resolve a multi-location Workday posting's real cities from its detail
+    JSON (jobPostingInfo.location + additionalLocations). Returns the first
+    location that passes the target gate, else all of them joined (which then
+    correctly fails the gate), else "" on fetch/parse failure."""
+    time.sleep(REQUEST_DELAY)
+    raw = fetch(entry["url"].rsplit("/jobs", 1)[0] + ext_path)
+    if not raw:
+        return ""
+    try:
+        info = json.loads(raw).get("jobPostingInfo") or {}
+    except json.JSONDecodeError:
+        return ""
+    locs = [info.get("location") or ""]
+    locs += [l for l in (info.get("additionalLocations") or []) if isinstance(l, str)]
+    locs = [l for l in locs if l]
+    for l in locs:
+        if is_target_location(l):
+            return l
+    return "; ".join(locs)
 
 
 def probe_curated_workday(entry: dict) -> list:
@@ -408,40 +556,63 @@ def probe_curated_workday(entry: dict) -> list:
 
     seen: dict[str, dict] = {}
     for term in WORKDAY_SEARCH_TERMS:
-        time.sleep(REQUEST_DELAY)
-        body = json.dumps({"appliedFacets": {}, "limit": 20, "offset": 0, "searchText": term}).encode()
-        try:
-            req = Request(
-                entry["url"],
-                data=body,
-                headers={**HEADERS, "Content-Type": "application/json", "Accept": "application/json"},
-            )
-            with urlopen(req, timeout=15) as r:
-                data = json.loads(r.read().decode("utf-8", errors="ignore"))
-        except (URLError, TimeoutError, OSError, json.JSONDecodeError) as e:
-            print(f"  ⚠️  Workday {entry['name']} ({term!r}): {e}")
-            continue
+        # Big-pharma tenants return hundreds of hits per term; page past the
+        # 20-result cap (bounded, so runtime stays sane on the daily sweep).
+        offset = 0
+        while offset < WORKDAY_MAX_PER_TERM:
+            time.sleep(REQUEST_DELAY)
+            body = json.dumps({"appliedFacets": {}, "limit": 20,
+                               "offset": offset, "searchText": term}).encode()
+            try:
+                req = Request(
+                    entry["url"],
+                    data=body,
+                    headers={**HEADERS, "Content-Type": "application/json", "Accept": "application/json"},
+                )
+                with urlopen(req, timeout=15) as r:
+                    data = json.loads(r.read().decode("utf-8", errors="ignore"))
+            except (URLError, TimeoutError, OSError, json.JSONDecodeError) as e:
+                print(f"  ⚠️  Workday {entry['name']} ({term!r}): {e}")
+                break
 
-        for posting in data.get("jobPostings", []):
-            ext_path = posting.get("externalPath", "")
-            if ext_path in seen:
-                continue
-            title = posting.get("title", "")
-            if not is_mle_role(title):
-                continue
-            public_url = f"https://{domain}/{site}{ext_path}" if ext_path else entry["url"]
-            loc = posting.get("locationsText", "") or entry["fallback_location"]
-            # Workday summarizes multi-location roles as "N Locations" — assume HQ
-            if re.match(r'^\d+ Locations?$', loc):
-                loc = entry["fallback_location"]
-            seen[ext_path] = {
-                "company": entry["name"],
-                "title": title,
-                "location": loc,
-                "url": public_url,
-                "date_posted": posting.get("postedOn") or "",
-                "ats": "Workday",
-            }
+            postings = data.get("jobPostings", [])
+            for posting in postings:
+                ext_path = posting.get("externalPath", "")
+                if ext_path in seen:
+                    continue
+                title = posting.get("title", "")
+                if not is_mle_role(title):
+                    continue
+                public_url = f"https://{domain}/{site}{ext_path}" if ext_path else entry["url"]
+                # Some tenants (e.g. Moderna) omit locationsText and put the
+                # location in bulletFields[0] — but on other tenants
+                # bulletFields[0] is a requisition id, so only trust it when
+                # it contains no digits.
+                loc = posting.get("locationsText", "")
+                if not loc:
+                    bullets = posting.get("bulletFields")
+                    first = bullets[0] if isinstance(bullets, list) and bullets else ""
+                    if isinstance(first, str) and first and not any(ch.isdigit() for ch in first):
+                        loc = first
+                loc = loc or entry["fallback_location"]
+                # Workday summarizes multi-location roles as "N Locations" —
+                # resolve the real cities from the detail endpoint so hub
+                # roles aren't relabeled with a fallback the gate rejects
+                # (BMS: Princeton) or blindly credited to HQ.
+                if re.match(r'^\d+ Locations?$', loc):
+                    real = _workday_posting_locations(entry, ext_path) if ext_path else ""
+                    loc = real or entry["fallback_location"]
+                seen[ext_path] = {
+                    "company": entry["name"],
+                    "title": title,
+                    "location": loc,
+                    "url": public_url,
+                    "date_posted": posting.get("postedOn") or "",
+                    "ats": "Workday",
+                }
+            offset += 20
+            if not postings or offset >= (data.get("total") or 0):
+                break
     return list(seen.values())
 
 
@@ -1911,7 +2082,9 @@ if __name__ == "__main__":
         # freshness filter (ATS updated_at is unreliable for that anyway).
         jobs = list(scrape_genentech())
         jobs.extend(scrape_curated_biotechs())
-        jobs = [j for j in jobs if is_bay_area(j.get("location", ""))]
+        # Biotech sweep covers all major US biotech hubs + US-remote; the
+        # LinkedIn/Indeed/gov watchers keep their tighter Bay Area gate.
+        jobs = [j for j in jobs if is_target_location(j.get("location", ""))]
         jobs.extend(scrape_linkedin_biotech())
 
         seen: set[tuple[str, str]] = set()
