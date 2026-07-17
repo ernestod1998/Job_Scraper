@@ -1,85 +1,66 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area)
-*Last updated: 2026-07-17 22:17 UTC*
+*Last updated: 2026-07-17 23:17 UTC*
 
-**19 new role(s)** since last run · 26 total in last 1h
+**15 new role(s)** since last run · 23 total in last 1h
 
-### [Remote Software Engineer](https://www.linkedin.com/jobs/view/4442173698/) — RoShay Services
-- 📍 **Location:** Stockton, CA
-- 🕒 **Posted:** 2026-07-17
-
-### [Senior ML Engineer](https://www.linkedin.com/jobs/view/4441349946/) — Jobright.ai
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-07-17
-
-### [Software Engineer - AI Agent](https://www.linkedin.com/jobs/view/4441360488/) — Jobright.ai
-- 📍 **Location:** San Mateo County, CA
-- 🕒 **Posted:** 2026-07-17
-
-### [Software Engineer, RCM Core](https://www.linkedin.com/jobs/view/4442169621/) — Commure
+### [Software Engineer, Personalization and Recommendations AI](https://www.linkedin.com/jobs/view/4441371193/) — Google
 - 📍 **Location:** Mountain View, CA
-- 💰 **Salary:** $170,000.00/yr - $190,000.00/yr
 - 🕒 **Posted:** 2026-07-17
 
-### [Senior Software Engineer, Frontend Platform](https://www.linkedin.com/jobs/view/4442181333/) — Roo
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-07-17
-
-### [BIM Software Engineer](https://www.linkedin.com/jobs/view/4442168706/) — Tesla
+### [Remote Software Engineer, Front-End](https://www.linkedin.com/jobs/view/4442178831/) — LS Solutions
 - 📍 **Location:** Fremont, CA
 - 🕒 **Posted:** 2026-07-17
 
-### [Forward Deployed AI Engineer](https://www.linkedin.com/jobs/view/4441348921/) — Keyrus
+### [Remote Senior Software Engineer - RPA](https://www.linkedin.com/jobs/view/4442171892/) — LS Solutions
+- 📍 **Location:** Stockton, CA
+- 🕒 **Posted:** 2026-07-17
+
+### [Data Engineer AI](https://www.linkedin.com/jobs/view/4441369337/) — Quest Global
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-07-17
+
+### [Senior Java Software Engineer](https://www.linkedin.com/jobs/view/4441352865/) — Data Capital Incorporation
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-07-17
+
+### [Sr Applied Scientist](https://www.linkedin.com/jobs/view/4442178779/) — Uber
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-07-17
 
-### [Software Engineer](https://www.linkedin.com/jobs/view/4441370014/) — Jobright.ai
-- 📍 **Location:** Los Altos, CA
+### [Senior Perception Engineer](https://www.linkedin.com/jobs/view/4441365335/) — John Deere
+- 📍 **Location:** Santa Clara, CA
 - 🕒 **Posted:** 2026-07-17
 
-### [AI Engineer](https://www.linkedin.com/jobs/view/4427866773/) — Distyl
+### [Applied AI Engineer](https://www.linkedin.com/jobs/view/4430130904/) — Artos AI
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $171,000.00/yr - $242,000.00/yr
+- 🕒 **Posted:** 2026-07-17
+
+### [AI Engineer](https://www.linkedin.com/jobs/view/4442188367/) — Jacobs
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $100,000.00/yr - $120,000.00/yr
+- 🕒 **Posted:** 2026-07-17
+
+### [AI Engineer (Generalist)- Only USC OR GC](https://www.linkedin.com/jobs/view/4442187399/) — Elantis
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-07-17
+
+### [AI Engineer, Lead](https://www.linkedin.com/jobs/view/4427883516/) — Distyl
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-07-17
 
-### [AI Engineer, Evaluation](https://www.linkedin.com/jobs/view/4427863955/) — Distyl
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-07-17
-
-### [Full Stack Engineer](https://www.linkedin.com/jobs/view/4441359312/) — Kinetic Systems
+### [Full Stack Engineer](https://www.linkedin.com/jobs/view/4441365289/) — Stealth Startup
 - 📍 **Location:** San Francisco Bay Area
 - 🕒 **Posted:** 2026-07-17
 
-### [Software Engineer, Biller Workflows](https://www.linkedin.com/jobs/view/4442173513/) — Commure
-- 📍 **Location:** Mountain View, CA
-- 💰 **Salary:** $130,000.00/yr - $190,000.00/yr
+### [Sr. DevOps Engineer - Digital Assets](https://www.linkedin.com/jobs/view/4442189047/) — Early Warning
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-07-17
 
-### [Senior Fullstack Software Engineer](https://www.linkedin.com/jobs/view/4441360444/) — Pebl
-- 📍 **Location:** Palo Alto, CA
-- 💰 **Salary:** $145,600.00/yr - $201,204.00/yr
+### [QA/DevOps Engineer](https://www.linkedin.com/jobs/view/4441365302/) — Discord
+- 📍 **Location:** San Francisco Bay Area
 - 🕒 **Posted:** 2026-07-17
 
-### [Senior, Software Engineer (partner engineer or solution engineer))](https://www.linkedin.com/jobs/view/4439281140/) — Walmart
-- 📍 **Location:** Sunnyvale, CA
-- 💰 **Salary:** $117,000.00/yr - $234,000.00/yr
-- 🕒 **Posted:** 2026-07-17
-
-### [Site Reliability Engineer II](https://www.linkedin.com/jobs/view/4441355694/) — Illumio
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-07-17
-
-### [Sr. Site Reliability Engineer](https://www.linkedin.com/jobs/view/4441371146/) — Illumio
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-07-17
-
-### [Production Support/ Site Reliability Engineer (SRE) – L1](https://www.linkedin.com/jobs/view/4441360361/) — Centraprise
-- 📍 **Location:** San Jose, CA
-- 💰 **Salary:** $70,000.00/yr - $80,000.00/yr
-- 🕒 **Posted:** 2026-07-17
-
-### [Manager, Software Engineer – Cloud Platform](https://www.linkedin.com/jobs/view/4442174495/) — General Motors
-- 📍 **Location:** Mountain View, CA
-- 🕒 **Posted:** 2026-07-17
-
-### [Sr. Software Engineer- Container Security](https://www.linkedin.com/jobs/view/4441365265/) — Illumio
-- 📍 **Location:** San Jose, CA
+### [Sr Scientist, Drug Metabolism](https://www.linkedin.com/jobs/view/4414701564/) — Gilead Sciences
+- 📍 **Location:** San Francisco Bay Area
 - 🕒 **Posted:** 2026-07-17
