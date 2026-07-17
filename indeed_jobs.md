@@ -1,44 +1,39 @@
 # 🟦 Indeed — Engineering / ML / DS Roles (SF Bay Area)
-*Last updated: 2026-07-17 18:38 UTC*
+*Last updated: 2026-07-17 20:30 UTC*
 
-**8 new role(s)** since last run · 90 total in last 24h
+**7 new role(s)** since last run · 86 total in last 24h
 
-### [Senior Machine Learning Engineer, Advertiser Intelligence](https://www.indeed.com/viewjob?jk=f041998220dcd6a1) — Unity Technologies
+### [Machine Learning Engineer, Marketplace Pricing](https://www.indeed.com/viewjob?jk=478d125ead53634f) — Waymo
 - 📍 **Location:** Mountain View, CA, US
-- 💰 **Salary:** $159k–$239k/yr
+- 💰 **Salary:** $175k–$215k/yr
 - 🕒 **Posted:** 2026-07-17
 
-### [Data Scientist / Senior Data Scientist (Risk Modeling)](https://www.indeed.com/viewjob?jk=670377e753372f6a) — Berkshire Hathaway Specialty Insurance
-- 📍 **Location:** San Ramon, CA, US
-- 💰 **Salary:** $100k–$160k/yr
+### [Senior Machine Learning Engineer - Perception 3D Segmentation](https://www.indeed.com/viewjob?jk=1fd885e432f0635d) — Zoox
+- 📍 **Location:** Foster City, CA, US
+- 💰 **Salary:** $242k–$290k/yr
 - 🕒 **Posted:** 2026-07-17
 
-### [Data Engineer, Senior](https://www.indeed.com/viewjob?jk=b14758f985fc54f2) — Blue Shield of California
-- 📍 **Location:** Oakland, CA, US
-- 💰 **Salary:** $103k–$154k/yr
+### [Sr. Manager, Data Science](https://www.indeed.com/viewjob?jk=e053287b70486fe3) — Visa
+- 📍 **Location:** Foster City, CA, US
+- 💰 **Salary:** $192k–$308k/yr
 - 🕒 **Posted:** 2026-07-17
 
-### [Senior Full Stack Engineer (Payments)](https://www.indeed.com/viewjob?jk=096faff176ae84dc) — Office Ally
-- 📍 **Location:** Concord, CA, US
-- 💰 **Salary:** $120k–$150k/yr
+### [Full Stack Software Engineer - AI Applications](https://www.indeed.com/viewjob?jk=4836dbf454cb42c7) — Ford Motor Company
+- 📍 **Location:** Palo Alto, CA, US
+- 💰 **Salary:** $85k–$233k/yr
 - 🕒 **Posted:** 2026-07-17
 
-### [Lead Software Engineer](https://www.indeed.com/viewjob?jk=277b4a64c9ee0e69) — Wells Fargo
-- 📍 **Location:** Concord, CA, US
-- 💰 **Salary:** $119k–$224k/yr
-- 🕒 **Posted:** 2026-07-17
-
-### [Senior DevOps Engineer](https://www.indeed.com/viewjob?jk=fbeebeca9bc926f0) — Rhoda AI
-- 📍 **Location:** Mountain View, CA, US
-- 💰 **Salary:** $175k–$250k/yr
-- 🕒 **Posted:** 2026-07-17
-
-### [Senior Site Reliability Engineer](https://www.indeed.com/viewjob?jk=84912b74e93fa5bc) — Abbott
-- 📍 **Location:** Sunnyvale, CA, US
-- 💰 **Salary:** $90k–$180k/yr
-- 🕒 **Posted:** 2026-07-17
-
-### [Software Engineer](https://www.indeed.com/viewjob?jk=894fa722b0529713) — Ethos Life
+### [Senior Software Engineer](https://www.indeed.com/viewjob?jk=d6833f410bd51a43) — Natera
 - 📍 **Location:** San Francisco, CA, US
-- 💰 **Salary:** $96k–$169k/yr
+- 💰 **Salary:** $138k–$172k/yr
+- 🕒 **Posted:** 2026-07-17
+
+### [Software Engineer, Mobile](https://www.indeed.com/viewjob?jk=70db8173e24e1767) — Upstart
+- 📍 **Location:** San Mateo, CA, US
+- 💰 **Salary:** $142k–$197k/yr
+- 🕒 **Posted:** 2026-07-17
+
+### [Technical Program Manager, Systems Engineering](https://www.indeed.com/viewjob?jk=6085eb424d569b93) — Waymo
+- 📍 **Location:** Mountain View, CA, US
+- 💰 **Salary:** $159k–$196k/yr
 - 🕒 **Posted:** 2026-07-17
