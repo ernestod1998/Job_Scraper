@@ -1,53 +1,42 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area)
-*Last updated: 2026-07-17 01:06 UTC*
+*Last updated: 2026-07-17 01:17 UTC*
 
-**12 new role(s)** since last run · 16 total in last 1h
+**9 new role(s)** since last run · 23 total in last 1h
 
-### [Software Engineer, Platform](https://www.linkedin.com/jobs/view/4441129433/) — Voice AI Space
+### [Software Engineer](https://www.linkedin.com/jobs/view/4441136331/) — Origami
 - 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $100,000.00/yr - $125,000.00/yr
 - 🕒 **Posted:** 2026-07-17
 
-### [Software Engineer, Voice Agents / AI - Deepgram for Restaurants](https://www.linkedin.com/jobs/view/4441139167/) — Voice AI Space
+### [Software Engineer, Data Foundations](https://www.linkedin.com/jobs/view/4441140190/) — Whatnot
 - 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $200,000.00/yr - $275,000.00/yr
 - 🕒 **Posted:** 2026-07-17
 
-### [Senior Applied Research Engineer](https://www.linkedin.com/jobs/view/4438759736/) — CoreWeave
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-07-17
-
-### [Senior Software Engineer, Spatial Intelligence and Foundation Models](https://www.linkedin.com/jobs/view/4441128307/) — NVIDIA
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-07-17
-
-### [Software Developer - Cloud (Devops)](https://www.linkedin.com/jobs/view/4441904309/) — Diligente Technologies
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-07-17
-
-### [Software Engineer, Compute (8+ YOE)](https://www.linkedin.com/jobs/view/4441138007/) — Airtable
+### [Lead Software Engineer (Embedded & Cloud)](https://www.linkedin.com/jobs/view/4439932172/) — Arcticar
 - 📍 **Location:** San Francisco Bay Area
 - 🕒 **Posted:** 2026-07-17
 
-### [Senior Backend Engineer](https://www.linkedin.com/jobs/view/4441692826/) — Qualified Health
-- 📍 **Location:** Palo Alto, CA
-- 💰 **Salary:** $160,000.00/yr - $240,000.00/yr
-- 🕒 **Posted:** 2026-07-17
-
-### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4438763270/) — CoreWeave
+### [Senior Software Engineer, Data Infrastructure](https://www.linkedin.com/jobs/view/4441140188/) — Voice AI Space
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-07-17
 
-### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4438750961/) — CoreWeave
-- 📍 **Location:** Sunnyvale, CA
+### [Senior, Backend Software Engineering - Tax Transformation](https://www.linkedin.com/jobs/view/4441692689/) — Deloitte
+- 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-07-17
 
-### [Senior Deep Learning Systems Architect](https://www.linkedin.com/jobs/view/4441121732/) — NVIDIA
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-07-17
-
-### [Software Engineering SMTS](https://www.linkedin.com/jobs/view/4441909210/) — Salesforce
+### [Senior, Backend Software Engineering - Tax Transformation](https://www.linkedin.com/jobs/view/4441904082/) — Deloitte
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-07-17
 
-### [Software Engineering SMTS](https://www.linkedin.com/jobs/view/4441688998/) — Salesforce
-- 📍 **Location:** Palo Alto, CA
+### [Site Reliability Engineer](https://www.linkedin.com/jobs/view/4441127683/) — Voice AI Space
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-07-17
+
+### [Platform Engineer, Security](https://www.linkedin.com/jobs/view/4441136282/) — Voice AI Space
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-07-17
+
+### [Senior Platform Engineer, Security](https://www.linkedin.com/jobs/view/4441125657/) — Voice AI Space
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-07-17
