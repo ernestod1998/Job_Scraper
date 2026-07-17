@@ -85,6 +85,11 @@ KEYWORDS = [
     # deliberately excluded as too broad for the shared LinkedIn/Indeed gate.
     "computational toxicology", "predictive toxicology", "predictive safety",
     "dmpk", "admet", "qsar", "pbpk",
+    # Big pharma titles the DMPK/tox lane by department name, not acronym
+    # (verified live: Gilead "Sr Scientist, Drug Metabolism", Amgen
+    # "... PKDM", Vertex "Toxicology Research Scientist"). "toxicologist"
+    # is the person-title; bare "toxicology" stays excluded (too broad).
+    "drug metabolism", "pkdm", "toxicologist", "toxicology research scientist",
     "molecular property", "computational chemistry", "computational chemist",
     "medical imaging", "computational pathology", "imaging scientist",
     "research scientist, machine learning", "research scientist, ml",
@@ -515,6 +520,15 @@ WORKDAY_SEARCH_TERMS = [
     "computational biology",
     "bioinformatics",
     "AI engineer",
+    # Comp-tox / DMPK / cheminformatics lane — Workday is search-driven (no
+    # whole-board fetch), so without these terms the big-pharma tenants never
+    # return the roles the KEYWORDS lane filter is meant to catch.
+    "computational toxicology",
+    "DMPK",
+    "ADMET",
+    "cheminformatics",
+    "computational chemistry",
+    "QSAR",
 ]
 # Workday's CXS API caps each response at 20 results; page up to this many
 # results per search term (3 pages) so big-pharma tenants aren't truncated
