@@ -1,115 +1,107 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area)
-*Last updated: 2026-07-17 19:17 UTC*
+*Last updated: 2026-07-17 20:18 UTC*
 
-**27 new role(s)** since last run · 43 total in last 1h
+**24 new role(s)** since last run · 32 total in last 1h
 
-### [Data Scientist, Level 4](https://www.linkedin.com/jobs/view/4433541179/) — Snap Inc.
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-07-17
-
-### [Data Scientist](https://www.linkedin.com/jobs/view/4442141459/) — Natsoft
-- 📍 **Location:** Menlo Park, CA
-- 🕒 **Posted:** 2026-07-17
-
-### [Software Engineer](https://www.linkedin.com/jobs/view/4442137860/) — People In AI
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-07-17
-
-### [Lead Data Scientist](https://www.linkedin.com/jobs/view/4429484459/) — Galent
-- 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-07-17
-
-### [Lead C++ Software Engineer](https://www.linkedin.com/jobs/view/4414706700/) — Cadence
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-07-17
-
-### [Manager, Data Science - AI Foundations](https://www.linkedin.com/jobs/view/4361271043/) — Capital One
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-07-17
-
-### [Applied Researcher I (AI Foundations, LLM Customization, Finetuning, Reinforcement Learning)](https://www.linkedin.com/jobs/view/4397342089/) — Capital One
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-07-17
-
-### [Sr. MLE, Prime Video ML Platform](https://www.linkedin.com/jobs/view/4442146043/) — Prime Video & Amazon MGM Studios
+### [Senior Test Engineer, Platforms Infrastructure Engineering](https://www.linkedin.com/jobs/view/4441334774/) — Google
 - 📍 **Location:** Sunnyvale, CA
 - 🕒 **Posted:** 2026-07-17
 
-### [Data Engineer III-6245](https://www.linkedin.com/jobs/view/4441946340/) — itD
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-07-17
-
-### [Senior Data Engineer - Hybrid](https://www.linkedin.com/jobs/view/4424327553/) — CyberCoders
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $160,000.00/yr - $230,000.00/yr
-- 🕒 **Posted:** 2026-07-17
-
-### [Fullstack Software Engineer, Global Payments](https://www.linkedin.com/jobs/view/4441342287/) — ByteDance
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-07-17
-
-### [Lead AI Engineer (MLX, Agentic AI, Gen AI platform Services)](https://www.linkedin.com/jobs/view/4397416877/) — Capital One
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-07-17
-
-### [Lead Prompt engineer](https://www.linkedin.com/jobs/view/4439262232/) — CLOUDSUFI
-- 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-07-17
-
-### [Lead AI Engineer (FM Hosting, LLM Inference)](https://www.linkedin.com/jobs/view/4413973875/) — Capital One
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-07-17
-
-### [Senior Lead AI Engineer (AI Foundations, LLM Core and Agentic AI)](https://www.linkedin.com/jobs/view/4360795671/) — Capital One
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-07-17
-
-### [Full Stack Engineer](https://www.linkedin.com/jobs/view/4442150154/) — VARITE INC
-- 📍 **Location:** Oakland, CA
-- 🕒 **Posted:** 2026-07-17
-
-### [Full-Stack Cloud Engineer – Change Management Service](https://www.linkedin.com/jobs/view/4439260335/) — Vidorra Consulting Group
+### [Senior Machine Learning Engineer, Advertiser Intelligence](https://www.linkedin.com/jobs/view/4441358132/) — Unity
 - 📍 **Location:** Mountain View, CA
 - 🕒 **Posted:** 2026-07-17
 
-### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4441349153/) — FutureTech Recruitment
-- 📍 **Location:** Palo Alto, CA
+### [Senior Software Engineer, AI/ML, Creative Intelligence](https://www.linkedin.com/jobs/view/4441336715/) — Google
+- 📍 **Location:** Mountain View, CA
 - 🕒 **Posted:** 2026-07-17
 
-### [Senior Software Engineer, Apple](https://www.linkedin.com/jobs/view/4413831859/) — Crunchyroll
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-07-17
-
-### [AWS Cloud DevOps Engineer](https://www.linkedin.com/jobs/view/4441340416/) — Veridian Tech Solutions, Inc.
-- 📍 **Location:** Oakland, CA
-- 🕒 **Posted:** 2026-07-17
-
-### [Security Engineer](https://www.linkedin.com/jobs/view/4441331800/) — Neuralink
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-07-17
-
-### [Senior Software Engineer, AI Resiliency](https://www.linkedin.com/jobs/view/4414193675/) — NVIDIA
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-07-17
-
-### [Security Engineer](https://www.linkedin.com/jobs/view/4441337571/) — Neuralink
-- 📍 **Location:** South San Francisco, CA
-- 🕒 **Posted:** 2026-07-17
-
-### [Systems Engineer II](https://www.linkedin.com/jobs/view/4439265071/) — TalentBurst, an Inc 5000 company
-- 📍 **Location:** Santa Clara, CA
-- 💰 **Salary:** $55.00/hr - $57.96/hr
-- 🕒 **Posted:** 2026-07-17
-
-### [Manager, Data Science - Emerging ML](https://www.linkedin.com/jobs/view/4406398738/) — Capital One
+### [Software Engineer, Agentic Platform - TikTok USDS](https://www.linkedin.com/jobs/view/4442161356/) — TikTok USDS Joint Venture
 - 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-07-17
 
-### [Systems Engineer II (Next Generation Sequencing)](https://www.linkedin.com/jobs/view/4441349054/) — R&D Partners
-- 📍 **Location:** Santa Clara, CA
-- 💰 **Salary:** $88,192.00/yr - $110,240.00/yr
+### [Software Engineer, Platform / Infrastructure (Starlink)](https://www.linkedin.com/jobs/view/4442147983/) — SpaceX
+- 📍 **Location:** Palo Alto, CA
 - 🕒 **Posted:** 2026-07-17
 
-### [Data Scientist](https://www.linkedin.com/jobs/view/4442160124/) — Replit
+### [Edge Computing AI Engineer](https://www.linkedin.com/jobs/view/4442162318/) — Bright Vision Technologies
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-07-17
+
+### [Senior Software Engineer, Platform Security](https://www.linkedin.com/jobs/view/4442169085/) — Decagon
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $200,000.00/yr - $330,000.00/yr
+- 🕒 **Posted:** 2026-07-17
+
+### [Software Engineering Manager, iOS Glasses System Experiences, XR](https://www.linkedin.com/jobs/view/4441341478/) — Google
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-07-17
+
+### [Software Engineer, Controls (C++)](https://www.linkedin.com/jobs/view/4442141880/) — Kodiak
+- 📍 **Location:** Mountain View, CA
+- 🕒 **Posted:** 2026-07-17
+
+### [Senior Software Engineer, Backend](https://www.linkedin.com/jobs/view/4442154953/) — Paperless Post
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-07-17
+
+### [Senior Software Engineer, Agentic Platform - TikTok USDS](https://www.linkedin.com/jobs/view/4442149741/) — TikTok USDS Joint Venture
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-07-17
+
+### [Senior Software Engineer, Frontend](https://www.linkedin.com/jobs/view/4442168201/) — Paperless Post
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-07-17
+
+### [Senior Software Engineer, Embedded, Pixel Graphics](https://www.linkedin.com/jobs/view/4441341474/) — Google
+- 📍 **Location:** Mountain View, CA
+- 🕒 **Posted:** 2026-07-17
+
+### [Senior Quality Engineer (Electrical & Software Engineering)](https://www.linkedin.com/jobs/view/4442164181/) — EBR Systems, Inc.
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-07-17
+
+### [Senior Software Engineer in Test](https://www.linkedin.com/jobs/view/4415923074/) — Mainspring Energy
+- 📍 **Location:** Menlo Park, CA
+- 💰 **Salary:** $123,400.00/yr - $145,000.00/yr
+- 🕒 **Posted:** 2026-07-17
+
+### [Cloud Engineer](https://www.linkedin.com/jobs/view/4441359094/) — Capstone Technology Resources, Inc. (Capstone)
+- 📍 **Location:** San Francisco Bay Area
+- 💰 **Salary:** $50.00/hr - $70.00/hr
+- 🕒 **Posted:** 2026-07-17
+
+### [Infrastructure Engineer and SRE](https://www.linkedin.com/jobs/view/4430153344/) — Crosscheck Staffing
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $180,000.00/yr - $260,000.00/yr
+- 🕒 **Posted:** 2026-07-17
+
+### [Senior DevOps Engineer](https://www.linkedin.com/jobs/view/4441340897/) — Gigascale Capital
+- 📍 **Location:** Mountain View, CA
+- 🕒 **Posted:** 2026-07-17
+
+### [Fleet Operations & Analytics Engineer](https://www.linkedin.com/jobs/view/4429332636/) — Mainspring Energy
+- 📍 **Location:** Menlo Park, CA
+- 💰 **Salary:** $109,000.00/yr - $123,000.00/yr
+- 🕒 **Posted:** 2026-07-17
+
+### [Fleet Operations & Analytics Engineer (Tue - Sat)](https://www.linkedin.com/jobs/view/4399651273/) — Mainspring Energy
+- 📍 **Location:** Menlo Park, CA
+- 💰 **Salary:** $109,000.00/yr - $123,000.00/yr
+- 🕒 **Posted:** 2026-07-17
+
+### [Network DevOps Engineer](https://www.linkedin.com/jobs/view/4442161357/) — Bright Vision Technologies
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-07-17
+
+### [Software Engineer, Platform Security](https://www.linkedin.com/jobs/view/4442165234/) — Decagon
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $200,000.00/yr - $330,000.00/yr
+- 🕒 **Posted:** 2026-07-17
+
+### [Senior Machine Learning Engineer - Perception 3D Segmentation](https://www.linkedin.com/jobs/view/4442162498/) — Zoox
 - 📍 **Location:** Foster City, CA
+- 🕒 **Posted:** 2026-07-17
+
+### [Software Engineering Expert](https://www.linkedin.com/jobs/view/4439256931/) — Blue Ventis
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-07-17
