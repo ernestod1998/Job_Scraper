@@ -1,62 +1,46 @@
 # 🟦 Indeed — Engineering / ML / DS Roles (SF Bay Area)
-*Last updated: 2026-07-16 23:30 UTC*
+*Last updated: 2026-07-17 01:07 UTC*
 
-**12 new role(s)** since last run · 89 total in last 24h
+**9 new role(s)** since last run · 83 total in last 24h
 
-### [Senior Data Scientist, AI & Model Risk - Remote, US](https://www.indeed.com/viewjob?jk=fd957196087a7381) — Block
-- 📍 **Location:** San Francisco, CA, US
-- 💰 **Salary:** $139k–$225k/yr
+### [Data Scientist III, Behavioral Marketing Analytics & Customer Insights](https://www.indeed.com/viewjob?jk=a3dbada6b8768df9) — Thermo Fisher Scientific
+- 📍 **Location:** Pleasanton, CA, US
+- 💰 **Salary:** $96k–$128k/yr
 - 🕒 **Posted:** 2026-07-16
 
-### [Data Scientist - Agentic AI Systems - IFS Loops](https://www.indeed.com/viewjob?jk=c95f610bdac984c2) — IFS
+### [Data Science Manager, Tapestry](https://www.indeed.com/viewjob?jk=79056bfe3149ab88) — X Development
+- 📍 **Location:** Mountain View, CA, US
+- 💰 **Salary:** $207k–$304k/yr
+- 🕒 **Posted:** 2026-07-16
+
+### [Senior ML Engineer, Perception](https://www.indeed.com/viewjob?jk=5008bbd5864d4879) — Rivian
 - 📍 **Location:** Palo Alto, CA, US
-- 💰 **Salary:** $140k–$150k/yr
-- 🕒 **Posted:** 2026-07-16
+- 🕒 **Posted:** 2026-07-08
 
-### [Data Engineer (Java) - IFS Loops](https://www.indeed.com/viewjob?jk=7a7a7ec62408d3ac) — IFS
-- 📍 **Location:** Palo Alto, CA, US
-- 💰 **Salary:** $115k–$125k/yr
-- 🕒 **Posted:** 2026-07-16
-
-### [Senior Machine Learning Engineer](https://www.indeed.com/viewjob?jk=a842e9c79bfff663) — Freenome
-- 📍 **Location:** Brisbane, CA, US
-- 💰 **Salary:** $162k–$227k/yr
-- 🕒 **Posted:** 2026-07-16
-
-### [Senior Frontend Engineer - Editing Accessibility (RELOCATE to Sydney)](https://www.indeed.com/viewjob?jk=2b6e04cb497043fc) — Canva
-- 📍 **Location:** San Francisco, CA, US
-- 🕒 **Posted:** 2026-07-16
-
-### [Backend Senior Software Engineer](https://www.indeed.com/viewjob?jk=549a2c305679fc27) — Visa
-- 📍 **Location:** Foster City, CA, US
-- 🕒 **Posted:** 2026-07-16
-
-### [Software Engineer, Ads Platform](https://www.indeed.com/viewjob?jk=089e04a95a5c7f3f) — Roblox
-- 📍 **Location:** San Mateo, CA, US
-- 💰 **Salary:** $153k–$197k/yr
-- 🕒 **Posted:** 2026-07-16
-
-### [Java Backend Engineer](https://www.indeed.com/viewjob?jk=45d2495c80c39b2b) — UST
+### [Sr. Software Engineer, Sensor - Anti-Tampering/SSP (Hybrid)](https://www.indeed.com/viewjob?jk=48fe9901b68392f9) — CrowdStrike
 - 📍 **Location:** Sunnyvale, CA, US
-- 💰 **Salary:** $94k–$141k/yr
+- 💰 **Salary:** $140k–$215k/yr
 - 🕒 **Posted:** 2026-07-16
 
-### [Java Backend Engineer](https://www.indeed.com/viewjob?jk=34c4b60bf0d8e2fb) — UST
-- 📍 **Location:** Sunnyvale, CA, US
-- 💰 **Salary:** $94k–$141k/yr
+### [Robotics Software Engineer – Autonomy/AI (X-Caddie)](https://www.indeed.com/viewjob?jk=c27c3c4a7d8f4519) — Windquiet Technologies Inc
+- 📍 **Location:** Saratoga, CA, US
+- 💰 **Salary:** $110k–$180k/yr
 - 🕒 **Posted:** 2026-07-16
 
-### [Data Engineer, Energy Software](https://www.indeed.com/viewjob?jk=ba50f55dfefc3717) — Tesla
+### [Senior Backend Software Engineer, Developer Productivity Engineering](https://www.indeed.com/viewjob?jk=cc5a102e9acb4f5c) — X Development
+- 📍 **Location:** Mountain View, CA, US
+- 💰 **Salary:** $161k–$194k/yr
+- 🕒 **Posted:** 2026-07-16
+
+### [Sr. Software Engineer, Pose, Localization & Calibration, Autonomy](https://www.indeed.com/viewjob?jk=cb4d5c929265a4d2) — Rivian
 - 📍 **Location:** Palo Alto, CA, US
-- 💰 **Salary:** $120k–$252k/yr
+- 🕒 **Posted:** 2026-05-27
+
+### [Kubernetes Platform Engineer](https://www.indeed.com/viewjob?jk=ecf3a1354b96a8aa) — Bay Systems Consulting, Inc.
+- 📍 **Location:** Berkeley, CA, US
 - 🕒 **Posted:** 2026-07-16
 
-### [Software Engineer, Firmware Platforms, Vehicle Software](https://www.indeed.com/viewjob?jk=87aad52fdea7e4ba) — Tesla
-- 📍 **Location:** Palo Alto, CA, US
-- 💰 **Salary:** $140k–$300k/yr
-- 🕒 **Posted:** 2026-07-16
-
-### [Senior Site Reliability Engineer](https://www.indeed.com/viewjob?jk=91144e00c41e59f6) — EPIC Kids
-- 📍 **Location:** San Jose, CA, US
-- 💰 **Salary:** $160k–$200k/yr
+### [Bioinformatics Scientist](https://www.indeed.com/viewjob?jk=70535d5bfb47541f) — Thermo Fisher Scientific
+- 📍 **Location:** Pleasanton, CA, US
+- 💰 **Salary:** $83k–$95k/yr
 - 🕒 **Posted:** 2026-07-16
