@@ -1,24 +1,42 @@
 # 🟦 Indeed — Engineering / ML / DS Roles (SF Bay Area)
-*Last updated: 2026-07-17 22:27 UTC*
+*Last updated: 2026-07-17 23:30 UTC*
 
-**4 new role(s)** since last run · 95 total in last 24h
+**8 new role(s)** since last run · 93 total in last 24h
 
-### [Software Engineer, Biller Workflows](https://www.indeed.com/viewjob?jk=912d44a2a12a637e) — Commure
-- 📍 **Location:** Mountain View, CA, US
-- 💰 **Salary:** $130k–$190k/yr
+### [Machine Learning Scientist Intern (TikTok-Recommendation) - 2027 Start (PhD)](https://www.indeed.com/viewjob?jk=7a7bfdaf291bc0a8) — TikTok
+- 📍 **Location:** San Jose, CA, US
 - 🕒 **Posted:** 2026-07-17
 
-### [Software Engineer, RCM Core](https://www.indeed.com/viewjob?jk=c9fdbc3a57620205) — Commure
-- 📍 **Location:** Mountain View, CA, US
-- 💰 **Salary:** $170k–$190k/yr
-- 🕒 **Posted:** 2026-07-17
-
-### [Software Engineer, Controls (C++)](https://www.indeed.com/viewjob?jk=4677c1a333332b5d) — Kodiak
-- 📍 **Location:** Mountain View, CA, US
-- 💰 **Salary:** $145k–$190k/yr
-- 🕒 **Posted:** 2026-07-17
-
-### [Software Engineer II, Backend - Data Cloud](https://www.indeed.com/viewjob?jk=5a9bc9b1d8223da0) — Rippling
+### [Software Dev Engineer II, Sales Insights and Data Science](https://www.indeed.com/viewjob?jk=582a711ab8c5f3ab) — Amazon.com
 - 📍 **Location:** San Francisco, CA, US
-- 💰 **Salary:** $135k–$225k/yr
+- 💰 **Salary:** $144k–$194k/yr
+- 🕒 **Posted:** 2026-06-09
+
+### [Sr. Applied Scientist – AI Velocity Team, Applied AI Acceleration Solutions Architecture](https://www.indeed.com/viewjob?jk=000a835042dc70bb) — Amazon Web Services
+- 📍 **Location:** San Francisco, CA, US
+- 💰 **Salary:** $167k–$226k/yr
+- 🕒 **Posted:** 2026-04-13
+
+### [Sr Android Automotive Software Engineer with AOSP](https://www.indeed.com/viewjob?jk=a95a07cc3d705540) — Volkswagen
+- 📍 **Location:** Belmont, CA, US
+- 🕒 **Posted:** 2026-07-17
+
+### [BIM Software Engineer](https://www.indeed.com/viewjob?jk=53a310e1bbf57a43) — Tesla
+- 📍 **Location:** Fremont, CA, US
+- 💰 **Salary:** $108k–$180k/yr
+- 🕒 **Posted:** 2026-07-17
+
+### [Systems Development Engineer, Edge AI Platform Infrastructure, Hardware Compute Group](https://www.indeed.com/viewjob?jk=28703fa3240d21e0) — Amazon.com
+- 📍 **Location:** Sunnyvale, CA, US
+- 💰 **Salary:** $149k–$201k/yr
+- 🕒 **Posted:** 2026-07-17
+
+### [Senior Software Engineer, Compute Cell Platform](https://www.indeed.com/viewjob?jk=3b1ae7c2de891a91) — Roblox
+- 📍 **Location:** San Mateo, CA, US
+- 💰 **Salary:** $197k–$243k/yr
+- 🕒 **Posted:** 2026-07-17
+
+### [Sr. DevOps Engineer - Digital Assets](https://www.indeed.com/viewjob?jk=7f0528faeb6919f2) — Early Warning Services
+- 📍 **Location:** San Francisco, CA, US
+- 💰 **Salary:** $128k–$156k/yr
 - 🕒 **Posted:** 2026-07-17
