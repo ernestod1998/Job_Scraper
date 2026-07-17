@@ -1,49 +1,53 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area)
-*Last updated: 2026-07-17 00:17 UTC*
+*Last updated: 2026-07-17 01:06 UTC*
 
-**11 new role(s)** since last run · 27 total in last 1h
+**12 new role(s)** since last run · 16 total in last 1h
 
-### [Senior Software Engineer - AI Inference](https://www.linkedin.com/jobs/view/4441121730/) — NVIDIA
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-07-17
-
-### [Senior Software Engineer - Backend](https://www.linkedin.com/jobs/view/4441903090/) — ARIVE
-- 📍 **Location:** San Ramon, CA
-- 🕒 **Posted:** 2026-07-17
-
-### [Senior, Backend Software Engineering - Tax Transformation](https://www.linkedin.com/jobs/view/4441904082/) — Deloitte
+### [Software Engineer, Platform](https://www.linkedin.com/jobs/view/4441129433/) — Voice AI Space
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-07-17
 
-### [Senior Software Developer, AI Networking](https://www.linkedin.com/jobs/view/4441124554/) — NVIDIA
+### [Software Engineer, Voice Agents / AI - Deepgram for Restaurants](https://www.linkedin.com/jobs/view/4441139167/) — Voice AI Space
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-07-17
+
+### [Senior Applied Research Engineer](https://www.linkedin.com/jobs/view/4438759736/) — CoreWeave
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-07-17
+
+### [Senior Software Engineer, Spatial Intelligence and Foundation Models](https://www.linkedin.com/jobs/view/4441128307/) — NVIDIA
 - 📍 **Location:** Santa Clara, CA
 - 🕒 **Posted:** 2026-07-17
 
-### [Senior Platform Engineer, Network Infrastructure - DGX Cloud](https://www.linkedin.com/jobs/view/4441120694/) — NVIDIA
+### [Software Developer - Cloud (Devops)](https://www.linkedin.com/jobs/view/4441904309/) — Diligente Technologies
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-07-17
+
+### [Software Engineer, Compute (8+ YOE)](https://www.linkedin.com/jobs/view/4441138007/) — Airtable
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-07-17
+
+### [Senior Backend Engineer](https://www.linkedin.com/jobs/view/4441692826/) — Qualified Health
+- 📍 **Location:** Palo Alto, CA
+- 💰 **Salary:** $160,000.00/yr - $240,000.00/yr
+- 🕒 **Posted:** 2026-07-17
+
+### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4438763270/) — CoreWeave
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-07-17
+
+### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4438750961/) — CoreWeave
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-07-17
+
+### [Senior Deep Learning Systems Architect](https://www.linkedin.com/jobs/view/4441121732/) — NVIDIA
 - 📍 **Location:** Santa Clara, CA
 - 🕒 **Posted:** 2026-07-17
 
-### [AI Engineer](https://www.linkedin.com/jobs/view/4438758614/) — Oscar
-- 📍 **Location:** San Jose, CA
-- 💰 **Salary:** $230,000.00/yr - $280,000.00/yr
-- 🕒 **Posted:** 2026-07-16
+### [Software Engineering SMTS](https://www.linkedin.com/jobs/view/4441909210/) — Salesforce
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-07-17
 
-### [Data Science Manager, Tapestry](https://www.linkedin.com/jobs/view/4441131185/) — X, The Moonshot Factory
-- 📍 **Location:** Mountain View, CA
-- 🕒 **Posted:** 2026-07-16
-
-### [Senior Backend Software Engineer, Developer Productivity Engineering](https://www.linkedin.com/jobs/view/4441132040/) — X, The Moonshot Factory
-- 📍 **Location:** Mountain View, CA
-- 🕒 **Posted:** 2026-07-16
-
-### [Full Stack Engineer](https://www.linkedin.com/jobs/view/4441693391/) — GDH
-- 📍 **Location:** Oakland, CA
-- 🕒 **Posted:** 2026-07-16
-
-### [Tech Lead Manager Data Platform – USDS](https://www.linkedin.com/jobs/view/4417407564/) — TikTok USDS Joint Venture
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-07-16
-
-### [Engineering Manager, Agentic Data Platform](https://www.linkedin.com/jobs/view/4441118746/) — X, The Moonshot Factory
-- 📍 **Location:** Mountain View, CA
-- 🕒 **Posted:** 2026-07-16
+### [Software Engineering SMTS](https://www.linkedin.com/jobs/view/4441688998/) — Salesforce
+- 📍 **Location:** Palo Alto, CA
+- 🕒 **Posted:** 2026-07-17
