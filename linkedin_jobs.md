@@ -1,105 +1,141 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area)
-*Last updated: 2026-07-18 00:17 UTC*
+*Last updated: 2026-07-18 01:18 UTC*
 
-**25 new role(s)** since last run · 33 total in last 1h
+**30 new role(s)** since last run · 45 total in last 1h
 
-### [Remote Performance Software Engineer](https://www.linkedin.com/jobs/view/4442196514/) — val's services
+### [Machine Learning Engineer](https://www.linkedin.com/jobs/view/4441378507/) — Fluidstack
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $269,000.00/yr - $317,000.00/yr
+- 🕒 **Posted:** 2026-07-18
+
+### [Software Engineer, AI Product Insights](https://www.linkedin.com/jobs/view/4442192761/) — Mixpanel
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-07-18
 
-### [Remote Fullstack Software Engineer (Short Term)](https://www.linkedin.com/jobs/view/4442193542/) — val's services
-- 📍 **Location:** Stockton, CA
-- 🕒 **Posted:** 2026-07-18
-
-### [Senior Applied AI Engineer](https://www.linkedin.com/jobs/view/4441371538/) — NVIDIA
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-07-18
-
-### [Software Dev Engineer II, Sales Insights and Data Science](https://www.linkedin.com/jobs/view/4442199376/) — Amazon Web Services (AWS)
+### [Data Engineer](https://www.linkedin.com/jobs/view/4441385267/) — Fluidstack
 - 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $269,000.00/yr - $317,000.00/yr
 - 🕒 **Posted:** 2026-07-18
 
-### [Systems Software Engineer, Accelerated Kubernetes Performance and Scale - New College Grad 2026](https://www.linkedin.com/jobs/view/4441374492/) — NVIDIA
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-07-18
-
-### [Systems Development Engineer, Edge AI Platform Infrastructure, Hardware Compute Group](https://www.linkedin.com/jobs/view/4442196405/) — Amazon
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-07-18
-
-### [Backend Engineer](https://www.linkedin.com/jobs/view/4439265875/) — Air Apps
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-07-18
-
-### [Sr. Applied Scientist – AI Velocity Team, Applied AI Acceleration Solutions Architecture](https://www.linkedin.com/jobs/view/4442407018/) — Amazon Web Services (AWS)
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-07-18
-
-### [Senior DevOps Engineer, Cloud Simulation Infrastructure](https://www.linkedin.com/jobs/view/4441364759/) — NVIDIA
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-07-18
-
-### [Senior Backend Platform Engineer](https://www.linkedin.com/jobs/view/4441374491/) — NVIDIA
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-07-18
-
-### [Remote Senior Backend Engineer, Real-Time Bidding](https://www.linkedin.com/jobs/view/4442194534/) — val's services
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-07-18
-
-### [Senior System Software Engineer - AV Platform](https://www.linkedin.com/jobs/view/4441362837/) — NVIDIA
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-07-18
-
-### [Senior System Software Engineer - AV Platform](https://www.linkedin.com/jobs/view/4441381072/) — NVIDIA
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-07-18
-
-### [Senior System Software Engineer - AV Platform](https://www.linkedin.com/jobs/view/4441381073/) — NVIDIA
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-07-18
-
-### [Senior Security Software Engineer - AV Platform](https://www.linkedin.com/jobs/view/4441360876/) — NVIDIA
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-07-18
-
-### [Senior Network Security Engineer - DGX Cloud](https://www.linkedin.com/jobs/view/4441380089/) — NVIDIA
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-07-18
-
-### [Senior Communications System Engineer - Kiewit Infrastructure Engineers](https://www.linkedin.com/jobs/view/4441388144/) — Kiewit
-- 📍 **Location:** Concord, CA
-- 🕒 **Posted:** 2026-07-18
-
-### [Martech Data Engineer](https://www.linkedin.com/jobs/view/4441361742/) — BayOne Solutions
+### [Software Engineer, Full Stack + AI](https://www.linkedin.com/jobs/view/4442192593/) — Calvis
 - 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-07-17
+- 🕒 **Posted:** 2026-07-18
 
-### [Senior Software Engineer - Data Engineering Experience](https://www.linkedin.com/jobs/view/4442401144/) — Snowflake
-- 📍 **Location:** Menlo Park, CA
-- 🕒 **Posted:** 2026-07-17
-
-### [Remote Senior Data Scientist](https://www.linkedin.com/jobs/view/4441361820/) — RG&T Solutions
-- 📍 **Location:** Stockton, CA
-- 🕒 **Posted:** 2026-07-17
-
-### [Senior Software Engineer, Compute Cell Platform](https://www.linkedin.com/jobs/view/4441359765/) — Roblox
-- 📍 **Location:** San Mateo, CA
-- 🕒 **Posted:** 2026-07-17
-
-### [Systems Engineer - Software Systems](https://www.linkedin.com/jobs/view/4439265836/) — Atomic Machines
-- 📍 **Location:** Emeryville, CA
-- 💰 **Salary:** $170,000.00/yr - $215,000.00/yr
-- 🕒 **Posted:** 2026-07-17
-
-### [Remote Senior Software Engineer](https://www.linkedin.com/jobs/view/4441366613/) — RG&T Solutions
+### [Software Engineer, Robotics](https://www.linkedin.com/jobs/view/4441387202/) — Fluidstack
 - 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-07-17
+- 💰 **Salary:** $269,000.00/yr - $317,000.00/yr
+- 🕒 **Posted:** 2026-07-18
 
-### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4442193300/) — Microsoft AI
+### [Software Engineer, NPI](https://www.linkedin.com/jobs/view/4441389110/) — Fluidstack
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $269,000.00/yr - $317,000.00/yr
+- 🕒 **Posted:** 2026-07-18
+
+### [Senior Backend Software Engineer](https://www.linkedin.com/jobs/view/4441383389/) — CHAOS Industries
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-07-18
+
+### [Databricks Data Engineer II](https://www.linkedin.com/jobs/view/4442198426/) — Deloitte
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-07-18
+
+### [Databricks Data Engineer II](https://www.linkedin.com/jobs/view/4442190753/) — Deloitte
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-07-18
+
+### [Software Engineer Team Lead](https://www.linkedin.com/jobs/view/4441387198/) — Fluidstack
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $269,000.00/yr - $335,000.00/yr
+- 🕒 **Posted:** 2026-07-18
+
+### [Software Engineer, Security](https://www.linkedin.com/jobs/view/4441380610/) — Persona
+- 📍 **Location:** San Francisco Bay Area
+- 💰 **Salary:** $130,000.00/yr - $220,000.00/yr
+- 🕒 **Posted:** 2026-07-18
+
+### [Associate, AI & Data Infrastructure](https://www.linkedin.com/jobs/view/4441379470/) — Venture Capital Careers
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-07-18
+
+### [Sr Backend Engineer](https://www.linkedin.com/jobs/view/4442400541/) — Quizlet
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $167,000.00/yr - $219,000.00/yr
+- 🕒 **Posted:** 2026-07-18
+
+### [Software Engineer, Facilities Pipeline](https://www.linkedin.com/jobs/view/4441384264/) — Fluidstack
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $269,000.00/yr - $317,000.00/yr
+- 🕒 **Posted:** 2026-07-18
+
+### [Software Engineering SMTS - Agentforce Reasoning Engine](https://www.linkedin.com/jobs/view/4442406497/) — Salesforce
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-07-18
+
+### [Backend Software Engineer](https://www.linkedin.com/jobs/view/4441373995/) — CHAOS Industries
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-07-18
+
+### [Software Engineer (Early Career)](https://www.linkedin.com/jobs/view/4441383529/) — Pax
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $130,000.00/yr - $170,000.00/yr
+- 🕒 **Posted:** 2026-07-18
+
+### [Senior DevOps Engineer](https://www.linkedin.com/jobs/view/4441386518/) — CHAOS Industries
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-07-18
+
+### [Senior Software Engineer, Ride-Hailing Product](https://www.linkedin.com/jobs/view/4441390113/) — Nuro
 - 📍 **Location:** Mountain View, CA
-- 🕒 **Posted:** 2026-07-17
+- 🕒 **Posted:** 2026-07-18
 
-### [Sr Android Automotive Software Engineer with AOSP](https://www.linkedin.com/jobs/view/4441360798/) — Volkswagen Group
-- 📍 **Location:** Belmont, CA
-- 🕒 **Posted:** 2026-07-17
+### [Software Engineer III](https://www.linkedin.com/jobs/view/4442402536/) — Cohesity
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-07-18
+
+### [Software Engineer, SCADA](https://www.linkedin.com/jobs/view/4441365999/) — Fluidstack
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $269,000.00/yr - $317,000.00/yr
+- 🕒 **Posted:** 2026-07-18
+
+### [Software Engineer Tech Lead](https://www.linkedin.com/jobs/view/4441386265/) — Fluidstack
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $269,000.00/yr - $335,000.00/yr
+- 🕒 **Posted:** 2026-07-18
+
+### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4441397037/) — CHAOS Industries
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-07-18
+
+### [Software Engineer, Infrastructure Modelling](https://www.linkedin.com/jobs/view/4441365995/) — Fluidstack
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $269,000.00/yr - $317,000.00/yr
+- 🕒 **Posted:** 2026-07-18
+
+### [Security Engineer, Cloud](https://www.linkedin.com/jobs/view/4441386254/) — Fluidstack
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $218,000.00/yr - $252,000.00/yr
+- 🕒 **Posted:** 2026-07-18
+
+### [Software Engineering, Commissioning Automation](https://www.linkedin.com/jobs/view/4441380468/) — Fluidstack
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $269,000.00/yr - $317,000.00/yr
+- 🕒 **Posted:** 2026-07-18
+
+### [Physical Security Engineer, R&D](https://www.linkedin.com/jobs/view/4441379456/) — Fluidstack
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $229,000.00/yr - $271,000.00/yr
+- 🕒 **Posted:** 2026-07-18
+
+### [Security Engineer, Network](https://www.linkedin.com/jobs/view/4441373801/) — Fluidstack
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $218,000.00/yr - $252,000.00/yr
+- 🕒 **Posted:** 2026-07-18
+
+### [Security Engineer, Corp IT](https://www.linkedin.com/jobs/view/4441368908/) — Fluidstack
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $218,000.00/yr - $252,000.00/yr
+- 🕒 **Posted:** 2026-07-18
+
+### [Network Security Engineer](https://www.linkedin.com/jobs/view/4441380474/) — Fluidstack
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-07-18
