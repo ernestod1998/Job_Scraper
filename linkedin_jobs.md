@@ -1,6 +1,12 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area)
-*Last updated: 2026-07-19 01:17 UTC*
+*Last updated: 2026-07-19 02:17 UTC*
 
-**0 new role(s)** since last run · 3 total in last 1h
+**2 new role(s)** since last run · 2 total in last 1h
 
-No new roles since the last run.
+### [Research Scientist / Research Engineer](https://www.linkedin.com/jobs/view/4442498545/) — Clera
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-07-19
+
+### [Senior Applied AI Engineer (Agentic Systems)](https://www.linkedin.com/jobs/view/4442508006/) — Clera
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-07-19
