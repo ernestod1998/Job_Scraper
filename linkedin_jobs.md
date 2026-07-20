@@ -1,86 +1,135 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area)
-*Last updated: 2026-07-20 21:17 UTC*
+*Last updated: 2026-07-20 22:18 UTC*
 
-**20 new role(s)** since last run · 26 total in last 1h
+**30 new role(s)** since last run · 39 total in last 1h
 
-### [Infrastructure Engineer, LLM Inference Optimization](https://www.linkedin.com/jobs/view/4442799506/) — GMI Cloud
+### [Machine Learning Engineer](https://www.linkedin.com/jobs/view/4440183762/) — TechDoQuest
+- 📍 **Location:** Cupertino, CA
+- 🕒 **Posted:** 2026-07-20
+
+### [Software Engineer, Data Platform (Autonomous Vehicles)](https://www.linkedin.com/jobs/view/4443019066/) — General Motors
 - 📍 **Location:** Mountain View, CA
 - 🕒 **Posted:** 2026-07-20
 
-### [Senior ML Engineer](https://www.linkedin.com/jobs/view/4442221952/) — Jobright.ai
+### [Software Engineer, Real Time Analytics - San Francisco HQ](https://www.linkedin.com/jobs/view/4440183812/) — Orb
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-07-20
 
-### [AI Engineer](https://www.linkedin.com/jobs/view/4442236117/) — Jobright.ai
-- 📍 **Location:** Santa Clara County, CA
+### [Research Engineer, Foundation Models](https://www.linkedin.com/jobs/view/4441271677/) — Brahma Consulting Group
+- 📍 **Location:** San Francisco Bay Area
+- 💰 **Salary:** $250,000.00/yr - $400,000.00/yr
 - 🕒 **Posted:** 2026-07-20
 
-### [Data Scientist, Underwriting](https://www.linkedin.com/jobs/view/4411231710/) — Parafin
+### [(USA) Senior, Data Scientist](https://www.linkedin.com/jobs/view/4440402107/) — Walmart
+- 📍 **Location:** Sunnyvale, CA
+- 💰 **Salary:** $117,000.00/yr - $234,000.00/yr
+- 🕒 **Posted:** 2026-07-20
+
+### [Senior MLOps Engineer I](https://www.linkedin.com/jobs/view/4442243142/) — Zeitview
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-07-20
 
-### [Data Science Analyst](https://www.linkedin.com/jobs/view/4440194421/) — eBay
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-07-20
-
-### [Data Science Analyst](https://www.linkedin.com/jobs/view/4440197228/) — eBay
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-07-20
-
-### [Data Engineer](https://www.linkedin.com/jobs/view/4440189666/) — Tech Consulting
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-07-20
-
-### [Senior Machine Learning Scientist, Drug Discovery Analytics](https://www.linkedin.com/jobs/view/4442221940/) — Revolution Medicines
+### [Software Engineer](https://www.linkedin.com/jobs/view/4442082991/) — Hire Hangar
 - 📍 **Location:** San Francisco Bay Area
 - 🕒 **Posted:** 2026-07-20
 
-### [Technical Lead Platform Engineer](https://www.linkedin.com/jobs/view/4442218807/) — Jobright.ai
+### [Biostatistician](https://www.linkedin.com/jobs/view/4443015430/) — Stanford University
+- 📍 **Location:** Stanford, CA
+- 🕒 **Posted:** 2026-07-20
+
+### [Software Engineer - AI Agent](https://www.linkedin.com/jobs/view/4442229719/) — Jobright.ai
+- 📍 **Location:** San Mateo County, CA
+- 🕒 **Posted:** 2026-07-20
+
+### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4442241226/) — FutureTech Recruitment
 - 📍 **Location:** Palo Alto, CA
+- 💰 **Salary:** $350,000.00/yr - $650,000.00/yr
 - 🕒 **Posted:** 2026-07-20
 
-### [Research Infrastructure Engineer](https://www.linkedin.com/jobs/view/4442232446/) — Techgene Solutions
-- 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-07-20
-
-### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4281075323/) — Clockwork Systems, Inc.
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-07-20
-
-### [Software Engineer, Product](https://www.linkedin.com/jobs/view/4442224801/) — Aeqium
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-07-20
-
-### [Software Engineer](https://www.linkedin.com/jobs/view/4442218983/) — Jobright.ai
-- 📍 **Location:** Los Altos, CA
-- 🕒 **Posted:** 2026-07-20
-
-### [Mobile Platform Engineer](https://www.linkedin.com/jobs/view/4442225616/) — Pop-Up Talent
-- 📍 **Location:** Santa Clara, CA
-- 💰 **Salary:** $130,000.00/yr - $160,000.00/yr
-- 🕒 **Posted:** 2026-07-20
-
-### [Software Engineer](https://www.linkedin.com/jobs/view/4440180894/) — KLA
-- 📍 **Location:** Milpitas, CA
-- 🕒 **Posted:** 2026-07-20
-
-### [Senior Frontend Engineer](https://www.linkedin.com/jobs/view/4429584141/) — Clockwork Systems, Inc.
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-07-20
-
-### [Software Engineer](https://www.linkedin.com/jobs/view/4442226779/) — Amazon
-- 📍 **Location:** Santa Clara, CA
-- 💰 **Salary:** $63.00/hr - $68.00/hr
-- 🕒 **Posted:** 2026-07-20
-
-### [Software Engineer in Test](https://www.linkedin.com/jobs/view/4442226606/) — eNcloud Services LLC
+### [Software Engineer Sys 2](https://www.linkedin.com/jobs/view/4442223945/) — Lam Research
 - 📍 **Location:** Fremont, CA
 - 🕒 **Posted:** 2026-07-20
 
-### [Senior Systems Engineer - AI Infrastructure](https://www.linkedin.com/jobs/view/4413200393/) — Clockwork Systems, Inc.
-- 📍 **Location:** Palo Alto, CA
+### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4443006538/) — Atlassian
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-07-20
 
-### [Senior Machine Learning Scientist II, Drug Discovery Analytics](https://www.linkedin.com/jobs/view/4442229573/) — Revolution Medicines
+### [Software Engineer III](https://www.linkedin.com/jobs/view/4440184906/) — Walmart
+- 📍 **Location:** Sunnyvale, CA
+- 💰 **Salary:** $117,000.00/yr - $234,000.00/yr
+- 🕒 **Posted:** 2026-07-20
+
+### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4414041956/) — Artie
 - 📍 **Location:** San Francisco Bay Area
+- 💰 **Salary:** $150,000.00/yr - $250,000.00/yr
+- 🕒 **Posted:** 2026-07-20
+
+### [Senior, Software Engineer](https://www.linkedin.com/jobs/view/4440199342/) — Walmart Connect
+- 📍 **Location:** Sunnyvale, CA
+- 💰 **Salary:** $117,000.00/yr - $234,000.00/yr
+- 🕒 **Posted:** 2026-07-20
+
+### [Software Engineer - Switch Design](https://www.linkedin.com/jobs/view/4443004687/) — Supermicro
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-07-20
+
+### [Full Stack Engineer](https://www.linkedin.com/jobs/view/4442236438/) — Integral Privacy Technologies
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-07-20
+
+### [Senior Software Engineer, Real Time Analytics - San Francisco HQ](https://www.linkedin.com/jobs/view/4440183815/) — Orb
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-07-20
+
+### [Frontend Engineer](https://www.linkedin.com/jobs/view/4442234355/) — Navii
+- 📍 **Location:** Sunnyvale, CA
+- 💰 **Salary:** $130,000.00/yr - $200,000.00/yr
+- 🕒 **Posted:** 2026-07-20
+
+### [Software Engineer](https://www.linkedin.com/jobs/view/4442229733/) — Hire Hangar
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-07-20
+
+### [Full Stack Engineer](https://www.linkedin.com/jobs/view/4443002710/) — Huntress Talent
+- 📍 **Location:** San Francisco Bay Area
+- 💰 **Salary:** $70.00/hr - $100.00/hr
+- 🕒 **Posted:** 2026-07-20
+
+### [Senior Android Engineer, Design System](https://www.linkedin.com/jobs/view/4443021001/) — Reddit, Inc.
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-07-20
+
+### [Senior AWS DevOps Engineer](https://www.linkedin.com/jobs/view/4430212258/) — Jobot
+- 📍 **Location:** Milpitas, CA
+- 💰 **Salary:** $155,000.00/yr - $165,000.00/yr
+- 🕒 **Posted:** 2026-07-20
+
+### [Information Technology Infrastructure Engineer](https://www.linkedin.com/jobs/view/4442232618/) — Compass Consulting
+- 📍 **Location:** San Francisco Bay Area
+- 💰 **Salary:** $70.00/hr - $90.00/hr
+- 🕒 **Posted:** 2026-07-20
+
+### [Systems Engineer 5](https://www.linkedin.com/jobs/view/4442230504/) — Lam Research
+- 📍 **Location:** Fremont, CA
+- 🕒 **Posted:** 2026-07-20
+
+### [EE Component Systems Engineer](https://www.linkedin.com/jobs/view/4440181026/) — Q1 Technologies, Inc.
+- 📍 **Location:** Mountain View, CA
+- 🕒 **Posted:** 2026-07-20
+
+### [Network Security Engineer](https://www.linkedin.com/jobs/view/4442243012/) — Tiltedge Solutions
+- 📍 **Location:** Foster City, CA
+- 🕒 **Posted:** 2026-07-20
+
+### [Systems Engineer II](https://www.linkedin.com/jobs/view/4443017194/) — AV
+- 📍 **Location:** Petaluma, CA
+- 🕒 **Posted:** 2026-07-20
+
+### [Sr. Software Engineer - Switch Design](https://www.linkedin.com/jobs/view/4443017249/) — Supermicro
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-07-20
+
+### [Systems Engineer II - NGS & Molecular Diagnostics](https://www.linkedin.com/jobs/view/4440402035/) — Pharmaceutical Company
+- 📍 **Location:** Santa Clara, CA
+- 💰 **Salary:** $30.00/hr - $55.00/hr
 - 🕒 **Posted:** 2026-07-20
