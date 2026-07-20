@@ -1,135 +1,203 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area)
-*Last updated: 2026-07-20 22:18 UTC*
+*Last updated: 2026-07-20 23:18 UTC*
 
-**30 new role(s)** since last run · 39 total in last 1h
+**49 new role(s)** since last run · 59 total in last 1h
 
-### [Machine Learning Engineer](https://www.linkedin.com/jobs/view/4440183762/) — TechDoQuest
+### [Senior Machine Learning Engineer](https://www.linkedin.com/jobs/view/4443010619/) — Kikoff
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-07-20
+
+### [Software Engineer- AI/ML, AWS Neuron](https://www.linkedin.com/jobs/view/4443032050/) — Amazon Web Services (AWS)
 - 📍 **Location:** Cupertino, CA
 - 🕒 **Posted:** 2026-07-20
 
-### [Software Engineer, Data Platform (Autonomous Vehicles)](https://www.linkedin.com/jobs/view/4443019066/) — General Motors
-- 📍 **Location:** Mountain View, CA
-- 🕒 **Posted:** 2026-07-20
-
-### [Software Engineer, Real Time Analytics - San Francisco HQ](https://www.linkedin.com/jobs/view/4440183812/) — Orb
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-07-20
-
-### [Research Engineer, Foundation Models](https://www.linkedin.com/jobs/view/4441271677/) — Brahma Consulting Group
-- 📍 **Location:** San Francisco Bay Area
-- 💰 **Salary:** $250,000.00/yr - $400,000.00/yr
-- 🕒 **Posted:** 2026-07-20
-
-### [(USA) Senior, Data Scientist](https://www.linkedin.com/jobs/view/4440402107/) — Walmart
+### [Sr. Software Engineer, AI Infrastructure](https://www.linkedin.com/jobs/view/4443023131/) — LinkedIn
 - 📍 **Location:** Sunnyvale, CA
-- 💰 **Salary:** $117,000.00/yr - $234,000.00/yr
 - 🕒 **Posted:** 2026-07-20
 
-### [Senior MLOps Engineer I](https://www.linkedin.com/jobs/view/4442243142/) — Zeitview
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-07-20
-
-### [Software Engineer](https://www.linkedin.com/jobs/view/4442082991/) — Hire Hangar
-- 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-07-20
-
-### [Biostatistician](https://www.linkedin.com/jobs/view/4443015430/) — Stanford University
-- 📍 **Location:** Stanford, CA
-- 🕒 **Posted:** 2026-07-20
-
-### [Software Engineer - AI Agent](https://www.linkedin.com/jobs/view/4442229719/) — Jobright.ai
-- 📍 **Location:** San Mateo County, CA
-- 🕒 **Posted:** 2026-07-20
-
-### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4442241226/) — FutureTech Recruitment
-- 📍 **Location:** Palo Alto, CA
-- 💰 **Salary:** $350,000.00/yr - $650,000.00/yr
-- 🕒 **Posted:** 2026-07-20
-
-### [Software Engineer Sys 2](https://www.linkedin.com/jobs/view/4442223945/) — Lam Research
-- 📍 **Location:** Fremont, CA
-- 🕒 **Posted:** 2026-07-20
-
-### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4443006538/) — Atlassian
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-07-20
-
-### [Software Engineer III](https://www.linkedin.com/jobs/view/4440184906/) — Walmart
-- 📍 **Location:** Sunnyvale, CA
-- 💰 **Salary:** $117,000.00/yr - $234,000.00/yr
-- 🕒 **Posted:** 2026-07-20
-
-### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4414041956/) — Artie
-- 📍 **Location:** San Francisco Bay Area
-- 💰 **Salary:** $150,000.00/yr - $250,000.00/yr
-- 🕒 **Posted:** 2026-07-20
-
-### [Senior, Software Engineer](https://www.linkedin.com/jobs/view/4440199342/) — Walmart Connect
-- 📍 **Location:** Sunnyvale, CA
-- 💰 **Salary:** $117,000.00/yr - $234,000.00/yr
-- 🕒 **Posted:** 2026-07-20
-
-### [Software Engineer - Switch Design](https://www.linkedin.com/jobs/view/4443004687/) — Supermicro
+### [AI Engineer (Generalist)- Only USC OR GC](https://www.linkedin.com/jobs/view/4442187399/) — Elantis
 - 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-07-20
 
-### [Full Stack Engineer](https://www.linkedin.com/jobs/view/4442236438/) — Integral Privacy Technologies
-- 📍 **Location:** San Francisco, CA
+### [Software Engineer, Cloud Infrastructure (Multiple Seniority Levels)](https://www.linkedin.com/jobs/view/4443020340/) — Beacon AI
+- 📍 **Location:** San Carlos, CA
 - 🕒 **Posted:** 2026-07-20
 
-### [Senior Software Engineer, Real Time Analytics - San Francisco HQ](https://www.linkedin.com/jobs/view/4440183815/) — Orb
-- 📍 **Location:** San Francisco, CA
+### [Software Engineer- AI/ML, AWS Neuron Distributed Training - Performance Optimization](https://www.linkedin.com/jobs/view/4443036634/) — Amazon Web Services (AWS)
+- 📍 **Location:** Cupertino, CA
 - 🕒 **Posted:** 2026-07-20
 
-### [Frontend Engineer](https://www.linkedin.com/jobs/view/4442234355/) — Navii
-- 📍 **Location:** Sunnyvale, CA
-- 💰 **Salary:** $130,000.00/yr - $200,000.00/yr
-- 🕒 **Posted:** 2026-07-20
-
-### [Software Engineer](https://www.linkedin.com/jobs/view/4442229733/) — Hire Hangar
-- 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-07-20
-
-### [Full Stack Engineer](https://www.linkedin.com/jobs/view/4443002710/) — Huntress Talent
-- 📍 **Location:** San Francisco Bay Area
-- 💰 **Salary:** $70.00/hr - $100.00/hr
-- 🕒 **Posted:** 2026-07-20
-
-### [Senior Android Engineer, Design System](https://www.linkedin.com/jobs/view/4443021001/) — Reddit, Inc.
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-07-20
-
-### [Senior AWS DevOps Engineer](https://www.linkedin.com/jobs/view/4430212258/) — Jobot
-- 📍 **Location:** Milpitas, CA
-- 💰 **Salary:** $155,000.00/yr - $165,000.00/yr
-- 🕒 **Posted:** 2026-07-20
-
-### [Information Technology Infrastructure Engineer](https://www.linkedin.com/jobs/view/4442232618/) — Compass Consulting
-- 📍 **Location:** San Francisco Bay Area
-- 💰 **Salary:** $70.00/hr - $90.00/hr
-- 🕒 **Posted:** 2026-07-20
-
-### [Systems Engineer 5](https://www.linkedin.com/jobs/view/4442230504/) — Lam Research
-- 📍 **Location:** Fremont, CA
-- 🕒 **Posted:** 2026-07-20
-
-### [EE Component Systems Engineer](https://www.linkedin.com/jobs/view/4440181026/) — Q1 Technologies, Inc.
+### [Data Scientist II - AMZ26888.1](https://www.linkedin.com/jobs/view/4443039057/) — Amazon Web Services (AWS)
 - 📍 **Location:** Mountain View, CA
 - 🕒 **Posted:** 2026-07-20
 
-### [Network Security Engineer](https://www.linkedin.com/jobs/view/4442243012/) — Tiltedge Solutions
+### [Lead Software Engineer, Frontend/Web App](https://www.linkedin.com/jobs/view/4443023229/) — Beacon AI
+- 📍 **Location:** San Carlos, CA
+- 🕒 **Posted:** 2026-07-20
+
+### [Software Engineer, Applications (Scientific Development Solutions) (High Seniority)](https://www.linkedin.com/jobs/view/4443021255/) — Benchling
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $225,378.00/yr - $304,924.00/yr
+- 🕒 **Posted:** 2026-07-20
+
+### [Data Scientist II - AMZ27351.1](https://www.linkedin.com/jobs/view/4443022785/) — Amazon Web Services (AWS)
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-07-20
+
+### [Data Scientist](https://www.linkedin.com/jobs/view/4442249119/) — SecurITe Cybersecurity Startup
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-07-20
+
+### [Applied Scientist, Amazon Ads, Demand Forecasting & Guidance](https://www.linkedin.com/jobs/view/4443019587/) — Amazon
+- 📍 **Location:** Palo Alto, CA
+- 🕒 **Posted:** 2026-07-20
+
+### [Applied Scientist II, Search Ranking](https://www.linkedin.com/jobs/view/4443028292/) — Amazon
+- 📍 **Location:** Palo Alto, CA
+- 🕒 **Posted:** 2026-07-20
+
+### [Software Dev Engineer II, Sales Insights and Data Science](https://www.linkedin.com/jobs/view/4443011906/) — Amazon Web Services (AWS)
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-07-20
+
+### [Engineer I, Data Scientist - New Grad (Hybrid)](https://www.linkedin.com/jobs/view/4440194830/) — CrowdStrike
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-07-20
+
+### [Applied Scientist II, Amazon AWS Agentic AI, AWS AI Fundamental Research](https://www.linkedin.com/jobs/view/4443031188/) — Amazon Web Services (AWS)
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-07-20
+
+### [Senior Software Engineer - Custom Data](https://www.linkedin.com/jobs/view/4440191921/) — Bloomberg
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $160,000.00/yr - $240,000.00/yr
+- 🕒 **Posted:** 2026-07-20
+
+### [Applied Scientist, AWS Automated Reasoning](https://www.linkedin.com/jobs/view/4443017715/) — Amazon Web Services (AWS)
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-07-20
+
+### [Sr Data Scientist, WWSO Bedrock](https://www.linkedin.com/jobs/view/4443039316/) — Amazon Web Services (AWS)
+- 📍 **Location:** East Palo Alto, CA
+- 🕒 **Posted:** 2026-07-20
+
+### [Senior Applied Scientist, Applied AI Solutions GTM](https://www.linkedin.com/jobs/view/4443038181/) — Amazon Web Services (AWS)
+- 📍 **Location:** Mountain View, CA
+- 🕒 **Posted:** 2026-07-20
+
+### [Sr. Applied Scientist, Fauna](https://www.linkedin.com/jobs/view/4443018670/) — Amazon
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-07-20
+
+### [Applied Scientist, Neuron ARG, Annapurna ML](https://www.linkedin.com/jobs/view/4443024460/) — Amazon
+- 📍 **Location:** Cupertino, CA
+- 🕒 **Posted:** 2026-07-20
+
+### [Software Engineer, Frontend/Web App](https://www.linkedin.com/jobs/view/4443019446/) — Beacon AI
+- 📍 **Location:** San Carlos, CA
+- 🕒 **Posted:** 2026-07-20
+
+### [Software Engineer](https://www.linkedin.com/jobs/view/4440183875/) — BlackLine
+- 📍 **Location:** Pleasanton, CA
+- 🕒 **Posted:** 2026-07-20
+
+### [Software Engineer, iOS/Mobile](https://www.linkedin.com/jobs/view/4443019447/) — Beacon AI
+- 📍 **Location:** San Carlos, CA
+- 🕒 **Posted:** 2026-07-20
+
+### [Software Engineer, Conversion Measurement](https://www.linkedin.com/jobs/view/4442239492/) — OpenAI
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $293,000.00/yr - $385,000.00/yr
+- 🕒 **Posted:** 2026-07-20
+
+### [Software Development Engineer, Kuiper Manufacturing Systems Engineering](https://www.linkedin.com/jobs/view/4443037344/) — Amazon
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-07-20
+
+### [Embedded Software Engineer, Leo Payload Software Systems](https://www.linkedin.com/jobs/view/4443030650/) — Amazon
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-07-20
+
+### [Full Stack Engineer (Frontend & Android Focus)](https://www.linkedin.com/jobs/view/4442242708/) — Skild AI
+- 📍 **Location:** San Mateo, CA
+- 🕒 **Posted:** 2026-07-20
+
+### [Software Development Engineer, Kuiper Manufacturing Systems Engineering](https://www.linkedin.com/jobs/view/4443027416/) — Amazon
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-07-20
+
+### [Mobile Software Engineer (iOS), Vesper](https://www.linkedin.com/jobs/view/4443040364/) — Amazon
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-07-20
+
+### [Robotics - Applied Scientist II Intern / Co-op - 2026 (Robotics, Manipulation, Perception, Motion Planning, Autonomous Mobile Robots, Computer Vision, Machine Learning, Controls, and more)](https://www.linkedin.com/jobs/view/4443042327/) — Amazon
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-07-20
+
+### [HPC Platform Engineer, Software, Center for Quantum Computing](https://www.linkedin.com/jobs/view/4443029130/) — Amazon Web Services (AWS)
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-07-20
+
+### [Senior Virtual Platform Software Engineer, Annapurna Labs Machine Learning Accelerators, AWS](https://www.linkedin.com/jobs/view/4443035523/) — Amazon Web Services (AWS)
+- 📍 **Location:** Cupertino, CA
+- 🕒 **Posted:** 2026-07-20
+
+### [Systems Development Engineer, Edge AI Platform Infrastructure, Hardware Compute Group](https://www.linkedin.com/jobs/view/4443028177/) — Amazon
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-07-20
+
+### [Software Engineer Neuron Containers, Annapurna Labs, Neuron Containers, Annapurna Labs](https://www.linkedin.com/jobs/view/4443030147/) — Amazon Web Services (AWS)
+- 📍 **Location:** Cupertino, CA
+- 🕒 **Posted:** 2026-07-20
+
+### [Systems Development Eng (AWS Generative AI & ML Servers), AWS Hardware Engineering Accelerators](https://www.linkedin.com/jobs/view/4443033201/) — Amazon Web Services (AWS)
+- 📍 **Location:** Cupertino, CA
+- 🕒 **Posted:** 2026-07-20
+
+### [Cloud Hardware Dev Engineer (AWS Generative AI & ML Servers), Accelerator Servers](https://www.linkedin.com/jobs/view/4443025371/) — Amazon Web Services (AWS)
+- 📍 **Location:** Cupertino, CA
+- 🕒 **Posted:** 2026-07-20
+
+### [Data Engineer, PXT Central Science](https://www.linkedin.com/jobs/view/4443017768/) — Amazon
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-07-20
+
+### [Data Engineer II - AMZ24202.1](https://www.linkedin.com/jobs/view/4443018652/) — Amazon Web Services (AWS)
+- 📍 **Location:** Cupertino, CA
+- 🕒 **Posted:** 2026-07-20
+
+### [Sr. Software Engineer - ML and Distributed Systems, Amazon Personalize](https://www.linkedin.com/jobs/view/4443038188/) — Amazon Web Services (AWS)
+- 📍 **Location:** Mountain View, CA
+- 🕒 **Posted:** 2026-07-20
+
+### [Sr Scientist, Drug Metabolism](https://www.linkedin.com/jobs/view/4414701564/) — Gilead Sciences
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-07-20
+
+### [Applied Scientist, Fauna](https://www.linkedin.com/jobs/view/4443022342/) — Amazon
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-07-20
+
+### [Applied Scientist, AWS Automated Reasoning](https://www.linkedin.com/jobs/view/4443029128/) — Amazon Web Services (AWS)
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-07-20
+
+### [Applied Scientist, Stores Economics & Science (SEAS)](https://www.linkedin.com/jobs/view/4443008989/) — Amazon
+- 📍 **Location:** Palo Alto, CA
+- 🕒 **Posted:** 2026-07-20
+
+### [Applied Scientist II, Sponsored Products](https://www.linkedin.com/jobs/view/4443009977/) — Amazon
+- 📍 **Location:** Palo Alto, CA
+- 🕒 **Posted:** 2026-07-20
+
+### [Sr. Applied Scientist, Alexa AI](https://www.linkedin.com/jobs/view/4443031196/) — Amazon
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-07-20
+
+### [Sr ML Engineer](https://www.linkedin.com/jobs/view/4443019965/) — Visa
 - 📍 **Location:** Foster City, CA
 - 🕒 **Posted:** 2026-07-20
 
-### [Systems Engineer II](https://www.linkedin.com/jobs/view/4443017194/) — AV
-- 📍 **Location:** Petaluma, CA
-- 🕒 **Posted:** 2026-07-20
-
-### [Sr. Software Engineer - Switch Design](https://www.linkedin.com/jobs/view/4443017249/) — Supermicro
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-07-20
-
-### [Systems Engineer II - NGS & Molecular Diagnostics](https://www.linkedin.com/jobs/view/4440402035/) — Pharmaceutical Company
-- 📍 **Location:** Santa Clara, CA
-- 💰 **Salary:** $30.00/hr - $55.00/hr
+### [Research Software Engineer, Calibration, MQS Center for Quantum Computing](https://www.linkedin.com/jobs/view/4443016763/) — Amazon Web Services (AWS)
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-07-20
