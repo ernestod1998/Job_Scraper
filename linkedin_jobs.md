@@ -1,54 +1,56 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-07-22 02:18 UTC*
+*Last updated: 2026-07-22 03:18 UTC*
 
-**12 new role(s)** since last run · 64 total in last 1h
+**12 new role(s)** since last run · 17 total in last 1h
 
-### [Senior Lead AI Engineer, Gen AI Platform](https://www.linkedin.com/jobs/view/4442922797/) — Capital One
-- 📍 **Location:** San Jose, CA
+### [Software Engineer, Web](https://www.linkedin.com/jobs/view/4443734123/) — Science
+- 📍 **Location:** Alameda, CA
+- 💰 **Salary:** $113,000.00/yr - $210,000.00/yr
 - 🕒 **Posted:** 2026-07-22
 
-### [Sr. Embedded Software Engineer](https://www.linkedin.com/jobs/view/4442924732/) — Actalent
-- 📍 **Location:** Palo Alto, CA
+### [Software Engineer, Mechanical Modeling & Simu](https://www.linkedin.com/jobs/view/4443571864/) — Meyer Sound
+- 📍 **Location:** San Francisco Bay Area
 - 🕒 **Posted:** 2026-07-22
 
-### [Software Engineer Intern (Fall 2026)](https://www.linkedin.com/jobs/view/4441027306/) — Haakon Storm, Inc.
+### [Senior Data Engineer](https://www.linkedin.com/jobs/view/4443716797/) — Forge
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-07-22
 
-### [AI Scientist](https://www.linkedin.com/jobs/view/4442938133/) — Bright Vision Technologies
-- 📍 **Location:** Sunnyvale, CA
+### [AI Engineer](https://www.linkedin.com/jobs/view/4443726589/) — UST
+- 📍 **Location:** Santa Clara, CA
 - 🕒 **Posted:** 2026-07-22
 
-### [AI Cybersecurity Engineer](https://www.linkedin.com/jobs/view/4442931480/) — Bright Vision Technologies
-- 📍 **Location:** Sunnyvale, CA
+### [Lead AI Engineer](https://www.linkedin.com/jobs/view/4443728528/) — UST
+- 📍 **Location:** Santa Clara, CA
 - 🕒 **Posted:** 2026-07-22
 
-### [Senior Security Engineer](https://www.linkedin.com/jobs/view/4443721430/) — CSC Generation
+### [Senior Cell Modeling & Analytics Engineer](https://www.linkedin.com/jobs/view/4443714720/) — Peak Energy
+- 📍 **Location:** Burlingame, CA
+- 🕒 **Posted:** 2026-07-22
+
+### [Engineering Manager (Experimentation Data Infrastructure)New
+San Francisco, CA](https://www.linkedin.com/jobs/view/4443725513/) — Amplitude Software Co
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-07-22
+
+### [DevOps Engineer](https://www.linkedin.com/jobs/view/4443720637/) — Science
+- 📍 **Location:** Alameda, CA
+- 💰 **Salary:** $150,000.00/yr - $220,000.00/yr
+- 🕒 **Posted:** 2026-07-22
+
+### [AI-First SRE/DevOps Engineer](https://www.linkedin.com/jobs/view/4443735032/) — Axiad
 - 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-07-22
 
-### [Data Scientist (Masters)](https://www.linkedin.com/jobs/view/4443706939/) — Alignerr
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $40.00/hr - $80.00/hr
+### [Senior Cloud Security Engineer](https://www.linkedin.com/jobs/view/4406900427/) — Aurora
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-07-22
 
-### [Data Science Machine Learning Internship (Summer 2027)](https://www.linkedin.com/jobs/view/4441029275/) — Castleton Commodities International
-- 📍 **Location:** Stamford, CT
+### [Security Engineer](https://www.linkedin.com/jobs/view/4443727547/) — Science
+- 📍 **Location:** Alameda, CA
+- 💰 **Salary:** $160,000.00/yr - $220,000.00/yr
 - 🕒 **Posted:** 2026-07-22
 
-### [Data Engineering Internship (Summer 2027)](https://www.linkedin.com/jobs/view/4441022455/) — Castleton Commodities International
-- 📍 **Location:** Stamford, CT
-- 🕒 **Posted:** 2026-07-22
-
-### [Software Engineer (C#) - Internal Tooling](https://www.linkedin.com/jobs/view/4443720149/) — Alignerr
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $50.00/hr - $75.00/hr
-- 🕒 **Posted:** 2026-07-22
-
-### [Rust Software Engineer - Distributed Systems](https://www.linkedin.com/jobs/view/4443707635/) — Alignerr
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-07-22
-
-### [Systems Software Engineer - Machine Learning Ops](https://www.linkedin.com/jobs/view/4443716261/) — Alignerr
+### [Senior Data Engineer](https://www.linkedin.com/jobs/view/4443718697/) — Forge
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-07-22
