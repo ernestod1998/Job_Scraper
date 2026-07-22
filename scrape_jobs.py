@@ -1,5 +1,5 @@
 """
-Bay Area MLE/DS Job Scraper
+Bay Area + NYC MLE/DS Job Scraper
 Three pipelines (see __main__): LinkedIn guest-endpoint watcher, Indeed via
 python-jobspy, and a curated-biotech sweep (direct Greenhouse/Workday probes +
 allowlist-filtered LinkedIn). Each writes {basename}.{json,md,html} digests and
@@ -7,6 +7,7 @@ accumulates into all_jobs.json for the nightly triage agent and the dashboard.
 """
 
 import http.cookiejar
+import itertools
 import json
 import os
 import re
@@ -182,7 +183,7 @@ def is_bay_area(location: str) -> bool:
 # Non-Bay US biotech hubs, token → state. Tokens are substring-matched like
 # BAY_AREA_LOCATIONS. City names with a well-known non-US or wrong-state
 # namesake (Cambridge UK/MD, Durham UK, Pasadena TX, Irvine Scotland,
-# Queensland…) live in _HUB_AMBIGUOUS and only match when the right state
+# Queensland, Manhattan KS, Brooklyn OH/MN…) live in _HUB_AMBIGUOUS and only match when the right state
 # also appears in the string — so "Cambridge, MA", "Cambridge, Massachusetts"
 # and Workday's "Cambridge Crossing - MA - US" all match while "Cambridge,
 # UK" never does. "ny office" catches Greenhouse boards that write NYC that
@@ -206,7 +207,8 @@ US_BIOTECH_HUBS = {
     "chapel hill": "NC",
 }
 
-_HUB_AMBIGUOUS = {"cambridge", "queens", "watertown", "pasadena", "irvine", "durham"}
+_HUB_AMBIGUOUS = {"cambridge", "queens", "watertown", "pasadena", "irvine",
+                  "durham", "brooklyn", "manhattan"}
 
 _STATE_CONFIRM = {
     "NY": re.compile(r'\b(ny|new york)\b', re.IGNORECASE),
@@ -219,10 +221,11 @@ _STATE_CONFIRM = {
 
 def hub_city_match(text: str):
     """Return (token, state) for the first US biotech hub mentioned in text
-    (state-confirmed for ambiguous city names), else None."""
+    (word-boundary matched, state-confirmed for ambiguous city names), else
+    None. Boundaries stop containments like "Queensbury" matching "queens"."""
     low = (text or "").lower()
     for tok, state in US_BIOTECH_HUBS.items():
-        if tok not in low:
+        if not re.search(rf'\b{re.escape(tok)}\b', low):
             continue
         if tok in _HUB_AMBIGUOUS and not _STATE_CONFIRM[state].search(low):
             continue
@@ -232,9 +235,10 @@ def hub_city_match(text: str):
 
 # Bay Area city names with well-known non-CA namesakes (Dublin IE, Brisbane
 # AU, Newark NJ/DE, Richmond VA/UK, Concord NH, Union City NJ, Danville VA).
-# The target gate requires CA confirmation for these; is_bay_area() itself is
-# left alone so the geo-scoped LinkedIn/Indeed/gov watchers keep their
-# existing behavior.
+# The confirmed gate requires CA confirmation for these. is_bay_area() keeps
+# the looser substring behavior for legacy callers; the gov watcher and the
+# default dispatch gate through is_watch_location(), which uses the confirmed
+# variant precisely because they see nationwide location strings.
 _BAY_AMBIGUOUS = {"dublin", "brisbane", "newark", "richmond", "concord",
                   "union city", "danville"}
 
@@ -248,6 +252,43 @@ def _bay_area_confirmed(location: str) -> bool:
             continue
         return True
     return False
+
+
+# "new york" counted only in city position (or an explicit NYC form) — the
+# bare token would otherwise match upstate strings like "Albany, New York"
+# on the state name alone.
+_NYC_CITY_RE = re.compile(
+    r'^\W*new york\b'
+    r'|\bnew york\s*,\s*(ny|new york)\b'
+    r'|\bnew york city\b'
+    r'|\bnew york metro'
+    r'|\bnyc\b'
+)
+
+
+def is_nyc(location: str) -> bool:
+    """NYC-metro test over the US_BIOTECH_HUBS NY tokens (word-boundary and
+    state-confirmed like hub_city_match). Bare "Queens"/"Brooklyn" never
+    match; "Queens, NY"/"Brooklyn, NY" do; "Albany, New York" is rejected by
+    the city-position guard."""
+    low = (location or "").lower()
+    for tok, state in US_BIOTECH_HUBS.items():
+        if state != "NY" or not re.search(rf'\b{re.escape(tok)}\b', low):
+            continue
+        if tok in _HUB_AMBIGUOUS and not _STATE_CONFIRM["NY"].search(low):
+            continue
+        if tok == "new york" and not _NYC_CITY_RE.search(low):
+            continue
+        return True
+    return False
+
+
+def is_watch_location(location: str) -> bool:
+    """Geo gate for the location-scoped watchers: SF Bay Area or NYC metro.
+    Uses _bay_area_confirmed, not is_bay_area — its callers see nationwide
+    location strings, where bare "newark"/"richmond"/"concord" substrings
+    would otherwise pass for out-of-state agencies."""
+    return _bay_area_confirmed(location) or is_nyc(location)
 
 
 # Remote roles count as US only on an affirmative US signal, or when the
@@ -269,8 +310,8 @@ def is_remote_us(location: str) -> bool:
 
 def is_target_location(location: str) -> bool:
     """Bay Area + the other major US biotech hubs + US-remote. Used by the
-    biotech sweep (and discover.py) only — the LinkedIn/Indeed/gov watchers
-    stay Bay-focused."""
+    biotech sweep (and discover.py) only — the location-scoped watchers use
+    the tighter is_watch_location (Bay Area + NYC)."""
     if not location:
         return False
     return (
@@ -906,6 +947,13 @@ LINKEDIN_SEARCH_TERMS = [
 LINKEDIN_LOOKBACK_SECONDS = 3600          # 1h — every-2h watcher only surfaces the freshest hour
 LINKEDIN_BIOTECH_LOOKBACK_SECONDS = 86400 # 24h — biotech is a daily 8pm PT digest
 
+# Guest-endpoint geo scopes as (display name, LinkedIn geoId) pairs.
+# geoId 90000070 (NYC metro) verified live against the endpoint 2026-07-21.
+LINKEDIN_LOCATIONS = [
+    ("San Francisco Bay Area", "90000084"),
+    ("New York City Metropolitan Area", "90000070"),
+]
+
 # Biotech allowlist used by the LinkedIn-side filter. Broader than CURATED_BIOTECHS
 # (which only covers the 15 companies with direct Greenhouse/Workday probes) because
 # the public LinkedIn endpoint surfaces a wider universe of biotech employers.
@@ -919,7 +967,7 @@ BIOTECH_COMPANY_NAMES = [
     "Eikon Therapeutics", "Altos Labs", "Arc Institute", "Caribou Biosciences",
     "Octant Bio", "Gilead Sciences", "Xaira Therapeutics", "Formation Bio",
     "Septerna", "Chai Discovery",
-    # Big pharma / biotech with Bay Area MLE hiring
+    # Big pharma / biotech with Bay Area / NYC MLE hiring
     "Genentech", "AbbVie", "Amgen", "BioMarin", "Vertex Pharmaceuticals",
     "Bristol Myers Squibb", "Regeneron", "Pfizer",
     # Sequencing / genomics platforms
@@ -1008,14 +1056,14 @@ def _linkedin_search(terms: list[str], lookback_seconds: int) -> tuple[list[dict
     """
     jobs_by_id: dict[str, dict] = {}
     total_raw_cards = 0
-    for term in terms:
+    for (loc_name, geo_id), term in itertools.product(LINKEDIN_LOCATIONS, terms):
         for start in range(0, 75, 25):
             time.sleep(REQUEST_DELAY)
             url = (
                 "https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search"
                 f"?keywords={urllib.parse.quote(term)}"
-                "&location=San%20Francisco%20Bay%20Area"
-                "&geoId=90000084"
+                f"&location={urllib.parse.quote(loc_name)}"
+                f"&geoId={geo_id}"
                 f"&f_TPR=r{lookback_seconds}"
                 f"&start={start}"
             )
@@ -1096,9 +1144,12 @@ INDEED_LOOKBACK_HOURS = 24  # Indeed posting dates are ~day-resolution, so a 1h 
 # _merge_into_all_jobs strips it so the dashboard's master stays lean.
 INDEED_JD_MAX_CHARS = 6000
 
+# Metro scopes for the jobspy-backed sources (Indeed, ZipRecruiter + Google).
+JOBSPY_LOCATIONS = ["San Francisco, CA", "New York, NY"]
+
 
 def scrape_indeed_recent() -> list:
-    """Indeed MLE/DS roles posted in the last INDEED_LOOKBACK_HOURS, SF Bay Area."""
+    """Indeed MLE/DS roles posted in the last INDEED_LOOKBACK_HOURS, SF Bay Area + NYC."""
     print(f"🟦 Scraping Indeed (last {INDEED_LOOKBACK_HOURS}h)...")
     try:
         from jobspy import scrape_jobs as jobspy_scrape
@@ -1110,8 +1161,8 @@ def scrape_indeed_recent() -> list:
     ok_terms = 0
     errored_terms = 0
     raw_rows = 0
-    for term in LINKEDIN_SEARCH_TERMS:
-        time.sleep(REQUEST_DELAY)  # throttle: 20 back-to-back calls invite blocking on CI IPs
+    for location, term in itertools.product(JOBSPY_LOCATIONS, LINKEDIN_SEARCH_TERMS):
+        time.sleep(REQUEST_DELAY)  # throttle: back-to-back calls invite blocking on CI IPs
         try:
             # JobSpy Indeed gotcha: hours_old / is_remote / job_type / easy_apply
             # are mutually exclusive — only one may be set, or the time filter
@@ -1119,7 +1170,7 @@ def scrape_indeed_recent() -> list:
             df = jobspy_scrape(
                 site_name=["indeed"],
                 search_term=term,
-                location="San Francisco, CA",
+                location=location,
                 distance=50,
                 results_wanted=50,
                 hours_old=INDEED_LOOKBACK_HOURS,
@@ -1127,7 +1178,7 @@ def scrape_indeed_recent() -> list:
             )
         except Exception as e:
             errored_terms += 1
-            print(f"  ⚠️  Indeed ({term!r}): {e}")
+            print(f"  ⚠️  Indeed ({term!r} · {location}): {e}")
             continue
         ok_terms += 1
         if df is None or df.empty:
@@ -1166,7 +1217,7 @@ def scrape_indeed_recent() -> list:
             }
     jobs = list(jobs_by_id.values())
     print(
-        f"  📊 Indeed: {len(LINKEDIN_SEARCH_TERMS)} terms → "
+        f"  📊 Indeed: {len(LINKEDIN_SEARCH_TERMS)} terms × {len(JOBSPY_LOCATIONS)} metros → "
         f"{ok_terms} ok / {errored_terms} errored · {raw_rows} raw, {len(jobs)} matched"
     )
 
@@ -1204,7 +1255,7 @@ def scrape_boards_recent() -> list:
     ok_terms = 0
     errored_terms = 0
     raw_rows = 0
-    for term in LINKEDIN_SEARCH_TERMS:
+    for location, term in itertools.product(JOBSPY_LOCATIONS, LINKEDIN_SEARCH_TERMS):
         time.sleep(REQUEST_DELAY)
         try:
             # Same jobspy gotcha as Indeed: keep hours_old, don't add the other
@@ -1214,16 +1265,16 @@ def scrape_boards_recent() -> list:
                 site_name=["zip_recruiter", "google"],
                 search_term=term,
                 google_search_term=(
-                    f"{term} jobs near San Francisco, CA since yesterday"
+                    f"{term} jobs near {location} since yesterday"
                 ),
-                location="San Francisco, CA",
+                location=location,
                 distance=50,
                 results_wanted=50,
                 hours_old=BOARDS_LOOKBACK_HOURS,
             )
         except Exception as e:
             errored_terms += 1
-            print(f"  ⚠️  Boards ({term!r}): {e}")
+            print(f"  ⚠️  Boards ({term!r} · {location}): {e}")
             continue
         ok_terms += 1
         if df is None or df.empty:
@@ -1263,7 +1314,7 @@ def scrape_boards_recent() -> list:
             }
     jobs = list(jobs_by_id.values())
     print(
-        f"  📊 Boards: {len(LINKEDIN_SEARCH_TERMS)} terms → "
+        f"  📊 Boards: {len(LINKEDIN_SEARCH_TERMS)} terms × {len(JOBSPY_LOCATIONS)} metros → "
         f"{ok_terms} ok / {errored_terms} errored · {raw_rows} raw, {len(jobs)} matched"
     )
 
@@ -1482,8 +1533,8 @@ def save_linkedin_results(jobs: list):
     save_jobs_output(
         jobs,
         basename="linkedin_jobs",
-        title="🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area)",
-        subtitle=f"SF Bay Area · last {LINKEDIN_LOOKBACK_SECONDS // 3600}h",
+        title="🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)",
+        subtitle=f"SF Bay Area + NYC · last {LINKEDIN_LOOKBACK_SECONDS // 3600}h",
         accent="#3b82f6",
         empty_message="No new roles since the last run.",
         window_label=f"last {LINKEDIN_LOOKBACK_SECONDS // 3600}h",
@@ -1494,8 +1545,8 @@ def save_indeed_results(jobs: list):
     save_jobs_output(
         jobs,
         basename="indeed_jobs",
-        title="🟦 Indeed — Engineering / ML / DS Roles (SF Bay Area)",
-        subtitle=f"SF Bay Area · last {INDEED_LOOKBACK_HOURS}h",
+        title="🟦 Indeed — Engineering / ML / DS Roles (SF Bay Area + NYC)",
+        subtitle=f"SF Bay Area + NYC · last {INDEED_LOOKBACK_HOURS}h",
         accent="#2557a7",
         empty_message="No new roles since the last run.",
         window_label=f"last {INDEED_LOOKBACK_HOURS}h",
@@ -1506,8 +1557,8 @@ def save_boards_results(jobs: list):
     save_jobs_output(
         jobs,
         basename="boards_jobs",
-        title="🟪 ZipRecruiter + Google — Engineering / ML / DS Roles (SF Bay Area)",
-        subtitle=f"SF Bay Area · last {BOARDS_LOOKBACK_HOURS}h",
+        title="🟪 ZipRecruiter + Google — Engineering / ML / DS Roles (SF Bay Area + NYC)",
+        subtitle=f"SF Bay Area + NYC · last {BOARDS_LOOKBACK_HOURS}h",
         accent="#7c5cff",
         empty_message="No new roles since the last run.",
         window_label=f"last {BOARDS_LOOKBACK_HOURS}h",
@@ -1519,7 +1570,7 @@ def save_biotech_linkedin_results(jobs: list):
         jobs,
         basename="jobs",
         title="🧬 Biotech LinkedIn — MLE / DS Roles",
-        subtitle=f"SF Bay Area biotech allowlist · last {LINKEDIN_BIOTECH_LOOKBACK_SECONDS // 3600}h",
+        subtitle=f"US biotech allowlist · last {LINKEDIN_BIOTECH_LOOKBACK_SECONDS // 3600}h",
         accent="#2ea04f",
         empty_message="No new biotech roles since the last run.",
         window_label=f"last {LINKEDIN_BIOTECH_LOOKBACK_SECONDS // 3600}h",
@@ -1606,7 +1657,7 @@ def save_results(jobs: list):
         json.dump(output, f, indent=2)
 
     lines = [
-        "# 🧬 Fresh Biotech MLE Job Listings (SF Bay Area)",
+        "# 🧬 Fresh Biotech MLE Job Listings (SF Bay Area + NYC)",
         f"*Last updated: {timestamp}*\n",
         f"**{len(jobs)} role(s) posted in the last 24 hours**\n",
     ]
@@ -1627,7 +1678,7 @@ def save_results(jobs: list):
     with open(os.path.join(SCRIPT_DIR, "jobs.html"), "w") as f:
         f.write(_render_jobs_html(
             title="🧬 Fresh Biotech MLE Job Listings",
-            subtitle="SF Bay Area · posted in the last 24 hours",
+            subtitle="SF Bay Area + NYC · posted in the last 24 hours",
             timestamp=timestamp,
             jobs=jobs,
             empty_message="No biotech roles posted in the last 24 hours.",
@@ -1640,8 +1691,8 @@ def save_results(jobs: list):
 # ===========================================================================
 # Salary backfill + extra sources (USAJOBS / GovernmentJobs / CalCareers /
 # CalOpps). These reuse the repo's existing keyword gate (is_mle_role) and
-# location predicate (is_bay_area), so they follow whatever KEYWORDS /
-# BAY_AREA_LOCATIONS the maintainer sets — no domain-specific terms are
+# location predicate (is_watch_location — Bay Area + NYC), so they follow
+# whatever KEYWORDS / BAY_AREA_LOCATIONS / NY hub tokens the maintainer sets — no domain-specific terms are
 # hardcoded here. Heavier per-term sources share GOV_SEARCH_TERMS (a slice of
 # the LinkedIn list) to keep request counts sane; widen it if you like.
 # ===========================================================================
@@ -1799,7 +1850,7 @@ GOVERNMENTJOBS_PAGES = 2
 
 def scrape_governmentjobs_recent() -> list:
     """State/local-government roles via governmentjobs.com, filtered to the
-    repo's locations with is_bay_area()."""
+    repo's watch locations (Bay Area + NYC) with is_watch_location()."""
     print("🏛  Scraping GovernmentJobs/NEOGOV (state & local gov)...")
     import html as html_mod
     item_re = re.compile(r'<li[^>]*class=["\'][^"\']*\bjob-item\b[^"\']*["\'][^>]*>([\s\S]*?)</li>', re.I)
@@ -1830,7 +1881,7 @@ def scrape_governmentjobs_recent() -> list:
                     continue
                 loc_m = loc_re.search(it)
                 location = _clean(loc_m.group(1)) if loc_m else ""
-                if not is_bay_area(location):
+                if not is_watch_location(location):
                     continue
                 href = re.sub(r'\s+', '', lk.group(1))
                 job_url = href if href.startswith("http") else GOVERNMENTJOBS_BASE + "/" + href.lstrip("/")
@@ -2122,8 +2173,8 @@ if __name__ == "__main__":
     all_jobs.extend(scrape_curated_biotechs())
 
     before = len(all_jobs)
-    all_jobs = [j for j in all_jobs if is_bay_area(j.get("location", ""))]
-    print(f"\n📍 Bay Area filter: {before} → {len(all_jobs)} roles")
+    all_jobs = [j for j in all_jobs if is_watch_location(j.get("location", ""))]
+    print(f"\n📍 Bay Area + NYC filter: {before} → {len(all_jobs)} roles")
 
     before = len(all_jobs)
     all_jobs = [j for j in all_jobs if is_recent_posting(j)]
