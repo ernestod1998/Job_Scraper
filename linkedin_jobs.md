@@ -1,140 +1,71 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area)
-*Last updated: 2026-07-22 00:18 UTC*
+*Last updated: 2026-07-22 01:03 UTC*
 
-**33 new role(s)** since last run · 39 total in last 1h
+**16 new role(s)** since last run · 36 total in last 1h
 
-### [Senior Deep Learning and Computer Vision Engineer - Autonomous Vehicles](https://www.linkedin.com/jobs/view/4442918367/) — NVIDIA
-- 📍 **Location:** Santa Clara, CA
+### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4303376032/) — Probably Genetic
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-07-22
 
-### [Senior System Software Engineer, Interactive World Models](https://www.linkedin.com/jobs/view/4442910690/) — NVIDIA
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-07-22
-
-### [Senior Data Scientist](https://www.linkedin.com/jobs/view/4442925131/) — Cloudera
+### [Software Engineer, Frontend](https://www.linkedin.com/jobs/view/4443721046/) — Climactic
 - 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-07-22
 
-### [Sr. Applied Scientist, Amazon Ads](https://www.linkedin.com/jobs/view/4443585921/) — Amazon
+### [LATAM - Data Science Engineer](https://www.linkedin.com/jobs/view/4441032040/) — Playsaurus Inc.
+- 📍 **Location:** Alameda, CA
+- 🕒 **Posted:** 2026-07-22
+
+### [Software Engineer — E-commerce](https://www.linkedin.com/jobs/view/4443708193/) — Ecommerce Guide
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-07-22
 
-### [Applied Scientist, GenAI Catalog Intelligence, PRISM](https://www.linkedin.com/jobs/view/4443700490/) — Amazon
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-07-22
-
-### [Software Engineer, Android, Level 5](https://www.linkedin.com/jobs/view/4443586847/) — Snap Inc.
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-07-22
-
-### [Software Engineer, Android, Level 5](https://www.linkedin.com/jobs/view/4443583969/) — Snap Inc.
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-07-22
-
-### [Backend Engineer, Alarms](https://www.linkedin.com/jobs/view/4443704330/) — Verkada
-- 📍 **Location:** San Mateo, CA
-- 🕒 **Posted:** 2026-07-22
-
-### [Senior System Software Engineer – Dynamo Tools](https://www.linkedin.com/jobs/view/4442918370/) — NVIDIA
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-07-22
-
-### [Senior Frontend Engineer, NVIDIA Marketplace](https://www.linkedin.com/jobs/view/4442905852/) — NVIDIA
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-07-22
-
-### [Software Engineer](https://www.linkedin.com/jobs/view/4442907764/) — Docusign
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-07-22
-
-### [System Software Engineer - GeForce NOW Low Latency Streaming](https://www.linkedin.com/jobs/view/4442908782/) — NVIDIA
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-07-22
-
-### [Senior Backend Software Engineer, Global E-commerce Governance Business](https://www.linkedin.com/jobs/view/4442925161/) — TikTok
+### [Machine Learning Engineer, Multimodal - Intelligent Integrity](https://www.linkedin.com/jobs/view/4442924215/) — TikTok
 - 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-07-22
 
-### [Senior Systems Software Engineer - Fleet Debuggability](https://www.linkedin.com/jobs/view/4442923092/) — NVIDIA
-- 📍 **Location:** Santa Clara, CA
+### [Data Engineer – Backend Data & AI (Digital & Marketing IT)](https://www.linkedin.com/jobs/view/4442908891/) — I.T. Solutions, Inc.
+- 📍 **Location:** Alameda, CA
+- 💰 **Salary:** $120.00/yr - $145.00/yr
 - 🕒 **Posted:** 2026-07-22
 
-### [Senior Software Engineer, Networking Software](https://www.linkedin.com/jobs/view/4442908780/) — NVIDIA
-- 📍 **Location:** Santa Clara, CA
+### [Senior Research Engineer - Foundation Models, Ads Integrity](https://www.linkedin.com/jobs/view/4442926112/) — TikTok
+- 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-07-22
 
-### [Senior Software Engineer – Streaming](https://www.linkedin.com/jobs/view/4442904978/) — NVIDIA
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-07-22
-
-### [Senior Software Engineer - GeForce NOW Video Streaming](https://www.linkedin.com/jobs/view/4442922235/) — NVIDIA
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-07-22
-
-### [Senior System Software Engineer -  Halos Core and Robotics Platform](https://www.linkedin.com/jobs/view/4442905847/) — NVIDIA
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-07-22
-
-### [Senior System Software Engineer -  Halos Core and Robotics Platform](https://www.linkedin.com/jobs/view/4442905853/) — NVIDIA
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-07-22
-
-### [Manager, Software Engineering, Core Infra](https://www.linkedin.com/jobs/view/4443590637/) — Snap Inc.
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-07-22
-
-### [AI Engineer](https://www.linkedin.com/jobs/view/4441012679/) — scalr
-- 📍 **Location:** San Francisco Bay Area
-- 💰 **Salary:** $200,000.00/yr - $350,000.00/yr
-- 🕒 **Posted:** 2026-07-21
-
-### [Lead Edge AI Engineer](https://www.linkedin.com/jobs/view/4441011719/) — Source
-- 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-07-21
-
-### [AI Research Engineer- Speech](https://www.linkedin.com/jobs/view/4442904923/) — Centific
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-07-21
-
-### [Applied Scientist II (Bing Places)](https://www.linkedin.com/jobs/view/4443584851/) — Microsoft AI
-- 📍 **Location:** Mountain View, CA
-- 🕒 **Posted:** 2026-07-21
-
-### [Software Engineer](https://www.linkedin.com/jobs/view/4443596423/) — Snowflake
-- 📍 **Location:** Menlo Park, CA
-- 🕒 **Posted:** 2026-07-21
-
-### [Data Engineer](https://www.linkedin.com/jobs/view/4443591594/) — Harnham
+### [Senior Software Engineer, Internal Tools](https://www.linkedin.com/jobs/view/4441015816/) — Chan Zuckerberg Initiative
 - 📍 **Location:** Redwood City, CA
-- 💰 **Salary:** $120,000.00/yr - $150,000.00/yr
-- 🕒 **Posted:** 2026-07-21
+- 🕒 **Posted:** 2026-07-22
 
-### [Senior Backend Developer](https://www.linkedin.com/jobs/view/4443700142/) — Lita
+### [Software Engineer, Ads Measurement Signal](https://www.linkedin.com/jobs/view/4442920407/) — TikTok
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-07-22
+
+### [(USA) Software Engineer III](https://www.linkedin.com/jobs/view/4441018123/) — Walmart
+- 📍 **Location:** Sunnyvale, CA
+- 💰 **Salary:** $117,000.00/yr - $234,000.00/yr
+- 🕒 **Posted:** 2026-07-22
+
+### [Software Engineering SMTS/LMTS](https://www.linkedin.com/jobs/view/4443707544/) — Salesforce
 - 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-07-21
+- 🕒 **Posted:** 2026-07-22
 
-### [Lead Product Software Engineer](https://www.linkedin.com/jobs/view/4442908760/) — The Walt Disney Company
+### [LATAM - Backend Developer](https://www.linkedin.com/jobs/view/4441014783/) — Playsaurus Inc.
+- 📍 **Location:** Alameda, CA
+- 🕒 **Posted:** 2026-07-22
+
+### [Senior Java Full Stack Engineer](https://www.linkedin.com/jobs/view/4443709431/) — Pinnacle Arc LLC
+- 📍 **Location:** Mountain View, CA
+- 🕒 **Posted:** 2026-07-22
+
+### [Senior Full-Stack Engineer, Core](https://www.linkedin.com/jobs/view/4443702901/) — Scribe
 - 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-07-21
+- 💰 **Salary:** $145,000.00/yr - $230,000.00/yr
+- 🕒 **Posted:** 2026-07-22
 
-### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4442918316/) — Pivotal
-- 📍 **Location:** Palo Alto, CA
-- 💰 **Salary:** $175,000.00/yr - $186,000.00/yr
-- 🕒 **Posted:** 2026-07-21
+### [Senior Software Engineer, C/C++ SDK Performance Optimization](https://www.linkedin.com/jobs/view/4442922364/) — TikTok
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-07-22
 
-### [Senior Software Engineer, Block Production](https://www.linkedin.com/jobs/view/4443584853/) — Anza
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-07-21
-
-### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4443584855/) — PayZen
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-07-21
-
-### [Senior Frontend Developer](https://www.linkedin.com/jobs/view/4443599147/) — Lita
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-07-21
-
-### [Site Reliability Engineer (Network)](https://www.linkedin.com/jobs/view/4441017478/) — Loft Orbital
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $157,000.00/yr - $239,000.00/yr
-- 🕒 **Posted:** 2026-07-21
+### [Tech Lead Software Engineer, Monetization Technology](https://www.linkedin.com/jobs/view/4442905986/) — TikTok
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-07-22
