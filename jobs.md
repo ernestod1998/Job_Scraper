@@ -1,40 +1,44 @@
 # 🧬 Biotech LinkedIn — MLE / DS Roles
-*Last updated: 2026-07-22 06:09 UTC*
+*Last updated: 2026-07-23 06:15 UTC*
 
-**9 new role(s)** since last run · 146 total in last 24h
+**10 new role(s)** since last run · 149 total in last 24h
 
-### [Lead Biostatistician (IVD Clinical)](https://job-boards.greenhouse.io/natera/jobs/6110225004) — Natera
-- 📍 **Location:** US Remote
-- 🕒 **Posted:** 2026-07-09
+### [Senior Software Engineer II](https://job-boards.greenhouse.io/freenome/jobs/8519753002) — Freenome
+- 📍 **Location:** Remote
+- 🕒 **Posted:** 2026-07-14
 
-### [Senior Workday Platform Engineer](https://job-boards.greenhouse.io/natera/jobs/5993464004) — Natera
-- 📍 **Location:** US Remote
-- 🕒 **Posted:** 2026-07-21
+### [Research Engineer, AI](https://job-boards.greenhouse.io/biohub/jobs/7747517) — Chan Zuckerberg Biohub
+- 📍 **Location:** New York, NY (Hybrid)
+- 🕒 **Posted:** 2026-06-02
 
-### [Senior Clinical Data Scientist](https://jobs.lever.co/kariusdx/7bb4f1a3-4df3-4fa0-8140-a3bde6c77a3b) — Karius
-- 📍 **Location:** Redwood City, CA (Hybrid) or Remote (USA)
-- 🕒 **Posted:** 2026-07-16
+### [Research Scientist, AI](https://job-boards.greenhouse.io/biohub/jobs/7747518) — Chan Zuckerberg Biohub
+- 📍 **Location:** New York, NY (Hybrid)
+- 🕒 **Posted:** 2026-06-02
 
-### [Associate Manager, Production AI/ML Engineering, Advanced Informatics](https://regeneron.wd1.myworkdayjobs.com/careers/job/TARRYTOWN/Assoc-Manager--Production-AI-ML-Engineering--Advanced-Informatics_R48875) — Regeneron
-- 📍 **Location:** TARRYTOWN
+### [Software Engineer, Applications (App Foundations) (High Seniority)](https://jobs.ashbyhq.com/benchling/6beeaebc-fd49-47d7-a179-dd674bab58b7) — Benchling
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-07-22
+
+### [Sr Data Scientist](https://amgen.wd1.myworkdayjobs.com/careers/job/US---California---Los-Angeles/Sr-Data-Scientist_R-250525) — Amgen
+- 📍 **Location:** US - California - Los Angeles
 - 🕒 **Posted:** Posted Today
 
-### [Sr. Security Data Engineer, Vulnerability Risk Management](https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Cambridge-Massachusetts/Sr-Security-Data-Engineer--Vulnerability-Risk-Management_R19429) — Moderna
-- 📍 **Location:** Cambridge, Massachusetts
-- 🕒 **Posted:** Posted Today
-
-### [Software Engineer, Web](https://www.linkedin.com/jobs/view/4443734123/) — Science
-- 📍 **Location:** Alameda, CA
-- 🕒 **Posted:** 2026-07-22
-
-### [DevOps Engineer](https://www.linkedin.com/jobs/view/4443720637/) — Science
-- 📍 **Location:** Alameda, CA
-- 🕒 **Posted:** 2026-07-22
-
-### [Senior Data Engineer](https://www.linkedin.com/jobs/view/4441014779/) — Bristol Myers Squibb EU Policy
-- 📍 **Location:** Princeton, NJ
-- 🕒 **Posted:** 2026-07-22
-
-### [Senior Data Scientist](https://www.linkedin.com/jobs/view/4435115944/) — Genentech
+### [Machine Learning Scientist, Scientific Reasoning Models, AI for Drug Discovery](https://www.linkedin.com/jobs/view/4398016570/) — Genentech
 - 📍 **Location:** South San Francisco, CA
-- 🕒 **Posted:** 2026-07-21
+- 🕒 **Posted:** 2026-07-22
+
+### [ML Scientist I / II, Foundation Models for Life Sciences](https://www.linkedin.com/jobs/view/4407826488/) — Lila Sciences
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-07-22
+
+### [Senior Data Scientist II, Real World Evidence (RWE), Pharma R&D](https://www.linkedin.com/jobs/view/4345023510/) — Tempus AI
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-07-22
+
+### [Senior Backend Engineer](https://www.linkedin.com/jobs/view/4412854295/) — Gen
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-07-22
+
+### [Senior Software Engineer, Frontend](https://www.linkedin.com/jobs/view/4425851475/) — Ro
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-07-22
