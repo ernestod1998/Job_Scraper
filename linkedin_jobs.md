@@ -1,83 +1,94 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-07-23 03:18 UTC*
+*Last updated: 2026-07-23 04:56 UTC*
 
-**19 new role(s)** since last run · 23 total in last 1h
+**22 new role(s)** since last run · 27 total in last 1h
 
-### [Senior Data Scientist (Credit Risk)](https://www.linkedin.com/jobs/view/4439460059/) — Achieve
-- 📍 **Location:** San Mateo, CA
+### [Machine Learning Software Developer](https://www.linkedin.com/jobs/view/4444270560/) — Lawrence Livermore National Laboratory
+- 📍 **Location:** Livermore, CA
 - 🕒 **Posted:** 2026-07-23
 
-### [Machine Learning Engineer, Robotics](https://www.linkedin.com/jobs/view/4443466445/) — XPENG
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-07-23
-
-### [Senior Clinical Data Scientist](https://www.linkedin.com/jobs/view/4444266334/) — Unlearn.AI
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-07-23
-
-### [Software Engineer, Backend (Agentic AI)](https://www.linkedin.com/jobs/view/4444257601/) — Sift
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-07-23
-
-### [AI/ML Platform Engineer](https://www.linkedin.com/jobs/view/4444270076/) — AMD
-- 📍 **Location:** Santa Clara, CA
-- 💰 **Salary:** $204,000.00/yr - $306,000.00/yr
-- 🕒 **Posted:** 2026-07-23
-
-### [AI Engineer](https://www.linkedin.com/jobs/view/4444260354/) — Instabase
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-07-23
-
-### [Senior AI Platform & Agentic Infrastructure Engineer](https://www.linkedin.com/jobs/view/4444259363/) — OKX
+### [Sr Data Scientist](https://www.linkedin.com/jobs/view/4443477406/) — PayPal
 - 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-07-23
 
-### [Senior Software Engineer, Backend (Agentic AI)](https://www.linkedin.com/jobs/view/4444257597/) — Sift
-- 📍 **Location:** San Francisco, CA
+### [Software Engineer - Marketplace Experimentation Platform](https://www.linkedin.com/jobs/view/4419354172/) — Waymo
+- 📍 **Location:** Mountain View, CA
 - 🕒 **Posted:** 2026-07-23
 
-### [AI Platform Engineer](https://www.linkedin.com/jobs/view/4444251571/) — Glint Tech Solutions
-- 📍 **Location:** San Francisco, CA
+### [Software Engineer](https://www.linkedin.com/jobs/view/4443471454/) — PayPal
+- 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-07-23
 
-### [Infrastructure Engineer](https://www.linkedin.com/jobs/view/4444269004/) — Glint Tech Solutions
+### [Software Engineer](https://www.linkedin.com/jobs/view/4443481393/) — PayPal
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-07-23
+
+### [ML Systems Engineer, Large-Scale Model Training & RL Infrastructure](https://www.linkedin.com/jobs/view/4444272131/) — Nebius
 - 📍 **Location:** Palo Alto, CA
 - 🕒 **Posted:** 2026-07-23
 
-### [Platform Engineer, JavaScript Frameworks](https://www.linkedin.com/jobs/view/4444267158/) — eBay
+### [Computer Vision Engineer](https://www.linkedin.com/jobs/view/4444262554/) — Meta
+- 📍 **Location:** Burlingame, CA
+- 💰 **Salary:** $154,003.00/yr - $217,000.00/yr
+- 🕒 **Posted:** 2026-07-23
+
+### [Robotics Software Engineer (C++ & Python)](https://www.linkedin.com/jobs/view/4444265729/) — Simbe
+- 📍 **Location:** San Francisco Bay Area
+- 💰 **Salary:** $100,000.00/yr - $160,000.00/yr
+- 🕒 **Posted:** 2026-07-23
+
+### [Technical Lead - Software Developer, Data Foundry](https://www.linkedin.com/jobs/view/4442972287/) — BioSpace
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-07-23
+
+### [Infrastructure - Software Engineer](https://www.linkedin.com/jobs/view/4443473784/) — Tykhe Inc
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-07-23
+
+### [Factory Build Software Developer](https://www.linkedin.com/jobs/view/4443466821/) — Hewlett Packard Enterprise
 - 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-07-23
 
-### [Full Stack Software Engineer – Cloud Licensing Platform](https://www.linkedin.com/jobs/view/4443451535/) — Cognizant
-- 📍 **Location:** San Jose, CA
+### [Senior Applied Scientist, Efficient LLM Inference & Model Optimization](https://www.linkedin.com/jobs/view/4444254816/) — Nebius
+- 📍 **Location:** Palo Alto, CA
 - 🕒 **Posted:** 2026-07-23
 
-### [Senior Full Stack Software Engineer (React & Ruby on Rails) - Remote](https://www.linkedin.com/jobs/view/4443461447/) — Cognizant
-- 📍 **Location:** San Jose, CA
+### [Research Scientist, AI Networking (PhD)](https://www.linkedin.com/jobs/view/4444251957/) — Meta
+- 📍 **Location:** Menlo Park, CA
 - 🕒 **Posted:** 2026-07-23
 
-### [Senior Software Engineer - Dashboard Build](https://www.linkedin.com/jobs/view/4443451487/) — Cognizant
-- 📍 **Location:** San Jose, CA
+### [Senior Machine Learning Engineer, LLM Inference Optimization](https://www.linkedin.com/jobs/view/4444263541/) — Nebius
+- 📍 **Location:** Palo Alto, CA
 - 🕒 **Posted:** 2026-07-23
 
-### [Sr Lead Software Engineer - AWS - Lead AI/ML Platform Engineer](https://www.linkedin.com/jobs/view/4444267262/) — JPMorganChase
-- 📍 **Location:** Jersey City, NJ
-- 💰 **Salary:** $171,000.00/yr - $260,000.00/yr
+### [Software Engineer, Agent - Travel & Hospitality](https://www.linkedin.com/jobs/view/4443473355/) — hackajob
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-07-23
 
-### [Software Engineer](https://www.linkedin.com/jobs/view/4441307611/) — TalentAlly
-- 📍 **Location:** Bridgeport, CT
+### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4443482505/) — Vynca
+- 📍 **Location:** San Mateo, CA
 - 🕒 **Posted:** 2026-07-23
 
-### [Lead Systems Engineer (HPC)](https://www.linkedin.com/jobs/view/4440795999/) — TalentAlly
-- 📍 **Location:** Princeton, NJ
+### [Data Science Research Manager - Accenture Research](https://www.linkedin.com/jobs/view/4443485552/) — Accenture
+- 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-07-23
 
-### [Manager of Software Engineering - Full Stack](https://www.linkedin.com/jobs/view/4444248865/) — JPMorganChase
-- 📍 **Location:** Jersey City, NJ
-- 💰 **Salary:** $152,000.00/yr - $215,000.00/yr
+### [Clinical Data Scientist/ Methodologist](https://www.linkedin.com/jobs/view/4443485694/) — BioSpace
+- 📍 **Location:** Bridgewater, NJ
 - 🕒 **Posted:** 2026-07-23
 
-### [Systems Engineer I](https://www.linkedin.com/jobs/view/4443485250/) — Paychex
-- 📍 **Location:** Allentown, PA
+### [Data Scientist II - Commercial Insights & Analytics](https://www.linkedin.com/jobs/view/4443480784/) — BioSpace
+- 📍 **Location:** Plainsboro, NJ
+- 🕒 **Posted:** 2026-07-23
+
+### [Software Engineer, SystemML - Scaling / Performance](https://www.linkedin.com/jobs/view/4444254773/) — Meta
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-07-23
+
+### [Senior Big Data Engineer](https://www.linkedin.com/jobs/view/4443483798/) — Magnite
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-07-23
+
+### [Software Engineer (Technical Leadership)](https://www.linkedin.com/jobs/view/4444252842/) — Meta
+- 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-07-23
