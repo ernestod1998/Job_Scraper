@@ -364,6 +364,10 @@
   function classifyRole(title) {
     const t = (title || '').toLowerCase();
     if (/bioinformatic|computational biolog|genomic|ngs/.test(t)) return 'Bioinformatics';
+    // Comp-chem / DMPK / tox / imaging lane (mirrors the scraper's targeted
+    // KEYWORDS) — checked before Scientist so "Toxicology Research Scientist"
+    // lands here, not in the generic bucket.
+    if (/computational chem|computational scientist|cheminformatic|computational tox|predictive tox|toxicolog|\bdmpk\b|\badmet\b|\bqsar\b|\bpbpk\b|\bpkdm\b|drug metabolism|molecular property|computational patholog|imaging scientist|medical imaging/.test(t)) return 'Comp Chem/Sci';
     if (/mlops|ml platform|ml infra|ml infrastructure|fullstack machine learning/.test(t)) return 'MLOps/Platform';
     if (/applied scientist|ml scientist|research scientist|research engineer/.test(t)) return 'Scientist';
     if (/data scientist|analytics/.test(t)) return 'Data Science';
@@ -1085,8 +1089,8 @@
     renderFilterGroup('filter-source', 'source',
       ['LinkedIn', 'Biotech', 'Indeed', 'USAJOBS', 'NEOGOV', 'CalOpps', 'CalCareers']);
     renderFilterGroup('filter-role', 'role',
-      ['AI Engineer', 'MLE', 'MLOps/Platform', 'Scientist', 'Data Science',
-       'SWE', 'Bioinformatics', 'Other']);
+      ['AI Engineer', 'MLE', 'MLOps/Platform', 'Scientist', 'Comp Chem/Sci',
+       'Data Science', 'SWE', 'Bioinformatics', 'Other']);
     // Founding/Principal/Staff are excluded at the scraper (mid-level focus);
     // pruneState() clears any lingering untriaged ones from older sessions.
     renderFilterGroup('filter-sen', 'sen', ['Senior', 'Mid', 'Intern']);
