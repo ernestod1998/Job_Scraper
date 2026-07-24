@@ -1,44 +1,44 @@
 # 🧬 Biotech LinkedIn — MLE / DS Roles
-*Last updated: 2026-07-23 06:15 UTC*
+*Last updated: 2026-07-24 06:09 UTC*
 
-**10 new role(s)** since last run · 149 total in last 24h
+**10 new role(s)** since last run · 150 total in last 24h
 
-### [Senior Software Engineer II](https://job-boards.greenhouse.io/freenome/jobs/8519753002) — Freenome
-- 📍 **Location:** Remote
-- 🕒 **Posted:** 2026-07-14
+### [Machine Learning Research Engineer ](https://job-boards.greenhouse.io/profluent/jobs/5195933008) — Profluent
+- 📍 **Location:** Emeryville, California, United States; Hybrid (2-3 days on-site)
+- 🕒 **Posted:** 2026-07-23
 
-### [Research Engineer, AI](https://job-boards.greenhouse.io/biohub/jobs/7747517) — Chan Zuckerberg Biohub
-- 📍 **Location:** New York, NY (Hybrid)
+### [Research Engineer, AI](https://job-boards.greenhouse.io/biohub/jobs/7793665) — Chan Zuckerberg Biohub
+- 📍 **Location:** Redwood City, CA (Hybrid)
 - 🕒 **Posted:** 2026-06-02
 
-### [Research Scientist, AI](https://job-boards.greenhouse.io/biohub/jobs/7747518) — Chan Zuckerberg Biohub
-- 📍 **Location:** New York, NY (Hybrid)
+### [Research Scientist, AI](https://job-boards.greenhouse.io/biohub/jobs/7793644) — Chan Zuckerberg Biohub
+- 📍 **Location:** Redwood City, CA (Hybrid)
 - 🕒 **Posted:** 2026-06-02
 
-### [Software Engineer, Applications (App Foundations) (High Seniority)](https://jobs.ashbyhq.com/benchling/6beeaebc-fd49-47d7-a179-dd674bab58b7) — Benchling
+### [Software Engineer, Backend (Release Engineering)](https://jobs.ashbyhq.com/benchling/70e672e0-b80b-4232-84cb-27406abfa689) — Benchling
 - 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-07-22
+- 🕒 **Posted:** 2026-07-23
 
-### [Sr Data Scientist](https://amgen.wd1.myworkdayjobs.com/careers/job/US---California---Los-Angeles/Sr-Data-Scientist_R-250525) — Amgen
-- 📍 **Location:** US - California - Los Angeles
+### [Data Scientist](https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Cambridge-Massachusetts/Data-Scientist_R19530) — Moderna
+- 📍 **Location:** Cambridge, Massachusetts
 - 🕒 **Posted:** Posted Today
 
-### [Machine Learning Scientist, Scientific Reasoning Models, AI for Drug Discovery](https://www.linkedin.com/jobs/view/4398016570/) — Genentech
-- 📍 **Location:** South San Francisco, CA
-- 🕒 **Posted:** 2026-07-22
+### [Senior AI Engineer](https://bristolmyerssquibb.wd5.myworkdayjobs.com/BMS/job/Brisbane---CA---US/Senior-Cloud-Engineer_R1603460-1) — Bristol Myers Squibb
+- 📍 **Location:** Brisbane - CA - US
+- 🕒 **Posted:** Posted Today
 
-### [ML Scientist I / II, Foundation Models for Life Sciences](https://www.linkedin.com/jobs/view/4407826488/) — Lila Sciences
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-07-22
+### [Software Engineer V](https://www.linkedin.com/jobs/view/4444705369/) — Lead
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-07-23
 
-### [Senior Data Scientist II, Real World Evidence (RWE), Pharma R&D](https://www.linkedin.com/jobs/view/4345023510/) — Tempus AI
+### [Research Scientist, AI](https://www.linkedin.com/jobs/view/4398460855/) — Biohub
 - 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-07-22
+- 🕒 **Posted:** 2026-07-23
 
-### [Senior Backend Engineer](https://www.linkedin.com/jobs/view/4412854295/) — Gen
+### [Senior Software Engineer, Frontend - Care Platform Clinical Workflows](https://www.linkedin.com/jobs/view/4425868201/) — Ro
 - 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-07-22
+- 🕒 **Posted:** 2026-07-23
 
-### [Senior Software Engineer, Frontend](https://www.linkedin.com/jobs/view/4425851475/) — Ro
+### [Senior Software Engineer, Frontend - Care Platform Operations](https://www.linkedin.com/jobs/view/4425869206/) — Ro
 - 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-07-22
+- 🕒 **Posted:** 2026-07-23
