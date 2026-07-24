@@ -464,6 +464,9 @@ CURATED_BIOTECHS = [
     {"name": "Generate Biomedicines", "ats": "greenhouse", "slug": "generatebiomedicines", "fallback_location": "Somerville, MA"},
     {"name": "Kernal Bio",           "ats": "greenhouse", "slug": "kernalbio",           "fallback_location": "Boston, MA"},
     {"name": "Dyno Therapeutics",    "ats": "greenhouse", "slug": "dynotherapeutics",    "fallback_location": "Watertown, MA"},
+    # ---- Comp chem/Sci lane (endpoints verified live 2026-07-24) ----
+    {"name": "Aralez Bio",           "ats": "greenhouse", "slug": "aralezbio",           "fallback_location": "Berkeley, CA"},
+    {"name": "Axiom Bio",            "ats": "ashby",      "slug": "axiombio",            "fallback_location": "San Francisco, CA"},
 ]
 
 
@@ -955,7 +958,7 @@ LINKEDIN_LOCATIONS = [
 ]
 
 # Biotech allowlist used by the LinkedIn-side filter. Broader than CURATED_BIOTECHS
-# (which only covers the 15 companies with direct Greenhouse/Workday probes) because
+# (which only covers the companies with direct Greenhouse/Ashby/Workday probes) because
 # the public LinkedIn endpoint surfaces a wider universe of biotech employers.
 # Match is case-insensitive on alphanum-stripped names with bidirectional substring
 # matching, so "Genentech" matches "Genentech, Inc." and vice versa. Avoid names
@@ -966,7 +969,7 @@ BIOTECH_COMPANY_NAMES = [
     "Cytokinetics", "Natera", "Inceptive", "Atomwise", "Profluent",
     "Eikon Therapeutics", "Altos Labs", "Arc Institute", "Caribou Biosciences",
     "Octant Bio", "Gilead Sciences", "Xaira Therapeutics", "Formation Bio",
-    "Septerna", "Chai Discovery",
+    "Septerna", "Chai Discovery", "Aralez Bio", "Axiom Bio",
     # Big pharma / biotech with Bay Area / NYC MLE hiring
     "Genentech", "AbbVie", "Amgen", "BioMarin", "Vertex Pharmaceuticals",
     "Bristol Myers Squibb", "Regeneron", "Pfizer",
