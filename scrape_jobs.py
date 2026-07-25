@@ -33,7 +33,12 @@ KEYWORDS = [
     # ---- ML / AI ----
     "machine learning engineer", "ml engineer", "mle",
     "machine learning infra", "ml platform", "ai platform",
-    "ai engineer", "ai/ml engineer",
+    # Paused 2026-07-24 — the generic "AI Engineer" title lane ran ~390 roles /
+    # 30d of mostly non-biotech product work. Uncomment (here + the matching
+    # LINKEDIN_SEARCH_TERMS entry) to resume. LLM/GenAI/agent keywords below
+    # stay active deliberately: those skew research-side and overlap the
+    # biotech targets.
+    # "ai engineer", "ai/ml engineer",
     "mlops", "research engineer",
     "llm engineer", "generative ai", "genai engineer", "prompt engineer",
     "deep learning", "reinforcement learning",
@@ -922,7 +927,8 @@ LINKEDIN_SEARCH_TERMS = [
     "machine learning engineer",
     "data scientist",
     "applied scientist",
-    "AI engineer",
+    # Paused 2026-07-24 alongside the KEYWORDS entry — see note there.
+    # "AI engineer",
     "MLOps engineer",
     # Software engineering
     "software engineer",
