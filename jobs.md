@@ -1,44 +1,40 @@
 # 🧬 Biotech LinkedIn — MLE / DS Roles
-*Last updated: 2026-07-24 06:09 UTC*
+*Last updated: 2026-07-25 05:56 UTC*
 
-**10 new role(s)** since last run · 150 total in last 24h
+**9 new role(s)** since last run · 148 total in last 24h
 
-### [Machine Learning Research Engineer ](https://job-boards.greenhouse.io/profluent/jobs/5195933008) — Profluent
-- 📍 **Location:** Emeryville, California, United States; Hybrid (2-3 days on-site)
-- 🕒 **Posted:** 2026-07-23
+### [Senior Software Engineer II](https://job-boards.greenhouse.io/freenome/jobs/8414748002) — Freenome
+- 📍 **Location:** Remote
+- 🕒 **Posted:** 2026-07-15
 
-### [Research Engineer, AI](https://job-boards.greenhouse.io/biohub/jobs/7793665) — Chan Zuckerberg Biohub
-- 📍 **Location:** Redwood City, CA (Hybrid)
+### [Senior AI Engineer,  Real-World Data](https://job-boards.greenhouse.io/natera/jobs/6017428004) — Natera
+- 📍 **Location:** US Remote
+- 🕒 **Posted:** 2026-07-24
+
+### [Research Scientist, AI](https://job-boards.greenhouse.io/biohub/jobs/7747518) — Chan Zuckerberg Biohub
+- 📍 **Location:** New York, NY (Hybrid)
 - 🕒 **Posted:** 2026-06-02
 
-### [Research Scientist, AI](https://job-boards.greenhouse.io/biohub/jobs/7793644) — Chan Zuckerberg Biohub
-- 📍 **Location:** Redwood City, CA (Hybrid)
-- 🕒 **Posted:** 2026-06-02
+### [Senior AI Engineer](https://bristolmyerssquibb.wd5.myworkdayjobs.com/BMS/job/Seattle-400-Dexter---WA---US/Senior-AI-Engineer_R1602673) — Bristol Myers Squibb
+- 📍 **Location:** Seattle 400 Dexter - WA - US
+- 🕒 **Posted:** Posted 10 Days Ago
 
-### [Software Engineer, Backend (Release Engineering)](https://jobs.ashbyhq.com/benchling/70e672e0-b80b-4232-84cb-27406abfa689) — Benchling
-- 📍 **Location:** San Francisco, CA
+### [Computational Chemist (Machine Learning) I / II](https://job-boards.greenhouse.io/aralezbio/jobs/5368806008) — Aralez Bio
+- 📍 **Location:** Berkeley, CA
 - 🕒 **Posted:** 2026-07-23
 
-### [Data Scientist](https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Cambridge-Massachusetts/Data-Scientist_R19530) — Moderna
-- 📍 **Location:** Cambridge, Massachusetts
-- 🕒 **Posted:** Posted Today
+### [Sr. Machine Learning Engineer](https://www.linkedin.com/jobs/view/4444663063/) — Intel
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-07-25
 
-### [Senior AI Engineer](https://bristolmyerssquibb.wd5.myworkdayjobs.com/BMS/job/Brisbane---CA---US/Senior-Cloud-Engineer_R1603460-1) — Bristol Myers Squibb
-- 📍 **Location:** Brisbane - CA - US
-- 🕒 **Posted:** Posted Today
+### [Research Engineer, AI](https://www.linkedin.com/jobs/view/4398642162/) — Biohub
+- 📍 **Location:** Redwood City, CA
+- 🕒 **Posted:** 2026-07-24
 
-### [Software Engineer V](https://www.linkedin.com/jobs/view/4444705369/) — Lead
-- 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-07-23
-
-### [Research Scientist, AI](https://www.linkedin.com/jobs/view/4398460855/) — Biohub
+### [Machine Learning Scientist, Scientific Reasoning Models, AI for Drug Discovery](https://www.linkedin.com/jobs/view/4398029018/) — Genentech
 - 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-07-23
+- 🕒 **Posted:** 2026-07-24
 
-### [Senior Software Engineer, Frontend - Care Platform Clinical Workflows](https://www.linkedin.com/jobs/view/4425868201/) — Ro
+### [Machine Learning Scientist, Structure-Function ML, AI for Drug Discovery (AIDD)](https://www.linkedin.com/jobs/view/4445220932/) — Genentech
 - 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-07-23
-
-### [Senior Software Engineer, Frontend - Care Platform Operations](https://www.linkedin.com/jobs/view/4425869206/) — Ro
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-07-23
+- 🕒 **Posted:** 2026-07-24
