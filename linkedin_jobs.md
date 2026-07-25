@@ -1,24 +1,28 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-07-25 22:19 UTC*
+*Last updated: 2026-07-25 23:17 UTC*
 
-**5 new role(s)** since last run · 9 total in last 1h
+**6 new role(s)** since last run · 6 total in last 1h
 
-### [Senior Data Scientist, Health](https://www.linkedin.com/jobs/view/4444809059/) — Avalink
-- 📍 **Location:** Cupertino, CA
+### [Machine Learning Engineer (Generative AI)](https://www.linkedin.com/jobs/view/4429447621/) — Applied Materials
+- 📍 **Location:** Santa Clara, CA
 - 🕒 **Posted:** 2026-07-25
 
-### [Technical Lead Platform Engineer](https://www.linkedin.com/jobs/view/4444803129/) — Jobright.ai
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-07-25
-
-### [Data Scientist Intern](https://www.linkedin.com/jobs/view/4444696176/) — Jobright.ai
-- 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-07-25
-
-### [Sr iOS Engineer](https://www.linkedin.com/jobs/view/4444812051/) — Randstad Digital Americas
+### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4445363208/) — Tessera Data
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-07-25
 
-### [Senior Cybersecurity Engineer](https://www.linkedin.com/jobs/view/4445349832/) — ECI
+### [Senior Data Engineer](https://www.linkedin.com/jobs/view/4445371062/) — Tessera Data
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-07-25
+
+### [Sr. Applied Scientist, Prime Video - Personalization and Discovery Science](https://www.linkedin.com/jobs/view/4442313676/) — Amazon Science
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-07-25
+
+### [Senior Product Manager, Generative AI](https://www.linkedin.com/jobs/view/4445346980/) — Uber
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-07-25
+
+### [Software Engineer, Frontend](https://www.linkedin.com/jobs/view/4442323456/) — Change Order
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-07-25
