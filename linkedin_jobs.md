@@ -1,60 +1,24 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-07-25 20:18 UTC*
+*Last updated: 2026-07-25 21:17 UTC*
 
-**14 new role(s)** since last run · 14 total in last 1h
+**5 new role(s)** since last run · 8 total in last 1h
 
-### [Sr. Data Scientist](https://www.linkedin.com/jobs/view/4445349599/) — Versa Networks
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-07-25
-
-### [Sr. Lead AI Engineer (GenAI Platform)](https://www.linkedin.com/jobs/view/4445359146/) — Capital One
+### [Senior ML Engineer](https://www.linkedin.com/jobs/view/4444808079/) — Jobright.ai
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-07-25
 
-### [Senior Software Engineer, Product](https://www.linkedin.com/jobs/view/4444806050/) — Jobright.ai
-- 📍 **Location:** Burlingame, CA
+### [Software Engineer - AI Agent](https://www.linkedin.com/jobs/view/4444693165/) — Jobright.ai
+- 📍 **Location:** San Mateo County, CA
 - 🕒 **Posted:** 2026-07-25
 
-### [Sr. Data Scientist](https://www.linkedin.com/jobs/view/4445349597/) — Versa Networks
-- 📍 **Location:** Santa Clara, CA
+### [Software Engineer](https://www.linkedin.com/jobs/view/4444806081/) — Jobright.ai
+- 📍 **Location:** Los Altos, CA
 - 🕒 **Posted:** 2026-07-25
 
-### [Full-Stack Engineer Intern](https://www.linkedin.com/jobs/view/4444676971/) — Jobright.ai
-- 📍 **Location:** San Francisco Bay Area
+### [Core platform Engineer /SRE](https://www.linkedin.com/jobs/view/4445347937/) — Enormous Enterprise LLC
+- 📍 **Location:** Sunnyvale, CA
 - 🕒 **Posted:** 2026-07-25
 
-### [Senior Systems Engineer, Technical Support](https://www.linkedin.com/jobs/view/4442322337/) — Calix
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-07-25
-
-### [Forward Deployed Engineer — Data Engineering & GenAI](https://www.linkedin.com/jobs/view/4445351518/) — Infinite Computer Solutions
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-07-25
-
-### [Software Engineer Intern](https://www.linkedin.com/jobs/view/4444691999/) — Jobright.ai
-- 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-07-25
-
-### [Sr. Lead AI Engineer (GenAI Platform)](https://www.linkedin.com/jobs/view/4445359144/) — Capital One
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-07-25
-
-### [Frontend Engineer](https://www.linkedin.com/jobs/view/4445358177/) — Choice Makers Crew
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-07-25
-
-### [Lead Software Engineer, Back End](https://www.linkedin.com/jobs/view/4445345841/) — Capital One
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-07-25
-
-### [Senior DevOps Engineer](https://www.linkedin.com/jobs/view/4438412991/) — AppCard, Inc.
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-07-25
-
-### [Lead Software Engineer, Back End](https://www.linkedin.com/jobs/view/4445350586/) — Capital One
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-07-25
-
-### [Google Workspace Systems Engineer](https://www.linkedin.com/jobs/view/4445350519/) — First Soft Solutions LLC
-- 📍 **Location:** Monmouth Junction, NJ
+### [ETL Developer](https://www.linkedin.com/jobs/view/4445351741/) — Enormous Enterprise LLC
+- 📍 **Location:** Sunnyvale, CA
 - 🕒 **Posted:** 2026-07-25
