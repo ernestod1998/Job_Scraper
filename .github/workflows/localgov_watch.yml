@@ -36,8 +36,8 @@ jobs:
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add governmentjobs_jobs.json governmentjobs_jobs.md governmentjobs_jobs.html \
-                  calopps_jobs.json calopps_jobs.md calopps_jobs.html all_jobs.json notified.json
-          git diff --cached --quiet || git commit -m "chore: update local-gov listings [$(date -u '+%Y-%m-%d %H:%MZ')]"
-          git pull --rebase origin main
-          git push
+          python ci_commit_push.py \
+            --message "chore: update local-gov listings [$(date -u '+%Y-%m-%d %H:%MZ')]" \
+            governmentjobs_jobs.json governmentjobs_jobs.md governmentjobs_jobs.html \
+            calopps_jobs.json calopps_jobs.md calopps_jobs.html \
+            all_jobs.json notified.json

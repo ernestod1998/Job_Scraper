@@ -1,0 +1,48 @@
+name: Tests
+
+# Fast, secret-free, no-network unit tests. Deliberately path-filtered: the
+# watchers push ~30 chore commits a day and none of them should burn CI minutes
+# here. The workflow paths are included so that reintroducing a hand-rolled
+# rebase-and-push tail in any watcher trips the recurrence guard in
+# test_ci_commit_push.py. (Written that way on purpose — the guard greps these
+# files for the literal git commands, including this one.)
+on:
+  push:
+    paths:
+      - ci_commit_push.py
+      - test_ci_commit_push.py
+      - .github/workflows/*.yml
+  pull_request:
+    paths:
+      - ci_commit_push.py
+      - test_ci_commit_push.py
+      - .github/workflows/*.yml
+  workflow_dispatch:
+
+jobs:
+  tests:
+    name: Commit/push merge tests
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: read
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      # The end-to-end race tests build a throwaway bare repo and commit into
+      # it, so git needs an identity on the runner.
+      - name: Configure git identity
+        run: |
+          git config --global user.name  "ci"
+          git config --global user.email "ci@example.com"
+          git config --global init.defaultBranch main
+
+      - name: Run tests
+        run: python test_ci_commit_push.py
