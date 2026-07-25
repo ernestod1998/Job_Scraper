@@ -306,6 +306,10 @@
     <div id="filter-date" class="controls-row" style="gap:6px"></div>
   </div>
   <div class="controls-row">
+    <span class="pillgroup-label">Sort</span>
+    <div id="filter-sort" class="controls-row" style="gap:6px"></div>
+  </div>
+  <div class="controls-row">
     <span class="pillgroup-label">Show</span>
     <div id="filter-state" class="controls-row" style="gap:6px"></div>
   </div>
@@ -644,6 +648,7 @@
     salMin: 0,        // minimum annual salary (USD); 0 = no floor
     salUnknown: false, // when a floor is set, exclude roles with no listed salary
     q: '',
+    sort: 'newest',   // 'newest' | 'oldest' — date order of the visible list
   };
 
   // 'browse' = the classic date-ordered list; 'rank' = fit-score order.
@@ -672,6 +677,18 @@
       if (!isNaN(t)) return t;
     }
     return jobDateMs(j);
+  }
+
+  // Date ordering for the list. Primary key is date_posted (what the card's 🕒
+  // shows, so the order matches the visible label); first_seen breaks same-day
+  // ties with sub-day precision. Undated roles sink to the bottom in BOTH
+  // directions rather than masquerading as the oldest listings.
+  function compareByDate(a, b, dir) {
+    const ad = jobDateMs(a), bd = jobDateMs(b);
+    if (ad == null || bd == null) return ad == null ? (bd == null ? 0 : 1) : -1;
+    if (ad !== bd) return dir === 'oldest' ? ad - bd : bd - ad;
+    const af = jobFreshMs(a) ?? ad, bf = jobFreshMs(b) ?? bd;
+    return dir === 'oldest' ? af - bf : bf - af;
   }
 
   // `except` skips one dimension so a facet's pills don't constrain their own counts.
@@ -760,6 +777,23 @@
       p.setAttribute('aria-pressed', active ? 'true' : 'false');
       p.innerHTML = `${label}<span class="ct">${ct}</span>`;
       p.onclick = () => { filters.days = (filters.days === days ? null : days); renderAll(); };
+      el.appendChild(p);
+    });
+  }
+
+  // Radio-style (unlike the facet pills): the list always has a date order, so
+  // clicking the active one is a no-op rather than clearing it.
+  function renderSortFilter() {
+    const el = $('filter-sort');
+    el.innerHTML = '';
+    [['newest', '↓ Newest first'], ['oldest', '↑ Oldest first']].forEach(([k, label]) => {
+      const active = filters.sort === k;
+      const p = document.createElement('button');
+      p.type = 'button';
+      p.className = 'pill' + (active ? ' on' : '');
+      p.setAttribute('aria-pressed', active ? 'true' : 'false');
+      p.textContent = label;
+      p.onclick = () => { filters.sort = k; renderAll(); };
       el.appendChild(p);
     });
   }
@@ -857,12 +891,15 @@
     let jobs = visibleJobs();
     const info = $('rank-info');
     if (viewMode === 'rank') {
-      // Fit-score order; unscored sink to the bottom (never hidden).
-      jobs = jobs.slice().sort((a, b) => (b._score ?? -1) - (a._score ?? -1));
+      // Fit-score order; unscored sink to the bottom (never hidden). The Sort
+      // pills break score ties, so equally-scored roles still read newest-first.
+      jobs = jobs.slice().sort((a, b) =>
+        ((b._score ?? -1) - (a._score ?? -1)) || compareByDate(a, b, filters.sort));
       const scored = jobs.filter(j => j._score != null).length;
       info.hidden = false;
       info.textContent = `★ Rank: ${scored} of ${jobs.length} visible roles scored by the nightly agent — unscored roles sink to the bottom.`;
     } else {
+      jobs = jobs.slice().sort((a, b) => compareByDate(a, b, filters.sort));
       info.hidden = true;
     }
     const el = $('jobs');
@@ -1095,6 +1132,7 @@
     // pruneState() clears any lingering untriaged ones from older sessions.
     renderFilterGroup('filter-sen', 'sen', ['Senior', 'Mid', 'Intern']);
     renderDateFilter();
+    renderSortFilter();
     renderStateFilter();
     renderSalaryControl();
     renderKpis();
