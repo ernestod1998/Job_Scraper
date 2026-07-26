@@ -1,14 +1,14 @@
 # 🟦 Indeed — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-07-25 23:37 UTC*
+*Last updated: 2026-07-26 04:10 UTC*
 
-**2 new role(s)** since last run · 67 total in last 24h
+**2 new role(s)** since last run · 31 total in last 24h
 
-### [Systems Engineer Level 2/3](https://www.indeed.com/viewjob?jk=075d6eadc1045219) — Northrop Grumman
-- 📍 **Location:** Sunnyvale, CA, US
-- 💰 **Salary:** $92k–$171k/yr
-- 🕒 **Posted:** 2026-07-23
+### [GPS HST Software Engineer III](https://www.indeed.com/viewjob?jk=3e839c7500ee1169) — Deloitte
+- 📍 **Location:** Princeton, NJ, US
+- 💰 **Salary:** $108k–$180k/yr
+- 🕒 **Posted:** 2026-07-25
 
-### [Systems Engineer Level 4](https://www.indeed.com/viewjob?jk=5e43803c02a8753f) — Northrop Grumman
-- 📍 **Location:** Sunnyvale, CA, US
-- 💰 **Salary:** $142k–$213k/yr
-- 🕒 **Posted:** 2026-07-23
+### [Interface Manager, Eligibility & Enrollment Software Engineering](https://www.indeed.com/viewjob?jk=1047d7ab3d9a9943) — Deloitte
+- 📍 **Location:** New York, NY, US
+- 💰 **Salary:** $128k–$252k/yr
+- 🕒 **Posted:** 2026-07-25
