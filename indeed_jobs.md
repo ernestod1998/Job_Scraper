@@ -1,14 +1,29 @@
 # 🟦 Indeed — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-07-26 04:10 UTC*
+*Last updated: 2026-07-26 16:33 UTC*
 
-**2 new role(s)** since last run · 31 total in last 24h
+**5 new role(s)** since last run · 9 total in last 24h
 
-### [GPS HST Software Engineer III](https://www.indeed.com/viewjob?jk=3e839c7500ee1169) — Deloitte
-- 📍 **Location:** Princeton, NJ, US
-- 💰 **Salary:** $108k–$180k/yr
-- 🕒 **Posted:** 2026-07-25
+### [Senior Software Engineer](https://www.indeed.com/viewjob?jk=5e6ffabbacb84f44) — Apple
+- 📍 **Location:** Cupertino, CA, US
+- 💰 **Salary:** $185k–$325k/yr
+- 🕒 **Posted:** 2026-07-22
 
-### [Interface Manager, Eligibility & Enrollment Software Engineering](https://www.indeed.com/viewjob?jk=1047d7ab3d9a9943) — Deloitte
-- 📍 **Location:** New York, NY, US
-- 💰 **Salary:** $128k–$252k/yr
-- 🕒 **Posted:** 2026-07-25
+### [Machine Learning Engineer: Multimodal Sensor Fusion](https://www.indeed.com/viewjob?jk=4d6736f4b90f85dd) — Apple
+- 📍 **Location:** Sunnyvale, CA, US
+- 💰 **Salary:** $150k–$225k/yr
+- 🕒 **Posted:** 2026-07-22
+
+### [Software Engineer, Shortcuts, Proactive](https://www.indeed.com/viewjob?jk=7ccfab0ae4468c7e) — Apple
+- 📍 **Location:** Cupertino, CA, US
+- 💰 **Salary:** $150k–$278k/yr
+- 🕒 **Posted:** 2026-07-22
+
+### [Prototyping Software Engineer, VPG Health & Fitness](https://www.indeed.com/viewjob?jk=410b160620feead3) — Apple
+- 📍 **Location:** San Jose, CA, US
+- 💰 **Salary:** $185k–$325k/yr
+- 🕒 **Posted:** 2026-07-22
+
+### [Senior Software Engineer, Apple Data Platform](https://www.indeed.com/viewjob?jk=1bf1c7c0d5ba3c64) — Apple
+- 📍 **Location:** Cupertino, CA, US
+- 💰 **Salary:** $150k–$278k/yr
+- 🕒 **Posted:** 2026-07-22
