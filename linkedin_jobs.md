@@ -1,17 +1,21 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-07-26 22:17 UTC*
+*Last updated: 2026-07-26 23:17 UTC*
 
-**3 new role(s)** since last run · 6 total in last 1h
+**4 new role(s)** since last run · 5 total in last 1h
 
-### [Machine Learning Engineer (Model Development)](https://www.linkedin.com/jobs/view/4440809623/) — kadence
-- 📍 **Location:** San Francisco Bay Area
-- 💰 **Salary:** $140,000.00/yr - $180,000.00/yr
+### [Data Engineer – AI](https://www.linkedin.com/jobs/view/4439808978/) — ITbility
+- 📍 **Location:** Sunnyvale, CA
 - 🕒 **Posted:** 2026-07-26
 
-### [Data Scientist Intern](https://www.linkedin.com/jobs/view/4444850244/) — Jobright.ai
-- 📍 **Location:** San Francisco Bay Area
+### [Machine Learning Engineer - Multimodal Modeling](https://www.linkedin.com/jobs/view/4442549207/) — Stand
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $250,000.00/yr - $295,000.00/yr
 - 🕒 **Posted:** 2026-07-26
 
-### [Technical Lead Platform Engineer](https://www.linkedin.com/jobs/view/4444869216/) — Jobright.ai
-- 📍 **Location:** Palo Alto, CA
+### [Platform Engineer](https://www.linkedin.com/jobs/view/4442357902/) — Saaras Inc
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-07-26
+
+### [Senior Data Engineer](https://www.linkedin.com/jobs/view/4444218459/) — Capgemini
+- 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-07-26
