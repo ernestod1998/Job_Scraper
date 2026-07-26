@@ -1,22 +1,20 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-07-26 00:17 UTC*
+*Last updated: 2026-07-26 01:17 UTC*
 
-**4 new role(s)** since last run · 6 total in last 1h
+**4 new role(s)** since last run · 5 total in last 1h
 
-### [Data Engineer](https://www.linkedin.com/jobs/view/4445364337/) — Harnham
-- 📍 **Location:** San Francisco Bay Area
-- 💰 **Salary:** $120,000.00/yr - $140,000.00/yr
+### [Software Engineer, AI Platform](https://www.linkedin.com/jobs/view/4445353962/) — OperatorVC
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-07-26
 
-### [LATAM - Data Science Engineer](https://www.linkedin.com/jobs/view/4442322505/) — Playsaurus Inc.
-- 📍 **Location:** Alameda, CA
-- 🕒 **Posted:** 2026-07-25
+### [Senior Software Engineer, GPU Inference & Kernel Systems](https://www.linkedin.com/jobs/view/4444806509/) — runara.ai
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-07-26
 
-### [LATAM - Backend Developer](https://www.linkedin.com/jobs/view/4442329225/) — Playsaurus Inc.
-- 📍 **Location:** Alameda, CA
-- 🕒 **Posted:** 2026-07-25
+### [ML & Cloud Infrastructure Engineer Intern](https://www.linkedin.com/jobs/view/4445361507/) — Climactic
+- 📍 **Location:** South San Francisco, CA
+- 🕒 **Posted:** 2026-07-26
 
-### [Machine Learning Engineer (Training & Inference Systems)](https://www.linkedin.com/jobs/view/4444694273/) — Fintal Partners
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $500,000.00/yr - $1,500,000.00/yr
-- 🕒 **Posted:** 2026-07-25
+### [Senior Data Scientist](https://www.linkedin.com/jobs/view/4441817524/) — Triune Infomatics Inc
+- 📍 **Location:** San Ramon, CA
+- 🕒 **Posted:** 2026-07-26
