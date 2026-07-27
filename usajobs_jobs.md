@@ -1,14 +1,14 @@
 # 🇺🇸 USAJOBS — Federal Roles
-*Last updated: 2026-07-26 16:32 UTC*
+*Last updated: 2026-07-27 17:21 UTC*
 
-**2 new role(s)** since last run · 16 total in current USAJOBS postings
+**2 new role(s)** since last run · 15 total in current USAJOBS postings
 
-### [SOFTWARE DEVELOPER](https://www.usajobs.gov/job/848520700) — Naval Sea Systems Command
-- 📍 **Location:** Dahlgren, Virginia
-- 💰 **Salary:** Starting at $101,401 Per year (ND 4)
-- 🕒 **Posted:** 2025-10-22
+### [Data Scientist](https://www.usajobs.gov/job/877705100) — Department of War Education Activity
+- 📍 **Location:** Alexandria, Virginia
+- 💰 **Salary:** Starting at $143,913 Per year (GS 14)
+- 🕒 **Posted:** 2026-07-27
 
-### [DATA SCIENTIST](https://www.usajobs.gov/job/846709300) — Air Force Civilian Career Training
-- 📍 **Location:** Gunter AFB, Alabama
-- 💰 **Salary:** Starting at $49,960 Per year (GS 7-9)
-- 🕒 **Posted:** 2025-09-29
+### [Data Scientist - Data Analyst (Direct Hire)](https://www.usajobs.gov/job/878023200) — Social Security Administration
+- 📍 **Location:** Birmingham, Alabama
+- 💰 **Salary:** Starting at $143,913 Per year (GS 14)
+- 🕒 **Posted:** 2026-07-27
