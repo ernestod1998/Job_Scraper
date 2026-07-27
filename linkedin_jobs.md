@@ -1,201 +1,197 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-07-27 20:18 UTC*
+*Last updated: 2026-07-27 21:18 UTC*
 
-**46 new role(s)** since last run · 56 total in last 1h
+**47 new role(s)** since last run · 56 total in last 1h
 
-### [Senior Data Scientist](https://www.linkedin.com/jobs/view/4446106640/) — LinkedIn
-- 📍 **Location:** Mountain View, CA
-- 🕒 **Posted:** 2026-07-27
-
-### [Data Scientist](https://www.linkedin.com/jobs/view/4445182222/) — Google
-- 📍 **Location:** San Bruno, CA
-- 🕒 **Posted:** 2026-07-27
-
-### [Senior Software Engineer - AI Platform](https://www.linkedin.com/jobs/view/4446107984/) — LinkedIn
-- 📍 **Location:** Mountain View, CA
-- 🕒 **Posted:** 2026-07-27
-
-### [Software Engineer Lead](https://www.linkedin.com/jobs/view/4442098131/) — VeeAR Projects Inc.
-- 📍 **Location:** Fremont, CA
-- 🕒 **Posted:** 2026-07-27
-
-### [Software Engineer II - Backend](https://www.linkedin.com/jobs/view/4446112669/) — Uber
+### [Software Engineer, Early Career (AI)](https://www.linkedin.com/jobs/view/4442887347/) — Corissa Nunn Consulting
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-07-27
 
-### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4445175357/) — Google
-- 📍 **Location:** Mountain View, CA
-- 🕒 **Posted:** 2026-07-27
-
-### [Senior Software Engineer, AI/ML GenAI, Google Cloud Networking](https://www.linkedin.com/jobs/view/4445185202/) — Google
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-07-27
-
-### [Senior Research Engineer](https://www.linkedin.com/jobs/view/4446124183/) — Mem0
+### [Machine Learning Engineer](https://www.linkedin.com/jobs/view/4442894244/) — Sprinter Health
 - 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $175,000.00/yr - $250,000.00/yr
 - 🕒 **Posted:** 2026-07-27
 
-### [Software Engineer Intern](https://www.linkedin.com/jobs/view/4445187529/) — Jobright.ai
+### [Software Engineer, Early Career](https://www.linkedin.com/jobs/view/4442889322/) — Corissa Nunn Consulting
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-07-27
+
+### [Software Engineer, AI Workflows](https://www.linkedin.com/jobs/view/4442883389/) — Corissa Nunn Consulting
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-07-27
+
+### [Software Engineer, AI Platform](https://www.linkedin.com/jobs/view/4442888350/) — Corissa Nunn Consulting
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-07-27
+
+### [Software Engineer](https://www.linkedin.com/jobs/view/4445179771/) — Akia
 - 📍 **Location:** San Francisco Bay Area
 - 🕒 **Posted:** 2026-07-27
 
-### [Data Scientist](https://www.linkedin.com/jobs/view/4442892019/) — Jerry
+### [Senior ML Engineer](https://www.linkedin.com/jobs/view/4445189804/) — Jobright.ai
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-07-27
+
+### [Lead - Data Science & Data Engineering](https://www.linkedin.com/jobs/view/4446144060/) — Straive
 - 📍 **Location:** San Francisco Bay Area
 - 🕒 **Posted:** 2026-07-27
 
-### [Associate Data Scientist](https://www.linkedin.com/jobs/view/4442877185/) — Jerry
+### [Data Scientist, Actuarial](https://www.linkedin.com/jobs/view/4442881350/) — Sprinter Health
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-07-27
+
+### [Software Engineer, Developer Experience (Go Lead)](https://www.linkedin.com/jobs/view/4442891342/) — Corissa Nunn Consulting
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-07-27
+
+### [Senior Software Engineer, ML Workflows - Weights & Biases](https://www.linkedin.com/jobs/view/4442883409/) — Weights & Biases
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-07-27
+
+### [Software Engineer](https://www.linkedin.com/jobs/view/4442877497/) — GSOBA
 - 📍 **Location:** San Francisco Bay Area
 - 🕒 **Posted:** 2026-07-27
 
-### [Robotics Software Engineer](https://www.linkedin.com/jobs/view/4445174665/) — Efference
+### [Software Engineer, Frontend (Agentic AI)](https://www.linkedin.com/jobs/view/4446137243/) — Sift
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-07-27
 
-### [Software Engineer](https://www.linkedin.com/jobs/view/4446106892/) — MintMCP
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-07-27
-
-### [Development Tools Software Engineer](https://www.linkedin.com/jobs/view/4445177279/) — Intel
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-07-27
-
-### [Software Engineer](https://www.linkedin.com/jobs/view/4445191475/) — Advatix LATAM
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-07-27
-
-### [Software Engineer](https://www.linkedin.com/jobs/view/4442892140/) — Haystack
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $58,200.00/yr - $83,200.00/yr
-- 🕒 **Posted:** 2026-07-27
-
-### [Full Stack Engineer](https://www.linkedin.com/jobs/view/4432005995/) — Talent Stack
-- 📍 **Location:** Palo Alto, CA
-- 💰 **Salary:** $140,000.00/yr - $250,000.00/yr
-- 🕒 **Posted:** 2026-07-27
-
-### [Software Engineer (Implementation)](https://www.linkedin.com/jobs/view/4446111829/) — Quanta
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-07-27
-
-### [Senior Full Stack Software Engineer](https://www.linkedin.com/jobs/view/4437918075/) — GridCARE
-- 📍 **Location:** Redwood City, CA
-- 🕒 **Posted:** 2026-07-27
-
-### [Senior Autonomy Software Engineer](https://www.linkedin.com/jobs/view/4446113488/) — Apptronik
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-07-27
-
-### [Senior Software Engineer, AI/ML, Ads and Commerce](https://www.linkedin.com/jobs/view/4445192183/) — Google
-- 📍 **Location:** Mountain View, CA
-- 🕒 **Posted:** 2026-07-27
-
-### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4446109750/) — RH
-- 📍 **Location:** Pleasanton, CA
-- 🕒 **Posted:** 2026-07-27
-
-### [Security Engineer II](https://www.linkedin.com/jobs/view/4445188549/) — Maxonic Inc.
-- 📍 **Location:** Dublin, CA
-- 🕒 **Posted:** 2026-07-27
-
-### [Data Engineer](https://www.linkedin.com/jobs/view/4445192154/) — Akkodis
+### [Embedded Software Engineer](https://www.linkedin.com/jobs/view/4445186818/) — Ledgent Technology
 - 📍 **Location:** San Jose, CA
-- 💰 **Salary:** $58.00/hr - $63.00/hr
+- 💰 **Salary:** $65.00/hr - $70.97/hr
 - 🕒 **Posted:** 2026-07-27
 
-### [Research Engineer, Generative Video](https://www.linkedin.com/jobs/view/4446110903/) — Mirage
+### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4415671719/) — LHH
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $80.00/hr - $120.00/hr
+- 🕒 **Posted:** 2026-07-27
+
+### [Software Engineer, Data Product Platform](https://www.linkedin.com/jobs/view/4442899287/) — Corissa Nunn Consulting
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-07-27
+
+### [Software Engineer, Collections Experience](https://www.linkedin.com/jobs/view/4442881413/) — Corissa Nunn Consulting
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-07-27
+
+### [Software Engineer](https://www.linkedin.com/jobs/view/4445184848/) — Jobright.ai
+- 📍 **Location:** Los Altos, CA
+- 🕒 **Posted:** 2026-07-27
+
+### [Software Engineer, C/C++ (Cloud/Networking)](https://www.linkedin.com/jobs/view/4445192717/) — Omnissa
+- 📍 **Location:** Mountain View, CA
+- 🕒 **Posted:** 2026-07-27
+
+### [Full-Stack Engineer Intern](https://www.linkedin.com/jobs/view/4445193567/) — Jobright.ai
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-07-27
+
+### [Senior Software Engineer, Frontend (Agentic AI)](https://www.linkedin.com/jobs/view/4446136251/) — Sift
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-07-27
+
+### [Software Engineer, Web Infrastructure](https://www.linkedin.com/jobs/view/4442888356/) — Corissa Nunn Consulting
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-07-27
+
+### [Security Engineer, Corporate Security](https://www.linkedin.com/jobs/view/4442890352/) — Corissa Nunn Consulting
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-07-27
+
+### [Senior Software Engineer, Infrastructure Security](https://www.linkedin.com/jobs/view/4442890219/) — Asana
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-07-27
+
+### [Senior Software Engineer, Product](https://www.linkedin.com/jobs/view/4445192495/) — Jobright.ai
+- 📍 **Location:** Burlingame, CA
+- 🕒 **Posted:** 2026-07-27
+
+### [Senior Network Systems Engineer](https://www.linkedin.com/jobs/view/4438060980/) — NetApp
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-07-27
+
+### [Security Engineer, Detection and Response, San Francisco](https://www.linkedin.com/jobs/view/4442890353/) — Corissa Nunn Consulting
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-07-27
+
+### [Sr. Security Engineer](https://www.linkedin.com/jobs/view/4445187463/) — California Water Service
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-07-27
+
+### [Security Engineer](https://www.linkedin.com/jobs/view/4445179701/) — Signify Technology
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-07-27
+
+### [Senior Software Engineer, Security Development](https://www.linkedin.com/jobs/view/4442878376/) — Asana
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-07-27
+
+### [Software Engineer, AI Security](https://www.linkedin.com/jobs/view/4442894304/) — Corissa Nunn Consulting
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-07-27
+
+### [Data Engineer](https://www.linkedin.com/jobs/view/4445191797/) — Akkodis
+- 📍 **Location:** San Jose, CA
+- 💰 **Salary:** $58.00/yr - $63.00/yr
+- 🕒 **Posted:** 2026-07-27
+
+### [Data Engineer, People Analytics](https://www.linkedin.com/jobs/view/4442878481/) — Corissa Nunn Consulting
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-07-27
+
+### [Senior Software Engineer, ML Workflows - Weights & Biases](https://www.linkedin.com/jobs/view/4442892361/) — Weights & Biases
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-07-27
+
+### [Software Engineer](https://www.linkedin.com/jobs/view/4446122829/) — Harnham
+- 📍 **Location:** New York City Metropolitan Area
+- 💰 **Salary:** $190,000.00/yr - $225,000.00/yr
+- 🕒 **Posted:** 2026-07-27
+
+### [Senior Software Engineer, ML Workflows - Weights & Biases](https://www.linkedin.com/jobs/view/4442886376/) — Weights & Biases
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $175,000.00/yr - $275,000.00/yr
 - 🕒 **Posted:** 2026-07-27
 
-### [Research Engineer, Agentic Systems](https://www.linkedin.com/jobs/view/4446117744/) — Mirage
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $175,000.00/yr - $275,000.00/yr
-- 🕒 **Posted:** 2026-07-27
-
-### [Full Stack Engineer](https://www.linkedin.com/jobs/view/4442896080/) — Haystack
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-07-27
-
-### [Associate Data Scientist](https://www.linkedin.com/jobs/view/4442875977/) — Jerry
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-07-27
-
-### [Data Scientist](https://www.linkedin.com/jobs/view/4442891014/) — Jerry
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-07-27
-
-### [Data Analyst - Product Data Science](https://www.linkedin.com/jobs/view/4446112714/) — Flatiron Health
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $88,000.00/yr - $121,000.00/yr
-- 🕒 **Posted:** 2026-07-27
-
-### [Junior Software Engineer](https://www.linkedin.com/jobs/view/4446118684/) — MetLife
-- 📍 **Location:** Bridgewater, NJ
-- 🕒 **Posted:** 2026-07-27
-
-### [Software Engineer](https://www.linkedin.com/jobs/view/4446107851/) — Meow
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-07-27
-
-### [Full Stack Engineer](https://www.linkedin.com/jobs/view/4446121021/) — Confidential
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $300,000.00/yr - $450,000.00/yr
-- 🕒 **Posted:** 2026-07-27
-
-### [Full Stack Engineer](https://www.linkedin.com/jobs/view/4446129009/) — Luxoft
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-07-27
-
-### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4442897064/) — Haystack
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $180,000.00/yr - $180,000.00/yr
-- 🕒 **Posted:** 2026-07-27
-
-### [Site Reliability Engineer](https://www.linkedin.com/jobs/view/4442873969/) — Oxbow Talent
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $140,000.00/yr - $170,000.00/yr
-- 🕒 **Posted:** 2026-07-27
-
-### [DevOps Engineer](https://www.linkedin.com/jobs/view/4445190488/) — Delta System & Software, Inc.
-- 📍 **Location:** Berkeley Heights, NJ
-- 🕒 **Posted:** 2026-07-27
-
-### [Cloud Engineer](https://www.linkedin.com/jobs/view/4439729734/) — Infusive Solutions, Inc
+### [Senior Software Engineer, ML Workflows - Weights & Biases](https://www.linkedin.com/jobs/view/4442899308/) — Weights & Biases
 - 📍 **Location:** Livingston, NJ
-- 💰 **Salary:** $160,000.00/yr - $180,000.00/yr
 - 🕒 **Posted:** 2026-07-27
 
-### [Senior Infrastructure Engineer](https://www.linkedin.com/jobs/view/4446112883/) — Nova Intelligence
+### [Jr. Data Scientist](https://www.linkedin.com/jobs/view/4446137033/) — J & J Staffing Resources
+- 📍 **Location:** Brooklyn, NY
+- 🕒 **Posted:** 2026-07-27
+
+### [Software Engineer](https://www.linkedin.com/jobs/view/4442885285/) — SSi People
+- 📍 **Location:** Princeton, NJ
+- 🕒 **Posted:** 2026-07-27
+
+### [DevOps Engineer](https://www.linkedin.com/jobs/view/4445189806/) — Marlabs
+- 📍 **Location:** Englewood Cliffs, NJ
+- 🕒 **Posted:** 2026-07-27
+
+### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4442890371/) — Click Therapeutics, Inc.
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-07-27
 
-### [Platform Engineering Manager](https://www.linkedin.com/jobs/view/4446123209/) — Aaru
+### [Senior Software Engineer, Frontend Engineering
+New York, NY; Remote, US (Hub cities)](https://www.linkedin.com/jobs/view/4442884307/) — Naytal
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-07-27
 
-### [Senior Security Engineer](https://www.linkedin.com/jobs/view/4446120424/) — OnMed
-- 📍 **Location:** White Plains, NY
-- 💰 **Salary:** $130,000.00/yr - $140,000.00/yr
-- 🕒 **Posted:** 2026-07-27
-
-### [Senior Systems Engineer](https://www.linkedin.com/jobs/view/4442878315/) — Cleartech Recruiting
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $170,000.00/yr - $200,000.00/yr
-- 🕒 **Posted:** 2026-07-27
-
-### [Lead Security Engineer, Internal and IT](https://www.linkedin.com/jobs/view/4446120774/) — Artemis Security
+### [Senior Full Stack Software Engineer (Python, Java/Golang, JavaScript) - Remote](https://www.linkedin.com/jobs/view/4445188648/) — Cognizant
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-07-27
 
-### [Data Engineer](https://www.linkedin.com/jobs/view/4442886143/) — Haystack
-- 📍 **Location:** New York, NY
+### [AI Solutions Engineer (Snowflake & Generative AI)](https://www.linkedin.com/jobs/view/4445185773/) — MeeBoss
+- 📍 **Location:** Princeton, NJ
 - 🕒 **Posted:** 2026-07-27
 
-### [Data engineer with PostgresSQL](https://www.linkedin.com/jobs/view/4445187231/) — E-IT
+### [Network Security Engineer](https://www.linkedin.com/jobs/view/4446133204/) — Largeton Group
+- 📍 **Location:** Orange, CT
+- 🕒 **Posted:** 2026-07-27
+
+### [Data engineer with PostgresSQL](https://www.linkedin.com/jobs/view/4446127312/) — Arkhya Tech. Inc.
 - 📍 **Location:** Basking Ridge, NJ
 - 🕒 **Posted:** 2026-07-27
 
-### [Data Engineer with Financial Services, Databricks and MDM Experience - NJ- USC and GC only no corps](https://www.linkedin.com/jobs/view/4446117870/) — Yoh, A Day & Zimmermann Company
-- 📍 **Location:** Jersey City, NJ
+### [Senior Systems Engineer (Healthcare & Life Science) - New York](https://www.linkedin.com/jobs/view/4427672745/) — Qumulo
+- 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-07-27
