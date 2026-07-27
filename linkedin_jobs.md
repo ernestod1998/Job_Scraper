@@ -1,21 +1,22 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-07-26 23:17 UTC*
+*Last updated: 2026-07-27 00:17 UTC*
 
-**4 new role(s)** since last run · 5 total in last 1h
+**4 new role(s)** since last run · 4 total in last 1h
 
-### [Data Engineer – AI](https://www.linkedin.com/jobs/view/4439808978/) — ITbility
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-07-26
-
-### [Machine Learning Engineer - Multimodal Modeling](https://www.linkedin.com/jobs/view/4442549207/) — Stand
+### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4445649877/) — Tessera Data
 - 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $250,000.00/yr - $295,000.00/yr
+- 🕒 **Posted:** 2026-07-27
+
+### [Senior Software Engineer — RL Environments & Infrastructure](https://www.linkedin.com/jobs/view/4442362810/) — Lumos
+- 📍 **Location:** San Francisco Bay Area
 - 🕒 **Posted:** 2026-07-26
 
-### [Platform Engineer](https://www.linkedin.com/jobs/view/4442357902/) — Saaras Inc
-- 📍 **Location:** San Francisco, CA
+### [Senior Full Stack Software Engineer](https://www.linkedin.com/jobs/view/4389782681/) — Talently
+- 📍 **Location:** South San Francisco, CA
+- 💰 **Salary:** $170,000.00/yr - $210,000.00/yr
 - 🕒 **Posted:** 2026-07-26
 
-### [Senior Data Engineer](https://www.linkedin.com/jobs/view/4444218459/) — Capgemini
-- 📍 **Location:** New York, NY
+### [Platform Engineer - Kafka/Redis/Solr/ELK/Lucidworks](https://www.linkedin.com/jobs/view/4442358857/) — Genpact
+- 📍 **Location:** New York City Metropolitan Area
+- 💰 **Salary:** $75,000.00/yr - $80,000.00/yr
 - 🕒 **Posted:** 2026-07-26
