@@ -1,79 +1,130 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-07-28 03:18 UTC*
+*Last updated: 2026-07-28 04:46 UTC*
 
-**18 new role(s)** since last run · 23 total in last 1h
+**30 new role(s)** since last run · 32 total in last 1h
 
-### [Senior Software Engineer - Remote](https://www.linkedin.com/jobs/view/4445436396/) — YO AI Labs
+### [Software Engineer, Early Career (AI)](https://www.linkedin.com/jobs/view/4443212428/) — The Curly Doggo Company
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-07-28
 
-### [Software Engineer, People Technology](https://www.linkedin.com/jobs/view/4446177558/) — Gusto
-- 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-07-28
-
-### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4445434636/) — BuildOps
+### [Software Engineer, Early Career](https://www.linkedin.com/jobs/view/4443203608/) — The Curly Doggo Company
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-07-28
 
-### [Senior Software Engineer - Growth](https://www.linkedin.com/jobs/view/4443216107/) — Airwallex
+### [Software Engineer, AI Workflows](https://www.linkedin.com/jobs/view/4443223364/) — The Curly Doggo Company
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-07-28
 
-### [Senior Data Infrastructure Engineer](https://www.linkedin.com/jobs/view/4446183605/) — XPENG
-- 📍 **Location:** Santa Clara, CA
+### [Software Engineer, AI Platform](https://www.linkedin.com/jobs/view/4443204469/) — The Curly Doggo Company
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-07-28
 
-### [Perception Engineer](https://www.linkedin.com/jobs/view/4443200552/) — Mach Industries
-- 📍 **Location:** San Francisco Bay Area
-- 💰 **Salary:** $130,000.00/yr - $220,000.00/yr
+### [Software Engineer, AI Capture](https://www.linkedin.com/jobs/view/4443214388/) — The Curly Doggo Company
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-07-28
 
-### [Hardware Analytics Engineer](https://www.linkedin.com/jobs/view/4446175601/) — Cerebras
+### [Data Science Engineer](https://www.linkedin.com/jobs/view/4420675769/) — Lawrence Livermore National Laboratory
+- 📍 **Location:** Livermore, CA
+- 🕒 **Posted:** 2026-07-28
+
+### [Software Engineer, Data Product Platform](https://www.linkedin.com/jobs/view/4443205470/) — The Curly Doggo Company
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-07-28
+
+### [(USA) Senior, Data Scientist](https://www.linkedin.com/jobs/view/4445438873/) — Walmart
 - 📍 **Location:** Sunnyvale, CA
+- 💰 **Salary:** $117,000.00/yr - $234,000.00/yr
 - 🕒 **Posted:** 2026-07-28
 
-### [Python Software Developer - Remote](https://www.linkedin.com/jobs/view/4445429471/) — YO AI Labs
+### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4445435994/) — Employia
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-07-28
 
-### [Python Software Developer - Remote](https://www.linkedin.com/jobs/view/4445430430/) — YO AI Labs
-- 📍 **Location:** San Jose, CA
+### [Full Stack Engineer](https://www.linkedin.com/jobs/view/4443223475/) — Quadric
+- 📍 **Location:** Burlingame, CA
 - 🕒 **Posted:** 2026-07-28
 
-### [Site Reliability Engineer](https://www.linkedin.com/jobs/view/4380540540/) — Baseten
+### [Software Engineer III - Back End](https://www.linkedin.com/jobs/view/4445449087/) — Walmart
+- 📍 **Location:** Sunnyvale, CA
+- 💰 **Salary:** $117,000.00/yr - $234,000.00/yr
+- 🕒 **Posted:** 2026-07-28
+
+### [Senior Robotics Software Engineer (C++ & Python)](https://www.linkedin.com/jobs/view/4443220409/) — Simbe
+- 📍 **Location:** San Francisco Bay Area
+- 💰 **Salary:** $150,000.00/yr - $230,000.00/yr
+- 🕒 **Posted:** 2026-07-28
+
+### [Software Engineer, Registry and Inventory](https://www.linkedin.com/jobs/view/4445450174/) — Benchling
 - 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $165,000.00/yr - $330,000.00/yr
+- 💰 **Salary:** $148,159.00/yr - $200,451.00/yr
 - 🕒 **Posted:** 2026-07-28
 
-### [Cloud Engineer](https://www.linkedin.com/jobs/view/4443202445/) — Horizontal Talent
-- 📍 **Location:** Foster City, CA
-- 🕒 **Posted:** 2026-07-28
-
-### [Embedded Systems Security Engineer](https://www.linkedin.com/jobs/view/4443215217/) — Horizontal Talent
-- 📍 **Location:** Foster City, CA
-- 🕒 **Posted:** 2026-07-28
-
-### [Lead Data Engineer - Delivery Lead](https://www.linkedin.com/jobs/view/4441838425/) — Capgemini
+### [Data Engineer, People Analytics](https://www.linkedin.com/jobs/view/4443209435/) — The Curly Doggo Company
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-07-28
 
-### [Data Science Analyst, Equity Research, Healthcare Team](https://www.linkedin.com/jobs/view/4446180389/) — Wellington Management
+### [(USA) Senior, Data Scientist](https://www.linkedin.com/jobs/view/4445441825/) — Walmart
+- 📍 **Location:** Sunnyvale, CA
+- 💰 **Salary:** $117,000.00/yr - $234,000.00/yr
+- 🕒 **Posted:** 2026-07-28
+
+### [(USA) Senior, Data Engineer](https://www.linkedin.com/jobs/view/4445441834/) — Walmart
+- 📍 **Location:** Sunnyvale, CA
+- 💰 **Salary:** $117,000.00/yr - $234,000.00/yr
+- 🕒 **Posted:** 2026-07-28
+
+### [Software Engineer, Collections Experience](https://www.linkedin.com/jobs/view/4443205469/) — The Curly Doggo Company
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-07-28
+
+### [Software Engineer, Web Infrastructure](https://www.linkedin.com/jobs/view/4443211454/) — The Curly Doggo Company
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-07-28
+
+### [Software Engineer, Developer Experience (Go Lead)](https://www.linkedin.com/jobs/view/4443215371/) — The Curly Doggo Company
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-07-28
+
+### [Senior DevOps Engineer](https://www.linkedin.com/jobs/view/4443214287/) — Plenful
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-07-28
+
+### [Security Engineer, Corporate Security](https://www.linkedin.com/jobs/view/4443216429/) — The Curly Doggo Company
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-07-28
+
+### [Security Engineer, Detection and Response, San Francisco](https://www.linkedin.com/jobs/view/4443222348/) — The Curly Doggo Company
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-07-28
+
+### [Control and Interlock Systems Engineer](https://www.linkedin.com/jobs/view/4446129848/) — Stanford University
+- 📍 **Location:** Menlo Park, CA
+- 🕒 **Posted:** 2026-07-28
+
+### [Software Engineer, AI Security](https://www.linkedin.com/jobs/view/4443209437/) — The Curly Doggo Company
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-07-28
+
+### [Software Engineer, Trust](https://www.linkedin.com/jobs/view/4443203610/) — The Curly Doggo Company
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-07-28
+
+### [Software Engineer](https://www.linkedin.com/jobs/view/4445454081/) — Siemens
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-07-28
 
-### [Lead Security Engineer [Multiple Positions Available]](https://www.linkedin.com/jobs/view/4446181486/) — JPMorganChase
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $221,000.00/yr - $260,000.00/yr
+### [Senior Robotics Software Engineer](https://www.linkedin.com/jobs/view/4445467004/) — MaC Venture Capital
+- 📍 **Location:** New York City Metropolitan Area
 - 🕒 **Posted:** 2026-07-28
 
-### [Full Stack Engineer - Associate](https://www.linkedin.com/jobs/view/4445425595/) — Intelligentsia Capital
+### [Data Scientist](https://www.linkedin.com/jobs/view/4445441998/) — ALGOTEQUE Innovation Hub
+- 📍 **Location:** Rahway, NJ
+- 🕒 **Posted:** 2026-07-28
+
+### [Senior Java Software Engineer](https://www.linkedin.com/jobs/view/4443202665/) — Fanatics
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-07-28
 
-### [UI Frontend Engineer - Associate](https://www.linkedin.com/jobs/view/4445431561/) — Intelligentsia Capital
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-07-28
-
-### [Sr. Systems Engineer (Dedicated)](https://www.linkedin.com/jobs/view/4381145453/) — Atlas Technica
-- 📍 **Location:** New York, NY
+### [Senior Backend Engineer – AVP](https://www.linkedin.com/jobs/view/4443216311/) — Barclays
+- 📍 **Location:** Whippany, NJ
 - 🕒 **Posted:** 2026-07-28
