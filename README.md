@@ -60,7 +60,9 @@ Both workflows keep a GitHub history of generated digests: result files are comm
 
 ### Interactive triage dashboard — `triage.html`
 
-A single-file dashboard hosted on GitHub Pages that merges all three latest source JSONs into one filterable cockpit: search, role/seniority/source filters, save/applied/dismiss buttons persisted in localStorage, top-companies + role-mix charts, and an "export saved as Claude prompt" action.
+A single-file dashboard hosted on GitHub Pages that merges all the latest source JSONs into one filterable cockpit: search, role/seniority/source filters, save/applied/dismiss buttons persisted in localStorage, top-companies + role-mix charts, and Export/Import buttons for backing up your triage decisions to a file.
+
+Triage state lives in two localStorage keys, deliberately kept apart: `jobTriage:v2` holds your decisions (small, merged on every write, never dropped) and `jobTriage:cache:v1` holds a capped copy of the job list (bulky, disposable, so a quota failure there can't cost you a decision). Every write merges against what's already stored — newest timestamp per job wins — so a second browser window refreshing in the background can no longer overwrite decisions it never saw. Open `triage.html?selftest=1` to run the merge-rule assertion suite.
 
 **View it:** [`https://ernestod1998.github.io/Job_Scraper/triage.html`](https://ernestod1998.github.io/Job_Scraper/triage.html)
 

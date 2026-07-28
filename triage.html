@@ -40,6 +40,12 @@
   .wrap { max-width: 1180px; margin: 0 auto; padding: 28px 24px 64px; }
 
   header { display: flex; align-items: baseline; gap: 16px; margin-bottom: 4px; flex-wrap: wrap; }
+
+  /* Loud on purpose: a silent save failure is what turned a bug into data loss. */
+  .save-error { margin: 8px 0 12px; padding: 10px 14px; border-radius: 6px;
+    background: rgba(220, 38, 38, 0.14); border: 1px solid #dc2626; color: var(--ink);
+    font-size: 13px; display: flex; align-items: center; gap: 10px; flex-wrap: wrap; }
+  .save-error[hidden] { display: none; }
   h1 { font-size: 26px; margin: 0; letter-spacing: -0.01em; }
   .sub { color: var(--muted); font-size: 13px; }
   .grow { flex: 1; }
@@ -247,7 +253,12 @@
   <span class="grow"></span>
   <button type="button" class="iconbtn" id="refresh-btn" title="Re-fetch all sources">↻ Refresh</button>
   <button type="button" class="iconbtn" id="paste-btn">Paste fresh JSON</button>
+  <button type="button" class="iconbtn" id="export-btn" title="Download your triage decisions as a backup">↓ Export</button>
+  <button type="button" class="iconbtn" id="import-btn" title="Merge decisions from a backup file">↑ Import</button>
+  <input type="file" id="import-file" accept="application/json,.json" hidden>
 </header>
+
+<div id="save-error" class="save-error" role="alert" aria-live="assertive" hidden></div>
 
 <div class="kpis">
   <div class="kpi"><div class="num" id="kpi-total">0</div><div class="lbl">Total</div></div>
@@ -356,13 +367,112 @@
   let SCORES = {};
 
   // ---------- Persistence ----------
-  const STORAGE_KEY = 'jobTriage:v1';
+  // Two keys, deliberately separate. Decisions are small and precious; the job
+  // cache is bulky and disposable. v1 kept both under one key, so the corpus's
+  // size problem became the decisions' data-loss problem — and because every
+  // write was a wholesale overwrite, a stale second window could silently erase
+  // a batch of dismissals just by auto-refreshing. Never re-couple these.
+  const DECIDE_KEY = 'jobTriage:v2';        // written FIRST, merged, never dropped
+  const CACHE_KEY  = 'jobTriage:cache:v1';  // written SECOND, plain overwrite
+  const LEGACY_KEY = 'jobTriage:v1';
+  const CACHE_CAP  = 3000;                  // freshest untriaged jobs kept for failed fetches
+                                            // (~750KB — big enough to stay useful, small
+                                            // enough that the write is cheap and safe)
+  const TOMB_MS    = 60 * 86400000;         // tombstones GC'd after 60 days
+
+  // A decision is { s, t }. `s` is 'saved' | 'applied' | 'dismissed', or null for
+  // a tombstone — an un-toggled decision we keep on purpose, so a stale window's
+  // merge can't resurrect something the user just cleared. `t` decides every merge.
+  function decide(s, t) { return { s: s || null, t: t == null ? Date.now() : t }; }
+
+  // Read a decision's status, or null. EVERY consumer must go through this:
+  // state.triage[url] is an object now, so `|| 'active'` yields "[object Object]"
+  // and a bare truthiness check is true even for a tombstone.
+  function tri(url) {
+    const d = state.triage[url];
+    return d && d.s ? d.s : null;
+  }
+
+  function readJson(key) {
+    try { return JSON.parse(localStorage.getItem(key)) || null; }
+    catch { return null; }
+  }
+
+  // Coerce anything we load into the {s,t} shape — tolerates v1 strings and junk.
+  function normalizeTriage(raw) {
+    const out = {};
+    for (const url in (raw || {})) {
+      const d = raw[url];
+      if (typeof d === 'string') out[url] = decide(d, 0);
+      else if (d && typeof d === 'object') out[url] = decide(d.s, d.t || 0);
+    }
+    return out;
+  }
+
+  // The one merge rule everything depends on: per URL, the newer timestamp wins.
+  // Used by save(), the cross-window storage event, and Import.
+  // KEEP IN SYNC WITH: sync/api/triage.js (Phase 2 server-side merge).
+  function mergeTriage(base, incoming) {
+    const out = { ...(base || {}) };
+    for (const url in (incoming || {})) {
+      const inc = incoming[url], cur = out[url];
+      if (!cur || (inc.t || 0) > (cur.t || 0)) out[url] = inc;
+    }
+    return out;
+  }
+
+  // v1 → v2: split the single blob into decisions and cache. t:0 so that any
+  // decision made after the upgrade always beats a migrated one.
+  function migrateLegacy() {
+    const old = readJson(LEGACY_KEY);
+    if (!old || !old.triage) return null;
+    const triage = normalizeTriage(old.triage);
+    const jobs = (old.jobs || []).filter(j => j && j.url);
+    for (const url in triage) triage[url].t = 0;
+    return { triage, jobs };
+  }
+
   const state = (() => {
-    try { return JSON.parse(localStorage.getItem(STORAGE_KEY)) || {}; }
-    catch { return {}; }
+    const decided = readJson(DECIDE_KEY);
+    let cached    = readJson(CACHE_KEY);
+    // Always attempt the migration, never just "when v2 is missing". An empty or
+    // partial v2 would otherwise orphan a full v1 forever — the user's entire
+    // history, silently ignored. Merging is safe because every migrated decision
+    // carries t:0 and therefore loses to any real decision made since.
+    const legacy = migrateLegacy();
+
+    const s = { triage: {}, jobs: [], ...(decided || {}) };
+    s.triage = normalizeTriage(s.triage);
+    s.jobs = (Array.isArray(s.jobs) ? s.jobs : []).filter(j => j && j.url);
+
+    if (legacy) {
+      s.triage = mergeTriage(legacy.triage, s.triage);   // v2 wins on conflict (t > 0)
+      const known = new Set(s.jobs.map(j => j.url));
+      for (const j of legacy.jobs) {
+        if (s.triage[j.url] && !known.has(j.url)) { s.jobs.push(j); known.add(j.url); }
+      }
+      // Untriaged legacy jobs are disposable, but there's no reason to bin them —
+      // merge them in behind whatever the cache already holds rather than only
+      // seeding when the cache happens to be empty.
+      const cacheJobs = ((cached && cached.jobs) || []).slice();
+      const cachedUrls = new Set(cacheJobs.map(j => j && j.url));
+      for (const j of legacy.jobs) {
+        if (!s.triage[j.url] && !cachedUrls.has(j.url)) { cacheJobs.push(j); cachedUrls.add(j.url); }
+      }
+      cached = { jobs: cacheJobs };
+    }
+
+    // Fold the disposable cache in behind the triaged jobs. This is what keeps
+    // the dashboard populated when a source fetch fails — loadJobs() tolerates
+    // partial failure, and all_jobs.json is ~1.9MB, the likeliest to drop.
+    const have = new Set(s.jobs.map(j => j.url));
+    for (const j of ((cached && cached.jobs) || [])) {
+      if (j && j.url && !have.has(j.url)) { s.jobs.push(j); have.add(j.url); }
+    }
+
+    s._pendingLegacy = !!legacy;   // v1 is removed only after v2 is verified on disk
+    return s;
   })();
-  state.triage = state.triage || {};
-  state.jobs = state.jobs || [];
 
   // ---------- Classifiers ----------
   function classifyRole(title) {
@@ -531,12 +641,15 @@
       if (w) { primary._salMin = w._salMin; primary._salMax = w._salMax; primary._salDisp = w._salDisp; }
     }
     // Consolidate triage onto the primary URL (highest-priority decision wins).
-    let best = null, bestP = 0;
+    // Carry the ORIGINAL timestamp forward — never Date.now(). This runs inside
+    // dedupe() on every render, so stamping "now" would mint artificially-new
+    // decisions that then beat genuine ones made on another device.
+    let best = null, bestP = 0, bestT = 0;
     for (const j of cluster) {
-      const st = state.triage[j.url], p = TRIAGE_PRIORITY[st] || 0;
-      if (st && p > bestP) { best = st; bestP = p; }
+      const st = tri(j.url), p = TRIAGE_PRIORITY[st] || 0;
+      if (st && p > bestP) { best = st; bestP = p; bestT = (state.triage[j.url] || {}).t || 0; }
     }
-    if (best && state.triage[primary.url] !== best) state.triage[primary.url] = best;
+    if (best && tri(primary.url) !== best) state.triage[primary.url] = decide(best, bestT);
     return primary;
   }
 
@@ -699,7 +812,7 @@
     if (except !== 'role'   && filters.role.size   && !filters.role.has(j._role)) return false;
     if (except !== 'sen'    && filters.sen.size    && !filters.sen.has(j._sen))   return false;
     if (except !== 'state') {
-      const st = state.triage[j.url] || 'active';
+      const st = tri(j.url) || 'active';
       if (!filters.state.has(st)) return false;
     }
     if (except !== 'days' && filters.days != null) {
@@ -810,7 +923,7 @@
     const counts = { active: 0, saved: 0, applied: 0, dismissed: 0 };
     VIEW.forEach(j => {
       if (!matchesFilters(j, 'state')) return;
-      counts[state.triage[j.url] || 'active']++;
+      counts[tri(j.url) || 'active']++;
     });
     opts.forEach(([k, label]) => {
       const active = filters.state.has(k);
@@ -831,8 +944,8 @@
   function renderKpis() {
     $('kpi-total').textContent = VIEW.length;
     $('kpi-new').textContent = (SEED.new_jobs || []).length || SEED.new_count || 0;
-    const saved = VIEW.filter(j => state.triage[j.url] === 'saved').length;
-    const applied = VIEW.filter(j => state.triage[j.url] === 'applied').length;
+    const saved = VIEW.filter(j => tri(j.url) === 'saved').length;
+    const applied = VIEW.filter(j => tri(j.url) === 'applied').length;
     $('kpi-saved').textContent = saved;
     $('kpi-applied').textContent = applied;
   }
@@ -908,7 +1021,7 @@
       return;
     }
     el.innerHTML = jobs.map(j => {
-      const st = state.triage[j.url] || 'active';
+      const st = tri(j.url) || 'active';
       const srcs = j._srcs || [j._src];
       const srcBadges = srcs.map(s => `<span class="src ${s.toLowerCase()}">${s}</span>`).join('');
       const sal = j._salDisp || j.salary;
@@ -1149,12 +1262,91 @@
     for (const k in j) if (k[0] !== '_' && k !== 'description') o[k] = j[k];
     return o;
   }
-  function save() {
-    try {
-      const slim = { ...state, jobs: state.jobs.map(slimJob) };
-      localStorage.setItem(STORAGE_KEY, JSON.stringify(slim));
+  // Drop tombstones nobody needs any more, so the decision map stays bounded.
+  function gcTombstones(triage) {
+    const cutoff = Date.now() - TOMB_MS;
+    const out = {};
+    for (const url in triage) {
+      const d = triage[url];
+      if (!d.s && (d.t || 0) < cutoff) continue;
+      out[url] = d;
     }
-    catch (e) { console.warn('[save] localStorage write failed:', e.message); }
+    return out;
+  }
+
+  // Persist. Decisions go first, in their own try/catch, MERGED against whatever
+  // is already on disk — that merge is the actual fix for the reported bug: a
+  // second window refreshing can no longer overwrite decisions it never saw.
+  // The bulky job cache is written second and separately, so a quota failure
+  // there costs a redundant copy of public data and nothing else.
+  // Build the payload from an explicit shape, never {...state} — spreading the
+  // whole in-memory state is what dragged the 7,500-job corpus into storage.
+  function save() {
+    let ok = false;
+    try {
+      const stored = readJson(DECIDE_KEY);
+      state.triage = gcTombstones(mergeTriage(stored && stored.triage, state.triage));
+
+      const keep = new Map();
+      for (const j of ((stored && stored.jobs) || [])) if (j && j.url && tri(j.url)) keep.set(j.url, j);
+      for (const j of state.jobs) if (tri(j.url)) keep.set(j.url, slimJob(j));
+
+      const decided = { v: 2, triage: state.triage, jobs: [...keep.values()] };
+      if (state.code) decided.code = state.code;
+      localStorage.setItem(DECIDE_KEY, JSON.stringify(decided));
+      ok = true;
+      clearSaveError();
+      finishLegacyMigration(decided);
+    } catch (e) {
+      reportSaveError(e);
+    }
+
+    // Disposable cache — best effort, never allowed to affect the above.
+    try {
+      // Keep the FRESHEST, not an arbitrary prefix — state.jobs is ordered by how
+      // things were merged, so slicing it raw would cache a random slab and drop
+      // the newest postings, which are the ones worth seeing when a fetch fails.
+      const cache = state.jobs
+        .filter(j => !tri(j.url))
+        .sort((a, b) => (jobFreshMs(b) || 0) - (jobFreshMs(a) || 0))
+        .slice(0, CACHE_CAP)
+        .map(slimJob);
+      localStorage.setItem(CACHE_KEY, JSON.stringify({ jobs: cache, at: Date.now() }));
+    } catch (e) {
+      console.warn('[save] job cache write skipped:', e.message);
+      try { localStorage.removeItem(CACHE_KEY); } catch {}
+    }
+    return ok;
+  }
+
+  // Only now is it safe to drop v1: read v2 back and confirm it parses with the
+  // decision count we just wrote. A migration that removes v1 and then fails its
+  // own write would destroy every decision the user has ever made.
+  function finishLegacyMigration(written) {
+    if (!state._pendingLegacy) return;
+    const back = readJson(DECIDE_KEY);
+    if (!back || !back.triage) return;
+    if (Object.keys(back.triage).length !== Object.keys(written.triage).length) return;
+    try { localStorage.removeItem(LEGACY_KEY); } catch { return; }
+    state._pendingLegacy = false;
+    console.info('[migrate] jobTriage:v1 split into v2 + cache, then removed');
+  }
+
+  // A failed save used to be a console.warn — which is exactly how a bug became
+  // silent data loss. Say it out loud, on screen.
+  function reportSaveError(e) {
+    console.error('[save] decisions write FAILED:', e && e.message);
+    const el = $('save-error');
+    if (!el) return;
+    el.innerHTML = '⚠ Couldn\'t save your triage decisions — they may be lost on reload. ' +
+      '<button type="button" class="iconbtn" id="save-retry">Retry</button>';
+    el.hidden = false;
+    const btn = $('save-retry');
+    if (btn) btn.onclick = () => save();
+  }
+  function clearSaveError() {
+    const el = $('save-error');
+    if (el) el.hidden = true;
   }
 
   // ---------- Prune (keeps localStorage bounded) ----------
@@ -1167,7 +1359,7 @@
     const cutoff = Date.now() - 30 * 86400000;
     const before = state.jobs.length;
     state.jobs = state.jobs.filter(j => {
-      if (state.triage[j.url]) return true;
+      if (tri(j.url)) return true;   // tri(), not truthiness — a tombstone is an object
       if (EXCLUDED_TITLE_RE.test(j.title || '')) return false;
       const t = jobFreshMs(j);
       return t == null || t >= cutoff;
@@ -1220,8 +1412,10 @@
       if (s.outreach_opener) copy(s.outreach_opener);
       return;
     }
-    if (state.triage[url] === act) delete state.triage[url];
-    else state.triage[url] = act;
+    // Toggling off writes a tombstone rather than deleting: a stale window that
+    // still remembers the old decision would otherwise resurrect it on merge.
+    state.triage[url] = tri(url) === act ? decide(null) : decide(act);
+    save();        // persist FIRST — a throwing render must never cost a decision
     renderAll();
   });
 
@@ -1321,14 +1515,135 @@
     catch { toast('Copy failed — select text manually'); }
   }
 
+  // ---------- Export / Import ----------
+  // Decisions only, never the job cache — the cache is disposable public data
+  // and would bloat the file. This is the offline backup, the way to move
+  // decisions between devices by hand, and the recovery path if a migration
+  // ever goes wrong. localStorage is per-device and Safari evicts it after ~7
+  // days without a visit, so having a file is worth the two buttons.
+  function exportDecisions() {
+    const payload = readJson(DECIDE_KEY) || { v: 2, triage: state.triage, jobs: [] };
+    const url = URL.createObjectURL(
+      new Blob([JSON.stringify(payload, null, 2)], { type: 'application/json' }));
+    const a = document.createElement('a');
+    a.href = url;
+    a.download = `job-triage-${new Date().toISOString().slice(0, 10)}.json`;
+    a.click();
+    URL.revokeObjectURL(url);
+    toast(`Exported ${Object.keys(payload.triage || {}).length} decision(s)`);
+  }
+
+  function importDecisions(file) {
+    const rd = new FileReader();
+    rd.onload = () => {
+      let data;
+      try { data = JSON.parse(rd.result); }
+      catch { toast('Import failed — not valid JSON'); return; }
+      if (!data || !data.triage) { toast('Import failed — no decisions in that file'); return; }
+      const before = Object.keys(state.triage).length;
+      state.triage = mergeTriage(state.triage, normalizeTriage(data.triage));
+      const have = new Set(state.jobs.map(j => j.url));
+      for (const j of (data.jobs || [])) {
+        if (j && j.url && !have.has(j.url)) { enrich(j); state.jobs.push(j); have.add(j.url); }
+      }
+      save();
+      renderAll();
+      const added = Object.keys(state.triage).length - before;
+      toast(added ? `Imported — ${added} new decision(s)` : 'Imported — nothing new');
+    };
+    rd.onerror = () => toast('Import failed — could not read that file');
+    rd.readAsText(file);
+  }
+
+  $('export-btn').onclick = exportDecisions;
+  $('import-btn').onclick = () => $('import-file').click();
+  $('import-file').addEventListener('change', e => {
+    const f = e.target.files && e.target.files[0];
+    if (f) importDecisions(f);
+    e.target.value = '';   // let the same file be re-picked
+  });
+
   // ---------- Refresh button + tab-focus auto-refresh ----------
   $('refresh-btn').onclick = refresh;
   document.addEventListener('visibilitychange', () => {
     if (!document.hidden && Date.now() - (state._lastLoaded || 0) > 5 * 60 * 1000) refresh();
   });
 
+  // Another window changed its decisions — merge them in and re-render, so two
+  // open windows converge instead of drifting apart and fighting over the key.
+  window.addEventListener('storage', e => {
+    if (e.key !== DECIDE_KEY || !e.newValue) return;
+    let incoming;
+    try { incoming = JSON.parse(e.newValue); } catch { return; }
+    if (!incoming || !incoming.triage) return;
+    const before = JSON.stringify(state.triage);
+    state.triage = mergeTriage(state.triage, normalizeTriage(incoming.triage));
+    if (JSON.stringify(state.triage) === before) return;   // nothing new to show
+    renderAll();
+  });
+
+  // ---------- Self-test (?selftest=1) ----------
+  // These cover the merge rules everything else trusts. A bad merge fails
+  // silently — which is this bug's entire failure mode — so this suite is the
+  // regression net, not polish. Pure functions only: no network, no writes.
+  function runSelfTest() {
+    const results = [];
+    const ok = (name, cond) => results.push({ name, pass: !!cond });
+    const T = TOMB_MS, now = Date.now();
+
+    // The merge rule: newer timestamp wins, symmetrically.
+    ok('newer t wins over older',
+      mergeTriage({ a: decide('saved', 100) }, { a: decide('dismissed', 200) }).a.s === 'dismissed');
+    ok('older t cannot erase newer',
+      mergeTriage({ a: decide('dismissed', 200) }, { a: decide('saved', 100) }).a.s === 'dismissed');
+    ok('a decision absent locally is adopted',
+      mergeTriage({}, { a: decide('saved', 50) }).a.s === 'saved');
+    ok('a stale window with NO decision cannot erase one (the reported bug)',
+      mergeTriage({ a: decide('dismissed', 200) }, {}).a.s === 'dismissed');
+
+    // Tombstones: un-toggling must not be undone by a stale copy.
+    ok('newer tombstone clears an older decision',
+      mergeTriage({ a: decide('dismissed', 100) }, { a: decide(null, 200) }).a.s === null);
+    ok('older tombstone cannot block a newer decision',
+      mergeTriage({ a: decide(null, 100) }, { a: decide('dismissed', 200) }).a.s === 'dismissed');
+    ok('gc drops tombstones past the window',
+      Object.keys(gcTombstones({ a: decide(null, now - T - 1) })).length === 0);
+    ok('gc keeps fresh tombstones',
+      Object.keys(gcTombstones({ a: decide(null, now) })).length === 1);
+    ok('gc never drops a live decision, however old',
+      Object.keys(gcTombstones({ a: decide('saved', 0) })).length === 1);
+
+    // v1 → v2 coercion.
+    const norm = normalizeTriage({ x: 'dismissed', y: { s: 'saved', t: 42 } });
+    ok('v1 string coerces to {s,t} with t:0', norm.x.s === 'dismissed' && norm.x.t === 0);
+    ok('v2 object survives normalize intact', norm.y.s === 'saved' && norm.y.t === 42);
+    ok('a migrated decision loses to any later one',
+      mergeTriage(norm, { x: decide('saved', 1) }).x.s === 'saved');
+
+    // tri(): the accessor guarding the tombstone-truthiness trap.
+    const keep = state.triage;
+    state.triage = { live: decide('dismissed', 1), tomb: decide(null, 1) };
+    ok('tri() returns the status string', tri('live') === 'dismissed');
+    ok('tri() returns null for a tombstone (NOT a truthy object)', tri('tomb') === null);
+    ok('tri() returns null for an unknown url', tri('nope') === null);
+    state.triage = keep;
+
+    const pass = results.filter(r => r.pass).length, fail = results.length - pass;
+    results.forEach(r => console[r.pass ? 'info' : 'error'](`${r.pass ? 'PASS' : 'FAIL'}  ${r.name}`));
+    console.info(`[selftest] ${pass}/${results.length} passed`);
+    const el = $('jobs');
+    if (el) {
+      el.innerHTML = '<pre style="padding:16px;font-size:13px;line-height:1.8;white-space:pre-wrap">' +
+        results.map(r => `${r.pass ? '✓' : '✗'}  ${escape(r.name)}`).join('\n') +
+        `\n\n${fail ? '✗ ' + fail + ' FAILED' : '✓ all ' + pass + ' passed'}</pre>`;
+    }
+    $('snapshot-line').textContent = fail ? `self-test: ${fail} FAILED` : `self-test: all ${pass} passed`;
+    return fail === 0;
+  }
+
   // ---------- Initial load ----------
-  refresh();
+  if (new URLSearchParams(location.search).has('selftest')) runSelfTest();
+  else refresh();
 </script>
 </body>
 </html>
