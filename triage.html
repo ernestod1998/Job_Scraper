@@ -46,6 +46,19 @@
     background: rgba(220, 38, 38, 0.14); border: 1px solid #dc2626; color: var(--ink);
     font-size: 13px; display: flex; align-items: center; gap: 10px; flex-wrap: wrap; }
   .save-error[hidden] { display: none; }
+
+  /* Sync status dot on the toolbar button — sync is on by default, so it has to
+     be visible and reversible rather than something that happens to you. */
+  .sync-dot { display: inline-block; width: 7px; height: 7px; border-radius: 50%;
+    background: var(--muted); margin-left: 2px; vertical-align: middle; }
+  .sync-dot.ok    { background: var(--applied); }
+  .sync-dot.busy  { background: var(--save); }
+  .sync-dot.error { background: #dc2626; }
+  .sync-dot.off   { background: transparent; border: 1px solid var(--muted); }
+  .sync-state { font-size: 13px; }
+  .sync-row { display: flex; gap: 8px; margin-bottom: 12px; flex-wrap: wrap; }
+  .sync-row .search { flex: 1; min-width: 200px; font-family: ui-monospace, Menlo, monospace;
+    font-size: 12px; }
   h1 { font-size: 26px; margin: 0; letter-spacing: -0.01em; }
   .sub { color: var(--muted); font-size: 13px; }
   .grow { flex: 1; }
@@ -256,6 +269,7 @@
   <button type="button" class="iconbtn" id="export-btn" title="Download your triage decisions as a backup">↓ Export</button>
   <button type="button" class="iconbtn" id="import-btn" title="Merge decisions from a backup file">↑ Import</button>
   <input type="file" id="import-file" accept="application/json,.json" hidden>
+  <button type="button" class="iconbtn" id="sync-btn" title="Sync your decisions to your other devices">⇅ Sync <span id="sync-dot" class="sync-dot"></span></button>
 </header>
 
 <div id="save-error" class="save-error" role="alert" aria-live="assertive" hidden></div>
@@ -348,6 +362,29 @@
   </div>
 </div>
 
+<div class="modal-bg" id="sync-bg" role="dialog" aria-modal="true" aria-labelledby="sync-title">
+  <div class="modal">
+    <button type="button" class="modal-close-x" id="sync-close-x" aria-label="Close">✕</button>
+    <h2 id="sync-title">Sync across devices</h2>
+    <p id="sync-state" class="sync-state">Checking…</p>
+    <p>Open this link on your phone to put it on the same account. Anyone with the
+       link can read and change your decisions, so treat it like a password.</p>
+    <div class="sync-row">
+      <input type="text" id="sync-link" class="search" readonly aria-label="Your sync link">
+      <button type="button" class="btn" id="sync-copy">Copy link</button>
+    </div>
+    <p>Or paste a code from another device — your decisions are merged in, never replaced.</p>
+    <div class="sync-row">
+      <input type="text" id="sync-paste" class="search" placeholder="paste sync code" aria-label="Paste a sync code">
+      <button type="button" class="btn ghost" id="sync-adopt">Use code</button>
+    </div>
+    <div class="modal-actions">
+      <button type="button" class="btn ghost" id="sync-toggle">Turn sync off</button>
+      <button type="button" class="btn" id="sync-done">Done</button>
+    </div>
+  </div>
+</div>
+
 <script>
   // ---------- Sources ----------
   const SOURCES = [
@@ -379,6 +416,7 @@
                                             // (~750KB — big enough to stay useful, small
                                             // enough that the write is cheap and safe)
   const TOMB_MS    = 60 * 86400000;         // tombstones GC'd after 60 days
+  const DISMISS_MS = 30 * 86400000;         // dismissals GC'd after 30 days
 
   // A decision is { s, t }. `s` is 'saved' | 'applied' | 'dismissed', or null for
   // a tombstone — an un-toggled decision we keep on purpose, so a stale window's
@@ -1262,13 +1300,34 @@
     for (const k in j) if (k[0] !== '_' && k !== 'description') o[k] = j[k];
     return o;
   }
-  // Drop tombstones nobody needs any more, so the decision map stays bounded.
-  function gcTombstones(triage) {
-    const cutoff = Date.now() - TOMB_MS;
+  // Bound the decision map so it can't grow forever and eventually exceed the
+  // sync body cap, which would stop syncing permanently.
+  //
+  // Safe because all_jobs.json prunes at 14 days (ALL_JOBS_PRUNE_DAYS in
+  // scrape_jobs.py): any job still in the feed was first seen within 14 days,
+  // so a dismissal older than 30 days can't refer to anything visible and
+  // dropping it cannot resurrect a job.
+  //
+  //   saved / applied  kept forever — that's the user's application history
+  //   dismissed        dropped after 30 days
+  //   tombstones       dropped after 60 days
+  //   t === 0          NEVER aged out: a migrated Phase 1 decision whose real
+  //                    age is unknown, possibly dismissed yesterday. Ageing
+  //                    those would silently un-dismiss a migrating user's lot.
+  //
+  // KEEP IN SYNC WITH: sync/merge.js — sync/merge.test.mjs extracts this exact
+  // function and fails CI if the two disagree.
+  function gcDecisions(triage, nowMs) {
+    const now = nowMs == null ? Date.now() : nowMs;
     const out = {};
-    for (const url in triage) {
+    for (const url in (triage || {})) {
       const d = triage[url];
-      if (!d.s && (d.t || 0) < cutoff) continue;
+      if (!d) continue;
+      const t = d.t || 0;
+      if (t !== 0) {
+        if (!d.s && t < now - TOMB_MS) continue;
+        if (d.s === 'dismissed' && t < now - DISMISS_MS) continue;
+      }
       out[url] = d;
     }
     return out;
@@ -1285,7 +1344,7 @@
     let ok = false;
     try {
       const stored = readJson(DECIDE_KEY);
-      state.triage = gcTombstones(mergeTriage(stored && stored.triage, state.triage));
+      state.triage = gcDecisions(mergeTriage(stored && stored.triage, state.triage));
 
       const keep = new Map();
       for (const j of ((stored && stored.jobs) || [])) if (j && j.url && tri(j.url)) keep.set(j.url, j);
@@ -1316,6 +1375,9 @@
       console.warn('[save] job cache write skipped:', e.message);
       try { localStorage.removeItem(CACHE_KEY); } catch {}
     }
+    // Mirror to the other devices. Debounced, no-ops when nothing changed, and
+    // can never affect whether the local write above succeeded.
+    if (typeof schedulePush === 'function') schedulePush();
     return ok;
   }
 
@@ -1563,10 +1625,224 @@
     e.target.value = '';   // let the same file be re-picked
   });
 
+  // ---------- Cross-device sync ----------
+  // Your decisions live in your browser; this mirrors them to a small endpoint
+  // so a phone and a laptop can share them. The server never sees your code —
+  // only SHA-256(code), sent as a header (never a query string, because request
+  // lines end up in access logs). It re-runs the same merge rules the browser
+  // does: two devices racing is the same bug as two windows racing.
+  //
+  // Strictly additive: if this endpoint is slow, down, or deleted, everything
+  // above still works exactly as it did before sync existed.
+  const SYNC_URL = 'https://job-triage-sync.vercel.app/api/triage';
+  const SYNC_OFF_KEY = 'jobTriage:syncOff';
+  const B32 = 'abcdefghijklmnopqrstuvwxyz234567';   // 26 chars x 5 bits = 130 bits
+
+  const sync = { on: false, key: null, lastPushed: '', lastPushAt: 0, timer: null };
+
+  function syncAvailable() {
+    // crypto.subtle only exists in a secure context. HTTPS and localhost are
+    // fine; someone opening this over plain http on a LAN IP is not. Degrade,
+    // never throw — a missing API must not take the dashboard down with it.
+    return !!(window.crypto && crypto.subtle && crypto.getRandomValues && window.fetch);
+  }
+
+  function newCode() {
+    const bytes = new Uint8Array(26);
+    crypto.getRandomValues(bytes);
+    // 256 is a multiple of 32, so masking a uniform byte stays uniform.
+    return [...bytes].map(b => B32[b & 31]).join('');
+  }
+
+  async function keyFor(code) {
+    const buf = await crypto.subtle.digest('SHA-256', new TextEncoder().encode(code));
+    return [...new Uint8Array(buf)].map(b => b.toString(16).padStart(2, '0')).join('');
+  }
+
+  function setSyncState(kind, detail) {
+    const dot = $('sync-dot'), label = $('sync-state');
+    if (dot) dot.className = 'sync-dot ' + kind;
+    if (!label) return;
+    label.textContent =
+      kind === 'ok'    ? 'Synced. Your decisions follow you to any device on this link.'
+    : kind === 'busy'  ? 'Syncing…'
+    : kind === 'off'   ? 'Sync is off. Decisions stay in this browser only.'
+    : kind === 'unavailable' ? 'Sync unavailable in this browser (needs a secure https connection).'
+    : `Not synced — ${detail || 'the sync service is unreachable'}. Your decisions are still saved here.`;
+  }
+
+  function syncPayload() {
+    return JSON.stringify({
+      triage: state.triage,
+      jobs: state.jobs.filter(j => tri(j.url)).map(slimJob),
+    });
+  }
+
+  // Merge whatever the server has into memory. Only re-render when something
+  // actually changed, or a pull would trigger a render which triggers a push.
+  function applyRemote(data) {
+    if (!data || !data.triage) return false;
+    const before = JSON.stringify(state.triage);
+    state.triage = gcDecisions(mergeTriage(state.triage, normalizeTriage(data.triage)));
+    const have = new Set(state.jobs.map(j => j.url));
+    for (const j of (data.jobs || [])) {
+      if (j && j.url && !have.has(j.url)) { enrich(j); state.jobs.push(j); have.add(j.url); }
+    }
+    if (JSON.stringify(state.triage) === before) return false;
+    save();
+    renderAll();
+    return true;
+  }
+
+  async function syncRequest(method, body) {
+    const opts = { method, headers: { 'x-triage-key': sync.key } };
+    if (body) {
+      opts.headers['content-type'] = 'application/json';
+      opts.body = body;
+    }
+    const r = await fetch(SYNC_URL, opts);
+    if (!r.ok) throw new Error('HTTP ' + r.status);
+    return r.json();
+  }
+
+  async function syncPull() {
+    if (!sync.on || !sync.key) return;
+    setSyncState('busy');
+    try {
+      const data = await syncRequest('GET');
+      if (data.disabled) { sync.on = false; setSyncState('off'); return; }
+      applyRemote(data);
+      setSyncState('ok');
+    } catch (e) { setSyncState('error', e.message); }
+  }
+
+  async function syncPush() {
+    if (!sync.on || !sync.key) return;
+    const body = syncPayload();
+    if (body === sync.lastPushed) return;
+    setSyncState('busy');
+    try {
+      const data = await syncRequest('POST', body);
+      if (data.disabled) { sync.on = false; setSyncState('off'); return; }
+      sync.lastPushed = body;
+      sync.lastPushAt = Date.now();
+      applyRemote(data);
+      setSyncState('ok');
+    } catch (e) { setSyncState('error', e.message); }
+  }
+
+  // Called from save(). Gates on the PAYLOAD, not on having rendered:
+  // _mergeCluster() rewrites state.triage on every render, so without this the
+  // page would POST continuously and two tabs plus a server would trade writes
+  // forever.
+  function schedulePush() {
+    if (!sync.on || !sync.key) return;
+    if (syncPayload() === sync.lastPushed) return;
+    clearTimeout(sync.timer);
+    sync.timer = setTimeout(syncPush, 2000);
+  }
+
+  // A phone backgrounding the tab must not eat the last few decisions sitting
+  // in that 2s debounce. `keepalive` survives unload and, unlike sendBeacon,
+  // can send the key header and be preflighted. Its body is capped at 64KB, so
+  // send only what changed since the last successful push.
+  function flushSync() {
+    if (!sync.on || !sync.key) return;
+    if (syncPayload() === sync.lastPushed) return;
+    clearTimeout(sync.timer);
+    const since = sync.lastPushAt;
+    const delta = {};
+    for (const url in state.triage) {
+      if ((state.triage[url].t || 0) >= since) delta[url] = state.triage[url];
+    }
+    if (!Object.keys(delta).length) return;
+    try {
+      fetch(SYNC_URL, {
+        method: 'POST',
+        keepalive: true,
+        headers: { 'content-type': 'application/json', 'x-triage-key': sync.key },
+        body: JSON.stringify({
+          triage: delta,
+          jobs: state.jobs.filter(j => delta[j.url]).map(slimJob),
+        }),
+      }).catch(() => {});
+    } catch { /* unload path — nothing useful to do */ }
+  }
+
+  function syncLink() {
+    return location.origin + location.pathname + '#sync=' + (state.code || '');
+  }
+
+  function renderSyncPanel() {
+    const link = $('sync-link');
+    if (link) link.value = state.code ? syncLink() : '';
+    const toggle = $('sync-toggle');
+    if (toggle) toggle.textContent = sync.on ? 'Turn sync off' : 'Turn sync on';
+  }
+
+  async function startSync() {
+    if (!syncAvailable()) { setSyncState('unavailable'); return; }
+    if (!state.code) { state.code = newCode(); save(); }
+    try { sync.key = await keyFor(state.code); }
+    catch { setSyncState('unavailable'); return; }
+    sync.on = true;
+    localStorage.removeItem(SYNC_OFF_KEY);
+    renderSyncPanel();
+    await syncPull();
+    schedulePush();
+  }
+
+  function stopSync() {
+    sync.on = false;
+    sync.key = null;
+    clearTimeout(sync.timer);
+    try { localStorage.setItem(SYNC_OFF_KEY, '1'); } catch {}
+    setSyncState('off');
+    renderSyncPanel();
+  }
+
+  function initSync() {
+    // A #sync=<code> link adopts that code. Strip it afterwards so it doesn't
+    // sit in the address bar or turn up in a screenshot.
+    const m = location.hash.match(/[#&]sync=([a-z2-7]{20,64})/i);
+    if (m) {
+      state.code = m[1].toLowerCase();
+      history.replaceState(null, '', location.pathname + location.search);
+      save();
+    }
+    if (localStorage.getItem(SYNC_OFF_KEY) === '1' && !m) { setSyncState('off'); renderSyncPanel(); return; }
+    startSync();
+  }
+
+  $('sync-btn').onclick = () => { renderSyncPanel(); $('sync-bg').classList.add('show'); };
+  $('sync-done').onclick = () => $('sync-bg').classList.remove('show');
+  $('sync-close-x').onclick = () => $('sync-bg').classList.remove('show');
+  $('sync-bg').addEventListener('click', e => {
+    if (e.target === $('sync-bg')) $('sync-bg').classList.remove('show');
+  });
+  $('sync-copy').onclick = () => { if (state.code) copy(syncLink()); };
+  $('sync-toggle').onclick = () => { sync.on ? stopSync() : startSync(); };
+  $('sync-adopt').onclick = () => {
+    const v = ($('sync-paste').value || '').trim().toLowerCase().replace(/^.*#sync=/, '');
+    if (!/^[a-z2-7]{20,64}$/.test(v)) { toast('That doesn\'t look like a sync code'); return; }
+    state.code = v;
+    save();
+    $('sync-paste').value = '';
+    // startSync() pulls and merges — adopting never replaces what's already here.
+    startSync().then(() => toast('Now syncing with that code'));
+  };
+
+  window.addEventListener('pagehide', flushSync);
+  document.addEventListener('visibilitychange', () => { if (document.hidden) flushSync(); });
+
   // ---------- Refresh button + tab-focus auto-refresh ----------
   $('refresh-btn').onclick = refresh;
   document.addEventListener('visibilitychange', () => {
-    if (!document.hidden && Date.now() - (state._lastLoaded || 0) > 5 * 60 * 1000) refresh();
+    if (document.hidden) return;
+    // Coming back to the tab is exactly when another device's decisions are
+    // most likely to be waiting, so pull regardless of the data-age check.
+    syncPull();
+    if (Date.now() - (state._lastLoaded || 0) > 5 * 60 * 1000) refresh();
   });
 
   // Another window changed its decisions — merge them in and re-render, so two
@@ -1607,11 +1883,11 @@
     ok('older tombstone cannot block a newer decision',
       mergeTriage({ a: decide(null, 100) }, { a: decide('dismissed', 200) }).a.s === 'dismissed');
     ok('gc drops tombstones past the window',
-      Object.keys(gcTombstones({ a: decide(null, now - T - 1) })).length === 0);
+      Object.keys(gcDecisions({ a: decide(null, now - T - 1) })).length === 0);
     ok('gc keeps fresh tombstones',
-      Object.keys(gcTombstones({ a: decide(null, now) })).length === 1);
+      Object.keys(gcDecisions({ a: decide(null, now) })).length === 1);
     ok('gc never drops a live decision, however old',
-      Object.keys(gcTombstones({ a: decide('saved', 0) })).length === 1);
+      Object.keys(gcDecisions({ a: decide('saved', 0) })).length === 1);
 
     // v1 → v2 coercion.
     const norm = normalizeTriage({ x: 'dismissed', y: { s: 'saved', t: 42 } });
@@ -1643,7 +1919,7 @@
 
   // ---------- Initial load ----------
   if (new URLSearchParams(location.search).has('selftest')) runSelfTest();
-  else refresh();
+  else { refresh(); initSync(); }
 </script>
 </body>
 </html>

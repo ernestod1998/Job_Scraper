@@ -1,0 +1,14 @@
+{
+  "name": "job-triage-sync",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Cross-device sync for the Job_Scraper triage dashboard. Deployed to Vercel from this directory via the CLI — deliberately NOT git-linked, because the scrapers push ~30 commits a day and each one would trigger a rebuild.",
+  "scripts": {
+    "test": "node merge.test.mjs"
+  },
+  "dependencies": {
+    "@upstash/redis": "^1.34.3",
+    "@upstash/ratelimit": "^2.0.5"
+  }
+}

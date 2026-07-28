@@ -64,6 +64,20 @@ A single-file dashboard hosted on GitHub Pages that merges all the latest source
 
 Triage state lives in two localStorage keys, deliberately kept apart: `jobTriage:v2` holds your decisions (small, merged on every write, never dropped) and `jobTriage:cache:v1` holds a capped copy of the job list (bulky, disposable, so a quota failure there can't cost you a decision). Every write merges against what's already stored — newest timestamp per job wins — so a second browser window refreshing in the background can no longer overwrite decisions it never saw. Open `triage.html?selftest=1` to run the merge-rule assertion suite.
 
+#### Cross-device sync — on by default
+
+**Your triage decisions leave your browser.** The ⇅ Sync button mirrors them to a small endpoint (`sync/`, deployed on Vercel, backed by Upstash Redis) so a phone and a laptop can share them. This is **on by default**; the dot on the button shows the current state and **Turn sync off** stops it completely, at which point nothing is uploaded and everything still works.
+
+What's stored: the decision (`saved` / `applied` / `dismissed`) for each job URL, plus the title/company of the jobs you triaged — that's what lets a saved role display on a phone that never fetched it. So the roles you applied to are held on a third-party server. Nothing else is: the bulky job cache never syncs, and there is no account, email, or profile data involved.
+
+How it identifies you: your browser generates a random 26-character code (~130 bits) and keeps it locally. The server only ever receives `SHA-256(code)`, sent as a request header — so it cannot learn your code, and the code never appears in a URL or a server log. To add a device, hit Sync → **Copy link** and open that link there. Anyone with the link can read and change your decisions, so treat it like a password. Pasting a code **merges** both devices' decisions; it never replaces either side.
+
+Losing the code means losing the bucket — the server only knows its hash, by design. Use **Export** for a backup file.
+
+Dismissals older than 30 days are garbage-collected (safe: `all_jobs.json` prunes at 14 days, so such a job can't reappear). **Saved and applied are kept forever.**
+
+The merge rule exists twice — inline in `triage.html` for the browser and in `sync/merge.js` for the server — because the dashboard is a single file with no build step. `sync/merge.test.mjs` extracts the browser's copy and asserts the two agree; CI fails on any drift.
+
 **View it:** [`https://ernestod1998.github.io/Job_Scraper/triage.html`](https://ernestod1998.github.io/Job_Scraper/triage.html)
 
 The dashboard fetches `jobs.json` / `linkedin_jobs.json` / `indeed_jobs.json` from the same repo at view time, so it always reflects the latest committed scrape. Refresh in the browser to see new data after a cron fire (Pages serves with ~1–2 min lag after each push). No bake-on-cron step in the scraper — `triage.html` is committed once and never modified by automation.

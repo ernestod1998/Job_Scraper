@@ -11,17 +11,21 @@ on:
     paths:
       - ci_commit_push.py
       - test_ci_commit_push.py
+      - triage.html
+      - sync/**
       - .github/workflows/*.yml
   pull_request:
     paths:
       - ci_commit_push.py
       - test_ci_commit_push.py
+      - triage.html
+      - sync/**
       - .github/workflows/*.yml
   workflow_dispatch:
 
 jobs:
   tests:
-    name: Commit/push merge tests
+    name: Commit/push + triage merge tests
     runs-on: ubuntu-latest
 
     permissions:
@@ -46,3 +50,16 @@ jobs:
 
       - name: Run tests
         run: python test_ci_commit_push.py
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      # triage.html carries an inline copy of the triage merge rules and
+      # sync/merge.js carries the server's. This extracts the browser's copy and
+      # asserts the two agree — silent drift between them would corrupt triage
+      # data, which is the failure this whole feature exists to prevent. No
+      # dependencies, no network.
+      - name: Triage merge-rule parity
+        run: node sync/merge.test.mjs
