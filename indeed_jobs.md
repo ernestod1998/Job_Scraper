@@ -1,79 +1,82 @@
 # 🟦 Indeed — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-07-29 22:34 UTC*
+*Last updated: 2026-07-29 23:40 UTC*
 
-**15 new role(s)** since last run · 181 total in last 24h
+**16 new role(s)** since last run · 183 total in last 24h
 
-### [Senior, Software Engineer - IOS](https://www.indeed.com/viewjob?jk=1c57f4cb62e68a6c) — Walmart
-- 📍 **Location:** Sunnyvale, CA, US
-- 💰 **Salary:** $117k–$234k/yr
+### [Machine Learning Engineer 5 - Ads Measurement](https://www.indeed.com/viewjob?jk=2ca69decf789c62b) — Netflix
+- 📍 **Location:** Los Gatos, CA, US
+- 💰 **Salary:** $466k–$750k/yr
 - 🕒 **Posted:** 2026-07-29
 
-### [Senior, Software Engineer - Android](https://www.indeed.com/viewjob?jk=aa74c7418965825e) — Walmart
+### [Applied Scientist II, ASCS AI Lab Team](https://www.indeed.com/viewjob?jk=a66b5e68d47a511d) — Amazon.com
 - 📍 **Location:** Sunnyvale, CA, US
-- 💰 **Salary:** $117k–$234k/yr
+- 💰 **Salary:** $172k–$222k/yr
 - 🕒 **Posted:** 2026-07-29
 
-### [Software Engineer III - iOS](https://www.indeed.com/viewjob?jk=47baedbd1ccb5988) — Walmart
-- 📍 **Location:** Sunnyvale, CA, US
-- 💰 **Salary:** $117k–$234k/yr
-- 🕒 **Posted:** 2026-07-29
-
-### [Sr. Software Engineer - Android Display & Graphics](https://www.indeed.com/viewjob?jk=6a0ff353085a14e7) — Rivian and Volkswagen Group Technologies
+### [Senior Frontend Software Engineer - Invoicing & Payments](https://www.indeed.com/viewjob?jk=e555b1e4f25d1e64) — PEBL
 - 📍 **Location:** Palo Alto, CA, US
-- 💰 **Salary:** $147k–$184k/yr
+- 💰 **Salary:** $146k–$201k/yr
 - 🕒 **Posted:** 2026-07-29
 
-### [Manager of Platform DevOps](https://www.indeed.com/viewjob?jk=8b6b63790813d8c4) — Zoom Communications
-- 📍 **Location:** San Jose, CA, US
-- 💰 **Salary:** $124k–$271k/yr
-- 🕒 **Posted:** 2026-07-29
-
-### [Senior Controls Infrastructure Engineer](https://www.indeed.com/viewjob?jk=e65fe74bea26619a) — Pacific Fusion
-- 📍 **Location:** San Leandro, CA, US
-- 💰 **Salary:** $138k–$207k/yr
-- 🕒 **Posted:** 2026-07-29
-
-### [Senior Controls Infrastructure Engineer](https://www.indeed.com/viewjob?jk=cf99f6450e125257) — Pacific Fusion
+### [Scientist/Sr. Scientist, Computational Chemistry](https://www.indeed.com/viewjob?jk=c520e84edb3f4a76) — Unknown
 - 📍 **Location:** San Francisco, CA, US
-- 💰 **Salary:** $138k–$207k/yr
 - 🕒 **Posted:** 2026-07-29
 
-### [Software Engineer III- Python, Databricks](https://www.indeed.com/viewjob?jk=60932333f665bc9b) — JPMorganChase
-- 📍 **Location:** Jersey City, NJ, US
-- 💰 **Salary:** $133k–$185k/yr
-- 🕒 **Posted:** 2026-07-29
-
-### [Senior Data Management Professional - Data Engineering - Private Funds](https://www.indeed.com/viewjob?jk=5c597a5f54f6b13d) — Bloomberg
+### [Senior Data Engineer](https://www.indeed.com/viewjob?jk=a1a67f1310d4ef99) — Unknown
 - 📍 **Location:** New York, NY, US
-- 💰 **Salary:** $110k–$190k/yr
+- 💰 **Salary:** $146k–$180k/yr
 - 🕒 **Posted:** 2026-07-29
 
-### [Lead Software Engineer - Tax Product Development](https://www.indeed.com/viewjob?jk=f5418cf828a47897) — BDO
+### [Applied Scientist III, Sponsored Products and Brands Auctions](https://www.indeed.com/viewjob?jk=3dd34df8f37ca48a) — Amazon.com
 - 📍 **Location:** New York, NY, US
-- 💰 **Salary:** $140k–$210k/yr
+- 💰 **Salary:** $184k–$249k/yr
+- 🕒 **Posted:** 2026-07-27
+
+### [Lead Data Scientist](https://www.indeed.com/viewjob?jk=be9e847004c20e3b) — Solstice Advanced Materials
+- 📍 **Location:** Morris Plains, NJ, US
+- 💰 **Salary:** $169k–$212k/yr
 - 🕒 **Posted:** 2026-07-29
 
-### [Software Engineer III - Mobile Tester](https://www.indeed.com/viewjob?jk=e8c9b7f47862c4f7) — JPMorganChase
+### [Senior Software Engineer](https://www.indeed.com/viewjob?jk=25edfb6d7b58777c) — Unknown
 - 📍 **Location:** New York, NY, US
-- 💰 **Salary:** $133k–$185k/yr
+- 💰 **Salary:** $146k–$180k/yr
 - 🕒 **Posted:** 2026-07-29
 
-### [iOS / Swift Software Engineer III](https://www.indeed.com/viewjob?jk=a12c55493a5cbd76) — JPMorganChase
+### [Senior Software Engineer - Bazel Tools](https://www.indeed.com/viewjob?jk=f252886b08f8bc6d) — Datadog
 - 📍 **Location:** New York, NY, US
-- 💰 **Salary:** $133k–$185k/yr
+- 💰 **Salary:** $244k–$305k/yr
 - 🕒 **Posted:** 2026-07-29
 
-### [Senior Software Engineer - Java](https://www.indeed.com/viewjob?jk=3deab32ecab5302c) — JPMorganChase
-- 📍 **Location:** Jersey City, NJ, US
-- 💰 **Salary:** $133k–$185k/yr
+### [Backend Engineer_AI Gateway](https://www.indeed.com/viewjob?jk=83ee93c45d38de64) — Sbt Global
+- 📍 **Location:** Englewood Cliffs, NJ, US
 - 🕒 **Posted:** 2026-07-29
 
-### [Software Engineer Senior Manager](https://www.indeed.com/viewjob?jk=41c96bc8498c7166) — Wells Fargo
-- 📍 **Location:** Iselin, NJ, US
-- 💰 **Salary:** $159k–$305k/yr
+### [Senior Data Engineer](https://www.indeed.com/viewjob?jk=c9bbe4fa9a69f979) — MIAX
+- 📍 **Location:** Princeton, NJ, US
+- 💰 **Salary:** $175k–$250k/yr
 - 🕒 **Posted:** 2026-07-29
 
-### [AI Full Stack Engineer (Prime Brokerage Technology)](https://www.indeed.com/viewjob?jk=4120fbc61ab47243) — Morgan Stanley
+### [Sr. Platform Engineer (Remote - US)](https://www.indeed.com/viewjob?jk=8976f61ece7237fa) — Tixtrack
 - 📍 **Location:** New York, NY, US
-- 💰 **Salary:** $120k–$170k/yr
+- 💰 **Salary:** $145k–$165k/yr
+- 🕒 **Posted:** 2026-07-29
+
+### [Senior Site Reliability Engineer](https://www.indeed.com/viewjob?jk=6b2d2fa6bf435974) — Wonder
+- 📍 **Location:** New York, NY, US
+- 💰 **Salary:** $158k–$191k/yr
+- 🕒 **Posted:** 2026-07-29
+
+### [Junior Infrastructure Engineer-Midnight Shift](https://www.indeed.com/viewjob?jk=79fa5b4801c9a487) — Metropolitan Transportation Authority
+- 📍 **Location:** New York, NY, US
+- 💰 **Salary:** $92k–$109k/yr
+- 🕒 **Posted:** 2026-07-29
+
+### [Software Development Manager, ML Platform , AI Studios, AI Studios](https://www.indeed.com/viewjob?jk=c7c793d3a752e43e) — Amazon.com
+- 📍 **Location:** New York, NY, US
+- 💰 **Salary:** $203k–$275k/yr
 - 🕒 **Posted:** 2026-07-28
+
+### [Site Reliability Engineer for CIAM](https://www.indeed.com/viewjob?jk=c897c2bdbd48a1f5) — Barclays
+- 📍 **Location:** Whippany, NJ, US
+- 💰 **Salary:** $120k–$175k/yr
+- 🕒 **Posted:** 2026-07-29
