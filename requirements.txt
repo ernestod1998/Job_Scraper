@@ -1,1 +1,4 @@
 python-jobspy>=1.1.82
+# Lets zoneinfo resolve America/Los_Angeles where the system tzdb is missing.
+# Note: linkedin_watch.yml installs no deps and relies on the runner's tzdb.
+tzdata

@@ -11,6 +11,9 @@ on:
     paths:
       - ci_commit_push.py
       - test_ci_commit_push.py
+      - scrape_jobs.py
+      - test_dates.py
+      - test_dates.mjs
       - triage.html
       - sync/**
       - .github/workflows/*.yml
@@ -18,6 +21,9 @@ on:
     paths:
       - ci_commit_push.py
       - test_ci_commit_push.py
+      - scrape_jobs.py
+      - test_dates.py
+      - test_dates.mjs
       - triage.html
       - sync/**
       - .github/workflows/*.yml
@@ -51,6 +57,12 @@ jobs:
       - name: Run tests
         run: python test_ci_commit_push.py
 
+      # Posted dates must mean a Pacific calendar day, not the runner's UTC day.
+      # Includes recurrence guards that grep scrape_jobs.py and triage.html for
+      # the UTC-day idioms that caused the 2026-07-28 future-dated postings.
+      - name: Posted-date normalization tests
+        run: python test_dates.py
+
       - name: Set up Node
         uses: actions/setup-node@v4
         with:
@@ -63,3 +75,9 @@ jobs:
       # dependencies, no network.
       - name: Triage merge-rule parity
         run: node sync/merge.test.mjs
+
+      # The date bug existed in both languages; test_dates.py can only grep the
+      # browser's copy, this actually runs it. Pins TZ internally, so it gives
+      # the same result on a UTC runner as on a Pacific laptop.
+      - name: Triage date-clamp tests
+        run: node test_dates.mjs

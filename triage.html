@@ -805,6 +805,29 @@
   // 'browse' = the classic date-ordered list; 'rank' = fit-score order.
   let viewMode = 'browse';
 
+  // Today's LOCAL calendar day as 'YYYY-MM-DD'. Build it from the getters, NOT
+  // by slicing an ISO string — that yields the UTC day, which after 5pm Pacific
+  // is already tomorrow. That exact mistake is what put 2026-07-29 on the cards
+  // on the evening of the 28th, so test_dates.py fails the build if it returns.
+  // `now` is a test seam.
+  function localToday(now) {
+    const d = now ? new Date(now) : new Date();
+    const p = n => String(n).padStart(2, '0');
+    return `${d.getFullYear()}-${p(d.getMonth() + 1)}-${p(d.getDate())}`;
+  }
+
+  // What the card's 🕒 shows. The scrapers now stamp Pacific days, but
+  // all_jobs.json keeps entries for 14 days, so rows written before that fix
+  // can still carry a future date — and a source we haven't normalized could
+  // reintroduce one. A date that hasn't happened yet is never right, so clamp
+  // it to the viewer's today. Relative strings and past dates pass through.
+  function displayDate(dateStr, now) {
+    const d = dateStr || '';
+    if (!/^\d{4}-\d{2}-\d{2}$/.test(d)) return d;
+    const today = localToday(now);
+    return d > today ? today : d;
+  }
+
   // Parse a job's posted date to epoch ms. Handles ISO 'YYYY-MM-DD' and the relative
   // 'Posted N Days Ago' strings some boards emit. null = unknown (kept under "Any time",
   // excluded by an active date window).
@@ -1071,7 +1094,7 @@
             <span class="src-item">🔗 ${srcBadges}</span>
             <span>📍 ${escape(j.location || 'Not specified')}</span>
             ${sal ? `<span>💰 ${escape(sal)}</span>` : ''}
-            <span>🕒 ${escape(j.date_posted || '')}</span>
+            <span>🕒 ${escape(displayDate(j.date_posted))}</span>
             <span><span class="tag role">${j._role}</span><span class="tag">${j._sen}</span>${j._family ? `<span class="tag">${escape(j._family)}</span>` : ''}</span>
           </div>
           ${j._why ? `<div class="why">${escape(j._why)}</div>` : ''}
@@ -1589,7 +1612,7 @@
       new Blob([JSON.stringify(payload, null, 2)], { type: 'application/json' }));
     const a = document.createElement('a');
     a.href = url;
-    a.download = `job-triage-${new Date().toISOString().slice(0, 10)}.json`;
+    a.download = `job-triage-${localToday()}.json`;   // local day, not UTC
     a.click();
     URL.revokeObjectURL(url);
     toast(`Exported ${Object.keys(payload.triage || {}).length} decision(s)`);

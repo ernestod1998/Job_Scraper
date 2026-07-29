@@ -15,10 +15,11 @@ import sys
 import time
 import urllib.parse
 import urllib.robotparser
-from datetime import datetime, timedelta, timezone
+from datetime import date, datetime, timedelta, timezone
 from html.parser import HTMLParser
 from urllib.request import urlopen, Request, build_opener, HTTPCookieProcessor
 from urllib.error import URLError
+from zoneinfo import ZoneInfo, ZoneInfoNotFoundError
 
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 
@@ -338,6 +339,72 @@ def extract_location(job: dict) -> str:
     return str(addr)
 
 
+# ---------------------------------------------------------------------------
+# Posted-date normalization
+# ---------------------------------------------------------------------------
+# Every `date_posted` in this repo means ONE thing: the calendar day in
+# America/Los_Angeles. The scrapers run on GitHub Actions runners, which are
+# UTC, so anything stamped after 17:00 PDT (00:00 UTC) used to land on
+# *tomorrow's* date from the dashboard's point of view — 34 roles were dated
+# 2026-07-29 on the evening of the 28th. Deriving the day in LOCAL_TZ, and
+# clamping bare upstream dates that are still in the future, is the fix.
+#
+# The tz lookup is guarded because a runner without a system tzdb must degrade
+# the dates, not crash the scrape. Guard the CALL, not the import: `import
+# ZoneInfo` always succeeds, and guarding it instead would leave LOCAL_TZ
+# undefined and blow up at first use.
+try:
+    LOCAL_TZ = ZoneInfo("America/Los_Angeles")
+except (ZoneInfoNotFoundError, KeyError):  # pragma: no cover - needs a broken tzdb
+    print("⚠️  tzdb missing — posted dates will fall back to UTC days "
+          "(install `tzdata`); expect off-by-one dates after 5pm Pacific")
+    LOCAL_TZ = timezone.utc
+
+
+def local_today() -> date:
+    """Today's calendar day in LOCAL_TZ (not the runner's UTC day)."""
+    return datetime.now(LOCAL_TZ).date()
+
+
+def normalize_posted_date(value, *, today: date | None = None) -> str:
+    """
+    Coerce a posting date to the LOCAL_TZ calendar day, as 'YYYY-MM-DD'.
+
+    Three kinds of input arrive here and each is handled differently:
+
+    - A timestamp with a clock time (Greenhouse `updated_at`, Ashby
+      `publishedAt`) is a real instant → convert it to LOCAL_TZ and take the
+      day. Naive values are assumed UTC, matching _parse_posted_at.
+    - A bare 'YYYY-MM-DD' (LinkedIn's <time datetime>, jobspy) is already
+      day-resolution with no clock to convert, so the best we can do is refuse
+      to show a day that hasn't happened yet: clamp it to `today`.
+    - Anything else ("Posted Today", "Posted 9 Days Ago") passes through
+      untouched — the dashboard's jobDateMs() already understands those.
+
+    Never returns a day later than `today`. `today` is a test seam.
+    """
+    raw = str(value or "").strip()
+    if not raw:
+        return ""
+    if today is None:
+        today = local_today()
+
+    if re.fullmatch(r'\d{4}-\d{2}-\d{2}', raw):
+        try:
+            parsed_day = datetime.strptime(raw, "%Y-%m-%d").date()
+        except ValueError:
+            return raw
+        return min(parsed_day, today).strftime("%Y-%m-%d")
+
+    try:
+        parsed = datetime.fromisoformat(raw.replace("Z", "+00:00"))
+    except ValueError:
+        return raw  # relative string ("Posted Today") or something unparseable
+    if parsed.tzinfo is None:
+        parsed = parsed.replace(tzinfo=timezone.utc)
+    return min(parsed.astimezone(LOCAL_TZ).date(), today).strftime("%Y-%m-%d")
+
+
 def _parse_posted_at(value: str, *, now: datetime | None = None) -> datetime | None:
     """
     Parse ATS posting dates into UTC datetimes.
@@ -376,8 +443,16 @@ def _parse_posted_at(value: str, *, now: datetime | None = None) -> datetime | N
     iso_value = raw.replace("Z", "+00:00")
     try:
         if re.fullmatch(r'\d{4}-\d{2}-\d{2}', iso_value):
-            parsed = datetime.strptime(iso_value, "%Y-%m-%d").replace(tzinfo=timezone.utc)
+            # A bare date is a CALENDAR DAY, and every date_posted in this repo
+            # means a LOCAL_TZ day (see normalize_posted_date). Reading it as
+            # UTC midnight would make a role stamped with today's Pacific date
+            # look up to 7h older than it is — enough to push a 30-minute-old
+            # posting past the 24h FRESH_JOB_LOOKBACK and drop it as stale.
+            parsed = datetime.strptime(iso_value, "%Y-%m-%d").replace(tzinfo=LOCAL_TZ)
         else:
+            # A naive TIMESTAMP is a real instant, not a calendar day — an ATS
+            # emitting one almost certainly means UTC. Do not "fix" this to
+            # LOCAL_TZ; that would shift genuine instants by 7 hours.
             parsed = datetime.fromisoformat(iso_value)
             if parsed.tzinfo is None:
                 parsed = parsed.replace(tzinfo=timezone.utc)
@@ -496,7 +571,7 @@ def probe_curated_greenhouse(entry: dict) -> list:
             "title": title,
             "location": loc,
             "url": job.get("absolute_url", f"https://boards.greenhouse.io/{entry['slug']}"),
-            "date_posted": (job.get("updated_at") or "")[:10],
+            "date_posted": normalize_posted_date(job.get("updated_at")),
             "ats": "Greenhouse",
         })
     return jobs
@@ -522,7 +597,7 @@ def probe_curated_ashby(entry: dict) -> list:
             "title": title,
             "location": job.get("location") or entry["fallback_location"],
             "url": job.get("jobUrl", f"https://jobs.ashbyhq.com/{entry['slug']}"),
-            "date_posted": (job.get("publishedAt") or "")[:10],
+            "date_posted": normalize_posted_date(job.get("publishedAt")),
             "ats": "Ashby",
         })
     return jobs
@@ -547,7 +622,7 @@ def probe_curated_lever(entry: dict) -> list:
             continue
         created_ms = job.get("createdAt") or 0
         date_posted = (
-            datetime.fromtimestamp(created_ms / 1000, tz=timezone.utc).strftime("%Y-%m-%d")
+            datetime.fromtimestamp(created_ms / 1000, tz=LOCAL_TZ).strftime("%Y-%m-%d")
             if created_ms else ""
         )
         jobs.append({
@@ -1462,6 +1537,16 @@ def _merge_into_all_jobs(new_jobs: list) -> int:
     return added
 
 
+def _normalize_dates(jobs: list) -> None:
+    """Rewrite every date_posted to a LOCAL_TZ day, in place. Never raises."""
+    today = local_today()
+    for j in jobs:
+        try:
+            j["date_posted"] = normalize_posted_date(j.get("date_posted"), today=today)
+        except Exception as e:  # pragma: no cover - defensive
+            print(f"  ⚠️  date normalize failed for {j.get('url', '?')} ({e}); left as-is")
+
+
 def save_jobs_output(jobs: list, *, basename: str, title: str, subtitle: str,
                      accent: str, empty_message: str, window_label: str):
     """
@@ -1477,6 +1562,13 @@ def save_jobs_output(jobs: list, *, basename: str, title: str, subtitle: str,
     # could be re-persisted into the digests the dashboard reads. Filtering here
     # covers every source — including future ones — before anything is written.
     jobs = [j for j in jobs if not is_excluded_company(j.get("company", ""))]
+
+    # Same choke-point logic for dates: normalizing here covers every source —
+    # including future ones — rather than trusting each scraper to get the
+    # timezone right. Guarded per-job because this sits on the critical
+    # scrape → digest → commit path and one malformed upstream date must not
+    # take the whole run down (cf. the _merge_into_all_jobs guard below).
+    _normalize_dates(jobs)
 
     prev_ids = _load_prev_ids(json_path)
     new_jobs = [j for j in jobs if _job_identity(j.get("url", "")) not in prev_ids]
@@ -1659,6 +1751,8 @@ h1 {{ font-size: 22px; margin: 0 0 4px 0; }}
 # ---------------------------------------------------------------------------
 
 def save_results(jobs: list):
+    # This path bypasses save_jobs_output, so it needs its own normalization.
+    _normalize_dates(jobs)
     timestamp = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
 
     output = {"scraped_at": timestamp, "total": len(jobs), "jobs": jobs}
