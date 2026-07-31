@@ -1,130 +1,195 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-07-31 02:18 UTC*
+*Last updated: 2026-07-31 03:18 UTC*
 
-**29 new role(s)** since last run · 36 total in last 1h
+**46 new role(s)** since last run · 74 total in last 1h
 
-### [Research Engineer, Robotic Learning](https://www.linkedin.com/jobs/view/4447244371/) — 1X
-- 📍 **Location:** San Carlos, CA
-- 💰 **Salary:** $166,566.00/yr - $350,000.00/yr
-- 🕒 **Posted:** 2026-07-30
-
-### [Sr. ML Engineer, Clinical Automation](https://www.linkedin.com/jobs/view/4447248381/) — Sodalis AI
-- 📍 **Location:** Palo Alto, CA
-- 💰 **Salary:** $170,000.00/yr - $230,000.00/yr
-- 🕒 **Posted:** 2026-07-30
-
-### [Full Stack Engineer](https://www.linkedin.com/jobs/view/4447245251/) — MeeBoss
+### [Software Engineer (Internship, Summer 2027)](https://www.linkedin.com/jobs/view/4445067906/) — Heliux
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-07-30
 
-### [Lead People Systems Engineer](https://www.linkedin.com/jobs/view/4446961399/) — Klaviyo
+### [Fellow Software Engineer — AI Performance & Reliability](https://www.linkedin.com/jobs/view/4445048788/) — AMD
+- 📍 **Location:** San Jose, CA
+- 💰 **Salary:** $268,000.00/yr - $402,000.00/yr
+- 🕒 **Posted:** 2026-07-30
+
+### [Software Engineer (Internship, Spring 2027)](https://www.linkedin.com/jobs/view/4445056952/) — Heliux
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-07-30
 
-### [Computer Vision / ML Engineering Intern](https://www.linkedin.com/jobs/view/4446954440/) — Saccade
+### [Software Engineer (Next Gen)](https://www.linkedin.com/jobs/view/4447242700/) — OneClick Smart Resume
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-07-30
+
+### [Software Engineer, Ads Platform](https://www.linkedin.com/jobs/view/4447250586/) — OneClick Smart Resume
+- 📍 **Location:** San Mateo, CA
+- 🕒 **Posted:** 2026-07-30
+
+### [Software Engineer, Data Engineering](https://www.linkedin.com/jobs/view/4447244668/) — OneClick Smart Resume
+- 📍 **Location:** San Mateo, CA
+- 🕒 **Posted:** 2026-07-30
+
+### [Software Engineer, Distributed Systems](https://www.linkedin.com/jobs/view/4447242681/) — OneClick Smart Resume
 - 📍 **Location:** San Francisco Bay Area
 - 🕒 **Posted:** 2026-07-30
 
-### [Research Data Scientist, Brand Advertising, YouTube Ads](https://www.linkedin.com/jobs/view/4446952356/) — Google
+### [Senior Software Engineer: Assistant](https://www.linkedin.com/jobs/view/4447256515/) — OneClick Smart Resume
+- 📍 **Location:** San Mateo, CA
+- 🕒 **Posted:** 2026-07-30
+
+### [Senior Software Engineer (Backend), Communications](https://www.linkedin.com/jobs/view/4447238771/) — OneClick Smart Resume
+- 📍 **Location:** San Mateo, CA
+- 🕒 **Posted:** 2026-07-30
+
+### [Senior Software Engineer - Fraud](https://www.linkedin.com/jobs/view/4447240659/) — OneClick Smart Resume
+- 📍 **Location:** San Mateo, CA
+- 🕒 **Posted:** 2026-07-30
+
+### [Senior Software Engineer, Ads Experience (C++)](https://www.linkedin.com/jobs/view/4447238756/) — OneClick Smart Resume
+- 📍 **Location:** San Mateo, CA
+- 🕒 **Posted:** 2026-07-30
+
+### [Senior Software Engineer, Service Mesh](https://www.linkedin.com/jobs/view/4447251623/) — OneClick Smart Resume
+- 📍 **Location:** San Mateo, CA
+- 🕒 **Posted:** 2026-07-30
+
+### [Senior Privacy Software Engineer](https://www.linkedin.com/jobs/view/4447260432/) — OneClick Smart Resume
+- 📍 **Location:** San Mateo, CA
+- 🕒 **Posted:** 2026-07-30
+
+### [Senior Software Engineer - Storage Cache](https://www.linkedin.com/jobs/view/4447240697/) — OneClick Smart Resume
+- 📍 **Location:** San Mateo, CA
+- 🕒 **Posted:** 2026-07-30
+
+### [Java Backend Developer](https://www.linkedin.com/jobs/view/4446957591/) — Cognizant
 - 📍 **Location:** Mountain View, CA
 - 🕒 **Posted:** 2026-07-30
 
-### [Entry Level Software Developer 2026](https://www.linkedin.com/jobs/view/4445048538/) — IBM
-- 📍 **Location:** San Jose, CA
-- 💰 **Salary:** $88,000.00/yr - $152,000.00/yr
+### [Senior Frontend Software Engineer - Marketplace](https://www.linkedin.com/jobs/view/4447237766/) — OneClick Smart Resume
+- 📍 **Location:** San Mateo, CA
 - 🕒 **Posted:** 2026-07-30
 
-### [Senior AI-Native DevOps / Operations Engineer (AMER)](https://www.linkedin.com/jobs/view/4447237544/) — Valency Systems Inc.
-- 📍 **Location:** Berkeley, CA
+### [Senior Software Engineer - Marketplace Merchandise](https://www.linkedin.com/jobs/view/4447245669/) — OneClick Smart Resume
+- 📍 **Location:** San Mateo, CA
 - 🕒 **Posted:** 2026-07-30
 
-### [Full-Stack Software Engineer](https://www.linkedin.com/jobs/view/4447245212/) — MeeBoss
+### [Senior Software Engineer, Client Systems (C++)](https://www.linkedin.com/jobs/view/4447250616/) — OneClick Smart Resume
+- 📍 **Location:** San Mateo, CA
+- 🕒 **Posted:** 2026-07-30
+
+### [Senior Software Engineer, UGC Validation](https://www.linkedin.com/jobs/view/4447249644/) — OneClick Smart Resume
+- 📍 **Location:** San Mateo, CA
+- 🕒 **Posted:** 2026-07-30
+
+### [Senior iOS Engineer, Inspections](https://www.linkedin.com/jobs/view/4446958537/) — Hover
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-07-30
 
-### [Backend Software Engineer](https://www.linkedin.com/jobs/view/4446962371/) — Teambridge
+### [Systems Software Engineer - Game Engine Network (C++)](https://www.linkedin.com/jobs/view/4447240719/) — OneClick Smart Resume
+- 📍 **Location:** San Mateo, CA
+- 🕒 **Posted:** 2026-07-30
+
+### [Senior Software Engineer - Game Engine Network (C++)](https://www.linkedin.com/jobs/view/4447252615/) — OneClick Smart Resume
+- 📍 **Location:** San Mateo, CA
+- 🕒 **Posted:** 2026-07-30
+
+### [Senior Software Engineer, Safety Backend](https://www.linkedin.com/jobs/view/4447239823/) — OneClick Smart Resume
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-07-30
+
+### [Senior Cloud Security Engineer](https://www.linkedin.com/jobs/view/4406900427/) — Aurora
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-07-30
 
-### [Senior Platform Engineer](https://www.linkedin.com/jobs/view/4393896591/) — GridCARE
-- 📍 **Location:** Redwood City, CA
+### [Senior Software Engineer, Engine Systems](https://www.linkedin.com/jobs/view/4447249656/) — OneClick Smart Resume
+- 📍 **Location:** San Mateo, CA
 - 🕒 **Posted:** 2026-07-30
 
-### [Senior Software Engineer - Backend Systems](https://www.linkedin.com/jobs/view/4447239562/) — Valency Systems Inc.
-- 📍 **Location:** Berkeley, CA
+### [Senior Software Engineer, Avatar Animation](https://www.linkedin.com/jobs/view/4447252585/) — OneClick Smart Resume
+- 📍 **Location:** San Mateo, CA
 - 🕒 **Posted:** 2026-07-30
 
-### [Mobile Engineer (Software Engineer)](https://www.linkedin.com/jobs/view/4446971131/) — Talentum, Inc.
-- 📍 **Location:** San Francisco, CA
+### [Senior Software Engineer, Game Engine Systems](https://www.linkedin.com/jobs/view/4447259539/) — OneClick Smart Resume
+- 📍 **Location:** San Mateo, CA
 - 🕒 **Posted:** 2026-07-30
 
-### [Data Engineer](https://www.linkedin.com/jobs/view/4447247443/) — MeeBoss
-- 📍 **Location:** Sunnyvale, CA
+### [Senior Systems Engineer- Cloud & Infrastructure](https://www.linkedin.com/jobs/view/4446967326/) — InterScripts, Inc.
+- 📍 **Location:** Daly City, CA
 - 🕒 **Posted:** 2026-07-30
 
-### [Sr. Front End Mobile Engineer, Energy](https://www.linkedin.com/jobs/view/4447257033/) — Tesla
-- 📍 **Location:** Fremont, CA
+### [Senior Software Engineer, Kubernetes Networking](https://www.linkedin.com/jobs/view/4447238775/) — OneClick Smart Resume
+- 📍 **Location:** San Mateo, CA
 - 🕒 **Posted:** 2026-07-30
 
-### [Infrastructure engineer](https://www.linkedin.com/jobs/view/4447259166/) — WRITER
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $139,800.00/yr - $273,700.00/yr
+### [Senior Security Software Engineer, Infrastructure Security](https://www.linkedin.com/jobs/view/4447246666/) — OneClick Smart Resume
+- 📍 **Location:** San Mateo, CA
 - 🕒 **Posted:** 2026-07-30
 
-### [Senior Software Engineer - Developer Productivity](https://www.linkedin.com/jobs/view/4447247376/) — Lambda
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $266,000.00/yr - $395,000.00/yr
+### [Senior Software Engineer, Data Infrastructure](https://www.linkedin.com/jobs/view/4447257529/) — OneClick Smart Resume
+- 📍 **Location:** San Mateo, CA
 - 🕒 **Posted:** 2026-07-30
 
-### [Senior Software Engineer - Developer Productivity](https://www.linkedin.com/jobs/view/4447258223/) — Lambda
-- 📍 **Location:** San Jose, CA
-- 💰 **Salary:** $266,000.00/yr - $395,000.00/yr
+### [Senior Security Software Engineer, Application Security](https://www.linkedin.com/jobs/view/4447259510/) — OneClick Smart Resume
+- 📍 **Location:** San Mateo, CA
 - 🕒 **Posted:** 2026-07-30
 
-### [Cloud Engineer](https://www.linkedin.com/jobs/view/4445067347/) — HireArt
-- 📍 **Location:** Foster City, CA
+### [Senior Software Engineer, Data Engineering](https://www.linkedin.com/jobs/view/4447255632/) — OneClick Smart Resume
+- 📍 **Location:** Menlo Park, CA
 - 🕒 **Posted:** 2026-07-30
 
-### [Security engineer, detection and response](https://www.linkedin.com/jobs/view/4447245301/) — WRITER
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $131,800.00/yr - $257,700.00/yr
+### [Senior Software Engineer, Data Insights](https://www.linkedin.com/jobs/view/4447242726/) — OneClick Smart Resume
+- 📍 **Location:** San Mateo, CA
 - 🕒 **Posted:** 2026-07-30
 
-### [AI Security Engineer](https://www.linkedin.com/jobs/view/4446949394/) — Structure Therapeutics
-- 📍 **Location:** South San Francisco, CA
+### [Senior Software Engineer - Data Infrastructure, Safety](https://www.linkedin.com/jobs/view/4447252613/) — OneClick Smart Resume
+- 📍 **Location:** San Mateo, CA
 - 🕒 **Posted:** 2026-07-30
 
-### [AI Security Engineer Contract](https://www.linkedin.com/jobs/view/4446963164/) — Intel
-- 📍 **Location:** Santa Clara, CA
+### [Software Engineer](https://www.linkedin.com/jobs/view/4446951788/) — Perform Search
+- 📍 **Location:** New York City Metropolitan Area
 - 🕒 **Posted:** 2026-07-30
 
-### [Senior Information Security Engineer, Product Security Engineering](https://www.linkedin.com/jobs/view/4446952360/) — Google
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-07-30
-
-### [Computer Vision & ML Expert](https://www.linkedin.com/jobs/view/4444770460/) — Alignerr
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $100.00/hr - $150.00/hr
-- 🕒 **Posted:** 2026-07-30
-
-### [Infrastructure engineer](https://www.linkedin.com/jobs/view/4447256226/) — WRITER
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $139,800.00/yr - $273,700.00/yr
-- 🕒 **Posted:** 2026-07-30
-
-### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4446965319/) — Pearson
-- 📍 **Location:** Trenton, NJ
-- 🕒 **Posted:** 2026-07-30
-
-### [Security engineer, detection and response](https://www.linkedin.com/jobs/view/4447244319/) — WRITER
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $131,800.00/yr - $257,700.00/yr
-- 🕒 **Posted:** 2026-07-30
-
-### [Senior Information Security Engineer, Product Security Engineering](https://www.linkedin.com/jobs/view/4446952361/) — Google
+### [Software Engineer III - Mobile Tester](https://www.linkedin.com/jobs/view/4447246688/) — OneClick Smart Resume
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-07-30
 
-### [Data Engineering Manager](https://www.linkedin.com/jobs/view/4447237202/) — Paramount
+### [Software Engineer in Test](https://www.linkedin.com/jobs/view/4447242691/) — OneClick Smart Resume
 - 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-07-30
+
+### [Senior Software Engineer - Bazel Tools](https://www.linkedin.com/jobs/view/4447243681/) — OneClick Smart Resume
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-07-30
+
+### [Associate, Software Engineer](https://www.linkedin.com/jobs/view/4446955762/) — KPMG US
+- 📍 **Location:** Montvale, NJ
+- 🕒 **Posted:** 2026-07-30
+
+### [Agentic Sr Lead Software Engineer- Auto](https://www.linkedin.com/jobs/view/4447243578/) — JPMorganChase
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $171,000.00/yr - $260,000.00/yr
+- 🕒 **Posted:** 2026-07-30
+
+### [Senior Lead Software Engineer - Java and AWS](https://www.linkedin.com/jobs/view/4447243576/) — JPMorganChase
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $171,000.00/yr - $260,000.00/yr
+- 🕒 **Posted:** 2026-07-30
+
+### [Lead Site Reliability Engineer](https://www.linkedin.com/jobs/view/4447245590/) — JPMorganChase
+- 📍 **Location:** Jersey City, NJ
+- 💰 **Salary:** $152,000.00/yr - $215,000.00/yr
+- 🕒 **Posted:** 2026-07-30
+
+### [Senior Lead Software Engineer- Platform / Linux Engineering](https://www.linkedin.com/jobs/view/4447256450/) — JPMorganChase
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $171,000.00/yr - $260,000.00/yr
+- 🕒 **Posted:** 2026-07-30
+
+### [Sr. Lead Software Engineer - AIML Platforms](https://www.linkedin.com/jobs/view/4447247577/) — JPMorganChase
+- 📍 **Location:** Jersey City, NJ
+- 💰 **Salary:** $171,000.00/yr - $260,000.00/yr
+- 🕒 **Posted:** 2026-07-30
+
+### [Lead Infrastructure Engineer - Infrastructure (HPE NonStop/Tandem) with AI/Automation](https://www.linkedin.com/jobs/view/4447260375/) — JPMorganChase
+- 📍 **Location:** Jersey City, NJ
+- 💰 **Salary:** $142,500.00/yr - $185,000.00/yr
 - 🕒 **Posted:** 2026-07-30
