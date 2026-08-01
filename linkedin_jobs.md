@@ -1,138 +1,61 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-08-01 18:18 UTC*
+*Last updated: 2026-08-01 19:18 UTC*
 
-**32 new role(s)** since last run · 50 total in last 1h
+**14 new role(s)** since last run · 34 total in last 1h
 
-### [Machine Learning Scientist/Senior Machine Learning Scientist - Agents for Applied Small Molecule Drug Design, AI for Drug Discovery](https://www.linkedin.com/jobs/view/4431139782/) — Genentech
+### [Software Engineer](https://www.linkedin.com/jobs/view/3986113599/) — Epic
+- 📍 **Location:** Hayward, CA
+- 🕒 **Posted:** 2026-08-01
+
+### [Full-Stack Software Engineer](https://www.linkedin.com/jobs/view/4445815135/) — Emma of Torre.ai
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-08-01
 
-### [Software Engineer, Growth](https://www.linkedin.com/jobs/view/4411238234/) — Replit
-- 📍 **Location:** Foster City, CA
-- 💰 **Salary:** $180,000.00/yr - $250,000.00/yr
+### [Software Engineer](https://www.linkedin.com/jobs/view/3986111792/) — Epic
+- 📍 **Location:** Santa Rosa, CA
 - 🕒 **Posted:** 2026-08-01
 
-### [Software Engineer](https://www.linkedin.com/jobs/view/3986111789/) — Epic
-- 📍 **Location:** Fremont, CA
+### [Software Engineer](https://www.linkedin.com/jobs/view/3986113600/) — Epic
+- 📍 **Location:** Stockton, CA
 - 🕒 **Posted:** 2026-08-01
 
-### [Software Engineer, Developer Experience](https://www.linkedin.com/jobs/view/4411246137/) — Replit
-- 📍 **Location:** Foster City, CA
-- 💰 **Salary:** $180,000.00/yr - $230,000.00/yr
+### [Senior Deep Learning Tools Engineer – CUDA Tile](https://www.linkedin.com/jobs/view/4410412092/) — NVIDIA
+- 📍 **Location:** Santa Clara, CA
 - 🕒 **Posted:** 2026-08-01
 
-### [Software Engineer](https://www.linkedin.com/jobs/view/4420517757/) — Docusign
+### [IT Engineering / DevOps & AI Enablement](https://www.linkedin.com/jobs/view/4447846052/) — Infinite Computer Solutions
+- 📍 **Location:** Hercules, CA
+- 🕒 **Posted:** 2026-08-01
+
+### [Senior Backend Engineer](https://www.linkedin.com/jobs/view/4445814150/) — AI Talent Hope
+- 📍 **Location:** Alameda, CA
+- 🕒 **Posted:** 2026-08-01
+
+### [GenAI Python Systems Engineer – Experienced Associate](https://www.linkedin.com/jobs/view/4447611041/) — PwC
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-08-01
 
-### [Software Engineer, Growth Infrastructure](https://www.linkedin.com/jobs/view/4411243159/) — Replit
-- 📍 **Location:** Foster City, CA
-- 💰 **Salary:** $180,000.00/yr - $290,000.00/yr
-- 🕒 **Posted:** 2026-08-01
-
-### [Senior System Software Engineer - AI Performance and Efficiency Tools](https://www.linkedin.com/jobs/view/4410860672/) — NVIDIA
+### [Robotics Engineer (Hardware+ROS2)](https://www.linkedin.com/jobs/view/4447603272/) — Aerobotics7
 - 📍 **Location:** Santa Clara, CA
 - 🕒 **Posted:** 2026-08-01
 
-### [Senior Research Engineer, Robotics Systems](https://www.linkedin.com/jobs/view/4410862592/) — NVIDIA
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-08-01
-
-### [Software Engineer, Enterprise Platform](https://www.linkedin.com/jobs/view/4411246140/) — Replit
-- 📍 **Location:** Foster City, CA
-- 💰 **Salary:** $130,000.00/yr - $290,000.00/yr
-- 🕒 **Posted:** 2026-08-01
-
-### [Senior Software Engineer - Datacenter Systems](https://www.linkedin.com/jobs/view/4409990936/) — NVIDIA
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-08-01
-
-### [Senior Platform Service Software Engineer](https://www.linkedin.com/jobs/view/4438387051/) — NVIDIA
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-08-01
-
-### [Senior Software Engineer, Replit Cloud](https://www.linkedin.com/jobs/view/4411252041/) — Replit
-- 📍 **Location:** Foster City, CA
-- 💰 **Salary:** $160,000.00/yr - $260,000.00/yr
-- 🕒 **Posted:** 2026-08-01
-
-### [Android Engineer](https://www.linkedin.com/jobs/view/4447832066/) — Monogram
-- 📍 **Location:** San Carlos, CA
-- 🕒 **Posted:** 2026-08-01
-
-### [Lead Java Software Engineer](https://www.linkedin.com/jobs/view/4439346515/) — Resource Innovations
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $140,000.00/yr - $160,000.00/yr
-- 🕒 **Posted:** 2026-08-01
-
-### [Senior Behavior Planning Software Engineer - ADAS](https://www.linkedin.com/jobs/view/4447490755/) — Lucid Motors-LA
-- 📍 **Location:** Newark, CA
-- 🕒 **Posted:** 2026-08-01
-
-### [Senior Software Engineer I, Data Enablement](https://www.linkedin.com/jobs/view/4419937943/) — Etsy
-- 📍 **Location:** Brooklyn, NY
-- 🕒 **Posted:** 2026-08-01
-
-### [GenAI Python Systems Engineer –Senior Manager](https://www.linkedin.com/jobs/view/4419096271/) — PwC
-- 📍 **Location:** Stamford, CT
-- 🕒 **Posted:** 2026-08-01
-
-### [GenAI Python Systems Engineer –Senior Manager](https://www.linkedin.com/jobs/view/4419094376/) — PwC
+### [Lead AI Engineer (MLX, Agentic AI, Gen AI platform Services)](https://www.linkedin.com/jobs/view/4439566215/) — Capital One
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-08-01
 
-### [Manager, Data Scientist - Card Intelligence Model Risk Management](https://www.linkedin.com/jobs/view/4439572019/) — Capital One
+### [Data Engineer](https://www.linkedin.com/jobs/view/4431117332/) — Stuut
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $135,000.00/yr - $190,000.00/yr
+- 🕒 **Posted:** 2026-08-01
+
+### [Senior Manager, Data Scientist - Experimentation Lead](https://www.linkedin.com/jobs/view/4430951937/) — Capital One
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-08-01
 
-### [Software Engineer](https://www.linkedin.com/jobs/view/3986118114/) — Epic
-- 📍 **Location:** New York, NY
+### [Software Engineer](https://www.linkedin.com/jobs/view/3986111787/) — Epic
+- 📍 **Location:** Paterson, NJ
 - 🕒 **Posted:** 2026-08-01
 
-### [Software Engineer](https://www.linkedin.com/jobs/view/3986112649/) — Epic
-- 📍 **Location:** Waterbury, CT
-- 🕒 **Posted:** 2026-08-01
-
-### [Data Engineer](https://www.linkedin.com/jobs/view/4419349108/) — Colgate-Palmolive
-- 📍 **Location:** Piscataway, NJ
-- 🕒 **Posted:** 2026-08-01
-
-### [Software Engineer II](https://www.linkedin.com/jobs/view/4435996969/) — BAE Systems, Inc.
-- 📍 **Location:** Totowa, NJ
-- 🕒 **Posted:** 2026-08-01
-
-### [Lead Platform Engineer](https://www.linkedin.com/jobs/view/4420493279/) — The Depository Trust & Clearing Corporation (DTCC)
-- 📍 **Location:** Jersey City, NJ
-- 🕒 **Posted:** 2026-08-01
-
-### [GenAI Python Systems Engineer – Experienced Associate](https://www.linkedin.com/jobs/view/4447602232/) — PwC
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-08-01
-
-### [GenAI Python Systems Engineer – Experienced Associate](https://www.linkedin.com/jobs/view/4447490964/) — PwC
-- 📍 **Location:** Florham Park, NJ
-- 🕒 **Posted:** 2026-08-01
-
-### [GenAI Python Systems Engineer – Experienced Associate](https://www.linkedin.com/jobs/view/4447499328/) — PwC
-- 📍 **Location:** Melville, NY
-- 🕒 **Posted:** 2026-08-01
-
-### [GenAI Python Systems Engineer – Experienced Associate](https://www.linkedin.com/jobs/view/4447600325/) — PwC
-- 📍 **Location:** Stamford, CT
-- 🕒 **Posted:** 2026-08-01
-
-### [Lead Systems Engineer](https://www.linkedin.com/jobs/view/4402506067/) — The Depository Trust & Clearing Corporation (DTCC)
-- 📍 **Location:** Jersey City, NJ
-- 🕒 **Posted:** 2026-08-01
-
-### [Vertical Systems Engineer - Global Accounts](https://www.linkedin.com/jobs/view/4429361718/) — World Wide Technology
-- 📍 **Location:** New York City Metropolitan Area
-- 🕒 **Posted:** 2026-08-01
-
-### [Sr Specialist, Systems Engineer](https://www.linkedin.com/jobs/view/4431130152/) — L3Harris Technologies
-- 📍 **Location:** Clifton, NJ
-- 🕒 **Posted:** 2026-08-01
-
-### [Senior Engineering Manager, Data Collections & Streaming Data Platform](https://www.linkedin.com/jobs/view/4420493702/) — Etsy
-- 📍 **Location:** Brooklyn, NY
+### [Senior Structural Engineer - Temporary Structures - Kiewit Infrastructure Engineering](https://www.linkedin.com/jobs/view/4419344858/) — Kiewit
+- 📍 **Location:** Cranford, NJ
 - 🕒 **Posted:** 2026-08-01
