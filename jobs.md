@@ -1,24 +1,24 @@
 # 🧬 Biotech LinkedIn — MLE / DS Roles
-*Last updated: 2026-07-31 06:28 UTC*
+*Last updated: 2026-08-01 06:14 UTC*
 
-**5 new role(s)** since last run · 141 total in last 24h
+**5 new role(s)** since last run · 126 total in last 24h
 
-### [Senior Data Engineer](https://jobs.ashbyhq.com/metriport/e101d155-8895-4e6d-98db-84b10cff77e5) — Metriport
-- 📍 **Location:** San Francisco
-- 🕒 **Posted:** 2026-07-30
+### [Lead Biostatistician (IVD Clinical)](https://job-boards.greenhouse.io/natera/jobs/6110225004) — Natera
+- 📍 **Location:** US Remote
+- 🕒 **Posted:** 2026-07-29
 
-### [AI Security Engineer Contract](https://www.linkedin.com/jobs/view/4446963164/) — Intel
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-07-30
+### [Senior Bioinformatics Scientist](https://job-boards.greenhouse.io/natera/jobs/6130549004) — Natera
+- 📍 **Location:** San Carlos, CA
+- 🕒 **Posted:** 2026-07-31
 
-### [AI & Machine Learning Engineer I](https://www.linkedin.com/jobs/view/4435609415/) — Gen
-- 📍 **Location:** Mountain View, CA
-- 🕒 **Posted:** 2026-07-30
+### [Data Scientist II, Outcomes Research](https://www.linkedin.com/jobs/view/4418871090/) — Tempus AI
+- 📍 **Location:** Redwood City, CA
+- 🕒 **Posted:** 2026-07-31
 
-### [Senior Data Scientist #4630](https://www.linkedin.com/jobs/view/4409951663/) — GRAIL
-- 📍 **Location:** Menlo Park, CA
-- 🕒 **Posted:** 2026-07-30
+### [Senior Data Scientist, Gen AI Foundation](https://www.linkedin.com/jobs/view/4416762334/) — Genentech
+- 📍 **Location:** South San Francisco, CA
+- 🕒 **Posted:** 2026-07-31
 
-### [Senior Computational Biologist I](https://www.linkedin.com/jobs/view/4428075050/) — Tempus AI
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-07-30
+### [Machine Learning Engineer, Infra, AI for Drug Discovery](https://www.linkedin.com/jobs/view/4447583143/) — Genentech
+- 📍 **Location:** South San Francisco, CA
+- 🕒 **Posted:** 2026-07-31
