@@ -1,9 +1,9 @@
 # 🇺🇸 USAJOBS — Federal Roles
-*Last updated: 2026-07-31 17:10 UTC*
+*Last updated: 2026-08-01 16:34 UTC*
 
 **1 new role(s)** since last run · 17 total in current USAJOBS postings
 
-### [OPERATIONS RESEARCH ANALYST (DATA SCIENTIST)](https://www.usajobs.gov/job/878826100) — Defense Human Resources Activity
-- 📍 **Location:** Alexandria, Virginia
-- 💰 **Salary:** Starting at $102,415 Per year (GS 12)
-- 🕒 **Posted:** 2026-07-31
+### [Direct Hire Public Notice - Data Scientist](https://www.usajobs.gov/job/867782600) — Nuclear Regulatory Commission
+- 📍 **Location:** Atlanta, Georgia
+- 💰 **Salary:** Starting at $74,678 Per year (GG 11-15)
+- 🕒 **Posted:** 2026-05-04
