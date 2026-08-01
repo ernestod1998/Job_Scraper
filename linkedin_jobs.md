@@ -1,162 +1,138 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-08-01 15:18 UTC*
+*Last updated: 2026-08-01 16:18 UTC*
 
-**39 new role(s)** since last run · 39 total in last 1h
+**33 new role(s)** since last run · 49 total in last 1h
 
-### [Machine Learning Engineer, App SW](https://www.linkedin.com/jobs/view/4417654657/) — Wayve
+### [Senior Software Engineer, Sandboxes & Virtualization](https://www.linkedin.com/jobs/view/4378116623/) — CoreWeave
 - 📍 **Location:** Sunnyvale, CA
 - 🕒 **Posted:** 2026-08-01
 
-### [Software Engineer - Imaging Systems](https://www.linkedin.com/jobs/view/4240995934/) — Verkada
-- 📍 **Location:** San Mateo, CA
-- 🕒 **Posted:** 2026-08-01
-
-### [Senior Machine Learning Engineer, Ads](https://www.linkedin.com/jobs/view/4318612722/) — Roblox
-- 📍 **Location:** San Mateo, CA
-- 🕒 **Posted:** 2026-08-01
-
-### [Software Engineer (Ray Data)](https://www.linkedin.com/jobs/view/4436623492/) — Anyscale
+### [Machine Learning Engineer](https://www.linkedin.com/jobs/view/4447805620/) — DevExplore
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-08-01
 
-### [Sr. Machine Learning Engineer, Monetization Engineering](https://www.linkedin.com/jobs/view/3981020680/) — Pinterest
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-08-01
-
-### [Software Engineer, Web Infrastructure](https://www.linkedin.com/jobs/view/4420617450/) — Notion
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-08-01
-
-### [Software Engineer](https://www.linkedin.com/jobs/view/3986112648/) — Epic
-- 📍 **Location:** Oakland, CA
-- 🕒 **Posted:** 2026-08-01
-
-### [Software Engineer, Workflows](https://www.linkedin.com/jobs/view/4372135667/) — Vercel
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-08-01
-
-### [[2026] Senior Machine Learning Engineer, Recommendation Systems - PhD Early Career](https://www.linkedin.com/jobs/view/4319230995/) — Roblox
-- 📍 **Location:** San Mateo, CA
-- 🕒 **Posted:** 2026-08-01
-
-### [Senior Software Engineer - LLM‑Driven Release & Triage Tooling](https://www.linkedin.com/jobs/view/4400128222/) — Woven by Toyota
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-08-01
-
-### [Senior Manufacturing Software Engineer, Matterport](https://www.linkedin.com/jobs/view/4420453953/) — Matterport
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-08-01
-
-### [Software Engineer, Infrastructure](https://www.linkedin.com/jobs/view/4436674008/) — Anyscale
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-08-01
-
-### [Site Reliability Engineer II, tvScientific](https://www.linkedin.com/jobs/view/4430709370/) — Pinterest
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-08-01
-
-### [Software Engineer, Deployment Infrastructure](https://www.linkedin.com/jobs/view/4343003573/) — Vercel
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-08-01
-
-### [Application Infrastructure Engineer](https://www.linkedin.com/jobs/view/4439366280/) — Lawrence Livermore National Laboratory
-- 📍 **Location:** Livermore, CA
-- 🕒 **Posted:** 2026-08-01
-
-### [Technical Lead Platform Engineer](https://www.linkedin.com/jobs/view/4447474971/) — Jobright.ai
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-08-01
-
-### [Senior System Software Engineer](https://www.linkedin.com/jobs/view/4438379258/) — NVIDIA
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-08-01
-
-### [Senior Software Engineer - NPC Behavior](https://www.linkedin.com/jobs/view/4429375837/) — Roblox
-- 📍 **Location:** San Mateo, CA
-- 🕒 **Posted:** 2026-08-01
-
-### [Senior Software Engineer, Migrations Engineering](https://www.linkedin.com/jobs/view/4417972646/) — Ridgeline
-- 📍 **Location:** San Ramon, CA
-- 🕒 **Posted:** 2026-08-01
-
-### [Senior Security Software Engineer, IAM](https://www.linkedin.com/jobs/view/4429382805/) — Roblox
-- 📍 **Location:** San Mateo, CA
-- 🕒 **Posted:** 2026-08-01
-
-### [Senior Software Engineer, Product](https://www.linkedin.com/jobs/view/4447497408/) — Jobright.ai
-- 📍 **Location:** Burlingame, CA
-- 🕒 **Posted:** 2026-08-01
-
-### [Lead Software Engineer - Cloud & Software Defined Storage Solutions (C++)](https://www.linkedin.com/jobs/view/4445803699/) — NetApp
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-08-01
-
-### [Sr. Open Source Software Engineer (Kafka)](https://www.linkedin.com/jobs/view/4445807630/) — NetApp
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-08-01
-
-### [Senior Software Engineer, iOS](https://www.linkedin.com/jobs/view/4409986969/) — Roblox
-- 📍 **Location:** San Mateo, CA
-- 🕒 **Posted:** 2026-08-01
-
-### [Senior Software Engineer, Kubernetes Networking](https://www.linkedin.com/jobs/view/4429623293/) — Roblox
-- 📍 **Location:** San Mateo, CA
-- 🕒 **Posted:** 2026-08-01
-
-### [Senior Software Engineer, Enterprise Systems](https://www.linkedin.com/jobs/view/4439320208/) — Zipline
+### [Data Scientist](https://www.linkedin.com/jobs/view/4416753091/) — Structure Therapeutics
 - 📍 **Location:** South San Francisco, CA
 - 🕒 **Posted:** 2026-08-01
 
-### [Lead Software Engineer in Test, Machine Learning Systems](https://www.linkedin.com/jobs/view/4370810256/) — Modular
-- 📍 **Location:** Los Altos, CA
-- 🕒 **Posted:** 2026-08-01
-
-### [Software Engineer, Accounting](https://www.linkedin.com/jobs/view/4364919811/) — Ramp
+### [Machine Learning Engineer](https://www.linkedin.com/jobs/view/4447823384/) — DevExplore
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-08-01
 
-### [Senior Software Engineer, Prenatal](https://www.linkedin.com/jobs/view/4328813241/) — BillionToOne
-- 📍 **Location:** Menlo Park, CA
+### [Deep Learning Intern](https://www.linkedin.com/jobs/view/4447816499/) — DevExplore
+- 📍 **Location:** Santa Clara, CA
 - 🕒 **Posted:** 2026-08-01
 
-### [Data Scientist, Product Analytics](https://www.linkedin.com/jobs/view/4439339914/) — Talution Group
+### [Software Engineer](https://www.linkedin.com/jobs/view/4438370778/) — Glean
+- 📍 **Location:** Mountain View, CA
+- 🕒 **Posted:** 2026-08-01
+
+### [Software Engineer](https://www.linkedin.com/jobs/view/4438370777/) — Glean
+- 📍 **Location:** Mountain View, CA
+- 🕒 **Posted:** 2026-08-01
+
+### [Software Engineer, Adoption](https://www.linkedin.com/jobs/view/4429663086/) — Cohere
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-08-01
+
+### [Research Engineer, Knowledge Team](https://www.linkedin.com/jobs/view/4409985166/) — Anthropic
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-08-01
+
+### [Research Engineer, Computer Vision](https://www.linkedin.com/jobs/view/4445594900/) — Meta
+- 📍 **Location:** Sunnyvale, CA
+- 💰 **Salary:** $183,997.00/yr - $257,000.00/yr
+- 🕒 **Posted:** 2026-08-01
+
+### [Application Software Engineer, Inference](https://www.linkedin.com/jobs/view/4430744160/) — SpaceX
+- 📍 **Location:** Palo Alto, CA
+- 🕒 **Posted:** 2026-08-01
+
+### [Fullstack Software Engineer](https://www.linkedin.com/jobs/view/4411299806/) — Collective
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-08-01
+
+### [Software Engineer I, Commerce Engineering](https://www.linkedin.com/jobs/view/4390703326/) — Twitch
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-08-01
+
+### [Software Engineer](https://www.linkedin.com/jobs/view/4447815576/) — DevExplore
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-08-01
+
+### [Senior Software Engineer, Cluster Orchestration](https://www.linkedin.com/jobs/view/4390055368/) — CoreWeave
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-08-01
+
+### [Sr. Full Stack Engineer](https://www.linkedin.com/jobs/view/4363825438/) — Xona
+- 📍 **Location:** Burlingame, CA
+- 🕒 **Posted:** 2026-08-01
+
+### [Senior Backend Engineer (Security & Fleet Platform)](https://www.linkedin.com/jobs/view/4445810696/) — Medilinkers LLC
+- 📍 **Location:** Alameda, CA
+- 🕒 **Posted:** 2026-08-01
+
+### [Senior Software Engineer – Platform (Containers & Kubernetes)](https://www.linkedin.com/jobs/view/4429692800/) — AVEVA
+- 📍 **Location:** San Leandro, CA
+- 🕒 **Posted:** 2026-08-01
+
+### [Senior Data Scientist - Power BI & AI](https://www.linkedin.com/jobs/view/4430941186/) — Johnson & Johnson
+- 📍 **Location:** New Brunswick, NJ
+- 🕒 **Posted:** 2026-08-01
+
+### [Software Engineer, Developer Experience](https://www.linkedin.com/jobs/view/4429366312/) — Cape
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-08-01
 
-### [Software Engineer](https://www.linkedin.com/jobs/view/3986113593/) — Epic
-- 📍 **Location:** Edison, NJ
-- 🕒 **Posted:** 2026-08-01
-
-### [Engineer, Data Engineering & Intelligence](https://www.linkedin.com/jobs/view/4419354122/) — Publicis Digital Experience
+### [Data Engineer](https://www.linkedin.com/jobs/view/4429361304/) — Cape
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-08-01
 
-### [Software Engineer](https://www.linkedin.com/jobs/view/3986117167/) — Epic
-- 📍 **Location:** Yonkers, NY
-- 🕒 **Posted:** 2026-08-01
-
-### [Software Engineer](https://www.linkedin.com/jobs/view/3986111795/) — Epic
-- 📍 **Location:** New Haven, CT
-- 🕒 **Posted:** 2026-08-01
-
-### [Full Stack Software Engineer (Equity)](https://www.linkedin.com/jobs/view/4436639301/) — CyberCoders
-- 📍 **Location:** Brooklyn, NY
-- 💰 **Salary:** $150,000.00/yr - $175,000.00/yr
-- 🕒 **Posted:** 2026-08-01
-
-### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4420460795/) — Gong
+### [Data Scientist, Product Analytics](https://www.linkedin.com/jobs/view/4436646029/) — Objective Partners
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-08-01
 
-### [Manager, Data Engineer (Remote)](https://www.linkedin.com/jobs/view/4417661426/) — Arch Capital Group Ltd.
-- 📍 **Location:** White Plains, NY
-- 💰 **Salary:** $100,500.00/yr - $174,000.00/yr
-- 🕒 **Posted:** 2026-08-01
-
-### [Senior Software Engineer, Box Office Platform](https://www.linkedin.com/jobs/view/4436632083/) — CoreWeave
+### [Senior Developer - AI Software Engineer](https://www.linkedin.com/jobs/view/4390494148/) — Neuberger
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-08-01
 
-### [Senior Structural Engineer - Temporary Structures - Kiewit Infrastructure Engineering](https://www.linkedin.com/jobs/view/4419340867/) — Kiewit
-- 📍 **Location:** Manhattan, NY
+### [Data Scientist (Remote Eligible)](https://www.linkedin.com/jobs/view/4436618777/) — Mathematica
+- 📍 **Location:** Princeton, NJ
+- 🕒 **Posted:** 2026-08-01
+
+### [Senior Manager, Data Science, B2B Marketing Analytics](https://www.linkedin.com/jobs/view/4440452458/) — Dow Jones
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-08-01
+
+### [Pipeline - Future Software Engineer Opportunity, Enterprise Technology Services (ETS)](https://www.linkedin.com/jobs/view/4438384051/) — American Express
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-08-01
+
+### [Senior Software Engineer - Canton Network Team](https://www.linkedin.com/jobs/view/4360939566/) — Digital Asset
+- 📍 **Location:** New York City Metropolitan Area
+- 🕒 **Posted:** 2026-08-01
+
+### [Software Engineer, Systems ML - Compilers / Backend](https://www.linkedin.com/jobs/view/4445800768/) — Meta
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $154,003.00/yr - $217,000.00/yr
+- 🕒 **Posted:** 2026-08-01
+
+### [Senior Software Engineer - API Platform & Client Tooling](https://www.linkedin.com/jobs/view/4436638320/) — CoreWeave
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-08-01
+
+### [Senior Platform Engineer](https://www.linkedin.com/jobs/view/4416683941/) — Bain & Company
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-08-01
+
+### [Senior Azure Cloud Engineer](https://www.linkedin.com/jobs/view/4419314573/) — Newmark
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-08-01
+
+### [Research Engineer, Knowledge Team](https://www.linkedin.com/jobs/view/4409984163/) — Anthropic
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-08-01
+
+### [Research Engineer, Domain Scaling](https://www.linkedin.com/jobs/view/4430001901/) — Anthropic
+- 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-08-01
