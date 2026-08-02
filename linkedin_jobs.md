@@ -1,12 +1,13 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-08-01 23:17 UTC*
+*Last updated: 2026-08-02 00:17 UTC*
 
-**2 new role(s)** since last run · 5 total in last 1h
+**2 new role(s)** since last run · 3 total in last 1h
 
-### [AI Systems engineer](https://www.linkedin.com/jobs/view/4447844031/) — Tilted AI
-- 📍 **Location:** San Francisco, CA
+### [Security Engineer, Privy](https://www.linkedin.com/jobs/view/4445821257/) — Paradigm Operations LP-AL
+- 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-08-01
 
-### [Backend Engineer (Golang)](https://www.linkedin.com/jobs/view/4447850217/) — World HR Services
-- 📍 **Location:** Brooklyn, NY
+### [Senior Software Engineer, Video](https://www.linkedin.com/jobs/view/4447865245/) — Mashgin
+- 📍 **Location:** Palo Alto, CA
+- 💰 **Salary:** $185,000.00/yr - $275,000.00/yr
 - 🕒 **Posted:** 2026-08-01
