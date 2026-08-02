@@ -1,40 +1,77 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-08-02 17:17 UTC*
+*Last updated: 2026-08-02 18:18 UTC*
 
-**9 new role(s)** since last run · 23 total in last 1h
+**18 new role(s)** since last run · 24 total in last 1h
 
-### [Senior Applied Scientist](https://www.linkedin.com/jobs/view/4411609385/) — Microsoft
+### [Machine Learning Engineer, GAI Search Relevance - Moveworks](https://www.linkedin.com/jobs/view/4420488705/) — ServiceNow
 - 📍 **Location:** Mountain View, CA
 - 🕒 **Posted:** 2026-08-02
 
-### [Software Engineer, Data Foundations](https://www.linkedin.com/jobs/view/4326300588/) — Glean
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-08-02
-
-### [GenAI Python Systems Engineer – Senior Associate](https://www.linkedin.com/jobs/view/4411727554/) — PwC
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-08-02
-
-### [Senior Systems Engineer, Customer Programs](https://www.linkedin.com/jobs/view/4390811721/) — AEye, Inc.
-- 📍 **Location:** Pleasanton, CA
-- 🕒 **Posted:** 2026-08-02
-
-### [Senior Software Engineer (Full-Stack)](https://www.linkedin.com/jobs/view/4445849649/) — AI Talent Hunt Cloud
+### [Backend Software Engineer](https://www.linkedin.com/jobs/view/4445792526/) — GoldEye Capital
 - 📍 **Location:** San Francisco Bay Area
 - 🕒 **Posted:** 2026-08-02
 
-### [Senior Software Engineer, Platform](https://www.linkedin.com/jobs/view/4402659397/) — Ambience Healthcare
-- 📍 **Location:** San Francisco, CA
+### [Software Engineer, TensorRT Specialized Platforms - New College Grad 2025](https://www.linkedin.com/jobs/view/4422061566/) — NVIDIA
+- 📍 **Location:** Santa Clara, CA
 - 🕒 **Posted:** 2026-08-02
 
-### [Senior Software Engineer, Backend (AI)](https://www.linkedin.com/jobs/view/4370585061/) — Posh
-- 📍 **Location:** New York City Metropolitan Area
+### [Senior Software Engineer, At Scale Compute Analysis](https://www.linkedin.com/jobs/view/4402775288/) — NVIDIA
+- 📍 **Location:** Santa Clara, CA
 - 🕒 **Posted:** 2026-08-02
 
-### [Distributed Systems Engineer](https://www.linkedin.com/jobs/view/4436684258/) — Moment
+### [Machine Learning Engineering Manager, GAI Search Relevance - Moveworks](https://www.linkedin.com/jobs/view/4369052901/) — ServiceNow
+- 📍 **Location:** Mountain View, CA
+- 🕒 **Posted:** 2026-08-02
+
+### [GPU Development Tools System Software Engineer](https://www.linkedin.com/jobs/view/4401821154/) — NVIDIA
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-08-02
+
+### [System Software Engineer, GPU Development Tools](https://www.linkedin.com/jobs/view/4402307640/) — NVIDIA
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-08-02
+
+### [Senior Life Cycle Engineer, PyTorch - Deep Learning](https://www.linkedin.com/jobs/view/4402330638/) — NVIDIA
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-08-02
+
+### [Senior Embedded Software Engineer - AV Platform](https://www.linkedin.com/jobs/view/4402755737/) — NVIDIA
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-08-02
+
+### [Applied Scientist- Pricing, Dynamic Pricing & Offer Selection](https://www.linkedin.com/jobs/view/4447668119/) — CHEManager International
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-08-02
 
-### [Signal Systems Engineer](https://www.linkedin.com/jobs/view/4378334553/) — RailWorks Corporation
+### [Applied Scientist- Pricing, Dynamic Pricing & Offer Selection](https://www.linkedin.com/jobs/view/4371636314/) — Lyft
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-08-02
+
+### [Senior Data Scientist](https://www.linkedin.com/jobs/view/4410875180/) — Adonis
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-08-02
+
+### [Machine Learning Scientist/Senior Machine Learning Scientist - Synthesis Planning and Optimization, AI for Drug Discovery](https://www.linkedin.com/jobs/view/4431314616/) — Genentech
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-08-02
+
+### [Risk Modeling Services - AI Data Scientist Senior Manager](https://www.linkedin.com/jobs/view/4390726660/) — PwC
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-08-02
+
+### [Full-Stack Cloud Engineer](https://www.linkedin.com/jobs/view/4438953220/) — PwC
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-08-02
+
+### [Senior Software Engineer - Hadoop Infrastructure](https://www.linkedin.com/jobs/view/4390011376/) — Bloomberg
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $160,000.00/yr - $240,000.00/yr
+- 🕒 **Posted:** 2026-08-02
+
+### [Full-Stack Cloud Engineer](https://www.linkedin.com/jobs/view/4438944416/) — PwC
+- 📍 **Location:** Florham Park, NJ
+- 🕒 **Posted:** 2026-08-02
+
+### [Senior Software Engineer (Roku)](https://www.linkedin.com/jobs/view/4411791117/) — CNN
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-08-02
