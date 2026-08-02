@@ -1,69 +1,33 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-08-02 20:18 UTC*
+*Last updated: 2026-08-02 21:17 UTC*
 
-**16 new role(s)** since last run · 22 total in last 1h
+**7 new role(s)** since last run · 9 total in last 1h
 
-### [Machine Learning Engineer](https://www.linkedin.com/jobs/view/4447669226/) — Wajo AI
+### [Senior Software Engineer (Full-Stack)](https://www.linkedin.com/jobs/view/4445864001/) — World HR Services
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-08-02
 
-### [Software Engineer, AI Platform](https://www.linkedin.com/jobs/view/4447653601/) — Catalis Partners Group
-- 📍 **Location:** San Francisco, CA
+### [Infrastructure Engineer architect /Full time role](https://www.linkedin.com/jobs/view/4448116566/) — HARAMAIN SYSTEMS INC.
+- 📍 **Location:** Palo Alto, CA
+- 💰 **Salary:** $150,000.00/yr - $180,000.00/yr
 - 🕒 **Posted:** 2026-08-02
 
-### [Research Scientist, AI x Quantum](https://www.linkedin.com/jobs/view/4446482793/) — kadence
+### [Senior Software Engineer, Product](https://www.linkedin.com/jobs/view/4447673239/) — Jobright.ai
+- 📍 **Location:** Burlingame, CA
+- 🕒 **Posted:** 2026-08-02
+
+### [Senior Full Stack Software Engineer](https://www.linkedin.com/jobs/view/4447673242/) — Jobright.ai
+- 📍 **Location:** Palo Alto, CA
+- 🕒 **Posted:** 2026-08-02
+
+### [Software Engineer Intern](https://www.linkedin.com/jobs/view/4447669315/) — Jobright.ai
 - 📍 **Location:** San Francisco Bay Area
 - 🕒 **Posted:** 2026-08-02
 
-### [Software Engineer, Collections Experience](https://www.linkedin.com/jobs/view/4447668230/) — Catalis Partners Group
-- 📍 **Location:** San Francisco, CA
+### [Software Engineer - C++ Quantitative Trading](https://www.linkedin.com/jobs/view/4441003793/) — Acquire Me
+- 📍 **Location:** New York City Metropolitan Area
 - 🕒 **Posted:** 2026-08-02
 
-### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4441804746/) — Haystack
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $212,700.00/yr - $287,700.00/yr
-- 🕒 **Posted:** 2026-08-02
-
-### [Software Engineer, Developer Experience (Go Lead)](https://www.linkedin.com/jobs/view/4447652560/) — Catalis Partners Group
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-08-02
-
-### [Data Scientist Intern](https://www.linkedin.com/jobs/view/4447650772/) — Jobright.ai
-- 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-08-02
-
-### [Software Engineer, Early Career](https://www.linkedin.com/jobs/view/4447649754/) — Catalis Partners Group
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-08-02
-
-### [Software Engineer - AI Agent](https://www.linkedin.com/jobs/view/4447667297/) — Jobright.ai
-- 📍 **Location:** San Mateo County, CA
-- 🕒 **Posted:** 2026-08-02
-
-### [Software Engineer, AI Capture](https://www.linkedin.com/jobs/view/4447650726/) — Catalis Partners Group
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-08-02
-
-### [Software Engineer, Web Infrastructure](https://www.linkedin.com/jobs/view/4447661377/) — Catalis Partners Group
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-08-02
-
-### [Software Engineer, Trust](https://www.linkedin.com/jobs/view/4447660370/) — Catalis Partners Group
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-08-02
-
-### [Software Engineer, AI Workflows](https://www.linkedin.com/jobs/view/4447663319/) — Catalis Partners Group
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-08-02
-
-### [Senior Insurance Data Scientist](https://www.linkedin.com/jobs/view/4445850767/) — Independence American Insurance Company
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-08-02
-
-### [Jr. Embedded Software Engineer](https://www.linkedin.com/jobs/view/4448120240/) — MillenniumSoft Inc
-- 📍 **Location:** Franklin Lakes, NJ
-- 🕒 **Posted:** 2026-08-02
-
-### [HBITS-08-14920-Cloud Engineer-Senior](https://www.linkedin.com/jobs/view/4448111454/) — Knowledge Builders Inc
-- 📍 **Location:** New York, NY
+### [Site Reliability Engineer - Quantitative Trading](https://www.linkedin.com/jobs/view/4429410207/) — Acquire Me
+- 📍 **Location:** New York City Metropolitan Area
 - 🕒 **Posted:** 2026-08-02
