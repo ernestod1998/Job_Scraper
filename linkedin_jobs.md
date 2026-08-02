@@ -1,33 +1,25 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-08-02 21:17 UTC*
+*Last updated: 2026-08-02 22:17 UTC*
 
-**7 new role(s)** since last run · 9 total in last 1h
+**5 new role(s)** since last run · 11 total in last 1h
 
-### [Senior Software Engineer (Full-Stack)](https://www.linkedin.com/jobs/view/4445864001/) — World HR Services
-- 📍 **Location:** San Francisco, CA
+### [Data Science Engineer](https://www.linkedin.com/jobs/view/4420675769/) — Lawrence Livermore National Laboratory
+- 📍 **Location:** Livermore, CA
 - 🕒 **Posted:** 2026-08-02
 
-### [Infrastructure Engineer architect /Full time role](https://www.linkedin.com/jobs/view/4448116566/) — HARAMAIN SYSTEMS INC.
-- 📍 **Location:** Palo Alto, CA
-- 💰 **Salary:** $150,000.00/yr - $180,000.00/yr
-- 🕒 **Posted:** 2026-08-02
-
-### [Senior Software Engineer, Product](https://www.linkedin.com/jobs/view/4447673239/) — Jobright.ai
-- 📍 **Location:** Burlingame, CA
-- 🕒 **Posted:** 2026-08-02
-
-### [Senior Full Stack Software Engineer](https://www.linkedin.com/jobs/view/4447673242/) — Jobright.ai
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-08-02
-
-### [Software Engineer Intern](https://www.linkedin.com/jobs/view/4447669315/) — Jobright.ai
+### [Software Engineer](https://www.linkedin.com/jobs/view/4447649915/) — Akia
 - 📍 **Location:** San Francisco Bay Area
 - 🕒 **Posted:** 2026-08-02
 
-### [Software Engineer - C++ Quantitative Trading](https://www.linkedin.com/jobs/view/4441003793/) — Acquire Me
-- 📍 **Location:** New York City Metropolitan Area
+### [Software Engineer](https://www.linkedin.com/jobs/view/4447658563/) — Jobright.ai
+- 📍 **Location:** Los Altos, CA
 - 🕒 **Posted:** 2026-08-02
 
-### [Site Reliability Engineer - Quantitative Trading](https://www.linkedin.com/jobs/view/4429410207/) — Acquire Me
+### [Technical Lead Platform Engineer](https://www.linkedin.com/jobs/view/4447649921/) — Jobright.ai
+- 📍 **Location:** Palo Alto, CA
+- 🕒 **Posted:** 2026-08-02
+
+### [Data Engineer - Quantitative Research & Trading](https://www.linkedin.com/jobs/view/4445858788/) — Acquire Me
 - 📍 **Location:** New York City Metropolitan Area
+- 💰 **Salary:** $250,000.00/yr - $350,000.00/yr
 - 🕒 **Posted:** 2026-08-02
