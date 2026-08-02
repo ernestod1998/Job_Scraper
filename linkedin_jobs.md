@@ -1,32 +1,69 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-08-02 19:18 UTC*
+*Last updated: 2026-08-02 20:18 UTC*
 
-**7 new role(s)** since last run · 13 total in last 1h
+**16 new role(s)** since last run · 22 total in last 1h
 
-### [Software Engineer](https://www.linkedin.com/jobs/view/3986118126/) — Epic
-- 📍 **Location:** Sunnyvale, CA
+### [Machine Learning Engineer](https://www.linkedin.com/jobs/view/4447669226/) — Wajo AI
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-08-02
 
-### [Software Engineer II - Identity](https://www.linkedin.com/jobs/view/4417997343/) — Electronic Arts (EA)
-- 📍 **Location:** Redwood City, CA
+### [Software Engineer, AI Platform](https://www.linkedin.com/jobs/view/4447653601/) — Catalis Partners Group
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-08-02
 
-### [Site Reliability Engineer - Data Infrastructure](https://www.linkedin.com/jobs/view/4447671145/) — TikTok
-- 📍 **Location:** San Jose, CA
+### [Research Scientist, AI x Quantum](https://www.linkedin.com/jobs/view/4446482793/) — kadence
+- 📍 **Location:** San Francisco Bay Area
 - 🕒 **Posted:** 2026-08-02
 
-### [Senior Site Reliability Engineer - Data Infrastructure (San Jose)](https://www.linkedin.com/jobs/view/4447650680/) — ByteDance
-- 📍 **Location:** San Jose, CA
+### [Software Engineer, Collections Experience](https://www.linkedin.com/jobs/view/4447668230/) — Catalis Partners Group
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-08-02
 
-### [Tech Lead - Data Infrastructure Site Reliability](https://www.linkedin.com/jobs/view/4447668187/) — ByteDance
-- 📍 **Location:** San Jose, CA
+### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4441804746/) — Haystack
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $212,700.00/yr - $287,700.00/yr
 - 🕒 **Posted:** 2026-08-02
 
-### [PhD Research Intern, Generative AI - 2026](https://www.linkedin.com/jobs/view/4419334985/) — NVIDIA
-- 📍 **Location:** Santa Clara, CA
+### [Software Engineer, Developer Experience (Go Lead)](https://www.linkedin.com/jobs/view/4447652560/) — Catalis Partners Group
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-08-02
 
-### [Senior Machine Learning Engineer, Personalization, Magenta](https://www.linkedin.com/jobs/view/4411645730/) — Spotify
+### [Data Scientist Intern](https://www.linkedin.com/jobs/view/4447650772/) — Jobright.ai
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-08-02
+
+### [Software Engineer, Early Career](https://www.linkedin.com/jobs/view/4447649754/) — Catalis Partners Group
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-08-02
+
+### [Software Engineer - AI Agent](https://www.linkedin.com/jobs/view/4447667297/) — Jobright.ai
+- 📍 **Location:** San Mateo County, CA
+- 🕒 **Posted:** 2026-08-02
+
+### [Software Engineer, AI Capture](https://www.linkedin.com/jobs/view/4447650726/) — Catalis Partners Group
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-08-02
+
+### [Software Engineer, Web Infrastructure](https://www.linkedin.com/jobs/view/4447661377/) — Catalis Partners Group
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-08-02
+
+### [Software Engineer, Trust](https://www.linkedin.com/jobs/view/4447660370/) — Catalis Partners Group
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-08-02
+
+### [Software Engineer, AI Workflows](https://www.linkedin.com/jobs/view/4447663319/) — Catalis Partners Group
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-08-02
+
+### [Senior Insurance Data Scientist](https://www.linkedin.com/jobs/view/4445850767/) — Independence American Insurance Company
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-08-02
+
+### [Jr. Embedded Software Engineer](https://www.linkedin.com/jobs/view/4448120240/) — MillenniumSoft Inc
+- 📍 **Location:** Franklin Lakes, NJ
+- 🕒 **Posted:** 2026-08-02
+
+### [HBITS-08-14920-Cloud Engineer-Senior](https://www.linkedin.com/jobs/view/4448111454/) — Knowledge Builders Inc
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-08-02
