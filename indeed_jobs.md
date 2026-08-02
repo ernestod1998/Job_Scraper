@@ -1,9 +1,9 @@
 # 🟦 Indeed — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-08-02 22:32 UTC*
+*Last updated: 2026-08-02 23:35 UTC*
 
-**1 new role(s)** since last run · 35 total in last 24h
+**1 new role(s)** since last run · 36 total in last 24h
 
-### [Infrastructure Engineer architect /Full time role](https://www.indeed.com/viewjob?jk=06e7465350516210) — HARAMAIN SYSTEMS INC.
-- 📍 **Location:** Palo Alto, CA, US
-- 💰 **Salary:** $150k–$180k/yr
-- 🕒 **Posted:** 2026-08-02
+### [Data Scientist, Sales AI](https://www.indeed.com/viewjob?jk=aa9b9cb38f5a5ca6) — Amazon.com
+- 📍 **Location:** New York, NY, US
+- 💰 **Salary:** $153k–$208k/yr
+- 🕒 **Posted:** 2026-07-20
