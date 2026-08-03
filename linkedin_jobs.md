@@ -1,136 +1,137 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-08-03 21:18 UTC*
+*Last updated: 2026-08-03 22:18 UTC*
 
-**29 new role(s)** since last run · 56 total in last 1h
+**32 new role(s)** since last run · 37 total in last 1h
 
-### [Agent Engineer AI Software Engineer](https://www.linkedin.com/jobs/view/4448612987/) — VBeyond Corporation
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-08-03
-
-### [Software Engineer, Payments Product Lead](https://www.linkedin.com/jobs/view/4446237956/) — Aptos Labs
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-08-03
-
-### [Sr. Software Engineer, CDN (Starlink)](https://www.linkedin.com/jobs/view/4448398879/) — SpaceX
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-08-03
-
-### [Data Engineer – PSQA](https://www.linkedin.com/jobs/view/4446260003/) — Ursus, Inc.
-- 📍 **Location:** Foster City, CA
-- 💰 **Salary:** $30.00/hr - $38.89/hr
-- 🕒 **Posted:** 2026-08-03
-
-### [Robotics Software Engineer](https://www.linkedin.com/jobs/view/4448625387/) — Mind Robotics
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-08-03
-
-### [Associate Software Engineer](https://www.linkedin.com/jobs/view/4448251080/) — Coforge
+### [Senior Software Engineer, Accounting](https://www.linkedin.com/jobs/view/4279291478/) — AngelList
 - 📍 **Location:** San Francisco Bay Area
-- 💰 **Salary:** $70,000.00/yr - $75,000.00/yr
 - 🕒 **Posted:** 2026-08-03
 
-### [Software Engineer 3 Backend - eBay Live](https://www.linkedin.com/jobs/view/4446248721/) — eBay
+### [Navigation Software Engineer (Embedded/C/C++, GNSS & Sensor)](https://www.linkedin.com/jobs/view/4407898146/) — Xoriant
 - 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-08-03
 
-### [Senior Software Engineer (Full-Stack)](https://www.linkedin.com/jobs/view/4446234953/) — Medilinkers LLC
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-08-03
-
-### [Site Reliability Engineering Tech Lead](https://www.linkedin.com/jobs/view/4446253475/) — DataHub
+### [Sr. Full Stack Software Engineer, Distributed Systems, Energy Software](https://www.linkedin.com/jobs/view/4448634317/) — Tesla
 - 📍 **Location:** Palo Alto, CA
 - 🕒 **Posted:** 2026-08-03
 
-### [Operator Security Engineer](https://www.linkedin.com/jobs/view/4448250030/) — Staffing Spot, Inc.
-- 📍 **Location:** Fremont, CA
-- 💰 **Salary:** $60.00/hr - $66.00/hr
+### [Senior Backend Engineer (Full-Stack Capable)](https://www.linkedin.com/jobs/view/4446254822/) — Orkes
+- 📍 **Location:** Santa Clara, CA
 - 🕒 **Posted:** 2026-08-03
 
-### [Operator Security Engineer](https://www.linkedin.com/jobs/view/4448247347/) — Staffing Spot, Inc.
+### [Sr. Full Stack Engineer](https://www.linkedin.com/jobs/view/4448236959/) — Illumio
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-08-03
+
+### [Senior Frontend Engineer (Full-Stack Capable)](https://www.linkedin.com/jobs/view/4446257617/) — Orkes
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-08-03
+
+### [Software Engineer](https://www.linkedin.com/jobs/view/4448629445/) — Atlassian
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-08-03
+
+### [Software Engineer, Product](https://www.linkedin.com/jobs/view/4448245730/) — Harmonic
+- 📍 **Location:** Palo Alto, CA
+- 🕒 **Posted:** 2026-08-03
+
+### [(USA) Senior, Software Engineer](https://www.linkedin.com/jobs/view/4446257673/) — Walmart
 - 📍 **Location:** Sunnyvale, CA
-- 💰 **Salary:** $60.00/hr - $66.00/hr
+- 💰 **Salary:** $117,000.00/yr - $234,000.00/yr
 - 🕒 **Posted:** 2026-08-03
 
-### [Operator Security Engineer](https://www.linkedin.com/jobs/view/4448240507/) — Staffing Spot, Inc.
+### [Agent Engineer AI Software Engineer - Only locals](https://www.linkedin.com/jobs/view/4448629675/) — VBeyond Corporation
 - 📍 **Location:** Palo Alto, CA
-- 💰 **Salary:** $60.00/hr - $66.00/hr
 - 🕒 **Posted:** 2026-08-03
 
-### [Operator Security Engineer](https://www.linkedin.com/jobs/view/4448237569/) — Staffing Spot, Inc.
-- 📍 **Location:** San Jose, CA
-- 💰 **Salary:** $60.00/hr - $66.00/hr
+### [Model Systems Engineer](https://www.linkedin.com/jobs/view/4448617570/) — Mind Robotics
+- 📍 **Location:** Palo Alto, CA
 - 🕒 **Posted:** 2026-08-03
 
-### [Lead Data Engineer](https://www.linkedin.com/jobs/view/4436269258/) — State Bar of California
-- 📍 **Location:** San Francisco Bay Area
-- 💰 **Salary:** $112,497.00/yr - $149,972.00/yr
+### [(USA) Senior, Software Engineer](https://www.linkedin.com/jobs/view/4446267037/) — Walmart
+- 📍 **Location:** Sunnyvale, CA
+- 💰 **Salary:** $117,000.00/yr - $234,000.00/yr
 - 🕒 **Posted:** 2026-08-03
 
-### [Senior Windchill PLM Software Engineer](https://www.linkedin.com/jobs/view/4448228913/) — Experis
-- 📍 **Location:** Menlo Park, CA
-- 🕒 **Posted:** 2026-08-03
-
-### [Senior Machine Learning Engineer (Robotics & Physical AI)](https://www.linkedin.com/jobs/view/4441003625/) — Empathy Talent
-- 📍 **Location:** Brooklyn, NY
-- 💰 **Salary:** $175,000.00/yr - $250,000.00/yr
-- 🕒 **Posted:** 2026-08-03
-
-### [Senior Software Engineer (Python)](https://www.linkedin.com/jobs/view/4448238661/) — Fintal Partners
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $300,000.00/yr - $500,000.00/yr
-- 🕒 **Posted:** 2026-08-03
-
-### [Software Engineer - Back End (New York)](https://www.linkedin.com/jobs/view/4385013703/) — Edra
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $200,000.00/yr - $300,000.00/yr
-- 🕒 **Posted:** 2026-08-03
-
-### [Software Engineer, Data](https://www.linkedin.com/jobs/view/4446249879/) — Mitchell Martin Inc.
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $90,000.00/yr - $115,000.00/yr
-- 🕒 **Posted:** 2026-08-03
-
-### [Senior Data Scientist ( Onsite)](https://www.linkedin.com/jobs/view/4448229737/) — Cognizant
+### [Lead Platform Engineer](https://www.linkedin.com/jobs/view/4446243929/) — Barclays
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-08-03
 
-### [Sr. Software Engineer, LIMS](https://www.linkedin.com/jobs/view/4448232773/) — NeoGenomics Laboratories
-- 📍 **Location:** Ramsey, NJ
+### [Data Scientist III - Financial Crimes Modeling](https://www.linkedin.com/jobs/view/4448624496/) — TD
+- 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-08-03
 
-### [Senior Data Engineer](https://www.linkedin.com/jobs/view/4448245462/) — Wagmo
+### [Data Scientist - Financial Crime Customer Risk (AML/KYC)](https://www.linkedin.com/jobs/view/4448634331/) — TD
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-08-03
+
+### [Azure Data Engineer](https://www.linkedin.com/jobs/view/4446252806/) — TechWish
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-08-03
+
+### [Senior DevOps Engineer](https://www.linkedin.com/jobs/view/4448632411/) — Scan.com
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-08-03
+
+### [Site Reliability Engineer , Engineering Enablement (Remote)](https://www.linkedin.com/jobs/view/4448615866/) — Cisco
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-08-03
+
+### [Senior Platform Engineer, Banking](https://www.linkedin.com/jobs/view/4389207486/) — AngelList
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-08-03
+
+### [Senior Software Engineer (Vulnerability Platform Development)](https://www.linkedin.com/jobs/view/4448629210/) — Amtex Systems Inc
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-08-03
+
+### [Software Engineer Intern](https://www.linkedin.com/jobs/view/4448627724/) — dae
+- 📍 **Location:** New Haven, CT
+- 🕒 **Posted:** 2026-08-03
+
+### [Senior Software Engineer II - Streaming and Durability](https://www.linkedin.com/jobs/view/4441071862/) — Compass
+- 📍 **Location:** Manhattan, NY
+- 🕒 **Posted:** 2026-08-03
+
+### [Data Engineer - New York](https://www.linkedin.com/jobs/view/4448613832/) — Jain Global
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-08-03
+
+### [Software Engineer, TypeScript/React](https://www.linkedin.com/jobs/view/4447240829/) — T-Mobile
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-08-03
+
+### [Python Software Engineer](https://www.linkedin.com/jobs/view/4448250225/) — Randstad Digital Americas
+- 📍 **Location:** Jersey City, NJ
+- 💰 **Salary:** $54.62/hr - $64.62/hr
+- 🕒 **Posted:** 2026-08-03
+
+### [Software Systems Engineer](https://www.linkedin.com/jobs/view/4446265013/) — Synectics Inc.
+- 📍 **Location:** Middletown, NJ
+- 💰 **Salary:** $79.00/hr - $94.00/hr
+- 🕒 **Posted:** 2026-08-03
+
+### [Linux Security Engineer](https://www.linkedin.com/jobs/view/4448626699/) — Tekskills Inc.
 - 📍 **Location:** New York City Metropolitan Area
-- 💰 **Salary:** $180,000.00/yr - $210,000.00/yr
 - 🕒 **Posted:** 2026-08-03
 
-### [Senior Software Engineer, Trading Infrastructure](https://www.linkedin.com/jobs/view/4446248517/) — Aptos Labs
+### [Network Systems Engineer (Pre-Sales) - NYC](https://www.linkedin.com/jobs/view/4436856556/) — Arista Networks
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-08-03
 
-### [Full Stack Engineer](https://www.linkedin.com/jobs/view/4446245900/) — Fixity Technologies
+### [Senior Cybersecurity Engineer](https://www.linkedin.com/jobs/view/4448616669/) — Glocomms
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $175,000.00/yr - $200,000.00/yr
+- 🕒 **Posted:** 2026-08-03
+
+### [GCP Data Engineer](https://www.linkedin.com/jobs/view/4446265010/) — TechWish
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-08-03
 
-### [Software Engineer Manager - Tooling Team](https://www.linkedin.com/jobs/view/4446244765/) — IBM
-- 📍 **Location:** Yorktown Heights, NY
-- 💰 **Salary:** $234,000.00/yr - $300,000.00/yr
+### [Sr Data Engineer](https://www.linkedin.com/jobs/view/4448240841/) — Amaze Systems
+- 📍 **Location:** Jersey City, NJ
 - 🕒 **Posted:** 2026-08-03
 
-### [Azure Databricks Data Engineer](https://www.linkedin.com/jobs/view/4446252697/) — LTM
-- 📍 **Location:** Raritan, NJ
-- 💰 **Salary:** $100,000.00/yr - $135,000.00/yr
-- 🕒 **Posted:** 2026-08-03
-
-### [Trading Systems Engineer](https://www.linkedin.com/jobs/view/4448229719/) — Fintal Partners
-- 📍 **Location:** New York City Metropolitan Area
-- 💰 **Salary:** $250,000.00/yr - $400,000.00/yr
-- 🕒 **Posted:** 2026-08-03
-
-### [Senior Cybersecurity Engineer - IAM & Endpoint Security Consultant - Onsite Interview](https://www.linkedin.com/jobs/view/4444160037/) — Hatch Pros
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-08-03
-
-### [Senior Data Engineer](https://www.linkedin.com/jobs/view/4446238892/) — LTM
-- 📍 **Location:** Raritan, NJ
-- 💰 **Salary:** $60,000.00/yr - $65,000.00/yr
+### [GCP Data Engineer](https://www.linkedin.com/jobs/view/4446256702/) — 
+- 📍 **Location:** Newark, NJ
 - 🕒 **Posted:** 2026-08-03
