@@ -1,23 +1,29 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-08-03 01:17 UTC*
+*Last updated: 2026-08-03 02:18 UTC*
 
-**4 new role(s)** since last run · 10 total in last 1h
+**5 new role(s)** since last run · 7 total in last 1h
 
-### [Full-Stack Engineer - Forward-Deployed (Remote)](https://www.linkedin.com/jobs/view/4447666980/) — Minerva (YC X25)
+### [Software Engineer](https://www.linkedin.com/jobs/view/4448139086/) — Zania
 - 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $2,000.00/yr - $4,000.00/yr
+- 💰 **Salary:** $100,000.00/yr - $200,000.00/yr
 - 🕒 **Posted:** 2026-08-02
 
-### [Security Engineer](https://www.linkedin.com/jobs/view/4447683114/) — METR
-- 📍 **Location:** San Francisco Bay Area
+### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4448141044/) — TruckSmarter
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $195,000.00/yr - $225,000.00/yr
 - 🕒 **Posted:** 2026-08-02
 
-### [Senior Associate, AI Data Scientist](https://www.linkedin.com/jobs/view/4448124115/) — TWG AI
+### [Research Engineer, Agentic Systems](https://www.linkedin.com/jobs/view/4448139091/) — Mirage
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $190,000.00/yr - $200,000.00/yr
+- 💰 **Salary:** $175,000.00/yr - $275,000.00/yr
 - 🕒 **Posted:** 2026-08-02
 
-### [Senior Machine Learning Engineer](https://www.linkedin.com/jobs/view/4448132090/) — Alignerr
+### [Research Engineer, Generative Video](https://www.linkedin.com/jobs/view/4448141038/) — Mirage
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $60.00/hr - $80.00/hr
+- 💰 **Salary:** $175,000.00/yr - $275,000.00/yr
+- 🕒 **Posted:** 2026-08-02
+
+### [Software Engineer, Backend](https://www.linkedin.com/jobs/view/4448133190/) — Mirage
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $175,000.00/yr - $275,000.00/yr
 - 🕒 **Posted:** 2026-08-02
