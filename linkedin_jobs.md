@@ -1,136 +1,157 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-08-04 02:18 UTC*
+*Last updated: 2026-08-04 03:18 UTC*
 
-**32 new role(s)** since last run · 44 total in last 1h
+**37 new role(s)** since last run · 62 total in last 1h
 
-### [ML Engineer](https://www.linkedin.com/jobs/view/4434758293/) — Wispr Flow
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $250,000.00/yr - $400,000.00/yr
-- 🕒 **Posted:** 2026-08-03
-
-### [Software Engineer/Senior Software Engineer, Applied ML & Data Mining](https://www.linkedin.com/jobs/view/4446279532/) — PlusAI
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-08-03
-
-### [Open Source Research Software Engineer: Computational Infrastructure (0652) Job #87957 - Berkeley Institute for Data Science (BIDS)](https://www.linkedin.com/jobs/view/4446278505/) — University of California, Berkeley
-- 📍 **Location:** Berkeley, CA
-- 🕒 **Posted:** 2026-08-03
-
-### [Forward Deployed Research Engineer](https://www.linkedin.com/jobs/view/4446259871/) — Clera
+### [Entry-Level Software Engineer](https://www.linkedin.com/jobs/view/4446265806/) — Pariveda
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-08-03
 
-### [Software Engineer/Senior Software Engineer, Data & ML Platform](https://www.linkedin.com/jobs/view/4446281444/) — PlusAI
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-08-03
-
-### [Research Engineer](https://www.linkedin.com/jobs/view/4446269727/) — Clera
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-08-03
-
-### [Research Engineer, Benchmarks](https://www.linkedin.com/jobs/view/4446278583/) — Clera
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-08-03
-
-### [Research Engineer, QC Automation](https://www.linkedin.com/jobs/view/4446263804/) — Clera
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-08-03
-
-### [Software Engineer, Product](https://www.linkedin.com/jobs/view/4444055272/) — KronosAI
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-08-03
-
-### [Software Engineer](https://www.linkedin.com/jobs/view/4447654699/) — HireLogic
-- 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-08-03
-
-### [Full Stack Engineer (Application Software)](https://www.linkedin.com/jobs/view/4448666881/) — SpaceX
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-08-03
-
-### [Senior Full Stack Software Engineer](https://www.linkedin.com/jobs/view/4446272435/) — Jobright.ai
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-08-03
-
-### [Software Engineer - Fleet Orchestration](https://www.linkedin.com/jobs/view/4446265741/) — Lambda
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $266,000.00/yr - $395,000.00/yr
-- 🕒 **Posted:** 2026-08-03
-
-### [Software Engineer - Fleet Orchestration](https://www.linkedin.com/jobs/view/4446266761/) — Lambda
-- 📍 **Location:** San Jose, CA
-- 💰 **Salary:** $266,000.00/yr - $395,000.00/yr
-- 🕒 **Posted:** 2026-08-03
-
-### [Sr. Mobile Application Software Engineer, Tesla App](https://www.linkedin.com/jobs/view/4448677520/) — Tesla
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-08-03
-
-### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4446280476/) — Checkr, Inc.
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-08-03
-
-### [Senior Software Engineer (Python), Mortgage](https://www.linkedin.com/jobs/view/4446280475/) — Checkr, Inc.
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-08-03
-
-### [Cyber SDC - Application Security Engineer - Senior - Consulting - Location Open](https://www.linkedin.com/jobs/view/4448669823/) — EY
+### [Machine Learning Engineer Graduate (Search Ads) - 2027 Start](https://www.linkedin.com/jobs/view/4446274960/) — TikTok
 - 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-08-03
 
-### [Cyber SDC - Application Security Engineer - Senior - Consulting - Location Open](https://www.linkedin.com/jobs/view/4448685109/) — EY
+### [Machine Learning Engineer Graduate (App Ads and Gaming) - 2027 Start](https://www.linkedin.com/jobs/view/4446282809/) — TikTok
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-08-03
+
+### [Machine Learning Engineer Graduate (Brand Ads) - 2027 Start](https://www.linkedin.com/jobs/view/4446281818/) — TikTok
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-08-03
+
+### [Machine Learning Engineer Intern (TikTok-Data-Search-Local Service) - 2027 Summer](https://www.linkedin.com/jobs/view/4446272991/) — TikTok
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-08-03
+
+### [Machine Learning Engineer Graduate (Lead Ads) - 2027 Start](https://www.linkedin.com/jobs/view/4446298006/) — TikTok
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-08-03
+
+### [Software Engineer](https://www.linkedin.com/jobs/view/4443632314/) — NetApp
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-08-03
+
+### [ML Infra Engineer Intern (Ads Infra) - 2027 Summer](https://www.linkedin.com/jobs/view/4446293081/) — TikTok
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-08-03
+
+### [Data Science - Analyst 4](https://www.linkedin.com/jobs/view/4446277765/) — eBay
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-08-03
+
+### [Machine Learning Engineer Graduate (TikTok Content Ecology) - 2027 Start (PhD)](https://www.linkedin.com/jobs/view/4446274962/) — TikTok
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-08-03
+
+### [Machine Learning Engineer Graduate (Commercial AI-CRM and Transaction) - 2027 Start](https://www.linkedin.com/jobs/view/4446284243/) — TikTok
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-08-03
+
+### [Backend Software Engineer (Cloud API & Microservices development)](https://www.linkedin.com/jobs/view/4443294851/) — NetApp
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-08-03
+
+### [Software Engineer - Hardware Test](https://www.linkedin.com/jobs/view/4446288156/) — Astranis Space Technologies
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-08-03
 
-### [Data Engineer - PSQA](https://www.linkedin.com/jobs/view/4446270645/) — HireArt
-- 📍 **Location:** Foster City, CA
+### [Hardware/Production Test Software Engineer](https://www.linkedin.com/jobs/view/4446289127/) — Astranis Space Technologies
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-08-03
 
-### [Entry-Level Software Engineer](https://www.linkedin.com/jobs/view/4446277675/) — Pariveda
+### [Software Engineer Graduate (Ads Interface) - 2027 Start](https://www.linkedin.com/jobs/view/4446286230/) — TikTok
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-08-03
+
+### [Software Engineer Graduate (Transaction Platform) - 2027 Start](https://www.linkedin.com/jobs/view/4446281814/) — TikTok
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-08-03
+
+### [Lead Backend Software Engineer (API & Microservices development)](https://www.linkedin.com/jobs/view/4443600291/) — NetApp
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-08-03
+
+### [Software Engineer Graduate(Ads Infrastructure) - 2027 Start](https://www.linkedin.com/jobs/view/4446281853/) — TikTok
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-08-03
+
+### [Frontend Software Engineer Graduate (Ads Interface) - 2027 Start](https://www.linkedin.com/jobs/view/4446272962/) — TikTok
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-08-03
+
+### [Frontend Software Engineer Graduate (Global CRM) - 2027 Start](https://www.linkedin.com/jobs/view/4446286227/) — TikTok
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-08-03
+
+### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4443605109/) — NetApp
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-08-03
+
+### [Software Engineer Intern (Global CRM) - 2027 Summer](https://www.linkedin.com/jobs/view/4446296046/) — TikTok
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-08-03
+
+### [Software Engineer Intern (TikTok - Shoot Experience Optimization) - 2027 Summer](https://www.linkedin.com/jobs/view/4446287202/) — TikTok
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-08-03
+
+### [Software Engineer Intern (TikTok - Effects Performance) - 2027 Summer](https://www.linkedin.com/jobs/view/4446289124/) — TikTok
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-08-03
+
+### [Backend Software Engineer Intern (Global E-Commerce) - 2027 Summer](https://www.linkedin.com/jobs/view/4446293082/) — TikTok
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-08-03
+
+### [Backend Software Engineer Intern (TikTok - Product Infrastructure) - 2027 Summer](https://www.linkedin.com/jobs/view/4446286259/) — TikTok
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-08-03
+
+### [Software Engineer Graduate (Global SRE) - 2027 Start](https://www.linkedin.com/jobs/view/4446297009/) — TikTok
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-08-03
+
+### [Software Engineer Intern (Ads Interface) - 2027 Summer](https://www.linkedin.com/jobs/view/4446272992/) — TikTok
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-08-03
+
+### [Data Engineer](https://www.linkedin.com/jobs/view/4446272903/) — New York Post
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $79,800.00/yr - $91,800.00/yr
 - 🕒 **Posted:** 2026-08-03
 
-### [Senior Machine Learning Engineer](https://www.linkedin.com/jobs/view/4446270737/) — FINNY
+### [Software Engineer III - AI/ML Platform Engineer](https://www.linkedin.com/jobs/view/4446291009/) — JPMorganChase
+- 📍 **Location:** Jersey City, NJ
+- 💰 **Salary:** $133,000.00/yr - $185,000.00/yr
+- 🕒 **Posted:** 2026-08-03
+
+### [Software Engineer [Multiple Positions Available]](https://www.linkedin.com/jobs/view/4446274876/) — JPMorganChase
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $189,592.00/yr - $189,592.00/yr
+- 🕒 **Posted:** 2026-08-03
+
+### [Sr Lead Software Engineer - Common Components](https://www.linkedin.com/jobs/view/4446280725/) — JPMorganChase
+- 📍 **Location:** Jersey City, NJ
+- 💰 **Salary:** $171,000.00/yr - $260,000.00/yr
+- 🕒 **Posted:** 2026-08-03
+
+### [Lead Software Engineer - Common Components](https://www.linkedin.com/jobs/view/4446280731/) — JPMorganChase
+- 📍 **Location:** Jersey City, NJ
+- 💰 **Salary:** $152,000.00/yr - $215,000.00/yr
+- 🕒 **Posted:** 2026-08-03
+
+### [Senior Front-End Engineer (React)](https://www.linkedin.com/jobs/view/4446268679/) — Symbiotic
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-08-03
 
-### [Senior Data Engineer](https://www.linkedin.com/jobs/view/4448261809/) — Blue Orange Digital
-- 📍 **Location:** New York, NY
+### [Sr Lead Infrastructure Engineer - Email Platform](https://www.linkedin.com/jobs/view/4446265963/) — JPMorganChase
+- 📍 **Location:** Jersey City, NJ
+- 💰 **Salary:** $156,750.00/yr - $200,000.00/yr
 - 🕒 **Posted:** 2026-08-03
 
-### [Senior Software Engineer, Fullstack](https://www.linkedin.com/jobs/view/4446272636/) — SeatGeek
-- 📍 **Location:** New York, NY
+### [Cyber SDC - Application Security Engineer - Senior - Consulting - Location Open](https://www.linkedin.com/jobs/view/4448682580/) — EY
+- 📍 **Location:** Hoboken, NJ
 - 🕒 **Posted:** 2026-08-03
 
-### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4448670802/) — Pearson
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-08-03
-
-### [Cyber SDC - Application Security Engineer - Senior - Consulting - Location Open](https://www.linkedin.com/jobs/view/4448671863/) — EY
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-08-03
-
-### [Cyber SDC - Application Security Engineer - Senior - Consulting - Location Open](https://www.linkedin.com/jobs/view/4448682577/) — EY
-- 📍 **Location:** New Brunswick, NJ
-- 🕒 **Posted:** 2026-08-03
-
-### [Cyber SDC - Application Security Engineer - Senior - Consulting - Location Open](https://www.linkedin.com/jobs/view/4448664961/) — EY
-- 📍 **Location:** Iselin, NJ
-- 🕒 **Posted:** 2026-08-03
-
-### [Cyber SDC - Application Security Engineer - Senior - Consulting - Location Open](https://www.linkedin.com/jobs/view/4448686096/) — EY
-- 📍 **Location:** Jericho, NY
-- 🕒 **Posted:** 2026-08-03
-
-### [Cyber SDC - Application Security Engineer - Senior - Consulting - Location Open](https://www.linkedin.com/jobs/view/4448687026/) — EY
-- 📍 **Location:** Stamford, CT
-- 🕒 **Posted:** 2026-08-03
-
-### [Cyber SDC - Application Security Engineer - Senior - Consulting - Location Open](https://www.linkedin.com/jobs/view/4448675774/) — EY
-- 📍 **Location:** Secaucus, NJ
-- 🕒 **Posted:** 2026-08-03
-
-### [Bioinformatician I- Immunology and Immunotherapy](https://www.linkedin.com/jobs/view/4448274359/) — Mount Sinai Health System
+### [Senior Software Engineering Manager](https://www.linkedin.com/jobs/view/4446280768/) — New York Post
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-08-03
