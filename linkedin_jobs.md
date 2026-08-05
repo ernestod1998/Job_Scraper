@@ -1,196 +1,103 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-08-05 02:18 UTC*
+*Last updated: 2026-08-05 03:18 UTC*
 
-**47 new role(s)** since last run · 62 total in last 1h
+**23 new role(s)** since last run · 51 total in last 1h
 
-### [Software Engineer](https://www.linkedin.com/jobs/view/4447306967/) — Robinhood-s
-- 📍 **Location:** Menlo Park, CA
+### [Data Scientist](https://www.linkedin.com/jobs/view/4447325565/) — Baynovation, LLC
+- 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-08-04
 
-### [Research Engineer, Code Agents Infra](https://www.linkedin.com/jobs/view/4449442323/) — Mistral
-- 📍 **Location:** Palo Alto, CA
+### [Data Scientist Intern](https://www.linkedin.com/jobs/view/4447332261/) — Baynovation, LLC
+- 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-08-04
 
-### [ML Infrastructure Engineer
-San Francisco](https://www.linkedin.com/jobs/view/4447314695/) — Stealth Neurotechnology Company
+### [Data Engineer Intern](https://www.linkedin.com/jobs/view/4447326543/) — Baynovation, LLC
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-08-04
+
+### [Data Scientist Graduate (TikTok UG-Mid Platform) - 2027 Start](https://www.linkedin.com/jobs/view/4447332540/) — TikTok
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-08-04
+
+### [Software Engineer, Frontend](https://www.linkedin.com/jobs/view/4447339097/) — Sift
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-08-04
 
-### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4447328081/) — Robinhood-s
-- 📍 **Location:** Menlo Park, CA
+### [Software Engineer](https://www.linkedin.com/jobs/view/4447334068/) — Baynovation, LLC
+- 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-08-04
 
-### [Research Engineer](https://www.linkedin.com/jobs/view/4449439046/) — Scorecard
+### [Machine Learning Engineer Graduate (Tech and Product) - 2027 Start (PhD)](https://www.linkedin.com/jobs/view/4447316647/) — TikTok USDS Joint Venture
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-08-04
+
+### [Senior Machine Learning Engineer - Foundation Model](https://www.linkedin.com/jobs/view/4448909963/) — XPENG
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-08-04
+
+### [Backend Engineer](https://www.linkedin.com/jobs/view/4448916714/) — AUXO LLC
+- 📍 **Location:** August, CA
+- 🕒 **Posted:** 2026-08-04
+
+### [Senior Software Engineer, Frontend](https://www.linkedin.com/jobs/view/4447334234/) — Sift
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-08-04
 
-### [Applied AI Scientist
-San Francisco](https://www.linkedin.com/jobs/view/4447317541/) — Stealth Neurotechnology Company
+### [Software Engineer III](https://www.linkedin.com/jobs/view/4449430987/) — JPMorganChase
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $133,000.00/yr - $185,000.00/yr
+- 🕒 **Posted:** 2026-08-04
+
+### [Lead Software Engineer](https://www.linkedin.com/jobs/view/4449445493/) — JPMorganChase
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $152,000.00/yr - $215,000.00/yr
+- 🕒 **Posted:** 2026-08-04
+
+### [Senior Systems Software Engineer - Infrastructure](https://www.linkedin.com/jobs/view/4448588643/) — NVIDIA
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-08-04
+
+### [Software Engineering Manager, Applications
+San Francisco](https://www.linkedin.com/jobs/view/4447324335/) — Stealth Neurotechnology Company
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-08-04
 
-### [AI Platform Engineer](https://www.linkedin.com/jobs/view/4449427699/) — Sapiom
+### [Research Engineer](https://www.linkedin.com/jobs/view/4449427975/) — pensiv
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-08-04
 
-### [Applied AI Scientist, Language + Context
-San Francisco](https://www.linkedin.com/jobs/view/4447325251/) — Stealth Neurotechnology Company
-- 📍 **Location:** San Francisco, CA
+### [Biostatistician Internship](https://www.linkedin.com/jobs/view/4447331343/) — Baynovation, LLC
+- 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-08-04
 
-### [Software Engineer](https://www.linkedin.com/jobs/view/4447311648/) — Robinhood-s
-- 📍 **Location:** Menlo Park, CA
+### [AI Infrastructure Engineer Intern (Algorithm Infrastructure) - 2027 Start (PhD)](https://www.linkedin.com/jobs/view/4447344021/) — TikTok
+- 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-08-04
 
-### [Software Engineer](https://www.linkedin.com/jobs/view/4447307965/) — Robinhood-s
-- 📍 **Location:** Menlo Park, CA
-- 🕒 **Posted:** 2026-08-04
-
-### [Software Engineer](https://www.linkedin.com/jobs/view/4447323285/) — Robinhood-s
-- 📍 **Location:** Menlo Park, CA
-- 🕒 **Posted:** 2026-08-04
-
-### [Software Engineer](https://www.linkedin.com/jobs/view/4447317508/) — Robinhood-s
-- 📍 **Location:** Menlo Park, CA
-- 🕒 **Posted:** 2026-08-04
-
-### [Software Engineer](https://www.linkedin.com/jobs/view/4447310685/) — Robinhood-s
-- 📍 **Location:** Menlo Park, CA
-- 🕒 **Posted:** 2026-08-04
-
-### [Senior Software Engineer, Data Engineering](https://www.linkedin.com/jobs/view/4447306966/) — Robinhood-s
-- 📍 **Location:** Menlo Park, CA
-- 🕒 **Posted:** 2026-08-04
-
-### [Software Engineer, Backend](https://www.linkedin.com/jobs/view/4449446106/) — krea.ai
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-08-04
-
-### [Software Engineer](https://www.linkedin.com/jobs/view/4447311649/) — Robinhood-s
-- 📍 **Location:** Menlo Park, CA
-- 🕒 **Posted:** 2026-08-04
-
-### [Software Engineer](https://www.linkedin.com/jobs/view/4447329037/) — Robinhood-s
-- 📍 **Location:** Menlo Park, CA
-- 🕒 **Posted:** 2026-08-04
-
-### [Software Engineer](https://www.linkedin.com/jobs/view/4447319468/) — Robinhood-s
-- 📍 **Location:** Menlo Park, CA
-- 🕒 **Posted:** 2026-08-04
-
-### [Sr. Software Engineer, Document Systems](https://www.linkedin.com/jobs/view/4449425449/) — Tesla
-- 📍 **Location:** Fremont, CA
-- 🕒 **Posted:** 2026-08-04
-
-### [Senior Software Engineer - Robinhood Command Center](https://www.linkedin.com/jobs/view/4447310663/) — Robinhood-s
-- 📍 **Location:** Menlo Park, CA
-- 🕒 **Posted:** 2026-08-04
-
-### [Security Engineer, Application Security](https://www.linkedin.com/jobs/view/4447321374/) — Robinhood-s
-- 📍 **Location:** Menlo Park, CA
-- 🕒 **Posted:** 2026-08-04
-
-### [Senior Frontend Engineer](https://www.linkedin.com/jobs/view/4448905789/) — Dubblup.com
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-08-04
-
-### [iOS Engineer, Money Experience](https://www.linkedin.com/jobs/view/4447306992/) — Robinhood-s
-- 📍 **Location:** Menlo Park, CA
-- 🕒 **Posted:** 2026-08-04
-
-### [Software Engineer, ML Networking](https://www.linkedin.com/jobs/view/4448924305/) — Anthropic
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-08-04
-
-### [Senior Android Engineer, Trading Products](https://www.linkedin.com/jobs/view/4447325219/) — Robinhood-s
-- 📍 **Location:** Menlo Park, CA
-- 🕒 **Posted:** 2026-08-04
-
-### [Android Engineer, Money Experience](https://www.linkedin.com/jobs/view/4447329076/) — Robinhood-s
-- 📍 **Location:** Menlo Park, CA
-- 🕒 **Posted:** 2026-08-04
-
-### [DevOps Engineer](https://www.linkedin.com/jobs/view/4447313561/) — Dogan Consult
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-08-04
-
-### [Platform Engineer](https://www.linkedin.com/jobs/view/4449428652/) — Zoox
-- 📍 **Location:** Foster City, CA
-- 🕒 **Posted:** 2026-08-04
-
-### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4447311645/) — Robinhood-s
-- 📍 **Location:** Menlo Park, CA
-- 🕒 **Posted:** 2026-08-04
-
-### [Security Engineer, Detection and Response, San Francisco](https://www.linkedin.com/jobs/view/4448908228/) — Teknostra Engineering Pvt. Ltd.
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-08-04
-
-### [Security Engineer, Corporate Security](https://www.linkedin.com/jobs/view/4448900968/) — Teknostra Engineering Pvt. Ltd.
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-08-04
-
-### [Security Engineer
-San Francisco](https://www.linkedin.com/jobs/view/4447312693/) — Stealth Neurotechnology Company
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-08-04
-
-### [Software Engineer, Backend](https://www.linkedin.com/jobs/view/4447327194/) — Robinhood-s
+### [Data Scientist Associate - Corporate & Investment Banking](https://www.linkedin.com/jobs/view/4449435876/) — JPMorganChase
 - 📍 **Location:** New York, NY
+- 💰 **Salary:** $104,500.00/yr - $140,000.00/yr
 - 🕒 **Posted:** 2026-08-04
 
-### [Research Associate, Equities Data Engineer](https://www.linkedin.com/jobs/view/4447321424/) — Bridgewater Associates-USA
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-08-04
-
-### [Senior Data Scientist](https://www.linkedin.com/jobs/view/4449430397/) — U.S. Bank
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-08-04
-
-### [Full Stack Software Engineer, Credit Cards & Banking](https://www.linkedin.com/jobs/view/4447329077/) — Robinhood-s
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-08-04
-
-### [Senior Software Engineer, Backend](https://www.linkedin.com/jobs/view/4447325222/) — Robinhood-s
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-08-04
-
-### [Senior Software Engineer, Robinhood Command Center](https://www.linkedin.com/jobs/view/4447313603/) — Robinhood-s
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-08-04
-
-### [Software Engineer, ML Networking](https://www.linkedin.com/jobs/view/4448909527/) — Anthropic
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-08-04
-
-### [Android Engineer, Government Products](https://www.linkedin.com/jobs/view/4447320407/) — Robinhood-s
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-08-04
-
-### [iOS Engineer, Government Products](https://www.linkedin.com/jobs/view/4447322323/) — Robinhood-s
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-08-04
-
-### [Senior Android Engineer, iRAD](https://www.linkedin.com/jobs/view/4447306993/) — Robinhood-s
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-08-04
-
-### [Senior Android Engineer, Crypto Expansion](https://www.linkedin.com/jobs/view/4447312636/) — Robinhood-s
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-08-04
-
-### [Senior iOS Engineer, Crypto Trading](https://www.linkedin.com/jobs/view/4447314659/) — Robinhood-s
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-08-04
-
-### [Infrastructure Engineer - Hyper-V](https://www.linkedin.com/jobs/view/4449441158/) — MeeBoss
+### [Compliance - Applied AI/ML Data Scientist - Associate](https://www.linkedin.com/jobs/view/4449443727/) — JPMorganChase
 - 📍 **Location:** Jersey City, NJ
+- 💰 **Salary:** $114,000.00/yr - $170,000.00/yr
 - 🕒 **Posted:** 2026-08-04
 
-### [Software Engineer, Data Platform](https://www.linkedin.com/jobs/view/4439270158/) — Profound
+### [Lead ML Engineer](https://www.linkedin.com/jobs/view/4448926570/) — Cognizant
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-08-04
 
-### [Bioinformatician I- Immunology and Immunotherapy](https://www.linkedin.com/jobs/view/4449430766/) — Mount Sinai Morningside
+### [Software Engineer II - Test Automation Engineer](https://www.linkedin.com/jobs/view/4449446470/) — JPMorganChase
 - 📍 **Location:** New York, NY
+- 💰 **Salary:** $118,750.00/yr - $150,000.00/yr
+- 🕒 **Posted:** 2026-08-04
+
+### [Lead Software Engineer [Multiple Positions Available]](https://www.linkedin.com/jobs/view/4449441735/) — JPMorganChase
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $235,000.00/yr - $260,000.00/yr
+- 🕒 **Posted:** 2026-08-04
+
+### [Software Developer](https://www.linkedin.com/jobs/view/4449443106/) — ATEC Wireless
+- 📍 **Location:** Parsippany, NJ
 - 🕒 **Posted:** 2026-08-04
