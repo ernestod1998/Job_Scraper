@@ -1,207 +1,196 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-08-05 01:18 UTC*
+*Last updated: 2026-08-05 02:18 UTC*
 
-**47 new role(s)** since last run · 59 total in last 1h
+**47 new role(s)** since last run · 62 total in last 1h
 
-### [Software Engineer, Early Career (AI)](https://www.linkedin.com/jobs/view/4448905386/) — Teknostra Engineering Pvt. Ltd.
-- 📍 **Location:** San Francisco, CA
+### [Software Engineer](https://www.linkedin.com/jobs/view/4447306967/) — Robinhood-s
+- 📍 **Location:** Menlo Park, CA
 - 🕒 **Posted:** 2026-08-04
 
-### [Software Engineer, Early Career](https://www.linkedin.com/jobs/view/4448912111/) — Teknostra Engineering Pvt. Ltd.
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-08-04
-
-### [Software Engineer, AI Workflows](https://www.linkedin.com/jobs/view/4448915027/) — Teknostra Engineering Pvt. Ltd.
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-08-04
-
-### [Software Engineer, AI Platform](https://www.linkedin.com/jobs/view/4448904847/) — Teknostra Engineering Pvt. Ltd.
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-08-04
-
-### [Software Engineer, AI Capture](https://www.linkedin.com/jobs/view/4448908183/) — Teknostra Engineering Pvt. Ltd.
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-08-04
-
-### [LATAM - Data Science Engineer](https://www.linkedin.com/jobs/view/4447304841/) — Playsaurus Inc.
-- 📍 **Location:** Alameda, CA
-- 🕒 **Posted:** 2026-08-04
-
-### [Contact Center Data Engineer I](https://www.linkedin.com/jobs/view/4448908023/) — GEICO
-- 📍 **Location:** Palo Alto, CA
-- 💰 **Salary:** $86,100.00/yr - $141,450.00/yr
-- 🕒 **Posted:** 2026-08-04
-
-### [Software Engineer, Platform](https://www.linkedin.com/jobs/view/4448921114/) — David AI
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $165,000.00/yr - $225,000.00/yr
-- 🕒 **Posted:** 2026-08-04
-
-### [Senior Data Scientist, Trust & Safety](https://www.linkedin.com/jobs/view/4449415489/) — TikTok USDS Joint Venture
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-08-04
-
-### [Senior Machine Learning Engineer, Recommendations- USDS E-commerce Alliance](https://www.linkedin.com/jobs/view/4449408550/) — TikTok USDS Joint Venture
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-08-04
-
-### [Software Engineer Backend](https://www.linkedin.com/jobs/view/4449428030/) — Climactic
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-08-04
-
-### [Software Engineer, Trust](https://www.linkedin.com/jobs/view/4448910147/) — Teknostra Engineering Pvt. Ltd.
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-08-04
-
-### [Software Engineer in Test- Pleasanton, CA](https://www.linkedin.com/jobs/view/4449422012/) — Calyxo, Inc.
-- 📍 **Location:** Pleasanton, CA
-- 🕒 **Posted:** 2026-08-04
-
-### [Contact Center Data Engineer I](https://www.linkedin.com/jobs/view/4448589901/) — GEICO
-- 📍 **Location:** San Jose, CA
-- 💰 **Salary:** $86,100.00/yr - $141,450.00/yr
-- 🕒 **Posted:** 2026-08-04
-
-### [Research Engineer, Fine-tuning](https://www.linkedin.com/jobs/view/4449406684/) — Kethra
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-08-04
-
-### [Senior Applied Scientist - Demand Forecasting](https://www.linkedin.com/jobs/view/4449404789/) — Prodapt
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-08-04
-
-### [LATAM - Backend Developer](https://www.linkedin.com/jobs/view/4447322041/) — Playsaurus Inc.
-- 📍 **Location:** Alameda, CA
-- 🕒 **Posted:** 2026-08-04
-
-### [Chip/Software Engineer](https://www.linkedin.com/jobs/view/4448913165/) — Silimate (YC S23)
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $140,000.00/yr - $220,000.00/yr
-- 🕒 **Posted:** 2026-08-04
-
-### [Chip/Software Engineer](https://www.linkedin.com/jobs/view/4448918172/) — Silimate (YC S23)
-- 📍 **Location:** Mountain View, CA
-- 💰 **Salary:** $140,000.00/yr - $220,000.00/yr
-- 🕒 **Posted:** 2026-08-04
-
-### [Full Stack Software Engineer](https://www.linkedin.com/jobs/view/4449407749/) — Gumloop
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $185,000.00/yr - $250,000.00/yr
-- 🕒 **Posted:** 2026-08-04
-
-### [Software Engineer, Machine Learning (SWE II & SWE I)](https://www.linkedin.com/jobs/view/4449427048/) — Salesforce
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-08-04
-
-### [Senior Software Engineer-Trading](https://www.linkedin.com/jobs/view/4449420057/) — Addepar
-- 📍 **Location:** Mountain View, CA
-- 🕒 **Posted:** 2026-08-04
-
-### [Software Engineer, Product](https://www.linkedin.com/jobs/view/4448911254/) — Eventual
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-08-04
-
-### [Software Engineer, Web Infrastructure](https://www.linkedin.com/jobs/view/4448914029/) — Teknostra Engineering Pvt. Ltd.
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-08-04
-
-### [Software Engineer, AI Security](https://www.linkedin.com/jobs/view/4448912120/) — Teknostra Engineering Pvt. Ltd.
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-08-04
-
-### [Software Engineer, Collections Experience](https://www.linkedin.com/jobs/view/4448918025/) — Teknostra Engineering Pvt. Ltd.
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-08-04
-
-### [Software Engineer, Developer Experience (Go Lead)](https://www.linkedin.com/jobs/view/4448913040/) — Teknostra Engineering Pvt. Ltd.
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-08-04
-
-### [Senior Software Engineer, Frontend](https://www.linkedin.com/jobs/view/4449405611/) — Alion
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-08-04
-
-### [Senior Software Engineer, Hardware Test](https://www.linkedin.com/jobs/view/4449410852/) — Climactic
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-08-04
-
-### [Senior Software Engineer - HYBRID](https://www.linkedin.com/jobs/view/4448596865/) — GEICO
-- 📍 **Location:** Palo Alto, CA
-- 💰 **Salary:** $100,000.00/yr - $215,000.00/yr
-- 🕒 **Posted:** 2026-08-04
-
-### [Software Engineer, Product Analytics Platform](https://www.linkedin.com/jobs/view/4448905393/) — Teknostra Engineering Pvt. Ltd.
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-08-04
-
-### [Power Systems EngineerNew
-Mountain View, California, United States](https://www.linkedin.com/jobs/view/4448916023/) — Tapestry
-- 📍 **Location:** Mountain View, CA
-- 🕒 **Posted:** 2026-08-04
-
-### [Sr. Software Engineer-System Validation](https://www.linkedin.com/jobs/view/4447317359/) — Super Micro Computer Spain, S.L.
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-08-04
-
-### [Senior Security Engineer](https://www.linkedin.com/jobs/view/4449414804/) — Climactic
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-08-04
-
-### [Data Engineer](https://www.linkedin.com/jobs/view/4446419454/) — DRISHTICON Inc
-- 📍 **Location:** Pleasanton, CA
-- 🕒 **Posted:** 2026-08-04
-
-### [Contact Center Data Engineer I](https://www.linkedin.com/jobs/view/4448588904/) — GEICO
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $86,100.00/yr - $141,450.00/yr
-- 🕒 **Posted:** 2026-08-04
-
-### [Senior Data Scientist – Applied AI](https://www.linkedin.com/jobs/view/4449431156/) — Salesforce
+### [Research Engineer, Code Agents Infra](https://www.linkedin.com/jobs/view/4449442323/) — Mistral
 - 📍 **Location:** Palo Alto, CA
 - 🕒 **Posted:** 2026-08-04
 
-### [Software Engineer (AI Training) — Remote Contract](https://www.linkedin.com/jobs/view/4449408963/) — Alignerr
+### [ML Infrastructure Engineer
+San Francisco](https://www.linkedin.com/jobs/view/4447314695/) — Stealth Neurotechnology Company
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-08-04
+
+### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4447328081/) — Robinhood-s
+- 📍 **Location:** Menlo Park, CA
+- 🕒 **Posted:** 2026-08-04
+
+### [Research Engineer](https://www.linkedin.com/jobs/view/4449439046/) — Scorecard
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-08-04
+
+### [Applied AI Scientist
+San Francisco](https://www.linkedin.com/jobs/view/4447317541/) — Stealth Neurotechnology Company
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-08-04
+
+### [AI Platform Engineer](https://www.linkedin.com/jobs/view/4449427699/) — Sapiom
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-08-04
+
+### [Applied AI Scientist, Language + Context
+San Francisco](https://www.linkedin.com/jobs/view/4447325251/) — Stealth Neurotechnology Company
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-08-04
+
+### [Software Engineer](https://www.linkedin.com/jobs/view/4447311648/) — Robinhood-s
+- 📍 **Location:** Menlo Park, CA
+- 🕒 **Posted:** 2026-08-04
+
+### [Software Engineer](https://www.linkedin.com/jobs/view/4447307965/) — Robinhood-s
+- 📍 **Location:** Menlo Park, CA
+- 🕒 **Posted:** 2026-08-04
+
+### [Software Engineer](https://www.linkedin.com/jobs/view/4447323285/) — Robinhood-s
+- 📍 **Location:** Menlo Park, CA
+- 🕒 **Posted:** 2026-08-04
+
+### [Software Engineer](https://www.linkedin.com/jobs/view/4447317508/) — Robinhood-s
+- 📍 **Location:** Menlo Park, CA
+- 🕒 **Posted:** 2026-08-04
+
+### [Software Engineer](https://www.linkedin.com/jobs/view/4447310685/) — Robinhood-s
+- 📍 **Location:** Menlo Park, CA
+- 🕒 **Posted:** 2026-08-04
+
+### [Senior Software Engineer, Data Engineering](https://www.linkedin.com/jobs/view/4447306966/) — Robinhood-s
+- 📍 **Location:** Menlo Park, CA
+- 🕒 **Posted:** 2026-08-04
+
+### [Software Engineer, Backend](https://www.linkedin.com/jobs/view/4449446106/) — krea.ai
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-08-04
+
+### [Software Engineer](https://www.linkedin.com/jobs/view/4447311649/) — Robinhood-s
+- 📍 **Location:** Menlo Park, CA
+- 🕒 **Posted:** 2026-08-04
+
+### [Software Engineer](https://www.linkedin.com/jobs/view/4447329037/) — Robinhood-s
+- 📍 **Location:** Menlo Park, CA
+- 🕒 **Posted:** 2026-08-04
+
+### [Software Engineer](https://www.linkedin.com/jobs/view/4447319468/) — Robinhood-s
+- 📍 **Location:** Menlo Park, CA
+- 🕒 **Posted:** 2026-08-04
+
+### [Sr. Software Engineer, Document Systems](https://www.linkedin.com/jobs/view/4449425449/) — Tesla
+- 📍 **Location:** Fremont, CA
+- 🕒 **Posted:** 2026-08-04
+
+### [Senior Software Engineer - Robinhood Command Center](https://www.linkedin.com/jobs/view/4447310663/) — Robinhood-s
+- 📍 **Location:** Menlo Park, CA
+- 🕒 **Posted:** 2026-08-04
+
+### [Security Engineer, Application Security](https://www.linkedin.com/jobs/view/4447321374/) — Robinhood-s
+- 📍 **Location:** Menlo Park, CA
+- 🕒 **Posted:** 2026-08-04
+
+### [Senior Frontend Engineer](https://www.linkedin.com/jobs/view/4448905789/) — Dubblup.com
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-08-04
+
+### [iOS Engineer, Money Experience](https://www.linkedin.com/jobs/view/4447306992/) — Robinhood-s
+- 📍 **Location:** Menlo Park, CA
+- 🕒 **Posted:** 2026-08-04
+
+### [Software Engineer, ML Networking](https://www.linkedin.com/jobs/view/4448924305/) — Anthropic
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-08-04
+
+### [Senior Android Engineer, Trading Products](https://www.linkedin.com/jobs/view/4447325219/) — Robinhood-s
+- 📍 **Location:** Menlo Park, CA
+- 🕒 **Posted:** 2026-08-04
+
+### [Android Engineer, Money Experience](https://www.linkedin.com/jobs/view/4447329076/) — Robinhood-s
+- 📍 **Location:** Menlo Park, CA
+- 🕒 **Posted:** 2026-08-04
+
+### [DevOps Engineer](https://www.linkedin.com/jobs/view/4447313561/) — Dogan Consult
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-08-04
+
+### [Platform Engineer](https://www.linkedin.com/jobs/view/4449428652/) — Zoox
+- 📍 **Location:** Foster City, CA
+- 🕒 **Posted:** 2026-08-04
+
+### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4447311645/) — Robinhood-s
+- 📍 **Location:** Menlo Park, CA
+- 🕒 **Posted:** 2026-08-04
+
+### [Security Engineer, Detection and Response, San Francisco](https://www.linkedin.com/jobs/view/4448908228/) — Teknostra Engineering Pvt. Ltd.
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-08-04
+
+### [Security Engineer, Corporate Security](https://www.linkedin.com/jobs/view/4448900968/) — Teknostra Engineering Pvt. Ltd.
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-08-04
+
+### [Security Engineer
+San Francisco](https://www.linkedin.com/jobs/view/4447312693/) — Stealth Neurotechnology Company
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-08-04
+
+### [Software Engineer, Backend](https://www.linkedin.com/jobs/view/4447327194/) — Robinhood-s
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $20.00/hr - $100.00/hr
 - 🕒 **Posted:** 2026-08-04
 
-### [Software Engineer, Machine Learning (SWE II & SWE I)](https://www.linkedin.com/jobs/view/4449418718/) — Salesforce
+### [Research Associate, Equities Data Engineer](https://www.linkedin.com/jobs/view/4447321424/) — Bridgewater Associates-USA
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-08-04
 
-### [Software Engineer - Quant Trading - up to 850k total compensation](https://www.linkedin.com/jobs/view/4447306708/) — Saragossa
-- 📍 **Location:** New York City Metropolitan Area
-- 💰 **Salary:** $175,000.00/yr - $225,000.00/yr
-- 🕒 **Posted:** 2026-08-04
-
-### [Senior Scientist, Computational Biology & Data Infrastructure](https://www.linkedin.com/jobs/view/4448917156/) — Kingdom
-- 📍 **Location:** Brooklyn, NY
-- 💰 **Salary:** $132,500.00/yr - $160,000.00/yr
-- 🕒 **Posted:** 2026-08-04
-
-### [Software Engineer - YAML Experience](https://www.linkedin.com/jobs/view/4449415945/) — Alignerr
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $40.00/hr - $55.00/hr
-- 🕒 **Posted:** 2026-08-04
-
-### [Data Scientist Lead](https://www.linkedin.com/jobs/view/4449419413/) — Bloomingdale's
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $155,880.00/yr - $259,680.00/yr
-- 🕒 **Posted:** 2026-08-04
-
-### [AI/ML Engineer](https://www.linkedin.com/jobs/view/4449419901/) — Fyvorex
+### [Senior Data Scientist](https://www.linkedin.com/jobs/view/4449430397/) — U.S. Bank
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-08-04
 
-### [DevOps Engineer, Surveillance](https://www.linkedin.com/jobs/view/4449405736/) — Canvas Fundamental Research Group
-- 📍 **Location:** Stamford, CT
-- 🕒 **Posted:** 2026-08-04
-
-### [Senior Software Engineer, Data Ingest](https://www.linkedin.com/jobs/view/4449410673/) — Tabs
+### [Full Stack Software Engineer, Credit Cards & Banking](https://www.linkedin.com/jobs/view/4447329077/) — Robinhood-s
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-08-04
 
-### [Senior Software Engineer (AI Infrastructure)](https://www.linkedin.com/jobs/view/4449427166/) — Alignerr
+### [Senior Software Engineer, Backend](https://www.linkedin.com/jobs/view/4447325222/) — Robinhood-s
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $20.00/hr - $100.00/hr
+- 🕒 **Posted:** 2026-08-04
+
+### [Senior Software Engineer, Robinhood Command Center](https://www.linkedin.com/jobs/view/4447313603/) — Robinhood-s
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-08-04
+
+### [Software Engineer, ML Networking](https://www.linkedin.com/jobs/view/4448909527/) — Anthropic
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-08-04
+
+### [Android Engineer, Government Products](https://www.linkedin.com/jobs/view/4447320407/) — Robinhood-s
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-08-04
+
+### [iOS Engineer, Government Products](https://www.linkedin.com/jobs/view/4447322323/) — Robinhood-s
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-08-04
+
+### [Senior Android Engineer, iRAD](https://www.linkedin.com/jobs/view/4447306993/) — Robinhood-s
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-08-04
+
+### [Senior Android Engineer, Crypto Expansion](https://www.linkedin.com/jobs/view/4447312636/) — Robinhood-s
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-08-04
+
+### [Senior iOS Engineer, Crypto Trading](https://www.linkedin.com/jobs/view/4447314659/) — Robinhood-s
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-08-04
+
+### [Infrastructure Engineer - Hyper-V](https://www.linkedin.com/jobs/view/4449441158/) — MeeBoss
+- 📍 **Location:** Jersey City, NJ
+- 🕒 **Posted:** 2026-08-04
+
+### [Software Engineer, Data Platform](https://www.linkedin.com/jobs/view/4439270158/) — Profound
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-08-04
+
+### [Bioinformatician I- Immunology and Immunotherapy](https://www.linkedin.com/jobs/view/4449430766/) — Mount Sinai Morningside
+- 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-08-04
