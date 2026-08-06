@@ -1,201 +1,335 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-08-06 00:18 UTC*
+*Last updated: 2026-08-06 01:18 UTC*
 
-**49 new role(s)** since last run · 72 total in last 1h
+**78 new role(s)** since last run · 115 total in last 1h
 
-### [Senior Software Engineer - Topography](https://www.linkedin.com/jobs/view/4449961059/) — Thomas To
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-08-05
-
-### [Senior Software Engineer, CUDA Deep Learning Systems](https://www.linkedin.com/jobs/view/4449322527/) — NVIDIA
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-08-05
-
-### [Senior System Software Engineer](https://www.linkedin.com/jobs/view/4449939821/) — Thomas To
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-08-05
-
-### [System Software Engineer, Distributed Systems](https://www.linkedin.com/jobs/view/4449948199/) — Thomas To
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-08-05
-
-### [System Software Engineer, Engineering Workflow Platform](https://www.linkedin.com/jobs/view/4449959049/) — Thomas To
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-08-05
-
-### [Senior Machine Learning Engineer](https://www.linkedin.com/jobs/view/4449947158/) — Thomas To
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-08-05
-
-### [Software Developer Engineer, Amazon WorkSpaces Core Managed Instances](https://www.linkedin.com/jobs/view/4449957013/) — Amazon Web Services (AWS)
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-08-05
-
-### [Data Engineer, AI & Distributed Systems](https://www.linkedin.com/jobs/view/4448072630/) — Zignal Labs
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $120,000.00/yr - $140,000.00/yr
-- 🕒 **Posted:** 2026-08-05
-
-### [Software Engineer, CUDA Deep Learning Systems](https://www.linkedin.com/jobs/view/4449325499/) — NVIDIA
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-08-05
-
-### [Software Engineer: AI Agent Capabilities](https://www.linkedin.com/jobs/view/4448064701/) — Hey Noah
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-08-05
-
-### [Software Engineer](https://www.linkedin.com/jobs/view/4449307848/) — Docusign
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-08-05
-
-### [Senior Software Engineer, Metropolis Vision AI](https://www.linkedin.com/jobs/view/4449945240/) — Thomas To
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-08-05
-
-### [Senior Systems Software Engineer - CI/CD Infrastructure for Open-Source Accelerated Computing Software](https://www.linkedin.com/jobs/view/4449933933/) — Thomas To
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-08-05
-
-### [Senior System Software Engineer - Dynamo-Triton Inference Server](https://www.linkedin.com/jobs/view/4449959124/) — Thomas To
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-08-05
-
-### [Senior Systems Software Engineer, Accelerated Kubernetes Performance and Scale - DGX Cloud](https://www.linkedin.com/jobs/view/4449958172/) — Thomas To
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-08-05
-
-### [Senior Platform Service Software Engineer](https://www.linkedin.com/jobs/view/4449947171/) — Thomas To
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-08-05
-
-### [Software Developer Engineer, Amazon WorkSpaces Core Managed Instances](https://www.linkedin.com/jobs/view/4449957022/) — Amazon Web Services (AWS)
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-08-05
-
-### [GPU Development Tools System Software Engineer](https://www.linkedin.com/jobs/view/4449954162/) — Thomas To
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-08-05
-
-### [Senior System Software Engineer, NvSci](https://www.linkedin.com/jobs/view/4449939909/) — Thomas To
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-08-05
-
-### [Senior Software Engineer, Low Latency Physical AI Sensor Systems](https://www.linkedin.com/jobs/view/4449944265/) — Thomas To
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-08-05
-
-### [Senior Software Engineer, CUDA C++ Core Libraries](https://www.linkedin.com/jobs/view/4449946173/) — Thomas To
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-08-05
-
-### [System Software Engineer](https://www.linkedin.com/jobs/view/4449312746/) — Broadcom
+### [Data Scientist, Payment Analytics - USDS](https://www.linkedin.com/jobs/view/4449942532/) — TikTok USDS Joint Venture
 - 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-08-05
 
-### [Senior Software Engineer, DGX Cloud Production Engineering](https://www.linkedin.com/jobs/view/4449937903/) — Thomas To
-- 📍 **Location:** Santa Clara, CA
+### [Senior Software Engineer, Frontend Platform](https://www.linkedin.com/jobs/view/4449950483/) — Roo
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-08-05
 
-### [Software Developer Engineer, Amazon WorkSpaces Core Managed Instances](https://www.linkedin.com/jobs/view/4449950083/) — Amazon Web Services (AWS)
+### [Software Engineer, Data Governance](https://www.linkedin.com/jobs/view/4449950523/) — TikTok USDS Joint Venture
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-08-05
+
+### [Data Engineer](https://www.linkedin.com/jobs/view/4449959167/) — MeeBoss
 - 📍 **Location:** Sunnyvale, CA
 - 🕒 **Posted:** 2026-08-05
 
-### [Software Developer Engineer, Amazon WorkSpaces Core Managed Instances](https://www.linkedin.com/jobs/view/4449935977/) — Amazon Web Services (AWS)
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-08-05
-
-### [Senior Systems Software Engineer, CUDA Driver](https://www.linkedin.com/jobs/view/4449961088/) — Thomas To
+### [Senior Research Engineer - Video Search](https://www.linkedin.com/jobs/view/4449963171/) — Thomas To
 - 📍 **Location:** Santa Clara, CA
 - 🕒 **Posted:** 2026-08-05
 
-### [Senior Software Engineer, Metrics and Evaluation - Autonomous Vehicles](https://www.linkedin.com/jobs/view/4449946105/) — Thomas To
+### [Senior Applied AI and AI Infrastructure Engineer - Chip Design and DFX](https://www.linkedin.com/jobs/view/4449958344/) — Thomas To
 - 📍 **Location:** Santa Clara, CA
 - 🕒 **Posted:** 2026-08-05
 
-### [Senior System Software Engineer - CUDA Chips](https://www.linkedin.com/jobs/view/4449961048/) — Thomas To
+### [Senior Systems Software Engineer, Semiconductor Systems Inspection](https://www.linkedin.com/jobs/view/4449957292/) — Thomas To
 - 📍 **Location:** Santa Clara, CA
 - 🕒 **Posted:** 2026-08-05
 
-### [Senior Applied Scientist, Delivery Foundation Model](https://www.linkedin.com/jobs/view/4449945149/) — Amazon
+### [Senior Software Engineer — cuEquivariance](https://www.linkedin.com/jobs/view/4449949531/) — Thomas To
 - 📍 **Location:** Santa Clara, CA
 - 🕒 **Posted:** 2026-08-05
 
-### [Senior Software Engineer, Machine Learning Inference](https://www.linkedin.com/jobs/view/4449323492/) — NVIDIA
+### [Senior Software Engineer - Autonomous Vehicles](https://www.linkedin.com/jobs/view/4449948580/) — Thomas To
 - 📍 **Location:** Santa Clara, CA
 - 🕒 **Posted:** 2026-08-05
 
-### [Senior Research Engineer](https://www.linkedin.com/jobs/view/4449321658/) — Pop-Up Talent
+### [Senior System Software Engineer, Automotive Performance](https://www.linkedin.com/jobs/view/4449959480/) — Thomas To
 - 📍 **Location:** Santa Clara, CA
 - 🕒 **Posted:** 2026-08-05
 
-### [Senior Deep Learning Algorithm Engineer](https://www.linkedin.com/jobs/view/4449312658/) — NVIDIA
+### [Senior System Software Engineer – GeForce NOW Cloud](https://www.linkedin.com/jobs/view/4449959340/) — Thomas To
 - 📍 **Location:** Santa Clara, CA
 - 🕒 **Posted:** 2026-08-05
 
-### [Senior Software Engineer, CUDA UMD - Graphs and GPU Sharing](https://www.linkedin.com/jobs/view/4449941314/) — Thomas To
+### [Software DevOps Engineer, Networking](https://www.linkedin.com/jobs/view/4449949466/) — Thomas To
 - 📍 **Location:** Santa Clara, CA
 - 🕒 **Posted:** 2026-08-05
 
-### [Engineering Manager, Deep Learning Inference](https://www.linkedin.com/jobs/view/4449307855/) — NVIDIA
+### [System Software Engineer - Tegra](https://www.linkedin.com/jobs/view/4449960311/) — Thomas To
 - 📍 **Location:** Santa Clara, CA
 - 🕒 **Posted:** 2026-08-05
 
-### [Senior Perception Engineer - Autonomous Vehicles](https://www.linkedin.com/jobs/view/4449947204/) — Thomas To
+### [System Software Engineer - CUDA Chips](https://www.linkedin.com/jobs/view/4449957238/) — Thomas To
 - 📍 **Location:** Santa Clara, CA
 - 🕒 **Posted:** 2026-08-05
 
-### [Senior VLSI CAD Software Engineer](https://www.linkedin.com/jobs/view/4449939823/) — Thomas To
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-08-05
-
-### [Process Development and Preclinical Manufacturing (PMPD) Data Engineer](https://www.linkedin.com/jobs/view/4449948210/) — Spannr - Your Gateway to Longevity
-- 📍 **Location:** Tarrytown, NY
-- 🕒 **Posted:** 2026-08-05
-
-### [Data Scientist — Agent Evaluations & Quality](https://www.linkedin.com/jobs/view/4448065593/) — Hey Noah
+### [Applied Scientist, AI Product Methods](https://www.linkedin.com/jobs/view/4449334007/) — Evolver
 - 📍 **Location:** Palo Alto, CA
 - 🕒 **Posted:** 2026-08-05
 
-### [Software Engineer - Backend/Distributed Systems](https://www.linkedin.com/jobs/view/4345039901/) — Emerald AI
+### [Senior Applied Scientist, Real-Time Conversational AI , AGI](https://www.linkedin.com/jobs/view/4449943121/) — Amazon
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-08-05
+
+### [ML and Agentic Systems Engineer](https://www.linkedin.com/jobs/view/4449949349/) — Thomas To
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-08-05
+
+### [Senior Deep Learning and Computer Vision Engineer - Autonomous Vehicles](https://www.linkedin.com/jobs/view/4449964030/) — Thomas To
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-08-05
+
+### [Senior Software Engineer - Autonomous Driving Simulation](https://www.linkedin.com/jobs/view/4449953419/) — Thomas To
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-08-05
+
+### [Senior Deep Learning Performance Architect](https://www.linkedin.com/jobs/view/4449959394/) — Thomas To
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-08-05
+
+### [Software Engineer - Search Infrastructure](https://www.linkedin.com/jobs/view/4449956574/) — SpaceXAI
+- 📍 **Location:** Palo Alto, CA
+- 🕒 **Posted:** 2026-08-05
+
+### [Software Engineer - Site Controller, Energy Storage](https://www.linkedin.com/jobs/view/4449950421/) — Redwood Materials
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-08-05
+
+### [Senior Mobile Engineer](https://www.linkedin.com/jobs/view/4449951528/) — Abridge
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $218,000.00/yr - $250,000.00/yr
+- 🕒 **Posted:** 2026-08-05
+
+### [Senior Software Engineer- API Infrastructure](https://www.linkedin.com/jobs/view/4449959354/) — StratITech
 - 📍 **Location:** San Francisco Bay Area
+- 💰 **Salary:** $195,000.00/yr - $225,000.00/yr
 - 🕒 **Posted:** 2026-08-05
 
-### [Full Stack Software Engineer - San Francisco](https://www.linkedin.com/jobs/view/4449934831/) — MeeBoss
+### [GPU Simulation System Software Engineer](https://www.linkedin.com/jobs/view/4449950512/) — Thomas To
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-08-05
+
+### [Senior Software Engineer - HPC](https://www.linkedin.com/jobs/view/4449950407/) — Thomas To
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-08-05
+
+### [Senior Software Engineer, Subnet Management](https://www.linkedin.com/jobs/view/4449943545/) — Thomas To
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-08-05
+
+### [Senior Infrastructure Software Engineer, Deep Learning Libraries](https://www.linkedin.com/jobs/view/4449945361/) — Thomas To
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-08-05
+
+### [Senior System Software Engineer for Cloud – GeForce NOW Platform](https://www.linkedin.com/jobs/view/4449954466/) — Thomas To
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-08-05
+
+### [Full Stack Engineer](https://www.linkedin.com/jobs/view/4449946413/) — Roo
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-08-05
 
-### [Machine Learning Researcher (Data Science & Applied AI)](https://www.linkedin.com/jobs/view/4449939701/) — MeeBoss
+### [Backend Infrastructure Engineer](https://www.linkedin.com/jobs/view/4449325863/) — Mendable
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $200,000.00/yr - $250,000.00/yr
+- 🕒 **Posted:** 2026-08-05
+
+### [Senior Full-Stack Software Engineer - VLSI Tools](https://www.linkedin.com/jobs/view/4449945489/) — Thomas To
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-08-05
+
+### [Senior Full-stack Software Engineer – Verification Data and Visualization Platform](https://www.linkedin.com/jobs/view/4449944388/) — Thomas To
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-08-05
+
+### [Senior Software Engineer, Backend (Batch Infrastructure)](https://www.linkedin.com/jobs/view/4449331340/) — Affirm
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-08-05
+
+### [Senior Software Engineer, CUTLASS Platform](https://www.linkedin.com/jobs/view/4449946474/) — Thomas To
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-08-05
+
+### [Senior Software Engineer, CUTLASS Performance](https://www.linkedin.com/jobs/view/4449943554/) — Thomas To
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-08-05
+
+### [Senior Software Engineer - Simulation](https://www.linkedin.com/jobs/view/4449943612/) — Thomas To
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-08-05
+
+### [Senior Software Engineer, AI Networking](https://www.linkedin.com/jobs/view/4449950599/) — Thomas To
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-08-05
+
+### [Senior Systems Software Engineer - Autonomous Vehicles](https://www.linkedin.com/jobs/view/4449942588/) — Thomas To
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-08-05
+
+### [Senior Software Engineer, Backend (Batch Infrastructure)](https://www.linkedin.com/jobs/view/4449321777/) — Affirm
+- 📍 **Location:** Palo Alto, CA
+- 🕒 **Posted:** 2026-08-05
+
+### [Senior Software Engineer, Backend (Batch Infrastructure)](https://www.linkedin.com/jobs/view/4449334040/) — Affirm
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-08-05
 
-### [Senior Data Scientist](https://www.linkedin.com/jobs/view/4449921929/) — Nash
+### [Senior Site Reliability Engineer, AIOPs](https://www.linkedin.com/jobs/view/4449950624/) — Thomas To
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-08-05
+
+### [Site Reliability Engineer - Hardware Infrastructure](https://www.linkedin.com/jobs/view/4449962254/) — Thomas To
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-08-05
+
+### [Senior Silicon Systems Engineer](https://www.linkedin.com/jobs/view/4449941357/) — Thomas To
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-08-05
+
+### [Senior C++ Software Engineer - Infrastructure Tools](https://www.linkedin.com/jobs/view/4449956446/) — Thomas To
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-08-05
+
+### [Senior Infrastructure Engineer – Bazel Remote Execution](https://www.linkedin.com/jobs/view/4449959302/) — Thomas To
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-08-05
+
+### [Senior Systems Software Engineer, Kubernetes Node Lifecycle - DGX Cloud](https://www.linkedin.com/jobs/view/4449941523/) — Thomas To
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-08-05
+
+### [Senior Software Engineer, AI Speed Infrastructure](https://www.linkedin.com/jobs/view/4449959327/) — Thomas To
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-08-05
+
+### [Senior System Software Engineer - AV Platform](https://www.linkedin.com/jobs/view/4449941456/) — Thomas To
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-08-05
+
+### [Senior Software Engineer, DGX Cloud AI Infrastructure](https://www.linkedin.com/jobs/view/4449949478/) — Thomas To
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-08-05
+
+### [Embedded Software Engineer - RISCV](https://www.linkedin.com/jobs/view/4449962275/) — Thomas To
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-08-05
+
+### [Senior Contact Center Data Engineer](https://www.linkedin.com/jobs/view/4449330479/) — GEICO
 - 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $104,550.00/yr - $172,200.00/yr
 - 🕒 **Posted:** 2026-08-05
 
-### [Software Engineer - Openflow](https://www.linkedin.com/jobs/view/4449920921/) — Snowflake
-- 📍 **Location:** Menlo Park, CA
+### [Senior Contact Center Data Engineer](https://www.linkedin.com/jobs/view/4449327631/) — GEICO
+- 📍 **Location:** Palo Alto, CA
+- 💰 **Salary:** $104,550.00/yr - $172,200.00/yr
 - 🕒 **Posted:** 2026-08-05
 
-### [Software Engineer III NA](https://www.linkedin.com/jobs/view/4449922872/) — Robert Half
-- 📍 **Location:** San Ramon, CA
+### [Senior Contact Center Data Engineer](https://www.linkedin.com/jobs/view/4449309966/) — GEICO
+- 📍 **Location:** San Jose, CA
+- 💰 **Salary:** $104,550.00/yr - $172,200.00/yr
 - 🕒 **Posted:** 2026-08-05
 
-### [LATAM - Backend Developer](https://www.linkedin.com/jobs/view/4448076580/) — Playsaurus Inc.
-- 📍 **Location:** Alameda, CA
-- 🕒 **Posted:** 2026-08-05
-
-### [Lead Security Engineer](https://www.linkedin.com/jobs/view/4449926863/) — Inspired Capital
+### [Research Engineer](https://www.linkedin.com/jobs/view/4449331466/) — Mendable
 - 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $210,000.00/yr - $275,000.00/yr
 - 🕒 **Posted:** 2026-08-05
 
-### [LATAM - Data Science Engineer](https://www.linkedin.com/jobs/view/4448072629/) — Playsaurus Inc.
-- 📍 **Location:** Alameda, CA
+### [Senior Software Engineer — MD Simulation Engineering](https://www.linkedin.com/jobs/view/4449948535/) — Thomas To
+- 📍 **Location:** Santa Clara, CA
 - 🕒 **Posted:** 2026-08-05
 
-### [Computational Biologist](https://www.linkedin.com/jobs/view/4449932873/) — University of Rochester Medicine
+### [Machine Learning Engineer](https://www.linkedin.com/jobs/view/4449951640/) — Alignerr
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $50.00/hr - $70.00/hr
+- 🕒 **Posted:** 2026-08-05
+
+### [Software Engineer – Machine Learning (AI Training)](https://www.linkedin.com/jobs/view/4449947731/) — Alignerr
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $90.00/hr - $120.00/hr
+- 🕒 **Posted:** 2026-08-05
+
+### [Research Engineer I](https://www.linkedin.com/jobs/view/4448060852/) — Zebra Technologies
+- 📍 **Location:** Morris Plains, NJ
+- 🕒 **Posted:** 2026-08-05
+
+### [Software Engineer](https://www.linkedin.com/jobs/view/4449309960/) — Jack
+- 📍 **Location:** New York City Metropolitan Area
+- 💰 **Salary:** $170,000.00/yr - $250,000.00/yr
+- 🕒 **Posted:** 2026-08-05
+
+### [Backend Developer - AI Data Services](https://www.linkedin.com/jobs/view/4449956646/) — Alignerr
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $50.00/hr - $75.00/hr
+- 🕒 **Posted:** 2026-08-05
+
+### [Senior Python Full-Stack Engineer — AI Data & Infrastructure](https://www.linkedin.com/jobs/view/4449950699/) — Alignerr
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $50.00/hr - $75.00/hr
+- 🕒 **Posted:** 2026-08-05
+
+### [Applied AI Software Engineer III](https://www.linkedin.com/jobs/view/4449948333/) — Deloitte
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-08-05
 
-### [Senior Data Engineer](https://www.linkedin.com/jobs/view/4449927814/) — Dassault Systèmes
-- 📍 **Location:** Iselin, NJ
+### [Applied AI Software Engineer III](https://www.linkedin.com/jobs/view/4449955273/) — Deloitte
+- 📍 **Location:** Morristown, NJ
+- 🕒 **Posted:** 2026-08-05
+
+### [Senior AI/ML Engineer](https://www.linkedin.com/jobs/view/4449959268/) — Soni
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-08-05
+
+### [Engineering Manager, Agentic Data Platform
+New York, NY](https://www.linkedin.com/jobs/view/4449335030/) — Tapestry
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-08-05
+
+### [Senior Software Engineer, Backend (Batch Infrastructure)](https://www.linkedin.com/jobs/view/4449315851/) — Affirm
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-08-05
+
+### [Senior Software Engineer - Developer Experience & AI Enablement](https://www.linkedin.com/jobs/view/4448064852/) — Grow Therapy
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $182,000.00/yr - $250,000.00/yr
+- 🕒 **Posted:** 2026-08-05
+
+### [V.I.E. Front Office Trading Software Engineer](https://www.linkedin.com/jobs/view/4449922270/) — Societe Generale
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-08-05
+
+### [Senior Backend Engineer (C#) - AI Data Platform](https://www.linkedin.com/jobs/view/4449964233/) — Alignerr
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $50.00/hr - $75.00/hr
+- 🕒 **Posted:** 2026-08-05
+
+### [Senior Mobile Engineer](https://www.linkedin.com/jobs/view/4449944633/) — Abridge
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $218,000.00/yr - $250,000.00/yr
+- 🕒 **Posted:** 2026-08-05
+
+### [Lead Backend Engineer - AI Tooling](https://www.linkedin.com/jobs/view/4449949658/) — Alignerr
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $50.00/hr - $75.00/hr
+- 🕒 **Posted:** 2026-08-05
+
+### [C++ Backend Engineer - AI Data Platforms](https://www.linkedin.com/jobs/view/4449951670/) — Alignerr
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-08-05
+
+### [Cybersecurity Engineer](https://www.linkedin.com/jobs/view/4448070723/) — TKO
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-08-05
+
+### [GC DATA Engineer](https://www.linkedin.com/jobs/view/4448062796/) — LTM
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $100,000.00/yr - $140,000.00/yr
+- 🕒 **Posted:** 2026-08-05
+
+### [Senior Python Developer (API/AI) – Banking, Capital Markets & Financial Data Platforms](https://www.linkedin.com/jobs/view/4449949510/) — MDAEdge
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-08-05
+
+### [Backend Developer - Data Annotation Systems](https://www.linkedin.com/jobs/view/4449948666/) — Alignerr
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $50.00/hr - $75.00/hr
+- 🕒 **Posted:** 2026-08-05
+
+### [Data Infrastructure Developer (C++)](https://www.linkedin.com/jobs/view/4449946664/) — Alignerr
+- 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-08-05
