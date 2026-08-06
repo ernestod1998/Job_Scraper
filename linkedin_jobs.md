@@ -1,115 +1,126 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-08-06 21:18 UTC*
+*Last updated: 2026-08-06 22:19 UTC*
 
-**26 new role(s)** since last run · 41 total in last 1h
+**30 new role(s)** since last run · 42 total in last 1h
 
-### [Senior Systems Engineer - AI Infrastructure](https://www.linkedin.com/jobs/view/4413200393/) — Clockwork Systems, Inc.
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-08-06
-
-### [Software Engineer](https://www.linkedin.com/jobs/view/4448467264/) — DDN
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-08-06
-
-### [Platform Engineer](https://www.linkedin.com/jobs/view/4448472391/) — Intuitive Machines
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-08-06
-
-### [Platform Engineer - Multi Cloud](https://www.linkedin.com/jobs/view/4448471394/) — Intuitive Machines
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-08-06
-
-### [Senior Backend Software Engineer](https://www.linkedin.com/jobs/view/4448461479/) — SPAN
+### [Machine Learning Engineer, Speech LLM Training](https://www.linkedin.com/jobs/view/4448475642/) — Jobright.ai
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-08-06
 
-### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4281075323/) — Clockwork Systems, Inc.
-- 📍 **Location:** Palo Alto, CA
+### [Sr. Java backend developer](https://www.linkedin.com/jobs/view/4450640209/) — Cognizant
+- 📍 **Location:** Sunnyvale, CA
 - 🕒 **Posted:** 2026-08-06
 
-### [Senior Software Engineer - Applications](https://www.linkedin.com/jobs/view/4448457678/) — LinkedIn
-- 📍 **Location:** Mountain View, CA
+### [Software Engineer](https://www.linkedin.com/jobs/view/4448465543/) — Jobright.ai
+- 📍 **Location:** Los Altos, CA
 - 🕒 **Posted:** 2026-08-06
 
-### [Senior Compiler Software Engineer](https://www.linkedin.com/jobs/view/4448468159/) — Q-CTRL
+### [Software Engineer](https://www.linkedin.com/jobs/view/4448473406/) — Corridor
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-08-06
+
+### [Forward Deployed Software Engineer (San Francisco)](https://www.linkedin.com/jobs/view/4448470522/) — First Resonance
 - 📍 **Location:** San Francisco Bay Area
+- 💰 **Salary:** $150,000.00/yr - $185,000.00/yr
 - 🕒 **Posted:** 2026-08-06
 
-### [Senior Software Engineer – Network Observability](https://www.linkedin.com/jobs/view/4412946990/) — Clockwork Systems, Inc.
-- 📍 **Location:** Palo Alto, CA
+### [Embedded Design Engineer/Software Engineer](https://www.linkedin.com/jobs/view/4448485032/) — AI Talent Hunt Cloud
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-08-06
 
-### [Senior Software Engineer (Frontend Focused, Fullstack)](https://www.linkedin.com/jobs/view/4424445125/) — Clearstory
-- 📍 **Location:** Walnut Creek, CA
+### [Senior Software Engineer – Application Reliability , Hybrid](https://www.linkedin.com/jobs/view/4450649506/) — Cisco
+- 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-08-06
 
-### [Senior Frontend Engineer](https://www.linkedin.com/jobs/view/4429584141/) — Clockwork Systems, Inc.
-- 📍 **Location:** Palo Alto, CA
+### [Cyber Security Engineer](https://www.linkedin.com/jobs/view/4448461912/) — Lawrence Livermore National Laboratory
+- 📍 **Location:** Livermore, CA
 - 🕒 **Posted:** 2026-08-06
 
-### [Biostatistician - Late Stage](https://www.linkedin.com/jobs/view/4450641231/) — Bayside Solutions
-- 📍 **Location:** Fremont, CA
-- 💰 **Salary:** $10.00/hr - $90.00/hr
+### [Data Analytics Engineer](https://www.linkedin.com/jobs/view/4450654142/) — Infojini Inc
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-08-06
 
-### [Biostatistician - Late Stage](https://www.linkedin.com/jobs/view/4450632877/) — Bayside Solutions
-- 📍 **Location:** Santa Clara, CA
-- 💰 **Salary:** $10.00/hr - $90.00/hr
-- 🕒 **Posted:** 2026-08-06
-
-### [Biostatistician - Late Stage](https://www.linkedin.com/jobs/view/4450653004/) — Bayside Solutions
+### [Temporary Scientist I, Computational Chemistry](https://www.linkedin.com/jobs/view/4450654235/) — Bayside Solutions
 - 📍 **Location:** San Mateo County, CA
-- 💰 **Salary:** $10.00/hr - $90.00/hr
+- 💰 **Salary:** $55.00/hr - $65.00/hr
 - 🕒 **Posted:** 2026-08-06
 
-### [Machine Learning Engineer](https://www.linkedin.com/jobs/view/4448458538/) — Sweep360
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $180,000.00/yr - $220,000.00/yr
-- 🕒 **Posted:** 2026-08-06
-
-### [Data Scientist](https://www.linkedin.com/jobs/view/4448465284/) — Tachyon Technologies
-- 📍 **Location:** Jersey City, NJ
-- 🕒 **Posted:** 2026-08-06
-
-### [Senior Software Engineer (Python / AI Insurance SaaS)](https://www.linkedin.com/jobs/view/4450634950/) — EvolutionIQ
+### [Software Engineer](https://www.linkedin.com/jobs/view/4448472616/) — Radical AI
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-08-06
 
-### [Lead Software Engineer](https://www.linkedin.com/jobs/view/4450638425/) — Asseta
+### [Senior Software Engineer I](https://www.linkedin.com/jobs/view/4448470581/) — Compass
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-08-06
 
-### [Infrastructure Engineer](https://www.linkedin.com/jobs/view/4450646225/) — Huxley
+### [Senior Software Engineer (AI Data Engineering)](https://www.linkedin.com/jobs/view/4439139911/) — EvolutionIQ
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $160,000.00/yr - $200,000.00/yr
 - 🕒 **Posted:** 2026-08-06
 
-### [Full Stack Software Developer](https://www.linkedin.com/jobs/view/4450646031/) — Tempest Vane Partners
+### [Sr Software Engineer - AI DevEx](https://www.linkedin.com/jobs/view/4448473567/) — Compass
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-08-06
+
+### [Senior Infrastructure Engineer - Trading Systems](https://www.linkedin.com/jobs/view/4450646323/) — FalconX
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-08-06
+
+### [Software Engineer](https://www.linkedin.com/jobs/view/4450640499/) — TalentAlly
+- 📍 **Location:** Parsippany, NJ
+- 🕒 **Posted:** 2026-08-06
+
+### [Senior Software Engineer I](https://www.linkedin.com/jobs/view/4448480199/) — Compass
 - 📍 **Location:** New York City Metropolitan Area
-- 💰 **Salary:** $150,000.00/yr - $220,000.00/yr
 - 🕒 **Posted:** 2026-08-06
 
-### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4450645270/) — Asseta
+### [Senior Software Engineer II](https://www.linkedin.com/jobs/view/4448473571/) — Compass
+- 📍 **Location:** New York City Metropolitan Area
+- 🕒 **Posted:** 2026-08-06
+
+### [Embedded Software Engineer](https://www.linkedin.com/jobs/view/4448479077/) — CACI International Inc
+- 📍 **Location:** Florham Park, NJ
+- 🕒 **Posted:** 2026-08-06
+
+### [Senior Software Engineer (Provider Directory & Scheduling)](https://www.linkedin.com/jobs/view/4430748843/) — Fabric
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-08-06
 
-### [Senior Software Engineer - Full Stack](https://www.linkedin.com/jobs/view/4448466338/) — K Health
+### [Software Engineer- Mobile, iOS](https://www.linkedin.com/jobs/view/4448461862/) — Compass
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-08-06
 
-### [Frontend Developer](https://www.linkedin.com/jobs/view/4450632799/) — Hank
+### [Senior Software Engineer II - Streaming and Durability](https://www.linkedin.com/jobs/view/4448473572/) — Compass
+- 📍 **Location:** Manhattan, NY
+- 🕒 **Posted:** 2026-08-06
+
+### [Senior Android Engineer](https://www.linkedin.com/jobs/view/4448462977/) — Compass
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-08-06
 
-### [Cloud Security Engineer](https://www.linkedin.com/jobs/view/4449771138/) — TSR Consulting
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $70.00/hr - $75.00/hr
+### [Senior Software Engineer II](https://www.linkedin.com/jobs/view/4448463714/) — Compass
+- 📍 **Location:** New York City Metropolitan Area
 - 🕒 **Posted:** 2026-08-06
 
-### [Data Engineer Contractor - Talent Reserve (contract)](https://www.linkedin.com/jobs/view/4437915360/) — KPMG US
+### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4448480188/) — Compass
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-08-06
 
-### [Data Engineer w/ Financial Services, Databricks, MDM Exp - HYBRID - USC/GC only - Onsite Interview](https://www.linkedin.com/jobs/view/4450635649/) — Yoh, A Day & Zimmermann Company
+### [Senior Software Engineer, Stablecoins](https://www.linkedin.com/jobs/view/4448485008/) — Coinbase
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-08-06
+
+### [Senior Security Engineer II](https://www.linkedin.com/jobs/view/4448461863/) — Compass
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-08-06
+
+### [Application Security Engineer](https://www.linkedin.com/jobs/view/4450656260/) — Net2Source (N2S)
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-08-06
+
+### [Enterprise Security Engineer](https://www.linkedin.com/jobs/view/4450642736/) — Gecko Robotics
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-08-06
+
+### [Data Engineer (1059)](https://www.linkedin.com/jobs/view/4448173593/) — Sharp Decisions
 - 📍 **Location:** Jersey City, NJ
 - 🕒 **Posted:** 2026-08-06
