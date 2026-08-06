@@ -1,44 +1,36 @@
 # 🧬 Biotech LinkedIn — MLE / DS Roles
-*Last updated: 2026-08-05 06:05 UTC*
+*Last updated: 2026-08-06 06:09 UTC*
 
-**10 new role(s)** since last run · 137 total in last 24h
+**8 new role(s)** since last run · 139 total in last 24h
 
-### [Lead Biostatistician (IVD Clinical)](https://job-boards.greenhouse.io/natera/jobs/6110225004) — Natera
-- 📍 **Location:** US Remote
+### [Computational Biologist](https://job-boards.greenhouse.io/freenome/jobs/8658848002) — Freenome
+- 📍 **Location:** Remote
+- 🕒 **Posted:** 2026-08-05
+
+### [Senior Software Engineer II](https://job-boards.greenhouse.io/freenome/jobs/8519753002) — Freenome
+- 📍 **Location:** Remote
+- 🕒 **Posted:** 2026-07-14
+
+### [Lead Biostatistician (IVD Clinical)](https://job-boards.greenhouse.io/natera/jobs/6110598004) — Natera
+- 📍 **Location:** San Carlos, CA
 - 🕒 **Posted:** 2026-07-29
 
-### [Software Engineer, Full Stack](https://job-boards.greenhouse.io/natera/jobs/5993307004) — Natera
-- 📍 **Location:** US Remote
-- 🕒 **Posted:** 2026-08-04
+### [Research Associate II/III– Bioanalytical/In Vitro ADME/DMPK](https://job-boards.greenhouse.io/nurix/jobs/8686689002) — Nurix Therapeutics
+- 📍 **Location:** Brisbane, California
+- 🕒 **Posted:** 2026-08-05
 
-### [Software Engineer - Patient Experience](https://job-boards.greenhouse.io/natera/jobs/6033356004) — Natera
-- 📍 **Location:** US Remote
-- 🕒 **Posted:** 2026-08-04
+### [AI & Data Engineer, Data Discovery Services](https://www.linkedin.com/jobs/view/4449967085/) — Bristol Myers Squibb
+- 📍 **Location:** Princeton, NJ
+- 🕒 **Posted:** 2026-08-05
 
-### [Research Engineer, AI](https://job-boards.greenhouse.io/biohub/jobs/7793665) — Chan Zuckerberg Biohub
-- 📍 **Location:** Redwood City, CA (Hybrid)
-- 🕒 **Posted:** 2026-07-30
-
-### [Research Scientist, AI](https://job-boards.greenhouse.io/biohub/jobs/7793644) — Chan Zuckerberg Biohub
-- 📍 **Location:** Redwood City, CA (Hybrid)
-- 🕒 **Posted:** 2026-06-02
-
-### [Data Engineer / System Analyst](https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Data-Engineer---System-Analyst_R0054132) — Gilead Sciences
-- 📍 **Location:** United States - California - Foster City
-- 🕒 **Posted:** Posted Today
-
-### [Sr Assoc Software Engineer, Research Systems](https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Sr-Assoc-Software-Engineer--Research-Systems_R0054131) — Gilead Sciences
-- 📍 **Location:** United States - California - Foster City
-- 🕒 **Posted:** Posted Today
-
-### [Senior Machine Learning Engineer, AI Studio](https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Senior-Machine-Learning-Engineer--AI-Studio_R-250797) — Amgen
-- 📍 **Location:** United States - Remote
-- 🕒 **Posted:** Posted Today
-
-### [Bioinformatics Scientist](https://www.linkedin.com/jobs/view/4448900428/) — Tempus AI
-- 📍 **Location:** Redwood City, CA
-- 🕒 **Posted:** 2026-08-04
-
-### [Medical Analytics Data Engineer](https://www.linkedin.com/jobs/view/4448898370/) — Pfizer
+### [Senior Software Engineer, Backend - Care Platform Operations](https://www.linkedin.com/jobs/view/4266581967/) — Ro
 - 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-08-04
+- 🕒 **Posted:** 2026-08-05
+
+### [Senior Manager, Data Engineer, Clinical Operations](https://www.linkedin.com/jobs/view/4449449387/) — Bristol Myers Squibb
+- 📍 **Location:** Princeton, NJ
+- 🕒 **Posted:** 2026-08-05
+
+### [Sr. Data Scientist, Translational Research](https://www.linkedin.com/jobs/view/4413090861/) — Tempus AI
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-08-05
