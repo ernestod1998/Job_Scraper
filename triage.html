@@ -417,9 +417,11 @@
   // write was a wholesale overwrite, a stale second window could silently erase
   // a batch of dismissals just by auto-refreshing. Never re-couple these.
   const DECIDE_KEY = 'jobTriage:v2';        // written FIRST, merged, never dropped
-  // v2 intentionally drops the old disposable cache after the filtering-policy
-  // change. DECIDE_KEY is unchanged, so decisions and sync state survive.
-  const CACHE_KEY  = 'jobTriage:cache:v2';  // written SECOND, plain overwrite
+  // Restore the long-lived v1 cache after the short-lived v2 policy rollout.
+  // Both are read during recovery; v2 is removed only after the merged v1 write
+  // has been verified, so neither side of the transition can lose visible jobs.
+  const CACHE_KEY = 'jobTriage:cache:v1';
+  const TRANSITION_CACHE_KEY = 'jobTriage:cache:v2';
   const LEGACY_KEY = 'jobTriage:v1';
   const CACHE_CAP  = 3000;                  // freshest untriaged jobs kept for failed fetches
                                             // (~750KB — big enough to stay useful, small
@@ -468,6 +470,21 @@
     return out;
   }
 
+  // Merge disposable caches by URL. Earlier caches contribute missing jobs;
+  // later caches refresh fields on overlaps. The v2 transition cache is passed
+  // last because it may contain updates fetched after the policy rollout.
+  function mergeJobCaches(...caches) {
+    const byUrl = new Map();
+    for (const cache of caches) {
+      for (const j of ((cache && cache.jobs) || [])) {
+        if (!j || !j.url) continue;
+        const current = byUrl.get(j.url);
+        byUrl.set(j.url, current ? { ...current, ...j } : j);
+      }
+    }
+    return { jobs: [...byUrl.values()] };
+  }
+
   // v1 → v2: split the single blob into decisions and cache. t:0 so that any
   // decision made after the upgrade always beats a migrated one.
   function migrateLegacy() {
@@ -481,7 +498,9 @@
 
   const state = (() => {
     const decided = readJson(DECIDE_KEY);
-    let cached    = readJson(CACHE_KEY);
+    const primaryCache = readJson(CACHE_KEY);
+    const transitionCache = readJson(TRANSITION_CACHE_KEY);
+    let cached = mergeJobCaches(primaryCache, transitionCache);
     // Always attempt the migration, never just "when v2 is missing". An empty or
     // partial v2 would otherwise orphan a full v1 forever — the user's entire
     // history, silently ignored. Merging is safe because every migrated decision
@@ -501,12 +520,10 @@
       // Untriaged legacy jobs are disposable, but there's no reason to bin them —
       // merge them in behind whatever the cache already holds rather than only
       // seeding when the cache happens to be empty.
-      const cacheJobs = ((cached && cached.jobs) || []).slice();
-      const cachedUrls = new Set(cacheJobs.map(j => j && j.url));
-      for (const j of legacy.jobs) {
-        if (!s.triage[j.url] && !cachedUrls.has(j.url)) { cacheJobs.push(j); cachedUrls.add(j.url); }
-      }
-      cached = { jobs: cacheJobs };
+      cached = mergeJobCaches(
+        { jobs: legacy.jobs.filter(j => !s.triage[j.url]) },
+        cached,
+      );
     }
 
     // Fold the disposable cache in behind the triaged jobs. This is what keeps
@@ -518,6 +535,7 @@
     }
 
     s._pendingLegacy = !!legacy;   // v1 is removed only after v2 is verified on disk
+    s._pendingTransitionCache = !!transitionCache;
     return s;
   })();
 
@@ -1336,7 +1354,7 @@
     renderFilterGroup('filter-role', 'role',
       ['AI Engineer', 'MLE', 'MLOps/Platform', 'Scientist', 'Comp Chem/Sci',
        'Data Science', 'SWE', 'Bioinformatics', 'Other']);
-    // Founding/Principal/Staff are excluded at the scraper (mid-level focus);
+    // Founding/Principal/Staff are excluded at the scraper (upper-level veto);
     // pruneState() clears any lingering untriaged ones from older sessions.
     renderFilterGroup('filter-sen', 'sen', ['Senior', 'Mid', 'Intern']);
     renderDateFilter();
@@ -1428,9 +1446,9 @@
         .slice(0, CACHE_CAP)
         .map(slimJob);
       localStorage.setItem(CACHE_KEY, JSON.stringify({ jobs: cache, at: Date.now() }));
+      finishTransitionCacheMigration(cache);
     } catch (e) {
       console.warn('[save] job cache write skipped:', e.message);
-      try { localStorage.removeItem(CACHE_KEY); } catch {}
     }
     // Mirror to the other devices. Debounced, no-ops when nothing changed, and
     // can never affect whether the local write above succeeded.
@@ -1438,9 +1456,24 @@
     return ok;
   }
 
-  // Only now is it safe to drop v1: read v2 back and confirm it parses with the
-  // decision count we just wrote. A migration that removes v1 and then fails its
-  // own write would destroy every decision the user has ever made.
+  // Keep the transitional cache until the restored v1 cache has definitely
+  // persisted the exact job set selected by save(). A quota/write failure leaves
+  // both old caches intact for the next reload instead of compounding data loss.
+  function finishTransitionCacheMigration(writtenJobs) {
+    if (!state._pendingTransitionCache) return;
+    const back = readJson(CACHE_KEY);
+    if (!back || !Array.isArray(back.jobs) || back.jobs.length !== writtenJobs.length) return;
+    const urls = new Set(back.jobs.map(j => j && j.url));
+    if (writtenJobs.some(j => !j || !urls.has(j.url))) return;
+    try { localStorage.removeItem(TRANSITION_CACHE_KEY); } catch { return; }
+    state._pendingTransitionCache = false;
+    console.info('[migrate] merged jobTriage:cache:v2 back into jobTriage:cache:v1');
+  }
+
+  // Only now is it safe to drop the legacy combined jobTriage:v1 record: read
+  // jobTriage:v2 back and confirm it has the decision count we just wrote. A
+  // migration that removes the legacy record before a successful write would
+  // destroy every decision the user has ever made.
   function finishLegacyMigration(written) {
     if (!state._pendingLegacy) return;
     const back = readJson(DECIDE_KEY);
@@ -1469,11 +1502,11 @@
   }
 
   // ---------- Prune (keeps localStorage bounded) ----------
-  // Drops untriaged jobs that are senior-track/exec (excluded at the scraper
+  // Drops untriaged jobs that are upper senior-track/exec (excluded at the scraper
   // since 2026-06 — keep this regex in sync with EXCLUDED_SENIORITY_RE in
   // scrape_jobs.py) or older than 30 days. Anything saved/applied/dismissed
   // is kept — that's the user's triage history.
-  const EXCLUDED_TITLE_RE = /\b(senior|sr|staff|principal|distinguished|founding|lead|manager|director|vice president|vp|svp|chief|head\s+of)\b/i;
+  const EXCLUDED_TITLE_RE = /\b(staff|principal|distinguished|founding|director|vice president|s?vp|chief|head of)\b/i;
   function pruneState() {
     const cutoff = Date.now() - 30 * 86400000;
     const before = state.jobs.length;

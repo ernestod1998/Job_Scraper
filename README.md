@@ -43,7 +43,7 @@ The generic `ai engineer` / `ai/ml engineer` lane is deliberately paused; the re
 
 **Computational / informatics (biotech):** `computational scientist`, `computational biologist`, `bioinformatics scientist`, `bioinformatics engineer`, `cheminformatics`, `biostatistician`, `bioinformatician`, `bioinformatics analyst`, `genomics scientist`, `research software engineer`, `scientific software engineer`, `associate computational biologist`, `research associate, computational`, `research scientist, ai`
 
-**Excluded seniority:** titles containing word-bounded `senior`/`sr`, `staff`, `principal`, `lead`, `manager`, `distinguished`, `founding`, `director`, `vice president`, `vp`/`svp`, `chief`, or `head of` are dropped everywhere (early-to-mid-level IC focus). The description's years-of-experience language is not inspected. Single-word role keywords are word-bounded, so `mle` cannot match inside another word.
+**Excluded seniority:** titles containing word-bounded `staff`, `principal`, `distinguished`, `founding`, `director`, `vice president`, `vp`/`svp`, `chief`, or `head of` are dropped everywhere. Senior/Sr, Lead, and Manager titles remain eligible. The description's years-of-experience language is not inspected. Single-word role keywords are word-bounded, so `mle` cannot match inside another word.
 
 **Excluded companies:** `EXCLUDED_COMPANIES` in `scrape_jobs.py` is a blocklist for recruiting-platform/aggregator accounts that repost roles which mostly don't exist (e.g. "Jack & Jill"). Matched case-insensitively against the parsed company name in the LinkedIn parser, the Indeed scraper, at the top of `save_jobs_output()` (so every source — including blocked-run fallbacks and future scrapers — is filtered before any digest is written), and as a backstop before anything enters `all_jobs.json`. Add a line there to block the next one.
 
@@ -76,7 +76,7 @@ The scraper workflows keep a GitHub history of generated digests by committing c
 
 A single-file dashboard hosted on GitHub Pages that merges all the latest source JSONs into one filterable cockpit: search, role/seniority/source filters, save/applied/dismiss buttons persisted in localStorage, top-companies + role-mix charts, and Export/Import buttons for backing up your triage decisions to a file.
 
-Triage state lives in two localStorage keys, deliberately kept apart: `jobTriage:v2` holds your decisions (small, merged on every write, never dropped) and `jobTriage:cache:v2` holds a capped copy of the job list (bulky and disposable). The cache version was bumped for the stricter filtering policy without touching decisions. Every write merges against what's already stored — newest timestamp per job wins — so a second browser window refreshing can no longer overwrite decisions it never saw. Open `triage.html?selftest=1` to run the merge-rule assertion suite.
+Triage state lives in two localStorage keys, deliberately kept apart: `jobTriage:v2` holds your decisions (small, merged on every write, never dropped) and `jobTriage:cache:v1` holds a capped copy of the job list (bulky and disposable). The dashboard also recovers the short-lived `jobTriage:cache:v2` transition cache and removes it only after a verified merged write to v1. Every decision write merges against what's already stored — newest timestamp per job wins — so a second browser window refreshing can no longer overwrite decisions it never saw. Open `triage.html?selftest=1` to run the merge-rule assertion suite.
 
 #### Cross-device sync — on by default
 

@@ -23,7 +23,9 @@ def role(url="https://example.com/job/1", **overrides):
 
 class RoleAndLocationPolicy(unittest.TestCase):
     def test_seniority_veto_is_word_bounded(self):
-        for prefix in ("Senior", "Sr", "Sr.", "Lead", "Manager", "Staff", "Principal"):
+        for prefix in ("Senior", "Sr", "Sr.", "Lead", "Manager"):
+            self.assertTrue(sj.is_mle_role(f"{prefix} Machine Learning Engineer"), prefix)
+        for prefix in ("Staff", "Principal", "Founding", "Director"):
             self.assertFalse(sj.is_mle_role(f"{prefix} Machine Learning Engineer"), prefix)
         self.assertTrue(sj.is_mle_role("Machine Learning Engineer, Leadership Development"))
 
@@ -59,15 +61,16 @@ class RoleAndLocationPolicy(unittest.TestCase):
         rows = [
             role("https://x/ok"),
             role("https://x/senior", title="Senior Machine Learning Engineer"),
+            role("https://x/staff", title="Staff Machine Learning Engineer"),
             role("https://x/far", location="Boston, MA"),
             role("https://x/company", company="Jack & Jill"),
         ]
         kept, rejected, stats = sj._filter_job_observations(rows, default_feed="general")
-        self.assertEqual([j["url"] for j in kept], ["https://x/ok"])
+        self.assertEqual([j["url"] for j in kept], ["https://x/ok", "https://x/senior"])
         self.assertEqual(kept[0]["feeds"], ["general"])
         self.assertEqual(stats, {"company": 1, "seniority": 1, "role": 0, "location": 1})
         self.assertEqual({r["reason"] for r in rejected}, {"company", "seniority", "location"})
-        bio, _, _ = sj._filter_job_observations([rows[2]], default_feed="biotech")
+        bio, _, _ = sj._filter_job_observations([rows[3]], default_feed="biotech")
         self.assertEqual(bio[0]["feeds"], ["biotech"])
 
 
@@ -177,7 +180,9 @@ class RefilterCommand(unittest.TestCase):
             path = os.path.join(tmp, "all_jobs.json")
             payload = {"updated_at": "old", "jobs": [
                 role("https://x/keep", first_seen="2026-08-01T00:00:00Z"),
-                role("https://x/drop", title="Senior Machine Learning Engineer",
+                role("https://x/senior", title="Senior Machine Learning Engineer",
+                     first_seen="2026-08-01T00:00:00Z"),
+                role("https://x/drop", title="Staff Machine Learning Engineer",
                      first_seen="2026-08-01T00:00:00Z"),
             ]}
             with open(path, "w") as f:
@@ -191,8 +196,8 @@ class RefilterCommand(unittest.TestCase):
                 sj.refilter_existing_outputs(write=True)
             with open(path) as f:
                 jobs = json.load(f)["jobs"]
-            self.assertEqual(len(jobs), 1)
-            self.assertEqual(jobs[0]["first_seen"], "2026-08-01T00:00:00Z")
+            self.assertEqual([j["url"] for j in jobs], ["https://x/keep", "https://x/senior"])
+            self.assertTrue(all(j["first_seen"] == "2026-08-01T00:00:00Z" for j in jobs))
 
     def test_master_migration_uses_biotech_source_url_provenance(self):
         job = role("https://unknown-biotech.example/job/1", location="Boston, MA")

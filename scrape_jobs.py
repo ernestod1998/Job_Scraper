@@ -108,12 +108,11 @@ REQUEST_DELAY = 0.3
 # Biotech digest should only contain reliably fresh roles.
 FRESH_JOB_LOOKBACK = timedelta(hours=24)
 
-# Senior-track and executive titles are excluded everywhere: the candidate
-# targets early-to-mid IC roles. Covers IC senior tracks (staff/principal/
-# distinguished/founding) and management/exec tiers (director/VP/chief/head of).
+# Upper senior-track and executive titles are excluded everywhere. Senior/Sr,
+# Lead, and Manager roles remain eligible; only Staff+ IC tracks and explicit
+# director/executive tiers are vetoed.
 EXCLUDED_SENIORITY_RE = re.compile(
-    r'\b(senior|sr\.?|staff|principal|distinguished|founding|lead|manager|director|'
-    r'vice president|vp|svp|chief|head\s+of)\b',
+    r'\b(staff|principal|distinguished|founding|director|vice president|s?vp|chief|head of)\b',
     re.IGNORECASE)
 
 # Recruiting-platform / aggregator accounts that repost roles which mostly don't
