@@ -3,7 +3,7 @@ Bay Area + NYC MLE/DS Job Scraper
 Three pipelines (see __main__): LinkedIn guest-endpoint watcher, Indeed via
 python-jobspy, and a curated-biotech sweep (direct Greenhouse/Workday probes +
 allowlist-filtered LinkedIn). Each writes {basename}.{json,md,html} digests and
-accumulates into all_jobs.json for the nightly triage agent and the dashboard.
+accumulates into all_jobs.json for the dashboard and optional manual triage agent.
 """
 
 import http.cookiejar
@@ -112,7 +112,8 @@ FRESH_JOB_LOOKBACK = timedelta(hours=24)
 # targets early-to-mid IC roles. Covers IC senior tracks (staff/principal/
 # distinguished/founding) and management/exec tiers (director/VP/chief/head of).
 EXCLUDED_SENIORITY_RE = re.compile(
-    r'\b(staff|principal|distinguished|founding|director|vice president|s?vp|chief|head of)\b',
+    r'\b(senior|sr\.?|staff|principal|distinguished|founding|lead|manager|director|'
+    r'vice president|vp|svp|chief|head\s+of)\b',
     re.IGNORECASE)
 
 # Recruiting-platform / aggregator accounts that repost roles which mostly don't
@@ -251,6 +252,8 @@ _BAY_AMBIGUOUS = {"dublin", "brisbane", "newark", "richmond", "concord",
 
 def _bay_area_confirmed(location: str) -> bool:
     loc = (location or "").lower()
+    if re.search(r'(^|\W)sf(\W|$)', loc):
+        return True
     for city in BAY_AREA_LOCATIONS:
         if city not in loc:
             continue
@@ -264,28 +267,39 @@ def _bay_area_confirmed(location: str) -> bool:
 # bare token would otherwise match upstate strings like "Albany, New York"
 # on the state name alone.
 _NYC_CITY_RE = re.compile(
-    r'^\W*new york\b'
-    r'|\bnew york\s*,\s*(ny|new york)\b'
+    r'\bnew york\s*,\s*(ny|new york)\b'
     r'|\bnew york city\b'
-    r'|\bnew york metro'
-    r'|\bnyc\b'
-)
+    r'|\bnyc\b', re.IGNORECASE)
+_NYC_BOROUGHS = {"manhattan", "brooklyn", "queens", "bronx", "staten island"}
+_CLOSE_NJ_CITIES = {
+    "jersey city", "hoboken", "newark", "secaucus", "weehawken",
+    "north bergen", "fort lee",
+}
+_NJ_AMBIGUOUS = {"newark", "fort lee"}
+_NJ_CONFIRM_RE = re.compile(r'\b(nj|new jersey)\b', re.IGNORECASE)
 
 
 def is_nyc(location: str) -> bool:
-    """NYC-metro test over the US_BIOTECH_HUBS NY tokens (word-boundary and
-    state-confirmed like hub_city_match). Bare "Queens"/"Brooklyn" never
-    match; "Queens, NY"/"Brooklyn, NY" do; "Albany, New York" is rejected by
-    the city-position guard."""
+    """Strict general-feed NYC/nearby-NJ gate.
+
+    This intentionally excludes broad metro/state labels, Long Island,
+    Westchester/Connecticut, and NJ cities beyond the small approved set.
+    """
     low = (location or "").lower()
-    for tok, state in US_BIOTECH_HUBS.items():
-        if state != "NY" or not re.search(rf'\b{re.escape(tok)}\b', low):
-            continue
-        if tok in _HUB_AMBIGUOUS and not _STATE_CONFIRM["NY"].search(low):
-            continue
-        if tok == "new york" and not _NYC_CITY_RE.search(low):
-            continue
+    if not low or "metro" in low:
+        return False
+    if _NYC_CITY_RE.search(low):
         return True
+    if any(re.search(rf'\b{re.escape(city)}\b', low) for city in _NYC_BOROUGHS):
+        return bool(_STATE_CONFIRM["NY"].search(low) or "new york city" in low)
+    for city in _CLOSE_NJ_CITIES:
+        if not re.search(rf'\b{re.escape(city)}\b', low):
+            continue
+        # Newark and Fort Lee have common out-of-state namesakes. The other
+        # approved city names are specific enough to accept when an upstream
+        # board omits the state (a common ATS formatting choice).
+        if city not in _NJ_AMBIGUOUS or _NJ_CONFIRM_RE.search(low):
+            return True
     return False
 
 
@@ -294,7 +308,7 @@ def is_watch_location(location: str) -> bool:
     Uses _bay_area_confirmed, not is_bay_area — its callers see nationwide
     location strings, where bare "newark"/"richmond"/"concord" substrings
     would otherwise pass for out-of-state agencies."""
-    return _bay_area_confirmed(location) or is_nyc(location)
+    return _bay_area_confirmed(location) or is_nyc(location) or is_remote_us(location)
 
 
 # Remote roles count as US only on an affirmative US signal, or when the
@@ -660,11 +674,13 @@ WORKDAY_SEARCH_TERMS = [
 WORKDAY_MAX_PER_TERM = 60
 
 
-def _workday_posting_locations(entry: dict, ext_path: str) -> str:
+def _workday_posting_locations(entry: dict, ext_path: str, request_limiter=None) -> str:
     """Resolve a multi-location Workday posting's real cities from its detail
     JSON (jobPostingInfo.location + additionalLocations). Returns the first
     location that passes the target gate, else all of them joined (which then
     correctly fails the gate), else "" on fetch/parse failure."""
+    if request_limiter is not None and not request_limiter():
+        return ""
     time.sleep(REQUEST_DELAY)
     raw = fetch(entry["url"].rsplit("/jobs", 1)[0] + ext_path)
     if not raw:
@@ -682,7 +698,7 @@ def _workday_posting_locations(entry: dict, ext_path: str) -> str:
     return "; ".join(locs)
 
 
-def probe_curated_workday(entry: dict) -> list:
+def probe_curated_workday(entry: dict, request_limiter=None) -> list:
     """
     Workday's /jobs endpoint sometimes 400s on empty searchText, so we hit it
     once per term and dedupe by externalPath.
@@ -698,6 +714,8 @@ def probe_curated_workday(entry: dict) -> list:
         # 20-result cap (bounded, so runtime stays sane on the daily sweep).
         offset = 0
         while offset < WORKDAY_MAX_PER_TERM:
+            if request_limiter is not None and not request_limiter():
+                return list(seen.values())
             time.sleep(REQUEST_DELAY)
             body = json.dumps({"appliedFacets": {}, "limit": 20,
                                "offset": offset, "searchText": term}).encode()
@@ -738,7 +756,9 @@ def probe_curated_workday(entry: dict) -> list:
                 # roles aren't relabeled with a fallback the gate rejects
                 # (BMS: Princeton) or blindly credited to HQ.
                 if re.match(r'^\d+ Locations?$', loc):
-                    real = _workday_posting_locations(entry, ext_path) if ext_path else ""
+                    real = _workday_posting_locations(
+                        entry, ext_path, request_limiter=request_limiter
+                    ) if ext_path else ""
                     loc = real or entry["fallback_location"]
                 seen[ext_path] = {
                     "company": entry["name"],
@@ -1028,7 +1048,7 @@ LINKEDIN_SEARCH_TERMS = [
     "research software engineer",
 ]
 
-LINKEDIN_LOOKBACK_SECONDS = 3600          # 1h — every-2h watcher only surfaces the freshest hour
+LINKEDIN_LOOKBACK_SECONDS = 3600          # 1h — hourly watcher surfaces the freshest hour
 LINKEDIN_BIOTECH_LOOKBACK_SECONDS = 86400 # 24h — biotech is a daily 8pm PT digest
 
 # Guest-endpoint geo scopes as (display name, LinkedIn geoId) pairs.
@@ -1077,28 +1097,46 @@ BIOTECH_COMPANY_NAMES = [
 BIOTECH_COMPANY_ALLOWLIST = frozenset(
     re.sub(r'[^a-z0-9]', '', n.lower()) for n in BIOTECH_COMPANY_NAMES
 )
+_BIOTECH_UNION_CACHE: dict[str, frozenset[str]] = {}
+
+
+def _biotech_company_union() -> frozenset[str]:
+    """Complete curated + discovered + LinkedIn biotech company universe."""
+    cached = _BIOTECH_UNION_CACHE.get(SCRIPT_DIR)
+    if cached is not None:
+        return cached
+    names = set(BIOTECH_COMPANY_ALLOWLIST)
+    for entry in list(CURATED_BIOTECHS) + _load_discovered_companies():
+        norm = re.sub(r'[^a-z0-9]', '', str(entry.get("name", "")).lower())
+        if norm:
+            names.add(norm)
+    result = frozenset(names)
+    _BIOTECH_UNION_CACHE[SCRIPT_DIR] = result
+    return result
 
 
 def _is_biotech_company(name: str) -> bool:
     norm = re.sub(r'[^a-z0-9]', '', (name or "").lower())
     if not norm:
         return False
-    return any(b in norm or norm in b for b in BIOTECH_COMPANY_ALLOWLIST)
+    return any(b in norm or norm in b for b in _biotech_company_union())
 
 
-def _parse_linkedin_cards(html: str) -> tuple[list[dict], int]:
-    """Returns (keyword-matched cards, raw card count on the page). The raw
-    count lets callers distinguish 'page full of non-matching roles' (keep
-    paginating) from 'no results at all' (stop)."""
+def _parse_linkedin_cards(html: str) -> tuple[list[dict], list[str]]:
+    """Return ``(keyword-matched cards, every raw posting ID)``.
+
+    Keeping the raw IDs separate makes pagination independent of how many
+    titles survive our role filter and lets the caller detect repeated pages.
+    """
     import html as html_mod
     cards = re.split(r'<li[^>]*>', html)[1:]
     parsed = []
-    raw_count = 0
+    raw_ids: list[str] = []
     for card in cards:
         urn = re.search(r'data-entity-urn="urn:li:jobPosting:(\d+)"', card)
         if not urn:
             continue
-        raw_count += 1
+        raw_ids.append(urn.group(1))
         title_m = re.search(r'base-search-card__title[^>]*>\s*([^<]+)', card)
         company_m = re.search(
             r'base-search-card__subtitle[^>]*>.*?<a[^>]*>\s*([^<]+)\s*</a>',
@@ -1126,7 +1164,7 @@ def _parse_linkedin_cards(html: str) -> tuple[list[dict], int]:
             "location": location,
             "date_posted": time_m.group(1) if time_m else "",
         })
-    return parsed, raw_count
+    return parsed, raw_ids
 
 
 def _linkedin_search(terms: list[str], lookback_seconds: int) -> tuple[list[dict], int]:
@@ -1141,7 +1179,9 @@ def _linkedin_search(terms: list[str], lookback_seconds: int) -> tuple[list[dict
     jobs_by_id: dict[str, dict] = {}
     total_raw_cards = 0
     for (loc_name, geo_id), term in itertools.product(LINKEDIN_LOCATIONS, terms):
-        for start in range(0, 75, 25):
+        start = 0
+        seen_raw_ids: set[str] = set()
+        while start < 75:
             time.sleep(REQUEST_DELAY)
             url = (
                 "https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search"
@@ -1154,12 +1194,17 @@ def _linkedin_search(terms: list[str], lookback_seconds: int) -> tuple[list[dict
             html = fetch(url)
             if not html.strip():
                 break
-            parsed, raw_count = _parse_linkedin_cards(html)
+            parsed, raw_ids = _parse_linkedin_cards(html)
+            raw_count = len(raw_ids)
             total_raw_cards += raw_count
             # Break on a truly empty page, NOT on "no keyword matches" — a page
             # of 25 off-target roles must not end pagination for the term.
             if not raw_count:
                 break
+            unseen = set(raw_ids) - seen_raw_ids
+            if not unseen:
+                break
+            seen_raw_ids.update(raw_ids)
             for p in parsed:
                 if p["id"] in jobs_by_id:
                     continue
@@ -1171,6 +1216,7 @@ def _linkedin_search(terms: list[str], lookback_seconds: int) -> tuple[list[dict
                     "date_posted": p["date_posted"],
                     "ats": "LinkedIn",
                 }
+            start += raw_count
 
     jobs = list(jobs_by_id.values())
     jobs.sort(key=lambda j: -_iso_to_ts(j.get("date_posted", "")))
@@ -1229,7 +1275,25 @@ INDEED_LOOKBACK_HOURS = 24  # Indeed posting dates are ~day-resolution, so a 1h 
 INDEED_JD_MAX_CHARS = 6000
 
 # Metro scopes for the jobspy-backed sources (Indeed, ZipRecruiter + Google).
-JOBSPY_LOCATIONS = ["San Francisco, CA", "New York, NY"]
+# NYC is deliberately tighter; the central post-fetch policy is authoritative.
+JOBSPY_LOCATIONS = [("San Francisco, CA", 50), ("New York, NY", 25)]
+
+
+def _jobspy_fetch_with_retry(jobspy_scrape, **kwargs):
+    """Fetch 50 rows, retrying once at 100 when the first result saturates."""
+    first = jobspy_scrape(results_wanted=50, **kwargs)
+    if first is not None and len(first) == 50:
+        try:
+            second = jobspy_scrape(results_wanted=100, **kwargs)
+        except Exception as e:
+            print(f"  ⚠️  JobSpy 100-row retry failed; keeping first 50 rows ({e})")
+            return first
+        if second is None:
+            return first
+        if second is not None and len(second) >= 100:
+            print("  ⚠️  JobSpy result set still saturated at 100 rows")
+        return second
+    return first
 
 
 def scrape_indeed_recent() -> list:
@@ -1245,18 +1309,18 @@ def scrape_indeed_recent() -> list:
     ok_terms = 0
     errored_terms = 0
     raw_rows = 0
-    for location, term in itertools.product(JOBSPY_LOCATIONS, LINKEDIN_SEARCH_TERMS):
+    for (location, distance), term in itertools.product(JOBSPY_LOCATIONS, LINKEDIN_SEARCH_TERMS):
         time.sleep(REQUEST_DELAY)  # throttle: back-to-back calls invite blocking on CI IPs
         try:
             # JobSpy Indeed gotcha: hours_old / is_remote / job_type / easy_apply
             # are mutually exclusive — only one may be set, or the time filter
             # silently breaks. Keep hours_old; do not add the others.
-            df = jobspy_scrape(
+            df = _jobspy_fetch_with_retry(
+                jobspy_scrape,
                 site_name=["indeed"],
                 search_term=term,
                 location=location,
-                distance=50,
-                results_wanted=50,
+                distance=distance,
                 hours_old=INDEED_LOOKBACK_HOURS,
                 country_indeed="USA",
             )
@@ -1339,21 +1403,21 @@ def scrape_boards_recent() -> list:
     ok_terms = 0
     errored_terms = 0
     raw_rows = 0
-    for location, term in itertools.product(JOBSPY_LOCATIONS, LINKEDIN_SEARCH_TERMS):
+    for (location, distance), term in itertools.product(JOBSPY_LOCATIONS, LINKEDIN_SEARCH_TERMS):
         time.sleep(REQUEST_DELAY)
         try:
             # Same jobspy gotcha as Indeed: keep hours_old, don't add the other
             # mutually-exclusive filters. Google ignores plain search_term —
             # it needs the full google_search_term query string.
-            df = jobspy_scrape(
+            df = _jobspy_fetch_with_retry(
+                jobspy_scrape,
                 site_name=["zip_recruiter", "google"],
                 search_term=term,
                 google_search_term=(
                     f"{term} jobs near {location} since yesterday"
                 ),
                 location=location,
-                distance=50,
-                results_wanted=50,
+                distance=distance,
                 hours_old=BOARDS_LOOKBACK_HOURS,
             )
         except Exception as e:
@@ -1472,6 +1536,62 @@ def _job_identity(url: str) -> str:
     return url.split("?")[0].rstrip("/")
 
 
+FILTER_STAT_KEYS = ("company", "seniority", "role", "location")
+
+
+def _observation_feed(job: dict, default_feed: str) -> str:
+    """Resolve one observation's lane; registry-style rows may override it."""
+    feed = str(job.get("feed", "") or "").lower()
+    if feed not in {"general", "biotech"}:
+        persisted = [f for f in job.get("feeds", []) if f in {"general", "biotech"}]
+        if len(persisted) == 1:
+            feed = persisted[0]
+    return feed if feed in {"general", "biotech"} else default_feed
+
+
+def _filter_job_observations(jobs: list[dict], *, default_feed: str):
+    """Apply the shared company/title/location policy at the persistence gate.
+
+    Returns ``(accepted, rejected, stats)``. Rejections retain canonical job
+    identity plus their feed so the master can remove only that provenance.
+    """
+    if default_feed not in {"general", "biotech"}:
+        raise ValueError(f"unknown feed: {default_feed}")
+    accepted: list[dict] = []
+    rejected: list[dict] = []
+    stats = {key: 0 for key in FILTER_STAT_KEYS}
+    for original in jobs:
+        job = dict(original)
+        feed = _observation_feed(job, default_feed)
+        reason = ""
+        title = str(job.get("title", "") or "")
+        if is_excluded_company(str(job.get("company", "") or "")):
+            reason = "company"
+        elif EXCLUDED_SENIORITY_RE.search(title):
+            reason = "seniority"
+        elif not _KEYWORD_RE.search(title):
+            reason = "role"
+        else:
+            location = str(job.get("location", "") or "")
+            location_ok = is_target_location(location) if feed == "biotech" else is_watch_location(location)
+            if not location_ok:
+                reason = "location"
+        if reason:
+            stats[reason] += 1
+            rejected.append({
+                "identity": _job_identity(str(job.get("url", "") or "")),
+                "feed": feed,
+                "reason": reason,
+            })
+            continue
+        feeds = {f for f in job.get("feeds", []) if f in {"general", "biotech"}}
+        feeds.add(feed)
+        job["feeds"] = sorted(feeds)
+        job.pop("feed", None)
+        accepted.append(job)
+    return accepted, rejected, stats
+
+
 def _load_prev_jobs(json_path: str) -> list[dict]:
     """Read the `jobs` list from a previously-saved jobs JSON (empty if missing)."""
     try:
@@ -1494,7 +1614,7 @@ def _load_prev_ids(json_path: str) -> set[str]:
 ALL_JOBS_PRUNE_DAYS = 14
 
 
-def _merge_into_all_jobs(new_jobs: list) -> int:
+def _merge_into_all_jobs(observed_jobs: list, rejected_observations: list | None = None) -> int:
     """
     Maintain all_jobs.json — a cumulative, URL-deduped master of every role the
     scrapers surface, each stamped with first_seen. The per-source JSONs are
@@ -1511,22 +1631,64 @@ def _merge_into_all_jobs(new_jobs: list) -> int:
 
     now = datetime.now(timezone.utc)
     stamp = now.strftime("%Y-%m-%dT%H:%M:%SZ")
-    by_url = {j.get("url"): j for j in master if j.get("url")}
+    by_identity = {
+        _job_identity(str(j.get("url", "") or "")): j
+        for j in master if _job_identity(str(j.get("url", "") or ""))
+    }
+    accepted_pairs = {
+        (_job_identity(str(job.get("url", "") or "")), feed)
+        for job in observed_jobs
+        for feed in (job.get("feeds") or [])
+        if feed in {"general", "biotech"}
+    }
+    for rejection in rejected_observations or []:
+        ident = rejection.get("identity", "")
+        if (ident, rejection.get("feed")) in accepted_pairs:
+            # Duplicate upstream observations can disagree on metadata. A
+            # valid observation in this run wins over a rejected copy so its
+            # existing first_seen/feed provenance is not reset.
+            continue
+        existing = by_identity.get(ident)
+        if not existing:
+            continue
+        feeds = set(existing.get("feeds") or [
+            "biotech" if _is_biotech_company(existing.get("company", "")) else "general"
+        ])
+        feeds.discard(rejection.get("feed"))
+        if feeds:
+            existing["feeds"] = sorted(feeds)
+        else:
+            del by_identity[ident]
     added = 0
-    for j in new_jobs:
+    refresh_fields = {
+        "company", "title", "location", "date_posted", "salary", "ats", "url"
+    }
+    for j in observed_jobs:
         if is_excluded_company(j.get("company", "")):
             continue  # backstop: keep blocklisted recruiters out of the master
-        url = j.get("url")
-        if url and url not in by_url:  # first writer wins on first_seen
+        ident = _job_identity(str(j.get("url", "") or ""))
+        if not ident:
+            continue
+        if ident not in by_identity:
             # Drop the JD text: the dashboard fetches this whole file on every
             # load; the triage agent reads descriptions from indeed_jobs.json.
             entry = {k: v for k, v in j.items() if k != "description"}
             entry["first_seen"] = stamp
-            by_url[url] = entry
+            by_identity[ident] = entry
             added += 1
+            continue
+        entry = by_identity[ident]
+        for field in refresh_fields:
+            if field in j:
+                entry[field] = j[field]
+        entry["feeds"] = sorted(
+            set(entry.get("feeds") or [
+                "biotech" if _is_biotech_company(entry.get("company", "")) else "general"
+            ]) | set(j.get("feeds") or [])
+        )
 
     cutoff = (now - timedelta(days=ALL_JOBS_PRUNE_DAYS)).strftime("%Y-%m-%dT%H:%M:%SZ")
-    kept = [j for j in by_url.values() if j.get("first_seen", stamp) >= cutoff]
+    kept = [j for j in by_identity.values() if j.get("first_seen", stamp) >= cutoff]
     kept.sort(key=lambda j: j.get("first_seen", ""), reverse=True)
 
     with open(path, "w") as f:
@@ -1548,7 +1710,8 @@ def _normalize_dates(jobs: list) -> None:
 
 
 def save_jobs_output(jobs: list, *, basename: str, title: str, subtitle: str,
-                     accent: str, empty_message: str, window_label: str):
+                     accent: str, empty_message: str, window_label: str,
+                     default_feed: str = "general"):
     """
     Save jobs to {basename}.{json,md,html}. Dedupes against the previous JSON at
     the same path so each email surfaces only postings new to this run.
@@ -1557,11 +1720,9 @@ def save_jobs_output(jobs: list, *, basename: str, title: str, subtitle: str,
     md_path = os.path.join(SCRIPT_DIR, f"{basename}.md")
     html_path = os.path.join(SCRIPT_DIR, f"{basename}.html")
 
-    # Choke-point blocklist filter: the per-scraper guards miss the blocked-run
-    # fallbacks (which reload the previous JSON verbatim), so pre-blocklist rows
-    # could be re-persisted into the digests the dashboard reads. Filtering here
-    # covers every source — including future ones — before anything is written.
-    jobs = [j for j in jobs if not is_excluded_company(j.get("company", ""))]
+    # One persistence choke point covers live rows and blocked-run fallbacks.
+    jobs, rejected, filter_stats = _filter_job_observations(
+        jobs, default_feed=default_feed)
 
     # Same choke-point logic for dates: normalizing here covers every source —
     # including future ones — rather than trusting each scraper to get the
@@ -1573,17 +1734,30 @@ def save_jobs_output(jobs: list, *, basename: str, title: str, subtitle: str,
     prev_ids = _load_prev_ids(json_path)
     new_jobs = [j for j in jobs if _job_identity(j.get("url", "")) not in prev_ids]
 
+    # Registry boards establish their own silent baseline on the first valid
+    # scrape. Capture that private marker before user-facing/master output is
+    # written, then notify only the explicitly eligible subset.
+    notify_identities = {
+        _job_identity(j.get("url", "")) for j in new_jobs
+        if j.get("registry_notify_eligible", True)
+    }
+    for job in jobs:
+        job.pop("registry_notify_eligible", None)
+
     # Accumulate into the cumulative master. Guarded: a bug here must never
     # break the scrape/commit path that the digests and dashboard depend on.
     try:
-        _merge_into_all_jobs(new_jobs)
+        _merge_into_all_jobs(jobs, rejected)
     except Exception as e:
         print(f"  ⚠️  all_jobs.json accumulator failed (non-fatal): {e}")
 
     # Push new roles to Pushover (no-op without PUSHOVER_TOKEN/USER env vars).
     try:
         import notify
-        notify.notify_new_jobs(new_jobs)
+        notify.notify_new_jobs([
+            job for job in new_jobs
+            if _job_identity(job.get("url", "")) in notify_identities
+        ])
     except Exception as e:
         print(f"  ⚠️  Pushover notify failed (non-fatal): {e}")
 
@@ -1595,6 +1769,7 @@ def save_jobs_output(jobs: list, *, basename: str, title: str, subtitle: str,
         "new_count": len(new_jobs),
         "jobs": jobs,
         "new_jobs": new_jobs,
+        "filter_stats": filter_stats,
     }
     with open(json_path, "w") as f:
         json.dump(output, f, indent=2)
@@ -1675,6 +1850,7 @@ def save_biotech_linkedin_results(jobs: list):
         accent="#2ea04f",
         empty_message="No new biotech roles since the last run.",
         window_label=f"last {LINKEDIN_BIOTECH_LOOKBACK_SECONDS // 3600}h",
+        default_feed="biotech",
     )
 
 
@@ -1751,11 +1927,20 @@ h1 {{ font-size: 22px; margin: 0 0 4px 0; }}
 # ---------------------------------------------------------------------------
 
 def save_results(jobs: list):
-    # This path bypasses save_jobs_output, so it needs its own normalization.
+    # Legacy path shares the same biotech policy/master semantics.
+    jobs, rejected, filter_stats = _filter_job_observations(
+        jobs, default_feed="biotech")
     _normalize_dates(jobs)
+    try:
+        _merge_into_all_jobs(jobs, rejected)
+    except Exception as e:
+        print(f"  ⚠️  all_jobs.json accumulator failed (non-fatal): {e}")
     timestamp = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
 
-    output = {"scraped_at": timestamp, "total": len(jobs), "jobs": jobs}
+    output = {
+        "scraped_at": timestamp, "total": len(jobs), "jobs": jobs,
+        "filter_stats": filter_stats,
+    }
     with open(os.path.join(SCRIPT_DIR, "jobs.json"), "w") as f:
         json.dump(output, f, indent=2)
 
@@ -2208,11 +2393,237 @@ def save_calcareers_results(jobs: list):
     )
 
 
+# ---- Broad ATS registry (manual pilot until explicitly scheduled) ----------
+
+def scrape_registry_recent() -> dict:
+    """Scrape one bounded registry shard and persist its cursor/state."""
+    import ats_registry
+
+    registry = ats_registry.load_registry()
+    client = ats_registry.BoundedClient(
+        max_requests=ats_registry.DEFAULT_REQUEST_CAP,
+        max_seconds=ats_registry.DEFAULT_TIME_CAP_SECONDS,
+    )
+
+    def bounded_workday_fetch(entry: dict):
+        before = client.requests
+        jobs = probe_curated_workday(entry, request_limiter=client.claim)
+        # If the global cap stopped a multi-query Workday board, discard the
+        # partial response. Treating it as a successful first baseline could
+        # make the unseen remainder look newly posted on the following run.
+        return jobs if client.requests > before and not client.exhausted else None
+
+    result = ats_registry.scrape_registry(
+        registry,
+        client,
+        role_filter=is_mle_role,
+        location_filter=lambda location, feed: (
+            is_target_location(location) if feed == "biotech"
+            else is_watch_location(location)
+        ),
+        workday_fetcher=bounded_workday_fetch,
+    )
+    ats_registry.save_registry(registry)
+    print(
+        "🗃  ATS registry: "
+        f"{result.get('boards_attempted', 0)} board(s), "
+        f"{result.get('boards_failed', 0)} failed, "
+        f"{result.get('requests', 0)} HTTP request(s), "
+        f"{len(result.get('jobs', []))} eligible role(s), "
+        f"{result.get('baseline_suppressed', 0)} baseline notification(s) suppressed"
+    )
+    return result
+
+
+def save_registry_results(result: dict) -> None:
+    save_jobs_output(
+        result.get("jobs", []),
+        basename="registry_jobs",
+        title="🗃 Direct ATS Registry — Engineering / ML / DS Roles",
+        subtitle="Verified Greenhouse, Lever, Ashby, Gem, and Workday boards",
+        accent="#f59e0b",
+        empty_message="No eligible registry roles in this shard.",
+        window_label="current registry shard",
+        default_feed="general",
+    )
+
+
+# ---- Existing-output policy migration ------------------------------------
+
+REFILTER_OUTPUTS = {
+    "jobs": "biotech",
+    "linkedin_jobs": "general",
+    "indeed_jobs": "general",
+    "boards_jobs": "general",
+    "usajobs_jobs": "general",
+    "governmentjobs_jobs": "general",
+    "calopps_jobs": "general",
+    "calcareers_jobs": "general",
+    "registry_jobs": "general",
+}
+
+REFILTER_RENDER_CONFIG = {
+    "jobs": ("🧬 Biotech LinkedIn — MLE / DS Roles", "US biotech allowlist", "#2ea04f", "No new biotech roles since the last run."),
+    "linkedin_jobs": ("🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)", "SF Bay Area + core NYC / close NJ", "#3b82f6", "No new roles since the last run."),
+    "indeed_jobs": ("🟦 Indeed — Engineering / ML / DS Roles (SF Bay Area + NYC)", "SF Bay Area + core NYC / close NJ", "#2557a7", "No new roles since the last run."),
+    "boards_jobs": ("🟪 ZipRecruiter + Google — Engineering / ML / DS Roles", "SF Bay Area + core NYC / close NJ", "#7c5cff", "No new roles since the last run."),
+    "usajobs_jobs": ("🇺🇸 USAJOBS — Federal Roles", "usajobs.gov · federal agencies", "#1d4ed8", "No new federal roles since the last run."),
+    "governmentjobs_jobs": ("🏛 NEOGOV — State & Local Government Roles", "governmentjobs.com", "#0e7490", "No new state/local-gov roles since the last run."),
+    "calopps_jobs": ("🏛 CalOpps — California Local-Agency Roles", "calopps.org · CA cities, counties, special districts", "#15803d", "No new CalOpps roles since the last run."),
+    "calcareers_jobs": ("🏛 CalCareers — California State Roles", "calcareers.ca.gov · California state civil service", "#b45309", "No new CalCareers roles since the last run."),
+    "registry_jobs": ("🗃 Direct ATS Registry — Engineering / ML / DS Roles", "Verified public ATS boards", "#f59e0b", "No eligible registry roles in this shard."),
+}
+
+
+def _rewrite_refilter_companions(basename: str, payload: dict) -> None:
+    """Keep existing Markdown/HTML companions aligned with rewritten JSON."""
+    display_jobs = payload.get("new_jobs")
+    if not isinstance(display_jobs, list):
+        display_jobs = payload.get("jobs", [])
+    timestamp = payload.get("scraped_at") or payload.get("updated_at") or "unknown"
+    title, subtitle, accent, empty_message = REFILTER_RENDER_CONFIG.get(
+        basename,
+        (basename.replace('_', ' ').title(), "Current filtering policy", "#2563eb", "No roles remain."),
+    )
+    md_path = os.path.join(SCRIPT_DIR, f"{basename}.md")
+    if os.path.exists(md_path):
+        lines = [
+            f"# {title}", f"*Last updated: {timestamp}*", "",
+            f"**{len(display_jobs)} new role(s)** · {len(payload.get('jobs', []))} total after policy cleanup", "",
+        ]
+        if not display_jobs:
+            lines.append(empty_message)
+        for job in display_jobs:
+            lines.extend([
+                f"### [{job.get('title', 'Untitled')}]({job.get('url', '')}) — {job.get('company', 'Unknown')}",
+                f"- 📍 **Location:** {job.get('location') or 'Not specified'}", "",
+            ])
+        with open(md_path, "w") as f:
+            f.write("\n".join(lines))
+    html_path = os.path.join(SCRIPT_DIR, f"{basename}.html")
+    if os.path.exists(html_path):
+        with open(html_path, "w") as f:
+            f.write(_render_jobs_html(
+                title=title, subtitle=subtitle,
+                timestamp=str(timestamp), jobs=display_jobs,
+                empty_message=empty_message, accent=accent,
+            ))
+
+
+def _refilter_master_jobs(jobs: list[dict], biotech_identities: set[str] | None = None):
+    accepted: list[dict] = []
+    totals = {key: 0 for key in FILTER_STAT_KEYS}
+    for job in jobs:
+        feeds = [f for f in job.get("feeds", []) if f in {"general", "biotech"}]
+        if not feeds:
+            ident = _job_identity(str(job.get("url", "") or ""))
+            is_biotech = (
+                ident in (biotech_identities or set())
+                or _is_biotech_company(job.get("company", ""))
+            )
+            feeds = ["biotech" if is_biotech else "general"]
+        surviving: set[str] = set()
+        reasons: list[str] = []
+        for feed in feeds:
+            candidate = dict(job)
+            candidate["feed"] = feed
+            candidate["feeds"] = []
+            kept, rejected, _stats = _filter_job_observations([candidate], default_feed=feed)
+            if kept:
+                surviving.add(feed)
+            elif rejected:
+                reasons.append(rejected[0]["reason"])
+        if surviving:
+            row = dict(job)
+            row["feeds"] = sorted(surviving)
+            accepted.append(row)
+        elif reasons:
+            totals[reasons[0]] += 1
+    return accepted, totals
+
+
+def refilter_existing_outputs(*, write: bool = False) -> dict:
+    """Preview or rewrite generated JSON files using the current policy.
+
+    This command never scrapes, notifies, or touches ``first_seen``. JSON is
+    the source of truth; companion Markdown/HTML are regenerated only for
+    files that already have companions.
+    """
+    summary: dict[str, dict] = {}
+    biotech_identities: set[str] = set()
+    for basename, default_feed in REFILTER_OUTPUTS.items():
+        path = os.path.join(SCRIPT_DIR, f"{basename}.json")
+        try:
+            with open(path) as f:
+                payload = json.load(f)
+        except FileNotFoundError:
+            continue
+        except json.JSONDecodeError as e:
+            print(f"  ⚠️  {basename}.json: invalid JSON ({e}); skipped")
+            continue
+        original_jobs = payload.get("jobs", [])
+        jobs, _rejected, stats = _filter_job_observations(
+            original_jobs, default_feed=default_feed)
+        if default_feed == "biotech":
+            biotech_identities.update(
+                _job_identity(str(j.get("url", "") or "")) for j in original_jobs
+            )
+            biotech_identities.discard("")
+        original_new = payload.get("new_jobs")
+        if isinstance(original_new, list):
+            new_jobs, _r, _s = _filter_job_observations(
+                original_new, default_feed=default_feed)
+            payload["new_jobs"] = new_jobs
+            payload["new_count"] = len(new_jobs)
+        payload["jobs"] = jobs
+        payload["total"] = len(jobs)
+        payload["filter_stats"] = stats
+        removed = len(original_jobs) - len(jobs)
+        summary[basename] = {"before": len(original_jobs), "after": len(jobs), **stats}
+        print(f"  {'✍️ ' if write else '🔎'} {basename}.json: "
+              f"{len(original_jobs)} → {len(jobs)} ({removed} removed; {stats})")
+        if write:
+            with open(path, "w") as f:
+                json.dump(payload, f, indent=2)
+            _rewrite_refilter_companions(basename, payload)
+
+    master_path = os.path.join(SCRIPT_DIR, "all_jobs.json")
+    try:
+        with open(master_path) as f:
+            master_payload = json.load(f)
+    except FileNotFoundError:
+        master_payload = None
+    except json.JSONDecodeError as e:
+        print(f"  ⚠️  all_jobs.json: invalid JSON ({e}); skipped")
+        master_payload = None
+    if master_payload is not None:
+        original = master_payload.get("jobs", [])
+        jobs, stats = _refilter_master_jobs(original, biotech_identities)
+        master_payload["jobs"] = jobs
+        master_payload["filter_stats"] = stats
+        summary["all_jobs"] = {"before": len(original), "after": len(jobs), **stats}
+        print(f"  {'✍️ ' if write else '🔎'} all_jobs.json: {len(original)} → {len(jobs)} "
+              f"({len(original) - len(jobs)} removed; {stats})")
+        if write:
+            with open(master_path, "w") as f:
+                json.dump(master_payload, f, separators=(",", ":"))
+    print("✅ Existing-output refilter " + ("written" if write else "preview complete (no files changed)"))
+    return summary
+
+
 # ---------------------------------------------------------------------------
 # Main
 # ---------------------------------------------------------------------------
 
 if __name__ == "__main__":
+    if "--refilter-existing" in sys.argv:
+        refilter_existing_outputs(write="--write" in sys.argv)
+        sys.exit(0)
+
+    if "--registry-only" in sys.argv:
+        save_registry_results(scrape_registry_recent())
+        sys.exit(0)
+
     if "--indeed-only" in sys.argv:
         save_indeed_results(scrape_indeed_recent())
         sys.exit(0)

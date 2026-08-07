@@ -21,6 +21,7 @@
     --linkedin: #60a5fa;
     --biotech: #34d399;
     --indeed: #a78bfa;
+    --direct-ats: #f59e0b;
     --accent: #ef4444;
     --accent-soft: rgba(239,68,68,0.20);
     --pill-bg: #1f1b1b;
@@ -132,6 +133,7 @@
   .src.linkedin { background: rgba(96,165,250,0.14); color: var(--linkedin); }
   .src.biotech { background: rgba(52,211,153,0.14); color: var(--biotech); }
   .src.indeed { background: rgba(167,139,250,0.14); color: var(--indeed); }
+  .src.direct-ats { background: rgba(245,158,11,0.16); color: var(--direct-ats); }
   .src.usajobs { background: rgba(29,78,216,0.18); color: #93c5fd; }
   .src.neogov { background: rgba(14,116,144,0.20); color: #67e8f9; }
   .src.calopps { background: rgba(21,128,61,0.20); color: #86efac; }
@@ -400,7 +402,12 @@
     { name: 'all_jobs.json',      src: 'Master'   },
   ];
 
-  // Fit scores from the nightly triage agent, keyed by job URL (optional file).
+  // Scoring is intentionally dormant. Keeping one switch preserves the existing
+  // reversible implementation without fetching score data or exposing rank UI.
+  const ENABLE_SCORING = false;
+  document.getElementById('view-rank').hidden = !ENABLE_SCORING;
+
+  // Fit scores from the manually-invoked triage agent, keyed by job URL.
   let SCORES = {};
 
   // ---------- Persistence ----------
@@ -410,7 +417,9 @@
   // write was a wholesale overwrite, a stale second window could silently erase
   // a batch of dismissals just by auto-refreshing. Never re-couple these.
   const DECIDE_KEY = 'jobTriage:v2';        // written FIRST, merged, never dropped
-  const CACHE_KEY  = 'jobTriage:cache:v1';  // written SECOND, plain overwrite
+  // v2 intentionally drops the old disposable cache after the filtering-policy
+  // change. DECIDE_KEY is unchanged, so decisions and sync state survive.
+  const CACHE_KEY  = 'jobTriage:cache:v2';  // written SECOND, plain overwrite
   const LEGACY_KEY = 'jobTriage:v1';
   const CACHE_CAP  = 3000;                  // freshest untriaged jobs kept for failed fetches
                                             // (~750KB — big enough to stay useful, small
@@ -537,14 +546,22 @@
     if (/intern\b/.test(t)) return 'Intern';
     return 'Mid';
   }
+  function jobFeeds(j) {
+    const feeds = Array.isArray(j.feeds) ? j.feeds : (j.feed ? [j.feed] : []);
+    return feeds.map(f => String(f).trim().toLowerCase()).filter(Boolean);
+  }
   function classifySource(j) {
-    if (j.ats === 'USAJOBS' || (j.url || '').includes('usajobs.gov')) return 'USAJOBS';
-    if (j.ats === 'NEOGOV' || (j.url || '').includes('governmentjobs.com')) return 'NEOGOV';
-    if (j.ats === 'CalOpps' || (j.url || '').includes('calopps.org')) return 'CalOpps';
-    if (j.ats === 'CalCareers' || (j.url || '').includes('calcareers.ca.gov')) return 'CalCareers';
-    if (j.ats === 'LinkedIn') return 'LinkedIn';
-    if (j.ats === 'Greenhouse' || j.ats === 'Lever' || j.ats === 'Ashby') return 'Biotech';
-    if (j.ats === 'Indeed' || (j.url || '').includes('indeed.com')) return 'Indeed';
+    // Feed provenance wins over ATS vendor: an ATS host is infrastructure, not
+    // proof that the company belongs to the biotech lane.
+    if (jobFeeds(j).includes('biotech')) return 'Biotech';
+    const ats = String(j.ats || '').toLowerCase();
+    if (ats === 'usajobs' || (j.url || '').includes('usajobs.gov')) return 'USAJOBS';
+    if (ats === 'neogov' || (j.url || '').includes('governmentjobs.com')) return 'NEOGOV';
+    if (ats === 'calopps' || (j.url || '').includes('calopps.org')) return 'CalOpps';
+    if (ats === 'calcareers' || (j.url || '').includes('calcareers.ca.gov')) return 'CalCareers';
+    if (ats === 'linkedin') return 'LinkedIn';
+    if (['greenhouse', 'lever', 'ashby', 'gem', 'workday'].includes(ats)) return 'Direct ATS';
+    if (ats === 'indeed' || (j.url || '').includes('indeed.com')) return 'Indeed';
     return 'Other';
   }
   // ---------- Salary parsing & harmonization ----------
@@ -704,7 +721,7 @@
     // Agent verdict, when this URL has been scored (see scores.json).
     // A stored "error" verdict is a failed model call, not a judgment —
     // treat it as unscored so it doesn't masquerade as a real 0/100.
-    const s = SCORES[j.url] || {};
+    const s = ENABLE_SCORING ? (SCORES[j.url] || {}) : {};
     const errored = s.verdict === 'error';
     j._score   = (!errored && typeof s.score === 'number') ? s.score : null;
     j._verdict = errored ? null : (s.verdict || null);
@@ -724,11 +741,16 @@
 
   async function loadJobs() {
     const bust = `?v=${Date.now()}`;
-    // Fit scores are optional — a 404 (no triage run yet) must never break loading.
-    try {
-      const r = await fetch('scores.json' + bust);
-      SCORES = r.ok ? ((await r.json()).scores || {}) : {};
-    } catch { SCORES = {}; }
+    // A disabled feature makes no model-data request at all. The old loading
+    // path stays intact behind the switch for a deliberate future reactivation.
+    if (ENABLE_SCORING) {
+      try {
+        const r = await fetch('scores.json' + bust);
+        SCORES = r.ok ? ((await r.json()).scores || {}) : {};
+      } catch { SCORES = {}; }
+    } else {
+      SCORES = {};
+    }
     const settled = await Promise.allSettled(
       SOURCES.map(s => fetch(s.name + bust).then(r => {
         if (!r.ok) throw new Error(`${s.name}: ${r.status}`);
@@ -748,11 +770,19 @@
       const isMaster = SOURCES[i].src === 'Master';
       (d.jobs || []).forEach(j => {
         if (!j || !j.url || !/^https?:\/\//i.test(j.url)) return;  // defensive URL guard
+        // Legacy jobs.json records predate feed provenance. This source is the
+        // dedicated biotech sweep, so its fallback is deterministic and safe.
+        if (SOURCES[i].src === 'Biotech' && !jobFeeds(j).length) j.feeds = ['biotech'];
         const existing = byUrl.get(j.url);
         if (!existing) byUrl.set(j.url, j);
         // Per-source entries win the dedupe but lack first_seen — backfill it
         // from the master so sub-day date filters have a real timestamp.
-        else if (isMaster && j.first_seen && !existing.first_seen) existing.first_seen = j.first_seen;
+        else if (isMaster) {
+          if (j.first_seen && !existing.first_seen) existing.first_seen = j.first_seen;
+          const feeds = [...new Set([...jobFeeds(existing), ...jobFeeds(j)])];
+          if (feeds.length) existing.feeds = feeds;
+          if (!existing.ats && j.ats) existing.ats = j.ats;
+        }
       });
       (d.new_jobs || []).forEach(j => new_jobs.push(j));
       new_count += (d.new_count || 0);
@@ -769,7 +799,7 @@
   // Fields refreshed from each fresh scrape onto already-cached jobs (e.g. a
   // salary backfilled later). Triage lives separately in state.triage, so
   // updating a job's content is safe and never loses a decision.
-  const REFRESHABLE = ['salary', 'location', 'company', 'title', 'date_posted', 'description'];
+  const REFRESHABLE = ['salary', 'location', 'company', 'title', 'date_posted', 'description', 'feeds', 'ats'];
   function mergeJobs(incoming) {
     const seen = new Map(state.jobs.map(j => [j.url, j]));
     let added = 0;
@@ -1040,6 +1070,7 @@
   }
 
   function scoreChip(j) {
+    if (!ENABLE_SCORING) return '';
     if (j._score == null) return viewMode === 'rank'
       ? '<span class="scorechip lo" title="not scored yet">–</span>' : '';
     const cls = j._score >= 75 ? 'hi' : j._score >= 50 ? 'mid' : 'lo';
@@ -1064,14 +1095,14 @@
     if (mapEl) { listEl.hidden = false; mapEl.hidden = true; if (mapNote) mapNote.hidden = true; }
     let jobs = visibleJobs();
     const info = $('rank-info');
-    if (viewMode === 'rank') {
+    if (ENABLE_SCORING && viewMode === 'rank') {
       // Fit-score order; unscored sink to the bottom (never hidden). The Sort
       // pills break score ties, so equally-scored roles still read newest-first.
       jobs = jobs.slice().sort((a, b) =>
         ((b._score ?? -1) - (a._score ?? -1)) || compareByDate(a, b, filters.sort));
       const scored = jobs.filter(j => j._score != null).length;
       info.hidden = false;
-      info.textContent = `★ Rank: ${scored} of ${jobs.length} visible roles scored by the nightly agent — unscored roles sink to the bottom.`;
+      info.textContent = `★ Rank: ${scored} of ${jobs.length} visible roles scored by the manual agent — unscored roles sink to the bottom.`;
     } else {
       jobs = jobs.slice().sort((a, b) => compareByDate(a, b, filters.sort));
       info.hidden = true;
@@ -1084,7 +1115,10 @@
     el.innerHTML = jobs.map(j => {
       const st = tri(j.url) || 'active';
       const srcs = j._srcs || [j._src];
-      const srcBadges = srcs.map(s => `<span class="src ${s.toLowerCase()}">${s}</span>`).join('');
+      const srcBadges = srcs.map(s => {
+        const cls = s.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
+        return `<span class="src ${cls}">${s}</span>`;
+      }).join('');
       const sal = j._salDisp || j.salary;
       return `<div class="job" data-url="${escape(j.url)}" data-state="${st}">
         <div class="job-main">
@@ -1298,7 +1332,7 @@
   function renderAll() {
     VIEW = dedupe(state.jobs);   // collapse cross-posted (LinkedIn↔Indeed↔…) dupes
     renderFilterGroup('filter-source', 'source',
-      ['LinkedIn', 'Biotech', 'Indeed', 'USAJOBS', 'NEOGOV', 'CalOpps', 'CalCareers']);
+      ['LinkedIn', 'Biotech', 'Direct ATS', 'Indeed', 'USAJOBS', 'NEOGOV', 'CalOpps', 'CalCareers']);
     renderFilterGroup('filter-role', 'role',
       ['AI Engineer', 'MLE', 'MLOps/Platform', 'Scientist', 'Comp Chem/Sci',
        'Data Science', 'SWE', 'Bioinformatics', 'Other']);
@@ -1439,7 +1473,7 @@
   // since 2026-06 — keep this regex in sync with EXCLUDED_SENIORITY_RE in
   // scrape_jobs.py) or older than 30 days. Anything saved/applied/dismissed
   // is kept — that's the user's triage history.
-  const EXCLUDED_TITLE_RE = /\b(staff|principal|distinguished|founding|director|vice president|s?vp|chief|head of)\b/i;
+  const EXCLUDED_TITLE_RE = /\b(senior|sr|staff|principal|distinguished|founding|lead|manager|director|vice president|vp|svp|chief|head\s+of)\b/i;
   function pruneState() {
     const cutoff = Date.now() - 30 * 86400000;
     const before = state.jobs.length;
@@ -1506,6 +1540,7 @@
 
   // Browse / Rank view toggle
   function setView(mode) {
+    if (mode === 'rank' && !ENABLE_SCORING) mode = 'browse';
     viewMode = mode;
     ['browse', 'rank', 'map'].forEach(m => {
       const b = $('view-' + m);

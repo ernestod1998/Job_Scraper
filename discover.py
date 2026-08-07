@@ -5,6 +5,15 @@ with no manual homepage entry.
 
 Modes:
 
+  python discover.py --registry-seeds [--limit N] [--write] [--common-crawl]
+      Seed the separate ATS registry from the YC hiring feed, Simplify's direct
+      ATS links, bounded Wayback CDX queries, and (only when explicitly asked)
+      bounded Common Crawl index queries. Without --write, preview only.
+
+  python discover.py --verify-registry [--limit N] [--write]
+      Verify a cursor-bounded set of candidate boards through their documented
+      public ATS API. Three consecutive failures cause a 30-day cooldown.
+
   python discover.py --portfolios [--limit N] [--write]
       Pull the SOSV/IndieBio portfolio (bio trend/category companies) from
       SOSV's public WordPress REST API and Y Combinator's healthcare list
@@ -37,6 +46,7 @@ from datetime import date
 from html.parser import HTMLParser
 
 import scrape_jobs  # reuse HEADERS, fetch(), location gates, the tracked list
+import ats_registry
 
 fetch = scrape_jobs.fetch
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
@@ -336,7 +346,63 @@ def _int_flag(argv: list, flag: str, default: int) -> int:
     return default
 
 
+def _registry_skip_keys() -> set:
+    """Boards already handled by the biotech scraper must not be probed twice."""
+    return ats_registry.keys_for_entries(
+        list(scrape_jobs.CURATED_BIOTECHS) + _load_discovered()
+    )
+
+
+def _registry_main(argv: list) -> int | None:
+    """Handle registry modes; return None when this is a legacy invocation."""
+    seed = "--registry-seeds" in argv
+    verify = "--verify-registry" in argv
+    if not seed and not verify:
+        return None
+    if seed and verify:
+        print("choose only one of --registry-seeds or --verify-registry", file=sys.stderr)
+        return 2
+
+    write = "--write" in argv
+    limit = _int_flag(argv, "--limit", 200 if seed else 100)
+    if limit < 0:
+        print("--limit must be zero or greater", file=sys.stderr)
+        return 2
+    loaded = ats_registry.load_registry()
+    registry = loaded if write else ats_registry.copy_for_preview(loaded)
+    # Discovery is intentionally much smaller than a normal registry scrape:
+    # at most six default HTTP requests plus the opt-in Common Crawl fallback.
+    client = ats_registry.BoundedClient(max_requests=12, max_seconds=120)
+    if seed:
+        result = ats_registry.seed_registry(
+            registry,
+            client,
+            limit=limit,
+            skip_keys=_registry_skip_keys(),
+            include_common_crawl="--common-crawl" in argv,
+        )
+        mode = "seed"
+    else:
+        result = ats_registry.verify_registry(registry, client, limit=limit)
+        mode = "verify"
+
+    if write:
+        ats_registry.save_registry(registry)
+    result.update({
+        "mode": mode,
+        "write": write,
+        "boards_total": len(registry.get("boards", {})),
+    })
+    print(json.dumps(result, indent=2, sort_keys=True))
+    if not write:
+        print("# preview only; add --write to update ats_registry.json", file=sys.stderr)
+    return 0
+
+
 def main(argv: list) -> int:
+    registry_status = _registry_main(argv)
+    if registry_status is not None:
+        return registry_status
     write = "--write" in argv
     if "--portfolios" in argv:
         # Reliable ML-native shops first, so --limit never cuts them off; then

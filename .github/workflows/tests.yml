@@ -12,8 +12,14 @@ on:
       - ci_commit_push.py
       - test_ci_commit_push.py
       - scrape_jobs.py
+      - ats_registry.py
+      - ats_registry.json
+      - discover.py
+      - test_scraper_core.py
+      - test_ats_registry.py
       - test_dates.py
       - test_dates.mjs
+      - test_dashboard.mjs
       - triage.html
       - sync/**
       - .github/workflows/*.yml
@@ -22,8 +28,14 @@ on:
       - ci_commit_push.py
       - test_ci_commit_push.py
       - scrape_jobs.py
+      - ats_registry.py
+      - ats_registry.json
+      - discover.py
+      - test_scraper_core.py
+      - test_ats_registry.py
       - test_dates.py
       - test_dates.mjs
+      - test_dashboard.mjs
       - triage.html
       - sync/**
       - .github/workflows/*.yml
@@ -63,6 +75,12 @@ jobs:
       - name: Posted-date normalization tests
         run: python test_dates.py
 
+      - name: Scraper policy and retrieval tests
+        run: python test_scraper_core.py
+
+      - name: ATS registry tests
+        run: python test_ats_registry.py
+
       - name: Set up Node
         uses: actions/setup-node@v4
         with:
@@ -81,3 +99,6 @@ jobs:
       # the same result on a UTC runner as on a Pacific laptop.
       - name: Triage date-clamp tests
         run: node test_dates.mjs
+
+      - name: Dashboard policy regressions
+        run: node test_dashboard.mjs

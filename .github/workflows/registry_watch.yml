@@ -1,0 +1,67 @@
+name: ATS Registry Pilot
+
+# Intentionally manual-only until the bounded pilot satisfies the documented
+# parser, geography, and runtime thresholds. Scheduling is a separate rollout.
+on:
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: "Seed, verify, or scrape one bounded registry shard"
+        required: true
+        default: verify
+        type: choice
+        options:
+          - verify
+          - seed
+          - scrape
+      limit:
+        description: "Maximum candidates to add/verify"
+        required: true
+        default: "100"
+
+concurrency:
+  group: job-scraper-commit-push
+  cancel-in-progress: false
+
+jobs:
+  registry-pilot:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Seed registry candidates
+        if: inputs.mode == 'seed'
+        run: python discover.py --registry-seeds --write --limit "${{ inputs.limit }}"
+      - name: Verify registry candidates
+        if: inputs.mode == 'verify'
+        run: python discover.py --verify-registry --write --limit "${{ inputs.limit }}"
+      - name: Scrape one registry shard
+        if: inputs.mode == 'scrape'
+        env:
+          PUSHOVER_TOKEN: ${{ secrets.PUSHOVER_TOKEN }}
+          PUSHOVER_USER: ${{ secrets.PUSHOVER_USER }}
+          NOTIFY_TERMS: ${{ vars.NOTIFY_TERMS }}
+        run: python scrape_jobs.py --registry-only
+      - name: Run registry unit tests
+        run: python test_ats_registry.py
+      - name: Commit registry state
+        if: inputs.mode != 'scrape'
+        run: |
+          git config user.name "ernestod1998"
+          git config user.email "61074783+ernestod1998@users.noreply.github.com"
+          python ci_commit_push.py \
+            --message "chore: update ATS registry [$(date -u '+%Y-%m-%d')]" \
+            ats_registry.json
+      - name: Commit registry jobs and state
+        if: inputs.mode == 'scrape'
+        run: |
+          git config user.name "ernestod1998"
+          git config user.email "61074783+ernestod1998@users.noreply.github.com"
+          python ci_commit_push.py \
+            --message "chore: update ATS registry jobs [$(date -u '+%Y-%m-%d %H:%MZ')]" \
+            ats_registry.json registry_jobs.json registry_jobs.md registry_jobs.html \
+            all_jobs.json notified.json

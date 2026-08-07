@@ -1,11 +1,11 @@
 # 🧬 Bay Area + NYC MLE / DS Job Scraper
 
-Three GitHub Actions workflows that scrape **software engineering, ML/AI, data science, data engineering, platform/infra/security, and biotech informatics roles** in the SF Bay Area and New York City metro, commit the results to the repo, and surface them in the [`triage.html`](#interactive-triage-dashboard--triagehtml) dashboard.
+Automated watchers that scrape **software engineering, ML/AI, data science, data engineering, platform/infra/security, and biotech informatics roles**, commit the results to the repo, and surface them in the [`triage.html`](#interactive-triage-dashboard--triagehtml) dashboard. General sources are limited to the SF Bay Area, core NYC, nearby North Jersey, and US-remote roles; the dedicated biotech lane intentionally keeps the broader configured US biotech hubs.
 
 ## What It Does
 
-### 1. Biotech LinkedIn digest — daily at 8pm PT, last 24h
-Hits LinkedIn's public guest endpoint for SF Bay Area + NYC MLE/DS roles posted in the last 24 hours, then post-filters results to a **biotech company allowlist** derived from `CURATED_BIOTECHS` in `scrape_jobs.py` (10x Genomics, Twist, Maze, Freenome, Cytokinetics, Natera, Inceptive, Atomwise, Profluent, Eikon, Altos Labs, Arc Institute, Caribou, Octant, Genentech, Gilead). Add to that list to expand coverage.
+### 1. Biotech digest — daily at 8pm PT
+Sweeps curated/discovered company boards through their direct ATS endpoints and supplements them with LinkedIn's public guest endpoint. LinkedIn results are post-filtered through the broader biotech company allowlist. This lane intentionally covers all configured US biotech hubs plus US-remote roles.
 
 Output goes to `jobs.json`, `jobs.md`, and `jobs.html`. Each run dedupes against the previously-committed `jobs.json` so the output surfaces only postings new since the last run.
 
@@ -27,7 +27,9 @@ Scheduled externally by cron-job.org at :47 PT, offset from the LinkedIn :17 slo
 
 A title is included if it contains any of (case-insensitive substring match):
 
-**ML / AI:** `machine learning engineer`, `ml engineer`, `mle`, `machine learning infra`, `ml platform`, `ai platform`, `ai engineer`, `ai/ml engineer`, `mlops`, `research engineer`, `llm engineer`, `generative ai`, `genai engineer`, `prompt engineer`, `deep learning`, `reinforcement learning`, `computer vision`, `nlp engineer`
+**ML / AI:** `machine learning engineer`, `ml engineer`, `mle`, `machine learning infra`, `ml platform`, `ai platform`, `mlops`, `research engineer`, `llm engineer`, `generative ai`, `genai engineer`, `prompt engineer`, `deep learning`, `reinforcement learning`, `computer vision`, `nlp engineer`
+
+The generic `ai engineer` / `ai/ml engineer` lane is deliberately paused; the research-oriented ML, LLM, and GenAI terms above remain active.
 
 **Applied / scientist:** `applied scientist`, `ai scientist`, `ml scientist`, `data scientist`, `data science`
 
@@ -41,28 +43,40 @@ A title is included if it contains any of (case-insensitive substring match):
 
 **Computational / informatics (biotech):** `computational scientist`, `computational biologist`, `bioinformatics scientist`, `bioinformatics engineer`, `cheminformatics`, `biostatistician`, `bioinformatician`, `bioinformatics analyst`, `genomics scientist`, `research software engineer`, `scientific software engineer`, `associate computational biologist`, `research associate, computational`, `research scientist, ai`
 
-**Excluded seniority:** titles containing `staff`, `principal`, `distinguished`, `founding`, `director`, `vice president`, `vp`/`svp`, `chief`, or `head of` are dropped everywhere (mid-level IC focus). Single-word keywords are word-bounded, so `mle` can't match inside another word.
+**Excluded seniority:** titles containing word-bounded `senior`/`sr`, `staff`, `principal`, `lead`, `manager`, `distinguished`, `founding`, `director`, `vice president`, `vp`/`svp`, `chief`, or `head of` are dropped everywhere (early-to-mid-level IC focus). The description's years-of-experience language is not inspected. Single-word role keywords are word-bounded, so `mle` cannot match inside another word.
 
 **Excluded companies:** `EXCLUDED_COMPANIES` in `scrape_jobs.py` is a blocklist for recruiting-platform/aggregator accounts that repost roles which mostly don't exist (e.g. "Jack & Jill"). Matched case-insensitively against the parsed company name in the LinkedIn parser, the Indeed scraper, at the top of `save_jobs_output()` (so every source — including blocked-run fallbacks and future scrapers — is filtered before any digest is written), and as a backstop before anything enters `all_jobs.json`. Add a line there to block the next one.
+
+## Location policies
+
+- **General sources:** the existing Bay Area list; New York City, Manhattan, Brooklyn, Queens, the Bronx, and Staten Island; Jersey City, Hoboken, Newark, Secaucus, Weehawken, North Bergen, and Fort Lee; and positively identified US-remote roles. Generic “NYC metro,” bare New Jersey, Long Island, Westchester, Connecticut, and other New Jersey locations are rejected.
+- **Biotech source:** the existing nationwide biotech-hub list plus US-remote roles. A Boston, Seattle, San Diego, or Tarrytown result may therefore appear when it came through the dedicated biotech lane.
 
 ## Output Files
 
 | File | Source | Description |
 |---|---|---|
 | `jobs.json` / `.md` / `.html` | Biotech LinkedIn digest | Allowlisted biotech-company roles in the last 24h, deduped against the previous run |
-| `linkedin_jobs.json` / `.md` / `.html` | LinkedIn watcher | Roles posted in the last 2h, deduped against the previous run |
+| `linkedin_jobs.json` / `.md` / `.html` | LinkedIn watcher | Roles posted in the last 1h, deduped against the previous run |
 | `indeed_jobs.json` / `.md` / `.html` | Indeed watcher | Indeed-sourced roles posted in the last 24h, deduped against the previous run |
+| `boards_jobs.json` / `.md` / `.html` | ZipRecruiter + Google | JobSpy-backed board results |
+| `usajobs_jobs.json` / `.md` / `.html` | USAJOBS | Current federal results |
+| `governmentjobs_jobs.json` / `.md` / `.html` | NEOGOV | State/local government results |
+| `calopps_jobs.json` / `.md` / `.html` | CalOpps | California local-agency results |
+| `calcareers_jobs.json` / `.md` / `.html` | CalCareers | California civil-service results |
+| `registry_jobs.json` / `.md` / `.html` | ATS registry pilot | Verified-board shard output; created by a manual registry scrape |
+| `all_jobs.json` | All sources | Canonical 14-day master with `feeds` provenance |
 | `checked_companies.json` | (legacy) | Tracking file from earlier Wikipedia-based discovery |
 
 The `.html` files are styled standalone digests; the `.md` files render nicely on GitHub. (Both are committed for history/browsing; the `triage.html` dashboard reads the `.json` files directly.)
 
-Both workflows keep a GitHub history of generated digests: result files are committed when changed, and each scheduled workflow still runs `git push`.
+The scraper workflows keep a GitHub history of generated digests by committing changed result files through the shared race-safe commit/push helper.
 
 ### Interactive triage dashboard — `triage.html`
 
 A single-file dashboard hosted on GitHub Pages that merges all the latest source JSONs into one filterable cockpit: search, role/seniority/source filters, save/applied/dismiss buttons persisted in localStorage, top-companies + role-mix charts, and Export/Import buttons for backing up your triage decisions to a file.
 
-Triage state lives in two localStorage keys, deliberately kept apart: `jobTriage:v2` holds your decisions (small, merged on every write, never dropped) and `jobTriage:cache:v1` holds a capped copy of the job list (bulky, disposable, so a quota failure there can't cost you a decision). Every write merges against what's already stored — newest timestamp per job wins — so a second browser window refreshing in the background can no longer overwrite decisions it never saw. Open `triage.html?selftest=1` to run the merge-rule assertion suite.
+Triage state lives in two localStorage keys, deliberately kept apart: `jobTriage:v2` holds your decisions (small, merged on every write, never dropped) and `jobTriage:cache:v2` holds a capped copy of the job list (bulky and disposable). The cache version was bumped for the stricter filtering policy without touching decisions. Every write merges against what's already stored — newest timestamp per job wins — so a second browser window refreshing can no longer overwrite decisions it never saw. Open `triage.html?selftest=1` to run the merge-rule assertion suite.
 
 #### Cross-device sync — on by default
 
@@ -123,10 +137,11 @@ from the **Test Pushover Notification** workflow or `python notify.py --test`.
 
 ## Setup
 
-### Triage secrets (for the nightly fit-scoring agent)
+### Triage secrets (optional manual fit scoring)
 
-The scraper workflows need no secrets. The nightly triage workflow (`triage.yml`) reads
-these from **Settings → Secrets and variables → Actions**:
+The scraper workflows need no scoring secrets. Automated LLM scoring and evals are
+paused; `triage.yml` and `evals.yml` are manual-dispatch only. If you deliberately run
+them, they read these from **Settings → Secrets and variables → Actions**:
 
 | Secret | Value |
 |---|---|
@@ -140,14 +155,20 @@ The agent reads the actual job description wherever a source allows it: direct p
 
 From the **Actions** tab:
 - *Biotech MLE Job Scraper* → Run workflow (biotech LinkedIn, last 24h)
-- *LinkedIn MLE/DS Watcher* → Run workflow (general LinkedIn, last 2h)
+- *LinkedIn MLE/DS Watcher* → Run workflow (general LinkedIn, last 1h)
 - *Indeed MLE/DS Watcher* → Run workflow (Indeed via python-jobspy, last 24h)
 
 Or locally:
 ```bash
 python scrape_jobs.py --biotech-only   # biotech LinkedIn, last 24h, allowlist-filtered
-python scrape_jobs.py --linkedin-only  # general MLE/DS LinkedIn, last 2h
+python scrape_jobs.py --linkedin-only  # general MLE/DS LinkedIn, last 1h
 python scrape_jobs.py --indeed-only    # general MLE/DS Indeed, last 24h (requires python-jobspy)
+python scrape_jobs.py --registry-only  # one bounded active-registry shard (manual pilot)
+python scrape_jobs.py --refilter-existing          # preview current-output cleanup
+python scrape_jobs.py --refilter-existing --write  # apply cleanup after reviewing preview
+python discover.py --registry-seeds --limit 100    # preview bounded registry seeds
+python discover.py --registry-seeds --write --limit 100
+python discover.py --verify-registry --write --limit 100
 python scrape_jobs.py                  # legacy curated Greenhouse/Workday/Phenom sweep
 ```
 
@@ -158,13 +179,15 @@ Biotech and LinkedIn pipelines use only the standard library. The Indeed pipelin
 ```
 ├── scrape_jobs.py                  # All scraping logic
 ├── discover.py                     # Find startups from accelerator/VC portfolios + resolve their ATS
-├── triage_agent.py                 # Nightly fit-scoring agent (Claude API / claude CLI)
+├── ats_registry.py                 # Bounded broad-board discovery/verification/scraping
+├── ats_registry.json               # Registry state, health, baselines, and cursors
+├── triage_agent.py                 # Optional manual fit-scoring agent (Claude API / claude CLI)
 ├── eval_triage.py                  # Golden-case evals for the triage agent
 ├── requirements.txt                # python-jobspy (Indeed only; LinkedIn/biotech are stdlib)
 ├── jobs.{json,md,html}             # Curated biotech sweep output (last 24h)
 ├── linkedin_jobs.{json,md,html}    # LinkedIn watcher output (last 1h)
 ├── indeed_jobs.{json,md,html}      # Indeed watcher output (last 24h, includes JD text)
-├── all_jobs.json                   # Cumulative 14-day master (feeds triage + Rank tab)
+├── all_jobs.json                   # Cumulative 14-day master with feed provenance
 ├── scores.json                     # Triage agent verdicts, keyed by job URL
 ├── workflow_runs.jsonl             # Per-run job counts (scheduler observability)
 ├── triage.html                     # Interactive dashboard (fetches the JSONs at view time)
@@ -175,22 +198,53 @@ Biotech and LinkedIn pipelines use only the standard library. The Indeed pipelin
     ├── linkedin_watch.yml          # Hourly :17 PT — general LinkedIn (last 1h, cron-job.org-driven)
     ├── indeed_watch.yml            # Hourly :47 PT — Indeed (last 24h, cron-job.org-driven)
     ├── linkedin_watch_backup.yml   # In-GH watchdog at :33 PT — re-dispatches missed runs
-    ├── triage.yml                  # Nightly 09:00 UTC — scores new roles vs candidate profile
-    └── evals.yml                   # On push to scoring files — golden-case evals (must pass)
+    ├── registry_watch.yml          # Manual-only ATS registry pilot
+    ├── triage.yml                  # Manual-only fit scoring (paused)
+    └── evals.yml                   # Manual-only scoring evals (paused)
 ```
 
 ## ATS Endpoints Used
 
 | ATS | Endpoint |
 |---|---|
-| Greenhouse | `https://boards-api.greenhouse.io/v1/boards/{slug}/jobs?content=true` |
+| [Greenhouse](https://developers.greenhouse.io/job-board.html) | `https://boards-api.greenhouse.io/v1/boards/{slug}/jobs?content=true` |
 | Workday | `https://{tenant}.wd1.myworkdayjobs.com/wday/cxs/{tenant}/{site}/jobs` (POST) |
-| Ashby | `https://api.ashbyhq.com/posting-api/job-board/{slug}` |
-| Lever | `https://api.lever.co/v0/postings/{slug}?mode=json` |
+| [Ashby](https://developers.ashbyhq.com/docs/public-job-posting-api) | `https://api.ashbyhq.com/posting-api/job-board/{slug}` |
+| [Lever](https://github.com/lever/postings-api) | `https://api.lever.co/v0/postings/{slug}?mode=json` |
+| [Gem](https://api.gem.com/job_board/v0/reference) | `https://api.gem.com/job_board/v0/{slug}/job_posts/` |
 | Phenom (Genentech) | `https://careers.gene.com/us/en/search-results` (HTML + JSON-LD) |
 | Custom (own site) | `careers_url` fetched directly; nav/footer stripped, job titles extracted heuristically (best-effort, no JS) |
 | LinkedIn | `https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search` (public guest) |
 | Indeed | `python-jobspy` library (mobile-app API; no public endpoint since 2026 deprecation) |
+
+## Broad ATS registry pilot
+
+The separate `ats_registry.json` expands source discovery without turning the curated
+biotech list into a multi-thousand-board file. It supports public Greenhouse, Lever,
+Ashby, and Gem board locators plus Workday URLs that can be converted to a verified
+CXS tenant/site endpoint. Existing curated/discovered biotech boards are skipped so
+they are not probed twice.
+
+Seed inputs are deliberately bounded:
+
+- [Wayback CDX](https://github.com/internetarchive/wayback/blob/master/wayback-cdx-server/README.md) prefix queries.
+- The [YC hiring feed](https://yc-oss.github.io/api/companies/hiring.json).
+- Direct ATS URLs from [SimplifyJobs/New-Grad-Positions](https://github.com/SimplifyJobs/New-Grad-Positions), including its [listings file](https://github.com/SimplifyJobs/New-Grad-Positions/blob/dev/.github/scripts/listings.json).
+- [Common Crawl](https://index.commoncrawl.org/) only when `--common-crawl` is explicitly supplied.
+
+Simplify data is used only to discover board locators; its job dataset is not copied
+into this repository. Dover's undocumented application endpoints are not used—the
+[official Dover API](https://help.dover.com/en/articles/10089177-dover-api) requires a
+company API key. Workable/Rippling and Workday links that cannot be normalized safely
+remain unresolved.
+
+Candidate verification is cursor-bounded. Three consecutive failures produce a
+30-day cooldown. Active boards are split into seven stable shards, successful boards
+with eligible roles are temporarily promoted, and each board establishes its own
+notification-free baseline. Network work is capped at 1,500 HTTP requests or 20
+minutes. `.github/workflows/registry_watch.yml` remains manual-only until the pilot
+meets the parser, geography, and runtime checks; registry jobs are not added to the
+default dashboard source list until that rollout decision.
 
 ## Startup discovery & own-site monitoring
 

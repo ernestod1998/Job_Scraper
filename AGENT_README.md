@@ -23,8 +23,8 @@ identical locally and in CI — only the "call the model" line differs.
 ```
 scrapers (all day) ──commit──► all_jobs.json  (cumulative master, first_seen, ~14d)
                                + 3 rolling source JSONs
-triage.yml (nightly 09:00 UTC) ─reads master─► scores every UNSCORED role ─commits─► scores.json
-triage.html (GitHub Pages) ────fetches all_jobs.json + scores.json ──► ★ Rank tab
+triage.yml (manual dispatch) ──reads master─► scores every UNSCORED role ─commits─► scores.json
+triage.html (GitHub Pages) ────shows the normal browse/map views; scoring UI is paused
 ```
 
 `all_jobs.json` exists because the per-source files are rolling windows —
@@ -57,10 +57,12 @@ it works reliably on Greenhouse-style pages; Workday is a JS shell and usually c
 back empty, which is handled gracefully. LinkedIn/Indeed block scraping and are skipped
 outright. Every verdict is tagged `jd: read` or `jd: metadata-only`.
 
-## Running in CI (the nightly ranking)
+## Running in CI (manual ranking only)
 
-`.github/workflows/triage.yml` runs daily at 09:00 UTC (≈1–2am PT, after the day's last
-scrapes) and on manual dispatch (**Actions → Nightly Job Triage → Run workflow**).
+Automated ranking is paused. `.github/workflows/triage.yml` runs only when manually
+dispatched (**Actions → Manual Job Triage → Run workflow**). The agent, historical
+`scores.json`, and dashboard scoring code are preserved, but the dashboard does not
+fetch or display scores while `ENABLE_SCORING` is false.
 
 Required repo secrets (Settings → Secrets and variables → Actions):
 
@@ -82,7 +84,7 @@ re-billed. Levers: `--limit`, `--no-jd`, `--model`.
 Golden-case evaluations: synthetic postings with known-correct outcomes, run through
 the **exact production pipeline** (same prompt builders, same `parse_verdict`, same
 backends). They test profile + prompt + model as one system — a profile edit, prompt
-tweak, or model swap that shifts scoring fails a case *before* the nightly run
+tweak, or model swap that shifts scoring fails a case *before* a manual run
 publishes 300 bad verdicts.
 
 ```bash
@@ -97,9 +99,8 @@ ML scores high, MLOps-platform counts as ml-ai, Staff-level bar scores low, anti
 family scores low, prompt injection in JD text is ignored, metadata-only off-target
 roles still judged. Evals never touch `scores.json`.
 
-CI: `.github/workflows/evals.yml` runs on any push touching `triage_agent.py` /
-`eval_triage.py` and on manual dispatch. **Secrets edits don't trigger workflows** —
-after changing `CANDIDATE_PROFILE`/`CANDIDATE_RESUME`, dispatch it manually
+CI: `.github/workflows/evals.yml` is also manual-only so ordinary pushes never make
+model calls. After changing the prompt, profile, resume, or model, dispatch it manually
 (Actions → Triage Agent Evals → Run workflow). Cost: ~9 Haiku calls, pennies.
 
 ## Privacy (the repo is public)
