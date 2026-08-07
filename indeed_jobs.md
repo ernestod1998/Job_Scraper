@@ -1,23 +1,14 @@
 # 🟦 Indeed — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-08-07 19:35 UTC*
+*Last updated: 2026-08-07 20:20 UTC*
 
-**4 new role(s)** since last run · 89 total in last 24h
+**2 new role(s)** since last run · 87 total in last 24h
 
-### [Data Scientist, Firefly](https://www.indeed.com/viewjob?jk=71d04d8255a296c7) — Adobe
+### [(Mandarin Required) Java Backend Developer](https://www.indeed.com/viewjob?jk=668bc7e596f457fc) — Chuwa America Corporation
+- 📍 **Location:** Santa Clara, CA, US
+- 💰 **Salary:** $32–$37/hr
+- 🕒 **Posted:** 2026-08-07
+
+### [Software Engineering Technical Leader -- Secure Workload Agent](https://www.indeed.com/viewjob?jk=74b4912f26180b55) — Cisco
 - 📍 **Location:** San Jose, CA, US
-- 💰 **Salary:** $133k–$236k/yr
-- 🕒 **Posted:** 2026-08-07
-
-### [Cloud Platform Engineer](https://www.indeed.com/viewjob?jk=798a5f2afe52ecba) — External SambaNova Systems
-- 📍 **Location:** Palo Alto, CA, US
-- 🕒 **Posted:** 2026-08-07
-
-### [Union Mobile Engineer](https://www.indeed.com/viewjob?jk=a7a8d8a3aa4a7bb1) — JLL
-- 📍 **Location:** Sunnyvale, CA, US
-- 💰 **Salary:** $152k/yr
-- 🕒 **Posted:** 2026-08-07
-
-### [Software Engineer II](https://www.indeed.com/viewjob?jk=85e0a83e531c025e) — Modus Closing
-- 📍 **Location:** New York, NY, US
-- 💰 **Salary:** $127k–$141k/yr
+- 💰 **Salary:** $192k–$356k/yr
 - 🕒 **Posted:** 2026-08-07
