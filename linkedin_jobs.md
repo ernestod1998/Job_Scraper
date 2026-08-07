@@ -1,79 +1,53 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-08-07 02:18 UTC*
+*Last updated: 2026-08-07 03:18 UTC*
 
-**18 new role(s)** since last run · 18 total in last 1h
+**12 new role(s)** since last run · 24 total in last 1h
 
-### [Machine Learning Engineer, Tapestry
-Mountain View, CA (HQ)](https://www.linkedin.com/jobs/view/4450022327/) — Tapestry
-- 📍 **Location:** Mountain View, CA
+### [Perception Engineer](https://www.linkedin.com/jobs/view/4450025691/) — Aurelius Systems
+- 📍 **Location:** San Francisco Bay Area
 - 🕒 **Posted:** 2026-08-06
 
-### [Data Scientist](https://www.linkedin.com/jobs/view/4450020329/) — L.E.K. Consulting
+### [Applied Scientist, Neuron ARG, Annapurna ML](https://www.linkedin.com/jobs/view/4450676286/) — Amazon
+- 📍 **Location:** Cupertino, CA
+- 🕒 **Posted:** 2026-08-06
+
+### [Applied Scientist II, Perception](https://www.linkedin.com/jobs/view/4450662627/) — Amazon
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-08-06
+
+### [Software engineer, full-stack](https://www.linkedin.com/jobs/view/4448712006/) — Watershed
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-08-06
 
-### [Software Engineer, Early Career (AI)](https://www.linkedin.com/jobs/view/4450681672/) — Jobverse.io
+### [Backend Software Engineer (C#/.NET)](https://www.linkedin.com/jobs/view/4450054038/) — Methodic
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-08-06
 
-### [Software Engineer - Core team - San Jose, CA](https://www.linkedin.com/jobs/view/4450670859/) — ZEDEDA
+### [Software Engineer II, AWS Continuum for code vulnerabilities](https://www.linkedin.com/jobs/view/4450676274/) — Amazon Web Services (AWS)
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-08-06
+
+### [Backend Software Engineer Graduate (TikTok - Data Lifecycle Management) - 2027 Start](https://www.linkedin.com/jobs/view/4448704692/) — TikTok
 - 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-08-06
 
-### [Biostatistician (Translational and Exploratory Biostatistics)](https://www.linkedin.com/jobs/view/4450028451/) — Genentech
-- 📍 **Location:** South San Francisco, CA
+### [Backend Software Engineer Graduate (TikTok - Privacy and Security - Product) - 2027 Start](https://www.linkedin.com/jobs/view/4448495898/) — TikTok
+- 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-08-06
 
-### [Machine Learning Engineer, Drive](https://www.linkedin.com/jobs/view/4450009896/) — DoorDash
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-08-06
-
-### [Machine Learning Engineer, Drive](https://www.linkedin.com/jobs/view/4450029336/) — DoorDash
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-08-06
-
-### [Data Engineer](https://www.linkedin.com/jobs/view/4450030409/) — QuietAgent
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-08-06
-
-### [Software engineer, full-stack](https://www.linkedin.com/jobs/view/4448704270/) — Watershed
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $166,500.00/yr - $210,000.00/yr
-- 🕒 **Posted:** 2026-08-06
-
-### [Backend Engineer, Drone - DoorDash Labs](https://www.linkedin.com/jobs/view/4450026430/) — DoorDash
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-08-06
-
-### [Embedded Software Engineer - Body Systems](https://www.linkedin.com/jobs/view/4450023512/) — Zoox
-- 📍 **Location:** Foster City, CA
-- 🕒 **Posted:** 2026-08-06
-
-### [Full Stack Engineer](https://www.linkedin.com/jobs/view/4447590418/) — PTR Global
-- 📍 **Location:** Sunnyvale, CA
-- 💰 **Salary:** $65.00/hr - $70.00/hr
-- 🕒 **Posted:** 2026-08-06
-
-### [Software Engineering Intern](https://www.linkedin.com/jobs/view/4448498483/) — Terranova
-- 📍 **Location:** Berkeley, CA
-- 🕒 **Posted:** 2026-08-06
-
-### [Research Engineer](https://www.linkedin.com/jobs/view/4450021633/) — PDT Partners
+### [Data Scientist, Amazon Connect](https://www.linkedin.com/jobs/view/4450668415/) — Amazon Web Services (AWS)
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-08-06
 
-### [Applied ML Scientist](https://www.linkedin.com/jobs/view/4450011765/) — PDT Partners
+### [Applied Scientist, Amazon Connect](https://www.linkedin.com/jobs/view/4450668420/) — Amazon Web Services (AWS)
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-08-06
 
-### [Software Engineer](https://www.linkedin.com/jobs/view/4450025505/) — PDT Partners
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-08-06
-
-### [Data Science Analyst I-FPA Operations](https://www.linkedin.com/jobs/view/4450012581/) — Mount Sinai Health System
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-08-06
-
-### [Java Software Engineer](https://www.linkedin.com/jobs/view/4450698152/) — Natsoft
+### [Software Engineer III](https://www.linkedin.com/jobs/view/4448491834/) — JPMorganChase
 - 📍 **Location:** Jersey City, NJ
+- 💰 **Salary:** $133,000.00/yr - $185,000.00/yr
+- 🕒 **Posted:** 2026-08-06
+
+### [Software Engineer II, Integrated Genomics](https://www.linkedin.com/jobs/view/4450040489/) — Memorial Sloan Kettering Cancer Center
+- 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-08-06
