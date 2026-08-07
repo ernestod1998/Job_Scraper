@@ -1,37 +1,24 @@
 # 🟦 Indeed — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-08-07 17:29 UTC*
+*Last updated: 2026-08-07 18:27 UTC*
 
-**7 new role(s)** since last run · 85 total in last 24h
+**4 new role(s)** since last run · 86 total in last 24h
 
-### [Software Engineer](https://www.indeed.com/viewjob?jk=fc470306ea0ed0e5) — Unknown
-- 📍 **Location:** San Francisco, CA, US
+### [AI Infrastructure Engineer](https://www.indeed.com/viewjob?jk=c0f2222f41c73768) — Intel Corporation
+- 📍 **Location:** Santa Clara, CA, US
+- 💰 **Salary:** $170k–$315k/yr
 - 🕒 **Posted:** 2026-08-07
 
-### [Software Engineer](https://www.indeed.com/viewjob?jk=74d351495766d274) — Unknown
-- 📍 **Location:** San Mateo, CA, US
-- 🕒 **Posted:** 2026-08-07
-
-### [Systems Engineer](https://www.indeed.com/viewjob?jk=e573778baa5a4de3) — NXP Semiconductors
+### [Fraud Strategy Data Scientist](https://www.indeed.com/viewjob?jk=e812f40d7208caf8) — BILL
 - 📍 **Location:** San Jose, CA, US
-- 💰 **Salary:** $159k–$271k/yr
-- 🕒 **Posted:** 2026-08-07
+- 💰 **Salary:** $96k–$135k/yr
+- 🕒 **Posted:** 2026-08-06
 
-### [Systems Engineering](https://www.indeed.com/viewjob?jk=0daf9e578d714b00) — NXP Semiconductors
-- 📍 **Location:** San Jose, CA, US
-- 💰 **Salary:** $157k–$271k/yr
-- 🕒 **Posted:** 2026-08-07
-
-### [GTM Analytics Engineer](https://www.indeed.com/viewjob?jk=2568c701da0eefe4) — Decagon
-- 📍 **Location:** San Francisco, CA, US
-- 💰 **Salary:** $190k–$230k/yr
-- 🕒 **Posted:** 2026-08-07
-
-### [Software Engineer II - Integrated Services](https://www.indeed.com/viewjob?jk=b30da2ae14422b1a) — Compass Group
+### [Full Stack Software Engineer Next.js](https://www.indeed.com/viewjob?jk=7b502f21a9d3b1dd) — FORTUNE
 - 📍 **Location:** New York, NY, US
-- 💰 **Salary:** $127k–$141k/yr
+- 💰 **Salary:** $68k–$185k/yr
 - 🕒 **Posted:** 2026-08-07
 
-### [GTM Analytics Engineer](https://www.indeed.com/viewjob?jk=3afe65a58f0c17ca) — Decagon
-- 📍 **Location:** New York, NY, US
-- 💰 **Salary:** $190k–$230k/yr
-- 🕒 **Posted:** 2026-08-07
+### [Data Engineer - Hybrid On-Site](https://www.indeed.com/viewjob?jk=2ce725dc0522c974) — NTT DATA
+- 📍 **Location:** Jersey City, NJ, US
+- 💰 **Salary:** $123k–$137k/yr
+- 🕒 **Posted:** 2026-08-06
