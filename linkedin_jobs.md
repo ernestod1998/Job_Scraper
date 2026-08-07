@@ -1,76 +1,33 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-08-07 23:09 UTC*
+*Last updated: 2026-08-07 23:18 UTC*
 
-**18 new role(s)** since last run · 32 total in last 1h
+**7 new role(s)** since last run · 39 total in last 1h
 
-### [Senior Software Engineer, Product](https://www.linkedin.com/jobs/view/4450394086/) — Jobright.ai
-- 📍 **Location:** Burlingame, CA
-- 🕒 **Posted:** 2026-08-07
-
-### [Sr. Applied Scientist, Prime Video - Generative AI (Video)](https://www.linkedin.com/jobs/view/4449237383/) — Amazon Science
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-08-07
-
-### [Senior Machine Learning Engineer - Foundation Model](https://www.linkedin.com/jobs/view/4451002169/) — XPENG
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-08-07
-
-### [Sr. Applied Scientist, Fauna](https://www.linkedin.com/jobs/view/4449249040/) — Amazon Science
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-08-07
-
-### [Machine Learning Engineer, Speech LLM Training](https://www.linkedin.com/jobs/view/4450393267/) — Jobright.ai
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-08-07
-
-### [Senior Software Engineer I - AI Inference Data Plane](https://www.linkedin.com/jobs/view/4444739715/) — DigitalOcean
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-08-07
-
-### [Senior Software Engineer, Agentic Platforms](https://www.linkedin.com/jobs/view/4450783637/) — XPENG
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-08-07
-
-### [Senior Applied Scientist, LLM Code Agents, Kiro Science](https://www.linkedin.com/jobs/view/4449230747/) — Amazon Science
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-08-07
-
-### [ZoomAI DevOps Engineer](https://www.linkedin.com/jobs/view/4451001031/) — Zoom
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-08-07
-
-### [DevOps Engineer](https://www.linkedin.com/jobs/view/4450398254/) — Quest Global
+### [Presales Systems Engineer - HPE Networking (Northern California)](https://www.linkedin.com/jobs/view/4450796291/) — HPE Aruba Networking
 - 📍 **Location:** Cupertino, CA
 - 🕒 **Posted:** 2026-08-07
 
-### [Senior Software Engineer, Grid Communications & Platform](https://www.linkedin.com/jobs/view/4450397052/) — Convective
+### [Presales Systems Engineer - HPE Networking (Northern California)](https://www.linkedin.com/jobs/view/4450797291/) — HPE Aruba Networking
+- 📍 **Location:** Pleasanton, CA
+- 🕒 **Posted:** 2026-08-07
+
+### [Presales Systems Engineer - HPE Networking (Northern California)](https://www.linkedin.com/jobs/view/4451000132/) — HPE Aruba Networking
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-08-07
 
-### [Senior Full-Stack Engineer](https://www.linkedin.com/jobs/view/4449091076/) — LeanData
+### [Presales Systems Engineer - HPE Networking (Northern California)](https://www.linkedin.com/jobs/view/4450790358/) — HPE Aruba Networking
 - 📍 **Location:** Santa Clara, CA
 - 🕒 **Posted:** 2026-08-07
 
-### [Sr. Software Engineer (Data Migration & Management)](https://www.linkedin.com/jobs/view/4450793194/) — NetApp
-- 📍 **Location:** San Jose, CA
+### [Java / UI Full Stack Engineer](https://www.linkedin.com/jobs/view/4450395339/) — Quest Global
+- 📍 **Location:** Cupertino, CA
 - 🕒 **Posted:** 2026-08-07
 
-### [Senior Full Stack Software Engineer](https://www.linkedin.com/jobs/view/4450389024/) — Jobright.ai
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-08-07
-
-### [Frontend Senior Software Engineer- Angular v20+](https://www.linkedin.com/jobs/view/4450794073/) — Cisco
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-08-07
-
-### [Sr Software Engineer](https://www.linkedin.com/jobs/view/4449235461/) — McGraw Hill
+### [Lead Software Engineer](https://www.linkedin.com/jobs/view/4450786522/) — Mastercard
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-08-07
 
-### [Java Software Engineer](https://www.linkedin.com/jobs/view/4449239338/) — Wise Skulls
+### [Full Stack Engineer](https://www.linkedin.com/jobs/view/4450500115/) — BayOne Solutions
 - 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-08-07
-
-### [Senior Software Engineer (Full Stack)](https://www.linkedin.com/jobs/view/4450793335/) — Mastercard
-- 📍 **Location:** New York, NY
+- 💰 **Salary:** $60.00/hr - $65.00/hr
 - 🕒 **Posted:** 2026-08-07
