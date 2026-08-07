@@ -1,27 +1,79 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-08-07 01:18 UTC*
+*Last updated: 2026-08-07 02:18 UTC*
 
-**5 new role(s)** since last run · 55 total in last 1h
+**18 new role(s)** since last run · 18 total in last 1h
 
-### [Sr. Software Engineer, GI](https://www.linkedin.com/jobs/view/4448483591/) — Hinge Health
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $164,000.00/yr - $247,000.00/yr
+### [Machine Learning Engineer, Tapestry
+Mountain View, CA (HQ)](https://www.linkedin.com/jobs/view/4450022327/) — Tapestry
+- 📍 **Location:** Mountain View, CA
 - 🕒 **Posted:** 2026-08-06
 
-### [Senior Software Engineer, Unity](https://www.linkedin.com/jobs/view/4450673643/) — Intuitive
+### [Data Scientist](https://www.linkedin.com/jobs/view/4450020329/) — L.E.K. Consulting
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-08-06
+
+### [Software Engineer, Early Career (AI)](https://www.linkedin.com/jobs/view/4450681672/) — Jobverse.io
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-08-06
+
+### [Software Engineer - Core team - San Jose, CA](https://www.linkedin.com/jobs/view/4450670859/) — ZEDEDA
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-08-06
+
+### [Biostatistician (Translational and Exploratory Biostatistics)](https://www.linkedin.com/jobs/view/4450028451/) — Genentech
+- 📍 **Location:** South San Francisco, CA
+- 🕒 **Posted:** 2026-08-06
+
+### [Machine Learning Engineer, Drive](https://www.linkedin.com/jobs/view/4450009896/) — DoorDash
 - 📍 **Location:** Sunnyvale, CA
 - 🕒 **Posted:** 2026-08-06
 
-### [Software Engineer, Cost Optimization (Infrastructure)](https://www.linkedin.com/jobs/view/4450665959/) — Kustomer
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $130,000.00/yr - $215,000.00/yr
+### [Machine Learning Engineer, Drive](https://www.linkedin.com/jobs/view/4450029336/) — DoorDash
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-08-06
 
-### [Senior Backend Software Engineer, Agentic Data Platform (Tapestry)
-New York, NY](https://www.linkedin.com/jobs/view/4450025198/) — Tapestry
+### [Data Engineer](https://www.linkedin.com/jobs/view/4450030409/) — QuietAgent
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-08-06
+
+### [Software engineer, full-stack](https://www.linkedin.com/jobs/view/4448704270/) — Watershed
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $166,500.00/yr - $210,000.00/yr
+- 🕒 **Posted:** 2026-08-06
+
+### [Backend Engineer, Drone - DoorDash Labs](https://www.linkedin.com/jobs/view/4450026430/) — DoorDash
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-08-06
+
+### [Embedded Software Engineer - Body Systems](https://www.linkedin.com/jobs/view/4450023512/) — Zoox
+- 📍 **Location:** Foster City, CA
+- 🕒 **Posted:** 2026-08-06
+
+### [Full Stack Engineer](https://www.linkedin.com/jobs/view/4447590418/) — PTR Global
+- 📍 **Location:** Sunnyvale, CA
+- 💰 **Salary:** $65.00/hr - $70.00/hr
+- 🕒 **Posted:** 2026-08-06
+
+### [Software Engineering Intern](https://www.linkedin.com/jobs/view/4448498483/) — Terranova
+- 📍 **Location:** Berkeley, CA
+- 🕒 **Posted:** 2026-08-06
+
+### [Research Engineer](https://www.linkedin.com/jobs/view/4450021633/) — PDT Partners
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-08-06
 
-### [Software Engineer](https://www.linkedin.com/jobs/view/4446829895/) — Barnes & Noble, Inc.
-- 📍 **Location:** Westbury, NY
+### [Applied ML Scientist](https://www.linkedin.com/jobs/view/4450011765/) — PDT Partners
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-08-06
+
+### [Software Engineer](https://www.linkedin.com/jobs/view/4450025505/) — PDT Partners
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-08-06
+
+### [Data Science Analyst I-FPA Operations](https://www.linkedin.com/jobs/view/4450012581/) — Mount Sinai Health System
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-08-06
+
+### [Java Software Engineer](https://www.linkedin.com/jobs/view/4450698152/) — Natsoft
+- 📍 **Location:** Jersey City, NJ
 - 🕒 **Posted:** 2026-08-06
