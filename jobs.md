@@ -1,75 +1,56 @@
 # 🧬 Biotech LinkedIn — MLE / DS Roles
-*Last updated: 2026-08-07 05:08 UTC*
+*Last updated: 2026-08-08 04:25 UTC*
 
-**18 new role(s)** since last run · 91 total in last 24h
+**13 new role(s)** since last run · 93 total in last 24h
 
-### [Research Engineer, AI](https://job-boards.greenhouse.io/biohub/jobs/7747517) — Chan Zuckerberg Biohub
-- 📍 **Location:** New York, NY (Hybrid)
-- 🕒 **Posted:** 2026-07-30
+### [Software Engineer, Full Stack](https://job-boards.greenhouse.io/natera/jobs/5993307004) — Natera
+- 📍 **Location:** US Remote
+- 🕒 **Posted:** 2026-08-07
 
-### [Enterprise Generative AI Platform Engineer](https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Enterprise-Generative-AI-Platform-Engineer_R-250809) — Amgen
-- 📍 **Location:** United States - Remote
-- 🕒 **Posted:** Posted Today
+### [Software Engineer, Machine Learning Platform](https://job-boards.greenhouse.io/profluent/jobs/5290271008) — Profluent
+- 📍 **Location:** Emeryville, California, United States; Hybrid (2-3 days on-site)
+- 🕒 **Posted:** 2026-08-07
 
-### [Computational Scientist (Biology)](https://jobs.ashbyhq.com/axiombio/21bc2f03-be37-4389-a520-e30e6afb3eb0) — Axiom Bio
-- 📍 **Location:** SF Global HQ
-- 🕒 **Posted:** 2026-07-17
-
-### [Computational Scientist (Medicinal Chemistry)](https://jobs.ashbyhq.com/axiombio/71fc473a-1730-4293-95ba-bec8cf266406) — Axiom Bio
-- 📍 **Location:** SF Global HQ
-- 🕒 **Posted:** 2026-07-10
-
-### [Computational Scientist (Mass Spectrometry)](https://jobs.ashbyhq.com/axiombio/a3191175-40d4-4f75-aec2-18313600413a) — Axiom Bio
-- 📍 **Location:** SF Global HQ
-- 🕒 **Posted:** 2026-07-10
-
-### [Platform Engineer](https://jobs.ashbyhq.com/axiombio/934dbea4-2bd7-4e6f-927e-a75636a0d052) — Axiom Bio
-- 📍 **Location:** SF Global HQ
-- 🕒 **Posted:** 2026-07-17
-
-### [Software Engineering (3)](https://www.immunai.com/careers/#software-engineering-3) — Immunai
-- 📍 **Location:** New York, NY
-
-### [Research Associate II/III– Bioanalytical/In Vitro ADME/DMPK](https://job-boards.greenhouse.io/nurix/jobs/8582171002) — Nurix Therapeutics
-- 📍 **Location:** Brisbane, CA 
-- 🕒 **Posted:** 2026-07-19
-
-### [Biostatistician (Translational and Exploratory Biostatistics)](https://www.linkedin.com/jobs/view/4450028451/) — Genentech
-- 📍 **Location:** South San Francisco, CA
-- 🕒 **Posted:** 2026-08-06
-
-### [Software Engineer, Camera Systems](https://www.linkedin.com/jobs/view/4448714030/) — Meta
-- 📍 **Location:** Burlingame, CA
-- 🕒 **Posted:** 2026-08-06
-
-### [Software Engineer, Machine Learning](https://www.linkedin.com/jobs/view/4438485887/) — Meta
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-08-06
-
-### [Software Engineer, Infrastructure](https://www.linkedin.com/jobs/view/4438482927/) — Meta
-- 📍 **Location:** Burlingame, CA
-- 🕒 **Posted:** 2026-08-06
-
-### [Full Stack Software Engineer](https://www.linkedin.com/jobs/view/4440646462/) — ŌURA
+### [Software Engineer, Systems ML](https://www.linkedin.com/jobs/view/4451045075/) — Meta
 - 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-08-06
+- 🕒 **Posted:** 2026-08-07
 
-### [Software Engineer, Product](https://www.linkedin.com/jobs/view/4438481923/) — Meta
+### [AI Infrastructure Engineer](https://www.linkedin.com/jobs/view/4450332355/) — Intel
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-08-07
+
+### [AI Research Engineer](https://www.linkedin.com/jobs/view/4395557838/) — Meta
 - 📍 **Location:** Menlo Park, CA
-- 🕒 **Posted:** 2026-08-06
+- 🕒 **Posted:** 2026-08-07
 
-### [Software Engineer, Android](https://www.linkedin.com/jobs/view/4438482926/) — Meta
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-08-06
+### [Data Scientist, Analytics (Technical Leadership)](https://www.linkedin.com/jobs/view/4448750762/) — Meta
+- 📍 **Location:** Fremont, CA
+- 🕒 **Posted:** 2026-08-07
 
-### [Bioinformatics & Data Scientist or Postdoctoral Researcher- Furman lab](https://www.linkedin.com/jobs/view/4427934142/) — Buck Institute for Research on Aging
+### [AI Data Scientist-Furman lab](https://www.linkedin.com/jobs/view/4427938237/) — Buck Institute for Research on Aging
 - 📍 **Location:** Novato, CA
-- 🕒 **Posted:** 2026-08-06
+- 🕒 **Posted:** 2026-08-07
 
-### [Software Engineer, iOS](https://www.linkedin.com/jobs/view/4438490647/) — Meta
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-08-06
+### [Platform Engineer (12x Openings)](https://www.linkedin.com/jobs/view/4448505783/) — Volta
+- 📍 **Location:** Palo Alto, CA
+- 🕒 **Posted:** 2026-08-07
 
-### [Software Engineer- Mobile, iOS](https://www.linkedin.com/jobs/view/4448461862/) — Compass
+### [Software Developer, GO Systems](https://www.linkedin.com/jobs/view/4439207648/) — Meta
+- 📍 **Location:** Menlo Park, CA
+- 🕒 **Posted:** 2026-08-07
+
+### [Data Platform Architect](https://www.linkedin.com/jobs/view/4434260697/) — Aptiv
+- 📍 **Location:** Walnut Creek, CA
+- 🕒 **Posted:** 2026-08-07
+
+### [Research Engineer - MSL FAIR Foundations](https://www.linkedin.com/jobs/view/4433816612/) — Meta
+- 📍 **Location:** Menlo Park, CA
+- 🕒 **Posted:** 2026-08-07
+
+### [Software Engineer II - Integrated Services](https://www.linkedin.com/jobs/view/4450695722/) — Compass
 - 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-08-06
+- 🕒 **Posted:** 2026-08-07
+
+### [Data Engineer, Product Analytics](https://www.linkedin.com/jobs/view/4448753746/) — Meta
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-08-07
