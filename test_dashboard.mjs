@@ -49,8 +49,6 @@ const veto = new Function(`return ${vetoMatch[1]}`)();
 for (const title of [
   'Senior Software Engineer', 'Sr. Data Scientist', 'ML Engineering Lead',
   'Product Manager',
-]) check(`seniority restored: ${title}`, !veto.test(title));
-for (const title of [
   'Staff Engineer', 'Principal Scientist', 'Director of AI',
   'Vice President, Data', 'VP Engineering', 'SVP Research', 'Chief Data Officer',
   'Head of Machine Learning', 'Founding Engineer', 'Distinguished Engineer',

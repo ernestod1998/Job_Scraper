@@ -1354,7 +1354,7 @@
     renderFilterGroup('filter-role', 'role',
       ['AI Engineer', 'MLE', 'MLOps/Platform', 'Scientist', 'Comp Chem/Sci',
        'Data Science', 'SWE', 'Bioinformatics', 'Other']);
-    // Founding/Principal/Staff are excluded at the scraper (upper-level veto);
+    // Senior-track/management roles are excluded at the scraper;
     // pruneState() clears any lingering untriaged ones from older sessions.
     renderFilterGroup('filter-sen', 'sen', ['Senior', 'Mid', 'Intern']);
     renderDateFilter();
@@ -1502,11 +1502,11 @@
   }
 
   // ---------- Prune (keeps localStorage bounded) ----------
-  // Drops untriaged jobs that are upper senior-track/exec (excluded at the scraper
+  // Drops untriaged jobs that are senior-track/exec (excluded at the scraper
   // since 2026-06 — keep this regex in sync with EXCLUDED_SENIORITY_RE in
   // scrape_jobs.py) or older than 30 days. Anything saved/applied/dismissed
   // is kept — that's the user's triage history.
-  const EXCLUDED_TITLE_RE = /\b(staff|principal|distinguished|founding|director|vice president|s?vp|chief|head of)\b/i;
+  const EXCLUDED_TITLE_RE = /\b(senior|sr|staff|principal|distinguished|founding|lead|manager|director|vice president|vp|svp|chief|head\s+of)\b/i;
   function pruneState() {
     const cutoff = Date.now() - 30 * 86400000;
     const before = state.jobs.length;
