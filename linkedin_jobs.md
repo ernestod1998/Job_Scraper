@@ -1,12 +1,12 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-08-09 17:06 UTC*
+*Last updated: 2026-08-09 17:18 UTC*
 
-**2 new role(s)** since last run · 3 total in last 1h
+**2 new role(s)** since last run · 5 total in last 1h
 
-### [Software Engineer, Starlink Network](https://www.linkedin.com/jobs/view/4384549082/) — SpaceX
-- 📍 **Location:** Sunnyvale, CA
+### [Software Engineer, CAD Automation](https://www.linkedin.com/jobs/view/4424494288/) — NVIDIA
+- 📍 **Location:** Santa Clara, CA
 - 🕒 **Posted:** 2026-08-09
 
-### [Machine Learning Engineer](https://www.linkedin.com/jobs/view/4434025418/) — WireScreen
-- 📍 **Location:** New York, NY
+### [Full Stack Engineer (Frontend & Android Focus)](https://www.linkedin.com/jobs/view/4450987035/) — AIJobs.ai
+- 📍 **Location:** San Mateo, CA
 - 🕒 **Posted:** 2026-08-09
