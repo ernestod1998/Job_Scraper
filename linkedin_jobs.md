@@ -1,8 +1,8 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-08-09 18:18 UTC*
+*Last updated: 2026-08-09 19:15 UTC*
 
-**1 new role(s)** since last run · 7 total in last 1h
+**1 new role(s)** since last run · 6 total in last 1h
 
-### [Mobile Engineer (iOS / Android)](https://www.linkedin.com/jobs/view/4450983098/) — Evlo AI
+### [Software Engineer II](https://www.linkedin.com/jobs/view/4414936186/) — Progyny, Inc.
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-08-09
