@@ -1,56 +1,72 @@
 # 🧬 Biotech LinkedIn — MLE / DS Roles
-*Last updated: 2026-08-08 04:25 UTC*
+*Last updated: 2026-08-09 04:42 UTC*
 
-**13 new role(s)** since last run · 93 total in last 24h
+**17 new role(s)** since last run · 99 total in last 24h
 
-### [Software Engineer, Full Stack](https://job-boards.greenhouse.io/natera/jobs/5993307004) — Natera
-- 📍 **Location:** US Remote
-- 🕒 **Posted:** 2026-08-07
+### [Software Engineer, AI Specialist - Monetization (Technical Leadership)](https://www.linkedin.com/jobs/view/4449298123/) — Meta
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-08-08
 
-### [Software Engineer, Machine Learning Platform](https://job-boards.greenhouse.io/profluent/jobs/5290271008) — Profluent
-- 📍 **Location:** Emeryville, California, United States; Hybrid (2-3 days on-site)
-- 🕒 **Posted:** 2026-08-07
-
-### [Software Engineer, Systems ML](https://www.linkedin.com/jobs/view/4451045075/) — Meta
+### [Applied AI Research Engineer](https://www.linkedin.com/jobs/view/4354022361/) — Netic
 - 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-08-07
+- 🕒 **Posted:** 2026-08-08
 
-### [AI Infrastructure Engineer](https://www.linkedin.com/jobs/view/4450332355/) — Intel
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-08-07
+### [Software Engineer Systems Machine Learning - Frameworks](https://www.linkedin.com/jobs/view/4449254578/) — Meta
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-08-08
 
-### [AI Research Engineer](https://www.linkedin.com/jobs/view/4395557838/) — Meta
+### [Research Engineer, Monetization AI](https://www.linkedin.com/jobs/view/4382035319/) — Meta
 - 📍 **Location:** Menlo Park, CA
-- 🕒 **Posted:** 2026-08-07
+- 🕒 **Posted:** 2026-08-08
 
-### [Data Scientist, Analytics (Technical Leadership)](https://www.linkedin.com/jobs/view/4448750762/) — Meta
+### [Data Scientist, Product Analytics](https://www.linkedin.com/jobs/view/4449252750/) — Meta
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-08-08
+
+### [Data Scientist (Technical Leadership)](https://www.linkedin.com/jobs/view/4430697095/) — Meta
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-08-08
+
+### [Research Scientist, ML H-W/S-W Codesign](https://www.linkedin.com/jobs/view/4439617103/) — Meta
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-08-08
+
+### [Software Engineer, Product](https://www.linkedin.com/jobs/view/4449249921/) — Meta
 - 📍 **Location:** Fremont, CA
-- 🕒 **Posted:** 2026-08-07
+- 🕒 **Posted:** 2026-08-08
 
-### [AI Data Scientist-Furman lab](https://www.linkedin.com/jobs/view/4427938237/) — Buck Institute for Research on Aging
-- 📍 **Location:** Novato, CA
-- 🕒 **Posted:** 2026-08-07
-
-### [Platform Engineer (12x Openings)](https://www.linkedin.com/jobs/view/4448505783/) — Volta
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-08-07
-
-### [Software Developer, GO Systems](https://www.linkedin.com/jobs/view/4439207648/) — Meta
+### [Infrastructure Engineer, Automation and Tooling, Fullstack (Robotics)](https://www.linkedin.com/jobs/view/4411104065/) — Meta
 - 📍 **Location:** Menlo Park, CA
-- 🕒 **Posted:** 2026-08-07
+- 🕒 **Posted:** 2026-08-08
 
-### [Data Platform Architect](https://www.linkedin.com/jobs/view/4434260697/) — Aptiv
-- 📍 **Location:** Walnut Creek, CA
-- 🕒 **Posted:** 2026-08-07
+### [Software Engineer (Leadership) - Infrastructure](https://www.linkedin.com/jobs/view/4439602830/) — Meta
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-08-08
 
-### [Research Engineer - MSL FAIR Foundations](https://www.linkedin.com/jobs/view/4433816612/) — Meta
+### [Security Engineer, Investigations - i3E](https://www.linkedin.com/jobs/view/4421124852/) — Meta
 - 📍 **Location:** Menlo Park, CA
-- 🕒 **Posted:** 2026-08-07
+- 🕒 **Posted:** 2026-08-08
 
-### [Software Engineer II - Integrated Services](https://www.linkedin.com/jobs/view/4450695722/) — Compass
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-08-07
+### [Security Engineer Investigator, Integrity Investigations, Intelligence, and Events](https://www.linkedin.com/jobs/view/4421106884/) — Meta
+- 📍 **Location:** Menlo Park, CA
+- 🕒 **Posted:** 2026-08-08
 
-### [Data Engineer, Product Analytics](https://www.linkedin.com/jobs/view/4448753746/) — Meta
+### [Data Engineer, Product Analytics](https://www.linkedin.com/jobs/view/4433805998/) — Meta
+- 📍 **Location:** Burlingame, CA
+- 🕒 **Posted:** 2026-08-08
+
+### [Computational Biologist II, CellxState](https://www.linkedin.com/jobs/view/4420757532/) — Biohub
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-08-08
+
+### [Research Scientist, ML H/W-SW Codesign](https://www.linkedin.com/jobs/view/4449250929/) — Meta
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-08-08
+
+### [Research Engineer - MSL FAIR Foundations](https://www.linkedin.com/jobs/view/4421115845/) — Meta
+- 📍 **Location:** Burlingame, CA
+- 🕒 **Posted:** 2026-08-08
+
+### [Software Engineer, Recommendation Systems](https://www.linkedin.com/jobs/view/4439603829/) — Meta
 - 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-08-07
+- 🕒 **Posted:** 2026-08-08
