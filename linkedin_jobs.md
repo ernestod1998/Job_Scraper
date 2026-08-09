@@ -1,12 +1,20 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-08-09 17:18 UTC*
+*Last updated: 2026-08-09 18:02 UTC*
 
-**2 new role(s)** since last run · 5 total in last 1h
+**4 new role(s)** since last run · 9 total in last 1h
 
-### [Software Engineer, CAD Automation](https://www.linkedin.com/jobs/view/4424494288/) — NVIDIA
+### [Mobile Engineer (iOS / Android)](https://www.linkedin.com/jobs/view/4450993082/) — Evlo AI
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-08-09
+
+### [Developer Advocate – Reinforcement Learning](https://www.linkedin.com/jobs/view/4415138367/) — NVIDIA
 - 📍 **Location:** Santa Clara, CA
 - 🕒 **Posted:** 2026-08-09
 
-### [Full Stack Engineer (Frontend & Android Focus)](https://www.linkedin.com/jobs/view/4450987035/) — AIJobs.ai
-- 📍 **Location:** San Mateo, CA
+### [Corporate Treasury, Payments Platform, Software Engineering, Associate, NY](https://www.linkedin.com/jobs/view/4415088729/) — Goldman Sachs
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-08-09
+
+### [Remote Software Engineer (New Grad) — AI & Production at Realm](https://www.linkedin.com/jobs/view/4451362295/) — Direct-Calls.com
+- 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-08-09
