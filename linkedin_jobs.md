@@ -1,9 +1,12 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-08-10 02:17 UTC*
+*Last updated: 2026-08-10 03:18 UTC*
 
-**1 new role(s)** since last run · 2 total in last 1h
+**2 new role(s)** since last run · 2 total in last 1h
 
-### [Machine Learning Engineer (Training & Inference Systems)](https://www.linkedin.com/jobs/view/4450978883/) — Fintal Partners
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $500,000.00/yr - $1,500,000.00/yr
+### [System Software Engineer, Networking](https://www.linkedin.com/jobs/view/4451373866/) — TheyThink
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-08-09
+
+### [Data Engineer – AI](https://www.linkedin.com/jobs/view/4439808978/) — ITbility
+- 📍 **Location:** Sunnyvale, CA
 - 🕒 **Posted:** 2026-08-09
