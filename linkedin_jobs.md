@@ -1,53 +1,49 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-08-10 21:19 UTC*
+*Last updated: 2026-08-10 22:10 UTC*
 
-**12 new role(s)** since last run · 34 total in last 1h
+**11 new role(s)** since last run · 30 total in last 1h
 
-### [Software Engineer, ML Platform](https://www.linkedin.com/jobs/view/4452009268/) — Gusto
-- 📍 **Location:** San Francisco, CA
+### [Software Engineer, Backend (Hybrid)](https://www.linkedin.com/jobs/view/4452023938/) — Cisco
+- 📍 **Location:** Milpitas, CA
 - 🕒 **Posted:** 2026-08-10
 
-### [Machine Learning Engineer, Ads Personalization](https://www.linkedin.com/jobs/view/4437903563/) — Unity
-- 📍 **Location:** Mountain View, CA
+### [Software Engineer, Backend (Hybrid)](https://www.linkedin.com/jobs/view/4452030791/) — Cisco
+- 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-08-10
 
-### [Robotics Software Engineer, Perception](https://www.linkedin.com/jobs/view/4449807918/) — Hadrian
+### [Software Engineer - AI Agent](https://www.linkedin.com/jobs/view/4451454236/) — Jobright.ai
+- 📍 **Location:** San Mateo County, CA
+- 🕒 **Posted:** 2026-08-10
+
+### [Software Engineer, Backend](https://www.linkedin.com/jobs/view/4383831666/) — Opto Investments
 - 📍 **Location:** San Francisco Bay Area
 - 🕒 **Posted:** 2026-08-10
 
-### [Software Engineer, Product](https://www.linkedin.com/jobs/view/4413843235/) — Salient
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $140,000.00/yr - $200,000.00/yr
+### [ML Scientist](https://www.linkedin.com/jobs/view/4451461115/) — Harnham
+- 📍 **Location:** San Francisco County, CA
+- 💰 **Salary:** $250,000.00/yr - $280,000.00/yr
 - 🕒 **Posted:** 2026-08-10
 
-### [Software Engineer I - AI Agents](https://www.linkedin.com/jobs/view/4451894917/) — Observe.AI
-- 📍 **Location:** Redwood City, CA
+### [Software Engineer / Developer](https://www.linkedin.com/jobs/view/4452033086/) — Noblis
+- 📍 **Location:** Mountain View, CA
 - 🕒 **Posted:** 2026-08-10
 
-### [Software Engineer, Custom Automation](https://www.linkedin.com/jobs/view/4416192954/) — Unchained Labs
-- 📍 **Location:** Pleasanton, CA
+### [Software Engineer III (Full Time) - United States ENG/CPO/WTG ETR](https://www.linkedin.com/jobs/view/4452040051/) — Cisco
+- 📍 **Location:** Milpitas, CA
 - 🕒 **Posted:** 2026-08-10
 
-### [Software Engineer, Collections Infra](https://www.linkedin.com/jobs/view/4452022203/) — Notion
-- 📍 **Location:** San Francisco, CA
+### [PostDoc-Computational Materials Science & Scientific Software Engineering](https://www.linkedin.com/jobs/view/4451470066/) — EMD Electronics
+- 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-08-10
 
-### [Software Engineer in Test](https://www.linkedin.com/jobs/view/4451886781/) — Futran Solutions
-- 📍 **Location:** Cupertino, CA
-- 🕒 **Posted:** 2026-08-10
-
-### [Software Engineer, Collections Infra](https://www.linkedin.com/jobs/view/4452014248/) — Notion
+### [Site Reliability Engineer](https://www.linkedin.com/jobs/view/4442754007/) — Fabric
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-08-10
 
-### [Software Engineer, ML Platform](https://www.linkedin.com/jobs/view/4452002993/) — Gusto
-- 📍 **Location:** New York, NY
+### [AWS Data Engineer](https://www.linkedin.com/jobs/view/4451457125/) — NLB Services
+- 📍 **Location:** Newark, NJ
 - 🕒 **Posted:** 2026-08-10
 
-### [Data Engineer](https://www.linkedin.com/jobs/view/4452029143/) — SMBC Group
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-08-10
-
-### [Data Engineer - Capital Markets](https://www.linkedin.com/jobs/view/4452031059/) — SMBC Group
-- 📍 **Location:** New York, NY
+### [Network Security Engineer](https://www.linkedin.com/jobs/view/4448046416/) — Soho Square Solutions
+- 📍 **Location:** Jersey City, NJ
 - 🕒 **Posted:** 2026-08-10
