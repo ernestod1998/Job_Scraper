@@ -1,24 +1,24 @@
 # 🧬 Biotech LinkedIn — MLE / DS Roles
-*Last updated: 2026-08-10 04:59 UTC*
+*Last updated: 2026-08-11 04:46 UTC*
 
-**5 new role(s)** since last run · 86 total in last 24h
+**5 new role(s)** since last run · 79 total in last 24h
 
-### [Software Engineer, Agent Infrastructure](https://www.linkedin.com/jobs/view/4354112406/) — Netic
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-08-09
+### [Research Scientist, AI](https://job-boards.greenhouse.io/biohub/jobs/7747518) — Chan Zuckerberg Biohub
+- 📍 **Location:** New York, NY (Hybrid)
+- 🕒 **Posted:** 2026-06-02
 
-### [Software Engineer, Product](https://www.linkedin.com/jobs/view/4353932431/) — Netic
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-08-09
+### [Software Engineer, Front End](https://www.linkedin.com/jobs/view/4452181405/) — Meta
+- 📍 **Location:** Menlo Park, CA
+- 🕒 **Posted:** 2026-08-10
 
-### [Frontend UI Software Engineer](https://www.linkedin.com/jobs/view/4383000810/) — Kai
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-08-09
-
-### [Data Engineer, Product Analytics](https://www.linkedin.com/jobs/view/4120824557/) — Meta
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-08-09
-
-### [Software Engineer II - Integrated Services](https://www.linkedin.com/jobs/view/4451372280/) — Compass
+### [Analytics Engineer](https://www.linkedin.com/jobs/view/4441827850/) — Profound
 - 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-08-09
+- 🕒 **Posted:** 2026-08-10
+
+### [Software Engineer (Technical Leadership)](https://www.linkedin.com/jobs/view/4452185290/) — Meta
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-08-10
+
+### [Data Engineer, Product Analytics](https://www.linkedin.com/jobs/view/4120822741/) — Meta
+- 📍 **Location:** Menlo Park, CA
+- 🕒 **Posted:** 2026-08-10
