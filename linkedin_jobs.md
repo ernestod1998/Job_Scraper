@@ -1,87 +1,97 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-08-11 20:19 UTC*
+*Last updated: 2026-08-11 21:18 UTC*
 
-**20 new role(s)** since last run · 30 total in last 1h
+**22 new role(s)** since last run · 29 total in last 1h
 
-### [Deep Learning Compiler Engineer](https://www.linkedin.com/jobs/view/4445082276/) — Quadric
-- 📍 **Location:** Burlingame, CA
-- 💰 **Salary:** $110,000.00/yr - $270,000.00/yr
+### [Research Engineer](https://www.linkedin.com/jobs/view/4452672289/) — talentpluto
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $140,000.00/yr - $250,000.00/yr
 - 🕒 **Posted:** 2026-08-11
 
-### [Computer Vision Engineer](https://www.linkedin.com/jobs/view/4451941139/) — Green Key Resources
+### [AI Software Engineer](https://www.linkedin.com/jobs/view/4452660262/) — Trilyon, Inc.
 - 📍 **Location:** San Jose, CA
-- 💰 **Salary:** $250,000.00/yr - $450,000.00/yr
+- 💰 **Salary:** $70.00/hr - $95.00/hr
 - 🕒 **Posted:** 2026-08-11
 
-### [Full-Stack Software Engineer – GenAI](https://www.linkedin.com/jobs/view/4449812524/) — Tech Verses
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-08-11
-
-### [Software Engineer III, Infrastructure, YouTube](https://www.linkedin.com/jobs/view/4451911889/) — Google
-- 📍 **Location:** San Bruno, CA
-- 🕒 **Posted:** 2026-08-11
-
-### [Software Engineer, Desktop](https://www.linkedin.com/jobs/view/4451927852/) — Anthropic
+### [Data Scientist, Finance](https://www.linkedin.com/jobs/view/4452648577/) — Ramp
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-08-11
 
-### [Software Engineer, Traffic](https://www.linkedin.com/jobs/view/4449883259/) — DoorDash
-- 📍 **Location:** San Francisco, CA
+### [AI Software Engineer (agentic AI LLM Libraries)](https://www.linkedin.com/jobs/view/4451940452/) — Sunrise Systems, Inc.
+- 📍 **Location:** San Jose, CA
+- 💰 **Salary:** $75.00/hr - $80.00/hr
 - 🕒 **Posted:** 2026-08-11
 
-### [Software Engineer](https://www.linkedin.com/jobs/view/4452630550/) — MintMCP
-- 📍 **Location:** San Mateo, CA
-- 🕒 **Posted:** 2026-08-11
-
-### [Software Engineer](https://www.linkedin.com/jobs/view/4452631596/) — MintMCP
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-08-11
-
-### [Software Engineer](https://www.linkedin.com/jobs/view/4452635321/) — TalentAlly
+### [AI Data Engineer](https://www.linkedin.com/jobs/view/4449698592/) — Agilent Technologies
 - 📍 **Location:** Santa Clara, CA
 - 🕒 **Posted:** 2026-08-11
 
-### [Embedded Software Engineer, Validation](https://www.linkedin.com/jobs/view/4449881174/) — Space Capital
-- 📍 **Location:** South San Francisco, CA
+### [Software Engineer – Linux Infrastructure and Distributed Computing](https://www.linkedin.com/jobs/view/4449895392/) — KLA
+- 📍 **Location:** Milpitas, CA
 - 🕒 **Posted:** 2026-08-11
 
-### [Scientific Data Engineer](https://www.linkedin.com/jobs/view/4451933286/) — Merge Labs
+### [Fullstack Software Engineer](https://www.linkedin.com/jobs/view/4452652046/) — Samba
 - 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $225,000.00/yr - $260,000.00/yr
+- 💰 **Salary:** $180,000.00/yr - $235,000.00/yr
 - 🕒 **Posted:** 2026-08-11
 
-### [ETL Data Engineer](https://www.linkedin.com/jobs/view/4449881315/) — Signature IT World Inc
-- 📍 **Location:** Sunnyvale, CA
+### [Robotics Software Engineer III, Manipulation](https://www.linkedin.com/jobs/view/4452667358/) — Agility Robotics
+- 📍 **Location:** Fremont, CA
 - 🕒 **Posted:** 2026-08-11
 
-### [Embedded Software Engineer - Labs, DoorDash Air](https://www.linkedin.com/jobs/view/4449895144/) — DoorDash
+### [Robotics Software Engineer, Perception](https://www.linkedin.com/jobs/view/4451949310/) — Cubit Capital
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-08-11
 
-### [Machine Learning Engineer Intern - Planning](https://www.linkedin.com/jobs/view/4414359267/) — PlusAI
-- 📍 **Location:** Santa Clara, CA
+### [Software Engineer, Database Infrastructure](https://www.linkedin.com/jobs/view/4452689201/) — Gusto
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-08-11
 
-### [Student Worker - Machine Learning Engineer - Data Mining & VLM](https://www.linkedin.com/jobs/view/4452640236/) — Zoox
-- 📍 **Location:** Foster City, CA
+### [Full Stack Engineer](https://www.linkedin.com/jobs/view/4451934421/) — Astreya
+- 📍 **Location:** Oakland, CA
 - 🕒 **Posted:** 2026-08-11
 
-### [Software Engineer, Traffic](https://www.linkedin.com/jobs/view/4449877318/) — DoorDash
+### [Embedded Software Engineer (C/C++ | Motion Controller)](https://www.linkedin.com/jobs/view/4449883504/) — KLA
+- 📍 **Location:** Milpitas, CA
+- 🕒 **Posted:** 2026-08-11
+
+### [Software Engineer](https://www.linkedin.com/jobs/view/4401779639/) — Edge Search formerly Alpha Search Advisors
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-08-11
+
+### [Embedded Software Engineer (C/C++ | Micro Controller)](https://www.linkedin.com/jobs/view/4449896416/) — KLA
+- 📍 **Location:** Milpitas, CA
+- 🕒 **Posted:** 2026-08-11
+
+### [Corporate IT Security Engineer](https://www.linkedin.com/jobs/view/4450118004/) — Corridor
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-08-11
+
+### [Data Scientist, Finance](https://www.linkedin.com/jobs/view/4452666169/) — Ramp
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-08-11
 
-### [Data Analytics Engineer](https://www.linkedin.com/jobs/view/4452623381/) — Rugs USA
+### [Software Engineer](https://www.linkedin.com/jobs/view/4401786495/) — Edge Search formerly Alpha Search Advisors
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-08-11
 
-### [Software Engineer, Desktop](https://www.linkedin.com/jobs/view/4451949030/) — Anthropic
+### [Full Stack Engineer](https://www.linkedin.com/jobs/view/4452670225/) — Confidential
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $300,000.00/yr - $450,000.00/yr
+- 🕒 **Posted:** 2026-08-11
+
+### [Post Doctoral Research Fellow/Computational Scientist, Biostatistics & Spatial Transcriptomics -Biostatistics & Surgery Memorial Sloan Kettering Cancer Center](https://www.linkedin.com/jobs/view/4450104022/) — Memorial Sloan Kettering Cancer Center
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-08-11
 
-### [Agent Platform Engineer](https://www.linkedin.com/jobs/view/4449877245/) — Skillsheet
+### [Site Reliability Engineer](https://www.linkedin.com/jobs/view/4401776923/) — Edge Search formerly Alpha Search Advisors
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-08-11
 
-### [Data Science & Advanced Analytics](https://www.linkedin.com/jobs/view/4419376244/) — East West Bank
+### [Site Reliability Engineer (SRE)](https://www.linkedin.com/jobs/view/4451949334/) — Experis
+- 📍 **Location:** Berkeley Heights, NJ
+- 🕒 **Posted:** 2026-08-11
+
+### [Data Engineer Contractor - Talent Reserve (contract)](https://www.linkedin.com/jobs/view/4437915360/) — KPMG US
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-08-11
