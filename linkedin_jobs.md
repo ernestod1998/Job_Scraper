@@ -1,33 +1,18 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-08-11 02:19 UTC*
+*Last updated: 2026-08-11 03:18 UTC*
 
-**7 new role(s)** since last run · 8 total in last 1h
+**3 new role(s)** since last run · 11 total in last 1h
 
-### [Machine Learning Engineer](https://www.linkedin.com/jobs/view/4452171099/) — HappyRobot
-- 📍 **Location:** San Francisco, CA
+### [Software Engineer Graduate (E-Commerce) - 2027 Start](https://www.linkedin.com/jobs/view/4451498924/) — TikTok USDS Joint Venture
+- 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-08-10
 
-### [Open Source Research Software Engineer: Product (0652) Job #88105 - BIDS](https://www.linkedin.com/jobs/view/4452154163/) — University of California, Berkeley
-- 📍 **Location:** Berkeley, CA
+### [Software Engineer [Multiple Positions Available]](https://www.linkedin.com/jobs/view/4452191089/) — JPMorganChase
+- 📍 **Location:** Jersey City, NJ
+- 💰 **Salary:** $151,500.00/yr - $185,000.00/yr
 - 🕒 **Posted:** 2026-08-10
 
-### [Platform Engineer, Infrastructure](https://www.linkedin.com/jobs/view/4434741975/) — Wispr Flow
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $220,000.00/yr - $300,000.00/yr
-- 🕒 **Posted:** 2026-08-10
-
-### [Data Engineer](https://www.linkedin.com/jobs/view/4452159202/) — Ostium
+### [Software Engineer Associate III - Databricks](https://www.linkedin.com/jobs/view/4452188105/) — JPMorganChase
 - 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-08-10
-
-### [Backend Engineer (Pricing, Entity)](https://www.linkedin.com/jobs/view/4452160175/) — Ostium
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-08-10
-
-### [Infrastructure Engineer](https://www.linkedin.com/jobs/view/4452156231/) — Ostium
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-08-10
-
-### [Analytics Engineer](https://www.linkedin.com/jobs/view/4441827850/) — Profound
-- 📍 **Location:** New York, NY
+- 💰 **Salary:** $133,000.00/yr - $185,000.00/yr
 - 🕒 **Posted:** 2026-08-10
