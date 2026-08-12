@@ -1,100 +1,67 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-08-12 01:18 UTC*
+*Last updated: 2026-08-12 02:18 UTC*
 
-**22 new role(s)** since last run · 36 total in last 1h
+**14 new role(s)** since last run · 27 total in last 1h
 
-### [Machine Learning Engineer III - Document Intelligence](https://www.linkedin.com/jobs/view/4453030014/) — Workday
-- 📍 **Location:** Pleasanton, CA
-- 🕒 **Posted:** 2026-08-11
-
-### [Machine Learning Engineer III - Document Intelligence](https://www.linkedin.com/jobs/view/4453007944/) — Workday
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-08-11
-
-### [Software Engineer, Applied AI Infrastructure](https://www.linkedin.com/jobs/view/4451968892/) — Nuro
-- 📍 **Location:** Mountain View, CA
-- 🕒 **Posted:** 2026-08-11
-
-### [Software Engineer, ML Inference Platform](https://www.linkedin.com/jobs/view/4451979623/) — Nuro
-- 📍 **Location:** Mountain View, CA
-- 🕒 **Posted:** 2026-08-11
-
-### [Software Engineer - AI Developer Productivity](https://www.linkedin.com/jobs/view/4453029043/) — Baseten
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $165,000.00/yr - $330,000.00/yr
-- 🕒 **Posted:** 2026-08-11
-
-### [Full Stack Software Engineer, Agent Platform](https://www.linkedin.com/jobs/view/4451980651/) — Mercor
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $130,000.00/yr - $500,000.00/yr
-- 🕒 **Posted:** 2026-08-11
-
-### [Software Engineer - Continuous Delivery](https://www.linkedin.com/jobs/view/4453024957/) — Baseten
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $165,000.00/yr - $330,000.00/yr
-- 🕒 **Posted:** 2026-08-11
-
-### [Software Engineer, ML Infrastructure Platform](https://www.linkedin.com/jobs/view/4451976802/) — Nuro
-- 📍 **Location:** Mountain View, CA
-- 🕒 **Posted:** 2026-08-11
-
-### [Software Engineer - Testing Frameworks](https://www.linkedin.com/jobs/view/4453036067/) — Baseten
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $165,000.00/yr - $330,000.00/yr
-- 🕒 **Posted:** 2026-08-11
-
-### [Software Engineer - Testing Frameworks](https://www.linkedin.com/jobs/view/4453020979/) — Baseten
+### [Research Engineer](https://www.linkedin.com/jobs/view/4098517486/) — Factory
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-08-11
 
-### [Software Engineer - AI Developer Productivity](https://www.linkedin.com/jobs/view/4453036010/) — Baseten
+### [Software Engineer](https://www.linkedin.com/jobs/view/4453012798/) — Jack
+- 📍 **Location:** San Francisco Bay Area
+- 💰 **Salary:** $160,000.00/yr - $210,000.00/yr
+- 🕒 **Posted:** 2026-08-11
+
+### [Software Engineer, Product](https://www.linkedin.com/jobs/view/4453026527/) — Factory
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-08-11
 
-### [Software Engineer - Continuous Delivery](https://www.linkedin.com/jobs/view/4453034022/) — Baseten
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $165,000.00/yr - $330,000.00/yr
-- 🕒 **Posted:** 2026-08-11
-
-### [Software Engineer (New Grad 2026)](https://www.linkedin.com/jobs/view/4451971779/) — Cohesity
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-08-11
-
-### [Software Engineering Intern - Future Pathways](https://www.linkedin.com/jobs/view/4451979660/) — Salesforce
+### [Software Engineer, Fullstack](https://www.linkedin.com/jobs/view/4453045443/) — Factory
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-08-11
 
-### [Cyber Oracle Identity Consultant / Security Engineer II](https://www.linkedin.com/jobs/view/4451982160/) — Deloitte
+### [Associate Software Engineer, Operator Experience](https://www.linkedin.com/jobs/view/4452301246/) — Handshake
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $135.00/yr - $150.00/yr
+- 🕒 **Posted:** 2026-08-11
+
+### [Software Engineer, Strategy Research Analytics](https://www.linkedin.com/jobs/view/4452304137/) — The Voleon Group
+- 📍 **Location:** Berkeley, CA
+- 💰 **Salary:** $230,000.00/yr - $295,000.00/yr
+- 🕒 **Posted:** 2026-08-11
+
+### [Infrastructure Engineer (Cloud)](https://www.linkedin.com/jobs/view/4451973991/) — zaimler
+- 📍 **Location:** San Mateo, CA
+- 🕒 **Posted:** 2026-08-11
+
+### [Software Engineer, Security](https://www.linkedin.com/jobs/view/4453044403/) — Factory
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-08-11
+
+### [Software Engineer](https://www.linkedin.com/jobs/view/4452323277/) — Jack
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-08-11
+
+### [Returning Intern: Software Developer](https://www.linkedin.com/jobs/view/4453028557/) — IBM
 - 📍 **Location:** San Jose, CA
+- 💰 **Salary:** $75,600.00/yr - $166,320.00/yr
 - 🕒 **Posted:** 2026-08-11
 
-### [Cyber Oracle Identity Consultant / Security Engineer II](https://www.linkedin.com/jobs/view/4451968699/) — Deloitte
-- 📍 **Location:** San Francisco, CA
+### [Site Reliability Engineer Intern 2027](https://www.linkedin.com/jobs/view/4453044487/) — IBM
+- 📍 **Location:** San Jose, CA
+- 💰 **Salary:** $75,600.00/yr - $166,320.00/yr
 - 🕒 **Posted:** 2026-08-11
 
-### [Software Engineer - AI Developer Productivity](https://www.linkedin.com/jobs/view/4453019991/) — Baseten
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $165,000.00/yr - $330,000.00/yr
-- 🕒 **Posted:** 2026-08-11
-
-### [Data Engineer](https://www.linkedin.com/jobs/view/4441660422/) — Hedge Fund
+### [AI/ML Engineer](https://www.linkedin.com/jobs/view/4453026572/) — Slalom
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-08-11
 
-### [Software Engineer - Testing Frameworks](https://www.linkedin.com/jobs/view/4453017996/) — Baseten
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $165,000.00/yr - $330,000.00/yr
+### [Software Engineer II](https://www.linkedin.com/jobs/view/4453045454/) — Reality Defender
+- 📍 **Location:** Manhattan, NY
+- 💰 **Salary:** $140,000.00/yr - $180,000.00/yr
 - 🕒 **Posted:** 2026-08-11
 
-### [Data Scientist II](https://www.linkedin.com/jobs/view/4449782601/) — The Council of State Governments
+### [Software Engineer II](https://www.linkedin.com/jobs/view/4453042405/) — Reality Defender
 - 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-08-11
-
-### [Software Engineer - Continuous Delivery](https://www.linkedin.com/jobs/view/4453022961/) — Baseten
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $165,000.00/yr - $330,000.00/yr
-- 🕒 **Posted:** 2026-08-11
-
-### [Cyber Oracle Identity Consultant / Security Engineer II](https://www.linkedin.com/jobs/view/4451959881/) — Deloitte
-- 📍 **Location:** New York, NY
+- 💰 **Salary:** $140,000.00/yr - $180,000.00/yr
 - 🕒 **Posted:** 2026-08-11
