@@ -1,93 +1,47 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-08-12 18:19 UTC*
+*Last updated: 2026-08-12 19:19 UTC*
 
-**21 new role(s)** since last run · 55 total in last 1h
+**10 new role(s)** since last run · 23 total in last 1h
 
-### [AI/ML/MLOps Architect](https://www.linkedin.com/jobs/view/4450161714/) — Resource Logistics Inc.
+### [Machine Learning Engineer - Behavior and Planning](https://www.linkedin.com/jobs/view/4423966480/) — Applied Intuition
+- 📍 **Location:** Sunnyvale, CA
+- 💰 **Salary:** $151,000.00/yr - $258,000.00/yr
+- 🕒 **Posted:** 2026-08-12
+
+### [Research Engineer - AI/RL Infrastructure](https://www.linkedin.com/jobs/view/4423947990/) — Applied Intuition
+- 📍 **Location:** Sunnyvale, CA
+- 💰 **Salary:** $126,000.00/yr - $423,000.00/yr
+- 🕒 **Posted:** 2026-08-12
+
+### [Machine Learning Engineer, Speech LLM Training](https://www.linkedin.com/jobs/view/4452729741/) — Jobright.ai
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-08-12
+
+### [Site Reliability Engineer, Global E-commerce](https://www.linkedin.com/jobs/view/4373325812/) — TikTok
 - 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-08-12
 
-### [Analytics Engineer](https://www.linkedin.com/jobs/view/4453166314/) — Splashtop Inc.
-- 📍 **Location:** Cupertino, CA
-- 💰 **Salary:** $110,000.00/yr - $120,000.00/yr
+### [Software Engineer Intern](https://www.linkedin.com/jobs/view/4452728510/) — Cal Ice Hockey
+- 📍 **Location:** Berkeley, CA
 - 🕒 **Posted:** 2026-08-12
 
-### [Software Engineer, Account Authentication](https://www.linkedin.com/jobs/view/4452715834/) — Roblox
-- 📍 **Location:** San Mateo, CA
-- 🕒 **Posted:** 2026-08-12
-
-### [Vehicle Access Software Developer](https://www.linkedin.com/jobs/view/4452718720/) — Insight Global
-- 📍 **Location:** Palo Alto, CA
-- 💰 **Salary:** $80.00/hr - $90.00/hr
-- 🕒 **Posted:** 2026-08-12
-
-### [Software Engineer](https://www.linkedin.com/jobs/view/4453192247/) — Until
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $120,000.00/yr - $220,000.00/yr
-- 🕒 **Posted:** 2026-08-12
-
-### [Software Engineer, Product Experience](https://www.linkedin.com/jobs/view/4452722893/) — RemoteFront
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-08-12
-
-### [Infrastructure Engineer](https://www.linkedin.com/jobs/view/4452726877/) — Ivo
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $158,000.00/yr - $235,000.00/yr
-- 🕒 **Posted:** 2026-08-12
-
-### [Battery Simulation Software Engineer](https://www.linkedin.com/jobs/view/4452741069/) — OSI Engineering
-- 📍 **Location:** Cupertino, CA
-- 💰 **Salary:** $69.00/hr - $84.00/hr
-- 🕒 **Posted:** 2026-08-12
-
-### [Software Engineer, Android, Level 5](https://www.linkedin.com/jobs/view/4443586847/) — Snap Inc.
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-08-12
-
-### [Software Engineer, Android, Level 5](https://www.linkedin.com/jobs/view/4443583969/) — Snap Inc.
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-08-12
-
-### [Data Engineer](https://www.linkedin.com/jobs/view/4452715904/) — Wipro
-- 📍 **Location:** Fremont, CA
-- 🕒 **Posted:** 2026-08-12
-
-### [Machine Learning Engineer, Causal Inference, Level 5](https://www.linkedin.com/jobs/view/4435340792/) — Snap Inc.
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-08-12
-
-### [Clinical Research Engineer](https://www.linkedin.com/jobs/view/4452731304/) — Noctrix Health, Inc.
-- 📍 **Location:** Pleasanton, CA
-- 🕒 **Posted:** 2026-08-12
-
-### [Applied Scientist, GenAI Catalog Intelligence, PRISM](https://www.linkedin.com/jobs/view/4443700490/) — Amazon
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-08-12
-
-### [R&D Systems Engineer](https://www.linkedin.com/jobs/view/4452724821/) — Cellular Vehicles
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-08-12
-
-### [Applied Scientist, Amazon Selection and Catalog Systems (ASCS)](https://www.linkedin.com/jobs/view/4443707025/) — Amazon
+### [Data Engineer](https://www.linkedin.com/jobs/view/4432693732/) — Courier Health
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-08-12
 
-### [Software Engineer 3, Atlas Identity and Access Management](https://www.linkedin.com/jobs/view/4443531708/) — MongoDB
+### [Analytics EngineerNew
+New York, New York, United States](https://www.linkedin.com/jobs/view/4452724910/) — Investigative Case Management powered by Tapestrii
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-08-12
 
-### [Software Engineer (Trading Automation)](https://www.linkedin.com/jobs/view/4450157735/) — Flow Traders
-- 📍 **Location:** New York, NY
+### [Microsoft Fabric Data Engineer - Remote.](https://www.linkedin.com/jobs/view/4450166765/) — Tachyon Technologies
+- 📍 **Location:** Newark, NJ
 - 🕒 **Posted:** 2026-08-12
 
-### [DevOps Engineer](https://www.linkedin.com/jobs/view/4452707927/) — HireOn Tech
+### [C++ Software Engineer](https://www.linkedin.com/jobs/view/4442989603/) — Tradeweb
 - 📍 **Location:** Jersey City, NJ
 - 🕒 **Posted:** 2026-08-12
 
-### [Data Science and Analytics Specialist](https://www.linkedin.com/jobs/view/4452746010/) — HR&A Advisors
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-08-12
-
-### [ML Research Scientist -Deep Learning & Transformer Architectures](https://www.linkedin.com/jobs/view/4425289010/) — Millennium
+### [Forward Deployed Engineer III, Generative AI, Google Cloud](https://www.linkedin.com/jobs/view/4452731800/) — Google
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-08-12
