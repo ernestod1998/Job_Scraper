@@ -1,24 +1,64 @@
 # 🧬 Biotech LinkedIn — MLE / DS Roles
-*Last updated: 2026-08-11 04:46 UTC*
+*Last updated: 2026-08-12 05:10 UTC*
 
-**5 new role(s)** since last run · 79 total in last 24h
+**16 new role(s)** since last run · 88 total in last 24h
 
-### [Research Scientist, AI](https://job-boards.greenhouse.io/biohub/jobs/7747518) — Chan Zuckerberg Biohub
+### [Computational Biologist, Synthetic Spatial Omics](https://job-boards.greenhouse.io/biohub/jobs/8112693) — Chan Zuckerberg Biohub
 - 📍 **Location:** New York, NY (Hybrid)
+- 🕒 **Posted:** 2026-08-11
+
+### [Research Scientist, AI](https://job-boards.greenhouse.io/biohub/jobs/7793644) — Chan Zuckerberg Biohub
+- 📍 **Location:** Redwood City, CA (Hybrid)
 - 🕒 **Posted:** 2026-06-02
 
-### [Software Engineer, Front End](https://www.linkedin.com/jobs/view/4452181405/) — Meta
-- 📍 **Location:** Menlo Park, CA
-- 🕒 **Posted:** 2026-08-10
+### [Data Scientist](https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Data-Scientist_R-246583) — Amgen
+- 📍 **Location:** United States - Remote
+- 🕒 **Posted:** Posted Today
 
-### [Analytics Engineer](https://www.linkedin.com/jobs/view/4441827850/) — Profound
+### [Bioinformatics Scientist](https://eclipsebio.com/careers#bioinformatics-scientist) — Eclipsebio
+- 📍 **Location:** San Diego, CA
+
+### [Software Engineering (3)](https://www.immunai.com/careers/#software-engineering-3) — Immunai
 - 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-08-10
 
-### [Software Engineer (Technical Leadership)](https://www.linkedin.com/jobs/view/4452185290/) — Meta
+### [Computational Biologist II, External Collaborations](https://www.immunai.com/careers/#computational-biologist-ii-external-collaborations) — Immunai
 - 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-08-10
 
-### [Data Engineer, Product Analytics](https://www.linkedin.com/jobs/view/4120822741/) — Meta
+### [Software Engineering](https://www.immunai.com/careers/#software-engineering) — Immunai
+- 📍 **Location:** New York, NY
+
+### [Software Engineer, Machine Learning](https://www.linkedin.com/jobs/view/4449870306/) — Meta
 - 📍 **Location:** Menlo Park, CA
-- 🕒 **Posted:** 2026-08-10
+- 🕒 **Posted:** 2026-08-11
+
+### [Software Engineer, Systems ML Engineering](https://www.linkedin.com/jobs/view/4440433674/) — Meta
+- 📍 **Location:** Menlo Park, CA
+- 🕒 **Posted:** 2026-08-11
+
+### [Software Engineer, Infrastructure](https://www.linkedin.com/jobs/view/4438496186/) — Meta
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-08-11
+
+### [Software Engineer (Technical Leadership)](https://www.linkedin.com/jobs/view/4449857398/) — Meta
+- 📍 **Location:** Menlo Park, CA
+- 🕒 **Posted:** 2026-08-11
+
+### [Enterprise Systems Engineer](https://www.linkedin.com/jobs/view/4449873104/) — Meta
+- 📍 **Location:** Fremont, CA
+- 🕒 **Posted:** 2026-08-11
+
+### [Production Systems Engineer, AI Systems](https://www.linkedin.com/jobs/view/4431574262/) — Meta
+- 📍 **Location:** Menlo Park, CA
+- 🕒 **Posted:** 2026-08-11
+
+### [Software Engineer, iOS](https://www.linkedin.com/jobs/view/4440439541/) — Meta
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-08-11
+
+### [Infrastructure & Security Engineer](https://www.linkedin.com/jobs/view/4451696059/) — Axle
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-08-11
+
+### [Computational Biologist, Synthetic Spatial Omics](https://www.linkedin.com/jobs/view/4450109110/) — Biohub
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-08-11
