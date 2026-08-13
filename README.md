@@ -64,7 +64,7 @@ The generic `ai engineer` / `ai/ml engineer` lane is deliberately paused; the re
 | `governmentjobs_jobs.json` / `.md` / `.html` | NEOGOV | State/local government results |
 | `calopps_jobs.json` / `.md` / `.html` | CalOpps | California local-agency results |
 | `calcareers_jobs.json` / `.md` / `.html` | CalCareers | California civil-service results |
-| `registry_jobs.json` / `.md` / `.html` | ATS registry pilot | Verified-board shard output; created by a manual registry scrape |
+| `registry_jobs.json` / `.md` / `.html` | ATS registry | Verified-board shard output from the daily registry cycle |
 | `all_jobs.json` | All sources | Canonical 14-day master with `feeds` provenance |
 | `checked_companies.json` | (legacy) | Tracking file from earlier Wikipedia-based discovery |
 
@@ -198,7 +198,7 @@ Biotech and LinkedIn pipelines use only the standard library. The Indeed pipelin
     ├── linkedin_watch.yml          # Hourly :17 PT — general LinkedIn (last 1h, cron-job.org-driven)
     ├── indeed_watch.yml            # Hourly :47 PT — Indeed (last 24h, cron-job.org-driven)
     ├── linkedin_watch_backup.yml   # In-GH watchdog at :33 PT — re-dispatches missed runs
-    ├── registry_watch.yml          # Manual-only ATS registry pilot
+    ├── registry_watch.yml          # Daily ATS registry seed/verify/scrape cycle
     ├── triage.yml                  # Manual-only fit scoring (paused)
     └── evals.yml                   # Manual-only scoring evals (paused)
 ```
@@ -242,9 +242,11 @@ Candidate verification is cursor-bounded. Three consecutive failures produce a
 30-day cooldown. Active boards are split into seven stable shards, successful boards
 with eligible roles are temporarily promoted, and each board establishes its own
 notification-free baseline. Network work is capped at 1,500 HTTP requests or 20
-minutes. `.github/workflows/registry_watch.yml` remains manual-only until the pilot
-meets the parser, geography, and runtime checks; registry jobs are not added to the
-default dashboard source list until that rollout decision.
+minutes. The bounded pilot ran 2026-08-13 and passed the parser, geography, and
+runtime checks, so `.github/workflows/registry_watch.yml` now runs a daily
+seed → verify → scrape cycle (~6:43am PT); manual dispatch still runs a single
+bounded mode. Scraped registry roles merge into `all_jobs.json` under the
+`general` feed, so they appear on the triage dashboard like any other source.
 
 ## Startup discovery & own-site monitoring
 

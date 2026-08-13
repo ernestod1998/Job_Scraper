@@ -1,8 +1,11 @@
-name: ATS Registry Pilot
+name: ATS Registry
 
-# Intentionally manual-only until the bounded pilot satisfies the documented
-# parser, geography, and runtime thresholds. Scheduling is a separate rollout.
+# Pilot ran 2026-08-13 (parser/geography/runtime checks passed); now scheduled
+# daily. A scheduled run does the full seed -> verify -> scrape cycle; manual
+# dispatch still runs a single bounded mode.
 on:
+  schedule:
+    - cron: "43 13 * * *"   # daily ~6:43am PT
   workflow_dispatch:
     inputs:
       mode:
@@ -34,13 +37,13 @@ jobs:
         with:
           python-version: "3.11"
       - name: Seed registry candidates
-        if: inputs.mode == 'seed'
-        run: python discover.py --registry-seeds --write --limit "${{ inputs.limit }}"
+        if: inputs.mode == 'seed' || github.event_name == 'schedule'
+        run: python discover.py --registry-seeds --write --limit "${{ inputs.limit || '200' }}"
       - name: Verify registry candidates
-        if: inputs.mode == 'verify'
-        run: python discover.py --verify-registry --write --limit "${{ inputs.limit }}"
+        if: inputs.mode == 'verify' || github.event_name == 'schedule'
+        run: python discover.py --verify-registry --write --limit "${{ inputs.limit || '150' }}"
       - name: Scrape one registry shard
-        if: inputs.mode == 'scrape'
+        if: inputs.mode == 'scrape' || github.event_name == 'schedule'
         env:
           PUSHOVER_TOKEN: ${{ secrets.PUSHOVER_TOKEN }}
           PUSHOVER_USER: ${{ secrets.PUSHOVER_USER }}
@@ -49,7 +52,7 @@ jobs:
       - name: Run registry unit tests
         run: python test_ats_registry.py
       - name: Commit registry state
-        if: inputs.mode != 'scrape'
+        if: github.event_name == 'workflow_dispatch' && inputs.mode != 'scrape'
         run: |
           git config user.name "ernestod1998"
           git config user.email "61074783+ernestod1998@users.noreply.github.com"
@@ -57,7 +60,7 @@ jobs:
             --message "chore: update ATS registry [$(date -u '+%Y-%m-%d')]" \
             ats_registry.json
       - name: Commit registry jobs and state
-        if: inputs.mode == 'scrape'
+        if: inputs.mode == 'scrape' || github.event_name == 'schedule'
         run: |
           git config user.name "ernestod1998"
           git config user.email "61074783+ernestod1998@users.noreply.github.com"
