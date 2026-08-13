@@ -1,10 +1,4210 @@
 {
   "baseline_complete": false,
-  "boards": {},
+  "boards": {
+    "ashby:baseten": {
+      "ats": "ashby",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Baseten",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "baseten",
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate"
+    },
+    "ashby:blissway": {
+      "ats": "ashby",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Blissway",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "blissway",
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate"
+    },
+    "ashby:camber": {
+      "ats": "ashby",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Camber",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "camber",
+      "sources": [
+        "yc-hiring"
+      ],
+      "status": "candidate"
+    },
+    "ashby:citizen health": {
+      "ats": "ashby",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Citizen Health",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "Citizen Health",
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate"
+    },
+    "ashby:flock safety": {
+      "ats": "ashby",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Flock Safety",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "Flock Safety",
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate"
+    },
+    "ashby:hawkeyeinnovations": {
+      "ats": "ashby",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Hawk-Eye Innovations",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "hawkeyeinnovations",
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate"
+    },
+    "ashby:heidihealth.com.au": {
+      "ats": "ashby",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Heidi Health",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "heidihealth.com.au",
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate"
+    },
+    "ashby:jerry.ai": {
+      "ats": "ashby",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Jerry",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "jerry.ai",
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate"
+    },
+    "ashby:mechanize": {
+      "ats": "ashby",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Mechanize",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "mechanize",
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate"
+    },
+    "ashby:remi": {
+      "ats": "ashby",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Remi",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "remi",
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate"
+    },
+    "ashby:shiftsmart": {
+      "ats": "ashby",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Shiftsmart",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "shiftsmart",
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate"
+    },
+    "ashby:solace": {
+      "ats": "ashby",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Solace Health",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "solace",
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate"
+    },
+    "ashby:the job sauce": {
+      "ats": "ashby",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "The Job Sauce",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "The Job Sauce",
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate"
+    },
+    "greenhouse:1800contacts": {
+      "ats": "greenhouse",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "1-800 Contacts",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "1800contacts",
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate"
+    },
+    "greenhouse:3redpartners": {
+      "ats": "greenhouse",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "3RedPartners",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "3redpartners",
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate"
+    },
+    "greenhouse:accenturefederalservices": {
+      "ats": "greenhouse",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Accenture",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "accenturefederalservices",
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate"
+    },
+    "greenhouse:affirm": {
+      "ats": "greenhouse",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Affirm",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "affirm",
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate"
+    },
+    "greenhouse:alarmcom": {
+      "ats": "greenhouse",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Alarm.com",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "alarmcom",
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate"
+    },
+    "greenhouse:alphataraxia": {
+      "ats": "greenhouse",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Alphataraxia",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "alphataraxia",
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate"
+    },
+    "greenhouse:americaninstitutesforresearch": {
+      "ats": "greenhouse",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "American Institutes for Research",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "americaninstitutesforresearch",
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate"
+    },
+    "greenhouse:applovin": {
+      "ats": "greenhouse",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "AppLovin",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "applovin",
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate"
+    },
+    "greenhouse:assetliving": {
+      "ats": "greenhouse",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Asset Living",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "assetliving",
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate"
+    },
+    "greenhouse:astranis": {
+      "ats": "greenhouse",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Astranis",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "astranis",
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate"
+    },
+    "greenhouse:axiscompany": {
+      "ats": "greenhouse",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Axis Automation",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "axiscompany",
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate"
+    },
+    "greenhouse:axle": {
+      "ats": "greenhouse",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Axle",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "axle",
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate"
+    },
+    "greenhouse:bluelabsanalyticsinc": {
+      "ats": "greenhouse",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "BlueLabs Analytics",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "bluelabsanalyticsinc",
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate"
+    },
+    "greenhouse:cadwell": {
+      "ats": "greenhouse",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Cadwell",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "cadwell",
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate"
+    },
+    "greenhouse:capco": {
+      "ats": "greenhouse",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Capco",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "capco",
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate"
+    },
+    "greenhouse:capitalontap": {
+      "ats": "greenhouse",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Capital on Tap",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "capitalontap",
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate"
+    },
+    "greenhouse:captivation": {
+      "ats": "greenhouse",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Captivation",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "captivation",
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate"
+    },
+    "greenhouse:chicagotradingcampus": {
+      "ats": "greenhouse",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Chicago Trading Company",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "chicagotradingcampus",
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate"
+    },
+    "greenhouse:cottinghambutlerinsuranceservicesinc": {
+      "ats": "greenhouse",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Cottingham & Butler",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "cottinghambutlerinsuranceservicesinc",
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate"
+    },
+    "greenhouse:creatorsworkhere": {
+      "ats": "greenhouse",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Adorama",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "creatorsworkhere",
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate"
+    },
+    "greenhouse:criticalmass": {
+      "ats": "greenhouse",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Critical Mass",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "criticalmass",
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate"
+    },
+    "greenhouse:ctccampusboard": {
+      "ats": "greenhouse",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Chicago Trading Company",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "ctccampusboard",
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate"
+    },
+    "greenhouse:dhpace": {
+      "ats": "greenhouse",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "DH Pace",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "dhpace",
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate"
+    },
+    "greenhouse:drweng": {
+      "ats": "greenhouse",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "DRW",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "drweng",
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate"
+    },
+    "greenhouse:dvtrading": {
+      "ats": "greenhouse",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "DV Trading",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "dvtrading",
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate"
+    },
+    "greenhouse:enova": {
+      "ats": "greenhouse",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Enova",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "enova",
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate"
+    },
+    "greenhouse:figureai": {
+      "ats": "greenhouse",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Figure",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "figureai",
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate"
+    },
+    "greenhouse:fiveringsllc": {
+      "ats": "greenhouse",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Five Rings Capital",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "fiveringsllc",
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate"
+    },
+    "greenhouse:freeformfuturecorp": {
+      "ats": "greenhouse",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Freeform",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "freeformfuturecorp",
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate"
+    },
+    "greenhouse:gallup": {
+      "ats": "greenhouse",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Gallup",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "gallup",
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate"
+    },
+    "greenhouse:goremutualinsurance": {
+      "ats": "greenhouse",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Gore Mutual Insurance",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "goremutualinsurance",
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate"
+    },
+    "greenhouse:graphcore": {
+      "ats": "greenhouse",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Graphcore",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "graphcore",
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate"
+    },
+    "greenhouse:icapitalnetwork": {
+      "ats": "greenhouse",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "iCapital Network",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "icapitalnetwork",
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate"
+    },
+    "greenhouse:industrialelectricmanufacturing": {
+      "ats": "greenhouse",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "IEM",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "industrialelectricmanufacturing",
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate"
+    },
+    "greenhouse:lgelectronics": {
+      "ats": "greenhouse",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "LG Electronics",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "lgelectronics",
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate"
+    },
+    "greenhouse:lucidmotors": {
+      "ats": "greenhouse",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Lucid Motors",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "lucidmotors",
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate"
+    },
+    "greenhouse:mcadams": {
+      "ats": "greenhouse",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "McAdams",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "mcadams",
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate"
+    },
+    "greenhouse:mqreferrals": {
+      "ats": "greenhouse",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Marqeta",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "mqreferrals",
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate"
+    },
+    "greenhouse:mthreerecruitingportal": {
+      "ats": "greenhouse",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "mthree",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "mthreerecruitingportal",
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate"
+    },
+    "greenhouse:mw-tech-grad": {
+      "ats": "greenhouse",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Marshall Wace",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "mw-tech-grad",
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate"
+    },
+    "greenhouse:naughtydog": {
+      "ats": "greenhouse",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "PlayStation",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "naughtydog",
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate"
+    },
+    "greenhouse:oklo": {
+      "ats": "greenhouse",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Oklo",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "oklo",
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate"
+    },
+    "greenhouse:openeye": {
+      "ats": "greenhouse",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "OpenEye",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "openeye",
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate"
+    },
+    "greenhouse:pagerduty": {
+      "ats": "greenhouse",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "PagerDuty",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "pagerduty",
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate"
+    },
+    "greenhouse:patterndata": {
+      "ats": "greenhouse",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Pattern Data",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "patterndata",
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate"
+    },
+    "greenhouse:philliesbaseballoperations": {
+      "ats": "greenhouse",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Major League Baseball",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "philliesbaseballoperations",
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate"
+    },
+    "greenhouse:pinwheelapi": {
+      "ats": "greenhouse",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Pinwheel",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "pinwheelapi",
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate"
+    },
+    "greenhouse:pitchbookdata": {
+      "ats": "greenhouse",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "PitchBook",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "pitchbookdata",
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate"
+    },
+    "greenhouse:renaissancelearning-nam": {
+      "ats": "greenhouse",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Renaissance",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "renaissancelearning-nam",
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate"
+    },
+    "greenhouse:rpa": {
+      "ats": "greenhouse",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "RPA",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "rpa",
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate"
+    },
+    "greenhouse:sayari": {
+      "ats": "greenhouse",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Sayari",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "sayari",
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate"
+    },
+    "greenhouse:spacex": {
+      "ats": "greenhouse",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "SpaceX",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "spacex",
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate"
+    },
+    "greenhouse:sustainabletalent": {
+      "ats": "greenhouse",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Sustainable Talent",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "sustainabletalent",
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate"
+    },
+    "greenhouse:systemstechnologyresearch": {
+      "ats": "greenhouse",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "STR",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "systemstechnologyresearch",
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate"
+    },
+    "greenhouse:tecovas": {
+      "ats": "greenhouse",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Tecovas",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "tecovas",
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate"
+    },
+    "greenhouse:temporaltechnologies": {
+      "ats": "greenhouse",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Temporal Technologies",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "temporaltechnologies",
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate"
+    },
+    "greenhouse:thenewyorktimes": {
+      "ats": "greenhouse",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "The New York Times",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "thenewyorktimes",
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate"
+    },
+    "greenhouse:twitch": {
+      "ats": "greenhouse",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Twitch",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "twitch",
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate"
+    },
+    "greenhouse:versaterm": {
+      "ats": "greenhouse",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Versaterm",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "versaterm",
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate"
+    },
+    "greenhouse:voyagertechnologiesinc": {
+      "ats": "greenhouse",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Voyager Technologies",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "voyagertechnologiesinc",
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate"
+    },
+    "greenhouse:wppmedia": {
+      "ats": "greenhouse",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "WPP Media",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "wppmedia",
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate"
+    },
+    "greenhouse:yext": {
+      "ats": "greenhouse",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Yext",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "yext",
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate"
+    },
+    "lever:agtonomy": {
+      "ats": "lever",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Agtonomy",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "agtonomy",
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate"
+    },
+    "lever:belvederetrading": {
+      "ats": "lever",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Belvedere Trading",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "belvederetrading",
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate"
+    },
+    "lever:bosonai": {
+      "ats": "lever",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Boson Ai",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "bosonai",
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate"
+    },
+    "lever:certik": {
+      "ats": "lever",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Certik",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "certik",
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate"
+    },
+    "lever:cesiumastro": {
+      "ats": "lever",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "CesiumAstro",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "CesiumAstro",
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate"
+    },
+    "lever:luxurypresence": {
+      "ats": "lever",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Luxury Presence",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "luxurypresence",
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate"
+    },
+    "lever:modeln": {
+      "ats": "lever",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Model N",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "modeln",
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate"
+    },
+    "lever:redsox": {
+      "ats": "lever",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Major League Baseball",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "redsox",
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate"
+    },
+    "lever:rws": {
+      "ats": "lever",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "RWS",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "rws",
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate"
+    },
+    "lever:sensortower": {
+      "ats": "lever",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Sensor Tower",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "sensortower",
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate"
+    },
+    "lever:shieldai": {
+      "ats": "lever",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Shield AI",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "shieldai",
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate"
+    },
+    "lever:southwestwater": {
+      "ats": "lever",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "South West Water",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "southwestwater",
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate"
+    },
+    "lever:sprucesystems": {
+      "ats": "lever",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "SpruceID",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "sprucesystems",
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate"
+    },
+    "workday:https://2020companies.wd1.myworkdayjobs.com/wday/cxs/2020companies/external_careers/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "2020 Companies",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://2020companies.wd1.myworkdayjobs.com/wday/cxs/2020companies/external_careers/jobs"
+    },
+    "workday:https://aah.wd5.myworkdayjobs.com/wday/cxs/aah/external/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Advocate Health Care",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://aah.wd5.myworkdayjobs.com/wday/cxs/aah/External/jobs"
+    },
+    "workday:https://abb.wd3.myworkdayjobs.com/wday/cxs/abb/external_career_page/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "ABB",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://abb.wd3.myworkdayjobs.com/wday/cxs/abb/external_career_page/jobs"
+    },
+    "workday:https://abbott.wd5.myworkdayjobs.com/wday/cxs/abbott/abbottcareers2/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Abbott",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://abbott.wd5.myworkdayjobs.com/wday/cxs/abbott/abbottcareers2/jobs"
+    },
+    "workday:https://accenture.wd103.myworkdayjobs.com/wday/cxs/accenture/accenturecareers/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Accenture",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://accenture.wd103.myworkdayjobs.com/wday/cxs/accenture/AccentureCareers/jobs"
+    },
+    "workday:https://activision.wd1.myworkdayjobs.com/wday/cxs/activision/external/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Activision-Blizzard",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://activision.wd1.myworkdayjobs.com/wday/cxs/activision/External/jobs"
+    },
+    "workday:https://adobe.wd5.myworkdayjobs.com/wday/cxs/adobe/external_experienced/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Adobe",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://adobe.wd5.myworkdayjobs.com/wday/cxs/adobe/external_experienced/jobs"
+    },
+    "workday:https://aero.wd5.myworkdayjobs.com/wday/cxs/aero/external/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "The Aerospace Corporation",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://aero.wd5.myworkdayjobs.com/wday/cxs/aero/external/jobs"
+    },
+    "workday:https://aes.wd1.myworkdayjobs.com/wday/cxs/aes/aes_us/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "AES",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://aes.wd1.myworkdayjobs.com/wday/cxs/aes/AES_US/jobs"
+    },
+    "workday:https://ag.wd3.myworkdayjobs.com/wday/cxs/ag/airbus/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Airbus",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://ag.wd3.myworkdayjobs.com/wday/cxs/ag/Airbus/jobs"
+    },
+    "workday:https://agilent.wd5.myworkdayjobs.com/wday/cxs/agilent/agilent_student_careers/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Agilent Technologies",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://agilent.wd5.myworkdayjobs.com/wday/cxs/agilent/Agilent_Student_Careers/jobs"
+    },
+    "workday:https://agiliti.wd5.myworkdayjobs.com/wday/cxs/agiliti/careers/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Agiliti",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://agiliti.wd5.myworkdayjobs.com/wday/cxs/agiliti/careers/jobs"
+    },
+    "workday:https://aig.wd1.myworkdayjobs.com/wday/cxs/aig/aig/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "AIG",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://aig.wd1.myworkdayjobs.com/wday/cxs/aig/aig/jobs"
+    },
+    "workday:https://airliquidehr.wd3.myworkdayjobs.com/wday/cxs/airliquidehr/airgasexternalcareer/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Airgas",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://airliquidehr.wd3.myworkdayjobs.com/wday/cxs/airliquidehr/airgasexternalcareer/jobs"
+    },
+    "workday:https://alation.wd503.myworkdayjobs.com/wday/cxs/alation/externalsite/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Alation",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://alation.wd503.myworkdayjobs.com/wday/cxs/alation/ExternalSite/jobs"
+    },
+    "workday:https://alcon.wd5.myworkdayjobs.com/wday/cxs/alcon/careers_alcon/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Alcon",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://alcon.wd5.myworkdayjobs.com/wday/cxs/alcon/careers_alcon/jobs"
+    },
+    "workday:https://allstate.wd5.myworkdayjobs.com/wday/cxs/allstate/sourcing_event/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Allstate Insurance Company",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://allstate.wd5.myworkdayjobs.com/wday/cxs/allstate/sourcing_event/jobs"
+    },
+    "workday:https://amat.wd1.myworkdayjobs.com/wday/cxs/amat/external/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Applied Materials",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://amat.wd1.myworkdayjobs.com/wday/cxs/amat/External/jobs"
+    },
+    "workday:https://ameresco.wd5.myworkdayjobs.com/wday/cxs/ameresco/ameresco/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Ameresco",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://ameresco.wd5.myworkdayjobs.com/wday/cxs/ameresco/Ameresco/jobs"
+    },
+    "workday:https://americanfidelity.wd5.myworkdayjobs.com/wday/cxs/americanfidelity/external/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "American Fidelity",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://americanfidelity.wd5.myworkdayjobs.com/wday/cxs/americanfidelity/External/jobs"
+    },
+    "workday:https://analogdevices.wd1.myworkdayjobs.com/wday/cxs/analogdevices/external/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Analog Devices",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://analogdevices.wd1.myworkdayjobs.com/wday/cxs/analogdevices/External/jobs"
+    },
+    "workday:https://aoins.wd5.myworkdayjobs.com/wday/cxs/aoins/autoowners/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Auto-Owners Insurance",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://aoins.wd5.myworkdayjobs.com/wday/cxs/aoins/AutoOwners/jobs"
+    },
+    "workday:https://archgroup.wd1.myworkdayjobs.com/wday/cxs/archgroup/careers/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Arch Capital Group",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://archgroup.wd1.myworkdayjobs.com/wday/cxs/archgroup/careers/jobs"
+    },
+    "workday:https://argonne.wd1.myworkdayjobs.com/wday/cxs/argonne/argonne_careers/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Argonne National Laboratory",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://argonne.wd1.myworkdayjobs.com/wday/cxs/argonne/Argonne_Careers/jobs"
+    },
+    "workday:https://asml.wd3.myworkdayjobs.com/wday/cxs/asml/asmlext1/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "ASML",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://asml.wd3.myworkdayjobs.com/wday/cxs/asml/asmlext1/jobs"
+    },
+    "workday:https://astreya.wd5.myworkdayjobs.com/wday/cxs/astreya/life-at-astreya-opportunities/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Astreya",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://astreya.wd5.myworkdayjobs.com/wday/cxs/astreya/life-at-astreya-opportunities/jobs"
+    },
+    "workday:https://att.wd1.myworkdayjobs.com/wday/cxs/att/attgeneral/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "AT&T",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://att.wd1.myworkdayjobs.com/wday/cxs/att/ATTGeneral/jobs"
+    },
+    "workday:https://autodesk.wd1.myworkdayjobs.com/wday/cxs/autodesk/ext/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Autodesk",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://autodesk.wd1.myworkdayjobs.com/wday/cxs/autodesk/Ext/jobs"
+    },
+    "workday:https://avav.wd1.myworkdayjobs.com/wday/cxs/avav/avav/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "AeroVironment",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://avav.wd1.myworkdayjobs.com/wday/cxs/avav/avav/jobs"
+    },
+    "workday:https://awg.wd3.myworkdayjobs.com/wday/cxs/awg/broadbean_external/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Anglian Water",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://awg.wd3.myworkdayjobs.com/wday/cxs/awg/broadbean_external/jobs"
+    },
+    "workday:https://bah.wd1.myworkdayjobs.com/wday/cxs/bah/bah_jobs/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Booz Allen",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://bah.wd1.myworkdayjobs.com/wday/cxs/bah/bah_jobs/jobs"
+    },
+    "workday:https://barnard.wd1.myworkdayjobs.com/wday/cxs/barnard/staff/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Barnard College",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://barnard.wd1.myworkdayjobs.com/wday/cxs/barnard/Staff/jobs"
+    },
+    "workday:https://bbh.wd5.myworkdayjobs.com/wday/cxs/bbh/bbh/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Brown Brothers Harriman",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://bbh.wd5.myworkdayjobs.com/wday/cxs/bbh/BBH/jobs"
+    },
+    "workday:https://bcbst.wd1.myworkdayjobs.com/wday/cxs/bcbst/external/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "BCBST",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://bcbst.wd1.myworkdayjobs.com/wday/cxs/bcbst/External/jobs"
+    },
+    "workday:https://belron.wd3.myworkdayjobs.com/wday/cxs/belron/safelite_careers/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Safelite",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://belron.wd3.myworkdayjobs.com/wday/cxs/belron/Safelite_Careers/jobs"
+    },
+    "workday:https://blackrock.wd1.myworkdayjobs.com/wday/cxs/blackrock/blackrock_professional/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "BlackRock",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://blackrock.wd1.myworkdayjobs.com/wday/cxs/blackrock/BlackRock_Professional/jobs"
+    },
+    "workday:https://blueorigin.wd5.myworkdayjobs.com/wday/cxs/blueorigin/blueorigin/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Blue Origin",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://blueorigin.wd5.myworkdayjobs.com/wday/cxs/blueorigin/blueorigin/jobs"
+    },
+    "workday:https://bnl.wd1.myworkdayjobs.com/wday/cxs/bnl/externa/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Brookhaven Lab",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://bnl.wd1.myworkdayjobs.com/wday/cxs/bnl/externa/jobs"
+    },
+    "workday:https://boeing.wd1.myworkdayjobs.com/wday/cxs/boeing/external_careers/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "The Boeing Company",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://boeing.wd1.myworkdayjobs.com/wday/cxs/boeing/EXTERNAL_CAREERS/jobs"
+    },
+    "workday:https://boydgroup.wd1.myworkdayjobs.com/wday/cxs/boydgroup/boydcareers/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "The Boyd Group",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://boydgroup.wd1.myworkdayjobs.com/wday/cxs/boydgroup/boydcareers/jobs"
+    },
+    "workday:https://brinks.wd5.myworkdayjobs.com/wday/cxs/brinks/brinkscareersus/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Brink",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://brinks.wd5.myworkdayjobs.com/wday/cxs/brinks/brinkscareersus/jobs"
+    },
+    "workday:https://caci.wd1.myworkdayjobs.com/wday/cxs/caci/external/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "CACI",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://caci.wd1.myworkdayjobs.com/wday/cxs/caci/External/jobs"
+    },
+    "workday:https://cadence.wd1.myworkdayjobs.com/wday/cxs/cadence/external_careers/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Cadence Design Systems",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://cadence.wd1.myworkdayjobs.com/wday/cxs/cadence/External_Careers/jobs"
+    },
+    "workday:https://cae.wd3.myworkdayjobs.com/wday/cxs/cae/career/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "CAE",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://cae.wd3.myworkdayjobs.com/wday/cxs/cae/career/jobs"
+    },
+    "workday:https://campaignmonitor.wd5.myworkdayjobs.com/wday/cxs/campaignmonitor/marigold/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Marigold",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://campaignmonitor.wd5.myworkdayjobs.com/wday/cxs/campaignmonitor/marigold/jobs"
+    },
+    "workday:https://campingworld.wd5.myworkdayjobs.com/wday/cxs/campingworld/jobs/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Camping World",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://campingworld.wd5.myworkdayjobs.com/wday/cxs/campingworld/Jobs/jobs"
+    },
+    "workday:https://capitalone.wd12.myworkdayjobs.com/wday/cxs/capitalone/capital_one/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Capital One",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/wday/cxs/capitalone/Capital_One/jobs"
+    },
+    "workday:https://capri.wd1.myworkdayjobs.com/wday/cxs/capri/michael_kors/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Michael Kors",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://capri.wd1.myworkdayjobs.com/wday/cxs/capri/michael_kors/jobs"
+    },
+    "workday:https://cat.wd5.myworkdayjobs.com/wday/cxs/cat/caterpillarcareers/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Caterpillar Inc.",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://cat.wd5.myworkdayjobs.com/wday/cxs/cat/CaterpillarCareers/jobs"
+    },
+    "workday:https://centene.wd5.myworkdayjobs.com/wday/cxs/centene/centene_external/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Centene",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://centene.wd5.myworkdayjobs.com/wday/cxs/centene/Centene_External/jobs"
+    },
+    "workday:https://centrica.wd3.myworkdayjobs.com/wday/cxs/centrica/centrica/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Centrica",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://centrica.wd3.myworkdayjobs.com/wday/cxs/centrica/Centrica/jobs"
+    },
+    "workday:https://cgg.wd103.myworkdayjobs.com/wday/cxs/cgg/viridiencareers/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Viridien",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://cgg.wd103.myworkdayjobs.com/wday/cxs/cgg/viridiencareers/jobs"
+    },
+    "workday:https://chamberlain.wd1.myworkdayjobs.com/wday/cxs/chamberlain/chamberlain_group/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Chamberlain Group",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://chamberlain.wd1.myworkdayjobs.com/wday/cxs/chamberlain/Chamberlain_Group/jobs"
+    },
+    "workday:https://chop.wd5.myworkdayjobs.com/wday/cxs/chop/chopexternalcareers/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Children's Hospital of Philadelphia",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://chop.wd5.myworkdayjobs.com/wday/cxs/chop/CHOPExternalCareers/jobs"
+    },
+    "workday:https://ciena.wd5.myworkdayjobs.com/wday/cxs/ciena/careers/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Ciena",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://ciena.wd5.myworkdayjobs.com/wday/cxs/ciena/Careers/jobs"
+    },
+    "workday:https://cisive.wd108.myworkdayjobs.com/wday/cxs/cisive/cisive/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Cisive",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://cisive.wd108.myworkdayjobs.com/wday/cxs/cisive/Cisive/jobs"
+    },
+    "workday:https://citi.wd5.myworkdayjobs.com/wday/cxs/citi/2/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Citi",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://citi.wd5.myworkdayjobs.com/wday/cxs/citi/2/jobs"
+    },
+    "workday:https://cliftonlarsonallen.wd1.myworkdayjobs.com/wday/cxs/cliftonlarsonallen/cla/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "CliftonLarsonAllen",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://cliftonlarsonallen.wd1.myworkdayjobs.com/wday/cxs/cliftonlarsonallen/CLA/jobs"
+    },
+    "workday:https://cmu.wd5.myworkdayjobs.com/wday/cxs/cmu/cmu/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Carnegie Mellon University",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://cmu.wd5.myworkdayjobs.com/wday/cxs/cmu/cmu/jobs"
+    },
+    "workday:https://cohesity.wd5.myworkdayjobs.com/wday/cxs/cohesity/cohesity_careers/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Cohesity",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://cohesity.wd5.myworkdayjobs.com/wday/cxs/cohesity/Cohesity_Careers/jobs"
+    },
+    "workday:https://comcast.wd5.myworkdayjobs.com/wday/cxs/comcast/comcast_careers/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Comcast",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://comcast.wd5.myworkdayjobs.com/wday/cxs/comcast/Comcast_Careers/jobs"
+    },
+    "workday:https://compass.wd501.myworkdayjobs.com/wday/cxs/compass/radian_external_career_site/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Radian",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://compass.wd501.myworkdayjobs.com/wday/cxs/compass/radian_external_career_site/jobs"
+    },
+    "workday:https://conagrabrands.wd1.myworkdayjobs.com/wday/cxs/conagrabrands/careers_us/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Conagra Brands",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://conagrabrands.wd1.myworkdayjobs.com/wday/cxs/conagrabrands/Careers_US/jobs"
+    },
+    "workday:https://condenast.wd5.myworkdayjobs.com/wday/cxs/condenast/condecareers/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Conde Nast",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://condenast.wd5.myworkdayjobs.com/wday/cxs/condenast/CondeCareers/jobs"
+    },
+    "workday:https://cox.wd1.myworkdayjobs.com/wday/cxs/cox/cox_external_career_site_1/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Cox",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://cox.wd1.myworkdayjobs.com/wday/cxs/cox/Cox_External_Career_Site_1/jobs"
+    },
+    "workday:https://crowe.wd12.myworkdayjobs.com/wday/cxs/crowe/external_careers/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Crowe",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://crowe.wd12.myworkdayjobs.com/wday/cxs/crowe/external_careers/jobs"
+    },
+    "workday:https://csiweb.wd1.myworkdayjobs.com/wday/cxs/csiweb/csi_careers/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Computer Services",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://csiweb.wd1.myworkdayjobs.com/wday/cxs/csiweb/CSI_Careers/jobs"
+    },
+    "workday:https://cvshealth.wd1.myworkdayjobs.com/wday/cxs/cvshealth/private_postings_intern_conversion_only/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "CVS Health",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://cvshealth.wd1.myworkdayjobs.com/wday/cxs/cvshealth/Private_Postings_Intern_Conversion_ONLY/jobs"
+    },
+    "workday:https://dairynet.wd1.myworkdayjobs.com/wday/cxs/dairynet/dpccareers/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Dairyland Power Cooperative",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://dairynet.wd1.myworkdayjobs.com/wday/cxs/dairynet/DPCcareers/jobs"
+    },
+    "workday:https://danaher.wd1.myworkdayjobs.com/wday/cxs/danaher/danaherjobs/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Danaher Corporation",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://danaher.wd1.myworkdayjobs.com/wday/cxs/danaher/danaherjobs/jobs"
+    },
+    "workday:https://daveandbusters.wd1.myworkdayjobs.com/wday/cxs/daveandbusters/dave_and_busters_careers/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Dave & Busters",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://daveandbusters.wd1.myworkdayjobs.com/wday/cxs/daveandbusters/dave_and_busters_careers/jobs"
+    },
+    "workday:https://davita.wd1.myworkdayjobs.com/wday/cxs/davita/dkc_external/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "DaVita",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://davita.wd1.myworkdayjobs.com/wday/cxs/davita/DKC_External/jobs"
+    },
+    "workday:https://dell.wd1.myworkdayjobs.com/wday/cxs/dell/external/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Dell Technologies",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://dell.wd1.myworkdayjobs.com/wday/cxs/dell/External/jobs"
+    },
+    "workday:https://disney.wd5.myworkdayjobs.com/wday/cxs/disney/disneycareer/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "The Walt Disney Company",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://disney.wd5.myworkdayjobs.com/wday/cxs/disney/disneycareer/jobs"
+    },
+    "workday:https://dmainc.wd5.myworkdayjobs.com/wday/cxs/dmainc/dma/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "DuCharme, McMillen & Associates",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://dmainc.wd5.myworkdayjobs.com/wday/cxs/dmainc/dma/jobs"
+    },
+    "workday:https://draftkings.wd1.myworkdayjobs.com/wday/cxs/draftkings/draftkings/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "DraftKings",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://draftkings.wd1.myworkdayjobs.com/wday/cxs/draftkings/draftkings/jobs"
+    },
+    "workday:https://draper.wd5.myworkdayjobs.com/wday/cxs/draper/draper_careers/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Draper",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://draper.wd5.myworkdayjobs.com/wday/cxs/draper/Draper_Careers/jobs"
+    },
+    "workday:https://dtna.wd5.myworkdayjobs.com/wday/cxs/dtna/dtna_external/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Daimler Truck",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://dtna.wd5.myworkdayjobs.com/wday/cxs/dtna/DTNA_external/jobs"
+    },
+    "workday:https://empower.wd12.myworkdayjobs.com/wday/cxs/empower/empower/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Empower",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://empower.wd12.myworkdayjobs.com/wday/cxs/empower/empower/jobs"
+    },
+    "workday:https://entegris.wd1.myworkdayjobs.com/wday/cxs/entegris/entegriscareers/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Entegris",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://entegris.wd1.myworkdayjobs.com/wday/cxs/entegris/entegriscareers/jobs"
+    },
+    "workday:https://erm.wd3.myworkdayjobs.com/wday/cxs/erm/erm_careers/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "ERM",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://erm.wd3.myworkdayjobs.com/wday/cxs/erm/ERM_Careers/jobs"
+    },
+    "workday:https://etsy.wd5.myworkdayjobs.com/wday/cxs/etsy/etsy_careers/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Etsy",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://etsy.wd5.myworkdayjobs.com/wday/cxs/etsy/Etsy_Careers/jobs"
+    },
+    "workday:https://factset.wd108.myworkdayjobs.com/wday/cxs/factset/factsetcareers/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "FactSet",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://factset.wd108.myworkdayjobs.com/wday/cxs/factset/FactSetCareers/jobs"
+    },
+    "workday:https://fanniemae.wd1.myworkdayjobs.com/wday/cxs/fanniemae/fanniemaecareers/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Fannie Mae",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://fanniemae.wd1.myworkdayjobs.com/wday/cxs/fanniemae/FannieMaeCareers/jobs"
+    },
+    "workday:https://ffin.wd1.myworkdayjobs.com/wday/cxs/ffin/first_financial_bank/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "First Financial Bank",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://ffin.wd1.myworkdayjobs.com/wday/cxs/ffin/First_Financial_Bank/jobs"
+    },
+    "workday:https://fis.wd5.myworkdayjobs.com/wday/cxs/fis/searchjobs/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Fidelity National Information Services",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://fis.wd5.myworkdayjobs.com/wday/cxs/fis/searchjobs/jobs"
+    },
+    "workday:https://fiserv.wd5.myworkdayjobs.com/wday/cxs/fiserv/ext/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Fiserv",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://fiserv.wd5.myworkdayjobs.com/wday/cxs/fiserv/ext/jobs"
+    },
+    "workday:https://flir.wd1.myworkdayjobs.com/wday/cxs/flir/flircareers/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Teledyne",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://flir.wd1.myworkdayjobs.com/wday/cxs/flir/flircareers/jobs"
+    },
+    "workday:https://flowserve.wd1.myworkdayjobs.com/wday/cxs/flowserve/applied/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Flowserve",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://flowserve.wd1.myworkdayjobs.com/wday/cxs/flowserve/applied/jobs"
+    },
+    "workday:https://fmr.wd1.myworkdayjobs.com/wday/cxs/fmr/fidelitycareers/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Fidelity Investments",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://fmr.wd1.myworkdayjobs.com/wday/cxs/fmr/fidelitycareers/jobs"
+    },
+    "workday:https://fourseasons.wd3.myworkdayjobs.com/wday/cxs/fourseasons/search/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Four Seasons",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://fourseasons.wd3.myworkdayjobs.com/wday/cxs/fourseasons/search/jobs"
+    },
+    "workday:https://geaerospace.wd5.myworkdayjobs.com/wday/cxs/geaerospace/ge_externalsite/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "GE Aerospace",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://geaerospace.wd5.myworkdayjobs.com/wday/cxs/geaerospace/ge_externalsite/jobs"
+    },
+    "workday:https://gehc.wd5.myworkdayjobs.com/wday/cxs/gehc/gehc_externalsite/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "GE Healthcare",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://gehc.wd5.myworkdayjobs.com/wday/cxs/gehc/GEHC_ExternalSite/jobs"
+    },
+    "workday:https://genpt.wd1.myworkdayjobs.com/wday/cxs/genpt/careers/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Genuine Parts Company",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://genpt.wd1.myworkdayjobs.com/wday/cxs/genpt/Careers/jobs"
+    },
+    "workday:https://georgetown.wd1.myworkdayjobs.com/wday/cxs/georgetown/georgetown_admin_careers/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Georgetown University",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://georgetown.wd1.myworkdayjobs.com/wday/cxs/georgetown/Georgetown_Admin_Careers/jobs"
+    },
+    "workday:https://gevernova.wd5.myworkdayjobs.com/wday/cxs/gevernova/only_confidential_executive_recruiting/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "GE Vernova",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://gevernova.wd5.myworkdayjobs.com/wday/cxs/gevernova/only_confidential_executive_recruiting/jobs"
+    },
+    "workday:https://global.wd1.myworkdayjobs.com/wday/cxs/global/globalpartnerscareers/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Global Partners",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://global.wd1.myworkdayjobs.com/wday/cxs/global/globalpartnerscareers/jobs"
+    },
+    "workday:https://globalfoundries.wd1.myworkdayjobs.com/wday/cxs/globalfoundries/external/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "GlobalFoundries",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://globalfoundries.wd1.myworkdayjobs.com/wday/cxs/globalfoundries/External/jobs"
+    },
+    "workday:https://globalhr.wd5.myworkdayjobs.com/wday/cxs/globalhr/rec_rtx_ext_gateway/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "RTX",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://globalhr.wd5.myworkdayjobs.com/wday/cxs/globalhr/rec_rtx_ext_gateway/jobs"
+    },
+    "workday:https://gtsgbu.wd3.myworkdayjobs.com/wday/cxs/gtsgbu/careers/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Hitachi",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://gtsgbu.wd3.myworkdayjobs.com/wday/cxs/gtsgbu/Careers/jobs"
+    },
+    "workday:https://harriscomputer.wd3.myworkdayjobs.com/wday/cxs/harriscomputer/1/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Harris Computer",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://harriscomputer.wd3.myworkdayjobs.com/wday/cxs/harriscomputer/1/jobs"
+    },
+    "workday:https://hcmportal.wd5.myworkdayjobs.com/wday/cxs/hcmportal/search/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "United Parcel Service (UPS)",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://hcmportal.wd5.myworkdayjobs.com/wday/cxs/hcmportal/Search/jobs"
+    },
+    "workday:https://healthplanone.wd1.myworkdayjobs.com/wday/cxs/healthplanone/hpone/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Health Plan One",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://healthplanone.wd1.myworkdayjobs.com/wday/cxs/healthplanone/hpone/jobs"
+    },
+    "workday:https://healthresearch.wd1.myworkdayjobs.com/wday/cxs/healthresearch/hri_careers/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Health Research",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://healthresearch.wd1.myworkdayjobs.com/wday/cxs/healthresearch/hri_careers/jobs"
+    },
+    "workday:https://highmarkhealth.wd1.myworkdayjobs.com/wday/cxs/highmarkhealth/highmark/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Highmark Health",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://highmarkhealth.wd1.myworkdayjobs.com/wday/cxs/highmarkhealth/highmark/jobs"
+    },
+    "workday:https://hpe.wd5.myworkdayjobs.com/wday/cxs/hpe/jobsathpe/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Hewlett Packard Enterprise",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://hpe.wd5.myworkdayjobs.com/wday/cxs/hpe/Jobsathpe/jobs"
+    },
+    "workday:https://huron.wd1.myworkdayjobs.com/wday/cxs/huron/huroncareers/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Huron",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://huron.wd1.myworkdayjobs.com/wday/cxs/huron/huroncareers/jobs"
+    },
+    "workday:https://ibotta.wd1.myworkdayjobs.com/wday/cxs/ibotta/ibotta/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "ibotta",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://ibotta.wd1.myworkdayjobs.com/wday/cxs/ibotta/Ibotta/jobs"
+    },
+    "workday:https://icf.wd5.myworkdayjobs.com/wday/cxs/icf/icfexternal_career_site/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "ICF International",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://icf.wd5.myworkdayjobs.com/wday/cxs/icf/icfexternal_career_site/jobs"
+    },
+    "workday:https://idexcorp.wd5.myworkdayjobs.com/wday/cxs/idexcorp/idex_careers/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "IDEX",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://idexcorp.wd5.myworkdayjobs.com/wday/cxs/idexcorp/idex_careers/jobs"
+    },
+    "workday:https://integritymarketing.wd1.myworkdayjobs.com/wday/cxs/integritymarketing/integrity/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Integrity",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://integritymarketing.wd1.myworkdayjobs.com/wday/cxs/integritymarketing/Integrity/jobs"
+    },
+    "workday:https://jabil.wd5.myworkdayjobs.com/wday/cxs/jabil/jabil_careers/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Jabil",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://jabil.wd5.myworkdayjobs.com/wday/cxs/jabil/Jabil_Careers/jobs"
+    },
+    "workday:https://jci.wd5.myworkdayjobs.com/wday/cxs/jci/jci/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Johnson Controls",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://jci.wd5.myworkdayjobs.com/wday/cxs/jci/JCI/jobs"
+    },
+    "workday:https://jda.wd5.myworkdayjobs.com/wday/cxs/jda/university/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Blue Yonder",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://jda.wd5.myworkdayjobs.com/wday/cxs/jda/university/jobs"
+    },
+    "workday:https://jll.wd1.myworkdayjobs.com/wday/cxs/jll/jllcareers/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Jones Lang LaSalle (JLL)",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://jll.wd1.myworkdayjobs.com/wday/cxs/jll/jllcareers/jobs"
+    },
+    "workday:https://kbi.wd5.myworkdayjobs.com/wday/cxs/kbi/kontoor/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Kontoor Brands",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://kbi.wd5.myworkdayjobs.com/wday/cxs/kbi/Kontoor/jobs"
+    },
+    "workday:https://kbr.wd5.myworkdayjobs.com/wday/cxs/kbr/kbr_careers/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "KBR",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://kbr.wd5.myworkdayjobs.com/wday/cxs/kbr/KBR_Careers/jobs"
+    },
+    "workday:https://kiongroup.wd3.myworkdayjobs.com/wday/cxs/kiongroup/kion_scs/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Dematic",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://kiongroup.wd3.myworkdayjobs.com/wday/cxs/kiongroup/kion_scs/jobs"
+    },
+    "workday:https://kla.wd1.myworkdayjobs.com/wday/cxs/kla/search/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "KLA Corporation",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://kla.wd1.myworkdayjobs.com/wday/cxs/kla/search/jobs"
+    },
+    "workday:https://leidos.wd5.myworkdayjobs.com/wday/cxs/leidos/external/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Leidos",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://leidos.wd5.myworkdayjobs.com/wday/cxs/leidos/External/jobs"
+    },
+    "workday:https://lennar.wd1.myworkdayjobs.com/wday/cxs/lennar/lennar_jobs/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Lennar Corporation",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://lennar.wd1.myworkdayjobs.com/wday/cxs/lennar/Lennar_Jobs/jobs"
+    },
+    "workday:https://likewize.wd1.myworkdayjobs.com/wday/cxs/likewize/external/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Likewize",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://likewize.wd1.myworkdayjobs.com/wday/cxs/likewize/External/jobs"
+    },
+    "workday:https://lsu.wd1.myworkdayjobs.com/wday/cxs/lsu/lsu/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Louisiana State University (LSU)",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://lsu.wd1.myworkdayjobs.com/wday/cxs/lsu/LSU/jobs"
+    },
+    "workday:https://manulife.wd3.myworkdayjobs.com/wday/cxs/manulife/mfcjh_jobs/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Manulife Financial",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://manulife.wd3.myworkdayjobs.com/wday/cxs/manulife/MFCJH_Jobs/jobs"
+    },
+    "workday:https://markelcorp.wd5.myworkdayjobs.com/wday/cxs/markelcorp/globalcareers/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Markel Group, Inc.",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://markelcorp.wd5.myworkdayjobs.com/wday/cxs/markelcorp/GlobalCareers/jobs"
+    },
+    "workday:https://marvell.wd1.myworkdayjobs.com/wday/cxs/marvell/marvellcareers/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Marvell",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://marvell.wd1.myworkdayjobs.com/wday/cxs/marvell/MarvellCareers/jobs"
+    },
+    "workday:https://marvell.wd1.myworkdayjobs.com/wday/cxs/marvell/marvellcareers2/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Marvell",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://marvell.wd1.myworkdayjobs.com/wday/cxs/marvell/MarvellCareers2/jobs"
+    },
+    "workday:https://massgeneralbrigham.wd1.myworkdayjobs.com/wday/cxs/massgeneralbrigham/mgbexternal/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Mass General Brigham",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://massgeneralbrigham.wd1.myworkdayjobs.com/wday/cxs/massgeneralbrigham/mgbexternal/jobs"
+    },
+    "workday:https://mastercard.wd1.myworkdayjobs.com/wday/cxs/mastercard/corporatecareers/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Mastercard",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://mastercard.wd1.myworkdayjobs.com/wday/cxs/mastercard/CorporateCareers/jobs"
+    },
+    "workday:https://maxar.wd1.myworkdayjobs.com/wday/cxs/maxar/vantor/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Vantor",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://maxar.wd1.myworkdayjobs.com/wday/cxs/maxar/Vantor/jobs"
+    },
+    "workday:https://mcgill.wd3.myworkdayjobs.com/wday/cxs/mcgill/mcgill_careers/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "McGill University",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://mcgill.wd3.myworkdayjobs.com/wday/cxs/mcgill/McGill_Careers/jobs"
+    },
+    "workday:https://mckesson.wd3.myworkdayjobs.com/wday/cxs/mckesson/external_careers/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "McKesson",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://mckesson.wd3.myworkdayjobs.com/wday/cxs/mckesson/External_Careers/jobs"
+    },
+    "workday:https://medimpact.wd5.myworkdayjobs.com/wday/cxs/medimpact/medimpact/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "MedImpact",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://medimpact.wd5.myworkdayjobs.com/wday/cxs/medimpact/medimpact/jobs"
+    },
+    "workday:https://medline.wd5.myworkdayjobs.com/wday/cxs/medline/medline/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Medline",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://medline.wd5.myworkdayjobs.com/wday/cxs/medline/Medline/jobs"
+    },
+    "workday:https://medtronic.wd1.myworkdayjobs.com/wday/cxs/medtronic/redeploymentmedtroniccareers/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Medtronic",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://medtronic.wd1.myworkdayjobs.com/wday/cxs/medtronic/redeploymentmedtroniccareers/jobs"
+    },
+    "workday:https://mmc.wd1.myworkdayjobs.com/wday/cxs/mmc/mmc/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Marsh",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://mmc.wd1.myworkdayjobs.com/wday/cxs/mmc/mmc/jobs"
+    },
+    "workday:https://moog.wd5.myworkdayjobs.com/wday/cxs/moog/moog_external_career_site/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Moog",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://moog.wd5.myworkdayjobs.com/wday/cxs/moog/moog_external_career_site/jobs"
+    },
+    "workday:https://motorolasolutions.wd5.myworkdayjobs.com/wday/cxs/motorolasolutions/careers/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Motorola",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://motorolasolutions.wd5.myworkdayjobs.com/wday/cxs/motorolasolutions/Careers/jobs"
+    },
+    "workday:https://mufgub.wd3.myworkdayjobs.com/wday/cxs/mufgub/mufg-careers/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "MUFG",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://mufgub.wd3.myworkdayjobs.com/wday/cxs/mufgub/mufg-careers/jobs"
+    },
+    "workday:https://multicare.wd1.myworkdayjobs.com/wday/cxs/multicare/multicare/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "MultiCare Health System",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://multicare.wd1.myworkdayjobs.com/wday/cxs/multicare/multicare/jobs"
+    },
+    "workday:https://nasdaq.wd1.myworkdayjobs.com/wday/cxs/nasdaq/global_external_site/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Nasdaq",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://nasdaq.wd1.myworkdayjobs.com/wday/cxs/nasdaq/Global_External_Site/jobs"
+    },
+    "workday:https://ngc.wd1.myworkdayjobs.com/wday/cxs/ngc/northrop_grumman_external_site/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Northrop Grumman",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://ngc.wd1.myworkdayjobs.com/wday/cxs/ngc/Northrop_Grumman_External_Site/jobs"
+    },
+    "workday:https://niagarawater.wd5.myworkdayjobs.com/wday/cxs/niagarawater/niagara/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Niagara Bottling",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://niagarawater.wd5.myworkdayjobs.com/wday/cxs/niagarawater/niagara/jobs"
+    },
+    "workday:https://nike.wd1.myworkdayjobs.com/wday/cxs/nike/nke/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Nike",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://nike.wd1.myworkdayjobs.com/wday/cxs/nike/nke/jobs"
+    },
+    "workday:https://nordstrom.wd501.myworkdayjobs.com/wday/cxs/nordstrom/nordstrom_careers/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Nordstrom",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://nordstrom.wd501.myworkdayjobs.com/wday/cxs/nordstrom/nordstrom_careers/jobs"
+    },
+    "workday:https://nrel.wd5.myworkdayjobs.com/wday/cxs/nrel/nrel/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "National Renewable Energy Laboratory",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://nrel.wd5.myworkdayjobs.com/wday/cxs/nrel/nrel/jobs"
+    },
+    "workday:https://nvidia.wd5.myworkdayjobs.com/wday/cxs/nvidia/nvidiaexternalcareersite/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "NVIDIA",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/wday/cxs/nvidia/NVIDIAExternalCareerSite/jobs"
+    },
+    "workday:https://nxp.wd3.myworkdayjobs.com/wday/cxs/nxp/careers/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "NXP Semiconductors",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://nxp.wd3.myworkdayjobs.com/wday/cxs/nxp/careers/jobs"
+    },
+    "workday:https://ochsner.wd1.myworkdayjobs.com/wday/cxs/ochsner/ochsner/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Ochsner Health System",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://ochsner.wd1.myworkdayjobs.com/wday/cxs/ochsner/ochsner/jobs"
+    },
+    "workday:https://oclc.wd1.myworkdayjobs.com/wday/cxs/oclc/oclc_careers/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "OCLC",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://oclc.wd1.myworkdayjobs.com/wday/cxs/oclc/OCLC_Careers/jobs"
+    },
+    "workday:https://okgov.wd1.myworkdayjobs.com/wday/cxs/okgov/okgovjobs/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Oklahoma State Government",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://okgov.wd1.myworkdayjobs.com/wday/cxs/okgov/okgovjobs/jobs"
+    },
+    "workday:https://onehealthineers.wd3.myworkdayjobs.com/wday/cxs/onehealthineers/shsjb/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Varian",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://onehealthineers.wd3.myworkdayjobs.com/wday/cxs/onehealthineers/SHSJB/jobs"
+    },
+    "workday:https://onto.wd1.myworkdayjobs.com/wday/cxs/onto/onto_careers/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Onto Innovation",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://onto.wd1.myworkdayjobs.com/wday/cxs/onto/onto_careers/jobs"
+    },
+    "workday:https://oshkoshcorporation.wd5.myworkdayjobs.com/wday/cxs/oshkoshcorporation/oshkosh/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Oshkosh",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/wday/cxs/oshkoshcorporation/Oshkosh/jobs"
+    },
+    "workday:https://osu.wd1.myworkdayjobs.com/wday/cxs/osu/osucareers/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Ohio State University",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://osu.wd1.myworkdayjobs.com/wday/cxs/osu/OSUCareers/jobs"
+    },
+    "workday:https://osv-chegg.wd5.myworkdayjobs.com/wday/cxs/osv-chegg/chegg/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Chegg",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://osv-chegg.wd5.myworkdayjobs.com/wday/cxs/osv-chegg/Chegg/jobs"
+    },
+    "workday:https://pae.wd1.myworkdayjobs.com/wday/cxs/pae/amentum_careers/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Amentum",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://pae.wd1.myworkdayjobs.com/wday/cxs/pae/amentum_careers/jobs"
+    },
+    "workday:https://parsons.wd5.myworkdayjobs.com/wday/cxs/parsons/search/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Parsons",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://parsons.wd5.myworkdayjobs.com/wday/cxs/parsons/search/jobs"
+    },
+    "workday:https://peak6group.wd1.myworkdayjobs.com/wday/cxs/peak6group/apexfintechsolutions/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Apex Fintech Solutions",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://peak6group.wd1.myworkdayjobs.com/wday/cxs/peak6group/apexfintechsolutions/jobs"
+    },
+    "workday:https://pfizer.wd1.myworkdayjobs.com/wday/cxs/pfizer/pfizercareers/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Pfizer",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://pfizer.wd1.myworkdayjobs.com/wday/cxs/pfizer/PfizerCareers/jobs"
+    },
+    "workday:https://pnc.wd5.myworkdayjobs.com/wday/cxs/pnc/external/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "PNC Financial Services",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://pnc.wd5.myworkdayjobs.com/wday/cxs/pnc/External/jobs"
+    },
+    "workday:https://ppg.wd5.myworkdayjobs.com/wday/cxs/ppg/ppg_careers/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "PPG Industries",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://ppg.wd5.myworkdayjobs.com/wday/cxs/ppg/PPG_CAREERS/jobs"
+    },
+    "workday:https://prysmiangroup.wd3.myworkdayjobs.com/wday/cxs/prysmiangroup/careers/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Prysmian Cables & Systems",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://prysmiangroup.wd3.myworkdayjobs.com/wday/cxs/prysmiangroup/careers/jobs"
+    },
+    "workday:https://psu.wd1.myworkdayjobs.com/wday/cxs/psu/psu_staff/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "PennState University",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://psu.wd1.myworkdayjobs.com/wday/cxs/psu/PSU_Staff/jobs"
+    },
+    "workday:https://pureinsurance.wd5.myworkdayjobs.com/wday/cxs/pureinsurance/pure/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "PURE Insurance",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://pureinsurance.wd5.myworkdayjobs.com/wday/cxs/pureinsurance/pure/jobs"
+    },
+    "workday:https://q2ebanking.wd5.myworkdayjobs.com/wday/cxs/q2ebanking/q2/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Q2",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://q2ebanking.wd5.myworkdayjobs.com/wday/cxs/q2ebanking/Q2/jobs"
+    },
+    "workday:https://rb.wd5.myworkdayjobs.com/wday/cxs/rb/frs/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "The Federal Reserve System",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://rb.wd5.myworkdayjobs.com/wday/cxs/rb/FRS/jobs"
+    },
+    "workday:https://rbc.wd3.myworkdayjobs.com/wday/cxs/rbc/rbcglobal1/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Royal Bank of Canada",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://rbc.wd3.myworkdayjobs.com/wday/cxs/rbc/rbcglobal1/jobs"
+    },
+    "workday:https://relx.wd3.myworkdayjobs.com/wday/cxs/relx/elsevierjobs/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Elsevier",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://relx.wd3.myworkdayjobs.com/wday/cxs/relx/ElsevierJobs/jobs"
+    },
+    "workday:https://relx.wd3.myworkdayjobs.com/wday/cxs/relx/risksolutions/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "LexisNexis Risk Solutions",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://relx.wd3.myworkdayjobs.com/wday/cxs/relx/RiskSolutions/jobs"
+    },
+    "workday:https://rgare.wd1.myworkdayjobs.com/wday/cxs/rgare/careers/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "RGA Reinsurance Company",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://rgare.wd1.myworkdayjobs.com/wday/cxs/rgare/Careers/jobs"
+    },
+    "workday:https://rockwellautomation.wd1.myworkdayjobs.com/wday/cxs/rockwellautomation/external_rockwell_automation/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Rockwell Automation",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://rockwellautomation.wd1.myworkdayjobs.com/wday/cxs/rockwellautomation/External_Rockwell_Automation/jobs"
+    },
+    "workday:https://rogersbh.wd1.myworkdayjobs.com/wday/cxs/rogersbh/rbhcareer/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Rogers Behavioral Health",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://rogersbh.wd1.myworkdayjobs.com/wday/cxs/rogersbh/rbhcareer/jobs"
+    },
+    "workday:https://rollsroyce.wd3.myworkdayjobs.com/wday/cxs/rollsroyce/intern_graduate/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Rolls-Royce",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://rollsroyce.wd3.myworkdayjobs.com/wday/cxs/rollsroyce/Intern_Graduate/jobs"
+    },
+    "workday:https://salesforce.wd12.myworkdayjobs.com/wday/cxs/salesforce/external_career_site/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Salesforce",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://salesforce.wd12.myworkdayjobs.com/wday/cxs/salesforce/External_Career_Site/jobs"
+    },
+    "workday:https://sanofi.wd3.myworkdayjobs.com/wday/cxs/sanofi/sanoficareers/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Sanofi",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://sanofi.wd3.myworkdayjobs.com/wday/cxs/sanofi/SanofiCareers/jobs"
+    },
+    "workday:https://sbdinc.wd1.myworkdayjobs.com/wday/cxs/sbdinc/stanley_black_decker_career_site/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Stanley Black & Decker",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://sbdinc.wd1.myworkdayjobs.com/wday/cxs/sbdinc/Stanley_Black_Decker_Career_Site/jobs"
+    },
+    "workday:https://sentryinsurance.wd1.myworkdayjobs.com/wday/cxs/sentryinsurance/sentrycareers/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Sentry Insurance",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://sentryinsurance.wd1.myworkdayjobs.com/wday/cxs/sentryinsurance/SentryCareers/jobs"
+    },
+    "workday:https://shipt.wd1.myworkdayjobs.com/wday/cxs/shipt/shipt_external/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Shipt",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://shipt.wd1.myworkdayjobs.com/wday/cxs/shipt/Shipt_External/jobs"
+    },
+    "workday:https://smithnephew.wd5.myworkdayjobs.com/wday/cxs/smithnephew/external/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Smith+Nephew",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://smithnephew.wd5.myworkdayjobs.com/wday/cxs/smithnephew/External/jobs"
+    },
+    "workday:https://snc.wd1.myworkdayjobs.com/wday/cxs/snc/snc_external_career_site/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Sierra Nevada Corporation",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://snc.wd1.myworkdayjobs.com/wday/cxs/snc/snc_external_career_site/jobs"
+    },
+    "workday:https://snyk.wd103.myworkdayjobs.com/wday/cxs/snyk/external/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Snyk",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://snyk.wd103.myworkdayjobs.com/wday/cxs/snyk/External/jobs"
+    },
+    "workday:https://spgi.wd5.myworkdayjobs.com/wday/cxs/spgi/spgi_careers/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "S&P Global",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://spgi.wd5.myworkdayjobs.com/wday/cxs/spgi/SPGI_Careers/jobs"
+    },
+    "workday:https://spgi.wd5.myworkdayjobs.com/wday/cxs/spgi/spgi_internal/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "S&P Global",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://spgi.wd5.myworkdayjobs.com/wday/cxs/spgi/spgi_internal/jobs"
+    },
+    "workday:https://stryker.wd1.myworkdayjobs.com/wday/cxs/stryker/strykercareers/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Stryker",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://stryker.wd1.myworkdayjobs.com/wday/cxs/stryker/StrykerCareers/jobs"
+    },
+    "workday:https://tamus.wd1.myworkdayjobs.com/wday/cxs/tamus/pvamu_external/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Prairie View A&M University",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://tamus.wd1.myworkdayjobs.com/wday/cxs/tamus/pvamu_external/jobs"
+    },
+    "workday:https://tcenergy.wd3.myworkdayjobs.com/wday/cxs/tcenergy/career_site_tc/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "TC Energy",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://tcenergy.wd3.myworkdayjobs.com/wday/cxs/tcenergy/CAREER_SITE_TC/jobs"
+    },
+    "workday:https://td.wd3.myworkdayjobs.com/wday/cxs/td/td_bank_careers/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "TD Bank",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://td.wd3.myworkdayjobs.com/wday/cxs/td/TD_Bank_Careers/jobs"
+    },
+    "workday:https://thermofisher.wd5.myworkdayjobs.com/wday/cxs/thermofisher/thermofishercareers/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Thermo Fisher Scientific",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://thermofisher.wd5.myworkdayjobs.com/wday/cxs/thermofisher/ThermoFisherCareers/jobs"
+    },
+    "workday:https://thomsonreuters.wd5.myworkdayjobs.com/wday/cxs/thomsonreuters/external_career_site/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Thomson Reuters",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://thomsonreuters.wd5.myworkdayjobs.com/wday/cxs/thomsonreuters/External_Career_Site/jobs"
+    },
+    "workday:https://tmobile.wd1.myworkdayjobs.com/wday/cxs/tmobile/external/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "T-Mobile",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://tmobile.wd1.myworkdayjobs.com/wday/cxs/tmobile/External/jobs"
+    },
+    "workday:https://travelers.wd5.myworkdayjobs.com/wday/cxs/travelers/external/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "The Travelers Companies",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://travelers.wd5.myworkdayjobs.com/wday/cxs/travelers/External/jobs"
+    },
+    "workday:https://trendmicro.wd3.myworkdayjobs.com/wday/cxs/trendmicro/external/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Trend Micro",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://trendmicro.wd3.myworkdayjobs.com/wday/cxs/trendmicro/External/jobs"
+    },
+    "workday:https://trimble.wd1.myworkdayjobs.com/wday/cxs/trimble/trimblecareers/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Trimble",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://trimble.wd1.myworkdayjobs.com/wday/cxs/trimble/TrimbleCareers/jobs"
+    },
+    "workday:https://tti.wd1.myworkdayjobs.com/wday/cxs/tti/milwaukee/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Milwaukee Tool",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://tti.wd1.myworkdayjobs.com/wday/cxs/tti/Milwaukee/jobs"
+    },
+    "workday:https://tti.wd1.myworkdayjobs.com/wday/cxs/tti/tti_pe/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Techtronic Industries",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://tti.wd1.myworkdayjobs.com/wday/cxs/tti/tti_pe/jobs"
+    },
+    "workday:https://uchicago.wd5.myworkdayjobs.com/wday/cxs/uchicago/external/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "University of Chicago",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://uchicago.wd5.myworkdayjobs.com/wday/cxs/uchicago/External/jobs"
+    },
+    "workday:https://uhaul.wd1.myworkdayjobs.com/wday/cxs/uhaul/uhauljobs/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Uhaul",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://uhaul.wd1.myworkdayjobs.com/wday/cxs/uhaul/UhaulJobs/jobs"
+    },
+    "workday:https://uline.wd1.myworkdayjobs.com/wday/cxs/uline/uline_careers/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Uline",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://uline.wd1.myworkdayjobs.com/wday/cxs/uline/Uline_Careers/jobs"
+    },
+    "workday:https://ultra.wd3.myworkdayjobs.com/wday/cxs/ultra/ultra-careers/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Ultra",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://ultra.wd3.myworkdayjobs.com/wday/cxs/ultra/ultra-careers/jobs"
+    },
+    "workday:https://unilever.wd3.myworkdayjobs.com/wday/cxs/unilever/unilever_experienced_professionals/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Unilever",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://unilever.wd3.myworkdayjobs.com/wday/cxs/unilever/Unilever_Experienced_Professionals/jobs"
+    },
+    "workday:https://usaa.wd1.myworkdayjobs.com/wday/cxs/usaa/usaajobswd/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "USAA",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://usaa.wd1.myworkdayjobs.com/wday/cxs/usaa/USAAJOBSWD/jobs"
+    },
+    "workday:https://usbank.wd1.myworkdayjobs.com/wday/cxs/usbank/us_bank_careers/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "U.S. Bank",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://usbank.wd1.myworkdayjobs.com/wday/cxs/usbank/US_Bank_Careers/jobs"
+    },
+    "workday:https://usc.wd5.myworkdayjobs.com/wday/cxs/usc/externalusccareers/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "University of Southern California",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://usc.wd5.myworkdayjobs.com/wday/cxs/usc/ExternalUSCCareers/jobs"
+    },
+    "workday:https://utaustin.wd1.myworkdayjobs.com/wday/cxs/utaustin/utstaff/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "University of Texas - Austin",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://utaustin.wd1.myworkdayjobs.com/wday/cxs/utaustin/UTstaff/jobs"
+    },
+    "workday:https://vareximaging.wd103.myworkdayjobs.com/wday/cxs/vareximaging/external_career_site/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Varex Imaging Corporation",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://vareximaging.wd103.myworkdayjobs.com/wday/cxs/vareximaging/External_Career_Site/jobs"
+    },
+    "workday:https://walmart.wd5.myworkdayjobs.com/wday/cxs/walmart/walmartexternal/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Walmart",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://walmart.wd5.myworkdayjobs.com/wday/cxs/walmart/WalmartExternal/jobs"
+    },
+    "workday:https://warnerbros.wd5.myworkdayjobs.com/wday/cxs/warnerbros/global/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Warner Bros.",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://warnerbros.wd5.myworkdayjobs.com/wday/cxs/warnerbros/global/jobs"
+    },
+    "workday:https://welocalize.wd1.myworkdayjobs.com/wday/cxs/welocalize/welocalize/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Welocalize",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://welocalize.wd1.myworkdayjobs.com/wday/cxs/welocalize/welocalize/jobs"
+    },
+    "workday:https://wgu.wd5.myworkdayjobs.com/wday/cxs/wgu/external/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "WGU",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://wgu.wd5.myworkdayjobs.com/wday/cxs/wgu/External/jobs"
+    },
+    "workday:https://wmeimg.wd1.myworkdayjobs.com/wday/cxs/wmeimg/endeavor/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "WME Group",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://wmeimg.wd1.myworkdayjobs.com/wday/cxs/wmeimg/endeavor/jobs"
+    },
+    "workday:https://wustl.wd1.myworkdayjobs.com/wday/cxs/wustl/external/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Wash U",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://wustl.wd1.myworkdayjobs.com/wday/cxs/wustl/external/jobs"
+    }
+  },
   "cursors": {
     "candidates": 0,
     "discovery_prefix": 0,
-    "yc_companies": 0,
     "shards": {
       "0": 0,
       "1": 0,
@@ -13,7 +4213,8 @@
       "4": 0,
       "5": 0,
       "6": 0
-    }
+    },
+    "yc_companies": 0
   },
   "schema_version": 1
 }
