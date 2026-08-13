@@ -68,6 +68,18 @@ check('feeds and ats refresh cached records',
   /const REFRESHABLE = \[[^\]]*'feeds'[^\]]*'ats'[^\]]*\]/.test(html));
 check('Direct ATS source facet is present', /\['LinkedIn', 'Biotech', 'Direct ATS'/.test(html));
 
+const repairBiotechSourceCollision = new Function(
+  'jobFeeds',
+  `${extractFunction(html, 'repairBiotechSourceCollision')}; return repairBiotechSourceCollision;`,
+)(j => Array.isArray(j.feeds) ? j.feeds : []);
+const staleMeta = repairBiotechSourceCollision({ company: 'Meta', feeds: ['general', 'biotech'] });
+const staleOura = repairBiotechSourceCollision({ company: 'ŌURA', feeds: ['biotech'] });
+const realBiotech = repairBiotechSourceCollision({ company: 'Metagenomi', feeds: ['biotech'] });
+check('cached Meta loses only false biotech provenance',
+  staleMeta.feeds.length === 1 && staleMeta.feeds[0] === 'general');
+check('cached short-name collision loses false biotech provenance', !staleOura.feeds);
+check('real biotech provenance survives cache repair', realBiotech.feeds[0] === 'biotech');
+
 const { mergeJobCaches } = new Function(
   `${extractFunction(html, 'mergeJobCaches')}; return { mergeJobCaches };`
 )();

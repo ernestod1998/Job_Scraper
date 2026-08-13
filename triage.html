@@ -1507,10 +1507,22 @@
   // scrape_jobs.py) or older than 30 days. Anything saved/applied/dismissed
   // is kept — that's the user's triage history.
   const EXCLUDED_TITLE_RE = /\b(senior|sr|staff|principal|distinguished|founding|lead|manager|director|vice president|vp|svp|chief|head\s+of)\b/i;
+  function repairBiotechSourceCollision(j) {
+    const company = String(j.company || '').normalize('NFKD')
+      .replace(/[\u0300-\u036f]/g, '').replace(/[^a-z0-9]/gi, '').toLowerCase();
+    // These were admitted by the retired bidirectional substring matcher
+    // (Meta→Metagenomi/Metabolic, ŌURA/Compass→longer biotech names).
+    if (!['meta', 'oura', 'compass'].includes(company)) return j;
+    const feeds = jobFeeds(j).filter(f => f !== 'biotech');
+    if (feeds.length) j.feeds = feeds;
+    else delete j.feeds;
+    return j;
+  }
   function pruneState() {
     const cutoff = Date.now() - 30 * 86400000;
     const before = state.jobs.length;
     state.jobs = state.jobs.filter(j => {
+      repairBiotechSourceCollision(j);
       if (tri(j.url)) return true;   // tri(), not truthiness — a tombstone is an object
       if (EXCLUDED_TITLE_RE.test(j.title || '')) return false;
       const t = jobFreshMs(j);

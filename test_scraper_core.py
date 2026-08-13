@@ -22,6 +22,13 @@ def role(url="https://example.com/job/1", **overrides):
 
 
 class RoleAndLocationPolicy(unittest.TestCase):
+    def test_biotech_company_matching_is_exact_not_substring_based(self):
+        self.assertFalse(sj._is_biotech_company("Meta"))
+        self.assertFalse(sj._is_biotech_company("Meta Platforms, Inc."))
+        self.assertTrue(sj._is_biotech_company("Metagenomi"))
+        self.assertTrue(sj._is_biotech_company("Genentech, Inc."))
+        self.assertTrue(sj._is_biotech_company("Buck Institute for Research on Aging"))
+
     def test_seniority_veto_is_word_bounded(self):
         for prefix in ("Senior", "Sr", "Sr.", "Lead", "Manager", "Staff", "Principal"):
             self.assertFalse(sj.is_mle_role(f"{prefix} Machine Learning Engineer"), prefix)
@@ -172,6 +179,29 @@ class RetrievalPolicy(unittest.TestCase):
 
 
 class RefilterCommand(unittest.TestCase):
+    def test_biotech_repair_removes_meta_but_keeps_its_general_provenance(self):
+        meta = role("https://x/meta", company="Meta", feeds=["biotech"])
+        metagenomi = role(
+            "https://x/metagenomi", company="Metagenomi", feeds=["biotech"])
+        with tempfile.TemporaryDirectory() as tmp:
+            with open(os.path.join(tmp, "discovered_companies.json"), "w") as f:
+                json.dump([{"name": "Metagenomi"}], f)
+            with open(os.path.join(tmp, "jobs.json"), "w") as f:
+                json.dump({"jobs": [meta, metagenomi], "new_jobs": [meta, metagenomi]}, f)
+            with open(os.path.join(tmp, "all_jobs.json"), "w") as f:
+                master_meta = dict(meta, feeds=["general", "biotech"])
+                json.dump({"jobs": [master_meta, metagenomi]}, f)
+            with patch.object(sj, "SCRIPT_DIR", tmp):
+                sj._BIOTECH_UNION_CACHE.clear()
+                sj.repair_biotech_company_provenance(write=True)
+            with open(os.path.join(tmp, "jobs.json")) as f:
+                biotech = json.load(f)["jobs"]
+            with open(os.path.join(tmp, "all_jobs.json")) as f:
+                master = json.load(f)["jobs"]
+        self.assertEqual([j["company"] for j in biotech], ["Metagenomi"])
+        self.assertEqual([j["company"] for j in master], ["Meta", "Metagenomi"])
+        self.assertEqual(master[0]["feeds"], ["general"])
+
     def test_preview_is_read_only_and_write_preserves_first_seen(self):
         with tempfile.TemporaryDirectory() as tmp:
             path = os.path.join(tmp, "all_jobs.json")

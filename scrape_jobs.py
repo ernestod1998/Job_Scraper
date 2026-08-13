@@ -1091,11 +1091,31 @@ BIOTECH_COMPANY_NAMES = [
     "CRISPR Therapeutics",
     # Bay Area biotech & life-sci research
     "Verily Life Sciences", "Calico Life Sciences", "Synthego",
-    "Buck Institute", "Chan Zuckerberg Biohub", "Chan Zuckerberg Initiative",
+    "Buck Institute", "Buck Institute for Research on Aging",
+    "Chan Zuckerberg Biohub", "Chan Zuckerberg Initiative",
 ]
 
+_COMPANY_LEGAL_SUFFIXES = frozenset({
+    "co", "company", "corp", "corporation", "inc", "incorporated",
+    "llc", "limited", "ltd", "plc",
+})
+
+
+def _normalize_company_name(name: str) -> str:
+    """Canonical company identity without punctuation or legal suffixes.
+
+    Matching must stay exact after normalization. Bidirectional substring
+    matching made short names unsafe: ``Meta`` matched ``Metagenomi`` and
+    ``Metabolic Psychiatry Labs`` and was consequently labeled biotech.
+    """
+    words = re.findall(r'[a-z0-9]+', (name or "").lower())
+    while words and words[-1] in _COMPANY_LEGAL_SUFFIXES:
+        words.pop()
+    return "".join(words)
+
+
 BIOTECH_COMPANY_ALLOWLIST = frozenset(
-    re.sub(r'[^a-z0-9]', '', n.lower()) for n in BIOTECH_COMPANY_NAMES
+    _normalize_company_name(n) for n in BIOTECH_COMPANY_NAMES
 )
 _BIOTECH_UNION_CACHE: dict[str, frozenset[str]] = {}
 
@@ -1107,7 +1127,7 @@ def _biotech_company_union() -> frozenset[str]:
         return cached
     names = set(BIOTECH_COMPANY_ALLOWLIST)
     for entry in list(CURATED_BIOTECHS) + _load_discovered_companies():
-        norm = re.sub(r'[^a-z0-9]', '', str(entry.get("name", "")).lower())
+        norm = _normalize_company_name(str(entry.get("name", "")))
         if norm:
             names.add(norm)
     result = frozenset(names)
@@ -1116,10 +1136,8 @@ def _biotech_company_union() -> frozenset[str]:
 
 
 def _is_biotech_company(name: str) -> bool:
-    norm = re.sub(r'[^a-z0-9]', '', (name or "").lower())
-    if not norm:
-        return False
-    return any(b in norm or norm in b for b in _biotech_company_union())
+    norm = _normalize_company_name(name)
+    return bool(norm) and norm in _biotech_company_union()
 
 
 def _parse_linkedin_cards(html: str) -> tuple[list[dict], list[str]]:
@@ -2514,9 +2532,9 @@ def _refilter_master_jobs(jobs: list[dict], biotech_identities: set[str] | None 
     accepted: list[dict] = []
     totals = {key: 0 for key in FILTER_STAT_KEYS}
     for job in jobs:
+        ident = _job_identity(str(job.get("url", "") or ""))
         feeds = [f for f in job.get("feeds", []) if f in {"general", "biotech"}]
         if not feeds:
-            ident = _job_identity(str(job.get("url", "") or ""))
             is_biotech = (
                 ident in (biotech_identities or set())
                 or _is_biotech_company(job.get("company", ""))
@@ -2525,6 +2543,11 @@ def _refilter_master_jobs(jobs: list[dict], biotech_identities: set[str] | None 
         surviving: set[str] = set()
         reasons: list[str] = []
         for feed in feeds:
+            if (feed == "biotech"
+                    and ident not in (biotech_identities or set())
+                    and not _is_biotech_company(job.get("company", ""))):
+                reasons.append("company")
+                continue
             candidate = dict(job)
             candidate["feed"] = feed
             candidate["feeds"] = []
@@ -2540,6 +2563,71 @@ def _refilter_master_jobs(jobs: list[dict], biotech_identities: set[str] | None 
         elif reasons:
             totals[reasons[0]] += 1
     return accepted, totals
+
+
+def repair_biotech_company_provenance(*, write: bool = False) -> dict:
+    """Remove non-biotech companies from the biotech digest/provenance only.
+
+    General-feed observations are preserved. This deliberately does not run
+    the broader seniority, role, or location migration.
+    """
+    jobs_path = os.path.join(SCRIPT_DIR, "jobs.json")
+    master_path = os.path.join(SCRIPT_DIR, "all_jobs.json")
+    with open(jobs_path) as f:
+        payload = json.load(f)
+
+    before_jobs = payload.get("jobs", [])
+    biotech_jobs = [
+        j for j in before_jobs if _is_biotech_company(j.get("company", ""))
+    ]
+    payload["jobs"] = biotech_jobs
+    payload["total"] = len(biotech_jobs)
+    if isinstance(payload.get("new_jobs"), list):
+        payload["new_jobs"] = [
+            j for j in payload["new_jobs"]
+            if _is_biotech_company(j.get("company", ""))
+        ]
+        payload["new_count"] = len(payload["new_jobs"])
+
+    valid_biotech_ids = {
+        _job_identity(str(j.get("url", "") or "")) for j in biotech_jobs
+    }
+    valid_biotech_ids.discard("")
+    with open(master_path) as f:
+        master = json.load(f)
+    repaired_master: list[dict] = []
+    provenance_removed = master_rows_removed = 0
+    for original in master.get("jobs", []):
+        job = dict(original)
+        feeds = [f for f in job.get("feeds", []) if f in {"general", "biotech"}]
+        if "biotech" in feeds:
+            ident = _job_identity(str(job.get("url", "") or ""))
+            if ident not in valid_biotech_ids and not _is_biotech_company(job.get("company", "")):
+                feeds.remove("biotech")
+                provenance_removed += 1
+        if original.get("feeds") and not feeds:
+            master_rows_removed += 1
+            continue
+        if feeds:
+            job["feeds"] = sorted(set(feeds))
+        repaired_master.append(job)
+    master["jobs"] = repaired_master
+
+    result = {
+        "biotech_jobs_before": len(before_jobs),
+        "biotech_jobs_after": len(biotech_jobs),
+        "biotech_jobs_removed": len(before_jobs) - len(biotech_jobs),
+        "master_biotech_tags_removed": provenance_removed,
+        "master_rows_removed": master_rows_removed,
+    }
+    print(("✍️" if write else "🔎"), "Biotech company provenance:", result)
+    if write:
+        with open(jobs_path, "w") as f:
+            json.dump(payload, f, indent=2)
+        _rewrite_refilter_companions("jobs", payload)
+        with open(master_path, "w") as f:
+            json.dump(master, f, separators=(",", ":"))
+    return result
 
 
 def refilter_existing_outputs(*, write: bool = False) -> dict:
@@ -2565,14 +2653,22 @@ def refilter_existing_outputs(*, write: bool = False) -> dict:
         jobs, _rejected, stats = _filter_job_observations(
             original_jobs, default_feed=default_feed)
         if default_feed == "biotech":
+            company_count = len(jobs)
+            jobs = [j for j in jobs if _is_biotech_company(j.get("company", ""))]
+            stats["company"] += company_count - len(jobs)
             biotech_identities.update(
-                _job_identity(str(j.get("url", "") or "")) for j in original_jobs
+                _job_identity(str(j.get("url", "") or "")) for j in jobs
             )
             biotech_identities.discard("")
         original_new = payload.get("new_jobs")
         if isinstance(original_new, list):
             new_jobs, _r, _s = _filter_job_observations(
                 original_new, default_feed=default_feed)
+            if default_feed == "biotech":
+                new_jobs = [
+                    j for j in new_jobs
+                    if _is_biotech_company(j.get("company", ""))
+                ]
             payload["new_jobs"] = new_jobs
             payload["new_count"] = len(new_jobs)
         payload["jobs"] = jobs
@@ -2616,6 +2712,10 @@ def refilter_existing_outputs(*, write: bool = False) -> dict:
 # ---------------------------------------------------------------------------
 
 if __name__ == "__main__":
+    if "--repair-biotech-company-provenance" in sys.argv:
+        repair_biotech_company_provenance(write="--write" in sys.argv)
+        sys.exit(0)
+
     if "--refilter-existing" in sys.argv:
         refilter_existing_outputs(write="--write" in sys.argv)
         sys.exit(0)
