@@ -1,38 +1,60 @@
 # 🟦 Indeed — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-08-13 00:12 UTC*
+*Last updated: 2026-08-13 03:13 UTC*
 
-**7 new role(s)** since last run · 110 total in last 24h
+**12 new role(s)** since last run · 107 total in last 24h
 
-### [AI Scientist](https://www.indeed.com/viewjob?jk=d4743ee81678fe7e) — U.S. Bank
-- 📍 **Location:** San Francisco, CA, US
-- 💰 **Salary:** $139k–$164k/yr
+### [ML Systems Engineer](https://www.indeed.com/viewjob?jk=40407e389a360940) — General Motors (GM)
+- 📍 **Location:** Sunnyvale, CA, US
+- 💰 **Salary:** $90k–$192k/yr
 - 🕒 **Posted:** 2026-08-12
 
-### [Software Engineer II, Backend Full Stack - HR Product](https://www.indeed.com/viewjob?jk=2ed040093a3600a7) — Rippling
+### [Machine Learning Engineer](https://www.indeed.com/viewjob?jk=28b3082ef24eda4a) — Unknown
 - 📍 **Location:** San Francisco, CA, US
-- 💰 **Salary:** $152k–$225k/yr
+- 💰 **Salary:** $200k–$350k/yr
 - 🕒 **Posted:** 2026-08-12
 
-### [Multi-Cloud CDN Scheduling Platform Engineer Graduate (CDN Platform) - 2027 Start](https://www.indeed.com/viewjob?jk=f3a5927ae034364b) — ByteDance
+### [Software Engineer (Production Informatics)](https://www.indeed.com/viewjob?jk=208f61c313b5f998) — Predicine, Inc.
+- 📍 **Location:** Hayward, CA, US
+- 🕒 **Posted:** 2026-08-12
+
+### [Software Engineer – Cloud Infrastructure](https://www.indeed.com/viewjob?jk=ea7efea2ba71b685) — FriendliAI
+- 📍 **Location:** San Francisco, CA, US
+- 🕒 **Posted:** 2026-08-12
+
+### [Backend Engineer, Flag Delivery](https://www.indeed.com/viewjob?jk=4302e2f280044934) — LaunchDarkly
+- 📍 **Location:** Oakland, CA, US
+- 💰 **Salary:** $146k–$235k/yr
+- 🕒 **Posted:** 2026-08-12
+
+### [Associate Software Engineer](https://www.indeed.com/viewjob?jk=5de8e5ad51c16074) — UL Solutions
+- 📍 **Location:** Fremont, CA, US
+- 💰 **Salary:** $84k–$93k/yr
+- 🕒 **Posted:** 2026-08-12
+
+### [Cyber Oracle Identity Consultant / Security Engineer II](https://www.indeed.com/viewjob?jk=245b30c1e286806b) — Deloitte
+- 📍 **Location:** San Francisco, CA, US
+- 💰 **Salary:** $83k–$163k/yr
+- 🕒 **Posted:** 2026-08-12
+
+### [Cyber Oracle Identity Consultant / Security Engineer II](https://www.indeed.com/viewjob?jk=e132b4bb86f08605) — Deloitte
 - 📍 **Location:** San Jose, CA, US
-- 💰 **Salary:** $128k–$317k/yr
+- 💰 **Salary:** $83k–$163k/yr
 - 🕒 **Posted:** 2026-08-12
 
-### [Data Engineer](https://www.indeed.com/viewjob?jk=15b7cd0c2b62b936) — JSR Tech Consulting
-- 📍 **Location:** Newark, NJ, US
+### [Computational Biologist](https://www.indeed.com/viewjob?jk=0c12a6e270a2c8ba) — Rippling
+- 📍 **Location:** Palo Alto, CA, US
 - 🕒 **Posted:** 2026-08-12
 
-### [Data Science and Analytics Specialist](https://www.indeed.com/viewjob?jk=2311504346d9f799) — HR&A Advisors
+### [DevOps](https://www.indeed.com/viewjob?jk=0a912254bb299cd1) — ECI
 - 📍 **Location:** New York, NY, US
-- 💰 **Salary:** $83k–$99k/yr
 - 🕒 **Posted:** 2026-08-12
 
-### [Software Engineer II, Backend Full Stack - HR Product](https://www.indeed.com/viewjob?jk=ca9a4f1e8beb4f66) — Rippling
+### [Software Engineer, Connected Fleet & Operations](https://www.indeed.com/viewjob?jk=b8e07a9a4114c158) — Landline Company
 - 📍 **Location:** New York, NY, US
-- 💰 **Salary:** $152k–$225k/yr
+- 💰 **Salary:** $100k–$120k/yr
 - 🕒 **Posted:** 2026-08-12
 
-### [Data Engineer - Knowledge Graph](https://www.indeed.com/viewjob?jk=8267ad6e293adc75) — Point72
+### [Cyber Oracle Identity Consultant / Security Engineer II](https://www.indeed.com/viewjob?jk=dac53d2b331ddc3d) — Deloitte
 - 📍 **Location:** New York, NY, US
-- 💰 **Salary:** $200k–$300k/yr
+- 💰 **Salary:** $83k–$163k/yr
 - 🕒 **Posted:** 2026-08-12
