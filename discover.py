@@ -370,9 +370,15 @@ def _registry_main(argv: list) -> int | None:
         return 2
     loaded = ats_registry.load_registry()
     registry = loaded if write else ats_registry.copy_for_preview(loaded)
-    # Discovery is intentionally much smaller than a normal registry scrape:
-    # at most six default HTTP requests plus the opt-in Common Crawl fallback.
-    client = ats_registry.BoundedClient(max_requests=12, max_seconds=120)
+    if seed:
+        # Discovery is intentionally much smaller than a normal registry
+        # scrape: at most six default HTTP requests plus the opt-in Common
+        # Crawl fallback.
+        client = ats_registry.BoundedClient(max_requests=12, max_seconds=120)
+    else:
+        # Verification costs one request per candidate, so it gets the full
+        # registry budget; --limit remains the effective per-run bound.
+        client = ats_registry.BoundedClient()
     if seed:
         result = ats_registry.seed_registry(
             registry,
