@@ -1,5 +1,5 @@
 # 🏛 NEOGOV — State & Local Government Roles
-*Last updated: 2026-08-13 17:17 UTC*
+*Last updated: 2026-08-14 17:15 UTC*
 
 **0 new role(s)** since last run · 0 total in recent GovernmentJobs postings
 
