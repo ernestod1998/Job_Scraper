@@ -1,77 +1,68 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-08-14 22:18 UTC*
+*Last updated: 2026-08-14 23:18 UTC*
 
-**17 new role(s)** since last run · 36 total in last 1h
+**16 new role(s)** since last run · 29 total in last 1h
 
-### [Full Stack Engineer](https://www.linkedin.com/jobs/view/4451285044/) — ITCO Solutions, Inc.
+### [Software Engineer III, AI/ML, Chronicle Streaming Detections](https://www.linkedin.com/jobs/view/4453740005/) — Google
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-08-14
+
+### [Infrastructure Software Engineer, Fleet & Automation](https://www.linkedin.com/jobs/view/4454807297/) — Nscale
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-08-14
 
-### [Test software engineer](https://www.linkedin.com/jobs/view/4453733604/) — IMCS Group
+### [Test software engineer(LabVIEW, Matlab, Python, and C#)](https://www.linkedin.com/jobs/view/4453747010/) — Programmers.io
 - 📍 **Location:** Sunnyvale, CA
 - 🕒 **Posted:** 2026-08-14
 
-### [(USA) Software Engineer III](https://www.linkedin.com/jobs/view/4451285137/) — Walmart
-- 📍 **Location:** Sunnyvale, CA
-- 💰 **Salary:** $117,000.00/yr - $234,000.00/yr
-- 🕒 **Posted:** 2026-08-14
-
-### [(USA) Data Scientist III](https://www.linkedin.com/jobs/view/4451289075/) — Walmart
-- 📍 **Location:** Sunnyvale, CA
-- 💰 **Salary:** $117,000.00/yr - $234,000.00/yr
-- 🕒 **Posted:** 2026-08-14
-
-### [(USA) Data Scientist III](https://www.linkedin.com/jobs/view/4451290014/) — Walmart
-- 📍 **Location:** Sunnyvale, CA
-- 💰 **Salary:** $117,000.00/yr - $234,000.00/yr
-- 🕒 **Posted:** 2026-08-14
-
-### [Machine Learning Engineer, GPU Kernel and Runtime](https://www.linkedin.com/jobs/view/4453717866/) — Waymo
-- 📍 **Location:** Mountain View, CA
-- 🕒 **Posted:** 2026-08-14
-
-### [NodeJS Backend Software Developer](https://www.linkedin.com/jobs/view/4451265780/) — UST
+### [Software Engineer III, Mobile, Android, XR](https://www.linkedin.com/jobs/view/4453725992/) — Google
 - 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-08-14
 
-### [Software Engineer, New Grad (Dec 2026)](https://www.linkedin.com/jobs/view/4454805111/) — Notion
+### [DevOps Engineer](https://www.linkedin.com/jobs/view/4453749184/) — Garuda Ventures
+- 📍 **Location:** Palo Alto, CA
+- 🕒 **Posted:** 2026-08-14
+
+### [Software Engineer, Deployment Infrastructure](https://www.linkedin.com/jobs/view/4343003573/) — Vercel
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-08-14
 
-### [Software Engineer Intern (Summer 2027)](https://www.linkedin.com/jobs/view/4454592847/) — Notion
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-08-14
-
-### [(USA) Data Scientist III](https://www.linkedin.com/jobs/view/4451287118/) — Walmart
-- 📍 **Location:** Sunnyvale, CA
-- 💰 **Salary:** $117,000.00/yr - $234,000.00/yr
-- 🕒 **Posted:** 2026-08-14
-
-### [Software Engineer Graduate (Ads Infra) - 2027 Start](https://www.linkedin.com/jobs/view/4453715831/) — TikTok
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-08-14
-
-### [R&D Software Engineer, Scientific Instrumentation](https://www.linkedin.com/jobs/view/4454590482/) — Agilent Technologies
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-08-14
-
-### [Data Engineer / Data Analyst / Data Architect (Must Need Legal Technology exp)](https://www.linkedin.com/jobs/view/4454817045/) — PTR Global
-- 📍 **Location:** Sunnyvale, CA
-- 💰 **Salary:** $70.00/hr - $75.00/hr
-- 🕒 **Posted:** 2026-08-14
-
-### [Software Engineer Intern (Winter 2027)](https://www.linkedin.com/jobs/view/4454590868/) — Notion
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-08-14
-
-### [Systems Engineer](https://www.linkedin.com/jobs/view/4454800569/) — ALTEN Technology USA
-- 📍 **Location:** Berkeley, CA
-- 🕒 **Posted:** 2026-08-14
-
-### [Global Markets Internal Audit Data Scientist](https://www.linkedin.com/jobs/view/4453712884/) — Nomura
+### [Machine Learning Software Engineer 1](https://www.linkedin.com/jobs/view/4454826247/) — Crowe
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-08-14
 
-### [Network Systems Engineer (Pre-Sales) - NYC](https://www.linkedin.com/jobs/view/4453724858/) — Arista Networks
+### [Software Engineer 3](https://www.linkedin.com/jobs/view/4453747026/) — The Farmer's Dog
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-08-14
+
+### [Software Engineer III, Infrastructure, Platforms Infrastructure Engineering](https://www.linkedin.com/jobs/view/4453721979/) — Google
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-08-14
+
+### [Software Engineer](https://www.linkedin.com/jobs/view/4429147804/) — Candid
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-08-14
+
+### [Infrastructure Software Engineer, Fleet & Automation](https://www.linkedin.com/jobs/view/4454815189/) — Nscale
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-08-14
+
+### [Machine Learning Engineer](https://www.linkedin.com/jobs/view/4454826250/) — Crowe
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-08-14
+
+### [Cloud Engineer III, Falcon Exposure Management (Hybrid)](https://www.linkedin.com/jobs/view/4451275366/) — CrowdStrike
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-08-14
+
+### [Security Engineer, Android Product Security](https://www.linkedin.com/jobs/view/4453726920/) — Google
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-08-14
+
+### [Applied Data Science Specialist](https://www.linkedin.com/jobs/view/4421164446/) — Child Mind Institute
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-08-14
+
+### [Research Engineer, LangSmith Engine](https://www.linkedin.com/jobs/view/4453736138/) — LangChain
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-08-14
