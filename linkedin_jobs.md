@@ -1,95 +1,69 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-08-14 20:19 UTC*
+*Last updated: 2026-08-14 21:19 UTC*
 
-**21 new role(s)** since last run · 34 total in last 1h
+**16 new role(s)** since last run · 31 total in last 1h
 
-### [Backend Software Engineer](https://www.linkedin.com/jobs/view/4454595264/) — Pragmatike
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-08-14
-
-### [Backend Software Engineer (YC experience)](https://www.linkedin.com/jobs/view/4454803181/) — Pragmatike
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-08-14
-
-### [Finance Systems Engineer, Finance and Strategy](https://www.linkedin.com/jobs/view/4453730484/) — Anthropic
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-08-14
-
-### [Data Engineer L3 (contract)](https://www.linkedin.com/jobs/view/4454597117/) — Capgemini
-- 📍 **Location:** Mountain View, CA
-- 🕒 **Posted:** 2026-08-14
-
-### [Software Engineer](https://www.linkedin.com/jobs/view/4454590211/) — Pebbles Inc.
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-08-14
-
-### [Embedded Linux & Edge Platform Engineer](https://www.linkedin.com/jobs/view/4454557980/) — Harmoni
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-08-14
-
-### [Software Engineer](https://www.linkedin.com/jobs/view/4450477429/) — Applied Materials
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-08-13
-
-### [Palantir Software Engineer](https://www.linkedin.com/jobs/view/4454526745/) — Mindsprint
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-08-12
-
-### [Software Engineer](https://www.linkedin.com/jobs/view/4406548495/) — Chalk
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $170,000.00/yr - $280,000.00/yr
-- 🕒 **Posted:** 2026-08-10
-
-### [Software Engineer](https://www.linkedin.com/jobs/view/4441507289/) — Vestwell
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-08-10
-
-### [Software Engineer](https://www.linkedin.com/jobs/view/4450333655/) — Fragment
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-08-07
-
-### [Software Engineer, Core Platform](https://www.linkedin.com/jobs/view/4342922374/) — Pave
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-08-02
-
-### [Software Engineer](https://www.linkedin.com/jobs/view/4378357766/) — Nuvo
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-07-27
-
-### [Software Engineer](https://www.linkedin.com/jobs/view/4414066946/) — Authorium
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $148,750.00/yr - $201,250.00/yr
-- 🕒 **Posted:** 2026-07-08
-
-### [Software Engineer](https://www.linkedin.com/jobs/view/4436266255/) — Autopilot
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-07-06
-
-### [Software Engineer, Product](https://www.linkedin.com/jobs/view/4437401526/) — Sweep360
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $180,000.00/yr - $220,000.00/yr
-- 🕒 **Posted:** 2026-07-06
-
-### [Software Engineer](https://www.linkedin.com/jobs/view/4434073696/) — C1
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $180,000.00/yr - $250,000.00/yr
-- 🕒 **Posted:** 2026-06-27
-
-### [Software Engineer](https://www.linkedin.com/jobs/view/4423047835/) — Camber
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $150,000.00/yr - $190,000.00/yr
-- 🕒 **Posted:** 2026-06-03
-
-### [Software Engineer](https://www.linkedin.com/jobs/view/4401527047/) — Maybern
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $140,000.00/yr - $180,000.00/yr
-- 🕒 **Posted:** 2026-04-13
-
-### [Backend Engineer](https://www.linkedin.com/jobs/view/4362427472/) — Bevel
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $150,000.00/yr - $190,000.00/yr
-- 🕒 **Posted:** 2026-01-15
-
-### [Software Engineer](https://www.linkedin.com/jobs/view/4318514364/) — Voltai
+### [Software Engineer, Frontend](https://www.linkedin.com/jobs/view/4453716733/) — Wealthfront
 - 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2025-10-22
+- 🕒 **Posted:** 2026-08-14
+
+### [Software Engineer, Frontend](https://www.linkedin.com/jobs/view/4453732621/) — Wealthfront
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-08-14
+
+### [Software Engineer Graduate (Video-on-Demand Algorithm) - 2027 Start](https://www.linkedin.com/jobs/view/4453717799/) — TikTok
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-08-14
+
+### [AI Infrastructure Engineer](https://www.linkedin.com/jobs/view/4454587506/) — Axon
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-08-14
+
+### [Software Engineer – DevOps Platform](https://www.linkedin.com/jobs/view/4453732622/) — Wealthfront
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-08-14
+
+### [Software Engineer – DevOps Platform](https://www.linkedin.com/jobs/view/4453728697/) — Wealthfront
+- 📍 **Location:** Palo Alto, CA
+- 🕒 **Posted:** 2026-08-14
+
+### [Data Engineer](https://www.linkedin.com/jobs/view/4453721783/) — MeeBoss
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-08-14
+
+### [Backend Engineer, Payments and Risk](https://www.linkedin.com/jobs/view/4454596483/) — Stripe
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-08-14
+
+### [Software Engineer Graduate (Foundation Platform) - 2027 Start](https://www.linkedin.com/jobs/view/4453720779/) — TikTok
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-08-14
+
+### [Applied AI/ML Engineer](https://www.linkedin.com/jobs/view/4454584730/) — Confido
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $200,000.00/yr - $250,000.00/yr
+- 🕒 **Posted:** 2026-08-14
+
+### [Full Stack Engineer](https://www.linkedin.com/jobs/view/4453734224/) — EXL
+- 📍 **Location:** Jersey City, NJ
+- 🕒 **Posted:** 2026-08-14
+
+### [GM Technology Data Scientist Associate](https://www.linkedin.com/jobs/view/4451265725/) — Nomura
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-08-14
+
+### [Software Engineer – DevOps Platform](https://www.linkedin.com/jobs/view/4453710800/) — Wealthfront
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-08-14
+
+### [Software Engineer, Frontend](https://www.linkedin.com/jobs/view/4453713767/) — Wealthfront
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-08-14
+
+### [Software Engineer Intern (Winter 2027)](https://www.linkedin.com/jobs/view/4454593886/) — Notion
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-08-14
+
+### [Software Engineer Intern (Summer 2027)](https://www.linkedin.com/jobs/view/4454590867/) — Notion
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-08-14
