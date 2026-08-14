@@ -1,45 +1,29 @@
 # 🟦 Indeed — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-08-14 22:54 UTC*
+*Last updated: 2026-08-14 23:54 UTC*
 
-**9 new role(s)** since last run · 87 total in last 24h
+**5 new role(s)** since last run · 89 total in last 24h
 
-### [Applied Scientist, Automated Reasoning](https://www.indeed.com/viewjob?jk=dd7f7ac07aabadef) — Amazon Web Services
+### [AI Infrastructure Engineer](https://www.indeed.com/viewjob?jk=891698c73f0a37c8) — Axon
+- 📍 **Location:** San Francisco, CA, US
+- 💰 **Salary:** $154k–$247k/yr
+- 🕒 **Posted:** 2026-08-14
+
+### [IT Infrastructure Engineer](https://www.indeed.com/viewjob?jk=3e7677d0b858a014) — Cloud Destinations
 - 📍 **Location:** Santa Clara, CA, US
-- 💰 **Salary:** $192k–$260k/yr
+- 💰 **Salary:** $40–$47/hr
 - 🕒 **Posted:** 2026-08-14
 
-### [Applied Scientist, Automated Reasoning](https://www.indeed.com/viewjob?jk=5b3da283ef6d73f0) — Amazon Web Services
-- 📍 **Location:** San Francisco, CA, US
-- 💰 **Salary:** $192k–$260k/yr
-- 🕒 **Posted:** 2026-08-14
-
-### [Software Engineer](https://www.indeed.com/viewjob?jk=dcf018bfce779737) — Unknown
-- 📍 **Location:** San Francisco, CA, US
-- 🕒 **Posted:** 2026-08-14
-
-### [Software Engineer](https://www.indeed.com/viewjob?jk=69a9dc4fbb729860) — Unknown
-- 📍 **Location:** San Mateo, CA, US
-- 🕒 **Posted:** 2026-08-14
-
-### [Applied Scientist II, AWS Just-Walk-Out Science Team](https://www.indeed.com/viewjob?jk=332fb53efc68c91e) — Amazon.com
-- 📍 **Location:** East Palo Alto, CA, US
-- 💰 **Salary:** $143k–$222k/yr
-- 🕒 **Posted:** 2026-08-14
-
-### [Software Engineering MTS](https://www.indeed.com/viewjob?jk=e18c41e903733ed3) — Salesforce
-- 📍 **Location:** San Francisco, CA, US
-- 💰 **Salary:** $117k–$194k/yr
-- 🕒 **Posted:** 2026-08-14
-
-### [Software Engineer](https://www.indeed.com/viewjob?jk=0561aa28f155719b) — MAGICAL
-- 📍 **Location:** San Francisco, CA, US
-- 🕒 **Posted:** 2026-08-14
-
-### [Applied Scientist, Automated Reasoning](https://www.indeed.com/viewjob?jk=7d6423147faebe57) — Amazon Web Services
+### [Full Stack Software Engineer (T. Rowe Price AI Lab)](https://www.indeed.com/viewjob?jk=e596c29aefd4f915) — T. Rowe Price
 - 📍 **Location:** New York, NY, US
-- 💰 **Salary:** $192k–$260k/yr
+- 💰 **Salary:** $97k–$206k/yr
 - 🕒 **Posted:** 2026-08-14
 
-### [Full Stack Engineer](https://www.indeed.com/viewjob?jk=139507e4b9da4d27) — EXL Service
-- 📍 **Location:** Jersey City, NJ, US
+### [Software Engineer 3](https://www.indeed.com/viewjob?jk=5b2c5c98ac010f43) — The Farmer's Dog
+- 📍 **Location:** New York, NY, US
+- 💰 **Salary:** $165k–$180k/yr
+- 🕒 **Posted:** 2026-08-14
+
+### [Transit Management Analyst Series (Infrastructure Engineering)](https://www.indeed.com/viewjob?jk=ab979a233b23ed68) — Metropolitan Transportation Authority
+- 📍 **Location:** Brooklyn, NY, US
+- 💰 **Salary:** $68k–$115k/yr
 - 🕒 **Posted:** 2026-08-14
