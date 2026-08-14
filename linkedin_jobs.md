@@ -1,96 +1,53 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-08-14 15:18 UTC*
+*Last updated: 2026-08-14 16:18 UTC*
 
-**22 new role(s)** since last run · 22 total in last 1h
+**11 new role(s)** since last run · 33 total in last 1h
 
-### [Machine Learning Engineer, Radar](https://www.linkedin.com/jobs/view/4454549320/) — Stripe
+### [Machine Learning Engineer, Speech LLM Training](https://www.linkedin.com/jobs/view/4453707377/) — Jobright.ai
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-08-14
 
-### [AI Research Scientist | Machine Learning | Deep Learning |Natural Language Processing | LLM | Hybrid | San Jose, CA](https://www.linkedin.com/jobs/view/4453592208/) — Enigma
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-08-14
-
-### [Backend Engineer](https://www.linkedin.com/jobs/view/4453592115/) — MVP Ventures
+### [Machine Learning Engineer, Growth](https://www.linkedin.com/jobs/view/4406930228/) — Whatnot
 - 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $190,000.00/yr - $280,000.00/yr
 - 🕒 **Posted:** 2026-08-14
 
-### [Software Engineer - AI Agent](https://www.linkedin.com/jobs/view/4453704092/) — Jobright.ai
-- 📍 **Location:** San Mateo County, CA
+### [Software Engineer, Machine Learning](https://www.linkedin.com/jobs/view/4451230967/) — Meta
+- 📍 **Location:** Menlo Park, CA
+- 💰 **Salary:** $347,000.00/yr - $403,000.00/yr
 - 🕒 **Posted:** 2026-08-14
 
-### [Backend Engineer, Core Technology](https://www.linkedin.com/jobs/view/4454540425/) — Stripe
-- 📍 **Location:** San Francisco, CA
+### [Full-Stack Generative AI Developer](https://www.linkedin.com/jobs/view/4451260000/) — Scalable Systems
+- 📍 **Location:** Pleasanton, CA
 - 🕒 **Posted:** 2026-08-14
 
-### [Software Engineer, Bridge](https://www.linkedin.com/jobs/view/4454545329/) — Stripe
-- 📍 **Location:** San Francisco, CA
+### [Software Engineer, AI Kernels & Performance Optimization — MTIA Software](https://www.linkedin.com/jobs/view/4451230969/) — Meta
+- 📍 **Location:** Menlo Park, CA
+- 💰 **Salary:** $183,997.00/yr - $257,000.00/yr
 - 🕒 **Posted:** 2026-08-14
 
-### [Backend Engineer, Developer & End-user Experience Platform](https://www.linkedin.com/jobs/view/4454547320/) — Stripe
-- 📍 **Location:** San Francisco, CA
+### [Software Engineer, AI Kernels & Performance Optimization — MTIA Software](https://www.linkedin.com/jobs/view/4451244009/) — Meta
+- 📍 **Location:** Menlo Park, CA
+- 💰 **Salary:** $154,003.00/yr - $217,000.00/yr
 - 🕒 **Posted:** 2026-08-14
 
-### [Lustre Software Engineer](https://www.linkedin.com/jobs/view/4451222689/) — NetApp
-- 📍 **Location:** San Jose, CA
+### [Site Reliability Engineer](https://www.linkedin.com/jobs/view/4436489100/) — Obsidian Security
+- 📍 **Location:** Palo Alto, CA
 - 🕒 **Posted:** 2026-08-14
 
-### [LabVIEW Software Engineer (1147344)](https://www.linkedin.com/jobs/view/4453595100/) — The Judge Group
-- 📍 **Location:** Cupertino, CA
+### [Software Infrastructure Engineer (Starlink)](https://www.linkedin.com/jobs/view/4426705094/) — SpaceX
+- 📍 **Location:** Palo Alto, CA
 - 🕒 **Posted:** 2026-08-14
 
-### [Full Stack Engineer, Startup Products](https://www.linkedin.com/jobs/view/4454540393/) — Stripe
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-08-14
-
-### [Full Stack Engineer, Support Experience (Greater China Support)](https://www.linkedin.com/jobs/view/4454549329/) — Stripe
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-08-14
-
-### [Software Engineer - Smart Contract, Bridge](https://www.linkedin.com/jobs/view/4454539367/) — Stripe
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-08-14
-
-### [Android Engineer, Terminal OS Platform](https://www.linkedin.com/jobs/view/4454546363/) — Stripe
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-08-14
-
-### [Security Engineer, Bridge](https://www.linkedin.com/jobs/view/4454548331/) — Stripe
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-08-14
-
-### [Alibaba Cloud (AliCloud) Data Platform Architect](https://www.linkedin.com/jobs/view/4451241786/) — VMC Soft Technologies, Inc
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-08-14
-
-### [Research Engineer, Code RL (Reinforcement Learning)](https://www.linkedin.com/jobs/view/4426682742/) — Anthropic
+### [Platform Engineering - wealth management](https://www.linkedin.com/jobs/view/4452985767/) — Resource Management
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-08-14
 
-### [Software Engineer — Full Stack & AI Infrastructure](https://www.linkedin.com/jobs/view/4454554400/) — The Law Offices of Juliet Cohen, P.C.
-- 📍 **Location:** Queens, NY
-- 🕒 **Posted:** 2026-08-14
-
-### [Java or Python AWS Software Engineer II](https://www.linkedin.com/jobs/view/4454552445/) — JPMorganChase
-- 📍 **Location:** Jersey City, NJ
-- 💰 **Salary:** $123,500.00/yr - $150,000.00/yr
-- 🕒 **Posted:** 2026-08-14
-
-### [Databricks Platform Engineer (AWS)](https://www.linkedin.com/jobs/view/4453201909/) — Smart IT Frame LLC
+### [Software Engineer, AI Specialist - Monetization (Technical Leadership)](https://www.linkedin.com/jobs/view/4451236926/) — Meta
 - 📍 **Location:** New York, NY
+- 💰 **Salary:** $219,000.00/yr - $301,000.00/yr
 - 🕒 **Posted:** 2026-08-14
 
-### [Java Software Engineer III](https://www.linkedin.com/jobs/view/4454552443/) — JPMorganChase
+### [Java Full Stack Engineer](https://www.linkedin.com/jobs/view/4454538787/) — Infosoft, Inc.
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $137,750.00/yr - $185,000.00/yr
-- 🕒 **Posted:** 2026-08-14
-
-### [Frontend Engineer / Design Technologist (Blockchain + EQUITY!!!)](https://www.linkedin.com/jobs/view/4454548194/) — The Greene Group
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $125,000.00/yr - $175,000.00/yr
-- 🕒 **Posted:** 2026-08-14
-
-### [Java Software Engineer II](https://www.linkedin.com/jobs/view/4454544534/) — JPMorganChase
-- 📍 **Location:** Jersey City, NJ
-- 💰 **Salary:** $123,500.00/yr - $150,000.00/yr
 - 🕒 **Posted:** 2026-08-14
