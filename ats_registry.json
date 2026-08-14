@@ -1,6 +1,20 @@
 {
   "baseline_complete": false,
   "boards": {
+    "ashby:base-power": {
+      "ats": "ashby",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Base Power",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "base-power",
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate"
+    },
     "ashby:baseten": {
       "ats": "ashby",
       "baseline_complete": false,
@@ -30,6 +44,20 @@
         "simplify"
       ],
       "status": "active"
+    },
+    "ashby:brainco": {
+      "ats": "ashby",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Brain Co.",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "brainco",
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate"
     },
     "ashby:camber": {
       "ats": "ashby",
@@ -61,15 +89,43 @@
       ],
       "status": "active"
     },
+    "ashby:claylabs": {
+      "ats": "ashby",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Clay",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "claylabs",
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate"
+    },
+    "ashby:distyl": {
+      "ats": "ashby",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Distyl AI",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "distyl",
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate"
+    },
     "ashby:flock safety": {
       "ats": "ashby",
       "baseline_complete": true,
       "failure_count": 0,
       "feed": "general",
-      "last_success": "2026-08-13",
+      "last_success": "2026-08-14",
       "last_verified": "2026-08-13",
       "name": "Flock Safety",
-      "promoted_until": "2026-11-11",
+      "promoted_until": "2026-11-12",
       "retry_after": null,
       "slug": "Flock Safety",
       "sources": [
@@ -107,6 +163,20 @@
       ],
       "status": "active"
     },
+    "ashby:ideogram": {
+      "ats": "ashby",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Ideogram",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "ideogram",
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate"
+    },
     "ashby:jerry.ai": {
       "ats": "ashby",
       "baseline_complete": false,
@@ -117,6 +187,21 @@
       "promoted_until": null,
       "retry_after": null,
       "slug": "jerry.ai",
+      "sources": [
+        "simplify"
+      ],
+      "status": "active"
+    },
+    "ashby:lynk": {
+      "ats": "ashby",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-08-14",
+      "name": "Lynk",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "Lynk",
       "sources": [
         "simplify"
       ],
@@ -137,20 +222,81 @@
       ],
       "status": "active"
     },
+    "ashby:opengov": {
+      "ats": "ashby",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-08-14",
+      "name": "OpenGov",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "opengov",
+      "sources": [
+        "simplify"
+      ],
+      "status": "active"
+    },
+    "ashby:opusclip": {
+      "ats": "ashby",
+      "baseline_complete": true,
+      "failure_count": 0,
+      "feed": "general",
+      "last_success": "2026-08-14",
+      "last_verified": "2026-08-14",
+      "name": "OpusClip",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "opusclip",
+      "sources": [
+        "simplify"
+      ],
+      "status": "active"
+    },
+    "ashby:pylon": {
+      "ats": "ashby",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-08-14",
+      "name": "Pylon",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "pylon",
+      "sources": [
+        "simplify"
+      ],
+      "status": "active"
+    },
+    "ashby:relay": {
+      "ats": "ashby",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-08-14",
+      "name": "Relay Technologies",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "relay",
+      "sources": [
+        "simplify"
+      ],
+      "status": "active"
+    },
     "ashby:remi": {
       "ats": "ashby",
       "baseline_complete": false,
-      "failure_count": 2,
+      "failure_count": 3,
       "feed": "general",
-      "last_verified": "2026-08-13",
+      "last_verified": "2026-08-14",
       "name": "Remi",
       "promoted_until": null,
-      "retry_after": null,
+      "retry_after": "2026-09-13",
       "slug": "remi",
       "sources": [
         "simplify"
       ],
-      "status": "candidate"
+      "status": "inactive"
     },
     "ashby:shiftsmart": {
       "ats": "ashby",
@@ -183,6 +329,21 @@
       ],
       "status": "active"
     },
+    "ashby:starpath.space": {
+      "ats": "ashby",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-08-14",
+      "name": "Starpath Robotics",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "starpath.space",
+      "sources": [
+        "simplify"
+      ],
+      "status": "active"
+    },
     "ashby:the job sauce": {
       "ats": "ashby",
       "baseline_complete": false,
@@ -193,6 +354,51 @@
       "promoted_until": null,
       "retry_after": null,
       "slug": "The Job Sauce",
+      "sources": [
+        "simplify"
+      ],
+      "status": "active"
+    },
+    "ashby:tools for humanity": {
+      "ats": "ashby",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-08-14",
+      "name": "Tools for Humanity",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "Tools for Humanity",
+      "sources": [
+        "simplify"
+      ],
+      "status": "active"
+    },
+    "ashby:uipath": {
+      "ats": "ashby",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-08-14",
+      "name": "UiPath",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "uipath",
+      "sources": [
+        "simplify"
+      ],
+      "status": "active"
+    },
+    "ashby:zip": {
+      "ats": "ashby",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-08-14",
+      "name": "Zip",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "zip",
       "sources": [
         "simplify"
       ],
@@ -223,6 +429,21 @@
       "promoted_until": null,
       "retry_after": null,
       "slug": "3redpartners",
+      "sources": [
+        "simplify"
+      ],
+      "status": "active"
+    },
+    "greenhouse:8451": {
+      "ats": "greenhouse",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-08-14",
+      "name": "84.51 Degrees",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "8451",
       "sources": [
         "simplify"
       ],
@@ -261,14 +482,31 @@
     },
     "greenhouse:alarmcom": {
       "ats": "greenhouse",
-      "baseline_complete": false,
+      "baseline_complete": true,
       "failure_count": 0,
       "feed": "general",
+      "last_success": "2026-08-14",
       "last_verified": "2026-08-13",
       "name": "Alarm.com",
       "promoted_until": null,
       "retry_after": null,
       "slug": "alarmcom",
+      "sources": [
+        "simplify"
+      ],
+      "status": "active"
+    },
+    "greenhouse:alphaawmnaearlycareers": {
+      "ats": "greenhouse",
+      "baseline_complete": true,
+      "failure_count": 0,
+      "feed": "general",
+      "last_success": "2026-08-14",
+      "last_verified": "2026-08-14",
+      "name": "Alpha FMC",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "alphaawmnaearlycareers",
       "sources": [
         "simplify"
       ],
@@ -304,6 +542,21 @@
       ],
       "status": "active"
     },
+    "greenhouse:anaplan": {
+      "ats": "greenhouse",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-08-14",
+      "name": "Anaplan",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "anaplan",
+      "sources": [
+        "simplify"
+      ],
+      "status": "active"
+    },
     "greenhouse:applovin": {
       "ats": "greenhouse",
       "baseline_complete": false,
@@ -314,6 +567,22 @@
       "promoted_until": null,
       "retry_after": null,
       "slug": "applovin",
+      "sources": [
+        "simplify"
+      ],
+      "status": "active"
+    },
+    "greenhouse:archer56": {
+      "ats": "greenhouse",
+      "baseline_complete": true,
+      "failure_count": 0,
+      "feed": "general",
+      "last_success": "2026-08-14",
+      "last_verified": "2026-08-14",
+      "name": "Archer",
+      "promoted_until": "2026-11-12",
+      "retry_after": null,
+      "slug": "archer56",
       "sources": [
         "simplify"
       ],
@@ -367,14 +636,60 @@
     },
     "greenhouse:axle": {
       "ats": "greenhouse",
+      "baseline_complete": true,
+      "failure_count": 0,
+      "feed": "general",
+      "last_success": "2026-08-14",
+      "last_verified": "2026-08-13",
+      "name": "Axle",
+      "promoted_until": "2026-11-12",
+      "retry_after": null,
+      "slug": "axle",
+      "sources": [
+        "simplify"
+      ],
+      "status": "active"
+    },
+    "greenhouse:barkley": {
+      "ats": "greenhouse",
+      "baseline_complete": false,
+      "failure_count": 1,
+      "feed": "general",
+      "last_verified": "2026-08-14",
+      "name": "Barkley",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "barkley",
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate"
+    },
+    "greenhouse:billiontoone": {
+      "ats": "greenhouse",
       "baseline_complete": false,
       "failure_count": 0,
       "feed": "general",
-      "last_verified": "2026-08-13",
-      "name": "Axle",
+      "last_verified": "2026-08-14",
+      "name": "BillionToOne",
       "promoted_until": null,
       "retry_after": null,
-      "slug": "axle",
+      "slug": "billiontoone",
+      "sources": [
+        "simplify"
+      ],
+      "status": "active"
+    },
+    "greenhouse:bloomreach": {
+      "ats": "greenhouse",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-08-14",
+      "name": "Bloomreach",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "bloomreach",
       "sources": [
         "simplify"
       ],
@@ -395,6 +710,21 @@
       ],
       "status": "active"
     },
+    "greenhouse:bracebridgecapital": {
+      "ats": "greenhouse",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-08-14",
+      "name": "Bracebridge Capital",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "bracebridgecapital",
+      "sources": [
+        "simplify"
+      ],
+      "status": "active"
+    },
     "greenhouse:cadwell": {
       "ats": "greenhouse",
       "baseline_complete": false,
@@ -405,6 +735,21 @@
       "promoted_until": null,
       "retry_after": null,
       "slug": "cadwell",
+      "sources": [
+        "simplify"
+      ],
+      "status": "active"
+    },
+    "greenhouse:candidly": {
+      "ats": "greenhouse",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-08-14",
+      "name": "Candidly",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "candidly",
       "sources": [
         "simplify"
       ],
@@ -427,9 +772,10 @@
     },
     "greenhouse:capitalontap": {
       "ats": "greenhouse",
-      "baseline_complete": false,
+      "baseline_complete": true,
       "failure_count": 0,
       "feed": "general",
+      "last_success": "2026-08-14",
       "last_verified": "2026-08-13",
       "name": "Capital on Tap",
       "promoted_until": null,
@@ -456,6 +802,21 @@
       ],
       "status": "active"
     },
+    "greenhouse:centriaautism": {
+      "ats": "greenhouse",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-08-14",
+      "name": "Centria Autism",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "centriaautism",
+      "sources": [
+        "simplify"
+      ],
+      "status": "active"
+    },
     "greenhouse:chicagotradingcampus": {
       "ats": "greenhouse",
       "baseline_complete": false,
@@ -473,9 +834,10 @@
     },
     "greenhouse:cottinghambutlerinsuranceservicesinc": {
       "ats": "greenhouse",
-      "baseline_complete": false,
+      "baseline_complete": true,
       "failure_count": 0,
       "feed": "general",
+      "last_success": "2026-08-14",
       "last_verified": "2026-08-13",
       "name": "Cottingham & Butler",
       "promoted_until": null,
@@ -496,6 +858,21 @@
       "promoted_until": null,
       "retry_after": null,
       "slug": "creatorsworkhere",
+      "sources": [
+        "simplify"
+      ],
+      "status": "active"
+    },
+    "greenhouse:cribl": {
+      "ats": "greenhouse",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-08-14",
+      "name": "Cribl",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "cribl",
       "sources": [
         "simplify"
       ],
@@ -562,6 +939,21 @@
       ],
       "status": "active"
     },
+    "greenhouse:dunnhumby": {
+      "ats": "greenhouse",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-08-14",
+      "name": "dunnhumby",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "dunnhumby",
+      "sources": [
+        "simplify"
+      ],
+      "status": "active"
+    },
     "greenhouse:dvtrading": {
       "ats": "greenhouse",
       "baseline_complete": true,
@@ -588,6 +980,21 @@
       "promoted_until": null,
       "retry_after": null,
       "slug": "enova",
+      "sources": [
+        "simplify"
+      ],
+      "status": "active"
+    },
+    "greenhouse:eucalyptus": {
+      "ats": "greenhouse",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-08-14",
+      "name": "Eucalyptus",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "eucalyptus",
       "sources": [
         "simplify"
       ],
@@ -623,11 +1030,27 @@
       ],
       "status": "active"
     },
-    "greenhouse:freeformfuturecorp": {
+    "greenhouse:flex": {
       "ats": "greenhouse",
       "baseline_complete": false,
       "failure_count": 0,
       "feed": "general",
+      "last_verified": "2026-08-14",
+      "name": "Flex",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "flex",
+      "sources": [
+        "simplify"
+      ],
+      "status": "active"
+    },
+    "greenhouse:freeformfuturecorp": {
+      "ats": "greenhouse",
+      "baseline_complete": true,
+      "failure_count": 0,
+      "feed": "general",
+      "last_success": "2026-08-14",
       "last_verified": "2026-08-13",
       "name": "Freeform",
       "promoted_until": null,
@@ -683,15 +1106,30 @@
       ],
       "status": "active"
     },
+    "greenhouse:higherlogic": {
+      "ats": "greenhouse",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-08-14",
+      "name": "Higher Logic",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "higherlogic",
+      "sources": [
+        "simplify"
+      ],
+      "status": "active"
+    },
     "greenhouse:icapitalnetwork": {
       "ats": "greenhouse",
       "baseline_complete": true,
       "failure_count": 0,
       "feed": "general",
-      "last_success": "2026-08-13",
+      "last_success": "2026-08-14",
       "last_verified": "2026-08-13",
       "name": "iCapital Network",
-      "promoted_until": "2026-11-11",
+      "promoted_until": "2026-11-12",
       "retry_after": null,
       "slug": "icapitalnetwork",
       "sources": [
@@ -701,14 +1139,93 @@
     },
     "greenhouse:industrialelectricmanufacturing": {
       "ats": "greenhouse",
-      "baseline_complete": false,
+      "baseline_complete": true,
       "failure_count": 0,
       "feed": "general",
+      "last_success": "2026-08-14",
       "last_verified": "2026-08-13",
       "name": "IEM",
       "promoted_until": null,
       "retry_after": null,
       "slug": "industrialelectricmanufacturing",
+      "sources": [
+        "simplify"
+      ],
+      "status": "active"
+    },
+    "greenhouse:insurify": {
+      "ats": "greenhouse",
+      "baseline_complete": true,
+      "failure_count": 0,
+      "feed": "general",
+      "last_success": "2026-08-14",
+      "last_verified": "2026-08-14",
+      "name": "Insurify",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "insurify",
+      "sources": [
+        "simplify"
+      ],
+      "status": "active"
+    },
+    "greenhouse:itslogisticsllc": {
+      "ats": "greenhouse",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-08-14",
+      "name": "ITS Logistics",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "itslogisticsllc",
+      "sources": [
+        "simplify"
+      ],
+      "status": "active"
+    },
+    "greenhouse:latitude": {
+      "ats": "greenhouse",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-08-14",
+      "name": "Latitude AI",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "latitude",
+      "sources": [
+        "simplify"
+      ],
+      "status": "active"
+    },
+    "greenhouse:leagueinc": {
+      "ats": "greenhouse",
+      "baseline_complete": true,
+      "failure_count": 0,
+      "feed": "general",
+      "last_success": "2026-08-14",
+      "last_verified": "2026-08-14",
+      "name": "League",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "leagueinc",
+      "sources": [
+        "simplify"
+      ],
+      "status": "active"
+    },
+    "greenhouse:lexingtonmedical": {
+      "ats": "greenhouse",
+      "baseline_complete": true,
+      "failure_count": 0,
+      "feed": "general",
+      "last_success": "2026-08-14",
+      "last_verified": "2026-08-14",
+      "name": "Lexington Medical",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "lexingtonmedical",
       "sources": [
         "simplify"
       ],
@@ -731,14 +1248,30 @@
     },
     "greenhouse:lucidmotors": {
       "ats": "greenhouse",
+      "baseline_complete": true,
+      "failure_count": 0,
+      "feed": "general",
+      "last_success": "2026-08-14",
+      "last_verified": "2026-08-13",
+      "name": "Lucid Motors",
+      "promoted_until": "2026-11-12",
+      "retry_after": null,
+      "slug": "lucidmotors",
+      "sources": [
+        "simplify"
+      ],
+      "status": "active"
+    },
+    "greenhouse:mavensecuritiesholdingltd": {
+      "ats": "greenhouse",
       "baseline_complete": false,
       "failure_count": 0,
       "feed": "general",
-      "last_verified": "2026-08-13",
-      "name": "Lucid Motors",
+      "last_verified": "2026-08-14",
+      "name": "Maven Securities",
       "promoted_until": null,
       "retry_after": null,
-      "slug": "lucidmotors",
+      "slug": "mavensecuritiesholdingltd",
       "sources": [
         "simplify"
       ],
@@ -759,6 +1292,21 @@
       ],
       "status": "active"
     },
+    "greenhouse:mobilityware": {
+      "ats": "greenhouse",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-08-14",
+      "name": "Mobilityware",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "mobilityware",
+      "sources": [
+        "simplify"
+      ],
+      "status": "active"
+    },
     "greenhouse:mqreferrals": {
       "ats": "greenhouse",
       "baseline_complete": false,
@@ -769,6 +1317,21 @@
       "promoted_until": null,
       "retry_after": null,
       "slug": "mqreferrals",
+      "sources": [
+        "simplify"
+      ],
+      "status": "active"
+    },
+    "greenhouse:mrbeastyoutube": {
+      "ats": "greenhouse",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-08-14",
+      "name": "MrBeast",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "mrbeastyoutube",
       "sources": [
         "simplify"
       ],
@@ -819,6 +1382,36 @@
       ],
       "status": "active"
     },
+    "greenhouse:newsbreak": {
+      "ats": "greenhouse",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-08-14",
+      "name": "NewsBreak",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "newsbreak",
+      "sources": [
+        "simplify"
+      ],
+      "status": "active"
+    },
+    "greenhouse:nisc": {
+      "ats": "greenhouse",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-08-14",
+      "name": "National Information Solutions Cooperative (NISC)",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "nisc",
+      "sources": [
+        "simplify"
+      ],
+      "status": "active"
+    },
     "greenhouse:oklo": {
       "ats": "greenhouse",
       "baseline_complete": false,
@@ -845,6 +1438,21 @@
       "promoted_until": null,
       "retry_after": null,
       "slug": "openeye",
+      "sources": [
+        "simplify"
+      ],
+      "status": "active"
+    },
+    "greenhouse:ophelia": {
+      "ats": "greenhouse",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-08-14",
+      "name": "Ophelia",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "ophelia",
       "sources": [
         "simplify"
       ],
@@ -926,6 +1534,21 @@
       ],
       "status": "active"
     },
+    "greenhouse:remodelhealth": {
+      "ats": "greenhouse",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-08-14",
+      "name": "Remodel Health",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "remodelhealth",
+      "sources": [
+        "simplify"
+      ],
+      "status": "active"
+    },
     "greenhouse:renaissancelearning-nam": {
       "ats": "greenhouse",
       "baseline_complete": false,
@@ -936,6 +1559,82 @@
       "promoted_until": null,
       "retry_after": null,
       "slug": "renaissancelearning-nam",
+      "sources": [
+        "simplify"
+      ],
+      "status": "active"
+    },
+    "greenhouse:resonate": {
+      "ats": "greenhouse",
+      "baseline_complete": true,
+      "failure_count": 0,
+      "feed": "general",
+      "last_success": "2026-08-14",
+      "last_verified": "2026-08-14",
+      "name": "Resonate",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "resonate",
+      "sources": [
+        "simplify"
+      ],
+      "status": "active"
+    },
+    "greenhouse:rfsmart": {
+      "ats": "greenhouse",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-08-14",
+      "name": "RF-SMART",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "rfsmart",
+      "sources": [
+        "simplify"
+      ],
+      "status": "active"
+    },
+    "greenhouse:rhombuspower": {
+      "ats": "greenhouse",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-08-14",
+      "name": "Rhombus Power",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "rhombuspower",
+      "sources": [
+        "simplify"
+      ],
+      "status": "active"
+    },
+    "greenhouse:robinhood": {
+      "ats": "greenhouse",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-08-14",
+      "name": "Robinhood",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "robinhood",
+      "sources": [
+        "simplify"
+      ],
+      "status": "active"
+    },
+    "greenhouse:rocketlab": {
+      "ats": "greenhouse",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-08-14",
+      "name": "Rocket Lab USA",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "rocketlab",
       "sources": [
         "simplify"
       ],
@@ -971,6 +1670,66 @@
       ],
       "status": "active"
     },
+    "greenhouse:sharkninjaoperatingllc": {
+      "ats": "greenhouse",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-08-14",
+      "name": "SharkNinja",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "sharkninjaoperatingllc",
+      "sources": [
+        "simplify"
+      ],
+      "status": "active"
+    },
+    "greenhouse:shein": {
+      "ats": "greenhouse",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-08-14",
+      "name": "SHEIN",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "shein",
+      "sources": [
+        "simplify"
+      ],
+      "status": "active"
+    },
+    "greenhouse:sigmacomputing": {
+      "ats": "greenhouse",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-08-14",
+      "name": "Sigma Computing",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "sigmacomputing",
+      "sources": [
+        "simplify"
+      ],
+      "status": "active"
+    },
+    "greenhouse:sonyinteractiveentertainmentglobal": {
+      "ats": "greenhouse",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-08-14",
+      "name": "Sony Interactive Entertainment",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "sonyinteractiveentertainmentglobal",
+      "sources": [
+        "simplify"
+      ],
+      "status": "active"
+    },
     "greenhouse:spacex": {
       "ats": "greenhouse",
       "baseline_complete": false,
@@ -981,6 +1740,21 @@
       "promoted_until": null,
       "retry_after": null,
       "slug": "spacex",
+      "sources": [
+        "simplify"
+      ],
+      "status": "active"
+    },
+    "greenhouse:subsplash": {
+      "ats": "greenhouse",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-08-14",
+      "name": "Subsplash",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "subsplash",
       "sources": [
         "simplify"
       ],
@@ -1016,6 +1790,37 @@
       ],
       "status": "active"
     },
+    "greenhouse:tastylive": {
+      "ats": "greenhouse",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-08-14",
+      "name": "Tastylive",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "tastylive",
+      "sources": [
+        "simplify"
+      ],
+      "status": "active"
+    },
+    "greenhouse:tastytrade": {
+      "ats": "greenhouse",
+      "baseline_complete": true,
+      "failure_count": 0,
+      "feed": "general",
+      "last_success": "2026-08-14",
+      "last_verified": "2026-08-14",
+      "name": "tastytrade",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "tastytrade",
+      "sources": [
+        "simplify"
+      ],
+      "status": "active"
+    },
     "greenhouse:tecovas": {
       "ats": "greenhouse",
       "baseline_complete": false,
@@ -1046,6 +1851,21 @@
       ],
       "status": "active"
     },
+    "greenhouse:testnisc": {
+      "ats": "greenhouse",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-08-14",
+      "name": "National Information Solutions Cooperative (NISC)",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "testnisc",
+      "sources": [
+        "simplify"
+      ],
+      "status": "active"
+    },
     "greenhouse:thenewyorktimes": {
       "ats": "greenhouse",
       "baseline_complete": false,
@@ -1061,6 +1881,36 @@
       ],
       "status": "active"
     },
+    "greenhouse:trace3": {
+      "ats": "greenhouse",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-08-14",
+      "name": "Trace3",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "trace3",
+      "sources": [
+        "simplify"
+      ],
+      "status": "active"
+    },
+    "greenhouse:trueanomalyinc": {
+      "ats": "greenhouse",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-08-14",
+      "name": "True Anomaly",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "trueanomalyinc",
+      "sources": [
+        "simplify"
+      ],
+      "status": "active"
+    },
     "greenhouse:twitch": {
       "ats": "greenhouse",
       "baseline_complete": false,
@@ -1071,6 +1921,51 @@
       "promoted_until": null,
       "retry_after": null,
       "slug": "twitch",
+      "sources": [
+        "simplify"
+      ],
+      "status": "active"
+    },
+    "greenhouse:underdogfantasy": {
+      "ats": "greenhouse",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-08-14",
+      "name": "Underdog Fantasy",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "underdogfantasy",
+      "sources": [
+        "simplify"
+      ],
+      "status": "active"
+    },
+    "greenhouse:vacasa": {
+      "ats": "greenhouse",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-08-14",
+      "name": "Vacasa",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "vacasa",
+      "sources": [
+        "simplify"
+      ],
+      "status": "active"
+    },
+    "greenhouse:verkada": {
+      "ats": "greenhouse",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-08-14",
+      "name": "Verkada",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "verkada",
       "sources": [
         "simplify"
       ],
@@ -1093,12 +1988,13 @@
     },
     "greenhouse:voyagertechnologiesinc": {
       "ats": "greenhouse",
-      "baseline_complete": false,
+      "baseline_complete": true,
       "failure_count": 0,
       "feed": "general",
+      "last_success": "2026-08-14",
       "last_verified": "2026-08-13",
       "name": "Voyager Technologies",
-      "promoted_until": null,
+      "promoted_until": "2026-11-12",
       "retry_after": null,
       "slug": "voyagertechnologiesinc",
       "sources": [
@@ -1121,14 +2017,31 @@
       ],
       "status": "active"
     },
-    "greenhouse:yext": {
+    "greenhouse:xai": {
       "ats": "greenhouse",
-      "baseline_complete": false,
+      "baseline_complete": true,
       "failure_count": 0,
       "feed": "general",
+      "last_success": "2026-08-14",
+      "last_verified": "2026-08-14",
+      "name": "xAI",
+      "promoted_until": "2026-11-12",
+      "retry_after": null,
+      "slug": "xai",
+      "sources": [
+        "simplify"
+      ],
+      "status": "active"
+    },
+    "greenhouse:yext": {
+      "ats": "greenhouse",
+      "baseline_complete": true,
+      "failure_count": 0,
+      "feed": "general",
+      "last_success": "2026-08-14",
       "last_verified": "2026-08-13",
       "name": "Yext",
-      "promoted_until": null,
+      "promoted_until": "2026-11-12",
       "retry_after": null,
       "slug": "yext",
       "sources": [
@@ -1151,6 +2064,21 @@
       ],
       "status": "active"
     },
+    "lever:arcteryx.com": {
+      "ats": "lever",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-08-14",
+      "name": "Arc'teryx Equipment",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "arcteryx.com",
+      "sources": [
+        "simplify"
+      ],
+      "status": "active"
+    },
     "lever:belvederetrading": {
       "ats": "lever",
       "baseline_complete": true,
@@ -1162,6 +2090,22 @@
       "promoted_until": null,
       "retry_after": null,
       "slug": "belvederetrading",
+      "sources": [
+        "simplify"
+      ],
+      "status": "active"
+    },
+    "lever:beta": {
+      "ats": "lever",
+      "baseline_complete": true,
+      "failure_count": 0,
+      "feed": "general",
+      "last_success": "2026-08-14",
+      "last_verified": "2026-08-14",
+      "name": "Beta Technologies",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "beta",
       "sources": [
         "simplify"
       ],
@@ -1199,14 +2143,60 @@
     },
     "lever:cesiumastro": {
       "ats": "lever",
-      "baseline_complete": false,
+      "baseline_complete": true,
       "failure_count": 0,
       "feed": "general",
+      "last_success": "2026-08-14",
       "last_verified": "2026-08-13",
       "name": "CesiumAstro",
       "promoted_until": null,
       "retry_after": null,
       "slug": "CesiumAstro",
+      "sources": [
+        "simplify"
+      ],
+      "status": "active"
+    },
+    "lever:cgsfederal": {
+      "ats": "lever",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-08-14",
+      "name": "CGS Federal (Contact Government Services)",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "cgsfederal",
+      "sources": [
+        "simplify"
+      ],
+      "status": "active"
+    },
+    "lever:cordtechnologies": {
+      "ats": "lever",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-08-14",
+      "name": "Encord",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "CordTechnologies",
+      "sources": [
+        "simplify"
+      ],
+      "status": "active"
+    },
+    "lever:ethena": {
+      "ats": "lever",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-08-14",
+      "name": "Ethena",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "ethena",
       "sources": [
         "simplify"
       ],
@@ -1228,6 +2218,21 @@
       ],
       "status": "active"
     },
+    "lever:mcaconnect": {
+      "ats": "lever",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-08-14",
+      "name": "MCA Connect",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "mcaconnect",
+      "sources": [
+        "simplify"
+      ],
+      "status": "active"
+    },
     "lever:modeln": {
       "ats": "lever",
       "baseline_complete": false,
@@ -1238,6 +2243,37 @@
       "promoted_until": null,
       "retry_after": null,
       "slug": "modeln",
+      "sources": [
+        "simplify"
+      ],
+      "status": "active"
+    },
+    "lever:nextech": {
+      "ats": "lever",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-08-14",
+      "name": "Nextech Systems",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "nextech",
+      "sources": [
+        "simplify"
+      ],
+      "status": "active"
+    },
+    "lever:q-ctrl": {
+      "ats": "lever",
+      "baseline_complete": true,
+      "failure_count": 0,
+      "feed": "general",
+      "last_success": "2026-08-14",
+      "last_verified": "2026-08-14",
+      "name": "Q-CTRL",
+      "promoted_until": "2026-11-12",
+      "retry_after": null,
+      "slug": "q-ctrl",
       "sources": [
         "simplify"
       ],
@@ -1276,9 +2312,9 @@
     "lever:sensortower": {
       "ats": "lever",
       "baseline_complete": false,
-      "failure_count": 1,
+      "failure_count": 2,
       "feed": "general",
-      "last_verified": "2026-08-13",
+      "last_verified": "2026-08-14",
       "name": "Sensor Tower",
       "promoted_until": null,
       "retry_after": null,
@@ -1306,9 +2342,9 @@
     "lever:southwestwater": {
       "ats": "lever",
       "baseline_complete": false,
-      "failure_count": 1,
+      "failure_count": 2,
       "feed": "general",
-      "last_verified": "2026-08-13",
+      "last_verified": "2026-08-14",
       "name": "South West Water",
       "promoted_until": null,
       "retry_after": null,
@@ -1321,9 +2357,9 @@
     "lever:sprucesystems": {
       "ats": "lever",
       "baseline_complete": false,
-      "failure_count": 1,
+      "failure_count": 2,
       "feed": "general",
-      "last_verified": "2026-08-13",
+      "last_verified": "2026-08-14",
       "name": "SpruceID",
       "promoted_until": null,
       "retry_after": null,
@@ -1333,11 +2369,72 @@
       ],
       "status": "candidate"
     },
-    "workday:https://2020companies.wd1.myworkdayjobs.com/wday/cxs/2020companies/external_careers/jobs": {
-      "ats": "workday",
+    "lever:starcompliance": {
+      "ats": "lever",
       "baseline_complete": false,
       "failure_count": 0,
       "feed": "general",
+      "last_verified": "2026-08-14",
+      "name": "StarCompliance",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "starcompliance",
+      "sources": [
+        "simplify"
+      ],
+      "status": "active"
+    },
+    "lever:veeva": {
+      "ats": "lever",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-08-14",
+      "name": "Veeva Systems",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "veeva",
+      "sources": [
+        "simplify"
+      ],
+      "status": "active"
+    },
+    "lever:wachter": {
+      "ats": "lever",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-08-14",
+      "name": "Wachter",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "wachter",
+      "sources": [
+        "simplify"
+      ],
+      "status": "active"
+    },
+    "lever:xsolla": {
+      "ats": "lever",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-08-14",
+      "name": "Xsolla",
+      "promoted_until": null,
+      "retry_after": null,
+      "slug": "xsolla",
+      "sources": [
+        "simplify"
+      ],
+      "status": "active"
+    },
+    "workday:https://2020companies.wd1.myworkdayjobs.com/wday/cxs/2020companies/external_careers/jobs": {
+      "ats": "workday",
+      "baseline_complete": true,
+      "failure_count": 0,
+      "feed": "general",
+      "last_success": "2026-08-14",
       "last_verified": "2026-08-13",
       "name": "2020 Companies",
       "promoted_until": null,
@@ -1350,9 +2447,10 @@
     },
     "workday:https://aah.wd5.myworkdayjobs.com/wday/cxs/aah/external/jobs": {
       "ats": "workday",
-      "baseline_complete": false,
+      "baseline_complete": true,
       "failure_count": 0,
       "feed": "general",
+      "last_success": "2026-08-14",
       "last_verified": "2026-08-13",
       "name": "Advocate Health Care",
       "promoted_until": null,
@@ -1377,6 +2475,22 @@
       ],
       "status": "active",
       "url": "https://abb.wd3.myworkdayjobs.com/wday/cxs/abb/external_career_page/jobs"
+    },
+    "workday:https://abbott.wd5.myworkdayjobs.com/wday/cxs/abbott/abbottcareers/jobs": {
+      "ats": "workday",
+      "baseline_complete": true,
+      "failure_count": 0,
+      "feed": "general",
+      "last_success": "2026-08-14",
+      "last_verified": "2026-08-14",
+      "name": "Abbott",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "active",
+      "url": "https://abbott.wd5.myworkdayjobs.com/wday/cxs/abbott/abbottcareers/jobs"
     },
     "workday:https://abbott.wd5.myworkdayjobs.com/wday/cxs/abbott/abbottcareers2/jobs": {
       "ats": "workday",
@@ -1411,9 +2525,9 @@
     "workday:https://activision.wd1.myworkdayjobs.com/wday/cxs/activision/external/jobs": {
       "ats": "workday",
       "baseline_complete": false,
-      "failure_count": 1,
+      "failure_count": 2,
       "feed": "general",
-      "last_verified": "2026-08-13",
+      "last_verified": "2026-08-14",
       "name": "Activision-Blizzard",
       "promoted_until": null,
       "retry_after": null,
@@ -1453,6 +2567,21 @@
       "status": "active",
       "url": "https://aero.wd5.myworkdayjobs.com/wday/cxs/aero/external/jobs"
     },
+    "workday:https://aes.wd1.myworkdayjobs.com/wday/cxs/aes/aes_clean_energy/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-08-14",
+      "name": "AES",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "active",
+      "url": "https://aes.wd1.myworkdayjobs.com/wday/cxs/aes/aes_clean_energy/jobs"
+    },
     "workday:https://aes.wd1.myworkdayjobs.com/wday/cxs/aes/aes_us/jobs": {
       "ats": "workday",
       "baseline_complete": false,
@@ -1470,9 +2599,10 @@
     },
     "workday:https://ag.wd3.myworkdayjobs.com/wday/cxs/ag/airbus/jobs": {
       "ats": "workday",
-      "baseline_complete": false,
+      "baseline_complete": true,
       "failure_count": 0,
       "feed": "general",
+      "last_success": "2026-08-14",
       "last_verified": "2026-08-13",
       "name": "Airbus",
       "promoted_until": null,
@@ -1482,6 +2612,21 @@
       ],
       "status": "active",
       "url": "https://ag.wd3.myworkdayjobs.com/wday/cxs/ag/Airbus/jobs"
+    },
+    "workday:https://agilent.wd5.myworkdayjobs.com/wday/cxs/agilent/agilent_careers/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-08-14",
+      "name": "Agilent Technologies",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "active",
+      "url": "https://agilent.wd5.myworkdayjobs.com/wday/cxs/agilent/Agilent_Careers/jobs"
     },
     "workday:https://agilent.wd5.myworkdayjobs.com/wday/cxs/agilent/agilent_student_careers/jobs": {
       "ats": "workday",
@@ -1529,6 +2674,22 @@
       "status": "active",
       "url": "https://aig.wd1.myworkdayjobs.com/wday/cxs/aig/aig/jobs"
     },
+    "workday:https://aig.wd1.myworkdayjobs.com/wday/cxs/aig/early_careers/jobs": {
+      "ats": "workday",
+      "baseline_complete": true,
+      "failure_count": 0,
+      "feed": "general",
+      "last_success": "2026-08-14",
+      "last_verified": "2026-08-14",
+      "name": "AIG",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "active",
+      "url": "https://aig.wd1.myworkdayjobs.com/wday/cxs/aig/early_careers/jobs"
+    },
     "workday:https://airliquidehr.wd3.myworkdayjobs.com/wday/cxs/airliquidehr/airgasexternalcareer/jobs": {
       "ats": "workday",
       "baseline_complete": false,
@@ -1574,11 +2735,42 @@
       "status": "active",
       "url": "https://alcon.wd5.myworkdayjobs.com/wday/cxs/alcon/careers_alcon/jobs"
     },
-    "workday:https://allstate.wd5.myworkdayjobs.com/wday/cxs/allstate/sourcing_event/jobs": {
+    "workday:https://allegion.wd5.myworkdayjobs.com/wday/cxs/allegion/careers/jobs": {
       "ats": "workday",
       "baseline_complete": false,
       "failure_count": 0,
       "feed": "general",
+      "last_verified": "2026-08-14",
+      "name": "Allegion",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "active",
+      "url": "https://allegion.wd5.myworkdayjobs.com/wday/cxs/allegion/careers/jobs"
+    },
+    "workday:https://allstate.wd5.myworkdayjobs.com/wday/cxs/allstate/allstate_careers/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-08-14",
+      "name": "Allstate Insurance Company",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "active",
+      "url": "https://allstate.wd5.myworkdayjobs.com/wday/cxs/allstate/allstate_careers/jobs"
+    },
+    "workday:https://allstate.wd5.myworkdayjobs.com/wday/cxs/allstate/sourcing_event/jobs": {
+      "ats": "workday",
+      "baseline_complete": true,
+      "failure_count": 0,
+      "feed": "general",
+      "last_success": "2026-08-14",
       "last_verified": "2026-08-13",
       "name": "Allstate Insurance Company",
       "promoted_until": null,
@@ -1635,6 +2827,21 @@
       "status": "active",
       "url": "https://americanfidelity.wd5.myworkdayjobs.com/wday/cxs/americanfidelity/External/jobs"
     },
+    "workday:https://amplify.wd1.myworkdayjobs.com/wday/cxs/amplify/amplify_careers/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 1,
+      "feed": "general",
+      "last_verified": "2026-08-14",
+      "name": "Amplify",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://amplify.wd1.myworkdayjobs.com/wday/cxs/amplify/Amplify_Careers/jobs"
+    },
     "workday:https://analogdevices.wd1.myworkdayjobs.com/wday/cxs/analogdevices/external/jobs": {
       "ats": "workday",
       "baseline_complete": false,
@@ -1652,9 +2859,10 @@
     },
     "workday:https://aoins.wd5.myworkdayjobs.com/wday/cxs/aoins/autoowners/jobs": {
       "ats": "workday",
-      "baseline_complete": false,
+      "baseline_complete": true,
       "failure_count": 0,
       "feed": "general",
+      "last_success": "2026-08-14",
       "last_verified": "2026-08-13",
       "name": "Auto-Owners Insurance",
       "promoted_until": null,
@@ -1682,9 +2890,10 @@
     },
     "workday:https://argonne.wd1.myworkdayjobs.com/wday/cxs/argonne/argonne_careers/jobs": {
       "ats": "workday",
-      "baseline_complete": false,
+      "baseline_complete": true,
       "failure_count": 0,
       "feed": "general",
+      "last_success": "2026-08-14",
       "last_verified": "2026-08-13",
       "name": "Argonne National Laboratory",
       "promoted_until": null,
@@ -1694,6 +2903,37 @@
       ],
       "status": "active",
       "url": "https://argonne.wd1.myworkdayjobs.com/wday/cxs/argonne/Argonne_Careers/jobs"
+    },
+    "workday:https://aristocrat.wd3.myworkdayjobs.com/wday/cxs/aristocrat/aristocratexternalcareerssite/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-08-14",
+      "name": "Aristocrat Leisure",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "active",
+      "url": "https://aristocrat.wd3.myworkdayjobs.com/wday/cxs/aristocrat/aristocratexternalcareerssite/jobs"
+    },
+    "workday:https://arrowstreetcapital.wd5.myworkdayjobs.com/wday/cxs/arrowstreetcapital/campus_careers/jobs": {
+      "ats": "workday",
+      "baseline_complete": true,
+      "failure_count": 0,
+      "feed": "general",
+      "last_success": "2026-08-14",
+      "last_verified": "2026-08-14",
+      "name": "Arrowstreet Capital",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "active",
+      "url": "https://arrowstreetcapital.wd5.myworkdayjobs.com/wday/cxs/arrowstreetcapital/Campus_Careers/jobs"
     },
     "workday:https://asml.wd3.myworkdayjobs.com/wday/cxs/asml/asmlext1/jobs": {
       "ats": "workday",
@@ -1709,6 +2949,21 @@
       ],
       "status": "active",
       "url": "https://asml.wd3.myworkdayjobs.com/wday/cxs/asml/asmlext1/jobs"
+    },
+    "workday:https://aspentech.wd5.myworkdayjobs.com/wday/cxs/aspentech/aspentech/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-08-14",
+      "name": "AspenTech",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "active",
+      "url": "https://aspentech.wd5.myworkdayjobs.com/wday/cxs/aspentech/aspentech/jobs"
     },
     "workday:https://astreya.wd5.myworkdayjobs.com/wday/cxs/astreya/life-at-astreya-opportunities/jobs": {
       "ats": "workday",
@@ -1726,11 +2981,27 @@
       "status": "active",
       "url": "https://astreya.wd5.myworkdayjobs.com/wday/cxs/astreya/life-at-astreya-opportunities/jobs"
     },
-    "workday:https://att.wd1.myworkdayjobs.com/wday/cxs/att/attgeneral/jobs": {
+    "workday:https://asurion.wd5.myworkdayjobs.com/wday/cxs/asurion/asurioncareers_us/jobs": {
       "ats": "workday",
       "baseline_complete": false,
       "failure_count": 0,
       "feed": "general",
+      "last_verified": "2026-08-14",
+      "name": "Asurion",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "active",
+      "url": "https://asurion.wd5.myworkdayjobs.com/wday/cxs/asurion/asurioncareers_us/jobs"
+    },
+    "workday:https://att.wd1.myworkdayjobs.com/wday/cxs/att/attgeneral/jobs": {
+      "ats": "workday",
+      "baseline_complete": true,
+      "failure_count": 0,
+      "feed": "general",
+      "last_success": "2026-08-14",
       "last_verified": "2026-08-13",
       "name": "AT&T",
       "promoted_until": null,
@@ -1743,9 +3014,10 @@
     },
     "workday:https://autodesk.wd1.myworkdayjobs.com/wday/cxs/autodesk/ext/jobs": {
       "ats": "workday",
-      "baseline_complete": false,
+      "baseline_complete": true,
       "failure_count": 0,
       "feed": "general",
+      "last_success": "2026-08-14",
       "last_verified": "2026-08-13",
       "name": "Autodesk",
       "promoted_until": null,
@@ -1800,6 +3072,53 @@
       ],
       "status": "active",
       "url": "https://bah.wd1.myworkdayjobs.com/wday/cxs/bah/bah_jobs/jobs"
+    },
+    "workday:https://bakerhughes.wd5.myworkdayjobs.com/wday/cxs/bakerhughes/bakerhughes/jobs": {
+      "ats": "workday",
+      "baseline_complete": true,
+      "failure_count": 0,
+      "feed": "general",
+      "last_success": "2026-08-14",
+      "last_verified": "2026-08-14",
+      "name": "Baker Hughes",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "active",
+      "url": "https://bakerhughes.wd5.myworkdayjobs.com/wday/cxs/bakerhughes/BakerHughes/jobs"
+    },
+    "workday:https://bakertilly.wd5.myworkdayjobs.com/wday/cxs/bakertilly/btcareers/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-08-14",
+      "name": "Baker Tilly",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "active",
+      "url": "https://bakertilly.wd5.myworkdayjobs.com/wday/cxs/bakertilly/BTCareers/jobs"
+    },
+    "workday:https://barclays.wd3.myworkdayjobs.com/wday/cxs/barclays/external_career_site_barclays/jobs": {
+      "ats": "workday",
+      "baseline_complete": true,
+      "failure_count": 0,
+      "feed": "general",
+      "last_success": "2026-08-14",
+      "last_verified": "2026-08-14",
+      "name": "Barclays",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "active",
+      "url": "https://barclays.wd3.myworkdayjobs.com/wday/cxs/barclays/External_Career_Site_Barclays/jobs"
     },
     "workday:https://barnard.wd1.myworkdayjobs.com/wday/cxs/barnard/staff/jobs": {
       "ats": "workday",
@@ -1863,6 +3182,21 @@
       "status": "active",
       "url": "https://belron.wd3.myworkdayjobs.com/wday/cxs/belron/Safelite_Careers/jobs"
     },
+    "workday:https://bilh.wd1.myworkdayjobs.com/wday/cxs/bilh/external/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-08-14",
+      "name": "Beth Israel Lahey Health",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "active",
+      "url": "https://bilh.wd1.myworkdayjobs.com/wday/cxs/bilh/External/jobs"
+    },
     "workday:https://blackrock.wd1.myworkdayjobs.com/wday/cxs/blackrock/blackrock_professional/jobs": {
       "ats": "workday",
       "baseline_complete": false,
@@ -1893,6 +3227,52 @@
       ],
       "status": "active",
       "url": "https://blueorigin.wd5.myworkdayjobs.com/wday/cxs/blueorigin/blueorigin/jobs"
+    },
+    "workday:https://bmo.wd3.myworkdayjobs.com/wday/cxs/bmo/campus/jobs": {
+      "ats": "workday",
+      "baseline_complete": true,
+      "failure_count": 0,
+      "feed": "general",
+      "last_success": "2026-08-14",
+      "last_verified": "2026-08-14",
+      "name": "BMO",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "active",
+      "url": "https://bmo.wd3.myworkdayjobs.com/wday/cxs/bmo/Campus/jobs"
+    },
+    "workday:https://bmo.wd3.myworkdayjobs.com/wday/cxs/bmo/external/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-08-14",
+      "name": "Bank of Montreal",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "active",
+      "url": "https://bmo.wd3.myworkdayjobs.com/wday/cxs/bmo/External/jobs"
+    },
+    "workday:https://bmo.wd3.myworkdayjobs.com/wday/cxs/bmo/privileged/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-08-14",
+      "name": "BMO",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "active",
+      "url": "https://bmo.wd3.myworkdayjobs.com/wday/cxs/bmo/Privileged/jobs"
     },
     "workday:https://bnl.wd1.myworkdayjobs.com/wday/cxs/bnl/externa/jobs": {
       "ats": "workday",
@@ -1955,14 +3335,75 @@
       "status": "active",
       "url": "https://brinks.wd5.myworkdayjobs.com/wday/cxs/brinks/brinkscareersus/jobs"
     },
-    "workday:https://caci.wd1.myworkdayjobs.com/wday/cxs/caci/external/jobs": {
+    "workday:https://brookfield.wd5.myworkdayjobs.com/wday/cxs/brookfield/bpandc/jobs": {
       "ats": "workday",
       "baseline_complete": false,
       "failure_count": 0,
       "feed": "general",
+      "last_verified": "2026-08-14",
+      "name": "Argo Group",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "active",
+      "url": "https://brookfield.wd5.myworkdayjobs.com/wday/cxs/brookfield/bpandc/jobs"
+    },
+    "workday:https://brunswick.wd1.myworkdayjobs.com/wday/cxs/brunswick/search/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-08-14",
+      "name": "Brunswick",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "active",
+      "url": "https://brunswick.wd1.myworkdayjobs.com/wday/cxs/brunswick/search/jobs"
+    },
+    "workday:https://bupa.wd3.myworkdayjobs.com/wday/cxs/bupa/ext_career/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-08-14",
+      "name": "Bupa",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "active",
+      "url": "https://bupa.wd3.myworkdayjobs.com/wday/cxs/bupa/ext_career/jobs"
+    },
+    "workday:https://byu.wd1.myworkdayjobs.com/wday/cxs/byu/byu-careers/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-08-14",
+      "name": "Brigham Young University - Provo",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "active",
+      "url": "https://byu.wd1.myworkdayjobs.com/wday/cxs/byu/byu-careers/jobs"
+    },
+    "workday:https://caci.wd1.myworkdayjobs.com/wday/cxs/caci/external/jobs": {
+      "ats": "workday",
+      "baseline_complete": true,
+      "failure_count": 0,
+      "feed": "general",
+      "last_success": "2026-08-14",
       "last_verified": "2026-08-13",
       "name": "CACI",
-      "promoted_until": null,
+      "promoted_until": "2026-11-12",
       "retry_after": null,
       "sources": [
         "simplify"
@@ -1985,6 +3426,21 @@
       "status": "active",
       "url": "https://cadence.wd1.myworkdayjobs.com/wday/cxs/cadence/External_Careers/jobs"
     },
+    "workday:https://cadence.wd1.myworkdayjobs.com/wday/cxs/cadence/univ_careers/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-08-14",
+      "name": "Cadence Design Systems",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "active",
+      "url": "https://cadence.wd1.myworkdayjobs.com/wday/cxs/cadence/Univ_Careers/jobs"
+    },
     "workday:https://cae.wd3.myworkdayjobs.com/wday/cxs/cae/career/jobs": {
       "ats": "workday",
       "baseline_complete": true,
@@ -2000,6 +3456,21 @@
       ],
       "status": "active",
       "url": "https://cae.wd3.myworkdayjobs.com/wday/cxs/cae/career/jobs"
+    },
+    "workday:https://calix.wd1.myworkdayjobs.com/wday/cxs/calix/external/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-08-14",
+      "name": "Calix",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "active",
+      "url": "https://calix.wd1.myworkdayjobs.com/wday/cxs/calix/External/jobs"
     },
     "workday:https://campaignmonitor.wd5.myworkdayjobs.com/wday/cxs/campaignmonitor/marigold/jobs": {
       "ats": "workday",
@@ -2061,6 +3532,21 @@
       "status": "active",
       "url": "https://capri.wd1.myworkdayjobs.com/wday/cxs/capri/michael_kors/jobs"
     },
+    "workday:https://cardinalhealth.wd1.myworkdayjobs.com/wday/cxs/cardinalhealth/ext/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-08-14",
+      "name": "Cardinal Health",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "active",
+      "url": "https://cardinalhealth.wd1.myworkdayjobs.com/wday/cxs/cardinalhealth/EXT/jobs"
+    },
     "workday:https://cat.wd5.myworkdayjobs.com/wday/cxs/cat/caterpillarcareers/jobs": {
       "ats": "workday",
       "baseline_complete": false,
@@ -2076,11 +3562,27 @@
       "status": "active",
       "url": "https://cat.wd5.myworkdayjobs.com/wday/cxs/cat/CaterpillarCareers/jobs"
     },
-    "workday:https://centene.wd5.myworkdayjobs.com/wday/cxs/centene/centene_external/jobs": {
+    "workday:https://cat.wd5.myworkdayjobs.com/wday/cxs/cat/solarturbines/jobs": {
       "ats": "workday",
       "baseline_complete": false,
       "failure_count": 0,
       "feed": "general",
+      "last_verified": "2026-08-14",
+      "name": "Solar Turbines",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "active",
+      "url": "https://cat.wd5.myworkdayjobs.com/wday/cxs/cat/solarturbines/jobs"
+    },
+    "workday:https://centene.wd5.myworkdayjobs.com/wday/cxs/centene/centene_external/jobs": {
+      "ats": "workday",
+      "baseline_complete": true,
+      "failure_count": 0,
+      "feed": "general",
+      "last_success": "2026-08-14",
       "last_verified": "2026-08-13",
       "name": "Centene",
       "promoted_until": null,
@@ -2105,6 +3607,21 @@
       ],
       "status": "active",
       "url": "https://centrica.wd3.myworkdayjobs.com/wday/cxs/centrica/Centrica/jobs"
+    },
+    "workday:https://ceritypartners.wd12.myworkdayjobs.com/wday/cxs/ceritypartners/ceritypartnerscareers/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-08-14",
+      "name": "Cerity Partners",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "active",
+      "url": "https://ceritypartners.wd12.myworkdayjobs.com/wday/cxs/ceritypartners/ceritypartnerscareers/jobs"
     },
     "workday:https://cgg.wd103.myworkdayjobs.com/wday/cxs/cgg/viridiencareers/jobs": {
       "ats": "workday",
@@ -2136,12 +3653,43 @@
       "status": "active",
       "url": "https://chamberlain.wd1.myworkdayjobs.com/wday/cxs/chamberlain/Chamberlain_Group/jobs"
     },
+    "workday:https://championx.wd1.myworkdayjobs.com/wday/cxs/championx/championx_external/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-08-14",
+      "name": "ChampionX",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "active",
+      "url": "https://championx.wd1.myworkdayjobs.com/wday/cxs/championx/championx_external/jobs"
+    },
+    "workday:https://charlottenc.wd12.myworkdayjobs.com/wday/cxs/charlottenc/citgov/jobs": {
+      "ats": "workday",
+      "baseline_complete": true,
+      "failure_count": 0,
+      "feed": "general",
+      "last_success": "2026-08-14",
+      "last_verified": "2026-08-14",
+      "name": "City of Charlotte",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "active",
+      "url": "https://charlottenc.wd12.myworkdayjobs.com/wday/cxs/charlottenc/citgov/jobs"
+    },
     "workday:https://chop.wd5.myworkdayjobs.com/wday/cxs/chop/chopexternalcareers/jobs": {
       "ats": "workday",
       "baseline_complete": false,
-      "failure_count": 1,
+      "failure_count": 2,
       "feed": "general",
-      "last_verified": "2026-08-13",
+      "last_verified": "2026-08-14",
       "name": "Children's Hospital of Philadelphia",
       "promoted_until": null,
       "retry_after": null,
@@ -2151,11 +3699,27 @@
       "status": "candidate",
       "url": "https://chop.wd5.myworkdayjobs.com/wday/cxs/chop/CHOPExternalCareers/jobs"
     },
-    "workday:https://ciena.wd5.myworkdayjobs.com/wday/cxs/ciena/careers/jobs": {
+    "workday:https://cibc.wd3.myworkdayjobs.com/wday/cxs/cibc/search/jobs": {
       "ats": "workday",
       "baseline_complete": false,
       "failure_count": 0,
       "feed": "general",
+      "last_verified": "2026-08-14",
+      "name": "CIBC",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "active",
+      "url": "https://cibc.wd3.myworkdayjobs.com/wday/cxs/cibc/search/jobs"
+    },
+    "workday:https://ciena.wd5.myworkdayjobs.com/wday/cxs/ciena/careers/jobs": {
+      "ats": "workday",
+      "baseline_complete": true,
+      "failure_count": 0,
+      "feed": "general",
+      "last_success": "2026-08-14",
       "last_verified": "2026-08-13",
       "name": "Ciena",
       "promoted_until": null,
@@ -2196,12 +3760,27 @@
       "status": "active",
       "url": "https://citi.wd5.myworkdayjobs.com/wday/cxs/citi/2/jobs"
     },
+    "workday:https://clearesult.wd1.myworkdayjobs.com/wday/cxs/clearesult/clearesult_external_careers/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-08-14",
+      "name": "CLEAResult",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "active",
+      "url": "https://clearesult.wd1.myworkdayjobs.com/wday/cxs/clearesult/CLEAResult_External_Careers/jobs"
+    },
     "workday:https://cliftonlarsonallen.wd1.myworkdayjobs.com/wday/cxs/cliftonlarsonallen/cla/jobs": {
       "ats": "workday",
       "baseline_complete": false,
-      "failure_count": 1,
+      "failure_count": 2,
       "feed": "general",
-      "last_verified": "2026-08-13",
+      "last_verified": "2026-08-14",
       "name": "CliftonLarsonAllen",
       "promoted_until": null,
       "retry_after": null,
@@ -2210,6 +3789,21 @@
       ],
       "status": "candidate",
       "url": "https://cliftonlarsonallen.wd1.myworkdayjobs.com/wday/cxs/cliftonlarsonallen/CLA/jobs"
+    },
+    "workday:https://cloudbreak.wd12.myworkdayjobs.com/wday/cxs/cloudbreak/equiti/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-08-14",
+      "name": "Equiti",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "active",
+      "url": "https://cloudbreak.wd12.myworkdayjobs.com/wday/cxs/cloudbreak/Equiti/jobs"
     },
     "workday:https://cmu.wd5.myworkdayjobs.com/wday/cxs/cmu/cmu/jobs": {
       "ats": "workday",
@@ -2290,9 +3884,9 @@
     "workday:https://condenast.wd5.myworkdayjobs.com/wday/cxs/condenast/condecareers/jobs": {
       "ats": "workday",
       "baseline_complete": false,
-      "failure_count": 1,
+      "failure_count": 2,
       "feed": "general",
-      "last_verified": "2026-08-13",
+      "last_verified": "2026-08-14",
       "name": "Conde Nast",
       "promoted_until": null,
       "retry_after": null,
@@ -2317,6 +3911,21 @@
       ],
       "status": "active",
       "url": "https://cox.wd1.myworkdayjobs.com/wday/cxs/cox/Cox_External_Career_Site_1/jobs"
+    },
+    "workday:https://crowdstrike.wd5.myworkdayjobs.com/wday/cxs/crowdstrike/crowdstrikecareers/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-08-14",
+      "name": "Crowdstrike",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "active",
+      "url": "https://crowdstrike.wd5.myworkdayjobs.com/wday/cxs/crowdstrike/crowdstrikecareers/jobs"
     },
     "workday:https://crowe.wd12.myworkdayjobs.com/wday/cxs/crowe/external_careers/jobs": {
       "ats": "workday",
@@ -2347,6 +3956,37 @@
       ],
       "status": "active",
       "url": "https://csiweb.wd1.myworkdayjobs.com/wday/cxs/csiweb/CSI_Careers/jobs"
+    },
+    "workday:https://curtisswright.wd1.myworkdayjobs.com/wday/cxs/curtisswright/cw_external_career_site/jobs": {
+      "ats": "workday",
+      "baseline_complete": true,
+      "failure_count": 0,
+      "feed": "general",
+      "last_success": "2026-08-14",
+      "last_verified": "2026-08-14",
+      "name": "Curtiss-Wright Corporation",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "active",
+      "url": "https://curtisswright.wd1.myworkdayjobs.com/wday/cxs/curtisswright/cw_external_career_site/jobs"
+    },
+    "workday:https://cvshealth.wd1.myworkdayjobs.com/wday/cxs/cvshealth/cvs_health_careers/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-08-14",
+      "name": "CVS Health",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "active",
+      "url": "https://cvshealth.wd1.myworkdayjobs.com/wday/cxs/cvshealth/CVS_Health_Careers/jobs"
     },
     "workday:https://cvshealth.wd1.myworkdayjobs.com/wday/cxs/cvshealth/private_postings_intern_conversion_only/jobs": {
       "ats": "workday",
@@ -2439,6 +4079,51 @@
       "status": "active",
       "url": "https://dell.wd1.myworkdayjobs.com/wday/cxs/dell/External/jobs"
     },
+    "workday:https://deseretmanagement.wd1.myworkdayjobs.com/wday/cxs/deseretmanagement/bonsaltlake/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-08-14",
+      "name": "Bonneville International",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "active",
+      "url": "https://deseretmanagement.wd1.myworkdayjobs.com/wday/cxs/deseretmanagement/BonSaltLake/jobs"
+    },
+    "workday:https://dexcom.wd1.myworkdayjobs.com/wday/cxs/dexcom/dexcom/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-08-14",
+      "name": "Dexcom",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "active",
+      "url": "https://dexcom.wd1.myworkdayjobs.com/wday/cxs/dexcom/Dexcom/jobs"
+    },
+    "workday:https://dimensional.wd5.myworkdayjobs.com/wday/cxs/dimensional/dfa_careers/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-08-14",
+      "name": "Dimensional Fund Advisors",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "active",
+      "url": "https://dimensional.wd5.myworkdayjobs.com/wday/cxs/dimensional/dfa_careers/jobs"
+    },
     "workday:https://disney.wd5.myworkdayjobs.com/wday/cxs/disney/disneycareer/jobs": {
       "ats": "workday",
       "baseline_complete": false,
@@ -2469,6 +4154,36 @@
       "status": "active",
       "url": "https://dmainc.wd5.myworkdayjobs.com/wday/cxs/dmainc/dma/jobs"
     },
+    "workday:https://doterra.wd1.myworkdayjobs.com/wday/cxs/doterra/doterracareers/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-08-14",
+      "name": "doTERRA",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "active",
+      "url": "https://doterra.wd1.myworkdayjobs.com/wday/cxs/doterra/doTERRACareers/jobs"
+    },
+    "workday:https://dowjones.wd1.myworkdayjobs.com/wday/cxs/dowjones/dow_jones_career/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-08-14",
+      "name": "Dow Jones",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "active",
+      "url": "https://dowjones.wd1.myworkdayjobs.com/wday/cxs/dowjones/Dow_Jones_Career/jobs"
+    },
     "workday:https://draftkings.wd1.myworkdayjobs.com/wday/cxs/draftkings/draftkings/jobs": {
       "ats": "workday",
       "baseline_complete": false,
@@ -2486,9 +4201,10 @@
     },
     "workday:https://draper.wd5.myworkdayjobs.com/wday/cxs/draper/draper_careers/jobs": {
       "ats": "workday",
-      "baseline_complete": false,
+      "baseline_complete": true,
       "failure_count": 0,
       "feed": "general",
+      "last_success": "2026-08-14",
       "last_verified": "2026-08-13",
       "name": "Draper",
       "promoted_until": null,
@@ -2513,6 +4229,51 @@
       ],
       "status": "active",
       "url": "https://dtna.wd5.myworkdayjobs.com/wday/cxs/dtna/DTNA_external/jobs"
+    },
+    "workday:https://dxctechnology.wd1.myworkdayjobs.com/wday/cxs/dxctechnology/dxcjobs/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-08-14",
+      "name": "DXC Technology",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "active",
+      "url": "https://dxctechnology.wd1.myworkdayjobs.com/wday/cxs/dxctechnology/dxcjobs/jobs"
+    },
+    "workday:https://ebi.wd5.myworkdayjobs.com/wday/cxs/ebi/ebadcareers/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-08-14",
+      "name": "Ensign-Bickford Aerospace & Defense Company",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "active",
+      "url": "https://ebi.wd5.myworkdayjobs.com/wday/cxs/ebi/ebadcareers/jobs"
+    },
+    "workday:https://elkay.wd1.myworkdayjobs.com/wday/cxs/elkay/elkay_external/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-08-14",
+      "name": "Zurn Elkay Water Solutions",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "active",
+      "url": "https://elkay.wd1.myworkdayjobs.com/wday/cxs/elkay/Elkay_External/jobs"
     },
     "workday:https://empower.wd12.myworkdayjobs.com/wday/cxs/empower/empower/jobs": {
       "ats": "workday",
@@ -2544,6 +4305,36 @@
       "status": "active",
       "url": "https://entegris.wd1.myworkdayjobs.com/wday/cxs/entegris/entegriscareers/jobs"
     },
+    "workday:https://entrust.wd1.myworkdayjobs.com/wday/cxs/entrust/entrustcareers/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-08-14",
+      "name": "Entrust",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "active",
+      "url": "https://entrust.wd1.myworkdayjobs.com/wday/cxs/entrust/entrustcareers/jobs"
+    },
+    "workday:https://equifax.wd5.myworkdayjobs.com/wday/cxs/equifax/external/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-08-14",
+      "name": "Equifax",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "active",
+      "url": "https://equifax.wd5.myworkdayjobs.com/wday/cxs/equifax/external/jobs"
+    },
     "workday:https://erm.wd3.myworkdayjobs.com/wday/cxs/erm/erm_careers/jobs": {
       "ats": "workday",
       "baseline_complete": false,
@@ -2573,6 +4364,21 @@
       ],
       "status": "active",
       "url": "https://etsy.wd5.myworkdayjobs.com/wday/cxs/etsy/Etsy_Careers/jobs"
+    },
+    "workday:https://expedia.wd108.myworkdayjobs.com/wday/cxs/expedia/search/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-08-14",
+      "name": "Expedia Group",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "active",
+      "url": "https://expedia.wd108.myworkdayjobs.com/wday/cxs/expedia/search/jobs"
     },
     "workday:https://factset.wd108.myworkdayjobs.com/wday/cxs/factset/factsetcareers/jobs": {
       "ats": "workday",
@@ -2604,6 +4410,21 @@
       "status": "active",
       "url": "https://fanniemae.wd1.myworkdayjobs.com/wday/cxs/fanniemae/FannieMaeCareers/jobs"
     },
+    "workday:https://fermilab.wd5.myworkdayjobs.com/wday/cxs/fermilab/fermilabcareers/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-08-14",
+      "name": "Fermilab",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "active",
+      "url": "https://fermilab.wd5.myworkdayjobs.com/wday/cxs/fermilab/FermilabCareers/jobs"
+    },
     "workday:https://ffin.wd1.myworkdayjobs.com/wday/cxs/ffin/first_financial_bank/jobs": {
       "ats": "workday",
       "baseline_complete": false,
@@ -2621,9 +4442,10 @@
     },
     "workday:https://fis.wd5.myworkdayjobs.com/wday/cxs/fis/searchjobs/jobs": {
       "ats": "workday",
-      "baseline_complete": false,
+      "baseline_complete": true,
       "failure_count": 0,
       "feed": "general",
+      "last_success": "2026-08-14",
       "last_verified": "2026-08-13",
       "name": "Fidelity National Information Services",
       "promoted_until": null,
@@ -2636,12 +4458,13 @@
     },
     "workday:https://fiserv.wd5.myworkdayjobs.com/wday/cxs/fiserv/ext/jobs": {
       "ats": "workday",
-      "baseline_complete": false,
+      "baseline_complete": true,
       "failure_count": 0,
       "feed": "general",
+      "last_success": "2026-08-14",
       "last_verified": "2026-08-13",
       "name": "Fiserv",
-      "promoted_until": null,
+      "promoted_until": "2026-11-12",
       "retry_after": null,
       "sources": [
         "simplify"
@@ -2681,9 +4504,10 @@
     },
     "workday:https://fmr.wd1.myworkdayjobs.com/wday/cxs/fmr/fidelitycareers/jobs": {
       "ats": "workday",
-      "baseline_complete": false,
+      "baseline_complete": true,
       "failure_count": 0,
       "feed": "general",
+      "last_success": "2026-08-14",
       "last_verified": "2026-08-13",
       "name": "Fidelity Investments",
       "promoted_until": null,
@@ -2708,6 +4532,36 @@
       ],
       "status": "active",
       "url": "https://fourseasons.wd3.myworkdayjobs.com/wday/cxs/fourseasons/search/jobs"
+    },
+    "workday:https://fox.wd1.myworkdayjobs.com/wday/cxs/fox/domestic/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-08-14",
+      "name": "FOX",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "active",
+      "url": "https://fox.wd1.myworkdayjobs.com/wday/cxs/fox/Domestic/jobs"
+    },
+    "workday:https://gdit.wd5.myworkdayjobs.com/wday/cxs/gdit/external_career_site/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-08-14",
+      "name": "General Dynamics Information Technology",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "active",
+      "url": "https://gdit.wd5.myworkdayjobs.com/wday/cxs/gdit/external_career_site/jobs"
     },
     "workday:https://geaerospace.wd5.myworkdayjobs.com/wday/cxs/geaerospace/ge_externalsite/jobs": {
       "ats": "workday",
@@ -2738,6 +4592,21 @@
       ],
       "status": "active",
       "url": "https://gehc.wd5.myworkdayjobs.com/wday/cxs/gehc/GEHC_ExternalSite/jobs"
+    },
+    "workday:https://generalmotors.wd5.myworkdayjobs.com/wday/cxs/generalmotors/careers_gm/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-08-14",
+      "name": "General Motors",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "active",
+      "url": "https://generalmotors.wd5.myworkdayjobs.com/wday/cxs/generalmotors/Careers_GM/jobs"
     },
     "workday:https://genpt.wd1.myworkdayjobs.com/wday/cxs/genpt/careers/jobs": {
       "ats": "workday",
@@ -2830,12 +4699,42 @@
       "status": "active",
       "url": "https://globalhr.wd5.myworkdayjobs.com/wday/cxs/globalhr/rec_rtx_ext_gateway/jobs"
     },
+    "workday:https://globusmedical.wd5.myworkdayjobs.com/wday/cxs/globusmedical/gmed_careers/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-08-14",
+      "name": "Globus Medical",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "active",
+      "url": "https://globusmedical.wd5.myworkdayjobs.com/wday/cxs/globusmedical/GMED_Careers/jobs"
+    },
+    "workday:https://gsknch.wd3.myworkdayjobs.com/wday/cxs/gsknch/gskcareers/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-08-14",
+      "name": "Haleon",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "active",
+      "url": "https://gsknch.wd3.myworkdayjobs.com/wday/cxs/gsknch/GSKCareers/jobs"
+    },
     "workday:https://gtsgbu.wd3.myworkdayjobs.com/wday/cxs/gtsgbu/careers/jobs": {
       "ats": "workday",
       "baseline_complete": false,
-      "failure_count": 1,
+      "failure_count": 2,
       "feed": "general",
-      "last_verified": "2026-08-13",
+      "last_verified": "2026-08-14",
       "name": "Hitachi",
       "promoted_until": null,
       "retry_after": null,
@@ -2845,14 +4744,45 @@
       "status": "candidate",
       "url": "https://gtsgbu.wd3.myworkdayjobs.com/wday/cxs/gtsgbu/Careers/jobs"
     },
-    "workday:https://harriscomputer.wd3.myworkdayjobs.com/wday/cxs/harriscomputer/1/jobs": {
+    "workday:https://halma.wd3.myworkdayjobs.com/wday/cxs/halma/halma/jobs": {
       "ats": "workday",
       "baseline_complete": false,
       "failure_count": 0,
       "feed": "general",
+      "last_verified": "2026-08-14",
+      "name": "Ocean Optics",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "active",
+      "url": "https://halma.wd3.myworkdayjobs.com/wday/cxs/halma/halma/jobs"
+    },
+    "workday:https://hancockwhitney.wd5.myworkdayjobs.com/wday/cxs/hancockwhitney/careers/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-08-14",
+      "name": "Hancock Whitney",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "active",
+      "url": "https://hancockwhitney.wd5.myworkdayjobs.com/wday/cxs/hancockwhitney/Careers/jobs"
+    },
+    "workday:https://harriscomputer.wd3.myworkdayjobs.com/wday/cxs/harriscomputer/1/jobs": {
+      "ats": "workday",
+      "baseline_complete": true,
+      "failure_count": 0,
+      "feed": "general",
+      "last_success": "2026-08-14",
       "last_verified": "2026-08-13",
       "name": "Harris Computer",
-      "promoted_until": null,
+      "promoted_until": "2026-11-12",
       "retry_after": null,
       "sources": [
         "simplify"
@@ -2874,6 +4804,21 @@
       ],
       "status": "active",
       "url": "https://hcmportal.wd5.myworkdayjobs.com/wday/cxs/hcmportal/Search/jobs"
+    },
+    "workday:https://healthfirst.wd1.myworkdayjobs.com/wday/cxs/healthfirst/healthfirst/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-08-14",
+      "name": "Healthfirst",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "active",
+      "url": "https://healthfirst.wd1.myworkdayjobs.com/wday/cxs/healthfirst/healthfirst/jobs"
     },
     "workday:https://healthplanone.wd1.myworkdayjobs.com/wday/cxs/healthplanone/hpone/jobs": {
       "ats": "workday",
@@ -2920,6 +4865,37 @@
       "status": "active",
       "url": "https://highmarkhealth.wd1.myworkdayjobs.com/wday/cxs/highmarkhealth/highmark/jobs"
     },
+    "workday:https://hollandhospital.wd1.myworkdayjobs.com/wday/cxs/hollandhospital/external/jobs": {
+      "ats": "workday",
+      "baseline_complete": true,
+      "failure_count": 0,
+      "feed": "general",
+      "last_success": "2026-08-14",
+      "last_verified": "2026-08-14",
+      "name": "Holland Hospital",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "active",
+      "url": "https://hollandhospital.wd1.myworkdayjobs.com/wday/cxs/hollandhospital/external/jobs"
+    },
+    "workday:https://hp.wd5.myworkdayjobs.com/wday/cxs/hp/externalcareersite/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-08-14",
+      "name": "Hewlett Packard (HP)",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "active",
+      "url": "https://hp.wd5.myworkdayjobs.com/wday/cxs/hp/ExternalCareerSite/jobs"
+    },
     "workday:https://hpe.wd5.myworkdayjobs.com/wday/cxs/hpe/jobsathpe/jobs": {
       "ats": "workday",
       "baseline_complete": false,
@@ -2934,6 +4910,21 @@
       ],
       "status": "active",
       "url": "https://hpe.wd5.myworkdayjobs.com/wday/cxs/hpe/Jobsathpe/jobs"
+    },
+    "workday:https://huntington.wd12.myworkdayjobs.com/wday/cxs/huntington/hnbcareers/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-08-14",
+      "name": "Huntington Bancshares",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "active",
+      "url": "https://huntington.wd12.myworkdayjobs.com/wday/cxs/huntington/HNBcareers/jobs"
     },
     "workday:https://huron.wd1.myworkdayjobs.com/wday/cxs/huron/huroncareers/jobs": {
       "ats": "workday",
@@ -2950,6 +4941,21 @@
       ],
       "status": "active",
       "url": "https://huron.wd1.myworkdayjobs.com/wday/cxs/huron/huroncareers/jobs"
+    },
+    "workday:https://husqvarnagroup.wd3.myworkdayjobs.com/wday/cxs/husqvarnagroup/external_career_site/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-08-14",
+      "name": "Husqvarna Group",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "active",
+      "url": "https://husqvarnagroup.wd3.myworkdayjobs.com/wday/cxs/husqvarnagroup/External_Career_Site/jobs"
     },
     "workday:https://ibotta.wd1.myworkdayjobs.com/wday/cxs/ibotta/ibotta/jobs": {
       "ats": "workday",
@@ -2968,9 +4974,10 @@
     },
     "workday:https://icf.wd5.myworkdayjobs.com/wday/cxs/icf/icfexternal_career_site/jobs": {
       "ats": "workday",
-      "baseline_complete": false,
+      "baseline_complete": true,
       "failure_count": 0,
       "feed": "general",
+      "last_success": "2026-08-14",
       "last_verified": "2026-08-13",
       "name": "ICF International",
       "promoted_until": null,
@@ -2996,6 +5003,51 @@
       "status": "active",
       "url": "https://idexcorp.wd5.myworkdayjobs.com/wday/cxs/idexcorp/idex_careers/jobs"
     },
+    "workday:https://imh.wd108.myworkdayjobs.com/wday/cxs/imh/intermountaincareers/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-08-14",
+      "name": "Intermountain Healthcare",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "active",
+      "url": "https://imh.wd108.myworkdayjobs.com/wday/cxs/imh/IntermountainCareers/jobs"
+    },
+    "workday:https://ing.wd3.myworkdayjobs.com/wday/cxs/ing/icsgblcor/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-08-14",
+      "name": "ING",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "active",
+      "url": "https://ing.wd3.myworkdayjobs.com/wday/cxs/ing/icsgblcor/jobs"
+    },
+    "workday:https://intactfc.wd3.myworkdayjobs.com/wday/cxs/intactfc/intactfc/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-08-14",
+      "name": "Intact",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "active",
+      "url": "https://intactfc.wd3.myworkdayjobs.com/wday/cxs/intactfc/intactfc/jobs"
+    },
     "workday:https://integritymarketing.wd1.myworkdayjobs.com/wday/cxs/integritymarketing/integrity/jobs": {
       "ats": "workday",
       "baseline_complete": false,
@@ -3010,6 +5062,36 @@
       ],
       "status": "active",
       "url": "https://integritymarketing.wd1.myworkdayjobs.com/wday/cxs/integritymarketing/Integrity/jobs"
+    },
+    "workday:https://invenergyllc.wd1.myworkdayjobs.com/wday/cxs/invenergyllc/invenergycareers/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-08-14",
+      "name": "Invenergy",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "active",
+      "url": "https://invenergyllc.wd1.myworkdayjobs.com/wday/cxs/invenergyllc/invenergycareers/jobs"
+    },
+    "workday:https://isu.wd1.myworkdayjobs.com/wday/cxs/isu/iowastatejobs/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-08-14",
+      "name": "Iowa State University",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "active",
+      "url": "https://isu.wd1.myworkdayjobs.com/wday/cxs/isu/IowaStateJobs/jobs"
     },
     "workday:https://jabil.wd5.myworkdayjobs.com/wday/cxs/jabil/jabil_careers/jobs": {
       "ats": "workday",
@@ -3056,6 +5138,21 @@
       "status": "active",
       "url": "https://jda.wd5.myworkdayjobs.com/wday/cxs/jda/university/jobs"
     },
+    "workday:https://jj.wd5.myworkdayjobs.com/wday/cxs/jj/jj/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-08-14",
+      "name": "Johnson & Johnson",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "active",
+      "url": "https://jj.wd5.myworkdayjobs.com/wday/cxs/jj/JJ/jobs"
+    },
     "workday:https://jll.wd1.myworkdayjobs.com/wday/cxs/jll/jllcareers/jobs": {
       "ats": "workday",
       "baseline_complete": false,
@@ -3070,6 +5167,21 @@
       ],
       "status": "active",
       "url": "https://jll.wd1.myworkdayjobs.com/wday/cxs/jll/jllcareers/jobs"
+    },
+    "workday:https://jmfamily.wd1.myworkdayjobs.com/wday/cxs/jmfamily/jmfamily_external/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-08-14",
+      "name": "JM Family",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "active",
+      "url": "https://jmfamily.wd1.myworkdayjobs.com/wday/cxs/jmfamily/jmfamily_external/jobs"
     },
     "workday:https://kbi.wd5.myworkdayjobs.com/wday/cxs/kbi/kontoor/jobs": {
       "ats": "workday",
@@ -3101,6 +5213,21 @@
       "status": "active",
       "url": "https://kbr.wd5.myworkdayjobs.com/wday/cxs/kbr/KBR_Careers/jobs"
     },
+    "workday:https://kcura.wd1.myworkdayjobs.com/wday/cxs/kcura/external_career_site/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-08-14",
+      "name": "Relativity",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "active",
+      "url": "https://kcura.wd1.myworkdayjobs.com/wday/cxs/kcura/External_Career_Site/jobs"
+    },
     "workday:https://kiongroup.wd3.myworkdayjobs.com/wday/cxs/kiongroup/kion_scs/jobs": {
       "ats": "workday",
       "baseline_complete": false,
@@ -3116,6 +5243,36 @@
       "status": "active",
       "url": "https://kiongroup.wd3.myworkdayjobs.com/wday/cxs/kiongroup/kion_scs/jobs"
     },
+    "workday:https://kiongroup.wd3.myworkdayjobs.com/wday/cxs/kiongroup/kiongroup/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-08-14",
+      "name": "KION Group",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "active",
+      "url": "https://kiongroup.wd3.myworkdayjobs.com/wday/cxs/kiongroup/kiongroup/jobs"
+    },
+    "workday:https://kla.wd1.myworkdayjobs.com/wday/cxs/kla/annarbor/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-08-14",
+      "name": "KLA",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "active",
+      "url": "https://kla.wd1.myworkdayjobs.com/wday/cxs/kla/AnnArbor/jobs"
+    },
     "workday:https://kla.wd1.myworkdayjobs.com/wday/cxs/kla/search/jobs": {
       "ats": "workday",
       "baseline_complete": false,
@@ -3130,6 +5287,52 @@
       ],
       "status": "active",
       "url": "https://kla.wd1.myworkdayjobs.com/wday/cxs/kla/search/jobs"
+    },
+    "workday:https://kla.wd1.myworkdayjobs.com/wday/cxs/kla/ur/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-08-14",
+      "name": "KLA",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "active",
+      "url": "https://kla.wd1.myworkdayjobs.com/wday/cxs/kla/UR/jobs"
+    },
+    "workday:https://kone.wd3.myworkdayjobs.com/wday/cxs/kone/careers/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "last_verified": "2026-08-14",
+      "name": "KONE",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "active",
+      "url": "https://kone.wd3.myworkdayjobs.com/wday/cxs/kone/careers/jobs"
+    },
+    "workday:https://lbg.wd3.myworkdayjobs.com/wday/cxs/lbg/lbg_careers/jobs": {
+      "ats": "workday",
+      "baseline_complete": true,
+      "failure_count": 0,
+      "feed": "general",
+      "last_success": "2026-08-14",
+      "last_verified": "2026-08-14",
+      "name": "Lloyds Bank",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "active",
+      "url": "https://lbg.wd3.myworkdayjobs.com/wday/cxs/lbg/LBG_Careers/jobs"
     },
     "workday:https://leidos.wd5.myworkdayjobs.com/wday/cxs/leidos/external/jobs": {
       "ats": "workday",
@@ -3161,11 +5364,27 @@
       "status": "active",
       "url": "https://lennar.wd1.myworkdayjobs.com/wday/cxs/lennar/Lennar_Jobs/jobs"
     },
-    "workday:https://likewize.wd1.myworkdayjobs.com/wday/cxs/likewize/external/jobs": {
+    "workday:https://liberty.wd5.myworkdayjobs.com/wday/cxs/liberty/lu_job_board_staff/jobs": {
       "ats": "workday",
       "baseline_complete": false,
       "failure_count": 0,
       "feed": "general",
+      "last_verified": "2026-08-14",
+      "name": "Liberty University",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "active",
+      "url": "https://liberty.wd5.myworkdayjobs.com/wday/cxs/liberty/lu_job_board_staff/jobs"
+    },
+    "workday:https://likewize.wd1.myworkdayjobs.com/wday/cxs/likewize/external/jobs": {
+      "ats": "workday",
+      "baseline_complete": true,
+      "failure_count": 0,
+      "feed": "general",
+      "last_success": "2026-08-14",
       "last_verified": "2026-08-13",
       "name": "Likewize",
       "promoted_until": null,
@@ -3175,6 +5394,49 @@
       ],
       "status": "active",
       "url": "https://likewize.wd1.myworkdayjobs.com/wday/cxs/likewize/External/jobs"
+    },
+    "workday:https://lilly.wd5.myworkdayjobs.com/wday/cxs/lilly/lly/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 1,
+      "feed": "general",
+      "last_verified": "2026-08-14",
+      "name": "Eli Lilly and Company",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://lilly.wd5.myworkdayjobs.com/wday/cxs/lilly/LLY/jobs"
+    },
+    "workday:https://lnw.wd5.myworkdayjobs.com/wday/cxs/lnw/lightwonderexternalcareers/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Light & Wonder",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://lnw.wd5.myworkdayjobs.com/wday/cxs/lnw/lightwonderexternalcareers/jobs"
+    },
+    "workday:https://lseg.wd3.myworkdayjobs.com/wday/cxs/lseg/careers/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "LSEG",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://lseg.wd3.myworkdayjobs.com/wday/cxs/lseg/Careers/jobs"
     },
     "workday:https://lsu.wd1.myworkdayjobs.com/wday/cxs/lsu/lsu/jobs": {
       "ats": "workday",
@@ -3191,6 +5453,34 @@
       "status": "active",
       "url": "https://lsu.wd1.myworkdayjobs.com/wday/cxs/lsu/LSU/jobs"
     },
+    "workday:https://lvvwd.wd1.myworkdayjobs.com/wday/cxs/lvvwd/lvvwdwaterjobs/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Las Vegas Valley Water District",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://lvvwd.wd1.myworkdayjobs.com/wday/cxs/lvvwd/lvvwdwaterjobs/jobs"
+    },
+    "workday:https://manulife.wd3.myworkdayjobs.com/wday/cxs/manulife/mfcjh_adminjobs/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Manulife Financial",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://manulife.wd3.myworkdayjobs.com/wday/cxs/manulife/MFCJH_adminJobs/jobs"
+    },
     "workday:https://manulife.wd3.myworkdayjobs.com/wday/cxs/manulife/mfcjh_jobs/jobs": {
       "ats": "workday",
       "baseline_complete": false,
@@ -3205,6 +5495,20 @@
       ],
       "status": "active",
       "url": "https://manulife.wd3.myworkdayjobs.com/wday/cxs/manulife/MFCJH_Jobs/jobs"
+    },
+    "workday:https://maricopa.wd1.myworkdayjobs.com/wday/cxs/maricopa/mc_external/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Maricopa County",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://maricopa.wd1.myworkdayjobs.com/wday/cxs/maricopa/MC_External/jobs"
     },
     "workday:https://markelcorp.wd5.myworkdayjobs.com/wday/cxs/markelcorp/globalcareers/jobs": {
       "ats": "workday",
@@ -3223,12 +5527,13 @@
     },
     "workday:https://marvell.wd1.myworkdayjobs.com/wday/cxs/marvell/marvellcareers/jobs": {
       "ats": "workday",
-      "baseline_complete": false,
+      "baseline_complete": true,
       "failure_count": 0,
       "feed": "general",
+      "last_success": "2026-08-14",
       "last_verified": "2026-08-13",
       "name": "Marvell",
-      "promoted_until": null,
+      "promoted_until": "2026-11-12",
       "retry_after": null,
       "sources": [
         "simplify"
@@ -3253,9 +5558,10 @@
     },
     "workday:https://massgeneralbrigham.wd1.myworkdayjobs.com/wday/cxs/massgeneralbrigham/mgbexternal/jobs": {
       "ats": "workday",
-      "baseline_complete": false,
+      "baseline_complete": true,
       "failure_count": 0,
       "feed": "general",
+      "last_success": "2026-08-14",
       "last_verified": "2026-08-13",
       "name": "Mass General Brigham",
       "promoted_until": null,
@@ -3316,10 +5622,10 @@
       "baseline_complete": true,
       "failure_count": 0,
       "feed": "general",
-      "last_success": "2026-08-13",
+      "last_success": "2026-08-14",
       "last_verified": "2026-08-13",
       "name": "McKesson",
-      "promoted_until": "2026-11-11",
+      "promoted_until": "2026-11-12",
       "retry_after": null,
       "sources": [
         "simplify"
@@ -3374,6 +5680,48 @@
       "status": "active",
       "url": "https://medtronic.wd1.myworkdayjobs.com/wday/cxs/medtronic/redeploymentmedtroniccareers/jobs"
     },
+    "workday:https://michaels.wd5.myworkdayjobs.com/wday/cxs/michaels/external/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Michaels Stores",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://michaels.wd5.myworkdayjobs.com/wday/cxs/michaels/external/jobs"
+    },
+    "workday:https://michelinhr.wd3.myworkdayjobs.com/wday/cxs/michelinhr/michelin/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Michelin",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://michelinhr.wd3.myworkdayjobs.com/wday/cxs/michelinhr/Michelin/jobs"
+    },
+    "workday:https://micron.wd1.myworkdayjobs.com/wday/cxs/micron/external/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Micron Technology",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://micron.wd1.myworkdayjobs.com/wday/cxs/micron/External/jobs"
+    },
     "workday:https://mmc.wd1.myworkdayjobs.com/wday/cxs/mmc/mmc/jobs": {
       "ats": "workday",
       "baseline_complete": false,
@@ -3405,6 +5753,34 @@
       "status": "active",
       "url": "https://moog.wd5.myworkdayjobs.com/wday/cxs/moog/moog_external_career_site/jobs"
     },
+    "workday:https://morganlewis.wd5.myworkdayjobs.com/wday/cxs/morganlewis/morganlewis/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Morgan Lewis",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://morganlewis.wd5.myworkdayjobs.com/wday/cxs/morganlewis/morganlewis/jobs"
+    },
+    "workday:https://morningstar.wd5.myworkdayjobs.com/wday/cxs/morningstar/americas/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Morningstar",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://morningstar.wd5.myworkdayjobs.com/wday/cxs/morningstar/Americas/jobs"
+    },
     "workday:https://motorolasolutions.wd5.myworkdayjobs.com/wday/cxs/motorolasolutions/careers/jobs": {
       "ats": "workday",
       "baseline_complete": false,
@@ -3419,6 +5795,34 @@
       ],
       "status": "active",
       "url": "https://motorolasolutions.wd5.myworkdayjobs.com/wday/cxs/motorolasolutions/Careers/jobs"
+    },
+    "workday:https://ms.wd5.myworkdayjobs.com/wday/cxs/ms/external/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Morgan Stanley",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://ms.wd5.myworkdayjobs.com/wday/cxs/ms/External/jobs"
+    },
+    "workday:https://msd.wd5.myworkdayjobs.com/wday/cxs/msd/searchjobs/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Merck",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://msd.wd5.myworkdayjobs.com/wday/cxs/msd/searchjobs/jobs"
     },
     "workday:https://mufgub.wd3.myworkdayjobs.com/wday/cxs/mufgub/mufg-careers/jobs": {
       "ats": "workday",
@@ -3511,11 +5915,26 @@
       "status": "active",
       "url": "https://nike.wd1.myworkdayjobs.com/wday/cxs/nike/nke/jobs"
     },
-    "workday:https://nordstrom.wd501.myworkdayjobs.com/wday/cxs/nordstrom/nordstrom_careers/jobs": {
+    "workday:https://nisource.wd1.myworkdayjobs.com/wday/cxs/nisource/nisource/jobs": {
       "ats": "workday",
       "baseline_complete": false,
       "failure_count": 0,
       "feed": "general",
+      "name": "NiSource",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://nisource.wd1.myworkdayjobs.com/wday/cxs/nisource/NiSource/jobs"
+    },
+    "workday:https://nordstrom.wd501.myworkdayjobs.com/wday/cxs/nordstrom/nordstrom_careers/jobs": {
+      "ats": "workday",
+      "baseline_complete": true,
+      "failure_count": 0,
+      "feed": "general",
+      "last_success": "2026-08-14",
       "last_verified": "2026-08-13",
       "name": "Nordstrom",
       "promoted_until": null,
@@ -3525,6 +5944,20 @@
       ],
       "status": "active",
       "url": "https://nordstrom.wd501.myworkdayjobs.com/wday/cxs/nordstrom/nordstrom_careers/jobs"
+    },
+    "workday:https://northeastern.wd1.myworkdayjobs.com/wday/cxs/northeastern/careers/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Northeastern University",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://northeastern.wd1.myworkdayjobs.com/wday/cxs/northeastern/careers/jobs"
     },
     "workday:https://nrel.wd5.myworkdayjobs.com/wday/cxs/nrel/nrel/jobs": {
       "ats": "workday",
@@ -3541,14 +5974,57 @@
       "status": "candidate",
       "url": "https://nrel.wd5.myworkdayjobs.com/wday/cxs/nrel/nrel/jobs"
     },
-    "workday:https://nvidia.wd5.myworkdayjobs.com/wday/cxs/nvidia/nvidiaexternalcareersite/jobs": {
+    "workday:https://nshe.wd1.myworkdayjobs.com/wday/cxs/nshe/unlv-external/jobs": {
       "ats": "workday",
       "baseline_complete": false,
       "failure_count": 0,
       "feed": "general",
+      "name": "University of Nevada Las Vegas (UNLV)",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://nshe.wd1.myworkdayjobs.com/wday/cxs/nshe/unlv-external/jobs"
+    },
+    "workday:https://nshe.wd1.myworkdayjobs.com/wday/cxs/nshe/unr-external/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "University of Nevada Reno",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://nshe.wd1.myworkdayjobs.com/wday/cxs/nshe/unr-external/jobs"
+    },
+    "workday:https://nshs.wd1.myworkdayjobs.com/wday/cxs/nshs/ns-eeh/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Endeavor Health",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://nshs.wd1.myworkdayjobs.com/wday/cxs/nshs/ns-eeh/jobs"
+    },
+    "workday:https://nvidia.wd5.myworkdayjobs.com/wday/cxs/nvidia/nvidiaexternalcareersite/jobs": {
+      "ats": "workday",
+      "baseline_complete": true,
+      "failure_count": 0,
+      "feed": "general",
+      "last_success": "2026-08-14",
       "last_verified": "2026-08-13",
       "name": "NVIDIA",
-      "promoted_until": null,
+      "promoted_until": "2026-11-12",
       "retry_after": null,
       "sources": [
         "simplify"
@@ -3558,12 +6034,13 @@
     },
     "workday:https://nxp.wd3.myworkdayjobs.com/wday/cxs/nxp/careers/jobs": {
       "ats": "workday",
-      "baseline_complete": false,
+      "baseline_complete": true,
       "failure_count": 0,
       "feed": "general",
+      "last_success": "2026-08-14",
       "last_verified": "2026-08-13",
       "name": "NXP Semiconductors",
-      "promoted_until": null,
+      "promoted_until": "2026-11-12",
       "retry_after": null,
       "sources": [
         "simplify"
@@ -3573,9 +6050,10 @@
     },
     "workday:https://ochsner.wd1.myworkdayjobs.com/wday/cxs/ochsner/ochsner/jobs": {
       "ats": "workday",
-      "baseline_complete": false,
+      "baseline_complete": true,
       "failure_count": 0,
       "feed": "general",
+      "last_success": "2026-08-14",
       "last_verified": "2026-08-13",
       "name": "Ochsner Health System",
       "promoted_until": null,
@@ -3636,10 +6114,10 @@
       "baseline_complete": true,
       "failure_count": 0,
       "feed": "general",
-      "last_success": "2026-08-13",
+      "last_success": "2026-08-14",
       "last_verified": "2026-08-13",
       "name": "Onto Innovation",
-      "promoted_until": "2026-11-11",
+      "promoted_until": "2026-11-12",
       "retry_after": null,
       "sources": [
         "simplify"
@@ -3647,11 +6125,26 @@
       "status": "active",
       "url": "https://onto.wd1.myworkdayjobs.com/wday/cxs/onto/onto_careers/jobs"
     },
-    "workday:https://oshkoshcorporation.wd5.myworkdayjobs.com/wday/cxs/oshkoshcorporation/oshkosh/jobs": {
+    "workday:https://oreillyauto.wd1.myworkdayjobs.com/wday/cxs/oreillyauto/oreilly/jobs": {
       "ats": "workday",
       "baseline_complete": false,
       "failure_count": 0,
       "feed": "general",
+      "name": "O'Reilly Auto Parts",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://oreillyauto.wd1.myworkdayjobs.com/wday/cxs/oreillyauto/oreilly/jobs"
+    },
+    "workday:https://oshkoshcorporation.wd5.myworkdayjobs.com/wday/cxs/oshkoshcorporation/oshkosh/jobs": {
+      "ats": "workday",
+      "baseline_complete": true,
+      "failure_count": 0,
+      "feed": "general",
+      "last_success": "2026-08-14",
       "last_verified": "2026-08-13",
       "name": "Oshkosh",
       "promoted_until": null,
@@ -3691,6 +6184,34 @@
       ],
       "status": "candidate",
       "url": "https://osv-chegg.wd5.myworkdayjobs.com/wday/cxs/osv-chegg/Chegg/jobs"
+    },
+    "workday:https://ouryahoo.wd5.myworkdayjobs.com/wday/cxs/ouryahoo/careers/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Yahoo",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://ouryahoo.wd5.myworkdayjobs.com/wday/cxs/ouryahoo/careers/jobs"
+    },
+    "workday:https://ovative.wd12.myworkdayjobs.com/wday/cxs/ovative/ovative/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Ovative",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://ovative.wd12.myworkdayjobs.com/wday/cxs/ovative/ovative/jobs"
     },
     "workday:https://pae.wd1.myworkdayjobs.com/wday/cxs/pae/amentum_careers/jobs": {
       "ats": "workday",
@@ -3752,6 +6273,20 @@
       "status": "active",
       "url": "https://pfizer.wd1.myworkdayjobs.com/wday/cxs/pfizer/PfizerCareers/jobs"
     },
+    "workday:https://pg.wd5.myworkdayjobs.com/wday/cxs/pg/1000/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Procter & Gamble (P&G)",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://pg.wd5.myworkdayjobs.com/wday/cxs/pg/1000/jobs"
+    },
     "workday:https://pnc.wd5.myworkdayjobs.com/wday/cxs/pnc/external/jobs": {
       "ats": "workday",
       "baseline_complete": false,
@@ -3782,11 +6317,26 @@
       "status": "active",
       "url": "https://ppg.wd5.myworkdayjobs.com/wday/cxs/ppg/PPG_CAREERS/jobs"
     },
-    "workday:https://prysmiangroup.wd3.myworkdayjobs.com/wday/cxs/prysmiangroup/careers/jobs": {
+    "workday:https://pru.wd5.myworkdayjobs.com/wday/cxs/pru/careers/jobs": {
       "ats": "workday",
       "baseline_complete": false,
       "failure_count": 0,
       "feed": "general",
+      "name": "Prudential Financial",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://pru.wd5.myworkdayjobs.com/wday/cxs/pru/Careers/jobs"
+    },
+    "workday:https://prysmiangroup.wd3.myworkdayjobs.com/wday/cxs/prysmiangroup/careers/jobs": {
+      "ats": "workday",
+      "baseline_complete": true,
+      "failure_count": 0,
+      "feed": "general",
+      "last_success": "2026-08-14",
       "last_verified": "2026-08-13",
       "name": "Prysmian Cables & Systems",
       "promoted_until": null,
@@ -3829,9 +6379,10 @@
     },
     "workday:https://q2ebanking.wd5.myworkdayjobs.com/wday/cxs/q2ebanking/q2/jobs": {
       "ats": "workday",
-      "baseline_complete": false,
+      "baseline_complete": true,
       "failure_count": 0,
       "feed": "general",
+      "last_success": "2026-08-14",
       "last_verified": "2026-08-13",
       "name": "Q2",
       "promoted_until": null,
@@ -3841,6 +6392,20 @@
       ],
       "status": "active",
       "url": "https://q2ebanking.wd5.myworkdayjobs.com/wday/cxs/q2ebanking/Q2/jobs"
+    },
+    "workday:https://raymondjames.wd1.myworkdayjobs.com/wday/cxs/raymondjames/raymondjamescareers/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Raymond James Financial",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://raymondjames.wd1.myworkdayjobs.com/wday/cxs/raymondjames/RaymondJamesCareers/jobs"
     },
     "workday:https://rb.wd5.myworkdayjobs.com/wday/cxs/rb/frs/jobs": {
       "ats": "workday",
@@ -3872,6 +6437,48 @@
       "status": "active",
       "url": "https://rbc.wd3.myworkdayjobs.com/wday/cxs/rbc/rbcglobal1/jobs"
     },
+    "workday:https://rbi.wd3.myworkdayjobs.com/wday/cxs/rbi/rbi_external_career_site/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "RBI",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://rbi.wd3.myworkdayjobs.com/wday/cxs/rbi/RBI_External_Career_Site/jobs"
+    },
+    "workday:https://redfin.wd1.myworkdayjobs.com/wday/cxs/redfin/redfin_careers/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Redfin",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://redfin.wd1.myworkdayjobs.com/wday/cxs/redfin/redfin_careers/jobs"
+    },
+    "workday:https://redhat.wd5.myworkdayjobs.com/wday/cxs/redhat/jobs/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Red Hat",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://redhat.wd5.myworkdayjobs.com/wday/cxs/redhat/jobs/jobs"
+    },
     "workday:https://relx.wd3.myworkdayjobs.com/wday/cxs/relx/elsevierjobs/jobs": {
       "ats": "workday",
       "baseline_complete": true,
@@ -3888,6 +6495,34 @@
       "status": "active",
       "url": "https://relx.wd3.myworkdayjobs.com/wday/cxs/relx/ElsevierJobs/jobs"
     },
+    "workday:https://relx.wd3.myworkdayjobs.com/wday/cxs/relx/lexisnexislegal/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "LexisNexis Risk Solutions",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://relx.wd3.myworkdayjobs.com/wday/cxs/relx/LexisNexisLegal/jobs"
+    },
+    "workday:https://relx.wd3.myworkdayjobs.com/wday/cxs/relx/relx/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "RELX",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://relx.wd3.myworkdayjobs.com/wday/cxs/relx/relx/jobs"
+    },
     "workday:https://relx.wd3.myworkdayjobs.com/wday/cxs/relx/risksolutions/jobs": {
       "ats": "workday",
       "baseline_complete": false,
@@ -3902,6 +6537,20 @@
       ],
       "status": "active",
       "url": "https://relx.wd3.myworkdayjobs.com/wday/cxs/relx/RiskSolutions/jobs"
+    },
+    "workday:https://resmed.wd3.myworkdayjobs.com/wday/cxs/resmed/resmed_external_careers/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Resmed",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://resmed.wd3.myworkdayjobs.com/wday/cxs/resmed/ResMed_External_Careers/jobs"
     },
     "workday:https://rgare.wd1.myworkdayjobs.com/wday/cxs/rgare/careers/jobs": {
       "ats": "workday",
@@ -3963,6 +6612,48 @@
       "status": "active",
       "url": "https://rollsroyce.wd3.myworkdayjobs.com/wday/cxs/rollsroyce/Intern_Graduate/jobs"
     },
+    "workday:https://rollsroyce.wd3.myworkdayjobs.com/wday/cxs/rollsroyce/professional/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Rolls-Royce",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://rollsroyce.wd3.myworkdayjobs.com/wday/cxs/rollsroyce/professional/jobs"
+    },
+    "workday:https://ryder.wd5.myworkdayjobs.com/wday/cxs/ryder/rydercareers/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Ryder System",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://ryder.wd5.myworkdayjobs.com/wday/cxs/ryder/RyderCareers/jobs"
+    },
+    "workday:https://sabre.wd1.myworkdayjobs.com/wday/cxs/sabre/sabrejobs/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Sabre",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://sabre.wd1.myworkdayjobs.com/wday/cxs/sabre/SabreJobs/jobs"
+    },
     "workday:https://salesforce.wd12.myworkdayjobs.com/wday/cxs/salesforce/external_career_site/jobs": {
       "ats": "workday",
       "baseline_complete": false,
@@ -4009,6 +6700,48 @@
       "status": "active",
       "url": "https://sbdinc.wd1.myworkdayjobs.com/wday/cxs/sbdinc/Stanley_Black_Decker_Career_Site/jobs"
     },
+    "workday:https://sec.wd3.myworkdayjobs.com/wday/cxs/sec/samsung_careers/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Samsung",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://sec.wd3.myworkdayjobs.com/wday/cxs/sec/Samsung_Careers/jobs"
+    },
+    "workday:https://selectmilk.wd12.myworkdayjobs.com/wday/cxs/selectmilk/selectmilkproducers/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Select Milk Producers",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://selectmilk.wd12.myworkdayjobs.com/wday/cxs/selectmilk/selectmilkproducers/jobs"
+    },
+    "workday:https://sensata.wd1.myworkdayjobs.com/wday/cxs/sensata/sensata-careers/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Sensata",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://sensata.wd1.myworkdayjobs.com/wday/cxs/sensata/Sensata-Careers/jobs"
+    },
     "workday:https://sentryinsurance.wd1.myworkdayjobs.com/wday/cxs/sentryinsurance/sentrycareers/jobs": {
       "ats": "workday",
       "baseline_complete": false,
@@ -4024,15 +6757,29 @@
       "status": "active",
       "url": "https://sentryinsurance.wd1.myworkdayjobs.com/wday/cxs/sentryinsurance/SentryCareers/jobs"
     },
+    "workday:https://sglottery.wd5.myworkdayjobs.com/wday/cxs/sglottery/scientificgamesexternalcareers/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Scientific Games",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://sglottery.wd5.myworkdayjobs.com/wday/cxs/sglottery/ScientificGamesExternalCareers/jobs"
+    },
     "workday:https://shipt.wd1.myworkdayjobs.com/wday/cxs/shipt/shipt_external/jobs": {
       "ats": "workday",
       "baseline_complete": true,
       "failure_count": 0,
       "feed": "general",
-      "last_success": "2026-08-13",
+      "last_success": "2026-08-14",
       "last_verified": "2026-08-13",
       "name": "Shipt",
-      "promoted_until": "2026-11-11",
+      "promoted_until": "2026-11-12",
       "retry_after": null,
       "sources": [
         "simplify"
@@ -4042,9 +6789,10 @@
     },
     "workday:https://smithnephew.wd5.myworkdayjobs.com/wday/cxs/smithnephew/external/jobs": {
       "ats": "workday",
-      "baseline_complete": false,
+      "baseline_complete": true,
       "failure_count": 0,
       "feed": "general",
+      "last_success": "2026-08-14",
       "last_verified": "2026-08-13",
       "name": "Smith+Nephew",
       "promoted_until": null,
@@ -4085,14 +6833,29 @@
       "status": "active",
       "url": "https://snyk.wd103.myworkdayjobs.com/wday/cxs/snyk/External/jobs"
     },
-    "workday:https://spgi.wd5.myworkdayjobs.com/wday/cxs/spgi/spgi_careers/jobs": {
+    "workday:https://spectris.wd3.myworkdayjobs.com/wday/cxs/spectris/malvern_panalytical_careers/jobs": {
       "ats": "workday",
       "baseline_complete": false,
       "failure_count": 0,
       "feed": "general",
+      "name": "Malvern Panalytical",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://spectris.wd3.myworkdayjobs.com/wday/cxs/spectris/Malvern_Panalytical_Careers/jobs"
+    },
+    "workday:https://spgi.wd5.myworkdayjobs.com/wday/cxs/spgi/spgi_careers/jobs": {
+      "ats": "workday",
+      "baseline_complete": true,
+      "failure_count": 0,
+      "feed": "general",
+      "last_success": "2026-08-14",
       "last_verified": "2026-08-13",
       "name": "S&P Global",
-      "promoted_until": null,
+      "promoted_until": "2026-11-12",
       "retry_after": null,
       "sources": [
         "simplify"
@@ -4105,10 +6868,10 @@
       "baseline_complete": true,
       "failure_count": 0,
       "feed": "general",
-      "last_success": "2026-08-13",
+      "last_success": "2026-08-14",
       "last_verified": "2026-08-13",
       "name": "S&P Global",
-      "promoted_until": "2026-11-11",
+      "promoted_until": "2026-11-12",
       "retry_after": null,
       "sources": [
         "simplify"
@@ -4130,6 +6893,34 @@
       ],
       "status": "active",
       "url": "https://stryker.wd1.myworkdayjobs.com/wday/cxs/stryker/StrykerCareers/jobs"
+    },
+    "workday:https://swa.wd1.myworkdayjobs.com/wday/cxs/swa/external/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Southwest Airlines",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://swa.wd1.myworkdayjobs.com/wday/cxs/swa/external/jobs"
+    },
+    "workday:https://talentmanagementsolution.wd3.myworkdayjobs.com/wday/cxs/talentmanagementsolution/jonassoftwarecanada/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Jonas Software",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://talentmanagementsolution.wd3.myworkdayjobs.com/wday/cxs/talentmanagementsolution/JonasSoftwareCanada/jobs"
     },
     "workday:https://tamus.wd1.myworkdayjobs.com/wday/cxs/tamus/pvamu_external/jobs": {
       "ats": "workday",
@@ -4176,6 +6967,34 @@
       "status": "active",
       "url": "https://td.wd3.myworkdayjobs.com/wday/cxs/td/TD_Bank_Careers/jobs"
     },
+    "workday:https://terex.wd1.myworkdayjobs.com/wday/cxs/terex/terexcareers/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Terex",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://terex.wd1.myworkdayjobs.com/wday/cxs/terex/terexcareers/jobs"
+    },
+    "workday:https://thehartford.wd5.myworkdayjobs.com/wday/cxs/thehartford/careers_external/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "The Hartford",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://thehartford.wd5.myworkdayjobs.com/wday/cxs/thehartford/Careers_External/jobs"
+    },
     "workday:https://thermofisher.wd5.myworkdayjobs.com/wday/cxs/thermofisher/thermofishercareers/jobs": {
       "ats": "workday",
       "baseline_complete": false,
@@ -4208,9 +7027,10 @@
     },
     "workday:https://tmobile.wd1.myworkdayjobs.com/wday/cxs/tmobile/external/jobs": {
       "ats": "workday",
-      "baseline_complete": false,
+      "baseline_complete": true,
       "failure_count": 0,
       "feed": "general",
+      "last_success": "2026-08-14",
       "last_verified": "2026-08-13",
       "name": "T-Mobile",
       "promoted_until": null,
@@ -4266,6 +7086,48 @@
       ],
       "status": "active",
       "url": "https://trimble.wd1.myworkdayjobs.com/wday/cxs/trimble/TrimbleCareers/jobs"
+    },
+    "workday:https://truist.wd1.myworkdayjobs.com/wday/cxs/truist/careers/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Truist Bank",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://truist.wd1.myworkdayjobs.com/wday/cxs/truist/Careers/jobs"
+    },
+    "workday:https://tsys.wd1.myworkdayjobs.com/wday/cxs/tsys/tsys/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Global Payments",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://tsys.wd1.myworkdayjobs.com/wday/cxs/tsys/TSYS/jobs"
+    },
+    "workday:https://ttc.wd1.myworkdayjobs.com/wday/cxs/ttc/toro_external_careers/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "The Toro Company",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://ttc.wd1.myworkdayjobs.com/wday/cxs/ttc/Toro_External_Careers/jobs"
     },
     "workday:https://tti.wd1.myworkdayjobs.com/wday/cxs/tti/milwaukee/jobs": {
       "ats": "workday",
@@ -4360,6 +7222,20 @@
       "status": "active",
       "url": "https://ultra.wd3.myworkdayjobs.com/wday/cxs/ultra/ultra-careers/jobs"
     },
+    "workday:https://umiami.wd1.myworkdayjobs.com/wday/cxs/umiami/umcareerstaff/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "University of Miami",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://umiami.wd1.myworkdayjobs.com/wday/cxs/umiami/UMCareerStaff/jobs"
+    },
     "workday:https://unilever.wd3.myworkdayjobs.com/wday/cxs/unilever/unilever_experienced_professionals/jobs": {
       "ats": "workday",
       "baseline_complete": false,
@@ -4375,11 +7251,26 @@
       "status": "active",
       "url": "https://unilever.wd3.myworkdayjobs.com/wday/cxs/unilever/Unilever_Experienced_Professionals/jobs"
     },
-    "workday:https://usaa.wd1.myworkdayjobs.com/wday/cxs/usaa/usaajobswd/jobs": {
+    "workday:https://univision.wd1.myworkdayjobs.com/wday/cxs/univision/external/jobs": {
       "ats": "workday",
       "baseline_complete": false,
       "failure_count": 0,
       "feed": "general",
+      "name": "TelevisaUnivision",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://univision.wd1.myworkdayjobs.com/wday/cxs/univision/External/jobs"
+    },
+    "workday:https://usaa.wd1.myworkdayjobs.com/wday/cxs/usaa/usaajobswd/jobs": {
+      "ats": "workday",
+      "baseline_complete": true,
+      "failure_count": 0,
+      "feed": "general",
+      "last_success": "2026-08-14",
       "last_verified": "2026-08-13",
       "name": "USAA",
       "promoted_until": null,
@@ -4392,12 +7283,13 @@
     },
     "workday:https://usbank.wd1.myworkdayjobs.com/wday/cxs/usbank/us_bank_careers/jobs": {
       "ats": "workday",
-      "baseline_complete": false,
+      "baseline_complete": true,
       "failure_count": 0,
       "feed": "general",
+      "last_success": "2026-08-14",
       "last_verified": "2026-08-13",
       "name": "U.S. Bank",
-      "promoted_until": null,
+      "promoted_until": "2026-11-12",
       "retry_after": null,
       "sources": [
         "simplify"
@@ -4436,6 +7328,34 @@
       "status": "active",
       "url": "https://utaustin.wd1.myworkdayjobs.com/wday/cxs/utaustin/UTstaff/jobs"
     },
+    "workday:https://valmet.wd103.myworkdayjobs.com/wday/cxs/valmet/external/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Valmet",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://valmet.wd103.myworkdayjobs.com/wday/cxs/valmet/external/jobs"
+    },
+    "workday:https://vanderlande.wd3.myworkdayjobs.com/wday/cxs/vanderlande/careers/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Vanderlande Industries",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://vanderlande.wd3.myworkdayjobs.com/wday/cxs/vanderlande/careers/jobs"
+    },
     "workday:https://vareximaging.wd103.myworkdayjobs.com/wday/cxs/vareximaging/external_career_site/jobs": {
       "ats": "workday",
       "baseline_complete": false,
@@ -4450,6 +7370,34 @@
       ],
       "status": "active",
       "url": "https://vareximaging.wd103.myworkdayjobs.com/wday/cxs/vareximaging/External_Career_Site/jobs"
+    },
+    "workday:https://vcuhealth.wd1.myworkdayjobs.com/wday/cxs/vcuhealth/vcuhealth_careers/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "VCU Health",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://vcuhealth.wd1.myworkdayjobs.com/wday/cxs/vcuhealth/vcuhealth_careers/jobs"
+    },
+    "workday:https://vst.wd5.myworkdayjobs.com/wday/cxs/vst/vistra_careers/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Vistra",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://vst.wd5.myworkdayjobs.com/wday/cxs/vst/vistra_careers/jobs"
     },
     "workday:https://walmart.wd5.myworkdayjobs.com/wday/cxs/walmart/walmartexternal/jobs": {
       "ats": "workday",
@@ -4480,6 +7428,20 @@
       ],
       "status": "active",
       "url": "https://warnerbros.wd5.myworkdayjobs.com/wday/cxs/warnerbros/global/jobs"
+    },
+    "workday:https://wellington.wd5.myworkdayjobs.com/wday/cxs/wellington/external/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Wellington Management",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://wellington.wd5.myworkdayjobs.com/wday/cxs/wellington/external/jobs"
     },
     "workday:https://welocalize.wd1.myworkdayjobs.com/wday/cxs/welocalize/welocalize/jobs": {
       "ats": "workday",
@@ -4526,6 +7488,20 @@
       "status": "candidate",
       "url": "https://wmeimg.wd1.myworkdayjobs.com/wday/cxs/wmeimg/endeavor/jobs"
     },
+    "workday:https://wsu.wd5.myworkdayjobs.com/wday/cxs/wsu/wsu_jobs/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Washington State University",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://wsu.wd5.myworkdayjobs.com/wday/cxs/wsu/WSU_Jobs/jobs"
+    },
     "workday:https://wustl.wd1.myworkdayjobs.com/wday/cxs/wustl/external/jobs": {
       "ats": "workday",
       "baseline_complete": false,
@@ -4540,10 +7516,38 @@
       ],
       "status": "active",
       "url": "https://wustl.wd1.myworkdayjobs.com/wday/cxs/wustl/external/jobs"
+    },
+    "workday:https://xcelenergy.wd1.myworkdayjobs.com/wday/cxs/xcelenergy/external/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Xcel Energy",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://xcelenergy.wd1.myworkdayjobs.com/wday/cxs/xcelenergy/External/jobs"
+    },
+    "workday:https://zeissgroup.wd3.myworkdayjobs.com/wday/cxs/zeissgroup/external/jobs": {
+      "ats": "workday",
+      "baseline_complete": false,
+      "failure_count": 0,
+      "feed": "general",
+      "name": "Zeiss",
+      "promoted_until": null,
+      "retry_after": null,
+      "sources": [
+        "simplify"
+      ],
+      "status": "candidate",
+      "url": "https://zeissgroup.wd3.myworkdayjobs.com/wday/cxs/zeissgroup/External/jobs"
     }
   },
   "cursors": {
-    "candidates": 12,
+    "candidates": 356,
     "discovery_prefix": 0,
     "shards": {
       "0": 0,
