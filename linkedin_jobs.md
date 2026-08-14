@@ -1,69 +1,83 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-08-14 18:18 UTC*
+*Last updated: 2026-08-14 19:18 UTC*
 
-**16 new role(s)** since last run · 30 total in last 1h
+**19 new role(s)** since last run · 28 total in last 1h
 
-### [Software Engineer, Neural Graphics Developer Tools](https://www.linkedin.com/jobs/view/4444039930/) — NVIDIA
+### [Software Engineering MTS](https://www.linkedin.com/jobs/view/4454577878/) — Salesforce
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-08-14
+
+### [Robotics Software Engineer, Simulations](https://www.linkedin.com/jobs/view/4451249660/) — Atomic Machines
+- 📍 **Location:** Emeryville, CA
+- 🕒 **Posted:** 2026-08-14
+
+### [Contact Center Data Engineer II](https://www.linkedin.com/jobs/view/4453701959/) — GEICO
+- 📍 **Location:** Palo Alto, CA
+- 🕒 **Posted:** 2026-08-14
+
+### [Contact Center Data Engineer II](https://www.linkedin.com/jobs/view/4453588991/) — GEICO
+- 📍 **Location:** San Jose, CA
+- 💰 **Salary:** $88,150.00/yr - $157,850.00/yr
+- 🕒 **Posted:** 2026-08-14
+
+### [Contact Center Data Engineer II](https://www.linkedin.com/jobs/view/4453705947/) — GEICO
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-08-14
+
+### [Software Engineer I](https://www.linkedin.com/jobs/view/4454561774/) — INSPYR Solutions
+- 📍 **Location:** Menlo Park, CA
+- 💰 **Salary:** $41.00/hr - $61.00/hr
+- 🕒 **Posted:** 2026-08-14
+
+### [Software Engineer, Infrastructure - DGX Cloud](https://www.linkedin.com/jobs/view/4451246599/) — NVIDIA AI
 - 📍 **Location:** Santa Clara, CA
 - 🕒 **Posted:** 2026-08-14
 
-### [Full Stack Engineer](https://www.linkedin.com/jobs/view/4454562292/) — Roo
+### [Infrastructure Engineer, Vehicle Platform](https://www.linkedin.com/jobs/view/4454559850/) — Humble Robotics
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-08-14
 
-### [Embedded Display Software Engineer (Qualcomm Snapdragon AR/XR)](https://www.linkedin.com/jobs/view/4453588651/) — Quest Global
-- 📍 **Location:** Fremont, CA
-- 🕒 **Posted:** 2026-08-14
-
-### [Software Engineer, Full Stack, Level 4](https://www.linkedin.com/jobs/view/4436389224/) — Snap Inc.
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-08-14
-
-### [Full Stack Engineer / Data Engineer V](https://www.linkedin.com/jobs/view/4453703776/) — Ampcus Inc
-- 📍 **Location:** Oakland, CA
-- 🕒 **Posted:** 2026-08-14
-
-### [Backend Engineer](https://www.linkedin.com/jobs/view/4454562497/) — A16Z GAMES
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-08-14
-
-### [Site Reliability Engineer, Tech Infra - USDS](https://www.linkedin.com/jobs/view/4454557771/) — TikTok USDS Joint Venture
+### [Site Reliability Engineer - System Service Global](https://www.linkedin.com/jobs/view/4453716056/) — ByteDance
 - 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-08-14
 
-### [Software Engineer – DevOps Platform](https://www.linkedin.com/jobs/view/4453707882/) — Wealthfront
+### [Software Engineer, Corporate Information Systems - USDS](https://www.linkedin.com/jobs/view/4454573773/) — TikTok USDS Joint Venture
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-08-14
+
+### [Security Engineer](https://www.linkedin.com/jobs/view/4454569756/) — Covenant HR
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-08-14
 
-### [Software Engineer – DevOps Platform](https://www.linkedin.com/jobs/view/4453598850/) — Wealthfront
-- 📍 **Location:** Palo Alto, CA
+### [DevOps Architect](https://www.linkedin.com/jobs/view/4454569971/) — Inherent Technologies
+- 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-08-14
 
-### [Data Scientist / Data Visualization Analyst](https://www.linkedin.com/jobs/view/4453585638/) — YK SYSTEMS PLUS SARL
+### [Software Engineer, Machine Learning Infrastructure - USDS](https://www.linkedin.com/jobs/view/4454580521/) — TikTok USDS Joint Venture
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-08-14
+
+### [Perception Machine Learning Engineer - Continuous Learning](https://www.linkedin.com/jobs/view/4454578414/) — A16Z GAMES
+- 📍 **Location:** Mountain View, CA
+- 🕒 **Posted:** 2026-08-14
+
+### [Research Engineer, Pre-Training](https://www.linkedin.com/jobs/view/4453724079/) — Jump Trading
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-08-14
 
-### [Software Engineer – DevOps Platform](https://www.linkedin.com/jobs/view/4453701852/) — Wealthfront
+### [Applied Scientist , Inbound Systems](https://www.linkedin.com/jobs/view/4444947558/) — Amazon
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-08-14
 
-### [Infrastructure Engineer - Security & Compliance](https://www.linkedin.com/jobs/view/4413630161/) — Bloomberg
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $130,000.00/yr - $225,000.00/yr
-- 🕒 **Posted:** 2026-08-14
-
-### [Python Full Stack Engineer](https://www.linkedin.com/jobs/view/4454565403/) — Mumba Technologies, Inc.
-- 📍 **Location:** Manhattan, NY
-- 🕒 **Posted:** 2026-08-14
-
-### [Linux Systems Engineer (USA)](https://www.linkedin.com/jobs/view/4406587361/) — Trexquant Investment LP
+### [Data Scientist](https://www.linkedin.com/jobs/view/4454569744/) — Mantis Venture Capital
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-08-14
 
-### [Software Developer](https://www.linkedin.com/jobs/view/4454574414/) — Dario
+### [AI Infrastructure Engineer](https://www.linkedin.com/jobs/view/4434665820/) — Capstone Investment Advisors
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-08-14
 
-### [Offensive Security Engineer](https://www.linkedin.com/jobs/view/4453598798/) — Palantir Technologies
+### [Workstation Systems Engineer III](https://www.linkedin.com/jobs/view/4454570748/) — Nesco Resource
 - 📍 **Location:** New York, NY
+- 💰 **Salary:** $65.00/hr - $70.00/hr
 - 🕒 **Posted:** 2026-08-14
