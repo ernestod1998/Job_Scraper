@@ -1,96 +1,69 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-08-14 17:18 UTC*
+*Last updated: 2026-08-14 18:18 UTC*
 
-**21 new role(s)** since last run · 32 total in last 1h
+**16 new role(s)** since last run · 30 total in last 1h
 
-### [Azure AI Platform Engineer](https://www.linkedin.com/jobs/view/4451252331/) — KPI Partners
+### [Software Engineer, Neural Graphics Developer Tools](https://www.linkedin.com/jobs/view/4444039930/) — NVIDIA
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-08-14
+
+### [Full Stack Engineer](https://www.linkedin.com/jobs/view/4454562292/) — Roo
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-08-14
+
+### [Embedded Display Software Engineer (Qualcomm Snapdragon AR/XR)](https://www.linkedin.com/jobs/view/4453588651/) — Quest Global
 - 📍 **Location:** Fremont, CA
 - 🕒 **Posted:** 2026-08-14
 
-### [Full Stack Engineer](https://www.linkedin.com/jobs/view/4451253220/) — Albert Bow
+### [Software Engineer, Full Stack, Level 4](https://www.linkedin.com/jobs/view/4436389224/) — Snap Inc.
+- 📍 **Location:** Palo Alto, CA
+- 🕒 **Posted:** 2026-08-14
+
+### [Full Stack Engineer / Data Engineer V](https://www.linkedin.com/jobs/view/4453703776/) — Ampcus Inc
+- 📍 **Location:** Oakland, CA
+- 🕒 **Posted:** 2026-08-14
+
+### [Backend Engineer](https://www.linkedin.com/jobs/view/4454562497/) — A16Z GAMES
 - 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $185,000.00/yr - $260,000.00/yr
 - 🕒 **Posted:** 2026-08-14
 
-### [Data Scientist (AHL)](https://www.linkedin.com/jobs/view/4445403154/) — Achieve
-- 📍 **Location:** San Mateo, CA
-- 🕒 **Posted:** 2026-08-14
-
-### [Software Engineer II](https://www.linkedin.com/jobs/view/4451260211/) — Applied Materials
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-08-14
-
-### [Applied Scientist](https://www.linkedin.com/jobs/view/4453704472/) — Adobe
+### [Site Reliability Engineer, Tech Infra - USDS](https://www.linkedin.com/jobs/view/4454557771/) — TikTok USDS Joint Venture
 - 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-08-14
 
-### [Physics AI Scientist III](https://www.linkedin.com/jobs/view/4451250240/) — Applied Materials
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-08-14
-
-### [Software Engineer, AI & Security](https://www.linkedin.com/jobs/view/4293948449/) — Glean
-- 📍 **Location:** Mountain View, CA
-- 🕒 **Posted:** 2026-08-14
-
-### [Machine Learning Engineer, Inference & Serving (Speech LLM)](https://www.linkedin.com/jobs/view/4453589456/) — Jobright.ai
+### [Software Engineer – DevOps Platform](https://www.linkedin.com/jobs/view/4453707882/) — Wealthfront
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-08-14
 
-### [Software Engineer, Creator Business](https://www.linkedin.com/jobs/view/4453577159/) — Roblox
-- 📍 **Location:** San Mateo, CA
+### [Software Engineer – DevOps Platform](https://www.linkedin.com/jobs/view/4453598850/) — Wealthfront
+- 📍 **Location:** Palo Alto, CA
 - 🕒 **Posted:** 2026-08-14
 
-### [Software Engineer I- #26-19971](https://www.linkedin.com/jobs/view/4453598554/) — US Tech Solutions
-- 📍 **Location:** Menlo Park, CA
-- 💰 **Salary:** $50.00/hr - $90.00/hr
-- 🕒 **Posted:** 2026-08-14
-
-### [Embedded Software Engineer](https://www.linkedin.com/jobs/view/4326766563/) — Array Labs
-- 📍 **Location:** San Francisco Bay Area
-- 💰 **Salary:** $150,000.00/yr - $250,000.00/yr
-- 🕒 **Posted:** 2026-08-14
-
-### [Software Engineer](https://www.linkedin.com/jobs/view/4453700584/) — Workers' Compensation Insurance Rating Bureau of California (WCIRB)
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-08-14
-
-### [Systems Engineer, Platform & Integration IV (E4)](https://www.linkedin.com/jobs/view/4451246330/) — Applied Materials
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-08-14
-
-### [Infrastructure / Platform Engineer (Kubernetes | Helm | AWS | Azure | AI)](https://www.linkedin.com/jobs/view/4454569162/) — IT Recruitment Solutions
-- 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-08-14
-
-### [Full Stack Software Engineer (T. Rowe Price AI Lab)](https://www.linkedin.com/jobs/view/4451250149/) — T. Rowe Price
+### [Data Scientist / Data Visualization Analyst](https://www.linkedin.com/jobs/view/4453585638/) — YK SYSTEMS PLUS SARL
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-08-14
 
-### [Software Engineer, AI Kernels & Performance Optimization — MTIA Software](https://www.linkedin.com/jobs/view/4451222947/) — Meta
+### [Software Engineer – DevOps Platform](https://www.linkedin.com/jobs/view/4453701852/) — Wealthfront
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $183,997.00/yr - $257,000.00/yr
 - 🕒 **Posted:** 2026-08-14
 
-### [Software Engineer, AI Kernels & Performance Optimization — MTIA Software](https://www.linkedin.com/jobs/view/4451226992/) — Meta
+### [Infrastructure Engineer - Security & Compliance](https://www.linkedin.com/jobs/view/4413630161/) — Bloomberg
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $154,003.00/yr - $217,000.00/yr
+- 💰 **Salary:** $130,000.00/yr - $225,000.00/yr
 - 🕒 **Posted:** 2026-08-14
 
-### [Applied Data Science Specialist](https://www.linkedin.com/jobs/view/4421164446/) — Child Mind Institute
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $96,000.00/yr - $120,000.00/yr
+### [Python Full Stack Engineer](https://www.linkedin.com/jobs/view/4454565403/) — Mumba Technologies, Inc.
+- 📍 **Location:** Manhattan, NY
 - 🕒 **Posted:** 2026-08-14
 
-### [Design Technologist / Frontend Engineer](https://www.linkedin.com/jobs/view/4453139766/) — Balcony
-- 📍 **Location:** Hoboken, NJ
+### [Linux Systems Engineer (USA)](https://www.linkedin.com/jobs/view/4406587361/) — Trexquant Investment LP
+- 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-08-14
 
-### [Endpoint Infrastructure Engineer](https://www.linkedin.com/jobs/view/4454559092/) — Phyton Talent Advisors
+### [Software Developer](https://www.linkedin.com/jobs/view/4454574414/) — Dario
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $65.00/hr - $80.00/hr
 - 🕒 **Posted:** 2026-08-14
 
-### [Security Engineer Investigator, Integrity Investigations, Intelligence, and Events](https://www.linkedin.com/jobs/view/4451221994/) — Meta
+### [Offensive Security Engineer](https://www.linkedin.com/jobs/view/4453598798/) — Palantir Technologies
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $184,000.00/yr - $257,000.00/yr
 - 🕒 **Posted:** 2026-08-14
