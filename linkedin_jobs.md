@@ -1,68 +1,42 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-08-14 23:18 UTC*
+*Last updated: 2026-08-15 00:18 UTC*
 
-**16 new role(s)** since last run · 29 total in last 1h
+**9 new role(s)** since last run · 9 total in last 1h
 
-### [Software Engineer III, AI/ML, Chronicle Streaming Detections](https://www.linkedin.com/jobs/view/4453740005/) — Google
-- 📍 **Location:** Sunnyvale, CA
+### [Applied Scientist II, AWS Just-Walk-Out Science Team](https://www.linkedin.com/jobs/view/4454808961/) — Amazon Web Services (AWS)
+- 📍 **Location:** East Palo Alto, CA
 - 🕒 **Posted:** 2026-08-14
 
-### [Infrastructure Software Engineer, Fleet & Automation](https://www.linkedin.com/jobs/view/4454807297/) — Nscale
-- 📍 **Location:** San Francisco, CA
+### [Applied Scientist, Automated Reasoning](https://www.linkedin.com/jobs/view/4454817847/) — Amazon Web Services (AWS)
+- 📍 **Location:** Santa Clara, CA
 - 🕒 **Posted:** 2026-08-14
 
-### [Test software engineer(LabVIEW, Matlab, Python, and C#)](https://www.linkedin.com/jobs/view/4453747010/) — Programmers.io
-- 📍 **Location:** Sunnyvale, CA
+### [Software Engineer, Infrastructure - DGX Cloud](https://www.linkedin.com/jobs/view/4453750344/) — NVIDIA
+- 📍 **Location:** Santa Clara, CA
 - 🕒 **Posted:** 2026-08-14
 
-### [Software Engineer III, Mobile, Android, XR](https://www.linkedin.com/jobs/view/4453725992/) — Google
+### [Software Engineer, Deep Learning Libraries - New College Graduate 2026](https://www.linkedin.com/jobs/view/4453735487/) — NVIDIA
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-08-14
+
+### [EndPoint Security Engineer](https://www.linkedin.com/jobs/view/4451283392/) — Ares Management
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-08-14
+
+### [New Grads 2027 - Software Engineer, Algorithm](https://www.linkedin.com/jobs/view/4454817634/) — WeRide
 - 📍 **Location:** San Jose, CA
+- 💰 **Salary:** $120,000.00/yr - $165,000.00/yr
 - 🕒 **Posted:** 2026-08-14
 
-### [DevOps Engineer](https://www.linkedin.com/jobs/view/4453749184/) — Garuda Ventures
-- 📍 **Location:** Palo Alto, CA
+### [New Grads 2027 - Software Engineer - Perception/Computer Vision](https://www.linkedin.com/jobs/view/4454805910/) — WeRide
+- 📍 **Location:** San Jose, CA
+- 💰 **Salary:** $120,000.00/yr - $165,000.00/yr
 - 🕒 **Posted:** 2026-08-14
 
-### [Software Engineer, Deployment Infrastructure](https://www.linkedin.com/jobs/view/4343003573/) — Vercel
+### [Software Engineer (Full Stack)](https://www.linkedin.com/jobs/view/4451283338/) — Financial Technology Partners / FT Partners
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-08-14
 
-### [Machine Learning Software Engineer 1](https://www.linkedin.com/jobs/view/4454826247/) — Crowe
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-08-14
-
-### [Software Engineer 3](https://www.linkedin.com/jobs/view/4453747026/) — The Farmer's Dog
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-08-14
-
-### [Software Engineer III, Infrastructure, Platforms Infrastructure Engineering](https://www.linkedin.com/jobs/view/4453721979/) — Google
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-08-14
-
-### [Software Engineer](https://www.linkedin.com/jobs/view/4429147804/) — Candid
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-08-14
-
-### [Infrastructure Software Engineer, Fleet & Automation](https://www.linkedin.com/jobs/view/4454815189/) — Nscale
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-08-14
-
-### [Machine Learning Engineer](https://www.linkedin.com/jobs/view/4454826250/) — Crowe
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-08-14
-
-### [Cloud Engineer III, Falcon Exposure Management (Hybrid)](https://www.linkedin.com/jobs/view/4451275366/) — CrowdStrike
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-08-14
-
-### [Security Engineer, Android Product Security](https://www.linkedin.com/jobs/view/4453726920/) — Google
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-08-14
-
-### [Applied Data Science Specialist](https://www.linkedin.com/jobs/view/4421164446/) — Child Mind Institute
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-08-14
-
-### [Research Engineer, LangSmith Engine](https://www.linkedin.com/jobs/view/4453736138/) — LangChain
-- 📍 **Location:** New York, NY
+### [Data Engineer](https://www.linkedin.com/jobs/view/4454811738/) — MeeBoss
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-08-14
