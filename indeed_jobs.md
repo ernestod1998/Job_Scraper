@@ -1,29 +1,24 @@
 # 🟦 Indeed — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-08-14 23:54 UTC*
+*Last updated: 2026-08-15 02:01 UTC*
 
-**5 new role(s)** since last run · 89 total in last 24h
+**4 new role(s)** since last run · 81 total in last 24h
 
-### [AI Infrastructure Engineer](https://www.indeed.com/viewjob?jk=891698c73f0a37c8) — Axon
-- 📍 **Location:** San Francisco, CA, US
-- 💰 **Salary:** $154k–$247k/yr
+### [New College Grad - AI Innovation Research Engineer](https://www.indeed.com/viewjob?jk=37f7ce00bd373207) — Micron Technology
+- 📍 **Location:** San Jose, CA, US
+- 💰 **Salary:** $113k–$242k/yr
+- 🕒 **Posted:** 2026-08-10
+
+### [Cloud Engineer III, Falcon Exposure Management (Hybrid)](https://www.indeed.com/viewjob?jk=8ea8f3c9c2afbee0) — CrowdStrike
+- 📍 **Location:** Sunnyvale, CA, US
+- 💰 **Salary:** $120k–$180k/yr
 - 🕒 **Posted:** 2026-08-14
 
-### [IT Infrastructure Engineer](https://www.indeed.com/viewjob?jk=3e7677d0b858a014) — Cloud Destinations
-- 📍 **Location:** Santa Clara, CA, US
-- 💰 **Salary:** $40–$47/hr
-- 🕒 **Posted:** 2026-08-14
-
-### [Full Stack Software Engineer (T. Rowe Price AI Lab)](https://www.indeed.com/viewjob?jk=e596c29aefd4f915) — T. Rowe Price
+### [Typescript Fullstack Engineer](https://www.indeed.com/viewjob?jk=9f1dadcf4b25045f) — Verneek
 - 📍 **Location:** New York, NY, US
-- 💰 **Salary:** $97k–$206k/yr
+- 💰 **Salary:** $80k–$140k/yr
 - 🕒 **Posted:** 2026-08-14
 
-### [Software Engineer 3](https://www.indeed.com/viewjob?jk=5b2c5c98ac010f43) — The Farmer's Dog
+### [Applied AI/ML Engineer](https://www.indeed.com/viewjob?jk=cdacf7489a386663) — CONFIDO
 - 📍 **Location:** New York, NY, US
-- 💰 **Salary:** $165k–$180k/yr
-- 🕒 **Posted:** 2026-08-14
-
-### [Transit Management Analyst Series (Infrastructure Engineering)](https://www.indeed.com/viewjob?jk=ab979a233b23ed68) — Metropolitan Transportation Authority
-- 📍 **Location:** Brooklyn, NY, US
-- 💰 **Salary:** $68k–$115k/yr
+- 💰 **Salary:** $200k–$250k/yr
 - 🕒 **Posted:** 2026-08-14
