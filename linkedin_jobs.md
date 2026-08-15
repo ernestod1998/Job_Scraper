@@ -1,42 +1,32 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-08-15 00:18 UTC*
+*Last updated: 2026-08-15 01:18 UTC*
 
-**9 new role(s)** since last run · 9 total in last 1h
+**6 new role(s)** since last run · 15 total in last 1h
 
-### [Applied Scientist II, AWS Just-Walk-Out Science Team](https://www.linkedin.com/jobs/view/4454808961/) — Amazon Web Services (AWS)
-- 📍 **Location:** East Palo Alto, CA
+### [Machine Learning Scientist - Drug Discovery](https://www.linkedin.com/jobs/view/4453743709/) — Astrix
+- 📍 **Location:** South San Francisco, CA
 - 🕒 **Posted:** 2026-08-14
 
-### [Applied Scientist, Automated Reasoning](https://www.linkedin.com/jobs/view/4454817847/) — Amazon Web Services (AWS)
-- 📍 **Location:** Santa Clara, CA
+### [Research Engineer - New Grad (2027)](https://www.linkedin.com/jobs/view/4453756652/) — Applied Intuition
+- 📍 **Location:** Sunnyvale, CA
+- 💰 **Salary:** $140,000.00/yr - $200,000.00/yr
 - 🕒 **Posted:** 2026-08-14
 
-### [Software Engineer, Infrastructure - DGX Cloud](https://www.linkedin.com/jobs/view/4453750344/) — NVIDIA
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-08-14
-
-### [Software Engineer, Deep Learning Libraries - New College Graduate 2026](https://www.linkedin.com/jobs/view/4453735487/) — NVIDIA
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-08-14
-
-### [EndPoint Security Engineer](https://www.linkedin.com/jobs/view/4451283392/) — Ares Management
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-08-14
-
-### [New Grads 2027 - Software Engineer, Algorithm](https://www.linkedin.com/jobs/view/4454817634/) — WeRide
-- 📍 **Location:** San Jose, CA
-- 💰 **Salary:** $120,000.00/yr - $165,000.00/yr
-- 🕒 **Posted:** 2026-08-14
-
-### [New Grads 2027 - Software Engineer - Perception/Computer Vision](https://www.linkedin.com/jobs/view/4454805910/) — WeRide
-- 📍 **Location:** San Jose, CA
-- 💰 **Salary:** $120,000.00/yr - $165,000.00/yr
-- 🕒 **Posted:** 2026-08-14
-
-### [Software Engineer (Full Stack)](https://www.linkedin.com/jobs/view/4451283338/) — Financial Technology Partners / FT Partners
+### [Software Engineer, Intern](https://www.linkedin.com/jobs/view/4454831386/) — Abridge
 - 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $40.00/hr - $40.00/hr
 - 🕒 **Posted:** 2026-08-14
 
-### [Data Engineer](https://www.linkedin.com/jobs/view/4454811738/) — MeeBoss
-- 📍 **Location:** San Francisco, CA
+### [Software Engineer - Calibration](https://www.linkedin.com/jobs/view/4423969292/) — Applied Intuition
+- 📍 **Location:** Sunnyvale, CA
+- 💰 **Salary:** $180,000.00/yr - $250,000.00/yr
+- 🕒 **Posted:** 2026-08-14
+
+### [Software Engineer - New Grad (December 2026)](https://www.linkedin.com/jobs/view/4453756654/) — Applied Intuition
+- 📍 **Location:** Sunnyvale, CA
+- 💰 **Salary:** $123,000.00/yr - $158,000.00/yr
+- 🕒 **Posted:** 2026-08-14
+
+### [Systems Engineer](https://www.linkedin.com/jobs/view/4454849341/) — ALTEN Technology USA
+- 📍 **Location:** Berkeley, CA
 - 🕒 **Posted:** 2026-08-14
