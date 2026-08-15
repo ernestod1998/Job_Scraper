@@ -1,87 +1,49 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-08-15 02:18 UTC*
+*Last updated: 2026-08-15 03:18 UTC*
 
-**17 new role(s)** since last run · 24 total in last 1h
+**10 new role(s)** since last run · 26 total in last 1h
 
-### [Machine Learning Engineer](https://www.linkedin.com/jobs/view/4454831804/) — Clay
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $170,000.00/yr - $300,000.00/yr
+### [Software Engineer, ML Platform](https://www.linkedin.com/jobs/view/4454839923/) — Gusto
+- 📍 **Location:** San Francisco Bay Area
 - 🕒 **Posted:** 2026-08-14
 
-### [Software Engineer, Early Career](https://www.linkedin.com/jobs/view/4451279564/) — Flow Engineering
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $160,000.00/yr - $180,000.00/yr
+### [Software Engineer - AI Agent](https://www.linkedin.com/jobs/view/4453789189/) — Jobright.ai
+- 📍 **Location:** San Mateo County, CA
 - 🕒 **Posted:** 2026-08-14
 
-### [Data Scientist](https://www.linkedin.com/jobs/view/4454852562/) — Clay
+### [Associate Data Engineer 2027 - AI & Data Analytics](https://www.linkedin.com/jobs/view/4451274739/) — IBM
 - 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $170,000.00/yr - $300,000.00/yr
+- 💰 **Salary:** $71,200.00/yr - $107,000.00/yr
 - 🕒 **Posted:** 2026-08-14
 
-### [Software Engineer, Large-Scale Data Query Systems](https://www.linkedin.com/jobs/view/4454840668/) — Eventual
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $150,000.00/yr - $250,000.00/yr
+### [Data Scientist Graduate (Multimedia) - 2027 Start](https://www.linkedin.com/jobs/view/4453798205/) — TikTok
+- 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-08-14
 
-### [Software Engineer, Data Products & Platform](https://www.linkedin.com/jobs/view/4454843687/) — Clay
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $170,000.00/yr - $300,000.00/yr
-- 🕒 **Posted:** 2026-08-14
-
-### [Software Engineer I, Payments](https://www.linkedin.com/jobs/view/4453791036/) — Twitch
+### [Backend Engineer, Link (US)](https://www.linkedin.com/jobs/view/4454837846/) — Stripe
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-08-14
 
-### [Backend Software Engineer](https://www.linkedin.com/jobs/view/4450826315/) — David AI
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $165,000.00/yr - $225,000.00/yr
+### [entry level data scientist/AI engineer/Junior java developer](https://www.linkedin.com/jobs/view/4453901033/) — SynergisticIT
+- 📍 **Location:** Santa Clara, CA
+- 💰 **Salary:** $82,000.00/yr - $145,000.00/yr
 - 🕒 **Posted:** 2026-08-14
 
-### [Frontend Software Engineer](https://www.linkedin.com/jobs/view/4450837189/) — David AI
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $165,000.00/yr - $225,000.00/yr
+### [Scientist I, DMPK](https://www.linkedin.com/jobs/view/4453794209/) — Revolution Medicines
+- 📍 **Location:** San Francisco Bay Area
 - 🕒 **Posted:** 2026-08-14
 
-### [Associate Data Scientist 2027 - AI & Data Analytics](https://www.linkedin.com/jobs/view/4451278742/) — IBM
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $88,800.00/yr - $133,200.00/yr
+### [Python Software Engineer III](https://www.linkedin.com/jobs/view/4454837916/) — JPMorganChase
+- 📍 **Location:** Jersey City, NJ
+- 💰 **Salary:** $137,750.00/yr - $185,000.00/yr
 - 🕒 **Posted:** 2026-08-14
 
-### [Software Engineer, Applied AI](https://www.linkedin.com/jobs/view/4454845732/) — Clay
+### [Software Engineer III (Python/React)](https://www.linkedin.com/jobs/view/4454848761/) — JPMorganChase
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $170,000.00/yr - $300,000.00/yr
+- 💰 **Salary:** $137,750.00/yr - $185,000.00/yr
 - 🕒 **Posted:** 2026-08-14
 
-### [Software Engineer, Data Products & Platform](https://www.linkedin.com/jobs/view/4454830874/) — Clay
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $170,000.00/yr - $300,000.00/yr
-- 🕒 **Posted:** 2026-08-14
-
-### [Software Engineer, Backend (Product)](https://www.linkedin.com/jobs/view/4454832802/) — Clay
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $170,000.00/yr - $300,000.00/yr
-- 🕒 **Posted:** 2026-08-14
-
-### [Junior Java Spring boot developer/Data Scientist](https://www.linkedin.com/jobs/view/4453789103/) — SynergisticIT
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $82,000.00/yr - $136,000.00/yr
-- 🕒 **Posted:** 2026-08-14
-
-### [Machine Learning Infrastructure Engineer](https://www.linkedin.com/jobs/view/4453793059/) — Fintal Partners
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $500,000.00/yr - $1,500,000.00/yr
-- 🕒 **Posted:** 2026-08-14
-
-### [Software Engineer, AI Platforms and Products](https://www.linkedin.com/jobs/view/4454831848/) — The New York Times
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-08-14
-
-### [Software Engineer, (Full Stack) Product](https://www.linkedin.com/jobs/view/4454841750/) — Clay
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $170,000.00/yr - $300,000.00/yr
-- 🕒 **Posted:** 2026-08-14
-
-### [Software Engineer, Backend (Infrastructure & Platform)](https://www.linkedin.com/jobs/view/4454837776/) — Clay
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $170,000.00/yr - $300,000.00/yr
+### [Full-Stack Java React Software Engineer III](https://www.linkedin.com/jobs/view/4454840867/) — JPMorganChase
+- 📍 **Location:** Jersey City, NJ
+- 💰 **Salary:** $137,750.00/yr - $185,000.00/yr
 - 🕒 **Posted:** 2026-08-14
