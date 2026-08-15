@@ -1,8 +1,6 @@
 # 🟦 Indeed — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-08-15 21:51 UTC*
+*Last updated: 2026-08-15 22:53 UTC*
 
-**1 new role(s)** since last run · 53 total in last 24h
+**0 new role(s)** since last run · 43 total in last 24h
 
-### [Software Engineering Intern (Summer 2027)](https://www.indeed.com/viewjob?jk=9e829a02bb5efd84) — Replit
-- 📍 **Location:** Foster City, CA, US
-- 🕒 **Posted:** 2026-08-15
+No new roles since the last run.
