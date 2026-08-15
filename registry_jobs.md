@@ -1,232 +1,240 @@
 # 🗃 Direct ATS Registry — Engineering / ML / DS Roles
-*Last updated: 2026-08-14 14:48 UTC*
+*Last updated: 2026-08-15 14:14 UTC*
 
-**57 new role(s)** since last run · 69 total in current registry shard
+**59 new role(s)** since last run · 127 total in current registry shard
 
-### [Airborne Electronic Hardware Systems Engineer](https://job-boards.greenhouse.io/archer56/jobs/7740894003) — Archer
-- 📍 **Location:** San Jose, California, United States
-- 🕒 **Posted:** 2026-07-29
+### [Junior Software Engineer](https://jobs.ashbyhq.com/mechanize/b50c89dc-001c-4fb6-a4fc-a9f52f35b490) — Mechanize
+- 📍 **Location:** San Francisco
+- 🕒 **Posted:** 2025-07-18
 
-### [Computer Vision Engineer](https://job-boards.greenhouse.io/archer56/jobs/7823270003) — Archer
-- 📍 **Location:** San Jose, California, United States
-- 🕒 **Posted:** 2026-08-09
+### [Software Engineer](https://jobs.ashbyhq.com/mechanize/1ef28bb2-6251-4da6-a590-a4a7606368cb) — Mechanize
+- 📍 **Location:** San Francisco
+- 🕒 **Posted:** 2026-02-18
 
-### [VMS Software Engineer](https://job-boards.greenhouse.io/archer56/jobs/7607278003) — Archer
-- 📍 **Location:** San Jose, California, United States
-- 🕒 **Posted:** 2026-07-29
+### [Software Engineering Intern](https://jobs.ashbyhq.com/mechanize/d148d54f-6db7-4c28-9699-0304596f554e) — Mechanize
+- 📍 **Location:** San Francisco
+- 🕒 **Posted:** 2025-11-19
 
-### [Data Scientist II](https://job-boards.greenhouse.io/axle/jobs/5175582007) — Axle
-- 📍 **Location:** Remote 
+### [Embedded Software Developer, Network/Payload Software Intern (Fall 2026)](https://job-boards.greenhouse.io/astranis/jobs/4601135006) — Astranis
+- 📍 **Location:** San Francisco
+- 🕒 **Posted:** 2026-08-13
+
+### [Embedded Software Engineer - Network Software](https://job-boards.greenhouse.io/astranis/jobs/4363202006) — Astranis
+- 📍 **Location:** San Francisco
+- 🕒 **Posted:** 2026-08-13
+
+### [Flight Software Engineer ](https://job-boards.greenhouse.io/astranis/jobs/4015622006) — Astranis
+- 📍 **Location:** San Francisco
+- 🕒 **Posted:** 2026-08-13
+
+### [Full Stack Engineer - Enterprise Systems](https://job-boards.greenhouse.io/astranis/jobs/4597153006) — Astranis
+- 📍 **Location:** San Francisco
+- 🕒 **Posted:** 2026-08-13
+
+### [Hardware Test Software Engineer ](https://job-boards.greenhouse.io/astranis/jobs/4244436006) — Astranis
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-08-13
+
+### [Product Security Engineer ](https://job-boards.greenhouse.io/astranis/jobs/4667335006) — Astranis
+- 📍 **Location:** San Francisco
+- 🕒 **Posted:** 2026-08-13
+
+### [Software Engineer- Backend Intern (Fall 2026)](https://job-boards.greenhouse.io/astranis/jobs/4681183006) — Astranis
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-08-13
+
+### [Software Engineer - Hardware Test](https://job-boards.greenhouse.io/astranis/jobs/4702072006) — Astranis
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-08-13
+
+### [Software Engineer Intern - Enterprise Systems (Fall 2026)](https://job-boards.greenhouse.io/astranis/jobs/4699071006) — Astranis
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-08-13
+
+### [AI Training Infrastructure Engineer – Humanoid Whole Body Control](https://job-boards.greenhouse.io/figureai/jobs/4674754006) — Figure
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-08-02
+
+### [Helix AI Engineer, Data Infrastructure ](https://job-boards.greenhouse.io/figureai/jobs/4345915006) — Figure
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-08-02
+
+### [Helix AI Engineer, Generative AI](https://job-boards.greenhouse.io/figureai/jobs/4671699006) — Figure
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-08-02
+
+### [Helix AI Engineer, Reinforcement Learning](https://job-boards.greenhouse.io/figureai/jobs/4671707006) — Figure
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-08-02
+
+### [Reinforcement Learning Engineer – Whole Body Control](https://job-boards.greenhouse.io/figureai/jobs/4671442006) — Figure
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-08-10
+
+### [Security Engineer, Application Security](https://job-boards.greenhouse.io/figureai/jobs/4620050006) — Figure
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-08-02
+
+### [Security Engineer, Product and Device Security](https://job-boards.greenhouse.io/figureai/jobs/4555450006) — Figure
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-08-02
+
+### [Security Engineer, Vulnerability Management and Automation](https://job-boards.greenhouse.io/figureai/jobs/4690870006) — Figure
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-08-02
+
+### [Software Engineer, Manufacturing Systems](https://job-boards.greenhouse.io/figureai/jobs/4692559006) — Figure
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-08-02
+
+### [Software Engineer, Privacy & Data Governance](https://job-boards.greenhouse.io/figureai/jobs/4690871006) — Figure
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-08-02
+
+### [Machine Learning Engineer, LLM Post-Training](https://job-boards.greenhouse.io/newsbreak/jobs/4688409006) — NewsBreak
+- 📍 **Location:** Mountain View, California, United States
+- 🕒 **Posted:** 2026-06-10
+
+### [Machine Learning Engineer, Local Search & Marketplace](https://job-boards.greenhouse.io/newsbreak/jobs/4699217006) — NewsBreak
+- 📍 **Location:** Mountain View, California, United States
+- 🕒 **Posted:** 2026-07-22
+
+### [Machine Learning Engineer, Local Search & Marketplace](https://job-boards.greenhouse.io/newsbreak/jobs/4699218006) — NewsBreak
+- 📍 **Location:** Mountain View, California, United States
+- 🕒 **Posted:** 2026-07-22
+
+### [Software Engineer, ML Infra](https://job-boards.greenhouse.io/newsbreak/jobs/4409616006) — NewsBreak
+- 📍 **Location:** Mountain View, California, United States
+- 🕒 **Posted:** 2026-04-22
+
+### [Software Engineer, ML Infra (Junior & New Grad)](https://job-boards.greenhouse.io/newsbreak/jobs/4615879006) — NewsBreak
+- 📍 **Location:** Mountain View, California, United States
+- 🕒 **Posted:** 2026-07-31
+
+### [Software Engineer](https://job-boards.greenhouse.io/oklo/jobs/4018702004) — Oklo
+- 📍 **Location:** Santa Clara, CA or Remote
+- 🕒 **Posted:** 2026-04-10
+
+### [Systems Engineer, Requirements and Integration](https://job-boards.greenhouse.io/oklo/jobs/5649054004) — Oklo
+- 📍 **Location:** Santa Clara, CA or Remote
+- 🕒 **Posted:** 2026-05-12
+
+### [Software Engineer I](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6104600004) — Sony Interactive Entertainment
+- 📍 **Location:** United States, San Mateo, CA
+- 🕒 **Posted:** 2026-07-27
+
+### [Software Engineer II](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5985241004) — Sony Interactive Entertainment
+- 📍 **Location:** United States, San Mateo, CA
+- 🕒 **Posted:** 2026-07-24
+
+### [Software Engineer II](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6018473004) — Sony Interactive Entertainment
+- 📍 **Location:** United States, San Mateo, CA
+- 🕒 **Posted:** 2026-07-24
+
+### [Software Engineer II](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6101023004) — Sony Interactive Entertainment
+- 📍 **Location:** United States, San Mateo, CA
+- 🕒 **Posted:** 2026-07-09
+
+### [Software Engineer II ](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5806762004) — Sony Interactive Entertainment
+- 📍 **Location:** United States, San Mateo, CA
 - 🕒 **Posted:** 2026-08-04
 
-### [Software Developer](https://job-boards.greenhouse.io/lucidmotors/jobs/5202054007) — Lucid Motors
-- 📍 **Location:** Newark, CA
-- 🕒 **Posted:** 2026-08-06
+### [Software Engineer I SDK](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6119793004) — Sony Interactive Entertainment
+- 📍 **Location:** United States, San Mateo, CA
+- 🕒 **Posted:** 2026-08-10
 
-### [Systems Engineer V - Systems ](https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4329584009) — Voyager Technologies
-- 📍 **Location:** Reno, NV or Remote-USA or Folsom, CA
-- 🕒 **Posted:** 2026-08-13
+### [Site Reliability Engineer ](https://job-boards.greenhouse.io/sustainabletalent/jobs/4687695005) — Sustainable Talent
+- 📍 **Location:** Santa Clara, CA 
+- 🕒 **Posted:** 2026-07-02
 
-### [AI Tutor - Software Engineering Specialist](https://job-boards.greenhouse.io/xai/jobs/5063490007) — xAI
-- 📍 **Location:** Remote United States
-- 🕒 **Posted:** 2026-08-13
+### [Cloud Engineer I/II - (W2PE) - Remote](https://job-boards.greenhouse.io/trace3/jobs/7895882) — Trace3
+- 📍 **Location:** Remote
+- 🕒 **Posted:** 2026-07-28
 
-### [Analytics Engineer - X](https://job-boards.greenhouse.io/xai/jobs/5210564007) — xAI
-- 📍 **Location:** Palo Alto, California
-- 🕒 **Posted:** 2026-08-13
+### [Applied Machine Learning Engineer (All Levels)](https://allstate.wd5.myworkdayjobs.com/allstate_careers/job/USA---IL-Remote/Applied-Machine-Learning-Engineer--All-Levels-_R27180-1) — Allstate Insurance Company
+- 📍 **Location:** USA - IL (Remote)
+- 🕒 **Posted:** Posted 30+ Days Ago
 
-### [Application Security Engineer](https://job-boards.greenhouse.io/xai/jobs/4559147007) — xAI
-- 📍 **Location:** Palo Alto, California
-- 🕒 **Posted:** 2026-08-13
+### [Software Engineer (All Levels)](https://allstate.wd5.myworkdayjobs.com/allstate_careers/job/US---Remote/Software-Engineer--All-Levels-_R32116-1) — Allstate Insurance Company
+- 📍 **Location:** US - Remote
+- 🕒 **Posted:** Posted 19 Days Ago
 
-### [Exceptional Software Engineer](https://job-boards.greenhouse.io/xai/jobs/4956028007) — xAI
-- 📍 **Location:** Palo Alto, California
-- 🕒 **Posted:** 2026-08-13
+### [Software Engineer II](https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/SAN-JOSE/Software-Engineer-II_R51635) — Cadence Design Systems
+- 📍 **Location:** SAN JOSE
+- 🕒 **Posted:** Posted 30+ Days Ago
 
-### [Infrastructure Security Engineer](https://job-boards.greenhouse.io/xai/jobs/5090998007) — xAI
-- 📍 **Location:** Austin, Texas; London, England, United Kingdom; New York, New York; Palo Alto, California; Washington, D.C.
-- 🕒 **Posted:** 2026-08-13
+### [Software Engineer II, AI Platform](https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/SAN-JOSE/Software-Engineer-II--AI-Platform_R55030) — Cadence Design Systems
+- 📍 **Location:** SAN JOSE
+- 🕒 **Posted:** Posted 30+ Days Ago
 
-### [IT Systems Engineer](https://job-boards.greenhouse.io/xai/jobs/4871633007) — xAI
-- 📍 **Location:** Palo Alto, California
-- 🕒 **Posted:** 2026-08-13
+### [Software Engineer II](https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/SAN-JOSE/Software-Engineer-II_R55509) — Cadence Design Systems
+- 📍 **Location:** SAN JOSE
+- 🕒 **Posted:** Posted 30+ Days Ago
 
-### [ML Infrastructure Engineer](https://job-boards.greenhouse.io/xai/jobs/5193037007) — xAI
-- 📍 **Location:** Palo Alto, California
-- 🕒 **Posted:** 2026-08-13
+### [Machine Learning Software Engineer 1](https://crowe.wd12.myworkdayjobs.com/external_careers/job/Chicago-IL-USA/Machine-Learning-Software-Engineer-1_R-71006) — Crowe
+- 📍 **Location:** San Jose CA USA
+- 🕒 **Posted:** Posted Yesterday
 
-### [Mobile Android Engineer](https://job-boards.greenhouse.io/xai/jobs/4892323007) — xAI
-- 📍 **Location:** New York, New York; Palo Alto, California
-- 🕒 **Posted:** 2026-08-13
+### [Machine Learning Engineer](https://crowe.wd12.myworkdayjobs.com/external_careers/job/Chicago-IL-USA/Machine-Learning-Engineer_R-71014) — Crowe
+- 📍 **Location:** San Jose CA USA
+- 🕒 **Posted:** Posted Yesterday
 
-### [Mobile iOS Engineer](https://job-boards.greenhouse.io/xai/jobs/4985386007) — xAI
-- 📍 **Location:** New York, New York; Palo Alto, California
-- 🕒 **Posted:** 2026-08-13
+### [Android Engineer II](https://fox.wd1.myworkdayjobs.com/Domestic/job/New-York-New-York-USA/Android-Engineer-II_R50033127) — FOX
+- 📍 **Location:** New York, New York, USA
+- 🕒 **Posted:** Posted 30 Days Ago
 
-### [Network Security Engineer](https://job-boards.greenhouse.io/xai/jobs/4800712007) — xAI
-- 📍 **Location:** Austin, Texas; New York, New York; Palo Alto, California; Washington, D.C.
-- 🕒 **Posted:** 2026-08-13
+### [iOS Engineer II](https://fox.wd1.myworkdayjobs.com/Domestic/job/New-York-New-York-USA/iOS-Engineer-II_R50033049) — FOX
+- 📍 **Location:** New York, New York, USA
+- 🕒 **Posted:** Posted 30+ Days Ago
 
-### [Software Engineer, Ads Product ](https://job-boards.greenhouse.io/xai/jobs/5152408007) — xAI
-- 📍 **Location:** Palo Alto, California
-- 🕒 **Posted:** 2026-08-13
+### [Software Engineering Intern (Summer 2027)](https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-CA-SAN-JOSE-826--200-Holger-Way--BLDG-826/Software-Engineering-Intern--Summer-2027-_01867392) — RTX
+- 📍 **Location:** US-CA-SAN JOSE-826 ~ 200 Holger Way ~ BLDG 826
+- 🕒 **Posted:** Posted Yesterday
 
-### [Software Engineer - Data Platform](https://job-boards.greenhouse.io/xai/jobs/4803862007) — xAI
-- 📍 **Location:** Palo Alto, California
-- 🕒 **Posted:** 2026-08-13
+### [Software Engineer I (Onsite)](https://globalhr.wd5.myworkdayjobs.com/Private_Posting_No_TMP/job/US-CA-SAN-JOSE-826--200-Holger-Way--BLDG-826/Software-Engineer-I--Onsite-_01867385) — RTX
+- 📍 **Location:** US-CA-SAN JOSE-826 ~ 200 Holger Way ~ BLDG 826
+- 🕒 **Posted:** Posted Yesterday
 
-### [Software Engineer - Evals](https://job-boards.greenhouse.io/xai/jobs/5188230007) — xAI
-- 📍 **Location:** Palo Alto, California
-- 🕒 **Posted:** 2026-08-13
+### [HPC Systems Engineer](https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/AI-Platform-Engineer_2638542) — KLA Corporation
+- 📍 **Location:** Milpitas, CA
+- 🕒 **Posted:** Posted 4 Days Ago
 
-### [Software Engineer - Kernels/CUDA (C++)](https://job-boards.greenhouse.io/xai/jobs/5052040007) — xAI
-- 📍 **Location:** Palo Alto, California
-- 🕒 **Posted:** 2026-08-13
+### [Algorithm Engineer (Image Processing/Computer Vision)](https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/Algorithm-Engineer--Image-Processing-Computer-Vision-_2639184) — KLA Corporation
+- 📍 **Location:** Milpitas, CA
+- 🕒 **Posted:** Posted 12 Days Ago
 
-### [Software Engineer - Linux Kernel (C++, C)](https://job-boards.greenhouse.io/xai/jobs/5202187007) — xAI
-- 📍 **Location:** Palo Alto, California; Seattle, Washington
-- 🕒 **Posted:** 2026-08-13
+### [Software Engineer - Test Automation](https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/Software-Engineer---Test-Automation_2636542) — KLA Corporation
+- 📍 **Location:** Milpitas, CA
+- 🕒 **Posted:** Posted 30+ Days Ago
 
-### [Software Engineer - Network (C++)](https://job-boards.greenhouse.io/xai/jobs/5179367007) — xAI
-- 📍 **Location:** Palo Alto, California; Seattle, Washington
-- 🕒 **Posted:** 2026-08-13
+### [Diagnostics Software Engineer (AI/ML)](https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/Diagnostics-Software-Engineer_2638974) — KLA Corporation
+- 📍 **Location:** Milpitas, CA
+- 🕒 **Posted:** Posted 22 Days Ago
 
-### [Software Engineer - Networking Software and Services](https://job-boards.greenhouse.io/xai/jobs/4946696007) — xAI
-- 📍 **Location:** Palo Alto, California
-- 🕒 **Posted:** 2026-08-13
+### [Software Engineer](https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Software-Engineer_2637811) — KLA
+- 📍 **Location:** Milpitas, CA
+- 🕒 **Posted:** Posted 26 Days Ago
 
-### [Software Engineer - Observability](https://job-boards.greenhouse.io/xai/jobs/4803905007) — xAI
-- 📍 **Location:** Palo Alto, California
-- 🕒 **Posted:** 2026-08-13
-
-### [Software Engineer - Platform Infrastructure (Rust, C++)](https://job-boards.greenhouse.io/xai/jobs/5191142007) — xAI
-- 📍 **Location:** Palo Alto, California
-- 🕒 **Posted:** 2026-08-13
-
-### [Software Engineer - Platform Security](https://job-boards.greenhouse.io/xai/jobs/4835611007) — xAI
-- 📍 **Location:** Palo Alto, California
-- 🕒 **Posted:** 2026-08-13
-
-### [Software Engineer - Real-Time Storage](https://job-boards.greenhouse.io/xai/jobs/4805886007) — xAI
-- 📍 **Location:** Palo Alto, California
-- 🕒 **Posted:** 2026-08-13
-
-### [Software Engineer - Search Infrastructure](https://job-boards.greenhouse.io/xai/jobs/5205179007) — xAI
-- 📍 **Location:** Palo Alto, California
-- 🕒 **Posted:** 2026-08-13
-
-### [Software Engineer - Search Ranking](https://job-boards.greenhouse.io/xai/jobs/5125621007) — xAI
-- 📍 **Location:** Palo Alto, California
-- 🕒 **Posted:** 2026-08-13
-
-### [Software Engineer - Training/Inference (C++)](https://job-boards.greenhouse.io/xai/jobs/4533894007) — xAI
-- 📍 **Location:** Palo Alto, California
-- 🕒 **Posted:** 2026-08-13
-
-### [Software Engineer - Voice Model](https://job-boards.greenhouse.io/xai/jobs/5051966007) — xAI
-- 📍 **Location:** Palo Alto, California
-- 🕒 **Posted:** 2026-08-13
-
-### [Software Engineer - X Data Engineering](https://job-boards.greenhouse.io/xai/jobs/5182183007) — xAI
-- 📍 **Location:** Palo Alto, California
-- 🕒 **Posted:** 2026-08-13
-
-### [Software Engineer - X Developer Platform](https://job-boards.greenhouse.io/xai/jobs/5204788007) — xAI
-- 📍 **Location:** Palo Alto, California
-- 🕒 **Posted:** 2026-08-13
-
-### [Software Engineer - X Money](https://job-boards.greenhouse.io/xai/jobs/5107958007) — xAI
-- 📍 **Location:** Palo Alto, California
-- 🕒 **Posted:** 2026-08-13
-
-### [NG Systems Engineer](https://job-boards.greenhouse.io/yext/jobs/7777830) — Yext
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-08-07
-
-### [Software Engineer](https://jobs.lever.co/q-ctrl/fd766aab-fbc4-440d-8075-ecf58a6b49fe) — Q-CTRL
-- 📍 **Location:** San Francisco
-- 🕒 **Posted:** 1784576317974
-
-### [AI Cloud Platform Engineer](https://caci.wd1.myworkdayjobs.com/External/job/Washington-DC-US/AI-Cloud-Platform-Engineer_330294) — CACI
-- 📍 **Location:** Washington, DC, US; Remote (Any State)
+### [AI Software Developer](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/AI-Software-Developer_R-00188597) — Leidos
+- 📍 **Location:** 6314 Remote/Teleworker US
 - 🕒 **Posted:** Posted 3 Days Ago
 
-### [AI - Cyber Security Engineer - II](https://fiserv.wd5.myworkdayjobs.com/ext/job/Alpharetta-Georgia/AI---Process-Engineering---Advisor--II_R-10398812-1) — Fiserv
-- 📍 **Location:** Berkeley Heights, New Jersey
-- 🕒 **Posted:** Posted 9 Days Ago
-
-### [Data Security Engineer](https://fiserv.wd5.myworkdayjobs.com/ext/job/Columbus-Ohio/Data-Protection-Security-Engineer_R-10388610-1) — Fiserv
-- 📍 **Location:** Berkeley Heights, New Jersey
-- 🕒 **Posted:** Posted 8 Days Ago
-
-### [Software Engineer II](https://harriscomputer.wd3.myworkdayjobs.com/1/job/Tennessee-United-States/Software-Engineer-II_R0045600) — Harris Computer
-- 📍 **Location:** Remote
-- 🕒 **Posted:** Posted Today
-
-### [Applied Machine Learning Scientist Intern - PhD](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Applied-Machine-Learning-Scientist-Intern---PhD_2502662-1) — Marvell
+### [Applied Machine Learning Scientist Intern - PhD](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Applied-Machine-Learning-Scientist-Intern---PhD_2502662) — Marvell
 - 📍 **Location:** Santa Clara, CA
 - 🕒 **Posted:** Posted 30+ Days Ago
 
-### [Machine Learning Systems Engineer, Networking](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Machine-Learning-Systems-Engineer--Networking_JR2018261) — NVIDIA
-- 📍 **Location:** US, CA, Santa Clara
-- 🕒 **Posted:** Posted 3 Days Ago
+### [Bioinformatics Scientist](https://tempus.wd5.myworkdayjobs.com/Tempus_Careers/job/Redwood-City/Bioinformatics-Scientist_JR202600784) — Tempus
+- 📍 **Location:** Redwood City
+- 🕒 **Posted:** Posted 9 Days Ago
 
-### [Machine Learning Engineer, AI Safety](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Machine-Learning-Engineer--AI-Safety_JR2021784-1) — NVIDIA
-- 📍 **Location:** US, CA, Santa Clara
-- 🕒 **Posted:** Posted 3 Days Ago
-
-### [Applied Machine Learning Engineer, Circuit Design - New College Grad 2026](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Machine-Learning-Engineer--Circuit-Design---New-College-Grad-2026_JR2011517) — NVIDIA
-- 📍 **Location:** US, CA, Santa Clara
+### [Data Scientist III, Behavioral Marketing Analytics & Customer Insights ](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Carlsbad-California-USA/Data-Scientist-III--Behavioral-Marketing-Analytics---Customer-Insights-_R-01359096) — Thermo Fisher Scientific
+- 📍 **Location:** Pleasanton, California, USA
 - 🕒 **Posted:** Posted 30+ Days Ago
 
-### [Software Engineer, CUDA Deep Learning Systems](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--CUDA-Deep-Learning-Systems_JR2022831) — NVIDIA
-- 📍 **Location:** US, CA, Santa Clara
-- 🕒 **Posted:** Posted 3 Days Ago
-
-### [Research Scientist, ML Systems - PhD New College Grad 2026](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--ML-Systems---New-College-Grad-2026_JR2010161) — NVIDIA
-- 📍 **Location:** US, CA, Santa Clara
-- 🕒 **Posted:** Posted 30+ Days Ago
-
-### [Research Scientist, Efficient Deep Learning - New College Grad 2026](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Efficient-Deep-Learning---New-College-Grad-2026_JR2019729-1) — NVIDIA
-- 📍 **Location:** US, CA, Santa Clara
-- 🕒 **Posted:** Posted 30+ Days Ago
-
-### [Research Scientist, Fundamental Generative AI - New College Grad 2026](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Fundamental-Generative-AI---New-College-Grad-2026_JR2012698) — NVIDIA
-- 📍 **Location:** US, CA, Santa Clara
-- 🕒 **Posted:** Posted 30+ Days Ago
-
-### [Research Scientist, AI for Graphics and Gaming - New College Grad 2026](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--AI-for-Graphics-and-Gaming---New-College-Grad-2026_JR2011267) — NVIDIA
-- 📍 **Location:** US, CA, Santa Clara
-- 🕒 **Posted:** Posted 30+ Days Ago
-
-### [Research Scientist, Generative AI for Physical AI - PhD New College Grad 2026](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Generative-AI-for-Physical-AI---PhD-New-College-Grad-2026_JR2016032) — NVIDIA
-- 📍 **Location:** US, CA, Santa Clara
-- 🕒 **Posted:** Posted 30+ Days Ago
-
-### [Applied Research Engineer, Chip Design](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Research-Engineer--Chip-Design_JR2021814) — NVIDIA
-- 📍 **Location:** US, CA, Santa Clara
-- 🕒 **Posted:** Posted 22 Days Ago
-
-### [Research Scientist, AI Accelerator Design and VLSI - New College Grad 2026](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--AI-Accelerator-SW-HW-Co-Design---New-College-Grad-2026_JR2011644) — NVIDIA
-- 📍 **Location:** US, CA, Santa Clara
-- 🕒 **Posted:** Posted 30+ Days Ago
-
-### [Systems Engineering](https://nxp.wd3.myworkdayjobs.com/careers/job/San-Jose-Holger-Way/Systems-Engineering_R-10066121) — NXP Semiconductors
-- 📍 **Location:** San Jose (Holger Way)
-- 🕒 **Posted:** Posted 7 Days Ago
-
-### [Systems Engineer](https://nxp.wd3.myworkdayjobs.com/careers/job/San-Jose-Holger-Way/Systems-Engineer_R-10066120) — NXP Semiconductors
-- 📍 **Location:** San Jose (Holger Way)
-- 🕒 **Posted:** Posted 7 Days Ago
-
-### [Machine Learning Engineer II](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/New-York-NY/Machine-Learning-Engineer-II_330646-1) — S&P Global
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** Posted Yesterday
-
-### [Machine Learning Engineer II](https://spgi.wd5.myworkdayjobs.com/SPGI_Careers/job/New-York-NY/Machine-Learning-Engineer-II_330645) — S&P Global
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** Posted 3 Days Ago
-
-### [AI Scientist](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Chicago-IL/AI-Scientist_2026-0022706) — U.S. Bank
-- 📍 **Location:** San Francisco, CA
+### [Biostatistician II](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-North-Carolina-USA/Biostatistician-II_R-01361951) — Thermo Fisher Scientific
+- 📍 **Location:** Remote, North Carolina, USA
 - 🕒 **Posted:** Posted 2 Days Ago
+
+### [Bioinformatics Scientist](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Pleasanton-California-USA/Bioinformatics-Scientist_R-01360077) — Thermo Fisher Scientific
+- 📍 **Location:** Pleasanton, California, USA
+- 🕒 **Posted:** Posted 30+ Days Ago
