@@ -1,12 +1,12 @@
 # 🧬 Biotech LinkedIn — MLE / DS Roles
-*Last updated: 2026-08-14 05:07 UTC*
+*Last updated: 2026-08-15 04:00 UTC*
 
-**2 new role(s)** since last run · 77 total in last 24h
+**2 new role(s)** since last run · 79 total in last 24h
 
-### [Research Scientist, AI](https://job-boards.greenhouse.io/biohub/jobs/7747518) — Chan Zuckerberg Biohub
-- 📍 **Location:** New York, NY (Hybrid)
-- 🕒 **Posted:** 2026-06-02
+### [Scientist I, DMPK](https://www.revmed.com/careers-list/?gh_jid=7672886003) — Revolution Medicines
+- 📍 **Location:** Redwood City, California, United States
+- 🕒 **Posted:** 2026-08-14
 
-### [Software Engineer, Full Stack (Document Canvas)](https://jobs.ashbyhq.com/benchling/d627fcc2-2e34-4bde-9be2-242c89c19436) — Benchling
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-08-13
+### [Cloud Engineer](https://job-boards.greenhouse.io/schrdinger/jobs/7826914003) — Schrödinger
+- 📍 **Location:** New York; Portland
+- 🕒 **Posted:** 2026-08-14
