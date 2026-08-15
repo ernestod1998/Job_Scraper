@@ -1,24 +1,60 @@
 # 🟦 Indeed — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-08-15 02:01 UTC*
+*Last updated: 2026-08-15 03:21 UTC*
 
-**4 new role(s)** since last run · 81 total in last 24h
+**12 new role(s)** since last run · 91 total in last 24h
 
-### [New College Grad - AI Innovation Research Engineer](https://www.indeed.com/viewjob?jk=37f7ce00bd373207) — Micron Technology
+### [Machine Learning Engineer (Egocentric 3D Human Pose)](https://www.indeed.com/viewjob?jk=886b634b15143136) — MaxInsights
+- 📍 **Location:** Santa Clara, CA, US
+- 🕒 **Posted:** 2026-08-14
+
+### [Machine Learning Engineer (Video Understanding & Segmentation)](https://www.indeed.com/viewjob?jk=d451933a055da986) — MaxInsights
+- 📍 **Location:** Santa Clara, CA, US
+- 🕒 **Posted:** 2026-08-14
+
+### [UI Automation - Software Engineer](https://www.indeed.com/viewjob?jk=0f5e85681842113b) — Cisco
 - 📍 **Location:** San Jose, CA, US
-- 💰 **Salary:** $113k–$242k/yr
-- 🕒 **Posted:** 2026-08-10
-
-### [Cloud Engineer III, Falcon Exposure Management (Hybrid)](https://www.indeed.com/viewjob?jk=8ea8f3c9c2afbee0) — CrowdStrike
-- 📍 **Location:** Sunnyvale, CA, US
-- 💰 **Salary:** $120k–$180k/yr
+- 💰 **Salary:** $138k–$256k/yr
 - 🕒 **Posted:** 2026-08-14
 
-### [Typescript Fullstack Engineer](https://www.indeed.com/viewjob?jk=9f1dadcf4b25045f) — Verneek
-- 📍 **Location:** New York, NY, US
-- 💰 **Salary:** $80k–$140k/yr
+### [Software Engineering Technical Leader, Front-End â€” Cisco CX Engineering](https://www.indeed.com/viewjob?jk=3174decf9d6a6f2f) — Cisco
+- 📍 **Location:** San Jose, CA, US
+- 💰 **Salary:** $166k–$308k/yr
 - 🕒 **Posted:** 2026-08-14
 
-### [Applied AI/ML Engineer](https://www.indeed.com/viewjob?jk=cdacf7489a386663) — CONFIDO
+### [Infrastructure Software Engineer, Fleet & Automation](https://www.indeed.com/viewjob?jk=f44bc66f3cc06ffd) — nSCALE
+- 📍 **Location:** San Francisco, CA, US
+- 💰 **Salary:** $150k–$215k/yr
+- 🕒 **Posted:** 2026-08-14
+
+### [Software Engineering Internship](https://www.indeed.com/viewjob?jk=e93f1ce783e070df) — Unknown
+- 📍 **Location:** San Francisco, CA, US
+- 🕒 **Posted:** 2026-08-14
+
+### [Software Engineer, Early Career](https://www.indeed.com/viewjob?jk=fdf850c95ddd669d) — FLOW ENGINEERING
+- 📍 **Location:** San Francisco, CA, US
+- 💰 **Salary:** $160k–$180k/yr
+- 🕒 **Posted:** 2026-08-14
+
+### [Software Engineer (Full Stack)](https://www.indeed.com/viewjob?jk=b02a0bac2ddbc963) — Financial Technology Partners
+- 📍 **Location:** San Francisco, CA, US
+- 🕒 **Posted:** 2026-08-14
+
+### [Software Engineer](https://www.indeed.com/viewjob?jk=67b7e4ff846bd359) — Vagaro
+- 📍 **Location:** Pleasanton, CA, US
+- 💰 **Salary:** $103k–$130k/yr
+- 🕒 **Posted:** 2026-08-01
+
+### [Cyber Oracle Identity Analyst / Security Engineer I](https://www.indeed.com/viewjob?jk=894562f13470b0c3) — Deloitte
+- 📍 **Location:** San Jose, CA, US
+- 💰 **Salary:** $68k–$134k/yr
+- 🕒 **Posted:** 2026-08-14
+
+### [Cyber Oracle Identity Analyst / Security Engineer I](https://www.indeed.com/viewjob?jk=a70058d8749edb44) — Deloitte
+- 📍 **Location:** San Francisco, CA, US
+- 💰 **Salary:** $68k–$134k/yr
+- 🕒 **Posted:** 2026-08-14
+
+### [Cyber Oracle Identity Analyst / Security Engineer I](https://www.indeed.com/viewjob?jk=fe2812bab62ab593) — Deloitte
 - 📍 **Location:** New York, NY, US
-- 💰 **Salary:** $200k–$250k/yr
+- 💰 **Salary:** $68k–$134k/yr
 - 🕒 **Posted:** 2026-08-14
