@@ -1,29 +1,60 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-08-15 04:06 UTC*
+*Last updated: 2026-08-15 15:18 UTC*
 
-**6 new role(s)** since last run · 16 total in last 1h
+**14 new role(s)** since last run · 14 total in last 1h
 
-### [UI Automation - Software Engineer](https://www.linkedin.com/jobs/view/4454857222/) — Cisco
+### [Machine Learning Engineer](https://www.linkedin.com/jobs/view/4451728368/) — Lantern
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-08-15
+
+### [ML Engineer - Instawork Robotics](https://www.linkedin.com/jobs/view/4428188052/) — Instawork
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-08-15
+
+### [Machine Learning Engineer, Inference & Serving (Speech LLM)](https://www.linkedin.com/jobs/view/4453911550/) — Jobright.ai
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-08-15
+
+### [Machine Learning Engineer, Speech LLM Training](https://www.linkedin.com/jobs/view/4453930282/) — Jobright.ai
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-08-15
+
+### [Research Engineer, Life Sciences](https://www.linkedin.com/jobs/view/4435493023/) — Anthropic
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-08-15
+
+### [Data Engineer, Safeguards](https://www.linkedin.com/jobs/view/4435008828/) — Anthropic
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-08-15
+
+### [Software Engineer - Cloud Engineering (C++)](https://www.linkedin.com/jobs/view/4451748325/) — NetApp
 - 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-08-14
+- 🕒 **Posted:** 2026-08-15
 
-### [Software Engineer](https://www.linkedin.com/jobs/view/4453908227/) — Eastridge Workforce Solutions
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-08-14
+### [Software Engineer](https://www.linkedin.com/jobs/view/4435231668/) — Medallion
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-08-15
 
-### [Full-Stack Robotics Engineer (Forward Deployed)](https://www.linkedin.com/jobs/view/4453741207/) — Synphony (YC P26)
+### [Research Scientist, Fundamental Generative AI - New College Grad 2026](https://www.linkedin.com/jobs/view/4395480204/) — NVIDIA
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-08-15
+
+### [Customer Success Engineer/Devops](https://www.linkedin.com/jobs/view/4316829738/) — Postman
 - 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-08-14
+- 🕒 **Posted:** 2026-08-15
 
-### [Machine Learning Engineer](https://www.linkedin.com/jobs/view/4453784407/) — Clay
+### [Lustre Software Engineer](https://www.linkedin.com/jobs/view/4451749305/) — NetApp
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-08-15
+
+### [Software Engineer V](https://www.linkedin.com/jobs/view/4444705369/) — Lead
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-08-15
+
+### [Security Software Engineer II, Detection and Response](https://www.linkedin.com/jobs/view/4436444422/) — Pinterest
 - 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-08-14
+- 🕒 **Posted:** 2026-08-15
 
-### [Software Engineer II](https://www.linkedin.com/jobs/view/4451703299/) — Walmart Global Tech
-- 📍 **Location:** Sunnyvale, CA
-- 💰 **Salary:** $104,000.00/yr - $202,000.00/yr
-- 🕒 **Posted:** 2026-08-14
-
-### [Data Scientist](https://www.linkedin.com/jobs/view/4453794269/) — Clay
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-08-14
+### [Software Engineer (C#/.NET)](https://www.linkedin.com/jobs/view/4444396742/) — Rockstar Games
+- 📍 **Location:** Manhattan, NY
+- 🕒 **Posted:** 2026-08-15
