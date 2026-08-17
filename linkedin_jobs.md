@@ -1,32 +1,26 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-08-17 01:17 UTC*
+*Last updated: 2026-08-17 02:06 UTC*
 
-**6 new role(s)** since last run · 6 total in last 1h
+**5 new role(s)** since last run · 8 total in last 1h
 
-### [Research Engineer](https://www.linkedin.com/jobs/view/4454219148/) — Sable
+### [Infrastructure Engineer, LLM Inference Optimization](https://www.linkedin.com/jobs/view/4442799506/) — GMI Cloud
+- 📍 **Location:** Mountain View, CA
+- 🕒 **Posted:** 2026-08-16
+
+### [Machine Learning Engineer (LLM inference)](https://www.linkedin.com/jobs/view/4443329222/) — GMI Cloud
+- 📍 **Location:** Mountain View, CA
+- 🕒 **Posted:** 2026-08-16
+
+### [Machine Learning Engineer, LLM Inference Optimization](https://www.linkedin.com/jobs/view/4442771622/) — GMI Cloud
 - 📍 **Location:** San Francisco Bay Area
 - 🕒 **Posted:** 2026-08-16
 
-### [Junior  Options Software Developer](https://www.linkedin.com/jobs/view/4454232252/) — Unlok
+### [Research Engineer, Generative Video](https://www.linkedin.com/jobs/view/4455221915/) — Mirage
 - 📍 **Location:** New York, NY
+- 💰 **Salary:** $175,000.00/yr - $275,000.00/yr
 - 🕒 **Posted:** 2026-08-16
 
-### [Backend Developer - Data Annotation Systems](https://www.linkedin.com/jobs/view/4455212798/) — Alignerr
+### [Research Engineer, Agentic Systems](https://www.linkedin.com/jobs/view/4455215890/) — Mirage
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $50.00/hr - $75.00/hr
-- 🕒 **Posted:** 2026-08-16
-
-### [C# Infrastructure Engineer - Data Pipelines](https://www.linkedin.com/jobs/view/4455230732/) — Alignerr
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $50.00/hr - $75.00/hr
-- 🕒 **Posted:** 2026-08-16
-
-### [Data Infrastructure Developer (C++)](https://www.linkedin.com/jobs/view/4455230744/) — Alignerr
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $50.00/hr - $75.00/hr
-- 🕒 **Posted:** 2026-08-16
-
-### [C++ Backend Engineer - AI Data Platforms](https://www.linkedin.com/jobs/view/4455227757/) — Alignerr
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $50.00/hr - $75.00/hr
+- 💰 **Salary:** $175,000.00/yr - $275,000.00/yr
 - 🕒 **Posted:** 2026-08-16
