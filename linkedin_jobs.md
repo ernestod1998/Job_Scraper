@@ -1,26 +1,18 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-08-17 02:06 UTC*
+*Last updated: 2026-08-17 02:17 UTC*
 
-**5 new role(s)** since last run · 8 total in last 1h
+**3 new role(s)** since last run · 9 total in last 1h
 
-### [Infrastructure Engineer, LLM Inference Optimization](https://www.linkedin.com/jobs/view/4442799506/) — GMI Cloud
-- 📍 **Location:** Mountain View, CA
-- 🕒 **Posted:** 2026-08-16
-
-### [Machine Learning Engineer (LLM inference)](https://www.linkedin.com/jobs/view/4443329222/) — GMI Cloud
-- 📍 **Location:** Mountain View, CA
-- 🕒 **Posted:** 2026-08-16
-
-### [Machine Learning Engineer, LLM Inference Optimization](https://www.linkedin.com/jobs/view/4442771622/) — GMI Cloud
-- 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-08-16
-
-### [Research Engineer, Generative Video](https://www.linkedin.com/jobs/view/4455221915/) — Mirage
+### [C# Infrastructure Engineer - Data Pipelines](https://www.linkedin.com/jobs/view/4455230732/) — Alignerr
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $175,000.00/yr - $275,000.00/yr
+- 💰 **Salary:** $50.00/hr - $75.00/hr
 - 🕒 **Posted:** 2026-08-16
 
-### [Research Engineer, Agentic Systems](https://www.linkedin.com/jobs/view/4455215890/) — Mirage
+### [Backend Developer - AI Data Services](https://www.linkedin.com/jobs/view/4455215813/) — Alignerr
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $175,000.00/yr - $275,000.00/yr
+- 💰 **Salary:** $50.00/hr - $75.00/hr
+- 🕒 **Posted:** 2026-08-16
+
+### [Data Infrastructure Developer (C++)](https://www.linkedin.com/jobs/view/4455230744/) — Alignerr
+- 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-08-16
