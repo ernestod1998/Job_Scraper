@@ -1,71 +1,98 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-08-18 15:18 UTC*
+*Last updated: 2026-08-18 16:18 UTC*
 
-**16 new role(s)** since last run · 16 total in last 1h
+**22 new role(s)** since last run · 36 total in last 1h
 
-### [Research Scientist, Generative AI for Physical AI - PhD New College Grad 2026](https://www.linkedin.com/jobs/view/4398197686/) — NVIDIA
+### [Applied Research Engineer, Agents](https://www.linkedin.com/jobs/view/4416680839/) — Hebbia
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-08-18
+
+### [Evaluation and ML Systems Engineer, AI Safety and Security Engineering](https://www.linkedin.com/jobs/view/4445422020/) — NVIDIA
 - 📍 **Location:** Santa Clara, CA
 - 🕒 **Posted:** 2026-08-18
 
-### [Full Stack Engineer](https://www.linkedin.com/jobs/view/4404858188/) — Syndesus, Inc.
+### [Robotics Software Engineer - Grasping](https://www.linkedin.com/jobs/view/4375581668/) — Intrinsic
+- 📍 **Location:** Mountain View, CA
+- 🕒 **Posted:** 2026-08-18
+
+### [Data Scientist Intern](https://www.linkedin.com/jobs/view/4454781316/) — Jobright.ai
 - 📍 **Location:** San Francisco Bay Area
-- 💰 **Salary:** $190,000.00/yr - $280,000.00/yr
 - 🕒 **Posted:** 2026-08-18
 
-### [Software Engineer, Backend, Level 4](https://www.linkedin.com/jobs/view/4446162415/) — Snap Inc.
-- 📍 **Location:** Palo Alto, CA
+### [Mobile Engineer](https://www.linkedin.com/jobs/view/4455753978/) — OMW Consulting
+- 📍 **Location:** San Francisco Bay Area
+- 💰 **Salary:** $150,000.00/yr - $200,000.00/yr
 - 🕒 **Posted:** 2026-08-18
 
-### [Software Engineer, Bridge](https://www.linkedin.com/jobs/view/4454545329/) — Stripe
+### [Platform Engineer](https://www.linkedin.com/jobs/view/4454787042/) — Addison Group
+- 📍 **Location:** Walnut Creek, CA
+- 💰 **Salary:** $65.00/hr - $75.00/hr
+- 🕒 **Posted:** 2026-08-18
+
+### [Machine Learning Engineer, Inference & Serving (Speech LLM)](https://www.linkedin.com/jobs/view/4454780558/) — Jobright.ai
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-08-18
 
-### [Software Engineer III](https://www.linkedin.com/jobs/view/4333266868/) — PTR Global
-- 📍 **Location:** Cupertino, CA
+### [Cloud/DevOps Engineer - III](https://www.linkedin.com/jobs/view/4450369143/) — Software Guidance & Assistance, Inc. (SGA, Inc.)
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $90.00/hr - $90.00/hr
 - 🕒 **Posted:** 2026-08-18
 
-### [Software Engineer - Smart Contract, Bridge](https://www.linkedin.com/jobs/view/4454539367/) — Stripe
+### [Compute Infrastructure engineer (Linux/LSF)](https://www.linkedin.com/jobs/view/4452828276/) — The AES Group
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-08-18
+
+### [Software Engineer, Backend, Level 4](https://www.linkedin.com/jobs/view/4446164393/) — Snap Inc.
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-08-18
 
-### [Control and Interlock Systems Engineer](https://www.linkedin.com/jobs/view/4445404637/) — SLAC National Accelerator Laboratory
+### [Production Systems Engineer, AI Systems](https://www.linkedin.com/jobs/view/4452826119/) — Meta
 - 📍 **Location:** Menlo Park, CA
+- 💰 **Salary:** $173,000.00/yr - $245,000.00/yr
 - 🕒 **Posted:** 2026-08-18
 
-### [Cybersecurity Engineer I (Contract Talent)](https://www.linkedin.com/jobs/view/4446151394/) — Robert Half
-- 📍 **Location:** San Ramon, CA
+### [Software Engineer, Reconciliation & Reporting](https://www.linkedin.com/jobs/view/4446156242/) — Square
+- 📍 **Location:** San Francisco Bay Area
 - 🕒 **Posted:** 2026-08-18
 
-### [Data Architect With Power BI and cloud data platforms](https://www.linkedin.com/jobs/view/4454785107/) — ONI Infotech
-- 📍 **Location:** Santa Clara, CA
+### [Software Engineer, Site Reliability](https://www.linkedin.com/jobs/view/4416411565/) — Hebbia
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-08-18
 
-### [Data Scientist](https://www.linkedin.com/jobs/view/4442898648/) — Mastercard
+### [Cloud Platform Engineer](https://www.linkedin.com/jobs/view/4443431630/) — Docusign
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-08-18
+
+### [Software Engineer (Apps)2](https://www.linkedin.com/jobs/view/4454786376/) — DGN Technologies Inc
+- 📍 **Location:** Sunnyvale, CA
+- 💰 **Salary:** $62.00/hr - $66.00/hr
+- 🕒 **Posted:** 2026-08-18
+
+### [Applied Research Engineer, Agents](https://www.linkedin.com/jobs/view/4416423413/) — Hebbia
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-08-18
 
-### [GenAI Engineer](https://www.linkedin.com/jobs/view/4452806968/) — LTM
+### [Software Engineer (Python & AI Solutions)](https://www.linkedin.com/jobs/view/4455771178/) — The Depository Trust & Clearing Corporation (DTCC)
 - 📍 **Location:** Jersey City, NJ
-- 💰 **Salary:** $80,000.00/yr - $115,000.00/yr
 - 🕒 **Posted:** 2026-08-18
 
-### [Full Stack Engineer](https://www.linkedin.com/jobs/view/4455766604/) — Arcadia
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $150,000.00/yr - $170,000.00/yr
+### [Data Engineer - Market Risk Analytics](https://www.linkedin.com/jobs/view/4455768874/) — Covetus
+- 📍 **Location:** Jersey City, NJ
 - 🕒 **Posted:** 2026-08-18
 
-### [Marketing Data and Analytics Engineer](https://www.linkedin.com/jobs/view/4414703632/) — Fortune
+### [Infrastructure Engineer](https://www.linkedin.com/jobs/view/4455773197/) — Gyde
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-08-18
 
-### [Advanced Software Engineer - Power Apps](https://www.linkedin.com/jobs/view/4378202966/) — Metropolitan Transportation Authority
+### [Google Cloud Platform Engineer](https://www.linkedin.com/jobs/view/4455751917/) — Perficient
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-08-18
 
-### [Junior Software Engineer](https://www.linkedin.com/jobs/view/4453132346/) — SkillStorm
+### [DataBricks Data Engineer](https://www.linkedin.com/jobs/view/4442222480/) — Software Guidance & Assistance, Inc. (SGA, Inc.)
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-08-18
 
-### [Cloud Security Engineer](https://www.linkedin.com/jobs/view/4452829041/) — Anagh Technologies Inc
+### [Java Backend Developer](https://www.linkedin.com/jobs/view/4442858441/) — Infosys
 - 📍 **Location:** New York, NY
+- 💰 **Salary:** $82,419.00/yr - $107,145.00/yr
 - 🕒 **Posted:** 2026-08-18
