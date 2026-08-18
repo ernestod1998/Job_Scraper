@@ -1,60 +1,66 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-08-18 20:20 UTC*
+*Last updated: 2026-08-18 21:18 UTC*
 
-**14 new role(s)** since last run · 85 total in last 1h
+**15 new role(s)** since last run · 25 total in last 1h
 
-### [Software Engineer](https://www.linkedin.com/jobs/view/4455960239/) — MintMCP
+### [Machine Learning Engineer, Radar](https://www.linkedin.com/jobs/view/4454549320/) — Stripe
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-08-18
 
-### [Software Engineer](https://www.linkedin.com/jobs/view/4455957338/) — MintMCP
-- 📍 **Location:** San Mateo, CA
-- 🕒 **Posted:** 2026-08-18
-
-### [Robotics Software Engineer](https://www.linkedin.com/jobs/view/4454792647/) — Energize Group
-- 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-08-18
-
-### [GovCloud Distributed Systems Software Engineer](https://www.linkedin.com/jobs/view/4455930529/) — Salesforce
+### [Data Scientist](https://www.linkedin.com/jobs/view/4454797900/) — Cubit Capital
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-08-18
 
-### [Data Scientist II, Device Economics](https://www.linkedin.com/jobs/view/4455902503/) — Amazon
-- 📍 **Location:** Sunnyvale, CA
+### [Software Engineer, Bridge](https://www.linkedin.com/jobs/view/4454545329/) — Stripe
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-08-18
 
-### [Software Engineer](https://www.linkedin.com/jobs/view/4452861266/) — Robinhood
-- 📍 **Location:** Menlo Park, CA
-- 🕒 **Posted:** 2026-08-18
-
-### [NAMS2 - Software Engineer](https://www.linkedin.com/jobs/view/4452844359/) — Crown Innovations, Inc.
-- 📍 **Location:** Mountain View, CA
-- 🕒 **Posted:** 2026-08-18
-
-### [Robotics - Applied Scientist II Intern / Co-op - 2026 (Robotics, Manipulation, Perception, Motion Planning, Autonomous Mobile Robots, Computer Vision, Machine Learning, Controls, and more)](https://www.linkedin.com/jobs/view/4455912936/) — Amazon
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-08-18
-
-### [ETL Developer](https://www.linkedin.com/jobs/view/4455959079/) — TEKFORTUNE INC
+### [Software Engineer](https://www.linkedin.com/jobs/view/4449851770/) — NetApp
 - 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-08-18
 
-### [Applied Scientist II - Robotics Simulation, Amazon Robotics R&D](https://www.linkedin.com/jobs/view/4455934358/) — Amazon
+### [Full Stack Engineer, Support Experience (Greater China Support)](https://www.linkedin.com/jobs/view/4454549329/) — Stripe
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-08-18
+
+### [Software Engineer - Smart Contract, Bridge](https://www.linkedin.com/jobs/view/4454539367/) — Stripe
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-08-18
+
+### [Software Engineer](https://www.linkedin.com/jobs/view/4452840524/) — TalentBurst, an Inc 5000 company
 - 📍 **Location:** Sunnyvale, CA
 - 🕒 **Posted:** 2026-08-18
 
-### [Data Engineer](https://www.linkedin.com/jobs/view/4455927978/) — SafeLease
+### [Ali Cloud Data Platform Architect](https://www.linkedin.com/jobs/view/4455962701/) — METRIX IT SOLUTIONS INC
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-08-18
+
+### [ETL Developer-San Jose ,CA](https://www.linkedin.com/jobs/view/4454921008/) — Yochana
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-08-18
+
+### [Lab Automation - Robotics Engineer](https://www.linkedin.com/jobs/view/4454791877/) — Xaira Therapeutics
+- 📍 **Location:** South San Francisco, CA
+- 🕒 **Posted:** 2026-08-18
+
+### [Software Engineer, Data](https://www.linkedin.com/jobs/view/4446249879/) — Mitchell Martin Inc.
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $90,000.00/yr - $115,000.00/yr
+- 🕒 **Posted:** 2026-08-18
+
+### [Embedded Software Engineer](https://www.linkedin.com/jobs/view/4455961221/) — Persistent Systems, LLC
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-08-18
 
-### [Software Engineer Intern](https://www.linkedin.com/jobs/view/4455931879/) — TunerBench
+### [Frontend Engineer](https://www.linkedin.com/jobs/view/4455962210/) — Nebex
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-08-18
 
-### [ML Engineer, Analyst](https://www.linkedin.com/jobs/view/4454793585/) — MUFG
-- 📍 **Location:** Jersey City, NJ
+### [Associate Software Engineer(.Net)](https://www.linkedin.com/jobs/view/4450621963/) — JRD Systems
+- 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-08-18
 
-### [Prompt Engineer / LLM Specialist, AVP](https://www.linkedin.com/jobs/view/4454797447/) — MUFG
-- 📍 **Location:** Jersey City, NJ
+### [Full Stack Engineer](https://www.linkedin.com/jobs/view/4455943898/) — New York Technology Partners
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $160,000.00/yr - $240,000.00/yr
 - 🕒 **Posted:** 2026-08-18
