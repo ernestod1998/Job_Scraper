@@ -1,14 +1,15 @@
 # 🧬 Biotech LinkedIn — MLE / DS Roles
-*Last updated: 2026-08-18 04:04 UTC*
+*Last updated: 2026-08-19 04:05 UTC*
 
-**3 new role(s)** since last run · 80 total in last 24h
+**3 new role(s)** since last run · 79 total in last 24h
 
-### [Software Engineer, AI Engineering and Enablement](https://bristolmyerssquibb.wd5.myworkdayjobs.com/BMS/job/Seattle-400-Dexter---WA/Software-Engineer--AI-Engineering-and-Enablement_R1604359-1) — Bristol Myers Squibb
-- 📍 **Location:** Seattle 400 Dexter - WA
-- 🕒 **Posted:** Posted Today
+### [Lab Automation - Robotics Engineer](https://job-boards.greenhouse.io/xairatherapeutics/jobs/5212689007) — Xaira Therapeutics
+- 📍 **Location:** South San Francisco, California, United States
+- 🕒 **Posted:** 2026-08-18
 
-### [Full Stack EngineerFull-time, Remote](https://www.lamarhealth.com/jobs/full-stack-engineer) — Lamar Health
+### [Yeast Display and Machine Learning Scientist I/II – Antibody Discovery](https://careers.dana-farber.org/#yeast-display-and-machine-learning-scientist-i-ii-antibody-d) — Dana-Farber Cancer Institute
+- 📍 **Location:** Boston, MA
+
+### [ML Scientist I/II, Nucleic Acid Design](https://www.linkedin.com/jobs/view/4446144681/) — Lila Sciences
 - 📍 **Location:** San Francisco, CA
-
-### [Data ScientistFull-time, Remote](https://www.lamarhealth.com/jobs/data-scientist) — Lamar Health
-- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-08-18
