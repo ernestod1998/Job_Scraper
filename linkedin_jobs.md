@@ -1,37 +1,38 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-08-19 19:05 UTC*
+*Last updated: 2026-08-19 19:19 UTC*
 
-**8 new role(s)** since last run · 24 total in last 1h
+**8 new role(s)** since last run · 28 total in last 1h
 
-### [Data Scientist, Product Analytics](https://www.linkedin.com/jobs/view/4456362390/) — Aircall
+### [Machine Learning Engineer, Speech LLM Training](https://www.linkedin.com/jobs/view/4455426853/) — Jobright.ai
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-08-19
 
-### [W2 Role - Data Engineer - Need Locals](https://www.linkedin.com/jobs/view/4456373231/) — AptivaCorp
+### [Embedded Display Software Engineer](https://www.linkedin.com/jobs/view/4455441526/) — Highbrow Technology Inc
+- 📍 **Location:** Fremont, CA
+- 🕒 **Posted:** 2026-08-19
+
+### [Software Engineer, Biller Workflows](https://www.linkedin.com/jobs/view/4442173513/) — Commure
+- 📍 **Location:** Mountain View, CA
+- 💰 **Salary:** $130,000.00/yr - $190,000.00/yr
+- 🕒 **Posted:** 2026-08-19
+
+### [Software Engineer, RCM Billing](https://www.linkedin.com/jobs/view/4444506847/) — Commure
+- 📍 **Location:** Mountain View, CA
+- 💰 **Salary:** $130,000.00/yr - $190,000.00/yr
+- 🕒 **Posted:** 2026-08-19
+
+### [DevOps Engineer](https://www.linkedin.com/jobs/view/4456369373/) — Quantum World Technologies Inc.
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-08-19
+
+### [MLOps Engineer](https://www.linkedin.com/jobs/view/4453482571/) — CyberCoders
 - 📍 **Location:** Sunnyvale, CA
 - 🕒 **Posted:** 2026-08-19
 
-### [Software Engineer](https://www.linkedin.com/jobs/view/4456355972/) — Harnham
-- 📍 **Location:** San Francisco Bay Area
-- 💰 **Salary:** $280,000.00/yr - $350,000.00/yr
-- 🕒 **Posted:** 2026-08-19
-
-### [Full Stack Engineer](https://www.linkedin.com/jobs/view/4456369200/) — Arbital Health
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-08-19
-
-### [Software Engineer III — Developer Portal](https://www.linkedin.com/jobs/view/4456360218/) — ID.me
-- 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-08-19
-
-### [Software Engineer](https://www.linkedin.com/jobs/view/4456373177/) — Underdog.io -Apply to top tech jobs in 60 seconds. A place where companies apply to you
-- 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-08-19
-
-### [Full Stack Engineer / FDE](https://www.linkedin.com/jobs/view/4456382092/) — Damco Solutions
+### [Python Backend Developer](https://www.linkedin.com/jobs/view/4456378113/) — Haystack
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-08-19
 
-### [Software Engineer](https://www.linkedin.com/jobs/view/4446016723/) — Millennium
+### [Software Engineer III, AI/ML GenAI, Search](https://www.linkedin.com/jobs/view/4455457025/) — Google
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-08-19
