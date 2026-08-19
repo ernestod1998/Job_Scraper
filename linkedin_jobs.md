@@ -1,82 +1,127 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-08-19 16:19 UTC*
+*Last updated: 2026-08-19 17:19 UTC*
 
-**19 new role(s)** since last run · 39 total in last 1h
+**28 new role(s)** since last run · 36 total in last 1h
 
-### [Data Scientist Intern](https://www.linkedin.com/jobs/view/4455424047/) — Jobright.ai
-- 📍 **Location:** San Francisco Bay Area
+### [Software Engineer](https://www.linkedin.com/jobs/view/4428668066/) — Valeo
+- 📍 **Location:** San Mateo, CA
 - 🕒 **Posted:** 2026-08-19
 
-### [Machine Learning Engineer, Core Engineering](https://www.linkedin.com/jobs/view/4121963772/) — Pinterest
-- 📍 **Location:** San Francisco, CA
+### [Software Engineer - AI Agent](https://www.linkedin.com/jobs/view/4455441260/) — Jobright.ai
+- 📍 **Location:** San Mateo County, CA
 - 🕒 **Posted:** 2026-08-19
 
-### [Software Engineer, Agents & Automations](https://www.linkedin.com/jobs/view/4427715774/) — Cohere
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-08-19
-
-### [Software Engineer, Kubernetes](https://www.linkedin.com/jobs/view/4252412973/) — CoreWeave
+### [Software Engineer III, Google Cloud Storage, Infrastructure](https://www.linkedin.com/jobs/view/4455427327/) — Google
 - 📍 **Location:** Sunnyvale, CA
 - 🕒 **Posted:** 2026-08-19
 
-### [Systems Engineer, VDI Platform](https://www.linkedin.com/jobs/view/4434584973/) — CoreWeave
-- 📍 **Location:** Sunnyvale, CA
+### [System Software Engineer - Performance Verification Infrastructure](https://www.linkedin.com/jobs/view/4446000383/) — NVIDIA
+- 📍 **Location:** Santa Clara, CA
 - 🕒 **Posted:** 2026-08-19
 
-### [Software Engineer — AI Infrastructure](https://www.linkedin.com/jobs/view/4406090338/) — Snorkel AI
+### [Software Engineer, Platform](https://www.linkedin.com/jobs/view/4443183078/) — Recruiting from Scratch
 - 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $130,000.00/yr - $400,000.00/yr
 - 🕒 **Posted:** 2026-08-19
 
-### [Software Engineer, CDN Content](https://www.linkedin.com/jobs/view/4437825524/) — Vercel
+### [Software Engineer – Marketplace](https://www.linkedin.com/jobs/view/4450089483/) — Recruiting from Scratch
 - 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $130,000.00/yr - $400,000.00/yr
 - 🕒 **Posted:** 2026-08-19
 
-### [Data Engineer, Palo Alto](https://www.linkedin.com/jobs/view/4443652200/) — Rhombus Power Inc.
+### [Machine Learning Engineer, Level 4](https://www.linkedin.com/jobs/view/4437449022/) — Snap Inc.
 - 📍 **Location:** Palo Alto, CA
 - 🕒 **Posted:** 2026-08-19
 
-### [Software Engineer I, Storage](https://www.linkedin.com/jobs/view/4446396463/) — Crusoe
+### [Machine Learning Engineer, Level 4](https://www.linkedin.com/jobs/view/4437427761/) — Snap Inc.
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-08-19
 
-### [Software Engineer, New Grad - Infrastructure](https://www.linkedin.com/jobs/view/4434149314/) — Palantir Technologies
-- 📍 **Location:** Palo Alto, CA
+### [Data Engineer - Data Platform](https://www.linkedin.com/jobs/view/4456338479/) — Mill
+- 📍 **Location:** San Bruno, CA
 - 🕒 **Posted:** 2026-08-19
 
-### [Data Engineer](https://www.linkedin.com/jobs/view/4317496119/) — Whatnot
+### [Software Engineer, Messaging Platform](https://www.linkedin.com/jobs/view/4445760480/) — Whatnot
 - 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-08-19
-
-### [Data Scientist, Developer Productivity](https://www.linkedin.com/jobs/view/4436850436/) — Anthropic
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-08-19
-
-### [AI Infrastructure Engineer](https://www.linkedin.com/jobs/view/4438211476/) — BlackRock
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-08-19
-
-### [Software Engineer, Generative AI](https://www.linkedin.com/jobs/view/4446563462/) — Abridge
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $255,000.00/yr - $300,000.00/yr
-- 🕒 **Posted:** 2026-08-19
-
-### [Software Engineer, Kubernetes](https://www.linkedin.com/jobs/view/4252420153/) — CoreWeave
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-08-19
-
-### [DevOps Engineer](https://www.linkedin.com/jobs/view/4442075783/) — Octus
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-08-19
-
-### [Software Engineer, Messaging Platform](https://www.linkedin.com/jobs/view/4445763464/) — Whatnot
-- 📍 **Location:** New York, NY
 - 💰 **Salary:** $170,000.00/yr - $230,000.00/yr
 - 🕒 **Posted:** 2026-08-19
 
-### [Software Engineer, Internship - Defense Tech](https://www.linkedin.com/jobs/view/4434132944/) — Palantir Technologies
+### [Software Developer 4](https://www.linkedin.com/jobs/view/4453466255/) — Oracle
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-08-19
+
+### [Software Engineer - Data Protection Software Engineering](https://www.linkedin.com/jobs/view/4455422586/) — Dell Technologies
+- 📍 **Location:** Santa Clara, CA
+- 💰 **Salary:** $132,480.00/yr - $182,160.00/yr
+- 🕒 **Posted:** 2026-08-19
+
+### [Full Stack Engineer, Assessment Platform](https://www.linkedin.com/jobs/view/4453206785/) — Recruiting from Scratch
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $130,000.00/yr - $400,000.00/yr
+- 🕒 **Posted:** 2026-08-19
+
+### [Full Stack Software Engineer](https://www.linkedin.com/jobs/view/4427222595/) — Illumio
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-08-19
+
+### [Full Stack Software Engineer (Starlink)](https://www.linkedin.com/jobs/view/4401565319/) — SpaceX
+- 📍 **Location:** Palo Alto, CA
+- 🕒 **Posted:** 2026-08-19
+
+### [Software Engineer, Internship](https://www.linkedin.com/jobs/view/4434151279/) — Palantir Technologies
+- 📍 **Location:** Palo Alto, CA
+- 🕒 **Posted:** 2026-08-19
+
+### [Full-Stack Software Engineer, Agentic Product](https://www.linkedin.com/jobs/view/4447999462/) — Recruiting from Scratch
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $150,000.00/yr - $400,000.00/yr
+- 🕒 **Posted:** 2026-08-19
+
+### [Frontend Engineer / React](https://www.linkedin.com/jobs/view/4453460377/) — Oscar
+- 📍 **Location:** San Francisco County, CA
+- 💰 **Salary:** $200,000.00/yr - $240,000.00/yr
+- 🕒 **Posted:** 2026-08-19
+
+### [Software Engineer (Agentic Systems)](https://www.linkedin.com/jobs/view/4446595965/) — Dialpad
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-08-19
+
+### [Site Reliability Engineer II](https://www.linkedin.com/jobs/view/4441355694/) — Illumio
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-08-19
+
+### [Machine Learning Engineer](https://www.linkedin.com/jobs/view/4450304107/) — Recruiting from Scratch
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $120,000.00/yr - $150,000.00/yr
+- 🕒 **Posted:** 2026-08-19
+
+### [Software Engineer](https://www.linkedin.com/jobs/view/4437003171/) — Siemens
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-08-19
 
-### [Software Engineer, Internship - Infrastructure](https://www.linkedin.com/jobs/view/4434137561/) — Palantir Technologies
+### [Software Engineer, iOS](https://www.linkedin.com/jobs/view/4317482419/) — Cape
 - 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-08-19
+
+### [Software Engineer, Internship](https://www.linkedin.com/jobs/view/4434144431/) — Palantir Technologies
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-08-19
+
+### [Mainframe z/OS Infrastructure Engineer II](https://www.linkedin.com/jobs/view/4456347093/) — Bank of America
+- 📍 **Location:** Jersey City, NJ
+- 💰 **Salary:** $104,200.00/yr - $155,300.00/yr
+- 🕒 **Posted:** 2026-08-19
+
+### [Machine Learning Engineer, Level 4](https://www.linkedin.com/jobs/view/4437436378/) — Snap Inc.
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-08-19
+
+### [GRC/Cyber Security Engineer](https://www.linkedin.com/jobs/view/4455433285/) — Henderson Scott US
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $130,000.00/yr - $140,000.00/yr
+- 🕒 **Posted:** 2026-08-19
+
+### [Mainframe Tape Storage Infrastructure Engineer ll](https://www.linkedin.com/jobs/view/4456355047/) — Bank of America
+- 📍 **Location:** Jersey City, NJ
+- 💰 **Salary:** $104,200.00/yr - $155,300.00/yr
 - 🕒 **Posted:** 2026-08-19
