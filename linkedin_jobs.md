@@ -1,88 +1,82 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-08-19 15:19 UTC*
+*Last updated: 2026-08-19 16:19 UTC*
 
-**21 new role(s)** since last run · 21 total in last 1h
+**19 new role(s)** since last run · 39 total in last 1h
 
-### [Research Engineer, Pretraining Scaling](https://www.linkedin.com/jobs/view/4322042077/) — Anthropic
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-08-19
-
-### [Research Engineer, Interpretability](https://www.linkedin.com/jobs/view/4322111911/) — Anthropic
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-08-19
-
-### [Research Engineer, Post-Training (All Industry Levels)](https://www.linkedin.com/jobs/view/3813454490/) — Character.AI
+### [Data Scientist Intern](https://www.linkedin.com/jobs/view/4455424047/) — Jobright.ai
 - 📍 **Location:** San Francisco Bay Area
 - 🕒 **Posted:** 2026-08-19
 
-### [Software Engineer — AI Infrastructure](https://www.linkedin.com/jobs/view/4406088375/) — Snorkel AI
-- 📍 **Location:** Redwood City, CA
-- 🕒 **Posted:** 2026-08-19
-
-### [Applied Scientist, AWS Agentic AI](https://www.linkedin.com/jobs/view/4456199302/) — Amazon Web Services (AWS)
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-08-19
-
-### [Software Engineer, Workflows](https://www.linkedin.com/jobs/view/4372135667/) — Vercel
+### [Machine Learning Engineer, Core Engineering](https://www.linkedin.com/jobs/view/4121963772/) — Pinterest
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-08-19
 
-### [Optics Inspection Analysis Software Developer](https://www.linkedin.com/jobs/view/4437887584/) — Lawrence Livermore National Laboratory
-- 📍 **Location:** Livermore, CA
-- 🕒 **Posted:** 2026-08-19
-
-### [Software Engineer - Cloud Engineering (C++)](https://www.linkedin.com/jobs/view/4453450741/) — NetApp
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-08-19
-
-### [Research Engineer/Research Scientist, Pre-training](https://www.linkedin.com/jobs/view/4322259770/) — Anthropic
-- 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-08-19
-
-### [Software Engineer, Human Data Interface](https://www.linkedin.com/jobs/view/4369862877/) — Anthropic
+### [Software Engineer, Agents & Automations](https://www.linkedin.com/jobs/view/4427715774/) — Cohere
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-08-19
 
-### [Software Engineer - Cloud Security](https://www.linkedin.com/jobs/view/4441397710/) — Illumio
-- 📍 **Location:** San Jose, CA
+### [Software Engineer, Kubernetes](https://www.linkedin.com/jobs/view/4252412973/) — CoreWeave
+- 📍 **Location:** Sunnyvale, CA
 - 🕒 **Posted:** 2026-08-19
 
-### [Data Engineer](https://www.linkedin.com/jobs/view/4456326397/) — Grüns
+### [Systems Engineer, VDI Platform](https://www.linkedin.com/jobs/view/4434584973/) — CoreWeave
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-08-19
+
+### [Software Engineer — AI Infrastructure](https://www.linkedin.com/jobs/view/4406090338/) — Snorkel AI
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-08-19
 
-### [Software Engineer, Deployment Infrastructure](https://www.linkedin.com/jobs/view/4343003573/) — Vercel
+### [Software Engineer, CDN Content](https://www.linkedin.com/jobs/view/4437825524/) — Vercel
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-08-19
 
-### [Software Engineer II, Crusoe Container Registry](https://www.linkedin.com/jobs/view/4446507221/) — Crusoe
+### [Data Engineer, Palo Alto](https://www.linkedin.com/jobs/view/4443652200/) — Rhombus Power Inc.
+- 📍 **Location:** Palo Alto, CA
+- 🕒 **Posted:** 2026-08-19
+
+### [Software Engineer I, Storage](https://www.linkedin.com/jobs/view/4446396463/) — Crusoe
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-08-19
 
-### [Lustre Software Engineer](https://www.linkedin.com/jobs/view/4453457690/) — NetApp
-- 📍 **Location:** San Jose, CA
+### [Software Engineer, New Grad - Infrastructure](https://www.linkedin.com/jobs/view/4434149314/) — Palantir Technologies
+- 📍 **Location:** Palo Alto, CA
 - 🕒 **Posted:** 2026-08-19
 
-### [Full-Stack Engineer Intern](https://www.linkedin.com/jobs/view/4455410801/) — Jobright.ai
-- 📍 **Location:** San Francisco Bay Area
+### [Data Engineer](https://www.linkedin.com/jobs/view/4317496119/) — Whatnot
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-08-19
 
-### [Security Engineer, Detection & Response](https://www.linkedin.com/jobs/view/4429727786/) — Scale AI
-- 📍 **Location:** San Francisco Bay Area
+### [Data Scientist, Developer Productivity](https://www.linkedin.com/jobs/view/4436850436/) — Anthropic
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-08-19
 
-### [ML/Research Engineer, Safeguards](https://www.linkedin.com/jobs/view/4322360138/) — Anthropic
+### [AI Infrastructure Engineer](https://www.linkedin.com/jobs/view/4438211476/) — BlackRock
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-08-19
 
-### [Software Engineer II, Developer Experience](https://www.linkedin.com/jobs/view/4408108071/) — CoreWeave
+### [Software Engineer, Generative AI](https://www.linkedin.com/jobs/view/4446563462/) — Abridge
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $255,000.00/yr - $300,000.00/yr
+- 🕒 **Posted:** 2026-08-19
+
+### [Software Engineer, Kubernetes](https://www.linkedin.com/jobs/view/4252420153/) — CoreWeave
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-08-19
 
-### [Analytics Engineer](https://www.linkedin.com/jobs/view/4443643476/) — FanDuel
-- 📍 **Location:** Jersey City, NJ
+### [DevOps Engineer](https://www.linkedin.com/jobs/view/4442075783/) — Octus
+- 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-08-19
 
-### [Software Engineer, Research Tools](https://www.linkedin.com/jobs/view/4322290330/) — Anthropic
+### [Software Engineer, Messaging Platform](https://www.linkedin.com/jobs/view/4445763464/) — Whatnot
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $170,000.00/yr - $230,000.00/yr
+- 🕒 **Posted:** 2026-08-19
+
+### [Software Engineer, Internship - Defense Tech](https://www.linkedin.com/jobs/view/4434132944/) — Palantir Technologies
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-08-19
+
+### [Software Engineer, Internship - Infrastructure](https://www.linkedin.com/jobs/view/4434137561/) — Palantir Technologies
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-08-19
