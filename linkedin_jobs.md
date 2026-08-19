@@ -1,76 +1,62 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-08-18 23:18 UTC*
+*Last updated: 2026-08-19 00:18 UTC*
 
-**17 new role(s)** since last run · 20 total in last 1h
+**14 new role(s)** since last run · 25 total in last 1h
 
-### [Machine Learning Engineer, Speech LLM Training](https://www.linkedin.com/jobs/view/4454929258/) — Jobright.ai
-- 📍 **Location:** San Francisco, CA
+### [Applied Scientist, AWS Quick](https://www.linkedin.com/jobs/view/4455982826/) — Amazon Web Services (AWS)
+- 📍 **Location:** Santa Clara, CA
 - 🕒 **Posted:** 2026-08-18
 
-### [Machine Learning Engineer](https://www.linkedin.com/jobs/view/4452853940/) — Molex
+### [Applied Scientist II, Prime Video - Personalization and Discovery Science](https://www.linkedin.com/jobs/view/4455987767/) — Prime Video & Amazon MGM Studios
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-08-18
+
+### [Applied Scientist II, Amazon Smart Vehicles](https://www.linkedin.com/jobs/view/4455977914/) — Amazon
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-08-18
+
+### [Software Engineer, Cyber Physical Systems](https://www.linkedin.com/jobs/view/4455982931/) — Kairos Power
+- 📍 **Location:** Alameda, CA
+- 🕒 **Posted:** 2026-08-18
+
+### [Applied Scientist , AWS Healthcare-AI](https://www.linkedin.com/jobs/view/4455987797/) — Amazon Web Services (AWS)
+- 📍 **Location:** Mountain View, CA
+- 🕒 **Posted:** 2026-08-18
+
+### [Network DevOps Engineer](https://www.linkedin.com/jobs/view/4452878027/) — HCLTech
 - 📍 **Location:** Fremont, CA
 - 🕒 **Posted:** 2026-08-18
 
-### [Applied Scientist -- Foundation Models, SSO](https://www.linkedin.com/jobs/view/4452841913/) — Amazon Science
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-08-18
-
-### [Machine Learning Engineer](https://www.linkedin.com/jobs/view/4454918343/) — Adobe
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-08-18
-
-### [Software Engineer III, AI/ML, gUP Customer Support](https://www.linkedin.com/jobs/view/4454926248/) — Google
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-08-18
-
-### [Firmware/ Embedded Systems Engineer](https://www.linkedin.com/jobs/view/4454934201/) — Skild AI
-- 📍 **Location:** San Mateo, CA
-- 🕒 **Posted:** 2026-08-18
-
-### [Data Scientist, Amazon Music - DISCO](https://www.linkedin.com/jobs/view/4452842933/) — Amazon Science
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-08-18
-
-### [Applied Scientist, Console Science](https://www.linkedin.com/jobs/view/4452846794/) — Amazon Science
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-08-18
-
-### [Software Engineer, Plugin Developer Platform](https://www.linkedin.com/jobs/view/4454920415/) — OpenAI
+### [Security Engineer](https://www.linkedin.com/jobs/view/4452872057/) — Check Point Software
 - 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $185,000.00/yr - $490,000.00/yr
 - 🕒 **Posted:** 2026-08-18
 
-### [AI Research Engineer – Agentic AI](https://www.linkedin.com/jobs/view/4452862947/) — Bosch USA
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-08-18
-
-### [Enterprise Systems Software Engineer Intern (Spring 2027)](https://www.linkedin.com/jobs/view/4455982387/) — Zipline
-- 📍 **Location:** South San Francisco, CA
-- 🕒 **Posted:** 2026-08-18
-
-### [Information Security Engineer](https://www.linkedin.com/jobs/view/4455963958/) — Supermicro
+### [Information Security Engineer](https://www.linkedin.com/jobs/view/4452873064/) — Super Micro Computer Spain, S.L.
 - 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-08-18
 
-### [AI Integration Software Engineer - Associate](https://www.linkedin.com/jobs/view/4454918360/) — Morgan Stanley
+### [Applied Scientist II, AWS Agentic AI](https://www.linkedin.com/jobs/view/4455987768/) — Amazon Web Services (AWS)
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-08-18
+
+### [Software Engineer II, Athena Engine Front End](https://www.linkedin.com/jobs/view/4455979883/) — Amazon Web Services (AWS)
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-08-18
 
-### [Platform Software Engineer, Ingestion](https://www.linkedin.com/jobs/view/4454937053/) — LangChain
-- 📍 **Location:** New York, NY
+### [ML Engineer](https://www.linkedin.com/jobs/view/4452856972/) — Sciforium
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $165,000.00/yr - $210,000.00/yr
 - 🕒 **Posted:** 2026-08-18
 
-### [Software Engineer - Forward Deployed](https://www.linkedin.com/jobs/view/4452858935/) — Narmi
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $91,000.00/yr - $110,000.00/yr
+### [Machine Learning Engineer, Inference & Serving (Speech LLM)](https://www.linkedin.com/jobs/view/4454938578/) — Jobright.ai
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-08-18
 
-### [Software Engineer II](https://www.linkedin.com/jobs/view/4455969428/) — Kforce Inc
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $56.00/hr - $66.14/hr
+### [Software Engineer - AI Agent](https://www.linkedin.com/jobs/view/4454930730/) — Jobright.ai
+- 📍 **Location:** San Mateo County, CA
 - 🕒 **Posted:** 2026-08-18
 
-### [Frontend Developer III](https://www.linkedin.com/jobs/view/4455981120/) — Apex Systems
-- 📍 **Location:** Jersey City, NJ
-- 💰 **Salary:** $60.00/hr - $71.00/hr
+### [Foundry Data Engineer](https://www.linkedin.com/jobs/view/4454923760/) — Intelliswift - An LTTS Company
+- 📍 **Location:** Oakland, CA
+- 💰 **Salary:** $100.00/hr - $110.00/hr
 - 🕒 **Posted:** 2026-08-18
