@@ -1,75 +1,52 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-08-20 18:19 UTC*
+*Last updated: 2026-08-20 19:13 UTC*
 
-**17 new role(s)** since last run · 42 total in last 1h
+**12 new role(s)** since last run · 24 total in last 1h
 
-### [Clinical Research Engineer](https://www.linkedin.com/jobs/view/4452731304/) — Noctrix Health, Inc.
-- 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-08-20
-
-### [Software Engineer III](https://www.linkedin.com/jobs/view/4444533258/) — Robert Half
-- 📍 **Location:** San Ramon, CA
-- 🕒 **Posted:** 2026-08-20
-
-### [Real-Time Software Engineer](https://www.linkedin.com/jobs/view/4456028083/) — Johnson & Johnson
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-08-20
-
-### [GenAI Engineer - Specialized Content & Compliance Agents](https://www.linkedin.com/jobs/view/4456752804/) — The Fountain Group
-- 📍 **Location:** South San Francisco, CA
-- 🕒 **Posted:** 2026-08-20
-
-### [Data Engineer](https://www.linkedin.com/jobs/view/4444190203/) — Solomon Page
-- 📍 **Location:** Pleasanton, CA
-- 🕒 **Posted:** 2026-08-20
-
-### [Machine Learning Engineer, Inference & Serving (Speech LLM)](https://www.linkedin.com/jobs/view/4456010788/) — Jobright.ai
+### [Machine Learning Engineer, Speech LLM Training](https://www.linkedin.com/jobs/view/4456035160/) — Jobright.ai
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-08-20
 
-### [DevOps Engineer](https://www.linkedin.com/jobs/view/4456780053/) — BD
-- 📍 **Location:** Milpitas, CA
+### [ETL Developer](https://www.linkedin.com/jobs/view/4454115868/) — Resource Logistics Inc.
+- 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-08-20
 
-### [Full Stack Engineer](https://www.linkedin.com/jobs/view/4454115696/) — TRANSREACH TALENT LLC
+### [Software Engineer, AI Agent and Automation - USDS](https://www.linkedin.com/jobs/view/4456789017/) — TikTok USDS Joint Venture
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-08-20
+
+### [Site Reliability Engineer, Platform Responsibility - USDS](https://www.linkedin.com/jobs/view/4456788012/) — TikTok USDS Joint Venture
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-08-20
+
+### [Data Scientist, Platform Responsibility - USDS](https://www.linkedin.com/jobs/view/4456786003/) — TikTok USDS Joint Venture
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-08-20
+
+### [Scientific Systems Software Developer](https://www.linkedin.com/jobs/view/4437098883/) — SLAC National Accelerator Laboratory
 - 📍 **Location:** Menlo Park, CA
 - 🕒 **Posted:** 2026-08-20
 
-### [GenAI Front-End Engineer](https://www.linkedin.com/jobs/view/4454123668/) — Triune Infomatics Inc
-- 📍 **Location:** South San Francisco, CA
+### [Backend Software Engineer](https://www.linkedin.com/jobs/view/4456046219/) — CHAOS Industries
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-08-20
 
-### [Embedded Software Engineer](https://www.linkedin.com/jobs/view/4456769487/) — VBeyond Corporation
-- 📍 **Location:** Sunnyvale, CA
+### [Software Engineer I, Network](https://www.linkedin.com/jobs/view/4456799002/) — FELICIS
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-08-20
 
-### [Dir, Software Engineering Management, Platform - Veza](https://www.linkedin.com/jobs/view/4437857584/) — ServiceNow
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-08-20
-
-### [Full Stack Engineer](https://www.linkedin.com/jobs/view/4456009496/) — Jack
-- 📍 **Location:** San Francisco Bay Area
-- 💰 **Salary:** $130,000.00/yr - $240,000.00/yr
-- 🕒 **Posted:** 2026-08-20
-
-### [Client Technology - Software Engineering](https://www.linkedin.com/jobs/view/4437091367/) — EY
-- 📍 **Location:** Secaucus, NJ
-- 🕒 **Posted:** 2026-08-20
-
-### [Research Associate, Equities Data Engineer](https://www.linkedin.com/jobs/view/4456017894/) — CHEManager International
+### [Software Engineer - AI Platform](https://www.linkedin.com/jobs/view/4456790243/) — Mission Staffing
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-08-20
 
-### [Bioinformatics Scientist, Bureau of the Public Health Laboratory](https://www.linkedin.com/jobs/view/4456009947/) — CHEManager International
+### [Cloud Network Security Engineer](https://www.linkedin.com/jobs/view/4438205710/) — BlackRock
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-08-20
 
-### [Full-Stack Engineer (PhD Required)](https://www.linkedin.com/jobs/view/4446320327/) — Accrete
+### [Corporate Systems Engineer, Collaboration Platforms](https://www.linkedin.com/jobs/view/4438279796/) — DoubleVerify
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $170,000.00/yr - $210,000.00/yr
 - 🕒 **Posted:** 2026-08-20
 
-### [Front Office Software Engineer – Trading & Pricing Systems](https://www.linkedin.com/jobs/view/4456762523/) — Phaxis
+### [Data Scientist III - Financial Crimes Modeling](https://www.linkedin.com/jobs/view/4456783069/) — TD
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $175,000.00/yr - $200,000.00/yr
 - 🕒 **Posted:** 2026-08-20
