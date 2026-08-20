@@ -1,359 +1,263 @@
 # 🗃 Direct ATS Registry — Engineering / ML / DS Roles
-*Last updated: 2026-08-19 14:38 UTC*
+*Last updated: 2026-08-20 14:37 UTC*
 
-**89 new role(s)** since last run · 442 total in current registry shard
+**65 new role(s)** since last run · 484 total in current registry shard
 
-### [Software Engineer](https://jobs.ashbyhq.com/camber/d5015285-ff64-4843-b795-ff14aaa2e2d5) — Camber
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-06-03
+### [Machine Learning Engineer, Applied AI](https://jobs.ashbyhq.com/brainco/58cff031-5b0b-4b92-a1ea-2ebf2495d89d) — Brain Co.
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2025-08-01
 
-### [ML Infrastructure Engineer, Training](https://jobs.ashbyhq.com/dyna-robotics/ec8f09de-ee26-4117-9b41-d317b074c2dc) — Dyna Robotics
-- 📍 **Location:** Redwood City, CA
-- 🕒 **Posted:** 2026-03-31
+### [AI Infrastructure Security Engineer](https://jobs.ashbyhq.com/brainco/3739c39d-df59-4ff9-b3c2-bd2c6e505715) — Brain Co.
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2025-09-22
 
-### [Full-Stack Robotics Software Engineer](https://jobs.ashbyhq.com/dyna-robotics/6e454635-290e-475d-bc21-7e88c1f5f3b9) — Dyna Robotics
-- 📍 **Location:** Redwood City, CA
-- 🕒 **Posted:** 2025-07-31
-
-### [Software Engineer, Data Infra](https://jobs.ashbyhq.com/dyna-robotics/43dcc186-62b1-4641-9365-3cb9767fc653) — Dyna Robotics
-- 📍 **Location:** Redwood City, CA
-- 🕒 **Posted:** 2026-03-25
-
-### [Research Engineer/ Scientist](https://jobs.ashbyhq.com/dyna-robotics/357b1b23-0712-489e-b336-1462f186cba7) — Dyna Robotics
-- 📍 **Location:** Redwood City, CA
-- 🕒 **Posted:** 2025-08-21
-
-### [Software Engineer, Applications](https://jobs.ashbyhq.com/dyna-robotics/bc58be77-e81e-4a39-bdbb-257b8f4f0dfd) — Dyna Robotics
-- 📍 **Location:** Redwood City, CA
-- 🕒 **Posted:** 2026-04-07
-
-### [Research Engineer/Scientist, Simulation](https://jobs.ashbyhq.com/dyna-robotics/942cd530-b2b7-4141-8aaa-d844175e26ac) — Dyna Robotics
-- 📍 **Location:** Redwood City, CA
-- 🕒 **Posted:** 2026-08-04
-
-### [Exceptional Software Engineer](https://jobs.ashbyhq.com/dyna-robotics/9f1fb776-9d59-4725-9749-6a529cbdfada) — Dyna Robotics
-- 📍 **Location:** Redwood City, CA
-- 🕒 **Posted:** 2026-08-18
-
-### [Associate Data Scientist](https://jobs.ashbyhq.com/jerry.ai/e2968b16-eba5-40bf-9851-1967d259d43b) — Jerry
-- 📍 **Location:** New York, New York
-- 🕒 **Posted:** 2026-08-17
-
-### [Data Scientist](https://jobs.ashbyhq.com/jerry.ai/ce6d7564-3994-4072-b8cf-09dc2a9abfc6) — Jerry
-- 📍 **Location:** Remote
-- 🕒 **Posted:** 2026-08-17
-
-### [Data Scientist](https://jobs.ashbyhq.com/jerry.ai/2952f27e-a743-4120-a33b-c7ddedea1c98) — Jerry
-- 📍 **Location:** New York, New York
-- 🕒 **Posted:** 2026-08-17
-
-### [Infrastructure Engineer ](https://jobs.ashbyhq.com/mercor/296c4031-5e98-4772-95f5-a9eb5bd7746d) — Mercor
-- 📍 **Location:** San Francisco
-- 🕒 **Posted:** 2025-09-18
-
-### [Data Scientist](https://jobs.ashbyhq.com/mercor/982a0751-e9eb-4b96-ac93-a1fd1d2f9152) — Mercor
-- 📍 **Location:** San Francisco
-- 🕒 **Posted:** 2025-08-30
-
-### [Software Engineer, Agents](https://jobs.ashbyhq.com/mercor/4f4fc8c3-4056-47bb-9e00-1db6e5dd958f) — Mercor
-- 📍 **Location:** San Francisco
-- 🕒 **Posted:** 2025-09-17
-
-### [Data Engineer](https://jobs.ashbyhq.com/mercor/7d9d9439-848b-4fb4-b276-9efc71bb7148) — Mercor
-- 📍 **Location:** San Francisco
-- 🕒 **Posted:** 2026-05-06
-
-### [Research Engineer - Environments, Data and Post-Training](https://jobs.ashbyhq.com/mercor/97b8c17e-e438-4b61-bab1-9ae18e2c3f34) — Mercor
-- 📍 **Location:** San Francisco
-- 🕒 **Posted:** 2026-03-24
-
-### [Software Engineer, Automation](https://jobs.ashbyhq.com/mercor/dd4f59a1-d077-4c20-8333-9a7706210e99) — Mercor
-- 📍 **Location:** San Francisco
-- 🕒 **Posted:** 2026-03-12
-
-### [Software Engineer, Frontier Data Products](https://jobs.ashbyhq.com/mercor/ae344099-3fde-4027-bfde-f953db8b4728) — Mercor
-- 📍 **Location:** San Francisco or NYC
-- 🕒 **Posted:** 2026-08-07
-
-### [Software Engineer, Applied AI](https://jobs.ashbyhq.com/mercor/cae88190-a2fd-4d04-9352-9f48fedb56a7) — Mercor
-- 📍 **Location:** San Francisco
-- 🕒 **Posted:** 2026-04-20
-
-### [Security Engineer, Application Security](https://jobs.ashbyhq.com/mercor/cf6fcf5a-6348-4d60-beb3-43333a2c2bb9) — Mercor
-- 📍 **Location:** San Francisco or NYC
-- 🕒 **Posted:** 2026-04-15
-
-### [Security Engineer, Cloud Infrastructure](https://jobs.ashbyhq.com/mercor/f6ef82f1-c711-4a19-a9be-6bc04a2b776c) — Mercor
-- 📍 **Location:** San Francisco or NYC
-- 🕒 **Posted:** 2026-04-15
-
-### [Software Engineer, Platform](https://jobs.ashbyhq.com/mercor/cb67851b-0269-4cf5-996c-34c3a88a19c8) — Mercor
-- 📍 **Location:** San Francisco
-- 🕒 **Posted:** 2026-04-22
-
-### [Software Engineer, Enterprise Applied AI](https://jobs.ashbyhq.com/mercor/e106399e-d85e-4af2-9bc8-6a0e144f318f) — Mercor
-- 📍 **Location:** San Francisco
-- 🕒 **Posted:** 2026-06-09
-
-### [Machine Learning Engineer, Frontier Data Products](https://jobs.ashbyhq.com/mercor/73a9f1c6-3c62-4c49-b65d-e5f6a3549d95) — Mercor
-- 📍 **Location:** San Francisco
-- 🕒 **Posted:** 2026-05-29
-
-### [Fullstack Engineer, RL Environments](https://jobs.ashbyhq.com/mercor/fa580f7f-8752-428c-bb6b-439fa72c76e7) — Mercor
-- 📍 **Location:** San Francisco
-- 🕒 **Posted:** 2026-08-17
-
-### [Software Engineer, Identity](https://jobs.ashbyhq.com/mercor/a778f283-d596-4fa9-a81e-93161eb5399c) — Mercor
-- 📍 **Location:** San Francisco
-- 🕒 **Posted:** 2026-07-01
-
-### [Software Engineer, Machine Learning](https://jobs.ashbyhq.com/mercor/7cee578f-799c-46ad-8951-cb0b724d619a) — Mercor
-- 📍 **Location:** San Francisco
-- 🕒 **Posted:** 2026-06-30
-
-### [Applied Machine Learning Engineer, Economist](https://jobs.ashbyhq.com/mercor/589c1474-0e16-4292-a823-3a2412632eed) — Mercor
-- 📍 **Location:** San Francisco
-- 🕒 **Posted:** 2026-06-30
-
-### [Software Engineer, Backend](https://jobs.ashbyhq.com/mercor/a0afa08a-5448-4432-bc61-a5fe3a73b4de) — Mercor
-- 📍 **Location:** San Francisco
-- 🕒 **Posted:** 2026-07-13
-
-### [Software Engineer, Robotics Data ](https://jobs.ashbyhq.com/mercor/a217f1a6-c63c-4dfb-81c3-ecc0c5d44f98) — Mercor
-- 📍 **Location:** San Francisco
-- 🕒 **Posted:** 2026-07-28
-
-### [Research Engineer, Real Environments ](https://jobs.ashbyhq.com/mercor/44cf5f07-342d-4f64-9062-3617beb88b31) — Mercor
-- 📍 **Location:** San Francisco
-- 🕒 **Posted:** 2026-07-23
-
-### [Fullstack Software Engineer, Agent Platform](https://jobs.ashbyhq.com/mercor/3750ee8a-64d1-46ac-b4f9-6a823f949034) — Mercor
-- 📍 **Location:** San Francisco
-- 🕒 **Posted:** 2026-08-11
-
-### [Software Engineer, Search Systems - Code Data](https://jobs.ashbyhq.com/mercor/aac13ab1-a746-437a-8c56-daf6e8b6c542) — Mercor
-- 📍 **Location:** San Francisco
-- 🕒 **Posted:** 2026-08-13
-
-### [Research Engineer – Benchmarking](https://jobs.ashbyhq.com/mercor/40cc6334-3a6c-42f8-a4ec-d490486d00e8) — Mercor
-- 📍 **Location:** San Francisco
-- 🕒 **Posted:** 2026-08-17
-
-### [Software Engineer, Ruby on Rails](https://jobs.ashbyhq.com/mudflap/6d599ccc-4566-4cd3-9721-2273601acba6) — Mudflap
-- 📍 **Location:** Remote
-- 🕒 **Posted:** 2025-11-10
-
-### [Early Career Research Engineer](https://jobs.ashbyhq.com/parallel/056e41f8-7d5f-41c1-99fd-bf002dc072fd) — Parallel Web Systems
-- 📍 **Location:** Palo Alto
-- 🕒 **Posted:** 2026-01-24
-
-### [Software Engineer, Frontend](https://jobs.ashbyhq.com/Profound/40aeeeac-24fe-40b2-88d9-242a5ce9300b) — Profound
-- 📍 **Location:** New York, New York
-- 🕒 **Posted:** 2025-07-24
-
-### [Data Engineer](https://jobs.ashbyhq.com/Profound/ea59c604-3a7d-445a-8a37-23252e240031) — Profound
-- 📍 **Location:** New York, New York
-- 🕒 **Posted:** 2025-07-24
-
-### [Data Scientist](https://jobs.ashbyhq.com/Profound/26f3cb11-c67a-4534-adc6-13e404a883f7) — Profound
-- 📍 **Location:** New York, New York
-- 🕒 **Posted:** 2025-07-24
-
-### [Software Engineer, Backend](https://jobs.ashbyhq.com/Profound/043bb5b3-3f78-45d8-a115-fb10f4ed3b09) — Profound
-- 📍 **Location:** New York, New York
-- 🕒 **Posted:** 2026-02-09
-
-### [Software Engineer, Fullstack](https://jobs.ashbyhq.com/Profound/9b429dfb-bb80-4bd6-b996-e5dd3a96908e) — Profound
-- 📍 **Location:** New York, New York
-- 🕒 **Posted:** 2025-07-24
-
-### [Analytics Engineer](https://jobs.ashbyhq.com/Profound/a6a442ba-00b4-4c70-b7fd-6a27eca54d8e) — Profound
-- 📍 **Location:** New York, New York
-- 🕒 **Posted:** 2026-07-24
-
-### [AI/ML Engineer](https://jobs.ashbyhq.com/Profound/08484c30-121a-4d1f-961b-09518f14337a) — Profound
-- 📍 **Location:** New York, New York
-- 🕒 **Posted:** 2025-09-04
-
-### [Software Engineer, Rust, Agent Runtime](https://jobs.ashbyhq.com/Profound/4c29c22e-c6fa-4bde-97ed-79edd5a96cea) — Profound
-- 📍 **Location:** New York, New York
-- 🕒 **Posted:** 2026-04-30
-
-### [Software Engineer, Infrastructure](https://jobs.ashbyhq.com/Profound/ef3e3a00-c4cb-4332-811d-d3d024c6660d) — Profound
-- 📍 **Location:** New York, New York
+### [AI Platform Engineer, Backend ](https://jobs.ashbyhq.com/brainco/0b8c4f13-c8bd-4987-b3b3-0c1adb57c6d8) — Brain Co.
+- 📍 **Location:** San Francisco Bay Area
 - 🕒 **Posted:** 2025-10-28
 
-### [Software Engineer, Data Platform](https://jobs.ashbyhq.com/Profound/261793a4-1711-4c02-b58b-96b0f984b672) — Profound
-- 📍 **Location:** New York, New York
-- 🕒 **Posted:** 2026-06-22
+### [AI Platform Engineer, Infrastructure](https://jobs.ashbyhq.com/brainco/2a423180-afac-4bad-becd-d80939be735f) — Brain Co.
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2025-09-29
 
-### [Security Engineer](https://jobs.ashbyhq.com/Profound/d3063f9e-bfa7-412c-812c-57401a697449) — Profound
-- 📍 **Location:** New York, New York
-- 🕒 **Posted:** 2026-03-03
+### [Early Career Machine Learning Engineer, Applied AI](https://jobs.ashbyhq.com/brainco/bb6e555b-8bb1-4cd7-9813-4f82a5ebe839) — Brain Co.
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-01-21
 
-### [Software Engineer, Crypto Platform](https://jobs.ashbyhq.com/Tools%20for%20Humanity/ee6b299f-81a3-4c63-9319-a6a4e36b0385) — Tools for Humanity
-- 📍 **Location:** San Francisco
-- 🕒 **Posted:** 2026-06-26
+### [AI Platform Engineer, Capabilities ](https://jobs.ashbyhq.com/brainco/b9b965a7-39e8-4164-bfad-209fe7f5889b) — Brain Co.
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-05-04
 
-### [Security Engineer III](https://job-boards.greenhouse.io/anaplan/jobs/8610283002) — Anaplan
-- 📍 **Location:** San Francisco, California 
-- 🕒 **Posted:** 2026-08-12
+### [AI Application Security Engineer](https://jobs.ashbyhq.com/brainco/46cacd55-81d9-414c-9fcb-c8be15d94e4a) — Brain Co.
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-05-06
 
-### [Software Engineer III, Playback Services](https://boards.greenhouse.io/crunchyroll/jobs/8092597?gh_jid=8092597) — Crunchyroll
-- 📍 **Location:** San Francisco, CA, United States
-- 🕒 **Posted:** 2026-08-18
+### [AI Platform Engineer, Agentic Engineering](https://jobs.ashbyhq.com/brainco/82fca179-5032-4f8a-8124-4cf661a1b163) — Brain Co.
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-05-05
 
-### [Applied Scientist II](https://job-boards.greenhouse.io/garnerhealth/jobs/6141361004) — Garner Health
-- 📍 **Location:** New York City, New York
-- 🕒 **Posted:** 2026-08-17
+### [AI Platform Engineer, DevX](https://jobs.ashbyhq.com/brainco/01260568-d527-4fa7-a1e8-ce842f8d720d) — Brain Co.
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-06-17
 
-### [Applied Scientist III](https://job-boards.greenhouse.io/garnerhealth/jobs/6121272004) — Garner Health
-- 📍 **Location:** New York City, New York
-- 🕒 **Posted:** 2026-08-17
-
-### [Data Engineer III](https://job-boards.greenhouse.io/garnerhealth/jobs/5844340004) — Garner Health
-- 📍 **Location:** New York City, New York
-- 🕒 **Posted:** 2026-08-17
-
-### [Software Engineer III](https://job-boards.greenhouse.io/garnerhealth/jobs/5816889004) — Garner Health
-- 📍 **Location:** New York City, New York
-- 🕒 **Posted:** 2026-08-17
-
-### [Backend Engineer, Integrations Platform](https://job-boards.greenhouse.io/pinwheelapi/jobs/7758477003) — Pinwheel
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-07-20
-
-### [Software Engineer](https://boards.greenhouse.io/robinhood/jobs/8120094?t=gh_src=&gh_jid=8120094) — Robinhood
-- 📍 **Location:** Menlo Park, CA
-- 🕒 **Posted:** 2026-08-18
-
-### [Data Engineer (Remote, US) ](https://job-boards.greenhouse.io/sayari/jobs/4248564009) — Sayari
-- 📍 **Location:** Remote - US
-- 🕒 **Posted:** 2026-08-07
-
-### [DevOps Engineer](https://job-boards.greenhouse.io/scoutmotors/jobs/5201280007) — Scout Motors
-- 📍 **Location:** Charlotte, North Carolina, United States; Columbia, South Carolina, United States; Fremont, California, United States
-- 🕒 **Posted:** 2026-08-19
-
-### [Data Engineer](https://job-boards.greenhouse.io/sigmacomputing/jobs/7809974003) — Sigma Computing
-- 📍 **Location:** New York City, NY
-- 🕒 **Posted:** 2026-08-11
-
-### [Data Engineer](https://job-boards.greenhouse.io/sigmacomputing/jobs/7809973003) — Sigma Computing
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-08-11
-
-### [Software Engineer - Compiler ](https://job-boards.greenhouse.io/sigmacomputing/jobs/7767918003) — Sigma Computing
-- 📍 **Location:** New York City, NY
-- 🕒 **Posted:** 2026-08-11
-
-### [Software Engineer - Compiler ](https://job-boards.greenhouse.io/sigmacomputing/jobs/7767917003) — Sigma Computing
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-08-11
-
-### [Software Engineer (New Grad Program)](https://job-boards.greenhouse.io/sigmacomputing/jobs/7690411003) — Sigma Computing
-- 📍 **Location:** San Francisco, CA and New York City, NY
-- 🕒 **Posted:** 2026-04-05
-
-### [Associate Newsroom Software Engineer, Interactive News﻿﻿](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4721982005) — The New York Times
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-08-18
-
-### [Machine Learning Engineer, II - 3D Perception](https://job-boards.greenhouse.io/torcrobotics/jobs/8695202002) — Torc Robotics
-- 📍 **Location:** Remote, U.S, Ann Arbor, MI, Fort Worth, TX, Blacksburg, VA
-- 🕒 **Posted:** 2026-08-14
-
-### [ML Engineer, II - New AI Initiatives](https://job-boards.greenhouse.io/torcrobotics/jobs/8567705002) — Torc Robotics
-- 📍 **Location:** Remote - US
+### [Machine Learning Engineer, Platform](https://jobs.ashbyhq.com/brainco/936df0bf-e4dc-46bb-bb48-b1efcc3cce80) — Brain Co.
+- 📍 **Location:** San Francisco Bay Area
 - 🕒 **Posted:** 2026-08-03
 
-### [ML Engineer, II - Simulation Enablement](https://job-boards.greenhouse.io/torcrobotics/jobs/8651349002) — Torc Robotics
-- 📍 **Location:** Remote - US, Ann Arbor, MI 
-- 🕒 **Posted:** 2026-08-10
+### [Data Scientist](https://jobs.ashbyhq.com/claylabs/f257525f-dfe1-4a88-9bb5-f14891dc37e5) — Clay
+- 📍 **Location:** San Francisco
+- 🕒 **Posted:** 2026-08-14
 
-### [Software Engineer, II - Autonomy Data ](https://job-boards.greenhouse.io/torcrobotics/jobs/8677422002) — Torc Robotics
-- 📍 **Location:** Remote - US, Blacksburg, VA
-- 🕒 **Posted:** 2026-08-05
+### [Machine Learning Engineer](https://jobs.ashbyhq.com/claylabs/d04f47c4-aed6-481d-a093-74c2ae4f3432) — Clay
+- 📍 **Location:** San Francisco
+- 🕒 **Posted:** 2026-08-14
 
-### [Software Engineer II - Build Tools ](https://job-boards.greenhouse.io/torcrobotics/jobs/8654323002) — Torc Robotics
-- 📍 **Location:** Remote (US); Ann Arbor, MI
-- 🕒 **Posted:** 2026-08-12
+### [Embedded Software Engineer III, Kernel](https://jobs.ashbyhq.com/Flock%20Safety/0b6a4ac0-8bbb-4e14-9a62-cebe373cc445) — Flock Safety
+- 📍 **Location:** Remote - USA
+- 🕒 **Posted:** 2026-08-19
 
-### [Software Engineer II, Calibration](https://job-boards.greenhouse.io/torcrobotics/jobs/8526368002) — Torc Robotics
-- 📍 **Location:** Remote - U.S, Ann Arbor, MI
+### [Software Engineer](https://jobs.ashbyhq.com/neon-health/eb5b50a9-5cb6-4d1b-828e-189286f63320) — Neon Health
+- 📍 **Location:** SF Office
+- 🕒 **Posted:** 2025-07-20
+
+### [Robotics Software Engineer (Perception & Localization)](https://jobs.ashbyhq.com/orchard/4f81b000-c82a-4285-b05d-a7861a576d6f) — Orchard
+- 📍 **Location:** San Francisco
+- 🕒 **Posted:** 2026-03-13
+
+### [Forward Deployed Robotics Engineer](https://jobs.ashbyhq.com/orchard/b8f24465-3d29-446c-bac6-5ee49949a3b5) — Orchard
+- 📍 **Location:** San Francisco
+- 🕒 **Posted:** 2025-05-26
+
+### [Machine Learning Engineer](https://jobs.ashbyhq.com/orchard/58cc4c3f-3ef2-4fe3-a81f-160916e67aaa) — Orchard
+- 📍 **Location:** San Francisco
+- 🕒 **Posted:** 2026-03-13
+
+### [Front-End Engineer](https://jobs.ashbyhq.com/tavily/fabd9b1b-a85b-4e74-a0ee-44f7251df743) — Tavily
+- 📍 **Location:** New York City
+- 🕒 **Posted:** 2026-02-18
+
+### [DevOps Engineer](https://jobs.ashbyhq.com/tavily/6829aa3b-ffa2-4007-b057-2a22e3593cc6) — Tavily
+- 📍 **Location:** New York City
+- 🕒 **Posted:** 2026-03-26
+
+### [Research Engineer, Human Understanding](https://job-boards.greenhouse.io/deepmind/jobs/7669433) — DeepMind
+- 📍 **Location:** Los Angeles, California, US; Mountain View, California, US
+- 🕒 **Posted:** 2026-03-25
+
+### [Research Engineer, Materials Science](https://job-boards.greenhouse.io/deepmind/jobs/7339890) — DeepMind
+- 📍 **Location:** Mountain View, California, US
+- 🕒 **Posted:** 2026-05-28
+
+### [Research Engineer, Multimodal Reasoning For Information Literacy](https://job-boards.greenhouse.io/deepmind/jobs/7171371) — DeepMind
+- 📍 **Location:** Mountain View, California, US
+- 🕒 **Posted:** 2026-05-07
+
+### [Full Stack Engineer, App Framework & E-Commerce ](https://job-boards.greenhouse.io/mrbeastyoutube/jobs/6119092004) — MrBeast
+- 📍 **Location:** Primary: Bay Area (San Francisco/Peninsula)
+- 🕒 **Posted:** 2026-07-17
+
+### [Full Stack Engineer, Live & Game ](https://job-boards.greenhouse.io/mrbeastyoutube/jobs/6119136004) — MrBeast
+- 📍 **Location:** Primary: Bay Area (San Francisco/Peninsula)
+- 🕒 **Posted:** 2026-07-17
+
+### [Embedded Software Engineer, Implant Embedded Systems](https://boards.greenhouse.io/neuralink/jobs/6550259003?gh_jid=6550259003) — Neuralink
+- 📍 **Location:** Austin, Texas, United States; South San Francisco, California, United States
+- 🕒 **Posted:** 2026-06-22
+
+### [Embedded Software Engineer Intern, Implant Embedded Systems](https://boards.greenhouse.io/neuralink/jobs/6283663003?gh_jid=6283663003) — Neuralink
+- 📍 **Location:** Austin, Texas, United States; South San Francisco, California, United States
+- 🕒 **Posted:** 2026-06-22
+
+### [Machine Learning Engineer](https://boards.greenhouse.io/neuralink/jobs/5663271003?gh_jid=5663271003) — Neuralink
+- 📍 **Location:** Austin, Texas, United States; South San Francisco, California, United States
+- 🕒 **Posted:** 2026-06-25
+
+### [Machine Learning Engineer Intern](https://boards.greenhouse.io/neuralink/jobs/6594261003?gh_jid=6594261003) — Neuralink
+- 📍 **Location:** South San Francisco, California, United States
+- 🕒 **Posted:** 2026-06-22
+
+### [Network and Systems Engineer](https://boards.greenhouse.io/neuralink/jobs/7720290003?gh_jid=7720290003) — Neuralink
+- 📍 **Location:** South San Francisco, California, United States
+- 🕒 **Posted:** 2026-06-22
+
+### [Software Engineer, ASIC](https://boards.greenhouse.io/neuralink/jobs/7743087003?gh_jid=7743087003) — Neuralink
+- 📍 **Location:** South San Francisco, California, United States
+- 🕒 **Posted:** 2026-06-22
+
+### [Software Engineer, BCI Applications](https://boards.greenhouse.io/neuralink/jobs/6596365003?gh_jid=6596365003) — Neuralink
+- 📍 **Location:** Austin, Texas, United States; South San Francisco, California, United States
+- 🕒 **Posted:** 2026-07-20
+
+### [Software Engineer, CI/CD](https://boards.greenhouse.io/neuralink/jobs/7743089003?gh_jid=7743089003) — Neuralink
+- 📍 **Location:** Austin, Texas, United States; South San Francisco, California, United States
+- 🕒 **Posted:** 2026-06-22
+
+### [Software Engineer, Implant](https://boards.greenhouse.io/neuralink/jobs/6569010003?gh_jid=6569010003) — Neuralink
+- 📍 **Location:** Austin, Texas, United States; South San Francisco, California, United States
+- 🕒 **Posted:** 2026-06-22
+
+### [Software Engineer Intern, BCI Applications](https://boards.greenhouse.io/neuralink/jobs/6594422003?gh_jid=6594422003) — Neuralink
+- 📍 **Location:** South San Francisco, California, United States
+- 🕒 **Posted:** 2026-06-22
+
+### [Software Engineer Intern, Implant](https://boards.greenhouse.io/neuralink/jobs/6569018003?gh_jid=6569018003) — Neuralink
+- 📍 **Location:** Austin, Texas, United States; South San Francisco, California, United States
+- 🕒 **Posted:** 2026-08-17
+
+### [Software Engineer Intern, Infrastructure](https://boards.greenhouse.io/neuralink/jobs/5469298003?gh_jid=5469298003) — Neuralink
+- 📍 **Location:** South San Francisco, California, United States
+- 🕒 **Posted:** 2026-06-22
+
+### [Software Engineer Intern, Internal Apps](https://boards.greenhouse.io/neuralink/jobs/6083322003?gh_jid=6083322003) — Neuralink
+- 📍 **Location:** Austin, Texas, United States; South San Francisco, California, United States
+- 🕒 **Posted:** 2026-06-22
+
+### [Software Engineer Intern, Robotics](https://boards.greenhouse.io/neuralink/jobs/5469305003?gh_jid=5469305003) — Neuralink
+- 📍 **Location:** Austin, Texas, United States; South San Francisco, California, United States
+- 🕒 **Posted:** 2026-06-22
+
+### [Software Engineer, Next Gen](https://boards.greenhouse.io/neuralink/jobs/6658884003?gh_jid=6658884003) — Neuralink
+- 📍 **Location:** South San Francisco, California, United States
+- 🕒 **Posted:** 2026-06-22
+
+### [Software Engineer, Robotics](https://boards.greenhouse.io/neuralink/jobs/4205469003?gh_jid=4205469003) — Neuralink
+- 📍 **Location:** Austin, Texas, United States; South San Francisco, California, United States
+- 🕒 **Posted:** 2026-06-22
+
+### [Software Engineer, Robot Manufacturing](https://boards.greenhouse.io/neuralink/jobs/7655221003?gh_jid=7655221003) — Neuralink
+- 📍 **Location:** South San Francisco, California, United States
+- 🕒 **Posted:** 2026-06-22
+
+### [Data Engineer, Palo Alto](https://job-boards.greenhouse.io/rhombuspower/jobs/7819836003) — Rhombus Power
+- 📍 **Location:** Palo Alto, California, United States
 - 🕒 **Posted:** 2026-07-28
 
-### [Blockchain Security Engineer - (Solidity / Rust / Golang)](https://jobs.lever.co/certik/478ab0cd-9f5e-4b88-88b5-01d3beac4d81) — Certik
-- 📍 **Location:** US / Remote
-- 🕒 **Posted:** 1757102509756
+### [Full Stack Software Engineer](https://job-boards.greenhouse.io/scoutai/jobs/4958043008) — Scout AI
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-08-17
 
-### [Solidity Compiler Frontend Engineer](https://jobs.lever.co/certik/93ff3247-b56b-40a1-a4a1-daa0456663bf) — Certik
-- 📍 **Location:** US / Remote
-- 🕒 **Posted:** 1760978142485
+### [Robotics Software Engineer](https://job-boards.greenhouse.io/scoutai/jobs/5137118008) — Scout AI
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-08-17
 
-### [Machine Learning Engineer](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Machine-Learning-Engineer_R171337) — Adobe
-- 📍 **Location:** San Jose
-- 🕒 **Posted:** Posted Yesterday
+### [Software Engineer, Agent Harnessing](https://job-boards.greenhouse.io/scoutai/jobs/5248857008) — Scout AI
+- 📍 **Location:** Sunnyvale, California
+- 🕒 **Posted:** 2026-08-17
 
-### [Software Engineer (Development & QA Automation) (Hybrid - Newark, NJ, Coppell, TX or NYC)](https://broadridge.wd5.myworkdayjobs.com/careers/job/Newark-NJ/Software-Engineer--Development---QA-Automation---Hybrid---Newark--NJ-or-NYC-_JR1082563) — Broadridge
-- 📍 **Location:** Newark, NJ
-- 🕒 **Posted:** Posted 8 Days Ago
+### [Software Engineer, Inference (AI Data Engineering)](https://boards.greenhouse.io/spacex/jobs/8717350002?gh_jid=8717350002) — SpaceX
+- 📍 **Location:** Palo Alto, CA
+- 🕒 **Posted:** 2026-08-19
 
-### [Software Engineer II](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Software-Engineer-II_R51635-1) — Cadence Design Systems
-- 📍 **Location:** SAN JOSE
-- 🕒 **Posted:** Posted 30+ Days Ago
+### [Wi-Fi Software Engineer (Starlink)](https://boards.greenhouse.io/spacex/jobs/8715832002?gh_jid=8715832002) — SpaceX
+- 📍 **Location:** Palo Alto, CA
+- 🕒 **Posted:** 2026-08-19
 
-### [Software Engineer II, AI Platform](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Software-Engineer-II--AI-Platform_R55030-1) — Cadence Design Systems
-- 📍 **Location:** SAN JOSE
-- 🕒 **Posted:** Posted 30+ Days Ago
+### [Software Engineer, Metal Runtime (API & Abstractions)](https://job-boards.greenhouse.io/tenstorrent/jobs/5192671007) — Tenstorrent
+- 📍 **Location:** Austin, Texas, United States; Santa Clara, California, United States; Toronto, Ontario, Canada
+- 🕒 **Posted:** 2026-08-19
 
-### [Data Scientist I, MIRS (Hybrid - at least 3 days in NYC office)](https://compass.wd501.myworkdayjobs.com/radian_external_career_site/job/New-York-NY/Data-Scientist-I--MIRS--Hybrid---at-least-3-days-in-NYC-office-_R20260095) — Radian
+### [Software Engineer, Metal Runtime (Core Systems)](https://job-boards.greenhouse.io/tenstorrent/jobs/5023673007) — Tenstorrent
+- 📍 **Location:** Austin, Texas, United States; Santa Clara, California, United States; Toronto, Ontario, Canada
+- 🕒 **Posted:** 2026-08-19
+
+### [Software Engineer, TT-Fabric ](https://job-boards.greenhouse.io/tenstorrent/jobs/4645584007) — Tenstorrent
+- 📍 **Location:** Austin, Texas, United States; Santa Clara, California, United States; Toronto, Ontario, Canada
+- 🕒 **Posted:** 2026-08-19
+
+### [Software Engineer, Reﬂections](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4724948005) — The New York Times
 - 📍 **Location:** New York, NY
-- 🕒 **Posted:** Posted 2 Days Ago
+- 🕒 **Posted:** 2026-08-19
 
-### [Software Engineer, Front End - Policy (Hybrid)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-WA/Software-Engineer--Front-End---Policy--Hybrid-_R29041) — Crowdstrike
-- 📍 **Location:** USA - Remote, WA
+### [Software Engineer II - Business Intelligence](https://job-boards.greenhouse.io/torcrobotics/jobs/8651408002) — Torc Robotics
+- 📍 **Location:** Ann Arbor, MI; Remote (US)
+- 🕒 **Posted:** 2026-08-19
+
+### [Data Scientist, Growth Analytics](https://job-boards.greenhouse.io/tubitv/jobs/8052429) — Tubi
+- 📍 **Location:** Los Angeles, CA (Hybrid); San Francisco, CA (Hybrid)
+- 🕒 **Posted:** 2026-07-21
+
+### [Android Engineer III](https://jobs.lever.co/matchgroup/3414ba28-35f7-45d3-8e13-35c883959635) — Tinder
+- 📍 **Location:** New York, New York
+- 🕒 **Posted:** 1779223091267
+
+### [AI Platform Engineer, Training and Inference](https://jobs.lever.co/saviynt/9a8661ce-8856-4977-87f4-b06567125e28) — Saviynt
+- 📍 **Location:** Milpitas, California
+- 🕒 **Posted:** 1779124421003
+
+### [R&D Software Engineer, Scientific Instrumentation](https://agilent.wd5.myworkdayjobs.com/Agilent_Careers/job/US-CA-Santa-Clara/R-D-Software-Engineer--Scientific-Instrumentation_4038566) — Agilent Technologies
+- 📍 **Location:** US-CA-Santa Clara
+- 🕒 **Posted:** Posted 7 Days Ago
+
+### [AI Software Engineer](https://allstate.wd5.myworkdayjobs.com/allstate_careers/job/USA---IL-Remote/AI-Software-Engineer_R32187-1) — Allstate Insurance Company
+- 📍 **Location:** USA - IL (Remote)
 - 🕒 **Posted:** Posted Yesterday
 
-### [Tenured Associate Professor of Data Science (Remote U.S.)](https://embryriddle.wd1.myworkdayjobs.com/External/job/Remote---United-States/Tenure-Associate-Professor-of-Computer-and-or-Data-Science--Remote-US-_R311006) — Embry-Riddle Aeronautical University
-- 📍 **Location:** Remote - United States
-
-### [Machine Learning Scientist III - Personalization](https://expedia.wd108.myworkdayjobs.com/search/job/USA---California---San-Jose/Machine-Learning-Scientist-III---Personalization_R-107143-1) — Expedia Group
-- 📍 **Location:** USA - California - San Jose
+### [AI Software Engineer](https://allstate.wd5.myworkdayjobs.com/allstate_careers/job/USA---IL-Remote/AI-Software-Engineer_R34190) — Allstate Insurance Company
+- 📍 **Location:** USA - IL (Remote)
 - 🕒 **Posted:** Posted Yesterday
 
-### [2026 Undergraduate - Leap: Software Engineer, Jersey City, NJ](https://fmr.wd1.myworkdayjobs.com/targeted/job/Jersey-City-NJ/XMLNAME-2026-Undergraduate---Leap--Software-Engineer--Jersey-City--NJ_2130181) — Fidelity Investments
-- 📍 **Location:** Jersey City, NJ
-- 🕒 **Posted:** Posted 30+ Days Ago
+### [DevOps Platform Engineer](https://alteryx.wd108.myworkdayjobs.com/AlteryxCareers/job/US---Remote/DevOps-Platform-Engineer_R12389) — Alteryx
+- 📍 **Location:** US - Remote
+- 🕒 **Posted:** Posted 3 Days Ago
 
-### [Software Engineer](https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Remote/Software-Engineer_R5038544-1) — GE Aerospace
-- 📍 **Location:** Remote
-- 🕒 **Posted:** Posted 7 Days Ago
+### [Mid-Level Software Engineer (Full Stack, Python, React)](https://alteryx.wd108.myworkdayjobs.com/AlteryxCareers/job/US---Remote/Software-Engineer_R12042) — Alteryx
+- 📍 **Location:** US - Remote
+- 🕒 **Posted:** Posted 9 Days Ago
 
-### [Software Engineer](https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Remote/Software-Engineer_R5038542-1) — GE Aerospace
-- 📍 **Location:** Remote
-- 🕒 **Posted:** Posted 7 Days Ago
+### [AppSec Security Engineer](https://aresmgmt.wd1.myworkdayjobs.com/External/job/New-York-NY/Vice-President--Cybersecurity-Engineer---SecDevOps_R7452) — Ares Management
+- 📍 **Location:** New York, NY
 
-### [Software Engineer](https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Remote/Software-Engineer_R5038541-1) — GE Aerospace
-- 📍 **Location:** Remote
-- 🕒 **Posted:** Posted 7 Days Ago
+### [Software Engineer - UI](https://bcbst.wd1.myworkdayjobs.com/External/job/USA-TN-Chattanooga-Remote/Software-Engineer---UI_R-51057) — BCBST
+- 📍 **Location:** USA, TN, Chattanooga, Remote
+- 🕒 **Posted:** Posted Yesterday
 
-### [Software Engineer AI/ML](https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Evendale/Software-Engineer-AI-ML_R5034608-1) — GE Aerospace
-- 📍 **Location:** Remote
-- 🕒 **Posted:** Posted 13 Days Ago
-
-### [AI/ML Software Engineer](https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Evendale/AI-ML-Software-Engineer_R5035945-1) — GE Aerospace
-- 📍 **Location:** Remote
-- 🕒 **Posted:** Posted 28 Days Ago
-
-### [(New College Graduate) Associate AI & Data Engineering Engineer](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME--New-College-Graduate--Associate-AI---Data-Engineering-Engineer_JR-202601970) — General Motors
-- 📍 **Location:** Mountain View, California, United States of America
+### [Associate Security Engineer (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-TX/Security-Engineer--Remote-_R26320) — Crowdstrike
+- 📍 **Location:** USA - Remote, TX
 - 🕒 **Posted:** Posted Today
 
-### [(Remote) Software Developer](https://harriscomputer.wd3.myworkdayjobs.com/1/job/Office---Blair/XMLNAME--Remote--Software-Developer_R0044815-6) — Harris Computer
-- 📍 **Location:** Office - Blair; British Columbia, Canada; Wisconsin, United States; Arizona, United States; Nebraska, United States; Utah, United States; Remote - Saskatchewan; Texas, United States; Minnesota, United States; Tennessee, United States; South Dakota, United States; Manitoba, Canada; Kansas, United States; Iowa, United States; Illinois, United States; Ontario, Canada; Remote - Alberta; North Dakota, United States; Missouri, United States; Colorado, United States
+### [Data Engineer (Adobe Experience Platform)](https://dentsuaegis.wd3.myworkdayjobs.com/DAN_GLOBAL/job/USA---Remote---Maryland/Data-Engineer--Adobe-Experience-Platform-_R1128928) — Dentsu
+- 📍 **Location:** USA - Remote - Maryland
 - 🕒 **Posted:** Posted Yesterday
 
-### [Data Scientist II](https://horizonmedia.wd1.myworkdayjobs.com/CareerOpportunities/job/New-York-New-York/Data-Scientist-II_R0016747-1) — Horizon media
-- 📍 **Location:** New York, New York
-- 🕒 **Posted:** Posted 30+ Days Ago
+### [AI/ML Software Engineer (2026 New College Graduate)](https://globalfoundries.wd1.myworkdayjobs.com/External/job/Richardson/AI-ML-Software-Engineer--2026-New-College-Graduate-_JR-2602832) — GlobalFoundries
+- 📍 **Location:** USA - California - Santa Clara
+- 🕒 **Posted:** Posted Yesterday
