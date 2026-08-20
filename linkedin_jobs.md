@@ -1,139 +1,128 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-08-20 16:19 UTC*
+*Last updated: 2026-08-20 17:05 UTC*
 
-**30 new role(s)** since last run · 46 total in last 1h
+**29 new role(s)** since last run · 50 total in last 1h
 
-### [Software Engineer I – Compiler & Runtime](https://www.linkedin.com/jobs/view/4454484476/) — TetraMem - Accelerate The World
+### [AI Research Scientist | Machine Learning | Deep Learning |Natural Language Processing | LLM | Hybrid | San Jose, CA](https://www.linkedin.com/jobs/view/4456006574/) — Enigma
 - 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-08-20
 
-### [Department of Applied Data Science Lecturer Pool](https://www.linkedin.com/jobs/view/4158336551/) — San José State University
+### [Software Engineer, Distributed Systems](https://www.linkedin.com/jobs/view/4424262692/) — Discord
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-08-20
+
+### [Software Engineer, CDN (Starlink)](https://www.linkedin.com/jobs/view/4446861088/) — SpaceX
+- 📍 **Location:** Palo Alto, CA
+- 🕒 **Posted:** 2026-08-20
+
+### [Research Engineer, AGI Safety and Alignment, DeepMind](https://www.linkedin.com/jobs/view/4456002537/) — Google DeepMind
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-08-20
+
+### [Software Engineer III, Engineering Productivity, Google Cloud Platforms](https://www.linkedin.com/jobs/view/4456000626/) — Google
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-08-20
+
+### [Full Stack Engineer](https://www.linkedin.com/jobs/view/4456009496/) — Jack
+- 📍 **Location:** San Francisco Bay Area
+- 💰 **Salary:** $130,000.00/yr - $240,000.00/yr
+- 🕒 **Posted:** 2026-08-20
+
+### [Software Engineer](https://www.linkedin.com/jobs/view/4456022472/) — Jack
+- 📍 **Location:** San Francisco Bay Area
+- 💰 **Salary:** $160,000.00/yr - $210,000.00/yr
+- 🕒 **Posted:** 2026-08-20
+
+### [Software Engineer - AI Agent](https://www.linkedin.com/jobs/view/4456015485/) — Jobright.ai
+- 📍 **Location:** San Mateo County, CA
+- 🕒 **Posted:** 2026-08-20
+
+### [Software Engineer](https://www.linkedin.com/jobs/view/4456002564/) — Jack
+- 📍 **Location:** San Francisco Bay Area
+- 💰 **Salary:** $130,000.00/yr - $240,000.00/yr
+- 🕒 **Posted:** 2026-08-20
+
+### [Research Engineer, AGI Safety and Alignment, DeepMind](https://www.linkedin.com/jobs/view/4455699642/) — Google DeepMind
+- 📍 **Location:** Mountain View, CA
+- 🕒 **Posted:** 2026-08-20
+
+### [Software Engineer III, AI/ML Engineer](https://www.linkedin.com/jobs/view/4456003513/) — Google
 - 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-08-20
 
-### [Backend Engineer (Infra)](https://www.linkedin.com/jobs/view/4317493942/) — Conversion
+### [Backend Software Engineer](https://www.linkedin.com/jobs/view/4456018488/) — Jack
 - 📍 **Location:** San Francisco, CA
 - 💰 **Salary:** $175,000.00/yr - $225,000.00/yr
 - 🕒 **Posted:** 2026-08-20
 
-### [Embedded Display Software Engineer](https://www.linkedin.com/jobs/view/4456733637/) — Quest Global
-- 📍 **Location:** Fremont, CA
-- 🕒 **Posted:** 2026-08-20
-
-### [Software Engineer, Internship - Infrastructure](https://www.linkedin.com/jobs/view/4434140506/) — Palantir Technologies
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-08-20
-
-### [Mobile Engineer](https://www.linkedin.com/jobs/view/4456747491/) — REDLEO SOFTWARE INC.
+### [Full Stack Engineer](https://www.linkedin.com/jobs/view/4456005520/) — Jack
 - 📍 **Location:** San Francisco Bay Area
+- 💰 **Salary:** $160,000.00/yr - $220,000.00/yr
 - 🕒 **Posted:** 2026-08-20
 
-### [GenAI Engineer](https://www.linkedin.com/jobs/view/4456753727/) — Proclinical Staffing
-- 📍 **Location:** San Francisco County, CA
-- 💰 **Salary:** $80.00/hr - $120.00/hr
+### [Software Engineer](https://www.linkedin.com/jobs/view/4456022444/) — Jack
+- 📍 **Location:** San Francisco Bay Area
+- 💰 **Salary:** $160,000.00/yr - $220,000.00/yr
 - 🕒 **Posted:** 2026-08-20
 
-### [AI Full Stack Engineer (Prime Brokerage Technology)](https://www.linkedin.com/jobs/view/4445798188/) — Morgan Stanley
-- 📍 **Location:** New York, NY
+### [Software Engineer](https://www.linkedin.com/jobs/view/4456006570/) — Jack
+- 📍 **Location:** San Francisco Bay Area
+- 💰 **Salary:** $150,000.00/yr - $275,000.00/yr
 - 🕒 **Posted:** 2026-08-20
 
-### [Software Engineer 3](https://www.linkedin.com/jobs/view/4446841326/) — MongoDB
-- 📍 **Location:** New York, NY
+### [GenAI Front-End Engineer](https://www.linkedin.com/jobs/view/4456746747/) — The Fountain Group
+- 📍 **Location:** South San Francisco, CA
 - 🕒 **Posted:** 2026-08-20
 
-### [Research Engineer, AGI Safety and Alignment, DeepMind](https://www.linkedin.com/jobs/view/4456022405/) — Google DeepMind
-- 📍 **Location:** New York, NY
+### [Software Engineer III, Infrastructure, YouTube](https://www.linkedin.com/jobs/view/4456022403/) — Google
+- 📍 **Location:** San Bruno, CA
 - 🕒 **Posted:** 2026-08-20
 
-### [Full Stack Engineer](https://www.linkedin.com/jobs/view/4455766604/) — Arcadia
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $150,000.00/yr - $170,000.00/yr
-- 🕒 **Posted:** 2026-08-18
+### [Software Engineer Intern](https://www.linkedin.com/jobs/view/4456754868/) — SK hynix memory solutions America Inc.
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-08-20
 
-### [Full Stack Software Engineer](https://www.linkedin.com/jobs/view/4406562211/) — Chalk
+### [GenAI Engineer - Specialized Content & Compliance Agents](https://www.linkedin.com/jobs/view/4456752804/) — The Fountain Group
+- 📍 **Location:** South San Francisco, CA
+- 🕒 **Posted:** 2026-08-20
+
+### [Intellectual Property Security Engineer](https://www.linkedin.com/jobs/view/4446878863/) — NVIDIA
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-08-20
+
+### [Data Scientist](https://www.linkedin.com/jobs/view/4444192359/) — Applied Materials
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-08-20
+
+### [Software Engineer III, Infrastructure, F1 Query](https://www.linkedin.com/jobs/view/4456022410/) — Google
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-08-20
+
+### [Data Scientist, Real Estate & Workplace](https://www.linkedin.com/jobs/view/4456004702/) — OpenAI
 - 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $170,000.00/yr - $280,000.00/yr
-- 🕒 **Posted:** 2026-08-17
+- 💰 **Salary:** $230,000.00/yr - $342,000.00/yr
+- 🕒 **Posted:** 2026-08-20
 
-### [Software Engineer](https://www.linkedin.com/jobs/view/4376317177/) — PermitFlow
+### [GenAI Platform Engineer (Python, MCP & Agentic AI)](https://www.linkedin.com/jobs/view/4456468250/) — Capgemini
 - 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-08-17
+- 🕒 **Posted:** 2026-08-20
 
-### [Full-stack Engineer](https://www.linkedin.com/jobs/view/4453672695/) — Ekho
+### [eDiscovery Data Scientist | Technology Consulting](https://www.linkedin.com/jobs/view/4444178044/) — FTI Consulting
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $160,000.00/yr - $200,000.00/yr
-- 🕒 **Posted:** 2026-08-13
+- 🕒 **Posted:** 2026-08-20
 
-### [Fullstack Engineer](https://www.linkedin.com/jobs/view/4443416037/) — Medal
+### [Python Developer / AI Engineer / Data Engineer](https://www.linkedin.com/jobs/view/4456733821/) — Teksky LLC
+- 📍 **Location:** Jersey City, NJ
+- 🕒 **Posted:** 2026-08-20
+
+### [Software Engineer, Android](https://www.linkedin.com/jobs/view/4317479429/) — Cape
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $180,000.00/yr - $275,000.00/yr
-- 🕒 **Posted:** 2026-08-13
+- 🕒 **Posted:** 2026-08-20
 
-### [Software Engineer - Full Stack (New York)](https://www.linkedin.com/jobs/view/4385025315/) — Edra
+### [Software Engineer, New Grad](https://www.linkedin.com/jobs/view/4434138603/) — Palantir Technologies
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $200,000.00/yr - $300,000.00/yr
-- 🕒 **Posted:** 2026-08-12
+- 🕒 **Posted:** 2026-08-20
 
-### [Full Stack Software Engineer](https://www.linkedin.com/jobs/view/4371575959/) — Cape
+### [Data Scientist](https://www.linkedin.com/jobs/view/4456020468/) — AssistRx
 - 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-08-07
-
-### [Software Engineer](https://www.linkedin.com/jobs/view/4438247839/) — Garage
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $150,000.00/yr - $250,000.00/yr
-- 🕒 **Posted:** 2026-08-03
-
-### [Software Engineer, Full Stack](https://www.linkedin.com/jobs/view/4443620888/) — Office Hours
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-07-28
-
-### [Full Stack Software Engineer](https://www.linkedin.com/jobs/view/4440830492/) — Medra
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $170,000.00/yr - $210,000.00/yr
-- 🕒 **Posted:** 2026-07-14
-
-### [Full-Stack Software Engineer](https://www.linkedin.com/jobs/view/4436159307/) — Straia
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-07-02
-
-### [Full Stack Engineer](https://www.linkedin.com/jobs/view/4407529547/) — Odyssey
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $160,000.00/yr - $180,000.00/yr
-- 🕒 **Posted:** 2026-06-15
-
-### [Full Stack Engineer](https://www.linkedin.com/jobs/view/4409483529/) — Matic Robots
-- 📍 **Location:** Menlo Park, CA
-- 🕒 **Posted:** 2026-05-01
-
-### [Full-Stack Engineer](https://www.linkedin.com/jobs/view/4370924021/) — Sapien
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $175,000.00/yr - $250,000.00/yr
-- 🕒 **Posted:** 2026-02-10
-
-### [Fullstack Engineer](https://www.linkedin.com/jobs/view/4369001543/) — Dispatch
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-02-04
-
-### [Software Engineer, Fullstack](https://www.linkedin.com/jobs/view/4366265675/) — Sola
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $150,000.00/yr - $300,000.00/yr
-- 🕒 **Posted:** 2026-01-27
-
-### [Software Engineer (Fullstack)](https://www.linkedin.com/jobs/view/4366276613/) — Clarion
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-01-27
-
-### [Software Engineer](https://www.linkedin.com/jobs/view/4318517031/) — Moab
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $150,000.00/yr - $350,000.00/yr
-- 🕒 **Posted:** 2025-10-22
-
-### [Software Engineer, Full-Stack](https://www.linkedin.com/jobs/view/4318503723/) — Falconer
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $125,000.00/yr - $175,000.00/yr
-- 🕒 **Posted:** 2025-10-22
-
-### [Software Engineer](https://www.linkedin.com/jobs/view/4298898403/) — Method
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $150,000.00/yr - $190,000.00/yr
-- 🕒 **Posted:** 2025-09-11
+- 🕒 **Posted:** 2026-08-20
