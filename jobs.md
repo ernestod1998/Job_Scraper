@@ -1,15 +1,12 @@
 # 🧬 Biotech LinkedIn — MLE / DS Roles
-*Last updated: 2026-08-19 04:05 UTC*
+*Last updated: 2026-08-20 04:05 UTC*
 
-**3 new role(s)** since last run · 79 total in last 24h
+**2 new role(s)** since last run · 77 total in last 24h
 
-### [Lab Automation - Robotics Engineer](https://job-boards.greenhouse.io/xairatherapeutics/jobs/5212689007) — Xaira Therapeutics
-- 📍 **Location:** South San Francisco, California, United States
-- 🕒 **Posted:** 2026-08-18
+### [Biostatistician II](https://jobs.lever.co/kariusdx/f1b19dd4-0b59-4dc8-a61e-4a8ea1a5f344) — Karius
+- 📍 **Location:** Redwood City, CA (Hybrid) or Remote (USA)
+- 🕒 **Posted:** 2026-08-19
 
-### [Yeast Display and Machine Learning Scientist I/II – Antibody Discovery](https://careers.dana-farber.org/#yeast-display-and-machine-learning-scientist-i-ii-antibody-d) — Dana-Farber Cancer Institute
-- 📍 **Location:** Boston, MA
-
-### [ML Scientist I/II, Nucleic Acid Design](https://www.linkedin.com/jobs/view/4446144681/) — Lila Sciences
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-08-18
+### [Data Scientist](https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Cambridge-Massachusetts/Data-Scientist_R19572) — Moderna
+- 📍 **Location:** Cambridge, Massachusetts
+- 🕒 **Posted:** Posted Today
