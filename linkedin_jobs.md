@@ -1,89 +1,110 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-08-20 22:18 UTC*
+*Last updated: 2026-08-20 23:18 UTC*
 
-**21 new role(s)** since last run · 38 total in last 1h
+**24 new role(s)** since last run · 41 total in last 1h
 
-### [Software Engineer, Simulation Infrastructure](https://www.linkedin.com/jobs/view/4456034968/) — Waymo
-- 📍 **Location:** Mountain View, CA
-- 🕒 **Posted:** 2026-08-20
-
-### [Software Engineer - AI Agent](https://www.linkedin.com/jobs/view/4456065022/) — Jobright.ai
-- 📍 **Location:** San Mateo County, CA
-- 🕒 **Posted:** 2026-08-20
-
-### [Data Engineer](https://www.linkedin.com/jobs/view/4456030983/) — Waymo
-- 📍 **Location:** Mountain View, CA
-- 🕒 **Posted:** 2026-08-20
-
-### [Data Scientist Intern](https://www.linkedin.com/jobs/view/4456027909/) — Jobright.ai
-- 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-08-20
-
-### [Software Engineer (Internship, Spring 2027)](https://www.linkedin.com/jobs/view/4445056952/) — Heliux
+### [Machine Learning Engineer, Inference & Serving (Speech LLM)](https://www.linkedin.com/jobs/view/4456067038/) — Jobright.ai
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-08-20
 
-### [Software Engineer, Core Platform (All Levels)](https://www.linkedin.com/jobs/view/4454147427/) — Heliux
+### [Machine Learning Engineer, Speech LLM Training](https://www.linkedin.com/jobs/view/4456055239/) — Jobright.ai
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-08-20
 
-### [Software Engineer](https://www.linkedin.com/jobs/view/4440877016/) — Ascend
+### [Research Engineer/Scientist](https://www.linkedin.com/jobs/view/4456049253/) — Center for AI Safety
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-08-20
 
-### [Java Backend Engineer](https://www.linkedin.com/jobs/view/4457024258/) — Cognizant
+### [Applied Scientist II, Search Ranking](https://www.linkedin.com/jobs/view/4454136763/) — Amazon Science
+- 📍 **Location:** Palo Alto, CA
+- 🕒 **Posted:** 2026-08-20
+
+### [AI/ML Infrastructure Engineer](https://www.linkedin.com/jobs/view/4456041988/) — Predii
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-08-20
+
+### [Data Engineer, Monetization Data Platform](https://www.linkedin.com/jobs/view/4456056246/) — OpenAI
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $230,000.00/yr - $385,000.00/yr
+- 🕒 **Posted:** 2026-08-20
+
+### [Software Engineer, Enterprise Expansion](https://www.linkedin.com/jobs/view/4454144774/) — Retool
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $163,800.00/yr - $306,000.00/yr
+- 🕒 **Posted:** 2026-08-20
+
+### [Data Engineer](https://www.linkedin.com/jobs/view/4454143689/) — Vagaro
+- 📍 **Location:** Pleasanton, CA
+- 🕒 **Posted:** 2026-08-20
+
+### [Android Engineer  (Kotlin, API integrations, payment systems)](https://www.linkedin.com/jobs/view/4456060049/) — Ampstek
 - 📍 **Location:** Sunnyvale, CA
 - 🕒 **Posted:** 2026-08-20
 
-### [Cyber Security Engineer](https://www.linkedin.com/jobs/view/4457022352/) — Lawrence Livermore National Laboratory
-- 📍 **Location:** Livermore, CA
+### [Software Engineer Intern (Spring 2027)](https://www.linkedin.com/jobs/view/4457019748/) — Zipline
+- 📍 **Location:** South San Francisco, CA
 - 🕒 **Posted:** 2026-08-20
 
-### [Software Engineer III , Caching](https://www.linkedin.com/jobs/view/4457015369/) — Box
-- 📍 **Location:** Redwood City, CA
-- 🕒 **Posted:** 2026-08-20
-
-### [Software Engineer — Platform](https://www.linkedin.com/jobs/view/4454135614/) — Snorkel AI
+### [Software Developer](https://www.linkedin.com/jobs/view/4457006721/) — Kforce Inc
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-08-20
 
-### [Software Engineer — Product](https://www.linkedin.com/jobs/view/4454130925/) — Snorkel AI
+### [Backend Software Engineer](https://www.linkedin.com/jobs/view/4457024515/) — Trilyon, Inc.
+- 📍 **Location:** San Jose, CA
+- 💰 **Salary:** $80.00/hr - $90.00/hr
+- 🕒 **Posted:** 2026-08-20
+
+### [Cloud Engineer](https://www.linkedin.com/jobs/view/4457020647/) — Kforce Inc
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-08-20
 
-### [Software Engineer — Test](https://www.linkedin.com/jobs/view/4454135616/) — Snorkel AI
+### [Software Engineer: Backend](https://www.linkedin.com/jobs/view/4450836768/) — Thatch
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-08-20
 
-### [Software Engineer — Security](https://www.linkedin.com/jobs/view/4454141579/) — Snorkel AI
-- 📍 **Location:** San Francisco, CA
+### [Data Engineer](https://www.linkedin.com/jobs/view/4456062235/) — OpenAI
+- 📍 **Location:** Mountain View, CA
+- 💰 **Salary:** $235,000.00/yr - $385,000.00/yr
 - 🕒 **Posted:** 2026-08-20
 
-### [Software Engineer — Platform](https://www.linkedin.com/jobs/view/4454134656/) — Snorkel AI
+### [Data Engineer, Monetization Data Platform](https://www.linkedin.com/jobs/view/4456054232/) — OpenAI
+- 📍 **Location:** Mountain View, CA
+- 🕒 **Posted:** 2026-08-20
+
+### [Data Scientist, Real Estate & Workplace](https://www.linkedin.com/jobs/view/4456065209/) — OpenAI
+- 📍 **Location:** Mountain View, CA
+- 💰 **Salary:** $230,000.00/yr - $342,000.00/yr
+- 🕒 **Posted:** 2026-08-20
+
+### [AI / ML Engineer (Generative AI)](https://www.linkedin.com/jobs/view/4456065266/) — JSR Tech Consulting
+- 📍 **Location:** Newark, NJ
+- 💰 **Salary:** $70.00/hr - $85.00/hr
+- 🕒 **Posted:** 2026-08-20
+
+### [Software Engineer, GPU Infrastructure - HPC](https://www.linkedin.com/jobs/view/4456069150/) — OpenAI
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $230,000.00/yr - $490,000.00/yr
+- 🕒 **Posted:** 2026-08-20
+
+### [Software Engineer II](https://www.linkedin.com/jobs/view/4456052412/) — American Express
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $89,250.00/yr - $150,250.00/yr
+- 🕒 **Posted:** 2026-08-20
+
+### [Denoto - Data Engineer](https://www.linkedin.com/jobs/view/4456066132/) — JSR Tech Consulting
+- 📍 **Location:** Newark, NJ
+- 💰 **Salary:** $60.00/hr - $70.00/hr
+- 🕒 **Posted:** 2026-08-20
+
+### [Data Scientist - Finance AI & Analytics](https://www.linkedin.com/jobs/view/4457008588/) — Northrop Grumman
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-08-20
 
-### [Software Engineer — Security](https://www.linkedin.com/jobs/view/4454136631/) — Snorkel AI
+### [Advanced Software Engineer - iOS](https://www.linkedin.com/jobs/view/4456068076/) — Metropolitan Transportation Authority
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-08-20
 
-### [Software Engineer — Test](https://www.linkedin.com/jobs/view/4454137554/) — Snorkel AI
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-08-20
-
-### [Software Engineer — Product](https://www.linkedin.com/jobs/view/4454130926/) — Snorkel AI
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-08-20
-
-### [Data Scientist I](https://www.linkedin.com/jobs/view/4457010594/) — Bank of America
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $107,300.00/yr - $193,200.00/yr
-- 🕒 **Posted:** 2026-08-20
-
-### [C++ Software Engineer - 405468](https://www.linkedin.com/jobs/view/4457025351/) — Atrium
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-08-20
-
-### [AWS Cloud Engineer (Infrastructure)](https://www.linkedin.com/jobs/view/4456031904/) — RSC Solutions
-- 📍 **Location:** New York, NY
+### [Frontend Developer(React / Next.js / Sitecore JSS)](https://www.linkedin.com/jobs/view/4454416758/) — Harvey Nash
+- 📍 **Location:** Jersey City, NJ
+- 💰 **Salary:** $65.00/hr - $71.00/hr
 - 🕒 **Posted:** 2026-08-20
