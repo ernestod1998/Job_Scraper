@@ -1,14 +1,18 @@
 # 🟦 Indeed — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-08-20 03:28 UTC*
+*Last updated: 2026-08-20 04:13 UTC*
 
-**2 new role(s)** since last run · 87 total in last 24h
+**3 new role(s)** since last run · 89 total in last 24h
 
-### [Co-Op, DevOps Engineer](https://www.indeed.com/viewjob?jk=40696df5eb2aec78) — LiveRamp
-- 📍 **Location:** San Francisco, CA, US
-- 💰 **Salary:** $44k–$65k/yr
+### [Software Engineer II](https://www.indeed.com/viewjob?jk=d132f43c93207e69) — Uber
+- 📍 **Location:** Sunnyvale, CA, US
+- 💰 **Salary:** $171k–$209k/yr
 - 🕒 **Posted:** 2026-08-19
 
-### [Software Engineer - Security Content](https://www.indeed.com/viewjob?jk=e652e3032e967f21) — Cisco
+### [Software Engineer](https://www.indeed.com/viewjob?jk=897839ffa910947d) — Uber
+- 📍 **Location:** Sunnyvale, CA, US
+- 💰 **Salary:** $265k–$317k/yr
+- 🕒 **Posted:** 2026-08-19
+
+### [SRE Platform Software Engineer (Early Career / Temporary)](https://www.indeed.com/viewjob?jk=3373eea088d92adf) — Bitdeer Technologies Group
 - 📍 **Location:** San Jose, CA, US
-- 💰 **Salary:** $138k–$256k/yr
 - 🕒 **Posted:** 2026-08-19
