@@ -1,114 +1,81 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-08-20 00:19 UTC*
+*Last updated: 2026-08-20 01:19 UTC*
 
-**27 new role(s)** since last run · 28 total in last 1h
+**18 new role(s)** since last run · 42 total in last 1h
 
-### [Systems Development Engineer, AWS Generative AI & ML Servers](https://www.linkedin.com/jobs/view/4456422377/) — Amazon Web Services (AWS)
-- 📍 **Location:** Cupertino, CA
-- 🕒 **Posted:** 2026-08-19
-
-### [Backend Engineer](https://www.linkedin.com/jobs/view/4456431433/) — Cylake
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-08-19
-
-### [Data Engineer, PXT Central Science](https://www.linkedin.com/jobs/view/4456418511/) — Amazon
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-08-19
-
-### [Machine Learning Engineer Intern (Payment Data Intelligence) - 2027 Summer](https://www.linkedin.com/jobs/view/4456428347/) — TikTok USDS Joint Venture
+### [Machine Learning Engineer Intern (Risk & Integrity) - 2027 Summer](https://www.linkedin.com/jobs/view/4456426567/) — TikTok USDS Joint Venture
 - 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-08-19
 
-### [System Software Engineer - Trusted Firmware](https://www.linkedin.com/jobs/view/4455493096/) — NVIDIA
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-08-19
-
-### [NVIDIA 2027 Internships: Ph.D. Research Generative AI](https://www.linkedin.com/jobs/view/4455492100/) — NVIDIA
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-08-19
-
-### [NVIDIA 2027 Internships: Systems Software Engineering](https://www.linkedin.com/jobs/view/4455474236/) — NVIDIA
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-08-19
-
-### [Software Dev Engineer II, Sales Insights and Data Science](https://www.linkedin.com/jobs/view/4456431322/) — Amazon Web Services (AWS)
-- 📍 **Location:** Mountain View, CA
-- 🕒 **Posted:** 2026-08-19
-
-### [Machine Learning Engineer, Generative ML, Level 4](https://www.linkedin.com/jobs/view/4456415385/) — Snap Inc.
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-08-19
-
-### [Machine Learning Engineer, Generative ML, Level 5](https://www.linkedin.com/jobs/view/4456426244/) — Snap Inc.
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-08-19
-
-### [NVIDIA 2027 Internships: Deep Learning](https://www.linkedin.com/jobs/view/4455493097/) — NVIDIA
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-08-19
-
-### [Slalom Flex (Project Based) - Data Engineer (Microsoft Fabric)](https://www.linkedin.com/jobs/view/4455491169/) — Slalom
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-08-19
-
-### [NVIDIA 2027 Internships: Software Engineering](https://www.linkedin.com/jobs/view/4455493094/) — NVIDIA
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-08-19
-
-### [NVIDIA 2027 Internships: Ph.D. Research Computer Vision and Deep Learning](https://www.linkedin.com/jobs/view/4455489135/) — NVIDIA
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-08-19
-
-### [Deep Learning Compiler Engineer](https://www.linkedin.com/jobs/view/4455488142/) — NVIDIA
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-08-19
-
-### [Wireless Embedded Software Developer, Simulation Foundations, Amazon Leo](https://www.linkedin.com/jobs/view/4456412573/) — Amazon
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-08-19
-
-### [Site Reliability Engineer Intern (Data Infra) - 2027 Fall](https://www.linkedin.com/jobs/view/4456415474/) — ByteDance
+### [Machine Learning Engineer Intern (Recommendations and Search) - 2027 Start (PHD)](https://www.linkedin.com/jobs/view/4456418952/) — TikTok USDS Joint Venture
 - 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-08-19
 
-### [Robotics Research Engineer - Robot Simulation and Evaluation](https://www.linkedin.com/jobs/view/4455486152/) — NVIDIA
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-08-19
-
-### [Machine Learning Engineer, Generative ML, Level 4](https://www.linkedin.com/jobs/view/4456409440/) — Snap Inc.
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-08-19
-
-### [Machine Learning Engineer, Generative ML, Level 5](https://www.linkedin.com/jobs/view/4456421305/) — Snap Inc.
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-08-19
-
-### [Slalom Flex (Project Based) - Data Engineer (Microsoft Fabric)](https://www.linkedin.com/jobs/view/4455481211/) — Slalom
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-08-19
-
-### [Machine Learning Engineer, Speech LLM Training](https://www.linkedin.com/jobs/view/4455483068/) — Jobright.ai
+### [Software Engineer, Seller Growth](https://www.linkedin.com/jobs/view/4455483544/) — Whatnot
 - 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $205,000.00/yr - $290,000.00/yr
 - 🕒 **Posted:** 2026-08-19
 
-### [Data Engineering - Frontier AI Lab](https://www.linkedin.com/jobs/view/4456406091/) — This is Growth
+### [Machine Learning Engineer Intern (Ads) - 2027 Summer](https://www.linkedin.com/jobs/view/4456409802/) — TikTok USDS Joint Venture
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-08-19
+
+### [Machine Learning Engineer Intern (Agentic Platform) - 2027 summer](https://www.linkedin.com/jobs/view/4456429720/) — TikTok USDS Joint Venture
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-08-19
+
+### [Machine Learning Engineer Intern (AML) - 2027 summer](https://www.linkedin.com/jobs/view/4456430722/) — TikTok USDS Joint Venture
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-08-19
+
+### [GenAI Engineer](https://www.linkedin.com/jobs/view/4455471463/) — MindSource
 - 📍 **Location:** San Francisco Bay Area
-- 💰 **Salary:** $250,000.00/yr - $350,000.00/yr
 - 🕒 **Posted:** 2026-08-19
 
-### [Full Stack Software Engineer - Growth](https://www.linkedin.com/jobs/view/4455475197/) — Substack
-- 📍 **Location:** San Francisco Bay Area
-- 💰 **Salary:** $140,000.00/yr - $260,000.00/yr
+### [Software Engineer III](https://www.linkedin.com/jobs/view/4453490390/) — Walmart Global Tech
+- 📍 **Location:** Sunnyvale, CA
+- 💰 **Salary:** $117,000.00/yr - $234,000.00/yr
 - 🕒 **Posted:** 2026-08-19
 
-### [Software Engineer, Atlas Distributed Systems](https://www.linkedin.com/jobs/view/4456408344/) — Rubrik
-- 📍 **Location:** Palo Alto, CA
+### [Full Stack Engineer](https://www.linkedin.com/jobs/view/4455473525/) — Navii
+- 📍 **Location:** Fremont, CA
+- 💰 **Salary:** $180,000.00/yr - $200,000.00/yr
 - 🕒 **Posted:** 2026-08-19
 
-### [SRE Platform Software Engineer (Early Career / Temporary)](https://www.linkedin.com/jobs/view/4453493635/) — Bitdeer (NASDAQ: BTDR)
+### [Software Engineer](https://www.linkedin.com/jobs/view/4453487765/) — age1
+- 📍 **Location:** Alameda, CA
+- 🕒 **Posted:** 2026-08-19
+
+### [Software Engineer Intern (Emerging Product) - 2027 Summer](https://www.linkedin.com/jobs/view/4456428872/) — TikTok USDS Joint Venture
 - 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-08-19
 
-### [Assoc Biostatistician](https://www.linkedin.com/jobs/view/4456422280/) — Maimonides Medical Center
-- 📍 **Location:** Brooklyn, NY
+### [Software Engineer Intern (Infra) - 2027 Summer](https://www.linkedin.com/jobs/view/4456427737/) — TikTok USDS Joint Venture
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-08-19
+
+### [Software Engineer Intern (Ads) - 2027 Summer](https://www.linkedin.com/jobs/view/4456436158/) — TikTok USDS Joint Venture
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-08-19
+
+### [Machine Learning Engineer Intern (Recommendations and Search) - 2027 Start (PHD)](https://www.linkedin.com/jobs/view/4456431765/) — TikTok USDS Joint Venture
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-08-19
+
+### [NVIDIA 2027 Internships: Deep Learning Computer Architecture](https://www.linkedin.com/jobs/view/4455474232/) — NVIDIA
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-08-19
+
+### [Bioinformatician III (Statistical Geneticist) - Windreich Department of AI & Human Health Research](https://www.linkedin.com/jobs/view/4456438004/) — Mount Sinai Morningside
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-08-19
+
+### [Computer Vision & ML Expert](https://www.linkedin.com/jobs/view/4456442051/) — Alignerr
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $100.00/hr - $150.00/hr
+- 🕒 **Posted:** 2026-08-19
+
+### [Data Infrastructure Engineer (Rust) - High Performance Computing](https://www.linkedin.com/jobs/view/4456430865/) — Alignerr
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $50.00/hr - $75.00/hr
 - 🕒 **Posted:** 2026-08-19
