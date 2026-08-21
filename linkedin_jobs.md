@@ -1,45 +1,45 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-08-21 16:02 UTC*
+*Last updated: 2026-08-21 16:19 UTC*
 
-**10 new role(s)** since last run · 41 total in last 1h
+**10 new role(s)** since last run · 35 total in last 1h
 
-### [Machine Learning Infrastructure Engineer](https://www.linkedin.com/jobs/view/4437599288/) — Whatnot
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $200,000.00/yr - $345,000.00/yr
+### [AI Research Scientist | Machine Learning | Deep Learning |Natural Language Processing | LLM | Hybrid | San Jose, CA](https://www.linkedin.com/jobs/view/4456266118/) — Enigma
+- 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-08-21
 
-### [IT Systems Engineer](https://www.linkedin.com/jobs/view/4447260630/) — Vercel
-- 📍 **Location:** San Francisco, CA
+### [Research Engineering Internship - AI, Computer Vision, & Visualization](https://www.linkedin.com/jobs/view/4279104491/) — Williams-Sonoma, Inc.
+- 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-08-21
 
-### [Machine Learning Engineer, Core Engineering](https://www.linkedin.com/jobs/view/4182357321/) — Pinterest
+### [Software Engineer - AI Agent](https://www.linkedin.com/jobs/view/4456255149/) — Jobright.ai
+- 📍 **Location:** San Mateo County, CA
+- 🕒 **Posted:** 2026-08-21
+
+### [Research Engineer, Mechanical](https://www.linkedin.com/jobs/view/4445504943/) — Gridware
+- 📍 **Location:** San Francisco Bay Area
+- 💰 **Salary:** $140,000.00/yr - $165,000.00/yr
+- 🕒 **Posted:** 2026-08-21
+
+### [Software Engineer](https://www.linkedin.com/jobs/view/4378981044/) — iSoftStone
 - 📍 **Location:** Palo Alto, CA
 - 🕒 **Posted:** 2026-08-21
 
-### [Java Software Engineer](https://www.linkedin.com/jobs/view/4440144878/) — Flexton Inc.
-- 📍 **Location:** Sunnyvale, CA
+### [DevOps Engineer](https://www.linkedin.com/jobs/view/4456271142/) — Value Innovation Labs
+- 📍 **Location:** Cupertino, CA
 - 🕒 **Posted:** 2026-08-21
 
-### [Agent Systems Engineer](https://www.linkedin.com/jobs/view/4454632909/) — adaption
-- 📍 **Location:** San Francisco, CA
+### [Software Engineer](https://www.linkedin.com/jobs/view/4447092448/) — Net2Source (N2S)
+- 📍 **Location:** Santa Clara, CA
 - 🕒 **Posted:** 2026-08-21
 
-### [AI Infrastructure Engineer](https://www.linkedin.com/jobs/view/4454635830/) — Maven Companies Inc.
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-08-21
-
-### [Platform Engineer, APIs and Security](https://www.linkedin.com/jobs/view/4454644788/) — adaption
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-08-21
-
-### [Research Engineer, Model Evaluations](https://www.linkedin.com/jobs/view/4437905316/) — Anthropic
-- 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-08-21
-
-### [Frontend Developer - React/Typescript](https://www.linkedin.com/jobs/view/4457370368/) — Radley James
+### [Associate, Machine Learning Engineer](https://www.linkedin.com/jobs/view/4428724284/) — Cantor Fitzgerald
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-08-21
 
-### [Data Platform Engineer](https://www.linkedin.com/jobs/view/4389538353/) — Tradeweb
+### [FTSE Software Engineering & Data Engineering Opportunities](https://www.linkedin.com/jobs/view/4437922789/) — LSEG
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-08-21
+
+### [AI/LLM ENGINEER](https://www.linkedin.com/jobs/view/4454640978/) — VeriiPro
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-08-21
