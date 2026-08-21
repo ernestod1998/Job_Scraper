@@ -1,92 +1,69 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-08-21 18:18 UTC*
+*Last updated: 2026-08-21 19:09 UTC*
 
-**21 new role(s)** since last run · 43 total in last 1h
+**16 new role(s)** since last run · 32 total in last 1h
 
-### [Machine Learning Engineer | Python | Pytorch | Distributed Training | Optimisation | GPU | Hybrid, San Jose, CA](https://www.linkedin.com/jobs/view/4456262495/) — Enigma
+### [Research Engineer - Foundation Models, Ads Integrity](https://www.linkedin.com/jobs/view/4456260664/) — TikTok
 - 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-08-21
 
-### [Software Engineer](https://www.linkedin.com/jobs/view/4457385000/) — Motion Recruitment
-- 📍 **Location:** San Mateo, CA
-- 💰 **Salary:** $60.00/hr - $65.00/hr
-- 🕒 **Posted:** 2026-08-21
-
-### [Machine Learning Engineer (Autonomy)](https://www.linkedin.com/jobs/view/4456268572/) — Mariana Minerals
-- 📍 **Location:** San Francisco Bay Area
-- 💰 **Salary:** $140,000.00/yr - $180,000.00/yr
-- 🕒 **Posted:** 2026-08-21
-
-### [Machine Learning Engineer, Speech LLM Training](https://www.linkedin.com/jobs/view/4456260598/) — Jobright.ai
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-08-21
-
-### [Data Scientist II](https://www.linkedin.com/jobs/view/4447273115/) — Robert Half
-- 📍 **Location:** San Ramon, CA
-- 🕒 **Posted:** 2026-08-21
-
-### [Data Scientist](https://www.linkedin.com/jobs/view/4401794091/) — Samba
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $150,000.00/yr - $185,000.00/yr
-- 🕒 **Posted:** 2026-08-21
-
-### [Software Engineer - AI Agent](https://www.linkedin.com/jobs/view/4456272399/) — Jobright.ai
-- 📍 **Location:** San Mateo County, CA
-- 🕒 **Posted:** 2026-08-21
-
-### [Software Developer, Experiment Controls](https://www.linkedin.com/jobs/view/4437316769/) — SLAC National Accelerator Laboratory
-- 📍 **Location:** Menlo Park, CA
-- 🕒 **Posted:** 2026-08-21
-
-### [Software Engineer, Mobile](https://www.linkedin.com/jobs/view/4411249088/) — Replit
-- 📍 **Location:** Foster City, CA
-- 💰 **Salary:** $130,000.00/yr - $300,000.00/yr
-- 🕒 **Posted:** 2026-08-21
-
-### [Full Stack Engineer (TypeScript, Next.js, Node)](https://www.linkedin.com/jobs/view/4457386064/) — Jecona
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-08-21
-
-### [Embedded Software Engineer](https://www.linkedin.com/jobs/view/4457372909/) — TEKsystems
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-08-21
-
-### [Gainsight Platform Engineer](https://www.linkedin.com/jobs/view/4457379029/) — TEKsystems
+### [Data Scientist - TikTok Integrity and Safety (San Jose)](https://www.linkedin.com/jobs/view/4456253712/) — TikTok
 - 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-08-21
 
-### [LLM Research Engineer IV](https://www.linkedin.com/jobs/view/4456262489/) — Cypress HCM
-- 📍 **Location:** Mountain View, CA
-- 🕒 **Posted:** 2026-08-21
-
-### [Software Engineer (New College Grad)](https://www.linkedin.com/jobs/view/4457362931/) — Hyve Solutions
-- 📍 **Location:** Fremont, CA
-- 🕒 **Posted:** 2026-08-21
-
-### [Cloud Engineer](https://www.linkedin.com/jobs/view/4457365852/) — Programming.com
+### [Data Scientist - Multimedia](https://www.linkedin.com/jobs/view/4456253815/) — TikTok
 - 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-08-21
 
-### [DevOps, SRE & Application Security Specialist](https://www.linkedin.com/jobs/view/4456251655/) — Specific Specialists
-- 📍 **Location:** San Francisco Bay Area
+### [Software Engineer II](https://www.linkedin.com/jobs/view/4428091527/) — Cadence
+- 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-08-21
 
-### [Controls and Protection Systems Engineer, SSRL](https://www.linkedin.com/jobs/view/4437327169/) — SLAC National Accelerator Laboratory
-- 📍 **Location:** Menlo Park, CA
+### [Cloud Engineer](https://www.linkedin.com/jobs/view/4454672351/) — Verex Engineering LLC
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-08-21
 
-### [Platform Engineer](https://www.linkedin.com/jobs/view/4457357928/) — Dario
+### [Site Reliability Engineer, Reliability Team - USDS](https://www.linkedin.com/jobs/view/4457395303/) — TikTok USDS Joint Venture
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-08-21
+
+### [DevOps Engineer](https://www.linkedin.com/jobs/view/4457378445/) — Programming.com
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-08-21
+
+### [Site Reliability Engineer, Lark - USDS](https://www.linkedin.com/jobs/view/4457397320/) — TikTok USDS Joint Venture
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-08-21
+
+### [Software Engineer II, Fullstack (App Experience)](https://www.linkedin.com/jobs/view/4456273829/) — Affirm
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-08-21
+
+### [Software Engineer II, Fullstack (App Experience)](https://www.linkedin.com/jobs/view/4456275777/) — Affirm
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-08-21
+
+### [Software Engineer II, Fullstack (App Experience)](https://www.linkedin.com/jobs/view/4456273825/) — Affirm
+- 📍 **Location:** Palo Alto, CA
+- 🕒 **Posted:** 2026-08-21
+
+### [Analytics Engineer](https://www.linkedin.com/jobs/view/4426889050/) — WeWork
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-08-21
 
-### [Software Engineer](https://www.linkedin.com/jobs/view/4456257579/) — Attention
+### [Software Engineer II, Fullstack (App Experience)](https://www.linkedin.com/jobs/view/4456267770/) — Affirm
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-08-21
 
-### [Platform Engineer (Automation & Reliability)](https://www.linkedin.com/jobs/view/4456262670/) — Software Guidance & Assistance, Inc. (SGA, Inc.)
+### [Software Engineer 3, Atlas Clusters Platform](https://www.linkedin.com/jobs/view/4457389217/) — MongoDB
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-08-21
 
-### [DevOps Engineer](https://www.linkedin.com/jobs/view/4446314112/) — Genesis10
+### [Android Engineer III](https://www.linkedin.com/jobs/view/4456253883/) — Hinge
 - 📍 **Location:** New York, NY
+- 💰 **Salary:** $150,000.00/yr - $180,000.00/yr
+- 🕒 **Posted:** 2026-08-21
+
+### [Salesforce Development Engineer & Systems Engineer](https://www.linkedin.com/jobs/view/4456421868/) — MUFG
+- 📍 **Location:** Jersey City, NJ
 - 🕒 **Posted:** 2026-08-21
