@@ -1,68 +1,64 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-08-21 00:18 UTC*
+*Last updated: 2026-08-21 01:18 UTC*
 
-**15 new role(s)** since last run · 29 total in last 1h
+**14 new role(s)** since last run · 26 total in last 1h
 
-### [ML and Agentic Systems Engineer](https://www.linkedin.com/jobs/view/4456051539/) — NVIDIA
-- 📍 **Location:** Santa Clara, CA
+### [Applied AI Research Engineer](https://www.linkedin.com/jobs/view/4435038495/) — Code Metal
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-08-20
 
-### [Research Engineer, Interactive World Models](https://www.linkedin.com/jobs/view/4456070344/) — NVIDIA
-- 📍 **Location:** Santa Clara, CA
+### [Software Engineer II](https://www.linkedin.com/jobs/view/4457044712/) — Bear Robotics
+- 📍 **Location:** Redwood City, CA
 - 🕒 **Posted:** 2026-08-20
 
-### [Software Engineer, Ads Tooling](https://www.linkedin.com/jobs/view/4457038257/) — TikTok USDS Joint Venture
+### [Agentic Software Engineer III](https://www.linkedin.com/jobs/view/4457029556/) — Deloitte
 - 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-08-20
 
-### [Compute Platform Engineer, License Scheduling](https://www.linkedin.com/jobs/view/4456057493/) — NVIDIA
-- 📍 **Location:** Santa Clara, CA
+### [Agentic Software Engineer III](https://www.linkedin.com/jobs/view/4457038427/) — Deloitte
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-08-20
 
-### [Machine Learning Engineer - Ads Core and Commerce Ads](https://www.linkedin.com/jobs/view/4457048053/) — TikTok USDS Joint Venture
-- 📍 **Location:** San Jose, CA
+### [Software Engineering Intern (2027 Start) - Winter](https://www.linkedin.com/jobs/view/4454155156/) — Databricks
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-08-20
 
-### [ML and Agentic Systems Engineer](https://www.linkedin.com/jobs/view/4457008999/) — Thomas To
-- 📍 **Location:** Santa Clara, CA
+### [Technology Development Program – Software Engineer Development Track (2026 Summer Interns Only)](https://www.linkedin.com/jobs/view/4456069538/) — GEICO
+- 📍 **Location:** Palo Alto, CA
 - 🕒 **Posted:** 2026-08-20
 
-### [Software Engineer - Agentic Code Review (Gitar)](https://www.linkedin.com/jobs/view/4457038104/) — Sonar
-- 📍 **Location:** San Mateo, CA
+### [GenAI Engineer](https://www.linkedin.com/jobs/view/4456063663/) — Proclinical Consulting
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-08-20
 
-### [Full Stack Engineer](https://www.linkedin.com/jobs/view/4457024903/) — Burtch Works
-- 📍 **Location:** Oakland, CA
-- 💰 **Salary:** $120,000.00/yr - $150,000.00/yr
+### [Site Reliability Engineer - Web Applications, AVP](https://www.linkedin.com/jobs/view/4457050498/) — MUFG
+- 📍 **Location:** Jersey City, NJ
 - 🕒 **Posted:** 2026-08-20
 
-### [Machine Learning Engineer, TikTok Brand Ads](https://www.linkedin.com/jobs/view/4456058462/) — TikTok
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-08-20
-
-### [System Software Engineer, Engineering Workflow Platform](https://www.linkedin.com/jobs/view/4457012937/) — Thomas To
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-08-20
-
-### [Software Engineer - AI Agent](https://www.linkedin.com/jobs/view/4456063491/) — Jobright.ai
-- 📍 **Location:** San Mateo County, CA
-- 🕒 **Posted:** 2026-08-20
-
-### [Software Engineer I](https://www.linkedin.com/jobs/view/4457046007/) — Robert Half
-- 📍 **Location:** San Ramon, CA
-- 🕒 **Posted:** 2026-08-20
-
-### [Machine Learning Engineer](https://www.linkedin.com/jobs/view/4454149778/) — Tech Consulting
-- 📍 **Location:** Fremont, CA
-- 💰 **Salary:** $30.00/yr - $38.00/yr
-- 🕒 **Posted:** 2026-08-20
-
-### [Software Engineer, Fleet Infrastructure](https://www.linkedin.com/jobs/view/4456069145/) — OpenAI
+### [Software Engineer, Ads](https://www.linkedin.com/jobs/view/4456060726/) — Whatnot
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $230,000.00/yr - $490,000.00/yr
+- 💰 **Salary:** $245,000.00/yr - $290,000.00/yr
 - 🕒 **Posted:** 2026-08-20
 
-### [Software Engineer, Fleet Management](https://www.linkedin.com/jobs/view/4456057242/) — OpenAI
+### [Data Engineer](https://www.linkedin.com/jobs/view/4450377177/) — Daymark Health
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $230,000.00/yr - $490,000.00/yr
+- 🕒 **Posted:** 2026-08-20
+
+### [Full Stack Engineer](https://www.linkedin.com/jobs/view/4456071673/) — Airbase
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $125,000.00/yr - $225,000.00/yr
+- 🕒 **Posted:** 2026-08-20
+
+### [Security Engineer (New York)](https://www.linkedin.com/jobs/view/4457037585/) — Check Point Software
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-08-20
+
+### [PRODUCT OWNER- DATA PLATFORMS](https://www.linkedin.com/jobs/view/4456063642/) — LevelUP HCS
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $170,000.00/yr - $200,000.00/yr
+- 🕒 **Posted:** 2026-08-20
+
+### [Software Engineer - YAML Experience](https://www.linkedin.com/jobs/view/4457045773/) — Alignerr
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $40.00/hr - $55.00/hr
 - 🕒 **Posted:** 2026-08-20
