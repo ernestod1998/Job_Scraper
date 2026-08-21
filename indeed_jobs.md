@@ -1,28 +1,28 @@
 # 🟦 Indeed — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-08-21 22:55 UTC*
+*Last updated: 2026-08-21 23:53 UTC*
 
-**5 new role(s)** since last run · 77 total in last 24h
+**5 new role(s)** since last run · 81 total in last 24h
 
-### [R&D Ops AI/ML Data Scientist](https://www.indeed.com/viewjob?jk=b807661e3363fdee) — Siemens Healthineers
-- 📍 **Location:** Palo Alto, CA, US
-- 💰 **Salary:** $118k–$162k/yr
+### [Software Engineer](https://www.indeed.com/viewjob?jk=df989563423adf7e) — Applied Materials
+- 📍 **Location:** Santa Clara, CA, US
+- 💰 **Salary:** $124k–$171k/yr
 - 🕒 **Posted:** 2026-08-21
 
-### [Java Backend Developer](https://www.indeed.com/viewjob?jk=203f84c90b9a2e85) — Cognizant
-- 📍 **Location:** Sunnyvale, CA, US
-- 🕒 **Posted:** 2026-08-21
-
-### [(USA) Software Engineer III](https://www.indeed.com/viewjob?jk=910fa40ae8dbeac6) — Walmart
-- 📍 **Location:** Sunnyvale, CA, US
-- 💰 **Salary:** $117k–$234k/yr
-- 🕒 **Posted:** 2026-08-21
-
-### [Security Engineer, Corporate Security](https://www.indeed.com/viewjob?jk=c6e87845461686fe) — Anthropic
-- 📍 **Location:** San Francisco, CA, US
-- 💰 **Salary:** $320k–$405k/yr
+### [Software Engineer, Ads Tooling](https://www.indeed.com/viewjob?jk=7066c23048c077d0) — TikTok USDS JV
+- 📍 **Location:** San Jose, CA, US
+- 💰 **Salary:** $137k–$360k/yr
 - 🕒 **Posted:** 2026-08-20
 
-### [Integration Software Engineer](https://www.indeed.com/viewjob?jk=959c5d64f1835968) — Blue Orb LP
-- 📍 **Location:** New York, NY, US
-- 💰 **Salary:** $15–$45/hr
+### [Robotics Engineer](https://www.indeed.com/viewjob?jk=f636c19e03594f76) — Wayve
+- 📍 **Location:** Sunnyvale, CA, US
+- 🕒 **Posted:** 2026-08-21
+
+### [Software Engineer, Ads](https://www.indeed.com/viewjob?jk=8b4d4e57f0a22c55) — TikTok USDS JV
+- 📍 **Location:** San Jose, CA, US
+- 💰 **Salary:** $137k–$360k/yr
+- 🕒 **Posted:** 2026-08-21
+
+### [Cloud Hardware Dev Engineer (AWS Generative AI & ML Servers), Accelerator Servers](https://www.indeed.com/viewjob?jk=4e8a05ceda480cfd) — Amazon Web Services
+- 📍 **Location:** Cupertino, CA, US
+- 💰 **Salary:** $110k–$185k/yr
 - 🕒 **Posted:** 2026-08-21
