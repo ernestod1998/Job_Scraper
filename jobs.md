@@ -1,12 +1,11 @@
 # 🧬 Biotech LinkedIn — MLE / DS Roles
-*Last updated: 2026-08-20 04:05 UTC*
+*Last updated: 2026-08-21 04:07 UTC*
 
-**2 new role(s)** since last run · 77 total in last 24h
+**2 new role(s)** since last run · 79 total in last 24h
 
-### [Biostatistician II](https://jobs.lever.co/kariusdx/f1b19dd4-0b59-4dc8-a61e-4a8ea1a5f344) — Karius
-- 📍 **Location:** Redwood City, CA (Hybrid) or Remote (USA)
-- 🕒 **Posted:** 2026-08-19
-
-### [Data Scientist](https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Cambridge-Massachusetts/Data-Scientist_R19572) — Moderna
-- 📍 **Location:** Cambridge, Massachusetts
+### [CD&A Data Scientist, Obesity - Associate](https://amgen.wd1.myworkdayjobs.com/careers/job/US---California---Thousand-Oaks/CD-A-Data-Scientist--Obesity---Associate_R-252126) — Amgen
+- 📍 **Location:** US - California - Thousand Oaks
 - 🕒 **Posted:** Posted Today
+
+### [Software Engineer, Full StackBurlingame, CA·Full time·On-site](https://jobs.ashbyhq.com/emberai/c70fc3e7-e745-4a17-8338-9b4dad829cab) — Ember
+- 📍 **Location:** Burlingame, CA
