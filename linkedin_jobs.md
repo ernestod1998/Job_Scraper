@@ -1,11 +1,19 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
 *Last updated: 2026-08-21 22:18 UTC*
 
+<<<<<<< HEAD
 **18 new role(s)** since last run · 25 total in last 1h
 
 ### [Machine Learning Engineer, Inference & Serving (Speech LLM)](https://www.linkedin.com/jobs/view/4456288560/) — Jobright.ai
+=======
+**8 new role(s)** · 46 total after policy cleanup
+
+### [Machine Learning Infrastructure Engineer](https://www.linkedin.com/jobs/view/4456297224/) — David Joseph & Company
 - 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-08-21
+
+### [Full Stack Engineer, Support Experience (Greater China Support)](https://www.linkedin.com/jobs/view/4454549329/) — Stripe
+>>>>>>> 278a972d (feat: 14-day posting-age filter + retire data/systems-eng lanes)
+- 📍 **Location:** San Francisco, CA
 
 ### [Software Engineer, SystemML - Scaling / Performance](https://www.linkedin.com/jobs/view/4454677010/) — Meta
 - 📍 **Location:** Menlo Park, CA
@@ -23,7 +31,6 @@
 
 ### [Software Engineer, AV Data Collection](https://www.linkedin.com/jobs/view/4457525464/) — General Motors
 - 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-08-21
 
 ### [Software Engineer, Databases (Technical Leadership)](https://www.linkedin.com/jobs/view/4454661999/) — Meta
 - 📍 **Location:** Menlo Park, CA
@@ -41,8 +48,8 @@
 
 ### [Software Engineer](https://www.linkedin.com/jobs/view/4457509739/) — Cisco
 - 📍 **Location:** Milpitas, CA
-- 🕒 **Posted:** 2026-08-21
 
+<<<<<<< HEAD
 ### [Information Security Engineer 5](https://www.linkedin.com/jobs/view/4456293424/) — Lam Research
 - 📍 **Location:** Fremont, CA
 - 🕒 **Posted:** 2026-08-21
@@ -50,6 +57,13 @@
 ### [Pyspark data engineer/Databricks & Power BI Consultant](https://www.linkedin.com/jobs/view/4456291544/) — Maxonic Inc.
 - 📍 **Location:** Emeryville, CA
 - 🕒 **Posted:** 2026-08-21
+=======
+### [Site Reliability Engineer](https://www.linkedin.com/jobs/view/4456600410/) — AsceticVoyage
+- 📍 **Location:** San Francisco, CA
+
+### [Java Backend Developer](https://www.linkedin.com/jobs/view/4456297305/) — Cognizant
+- 📍 **Location:** Sunnyvale, CA
+>>>>>>> 278a972d (feat: 14-day posting-age filter + retire data/systems-eng lanes)
 
 ### [(USA) Software Engineer III](https://www.linkedin.com/jobs/view/4454679097/) — Walmart
 - 📍 **Location:** Hoboken, NJ
@@ -58,7 +72,6 @@
 
 ### [Software Engineer, Full Stack - AI (New York)](https://www.linkedin.com/jobs/view/4456291474/) — Fitch Ratings
 - 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-08-21
 
 ### [Data Engineer](https://www.linkedin.com/jobs/view/4454678061/) — Solomon Page
 - 📍 **Location:** New York, NY
@@ -81,4 +94,3 @@
 
 ### [Application Security Engineer](https://www.linkedin.com/jobs/view/4457333650/) — Saicon
 - 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-08-21

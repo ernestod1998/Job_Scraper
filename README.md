@@ -35,15 +35,17 @@ The generic `ai engineer` / `ai/ml engineer` lane is deliberately paused; the re
 
 **Software engineering:** `software engineer`, `software developer`, `backend engineer`, `back-end engineer`, `backend developer`, `frontend engineer`, `front-end engineer`, `frontend developer`, `full stack engineer`, `full-stack engineer`, `fullstack engineer`, `mobile engineer`, `ios engineer`, `android engineer`
 
-**Platform / infra / ops:** `platform engineer`, `infrastructure engineer`, `infra engineer`, `systems engineer`, `distributed systems`, `cloud engineer`, `devops engineer`, `devops`, `site reliability engineer`, `security engineer`
+**Platform / infra / ops:** `platform engineer`, `infrastructure engineer`, `infra engineer`, `cloud engineer`, `devops engineer`, `devops`, `site reliability engineer`, `security engineer` — the `systems engineer` / `distributed systems` lane was paused 2026-08-19 (no systems-eng experience; commented out in `KEYWORDS`)
 
-**Data engineering:** `data engineer`, `data engineering`, `analytics engineer`, `data platform`, `data infrastructure`, `etl engineer`, `etl developer`
+**Data engineering:** paused 2026-08-19 (no data-eng experience) — `data engineer`, `data engineering`, `analytics engineer`, `data platform`, `data infrastructure`, `etl engineer`, `etl developer` are commented out in `KEYWORDS` and `LINKEDIN_SEARCH_TERMS`; uncomment both places to resume
 
 **Robotics / perception:** `robotics engineer`, `perception engineer`
 
 **Computational / informatics (biotech):** `computational scientist`, `computational biologist`, `bioinformatics scientist`, `bioinformatics engineer`, `cheminformatics`, `biostatistician`, `bioinformatician`, `bioinformatics analyst`, `genomics scientist`, `research software engineer`, `scientific software engineer`, `associate computational biologist`, `research associate, computational`, `research scientist, ai`
 
 **Excluded seniority:** titles containing word-bounded `senior`/`sr`, `staff`, `principal`, `lead`, `manager`, `distinguished`, `founding`, `director`, `vice president`, `vp`/`svp`, `chief`, or `head of` are dropped everywhere (early-to-mid-level IC focus). The description's years-of-experience language is not inspected. Single-word role keywords are word-bounded, so `mle` cannot match inside another word.
+
+**Excluded stale postings:** every persisted source drops rows provably older than `MAX_POSTING_AGE_DAYS = 14` (the `"stale"` reason in `_filter_job_observations`; added 2026-08-19 after the ATS registry — which had no date filter — surfaced reqs from 2024). Workday's `"Posted N Days Ago"` / `"Posted 30+ Days Ago"` strings and Lever's epoch-ms `createdAt` are now parseable for this check; rows whose age can't be proven (missing/unparseable dates) are kept.
 
 **Excluded companies:** `EXCLUDED_COMPANIES` in `scrape_jobs.py` is a blocklist for recruiting-platform/aggregator accounts that repost roles which mostly don't exist (e.g. "Jack & Jill"). Matched case-insensitively against the parsed company name in the LinkedIn parser, the Indeed scraper, at the top of `save_jobs_output()` (so every source — including blocked-run fallbacks and future scrapers — is filtered before any digest is written), and as a backstop before anything enters `all_jobs.json`. Add a line there to block the next one.
 

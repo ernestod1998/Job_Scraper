@@ -27,7 +27,7 @@ import re
 import time
 import urllib.parse
 from copy import deepcopy
-from datetime import date, timedelta
+from datetime import date, datetime, timedelta, timezone
 from pathlib import Path
 from typing import Callable, Iterable, Iterator
 from urllib.error import HTTPError, URLError
@@ -623,11 +623,23 @@ def _job_from_row(board: dict, row: dict) -> dict | None:
         }
     if ats == "lever":
         categories = row.get("categories") or {}
+        # createdAt is epoch MILLISECONDS — convert at capture so stored rows
+        # are uniform ISO like every other ATS (the curated Lever probe in
+        # scrape_jobs.py already does this; raw-int rows committed before
+        # 2026-08-19 are handled by _parse_posted_at's epoch heuristic).
+        created = row.get("createdAt")
+        try:
+            date_posted = (
+                datetime.fromtimestamp(int(created) / 1000, tz=timezone.utc).isoformat()
+                if created else ""
+            )
+        except (TypeError, ValueError, OverflowError, OSError):
+            date_posted = ""
         return {
             "company": board["name"], "title": row.get("text", ""),
             "location": categories.get("location", ""),
             "url": row.get("hostedUrl") or f"https://jobs.lever.co/{board['slug']}",
-            "date_posted": row.get("createdAt") or "", "ats": "Lever",
+            "date_posted": date_posted, "ats": "Lever",
         }
     if ats == "ashby":
         return {
@@ -663,6 +675,7 @@ def scrape_registry(
     *,
     role_filter: Callable[[str], bool],
     location_filter: Callable[[str, str], bool] | None = None,
+    date_filter: Callable[[str], bool] | None = None,
     workday_fetcher: Callable[[dict], list[dict] | None] | None = None,
     shard: int | None = None,
     board_limit: int = 200,
@@ -673,6 +686,8 @@ def scrape_registry(
     ``role_filter`` is required so the caller supplies the repository's
     existing ``is_mle_role`` function instead of this module inventing a new
     role universe. ``location_filter`` receives ``(location, feed)``.
+    ``date_filter`` receives the row's raw ``date_posted`` string and returns
+    False to drop it (the caller owns the max-age policy, same as roles).
 
     The caller should pass the repository's existing
     ``probe_curated_workday`` as ``workday_fetcher``. That adapter retains all
@@ -746,6 +761,8 @@ def scrape_registry(
                 continue
             feed = board.get("feed") if board.get("feed") in {"general", "biotech"} else "general"
             if location_filter and not location_filter(str(job.get("location") or ""), feed):
+                continue
+            if date_filter and not date_filter(str(job.get("date_posted") or "")):
                 continue
             job["feeds"] = [feed]
             # The integration layer consumes this flag when deciding which

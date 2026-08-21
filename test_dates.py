@@ -112,6 +112,69 @@ class FreshnessFilterInteraction(unittest.TestCase):
         self.assertFalse(sj.is_recent_posting({"date_posted": "2026-07-20"}, now=self.NOW))
 
 
+class MaxAgePolicy(unittest.TestCase):
+    """
+    The 14-day ceiling added 2026-08-19: the ATS registry shipped with no
+    date filter and surfaced 2024 reqs. These tests pin the two parser
+    extensions that make the ceiling enforceable (Workday day-relative
+    strings; Lever epoch-ms) and the keep-when-unprovable rule.
+    """
+
+    NOW = datetime(2026, 8, 19, 12, 0, tzinfo=timezone.utc)
+
+    def stale(self, value):
+        return sj.is_stale_posting(value, now=self.NOW)
+
+    def test_workday_day_relative_strings_parse(self):
+        self.assertEqual(
+            sj._parse_posted_at("Posted 16 Days Ago", now=self.NOW),
+            self.NOW - timedelta(days=16),
+        )
+
+    def test_workday_thirty_plus_floor_is_read_as_thirty(self):
+        self.assertEqual(
+            sj._parse_posted_at("Posted 30+ Days Ago", now=self.NOW),
+            self.NOW - timedelta(days=30),
+        )
+
+    def test_weeks_and_months_parse(self):
+        self.assertEqual(
+            sj._parse_posted_at("Posted 2 Weeks Ago", now=self.NOW),
+            self.NOW - timedelta(weeks=2),
+        )
+        self.assertEqual(
+            sj._parse_posted_at("Posted 3 Months Ago", now=self.NOW),
+            self.NOW - timedelta(days=90),
+        )
+
+    def test_lever_epoch_milliseconds_parse(self):
+        expected = self.NOW - timedelta(days=2)
+        ms = int(expected.timestamp() * 1000)
+        self.assertEqual(sj._parse_posted_at(str(ms), now=self.NOW), expected)
+        # Registry rows committed before 2026-08-19 carry the raw int.
+        self.assertEqual(sj._parse_posted_at(ms, now=self.NOW), expected)
+
+    def test_small_integers_are_not_dates(self):
+        self.assertIsNone(sj._parse_posted_at("12345", now=self.NOW))
+
+    def test_stale_boundary(self):
+        self.assertFalse(self.stale("Posted 13 Days Ago"))
+        self.assertTrue(self.stale("Posted 15 Days Ago"))
+        self.assertTrue(self.stale("Posted 30+ Days Ago"))
+        self.assertTrue(self.stale("2024-09-04"))
+
+    def test_unprovable_staleness_is_kept(self):
+        for value in ("", None, "next Tuesday"):
+            self.assertFalse(self.stale(value), repr(value))
+
+    def test_minutes_and_hours_still_parse(self):
+        # The regex extension must not disturb the original relative branch.
+        self.assertEqual(
+            sj._parse_posted_at("Posted 3 hours ago", now=self.NOW),
+            self.NOW - timedelta(hours=3),
+        )
+
+
 class ChokePoint(unittest.TestCase):
     """
     The important one. Every saver routes through save_jobs_output(), so this

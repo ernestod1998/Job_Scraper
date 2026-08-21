@@ -61,16 +61,20 @@ KEYWORDS = [
     # ---- Platform / infra / ops ----
     "platform engineer",
     "infrastructure engineer", "infra engineer",
-    "systems engineer", "distributed systems",
+    # Paused 2026-08-19 — no data-eng/systems-eng experience; these lanes
+    # surfaced roles Ernesto can't apply to. Uncomment (here + the matching
+    # LINKEDIN_SEARCH_TERMS entries) to resume.
+    # "systems engineer", "distributed systems",
     "cloud engineer",
     "devops engineer", "devops",
     "site reliability engineer",
     "security engineer",
     # ---- Data engineering ----
-    "data engineer", "data engineering",
-    "analytics engineer",
-    "data platform", "data infrastructure",
-    "etl engineer", "etl developer",
+    # Paused 2026-08-19 — same rationale as the systems-engineer lane above.
+    # "data engineer", "data engineering",
+    # "analytics engineer",
+    # "data platform", "data infrastructure",
+    # "etl engineer", "etl developer",
     # ---- Robotics / perception ----
     "robotics engineer", "perception engineer",
     # ---- Computational / informatics (biotech) ----
@@ -107,6 +111,13 @@ REQUEST_DELAY = 0.3
 
 # Biotech digest should only contain reliably fresh roles.
 FRESH_JOB_LOOKBACK = timedelta(hours=24)
+
+# Hard ceiling on posting age for EVERY persisted source (2026-08-19): the
+# ATS registry shipped with no date filter at all and surfaced reqs from
+# 2024 (one from 2019). Enforced as the "stale" reason in
+# _filter_job_observations; unparseable/missing dates are KEPT — staleness
+# must be proven, and ~23 rows legitimately have no date.
+MAX_POSTING_AGE_DAYS = 14
 
 # Senior-track and executive titles are excluded everywhere: the candidate
 # targets early-to-mid IC roles. Covers IC senior tracks (staff/principal/
@@ -433,7 +444,12 @@ def _parse_posted_at(value: str, *, now: datetime | None = None) -> datetime | N
     else:
         now = now.astimezone(timezone.utc)
 
-    raw = (value or "").strip()
+    # Legacy Lever registry rows carry createdAt as a raw epoch-ms int
+    # (ats_registry captured it unconverted before 2026-08-19).
+    if isinstance(value, (int, float)) and not isinstance(value, bool):
+        raw = str(int(value))
+    else:
+        raw = (value or "").strip()
     if not raw:
         return None
 
@@ -444,15 +460,33 @@ def _parse_posted_at(value: str, *, now: datetime | None = None) -> datetime | N
         return now
 
     relative_m = re.search(
-        r'(\d+)\s*(minutes?|mins?|hours?|hrs?)\b(?:\s*ago)?',
+        r'(\d+)\s*\+?\s*(minutes?|mins?|hours?|hrs?|days?|weeks?|months?)\b(?:\s*ago)?',
         text,
     )
     if relative_m:
+        # Workday emits "Posted 16 Days Ago" and the floor form
+        # "Posted 30+ Days Ago" — treat "N+" as exactly N (a lower bound,
+        # which is the conservative reading for a max-age filter).
         amount = int(relative_m.group(1))
         unit = relative_m.group(2)
         if unit.startswith(("minute", "min")):
             return now - timedelta(minutes=amount)
-        return now - timedelta(hours=amount)
+        if unit.startswith(("hour", "hr")):
+            return now - timedelta(hours=amount)
+        if unit.startswith("day"):
+            return now - timedelta(days=amount)
+        if unit.startswith("week"):
+            return now - timedelta(weeks=amount)
+        return now - timedelta(days=30 * amount)  # months: calendar-ish approximation
+
+    if re.fullmatch(r'\d+', text):
+        ts = int(text)
+        if ts > 100_000_000_000:  # epoch milliseconds (Lever createdAt)
+            try:
+                return datetime.fromtimestamp(ts / 1000, tz=timezone.utc)
+            except (ValueError, OverflowError, OSError):
+                return None
+        return None
 
     iso_value = raw.replace("Z", "+00:00")
     try:
@@ -488,6 +522,25 @@ def is_recent_posting(job: dict, *, now: datetime | None = None) -> bool:
     else:
         now = now.astimezone(timezone.utc)
     return timedelta(0) <= now - posted_at <= FRESH_JOB_LOOKBACK
+
+
+def is_stale_posting(date_value, *, now: datetime | None = None) -> bool:
+    """True when a posting is provably older than MAX_POSTING_AGE_DAYS.
+
+    Unparseable or missing dates return False (kept): the registry's job of
+    proving freshness was abandoned long ago (see is_recent_posting's unused
+    24h window), so this filter only drops rows whose age it can prove.
+    """
+    posted_at = _parse_posted_at(date_value, now=now)
+    if posted_at is None:
+        return False
+    if now is None:
+        now = datetime.now(timezone.utc)
+    elif now.tzinfo is None:
+        now = now.replace(tzinfo=timezone.utc)
+    else:
+        now = now.astimezone(timezone.utc)
+    return (now - posted_at) > timedelta(days=MAX_POSTING_AGE_DAYS)
 
 
 # ---------------------------------------------------------------------------
@@ -1037,9 +1090,10 @@ LINKEDIN_SEARCH_TERMS = [
     "site reliability engineer",
     "infrastructure engineer",
     "security engineer",
-    # Data engineering
-    "data engineer",
-    "analytics engineer",
+    # Data engineering — paused 2026-08-19 with the matching KEYWORDS lanes
+    # (no data-eng experience); uncomment both places to resume.
+    # "data engineer",
+    # "analytics engineer",
     # Biotech / informatics
     "computational biologist",
     "bioinformatics",
@@ -1554,7 +1608,7 @@ def _job_identity(url: str) -> str:
     return url.split("?")[0].rstrip("/")
 
 
-FILTER_STAT_KEYS = ("company", "seniority", "role", "location")
+FILTER_STAT_KEYS = ("company", "seniority", "role", "location", "stale")
 
 
 def _observation_feed(job: dict, default_feed: str) -> str:
@@ -1594,6 +1648,11 @@ def _filter_job_observations(jobs: list[dict], *, default_feed: str):
             location_ok = is_target_location(location) if feed == "biotech" else is_watch_location(location)
             if not location_ok:
                 reason = "location"
+            elif is_stale_posting(job.get("date_posted", "")):
+                # Runs before _normalize_dates, so is_stale_posting sees raw
+                # source values (ISO, epoch-ms, "Posted N Days Ago") — all of
+                # which _parse_posted_at handles.
+                reason = "stale"
         if reason:
             stats[reason] += 1
             rejected.append({
@@ -2439,6 +2498,7 @@ def scrape_registry_recent() -> dict:
             is_target_location(location) if feed == "biotech"
             else is_watch_location(location)
         ),
+        date_filter=lambda date_posted: not is_stale_posting(date_posted),
         workday_fetcher=bounded_workday_fetch,
     )
     ats_registry.save_registry(registry)

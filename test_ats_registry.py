@@ -203,6 +203,25 @@ class ScrapeTests(unittest.TestCase):
         self.assertTrue(board["baseline_complete"])
         self.assertEqual(board["promoted_until"], "2026-11-03")
 
+    def test_date_filter_drops_stale_rows(self):
+        data = registry.empty_registry()
+        registry.add_candidate(data, name="Acme", ats="greenhouse", locator="Acme", source="test")
+        board = data["boards"]["greenhouse:acme"]
+        board["status"] = "active"
+        response = {"jobs": [
+            {"title": "ML Engineer", "location": {"name": "Remote"},
+             "absolute_url": "https://example/new", "updated_at": "2026-08-05"},
+            {"title": "ML Engineer (old req)", "location": {"name": "Remote"},
+             "absolute_url": "https://example/old", "updated_at": "2024-09-04"},
+        ]}
+        client = FakeClient({registry._endpoint(board): response})
+        result = registry.scrape_registry(
+            data, client, role_filter=lambda _title: True,
+            date_filter=lambda date_posted: not date_posted.startswith("2024"),
+            shard=registry.stable_shard("greenhouse:acme"), today=date(2026, 8, 5),
+        )
+        self.assertEqual([j["url"] for j in result["jobs"]], ["https://example/new"])
+
     def test_second_run_allows_notifications(self):
         data = registry.empty_registry()
         registry.add_candidate(data, name="Acme", ats="lever", locator="Acme", source="test")

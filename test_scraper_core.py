@@ -6,16 +6,24 @@ import os
 import re
 import tempfile
 import unittest
+from datetime import datetime, timedelta, timezone
 from unittest.mock import patch
 
 import scrape_jobs as sj
+
+# A frozen fixture date becomes provably stale once real time passes it by
+# MAX_POSTING_AGE_DAYS and the choke point starts rejecting every fixture
+# row — so the default is always "yesterday".
+FRESH_FIXTURE_DATE = (
+    datetime.now(timezone.utc) - timedelta(days=1)
+).strftime("%Y-%m-%dT%H:%M:%SZ")
 
 
 def role(url="https://example.com/job/1", **overrides):
     job = {
         "company": "Acme", "title": "Machine Learning Engineer",
         "location": "San Francisco, CA", "url": url,
-        "date_posted": "2026-08-05", "ats": "Test",
+        "date_posted": FRESH_FIXTURE_DATE, "ats": "Test",
     }
     job.update(overrides)
     return job
@@ -68,14 +76,35 @@ class RoleAndLocationPolicy(unittest.TestCase):
             role("https://x/senior", title="Senior Machine Learning Engineer"),
             role("https://x/far", location="Boston, MA"),
             role("https://x/company", company="Jack & Jill"),
+            role("https://x/old", date_posted="2024-09-04"),
         ]
         kept, rejected, stats = sj._filter_job_observations(rows, default_feed="general")
         self.assertEqual([j["url"] for j in kept], ["https://x/ok"])
         self.assertEqual(kept[0]["feeds"], ["general"])
-        self.assertEqual(stats, {"company": 1, "seniority": 1, "role": 0, "location": 1})
-        self.assertEqual({r["reason"] for r in rejected}, {"company", "seniority", "location"})
+        self.assertEqual(stats, {"company": 1, "seniority": 1, "role": 0, "location": 1, "stale": 1})
+        self.assertEqual({r["reason"] for r in rejected}, {"company", "seniority", "location", "stale"})
         bio, _, _ = sj._filter_job_observations([rows[2]], default_feed="biotech")
         self.assertEqual(bio[0]["feeds"], ["biotech"])
+
+    def test_stale_policy_at_the_choke_point(self):
+        now = datetime.now(timezone.utc)
+
+        def days_ago(n):
+            return (now - timedelta(days=n)).strftime("%Y-%m-%dT%H:%M:%SZ")
+
+        rows = [
+            role("https://x/fresh", date_posted=days_ago(13)),
+            role("https://x/stale", date_posted=days_ago(15)),
+            role("https://x/workday-old", date_posted="Posted 30+ Days Ago"),
+            role("https://x/workday-fresh", date_posted="Posted 2 Days Ago"),
+            role("https://x/undated", date_posted=""),
+        ]
+        kept, _, stats = sj._filter_job_observations(rows, default_feed="general")
+        self.assertEqual(
+            [j["url"] for j in kept],
+            ["https://x/fresh", "https://x/workday-fresh", "https://x/undated"],
+        )
+        self.assertEqual(stats["stale"], 2)
 
 
 class MasterPolicy(unittest.TestCase):
