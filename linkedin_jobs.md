@@ -1,79 +1,80 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-08-22 15:18 UTC*
+*Last updated: 2026-08-22 16:18 UTC*
 
-**18 new role(s)** since last run · 18 total in last 1h
+**17 new role(s)** since last run · 34 total in last 1h
 
-### [System Software Engineer, Distributed Systems](https://www.linkedin.com/jobs/view/4395484268/) — NVIDIA
-- 📍 **Location:** Santa Clara, CA
+### [Machine Learning Platform Engineer](https://www.linkedin.com/jobs/view/4437578948/) — Whatnot
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $245,000.00/yr - $345,000.00/yr
 - 🕒 **Posted:** 2026-08-22
 
-### [System Software Engineer - GPU and SOC](https://www.linkedin.com/jobs/view/4447412257/) — NVIDIA
-- 📍 **Location:** Santa Clara, CA
+### [LLM Platform Engineer](https://www.linkedin.com/jobs/view/4437900105/) — Whatnot
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $245,000.00/yr - $345,000.00/yr
 - 🕒 **Posted:** 2026-08-22
 
-### [Data Scientist Intern](https://www.linkedin.com/jobs/view/4456651482/) — Jobright.ai
-- 📍 **Location:** San Francisco Bay Area
+### [Software Engineer, SystemML - AI Networking](https://www.linkedin.com/jobs/view/4455037839/) — Meta
+- 📍 **Location:** Menlo Park, CA
+- 💰 **Salary:** $154,003.00/yr - $217,000.00/yr
 - 🕒 **Posted:** 2026-08-22
 
-### [Software Engineer, Communications](https://www.linkedin.com/jobs/view/4447415086/) — Roblox
-- 📍 **Location:** San Mateo, CA
-- 🕒 **Posted:** 2026-08-22
-
-### [Applied Data Science- Special Session Lecturer Pool](https://www.linkedin.com/jobs/view/4158331857/) — San José State University
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-08-22
-
-### [System Software Engineer, Engineering Workflow Platform](https://www.linkedin.com/jobs/view/4417504872/) — NVIDIA
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-08-22
-
-### [Backend Engineer, Developer & End-user Experience Platform](https://www.linkedin.com/jobs/view/4454547320/) — Stripe
+### [Research Engineer, Performance RL (Reinforcement Learning)](https://www.linkedin.com/jobs/view/4388955858/) — Anthropic
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-08-22
 
-### [NetApp Emerging Talent - Software Engineer (Systems)](https://www.linkedin.com/jobs/view/4455043752/) — NetApp
-- 📍 **Location:** San Jose, CA
+### [Partner Engineer, Generative AI](https://www.linkedin.com/jobs/view/4455025919/) — Meta
+- 📍 **Location:** Menlo Park, CA
+- 💰 **Salary:** $149,000.00/yr - $210,000.00/yr
 - 🕒 **Posted:** 2026-08-22
 
-### [Platform Security Engineer, OpenBMC](https://www.linkedin.com/jobs/view/4429393817/) — Anthropic
+### [Research Engineer, Model Evaluations](https://www.linkedin.com/jobs/view/4437596983/) — Anthropic
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-08-22
 
-### [Product Security Engineer (PSIRT - Product Security Incident Response Team)](https://www.linkedin.com/jobs/view/4411236499/) — Replit
-- 📍 **Location:** Foster City, CA
+### [Software Engineer, Adoption](https://www.linkedin.com/jobs/view/4429663086/) — Cohere
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-08-22
 
-### [Full-Stack Engineer Intern](https://www.linkedin.com/jobs/view/4456666099/) — Jobright.ai
-- 📍 **Location:** San Francisco Bay Area
+### [Backend Software Engineer Intern](https://www.linkedin.com/jobs/view/4456672239/) — MetAntz
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-08-22
 
-### [Research Engineer, Model Evaluations](https://www.linkedin.com/jobs/view/4437902496/) — Anthropic
+### [Machine Learning Engineer, Inference & Serving (Speech LLM)](https://www.linkedin.com/jobs/view/4456658337/) — Jobright.ai
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-08-22
+
+### [Software Engineer - AI Agent](https://www.linkedin.com/jobs/view/4456656321/) — Jobright.ai
+- 📍 **Location:** San Mateo County, CA
+- 🕒 **Posted:** 2026-08-22
+
+### [Software Engineer I, Commerce Engineering](https://www.linkedin.com/jobs/view/4390703326/) — Twitch
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-08-22
+
+### [Software Engineer- Cybersecurity and Cryptography](https://www.linkedin.com/jobs/view/4399209316/) — Xona
+- 📍 **Location:** Burlingame, CA
+- 🕒 **Posted:** 2026-08-22
+
+### [LLM Platform Engineer](https://www.linkedin.com/jobs/view/4437598332/) — Whatnot
 - 📍 **Location:** New York, NY
+- 💰 **Salary:** $245,000.00/yr - $345,000.00/yr
 - 🕒 **Posted:** 2026-08-22
 
-### [Software Engineer, Front-End](https://www.linkedin.com/jobs/view/4430414140/) — Superhuman
+### [Security Engineer Investigator, Integrity Investigations, Intelligence, and Events](https://www.linkedin.com/jobs/view/4455042785/) — Meta
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $163,500.00/yr - $284,000.00/yr
+- 💰 **Salary:** $184,000.00/yr - $257,000.00/yr
 - 🕒 **Posted:** 2026-08-22
 
-### [Full-Stack Java/Python React Software Engineer III- Trading applications](https://www.linkedin.com/jobs/view/4457836005/) — JPMorganChase
-- 📍 **Location:** Jersey City, NJ
-- 💰 **Salary:** $137,750.00/yr - $185,000.00/yr
-- 🕒 **Posted:** 2026-08-22
-
-### [Software Engineer 3, Content Platforms](https://www.linkedin.com/jobs/view/4447189010/) — Condé Nast
+### [Machine Learning Platform Engineer](https://www.linkedin.com/jobs/view/4437900103/) — Whatnot
 - 📍 **Location:** New York, NY
+- 💰 **Salary:** $245,000.00/yr - $345,000.00/yr
 - 🕒 **Posted:** 2026-08-22
 
-### [Security Engineer, Detection & Response](https://www.linkedin.com/jobs/view/4322320245/) — Anthropic
+### [Machine Learning Infrastructure Engineer](https://www.linkedin.com/jobs/view/4437590591/) — Whatnot
 - 📍 **Location:** New York, NY
+- 💰 **Salary:** $200,000.00/yr - $345,000.00/yr
 - 🕒 **Posted:** 2026-08-22
 
-### [Platform Security Engineer](https://www.linkedin.com/jobs/view/4435932270/) — Superhuman
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $227,000.00/yr - $313,000.00/yr
-- 🕒 **Posted:** 2026-08-22
-
-### [Cybersecurity Engineer Level 6 - IAM Privileged Management](https://www.linkedin.com/jobs/view/4437942962/) — Metropolitan Transportation Authority
+### [Software Engineer, Agent](https://www.linkedin.com/jobs/view/4402252349/) — Vercel
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-08-22
