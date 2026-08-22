@@ -1,39 +1,51 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-08-22 01:18 UTC*
+*Last updated: 2026-08-22 02:02 UTC*
 
-**8 new role(s)** since last run · 11 total in last 1h
+**11 new role(s)** since last run · 20 total in last 1h
 
-### [Machine Learning Engineer](https://www.linkedin.com/jobs/view/4456620404/) — Mendable
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $210,000.00/yr - $240,000.00/yr
+### [Research Engineer - Midtraining](https://www.linkedin.com/jobs/view/4457551477/) — Periodic Labs
+- 📍 **Location:** Menlo Park, CA
 - 🕒 **Posted:** 2026-08-21
 
-### [Backend Platform Engineer – AI for National Security](https://www.linkedin.com/jobs/view/4456622353/) — RecruiterDrive
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $180,000.00/yr - $260,000.00/yr
-- 🕒 **Posted:** 2026-08-21
-
-### [Full-Stack Software Engineer, Reinforcement Learning](https://www.linkedin.com/jobs/view/4456625402/) — HUD
+### [Research Engineer](https://www.linkedin.com/jobs/view/4457554379/) — Greptile
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-08-21
 
-### [Platform Engineer](https://www.linkedin.com/jobs/view/4456625401/) — Hyperbound
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $200,000.00/yr - $225,000.00/yr
+### [Inference and Generative AI Intern](https://www.linkedin.com/jobs/view/4456624543/) — Lupitor
+- 📍 **Location:** San Francisco Bay Area
 - 🕒 **Posted:** 2026-08-21
 
-### [Cloud DevOps Engineer](https://www.linkedin.com/jobs/view/4456621451/) — Mendable
+### [Research Engineer, Lab Automation](https://www.linkedin.com/jobs/view/4457553442/) — Periodic Labs
+- 📍 **Location:** Menlo Park, CA
+- 🕒 **Posted:** 2026-08-21
+
+### [Climate Data Scientist, Sustainability](https://www.linkedin.com/jobs/view/4457554358/) — Watershed
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $193,500.00/yr - $202,100.00/yr
+- 🕒 **Posted:** 2026-08-21
+
+### [MSAT Data Science Engineer](https://www.linkedin.com/jobs/view/4430968589/) — Allogene Therapeutics
+- 📍 **Location:** Newark, CA
+- 🕒 **Posted:** 2026-08-21
+
+### [Research Engineer, Semiconductor](https://www.linkedin.com/jobs/view/4457564365/) — Periodic Labs
+- 📍 **Location:** Menlo Park, CA
+- 🕒 **Posted:** 2026-08-21
+
+### [Infrastructure Engineer](https://www.linkedin.com/jobs/view/4457569290/) — Greptile
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-08-21
 
-### [Software Engineering SMTS](https://www.linkedin.com/jobs/view/4457559027/) — Salesforce
+### [Frontend Engineer](https://www.linkedin.com/jobs/view/4457550546/) — Greptile
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-08-21
 
-### [Software Engineering Architect - Mulesoft](https://www.linkedin.com/jobs/view/4457562025/) — Salesforce
-- 📍 **Location:** San Francisco, CA
+### [Applied AI Data Scientist](https://www.linkedin.com/jobs/view/4456625522/) — LexisNexis
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $132,700.00/yr - $221,100.00/yr
 - 🕒 **Posted:** 2026-08-21
 
-### [Software Engineer (Memory Test, San Jose)](https://www.linkedin.com/jobs/view/4454690334/) — Teradyne
-- 📍 **Location:** San Jose, CA
+### [Applied AI Data Scientist](https://www.linkedin.com/jobs/view/4456622511/) — RELX
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $132,700.00/yr - $221,100.00/yr
 - 🕒 **Posted:** 2026-08-21
