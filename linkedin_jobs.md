@@ -1,20 +1,39 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-08-22 00:18 UTC*
+*Last updated: 2026-08-22 01:18 UTC*
 
-**4 new role(s)** since last run · 29 total in last 1h
+**8 new role(s)** since last run · 11 total in last 1h
 
-### [Systems Software Engineer - AI and Cloud](https://www.linkedin.com/jobs/view/4456292876/) — NVIDIA
-- 📍 **Location:** Santa Clara, CA
+### [Machine Learning Engineer](https://www.linkedin.com/jobs/view/4456620404/) — Mendable
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $210,000.00/yr - $240,000.00/yr
 - 🕒 **Posted:** 2026-08-21
 
-### [Research Engineer, Interactive World Models - New College Grad 2026](https://www.linkedin.com/jobs/view/4456278960/) — NVIDIA
-- 📍 **Location:** Santa Clara, CA
+### [Backend Platform Engineer – AI for National Security](https://www.linkedin.com/jobs/view/4456622353/) — RecruiterDrive
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $180,000.00/yr - $260,000.00/yr
 - 🕒 **Posted:** 2026-08-21
 
-### [Cloud Hardware Dev Engineer (AWS Generative AI & ML Servers), Accelerator Servers](https://www.linkedin.com/jobs/view/4457531549/) — Amazon Web Services (AWS)
-- 📍 **Location:** Cupertino, CA
+### [Full-Stack Software Engineer, Reinforcement Learning](https://www.linkedin.com/jobs/view/4456625402/) — HUD
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-08-21
 
-### [Product Data Scientist, Android Onboarding and Settings](https://www.linkedin.com/jobs/view/4457530193/) — Find Data Science Jobs
-- 📍 **Location:** Mountain View, CA
+### [Platform Engineer](https://www.linkedin.com/jobs/view/4456625401/) — Hyperbound
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $200,000.00/yr - $225,000.00/yr
+- 🕒 **Posted:** 2026-08-21
+
+### [Cloud DevOps Engineer](https://www.linkedin.com/jobs/view/4456621451/) — Mendable
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-08-21
+
+### [Software Engineering SMTS](https://www.linkedin.com/jobs/view/4457559027/) — Salesforce
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-08-21
+
+### [Software Engineering Architect - Mulesoft](https://www.linkedin.com/jobs/view/4457562025/) — Salesforce
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-08-21
+
+### [Software Engineer (Memory Test, San Jose)](https://www.linkedin.com/jobs/view/4454690334/) — Teradyne
+- 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-08-21
