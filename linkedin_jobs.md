@@ -1,80 +1,67 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-08-22 16:18 UTC*
+*Last updated: 2026-08-22 17:18 UTC*
 
-**17 new role(s)** since last run · 34 total in last 1h
+**15 new role(s)** since last run · 18 total in last 1h
 
-### [Machine Learning Platform Engineer](https://www.linkedin.com/jobs/view/4437578948/) — Whatnot
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $245,000.00/yr - $345,000.00/yr
+### [Machine Learning Engineer, Infra, AI for Drug Discovery](https://www.linkedin.com/jobs/view/4447583143/) — Genentech
+- 📍 **Location:** South San Francisco, CA
 - 🕒 **Posted:** 2026-08-22
 
-### [LLM Platform Engineer](https://www.linkedin.com/jobs/view/4437900105/) — Whatnot
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $245,000.00/yr - $345,000.00/yr
-- 🕒 **Posted:** 2026-08-22
-
-### [Software Engineer, SystemML - AI Networking](https://www.linkedin.com/jobs/view/4455037839/) — Meta
-- 📍 **Location:** Menlo Park, CA
-- 💰 **Salary:** $154,003.00/yr - $217,000.00/yr
-- 🕒 **Posted:** 2026-08-22
-
-### [Research Engineer, Performance RL (Reinforcement Learning)](https://www.linkedin.com/jobs/view/4388955858/) — Anthropic
+### [Machine Learning Engineer, Speech LLM Training](https://www.linkedin.com/jobs/view/4456674238/) — Jobright.ai
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-08-22
 
-### [Partner Engineer, Generative AI](https://www.linkedin.com/jobs/view/4455025919/) — Meta
-- 📍 **Location:** Menlo Park, CA
-- 💰 **Salary:** $149,000.00/yr - $210,000.00/yr
+### [Software Engineer](https://www.linkedin.com/jobs/view/4455064074/) — Applied Materials
+- 📍 **Location:** Santa Clara, CA
 - 🕒 **Posted:** 2026-08-22
 
-### [Research Engineer, Model Evaluations](https://www.linkedin.com/jobs/view/4437596983/) — Anthropic
-- 📍 **Location:** San Francisco, CA
+### [Data Scientist](https://www.linkedin.com/jobs/view/4455048055/) — Applied Materials
+- 📍 **Location:** Santa Clara, CA
 - 🕒 **Posted:** 2026-08-22
 
-### [Software Engineer, Adoption](https://www.linkedin.com/jobs/view/4429663086/) — Cohere
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-08-22
-
-### [Backend Software Engineer Intern](https://www.linkedin.com/jobs/view/4456672239/) — MetAntz
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-08-22
-
-### [Machine Learning Engineer, Inference & Serving (Speech LLM)](https://www.linkedin.com/jobs/view/4456658337/) — Jobright.ai
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-08-22
-
-### [Software Engineer - AI Agent](https://www.linkedin.com/jobs/view/4456656321/) — Jobright.ai
+### [Software Engineer - AI Agent](https://www.linkedin.com/jobs/view/4456658363/) — Jobright.ai
 - 📍 **Location:** San Mateo County, CA
 - 🕒 **Posted:** 2026-08-22
 
-### [Software Engineer I, Commerce Engineering](https://www.linkedin.com/jobs/view/4390703326/) — Twitch
+### [Data Scientist, Product](https://www.linkedin.com/jobs/view/4411253059/) — Replit
+- 📍 **Location:** Foster City, CA
+- 💰 **Salary:** $210,000.00/yr - $350,000.00/yr
+- 🕒 **Posted:** 2026-08-22
+
+### [Backend Software Engineer](https://www.linkedin.com/jobs/view/4456660283/) — Jack
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $175,000.00/yr - $225,000.00/yr
+- 🕒 **Posted:** 2026-08-22
+
+### [Data Scientist](https://www.linkedin.com/jobs/view/4455048058/) — Applied Materials
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-08-22
+
+### [Data Scientist](https://www.linkedin.com/jobs/view/4455050128/) — Applied Materials
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-08-22
+
+### [Software Engineer II (New College Grad - Santa Clara, CA)](https://www.linkedin.com/jobs/view/4455048056/) — Applied Materials
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-08-22
+
+### [Software Engineer, Developer Productivity](https://www.linkedin.com/jobs/view/4308502697/) — Glean
+- 📍 **Location:** Mountain View, CA
+- 🕒 **Posted:** 2026-08-22
+
+### [Frontend Platform Engineer](https://www.linkedin.com/jobs/view/4447183071/) — Harvey
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-08-22
 
-### [Software Engineer- Cybersecurity and Cryptography](https://www.linkedin.com/jobs/view/4399209316/) — Xona
-- 📍 **Location:** Burlingame, CA
+### [Software Engineer](https://www.linkedin.com/jobs/view/4447737852/) — Roche
+- 📍 **Location:** Santa Clara, CA
 - 🕒 **Posted:** 2026-08-22
 
-### [LLM Platform Engineer](https://www.linkedin.com/jobs/view/4437598332/) — Whatnot
+### [Machine Learning Engineer](https://www.linkedin.com/jobs/view/4457837166/) — James Search Group
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $245,000.00/yr - $345,000.00/yr
+- 💰 **Salary:** $135,000.00/yr - $175,000.00/yr
 - 🕒 **Posted:** 2026-08-22
 
-### [Security Engineer Investigator, Integrity Investigations, Intelligence, and Events](https://www.linkedin.com/jobs/view/4455042785/) — Meta
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $184,000.00/yr - $257,000.00/yr
-- 🕒 **Posted:** 2026-08-22
-
-### [Machine Learning Platform Engineer](https://www.linkedin.com/jobs/view/4437900103/) — Whatnot
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $245,000.00/yr - $345,000.00/yr
-- 🕒 **Posted:** 2026-08-22
-
-### [Machine Learning Infrastructure Engineer](https://www.linkedin.com/jobs/view/4437590591/) — Whatnot
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $200,000.00/yr - $345,000.00/yr
-- 🕒 **Posted:** 2026-08-22
-
-### [Software Engineer, Agent](https://www.linkedin.com/jobs/view/4402252349/) — Vercel
+### [Software Engineer, Developer Experience](https://www.linkedin.com/jobs/view/4429366312/) — Cape
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-08-22
