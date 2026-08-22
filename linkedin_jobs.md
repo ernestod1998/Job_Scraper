@@ -1,21 +1,28 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-08-22 20:18 UTC*
+*Last updated: 2026-08-22 21:17 UTC*
 
-**4 new role(s)** since last run · 7 total in last 1h
+**6 new role(s)** since last run · 8 total in last 1h
 
-### [Data Scientist Intern](https://www.linkedin.com/jobs/view/4456682010/) — Jobright.ai
-- 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-08-22
-
-### [Software Engineer II](https://www.linkedin.com/jobs/view/4457863266/) — Uber
+### [Machine Learning Engineer](https://www.linkedin.com/jobs/view/4455050392/) — Sprinter Health
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-08-22
 
-### [Full-Stack Engineer Intern](https://www.linkedin.com/jobs/view/4456660573/) — Jobright.ai
-- 📍 **Location:** San Francisco Bay Area
+### [Applied Scientist, AI](https://www.linkedin.com/jobs/view/4455059323/) — Sprinter Health
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-08-22
 
-### [Computer Vision & ML Expert](https://www.linkedin.com/jobs/view/4456442051/) — Alignerr
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $100.00/hr - $150.00/hr
+### [Applied Scientist, Optimization & Logistics](https://www.linkedin.com/jobs/view/4455063353/) — Sprinter Health
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-08-22
+
+### [Logistics Research Team - Software Engineer (Mid-Level)](https://www.linkedin.com/jobs/view/4455061323/) — Sprinter Health
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-08-22
+
+### [Data Scientist, Actuarial](https://www.linkedin.com/jobs/view/4455055377/) — Sprinter Health
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-08-22
+
+### [Agentic AI Team - Software Engineer (Mid-level)](https://www.linkedin.com/jobs/view/4455056339/) — Sprinter Health
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-08-22
