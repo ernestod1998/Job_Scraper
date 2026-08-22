@@ -1,28 +1,20 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-08-22 21:17 UTC*
+*Last updated: 2026-08-22 22:17 UTC*
 
-**6 new role(s)** since last run · 8 total in last 1h
+**4 new role(s)** since last run · 10 total in last 1h
 
-### [Machine Learning Engineer](https://www.linkedin.com/jobs/view/4455050392/) — Sprinter Health
+### [Software Engineer - AI Agent](https://www.linkedin.com/jobs/view/4456697038/) — Jobright.ai
+- 📍 **Location:** San Mateo County, CA
+- 🕒 **Posted:** 2026-08-22
+
+### [Product Engineering Team - Software Engineer (Mid-Level)](https://www.linkedin.com/jobs/view/4455060360/) — Sprinter Health
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-08-22
 
-### [Applied Scientist, AI](https://www.linkedin.com/jobs/view/4455059323/) — Sprinter Health
-- 📍 **Location:** San Francisco, CA
+### [Product Engineering Team - Software Engineer (Mid-Level)](https://www.linkedin.com/jobs/view/4455048322/) — Sprinter Health
+- 📍 **Location:** Menlo Park, CA
 - 🕒 **Posted:** 2026-08-22
 
-### [Applied Scientist, Optimization & Logistics](https://www.linkedin.com/jobs/view/4455063353/) — Sprinter Health
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-08-22
-
-### [Logistics Research Team - Software Engineer (Mid-Level)](https://www.linkedin.com/jobs/view/4455061323/) — Sprinter Health
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-08-22
-
-### [Data Scientist, Actuarial](https://www.linkedin.com/jobs/view/4455055377/) — Sprinter Health
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-08-22
-
-### [Agentic AI Team - Software Engineer (Mid-level)](https://www.linkedin.com/jobs/view/4455056339/) — Sprinter Health
-- 📍 **Location:** San Francisco, CA
+### [Software Engineer - AI Agent](https://www.linkedin.com/jobs/view/4456687054/) — Jobright.ai
+- 📍 **Location:** San Mateo County, CA
 - 🕒 **Posted:** 2026-08-22
