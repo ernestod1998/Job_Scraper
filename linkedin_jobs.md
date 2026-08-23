@@ -1,12 +1,9 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-08-23 01:17 UTC*
+*Last updated: 2026-08-23 02:11 UTC*
 
-**2 new role(s)** since last run · 3 total in last 1h
+**1 new role(s)** since last run · 3 total in last 1h
 
-### [Software Engineer, Applications](https://www.linkedin.com/jobs/view/4456692562/) — Weave Robotics
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-08-22
-
-### [Site Reliability Engineer](https://www.linkedin.com/jobs/view/4457869894/) — BAM Ventures
+### [Computer Vision & ML Expert](https://www.linkedin.com/jobs/view/4456442051/) — Alignerr
 - 📍 **Location:** New York, NY
+- 💰 **Salary:** $100.00/hr - $150.00/hr
 - 🕒 **Posted:** 2026-08-22
