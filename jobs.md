@@ -1,16 +1,16 @@
 # 🧬 Biotech LinkedIn — MLE / DS Roles
-*Last updated: 2026-08-22 04:03 UTC*
+*Last updated: 2026-08-23 04:06 UTC*
 
-**3 new role(s)** since last run · 36 total in last 24h
+**3 new role(s)** since last run · 35 total in last 24h
 
-### [MSAT Data Science Engineer](https://www.linkedin.com/jobs/view/4430968589/) — Allogene Therapeutics
-- 📍 **Location:** Newark, CA
-- 🕒 **Posted:** 2026-08-21
+### [Machine Learning Engineer, Infra, AI for Drug Discovery](https://www.linkedin.com/jobs/view/4447583143/) — Genentech
+- 📍 **Location:** South San Francisco, CA
+- 🕒 **Posted:** 2026-08-22
 
-### [Data Scientist II, Outcomes Research](https://www.linkedin.com/jobs/view/4418856695/) — Tempus AI
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-08-21
+### [Data Scientist II, Outcomes Research](https://www.linkedin.com/jobs/view/4418871090/) — Tempus AI
+- 📍 **Location:** Redwood City, CA
+- 🕒 **Posted:** 2026-08-22
 
-### [Full Stack Engineer](https://www.linkedin.com/jobs/view/4437075801/) — Melio
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-08-21
+### [Software Engineer](https://www.linkedin.com/jobs/view/4447737852/) — Roche
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-08-22
