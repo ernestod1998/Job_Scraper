@@ -1,9 +1,6 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-08-23 02:11 UTC*
+*Last updated: 2026-08-23 02:18 UTC*
 
-**1 new role(s)** since last run · 3 total in last 1h
+**0 new role(s)** since last run · 1 total in last 1h
 
-### [Computer Vision & ML Expert](https://www.linkedin.com/jobs/view/4456442051/) — Alignerr
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $100.00/hr - $150.00/hr
-- 🕒 **Posted:** 2026-08-22
+No new roles since the last run.
