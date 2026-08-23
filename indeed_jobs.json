@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-23 03:32 UTC",
+  "scraped_at": "2026-08-23 04:20 UTC",
   "total": 15,
-  "new_count": 2,
+  "new_count": 0,
   "jobs": [
     {
       "company": "TikTok",
@@ -199,34 +199,7 @@
       ]
     }
   ],
-  "new_jobs": [
-    {
-      "company": "DEEL",
-      "title": "Software Engineer\u00a0\u2013\u00a0Network",
-      "location": "San Francisco, CA, US",
-      "url": "https://www.indeed.com/viewjob?jk=be0178a008d43da8",
-      "date_posted": "2026-08-22",
-      "description": "Job details\n\n\nEngineering\n\n\nSan Francisco, Phoenix\n\n\nFull\\-time\n\n\n### **Role**\n\n\nBuild the software that moves data through Azora's space\\-ground optical network: link control, data plane services, scheduling, and the ground\\-side services that turn raw optical downlinks into reliable customer data delivery. You will implement the protocols and services the Network Architect defines \u2013 and help shape them with real implementation feedback.\n\n\n### **Responsibilities**\n\n\n* Implement networking software for the ground segment: link management, framing/ARQ logic, data ingest pipelines, store\\-and\\-forward services, and customer delivery APIs.\n* Build the pass scheduling and orchestration services that coordinate satellites, ground stations, and weather data in near\\-real time.\n* Develop telemetry, tracking, and command (TT\\&C) software paths, including encrypted command uplink and telemetry processing.\n* Write high\\-throughput data plane code capable of sustaining multi\\-Gbps downlink rates from receiver hardware to storage and network egress.\n* Build monitoring, logging, and operational tooling for a distributed, multi\\-site network.\n* Develop simulation and test harnesses for protocol behavior over fading optical channels (packet loss, burst errors, outages).\n* Participate in on\\-call support of operational ground stations as the network scales.\n\n### **Required Qualifications**\n\n\n* BS/MS in Computer Science, Software Engineering, or related field.\n* 4\\+ years of professional software engineering experience, with significant work in networked systems or distributed services.\n* Strong skills in at least one of: Go, Rust, C\\+\\+, or modern Python for backend/network services.\n* Solid understanding of TCP/UDP, sockets, serialization, and performance tuning of network services.\n* Experience with Linux systems programming and deployment (containers, systemd, CI/CD).\n\n### **Preferred**\n\n\n* Experience with satellite ground systems, CCSDS protocols, or SDR/communications software.\n* High\\-performance networking experience (DPDK, io\\_uring, kernel bypass, or 10/25/100GbE pipelines).\n* Familiarity with cloud infrastructure (AWS/GCP), message queues, and time\\-series telemetry stacks (Prometheus, InfluxDB, Grafana).\n* Exposure to DTN, custom ARQ protocols, or erasure coding for lossy links.\n\n**Location**\n\n\nThis is an onsite/hybrid role based in Tempe, AZ or the Bay Area, CA \u2013 hardware work that\u2019s hard to do remotely. Some travel expected for field deployment and vendor/manufacturing visits.\n\n\n**Benefits:**\n\n\n* Generous equity\n* Competitive healthcare (including options for vision and dental)\n* 401(k)\n* Unlimited PTO\n\n**EEO \\& Reasonable Accommodations**\n\n\n* *Azora is proud to be an equal opportunity employer.*\n* *If you need a reasonable accommodation as part of your application for employment or interviews with us, please let us know by contacting* *info@azora.space*\n\n**Export Control**\n\n\nTo conform to U.S. Government export regulations, applicants must be a (i) U.S. citizen or national, (ii) U.S. lawful permanent resident (iii) protected individual as defined by 8 U.S.C. 1324b(a)(3\\), or (iv) be eligible to obtain the required authorizations from the U.S. Department of State.\n\n\n**Salary ranges are based on the following criteria:**\n\n\n* Final salary is based on geographic location, experience, skills, and qualifications.\n\n**About this Company**\n\n\nAzora is building high\\-bandwidth communications infrastructure for environments where fiber can\u2019t reach. This work spans LEO spacecraft constellations, lunar exploration missions, GEO satcom, deployable optical ground for defense, and data centers both on\\- and off\\-world. To enable rapid global proliferation Azora is developing compact and modular optical terminals small enough to deploy from a backpack, and space terminals that support high speed optical links from LEO out to the Moon.",
-      "salary": "",
-      "ats": "Indeed",
-      "feeds": [
-        "general"
-      ]
-    },
-    {
-      "company": "DEEL",
-      "title": "Software Engineer \u2013\u00a0Control Systems",
-      "location": "San Francisco, CA, US",
-      "url": "https://www.indeed.com/viewjob?jk=dab1add60045438e",
-      "date_posted": "2026-08-22",
-      "description": "Job details\n\n\nEngineering\n\n\nSan Francisco, Phoenix\n\n\nFull\\-time\n\n\n$130,000 USD \\- $170,000 USD\n\n\n### **Role**\n\n\nWrite the software controlling our hardware; including embedded control, drivers, and real\\-time applications running on Azora's space terminals and ground stations. You will own the software that talks directly to FPGAs, detectors, lasers, gimbals, and sensors integrated into our flight and ground systems.\n\n\n### **Responsibilities**\n\n\n* Develop embedded and real\\-time software for flight and ground hardware: device drivers, board support, FPGA register interfaces (AXI/memory\\-mapped), and control applications.\n* Implement control loops and supervision logic for lasers, fine\\-steering mirrors, detectors, thermal systems, and power management.\n* Build hardware bring\\-up, manufacturing test, and calibration software used across engineering and production units.\n* Develop flight software components including fault detection, isolation, and recovery (FDIR), telemetry, and command handling.\n* Create hardware\\-in\\-the\\-loop (HIL) test environments and automated regression suites for embedded software.\n* Work side\\-by\\-side with electrical, FPGA, and optical engineers during integration and environmental test campaigns.\n* Profile and optimize for determinism, latency, and resource constraints on embedded targets.\n* Ability to solve complex problems in challenging field environments.\n\n### **Required Qualifications**\n\n\n* BS/MS in Computer Science, Computer/Electrical Engineering, or related field.\n* 4\\+ years of embedded or hardware\\-adjacent software experience in C/C\\+\\+ (and ideally Rust or Python for tooling).\n* Experience with embedded Linux and/or RTOS environments (FreeRTOS, Zephyr, VxWorks, RTEMS).\n* Hands\\-on experience with hardware interfaces: SPI, I2C, UART, CAN, PCIe, or memory\\-mapped FPGA peripherals.\n* Comfort with lab debugging: logic analyzers, JTAG, oscilloscopes, and reading schematics.\n\n### **Preferred**\n\n\n* Flight software experience (cFS, F\u00b4, or proprietary frameworks) and knowledge of FDIR design.\n* Experience with Zynq/Versal\\-class SoCs or soft\\-core processors and FPGA/software co\\-design.\n* Background in motion control, optical instrumentation, or camera/detector readout software.\n* Familiarity with space software standards (NASA NPR 7150\\.2, ECSS\\-E\\-ST\\-40\\) or safety\\-critical development practices.\n\n**Location**\n\n\nThis is an onsite/hybrid role based in Tempe, AZ or the Bay Area, CA \u2013 hardware work that\u2019s hard to do remotely. Some travel expected for field deployment and vendor/manufacturing visits.\n\n\n**Benefits:**\n\n\n* Generous equity\n* Competitive healthcare (including options for vision and dental)\n* 401(k)\n* Unlimited PTO\n\n**EEO \\& Reasonable Accommodations**\n\n\n* *Azora is proud to be an equal opportunity employer.*\n* *If you need a reasonable accommodation as part of your application for employment or interviews with us, please let us know by contacting* *info@azora.space*\n\n**Export Control**\n\n\nTo conform to U.S. Government export regulations, applicants must be a (i) U.S. citizen or national, (ii) U.S. lawful permanent resident (iii) protected individual as defined by 8 U.S.C. 1324b(a)(3\\), or (iv) be eligible to obtain the required authorizations from the U.S. Department of State.\n\n\n**Salary ranges are based on the following criteria:**\n\n\n* Final salary is based on geographic location, experience, skills, and qualifications.\n\n**About this Company**\n\n\nAzora is building high\\-bandwidth communications infrastructure for environments where fiber can\u2019t reach. This work spans LEO spacecraft constellations, lunar exploration missions, GEO satcom, deployable optical ground for defense, and data centers both on\\- and off\\-world. To enable rapid global proliferation Azora is developing compact and modular optical terminals small enough to deploy from a backpack, and space terminals that support high speed optical links from LEO out to the Moon.",
-      "salary": "$130k\u2013$170k/yr",
-      "ats": "Indeed",
-      "feeds": [
-        "general"
-      ]
-    }
-  ],
+  "new_jobs": [],
   "filter_stats": {
     "company": 0,
     "seniority": 0,
