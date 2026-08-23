@@ -124,8 +124,62 @@ check('v2 cache is removed only after verified v1 persistence',
 const incompleteMigration = runMigration({ jobs: complete.slice(0, 1) }, complete);
 check('incomplete v1 writes retain the v2 recovery cache',
   incompleteMigration.removed.length === 0 && incompleteMigration.pending);
-check('failed cache writes do not delete the previous v1 cache',
-  !/localStorage\.removeItem\(CACHE_KEY\)/.test(html));
+
+// Quota-recovery ladder: the decisions write evicts disposable data (caches,
+// then the already-merged legacy blob, then its own cached job copies) rather
+// than failing forever, and never touches other keys on a healthy write.
+const makeWriteDecisions = new Function(
+  'localStorage', 'state', 'console',
+  'DECIDE_KEY', 'CACHE_KEY', 'TRANSITION_CACHE_KEY', 'LEGACY_KEY',
+  `${extractFunction(html, 'writeDecisions')}; return writeDecisions;`,
+);
+function runWrite(failWhile) {
+  const removed = [];
+  const store = {};
+  const state = { _pendingLegacy: true };
+  const ls = {
+    removeItem: k => removed.push(k),
+    setItem: (k, v) => {
+      if (failWhile(removed, JSON.parse(v))) {
+        const e = new Error('quota'); e.name = 'QuotaExceededError'; throw e;
+      }
+      store[k] = v;
+    },
+  };
+  const fn = makeWriteDecisions(
+    ls, state, { warn: () => {}, error: () => {} },
+    'jobTriage:v2', 'jobTriage:cache:v1', 'jobTriage:cache:v2', 'jobTriage:v1',
+  );
+  const payload = { v: 2, triage: { 'https://x/1': { s: 'saved', t: 1 } }, jobs: [{ url: 'https://x/1' }], code: 'c' };
+  let result = null, threw = false;
+  try { result = fn(payload); } catch { threw = true; }
+  return { removed, store, state, result, threw };
+}
+const healthy = runWrite(() => false);
+check('healthy decisions write evicts nothing',
+  healthy.removed.length === 0 && healthy.result && !healthy.result.evictedCaches
+  && healthy.result.payload.jobs.length === 1);
+const afterCacheEvict = runWrite(removed => !removed.includes('jobTriage:cache:v1'));
+check('quota pressure evicts the disposable caches first',
+  afterCacheEvict.removed.includes('jobTriage:cache:v1')
+  && afterCacheEvict.removed.includes('jobTriage:cache:v2')
+  && !afterCacheEvict.removed.includes('jobTriage:v1')
+  && afterCacheEvict.result.evictedCaches
+  && afterCacheEvict.result.payload.jobs.length === 1);
+const afterLegacyEvict = runWrite(removed => !removed.includes('jobTriage:v1'));
+check('deeper quota pressure evicts the merged legacy blob',
+  afterLegacyEvict.removed.includes('jobTriage:v1')
+  && afterLegacyEvict.state._pendingLegacy === false
+  && afterLegacyEvict.result.payload.jobs.length === 1);
+const decisionsOnly = runWrite((removed, payload) => payload.jobs.length > 0);
+check('last-resort write keeps every decision and drops only job copies',
+  decisionsOnly.result
+  && decisionsOnly.result.payload.jobs.length === 0
+  && decisionsOnly.result.payload.code === 'c'
+  && Object.keys(decisionsOnly.result.payload.triage).length === 1);
+check('a write that can never succeed surfaces the error', runWrite(() => true).threw);
+check('cache rewrite is skipped after a failed or quota-recovered save',
+  /if \(ok && !evictedCaches\) try \{/.test(html));
 
 for (const file of ['triage.yml', 'evals.yml']) {
   const workflow = readFileSync(join(root, '.github', 'workflows', file), 'utf8');

@@ -1417,6 +1417,7 @@
   // whole in-memory state is what dragged the 7,500-job corpus into storage.
   function save() {
     let ok = false;
+    let evictedCaches = false;
     try {
       const stored = readJson(DECIDE_KEY);
       state.triage = gcDecisions(mergeTriage(stored && stored.triage, state.triage));
@@ -1427,16 +1428,20 @@
 
       const decided = { v: 2, triage: state.triage, jobs: [...keep.values()] };
       if (state.code) decided.code = state.code;
-      localStorage.setItem(DECIDE_KEY, JSON.stringify(decided));
+      const written = writeDecisions(decided);
+      evictedCaches = written.evictedCaches;
       ok = true;
       clearSaveError();
-      finishLegacyMigration(decided);
+      finishLegacyMigration(written.payload);
     } catch (e) {
       reportSaveError(e);
     }
 
-    // Disposable cache — best effort, never allowed to affect the above.
-    try {
+    // Disposable cache — best effort, never allowed to affect the above. Skipped
+    // when the decisions write failed (a 750KB cache write can only make quota
+    // pressure worse) or had to evict the caches to succeed (refilling them now
+    // would re-crowd the space just freed; the next healthy save restores them).
+    if (ok && !evictedCaches) try {
       // Keep the FRESHEST, not an arbitrary prefix — state.jobs is ordered by how
       // things were merged, so slicing it raw would cache a random slab and drop
       // the newest postings, which are the ones worth seeing when a fetch fails.
@@ -1454,6 +1459,42 @@
     // can never affect whether the local write above succeeded.
     if (typeof schedulePush === 'function') schedulePush();
     return ok;
+  }
+
+  // The decisions write itself, with quota recovery. A QuotaExceededError here
+  // means disposable data is crowding out the one record that must persist, so
+  // evict in order of expendability and retry the write after each step:
+  //   1. the job caches — public data, refetched on the next load
+  //   2. the legacy v1 blob — safe because migrateLegacy() already merged its
+  //      contents into memory at startup, so the payload being written carries
+  //      everything it held
+  //   3. the payload's own cached job copies — triaged cards may lose display
+  //      detail once they age out of the feed, but every decision survives
+  // Returns { payload, evictedCaches } on success; rethrows the final error if
+  // even the decisions-only payload cannot be written.
+  function writeDecisions(decided) {
+    const steps = [
+      null,
+      () => { localStorage.removeItem(CACHE_KEY); localStorage.removeItem(TRANSITION_CACHE_KEY); },
+      () => { localStorage.removeItem(LEGACY_KEY); state._pendingLegacy = false; },
+      () => {
+        const slim = { v: 2, triage: decided.triage, jobs: [] };
+        if (decided.code) slim.code = decided.code;
+        decided = slim;
+      },
+    ];
+    let evictedCaches = false;
+    for (let i = 0; i < steps.length; i++) {
+      try {
+        if (steps[i]) steps[i]();
+        if (i >= 1) evictedCaches = true;
+        localStorage.setItem(DECIDE_KEY, JSON.stringify(decided));
+        if (i > 0) console.warn(`[save] decisions written after quota recovery step ${i}`);
+        return { payload: decided, evictedCaches };
+      } catch (e) {
+        if (i === steps.length - 1) throw e;
+      }
+    }
   }
 
   // Keep the transitional cache until the restored v1 cache has definitely
@@ -1485,12 +1526,25 @@
   }
 
   // A failed save used to be a console.warn — which is exactly how a bug became
-  // silent data loss. Say it out loud, on screen.
+  // silent data loss. Say it out loud, on screen — and name the error, because
+  // "couldn't save" with no cause is undiagnosable from a screenshot.
+  function storageFootprint() {
+    const out = {};
+    for (const k of [DECIDE_KEY, CACHE_KEY, TRANSITION_CACHE_KEY, LEGACY_KEY]) {
+      try {
+        const v = localStorage.getItem(k);
+        if (v != null) out[k] = v.length + ' chars';
+      } catch { /* unreadable storage is exactly what we're reporting */ }
+    }
+    return out;
+  }
   function reportSaveError(e) {
-    console.error('[save] decisions write FAILED:', e && e.message);
+    console.error('[save] decisions write FAILED:', e && e.name, e && e.message, storageFootprint());
     const el = $('save-error');
     if (!el) return;
-    el.innerHTML = '⚠ Couldn\'t save your triage decisions — they may be lost on reload. ' +
+    el.innerHTML = '⚠ Couldn\'t save your triage decisions (' +
+      escape((e && e.name) || 'unknown error') +
+      ') — they may be lost on reload. Use ↓ Export as a backup. ' +
       '<button type="button" class="iconbtn" id="save-retry">Retry</button>';
     el.hidden = false;
     const btn = $('save-retry');
