@@ -1,16 +1,9 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-08-23 20:18 UTC*
+*Last updated: 2026-08-23 21:17 UTC*
 
-**3 new role(s)** since last run · 5 total in last 1h
+**1 new role(s)** since last run · 4 total in last 1h
 
-### [Software Engineer](https://www.linkedin.com/jobs/view/4456819689/) — Cara
-- 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-08-23
-
-### [Data Scientist Intern](https://www.linkedin.com/jobs/view/4456819768/) — Jobright.ai
-- 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-08-23
-
-### [Full-Stack Engineer Intern](https://www.linkedin.com/jobs/view/4456809751/) — Jobright.ai
-- 📍 **Location:** San Francisco Bay Area
+### [Product Security Engineer - Hardware/Firmware](https://www.linkedin.com/jobs/view/4431788812/) — Sandisk
+- 📍 **Location:** Milpitas, CA
+- 💰 **Salary:** $147,710.00/yr - $244,674.00/yr
 - 🕒 **Posted:** 2026-08-23
