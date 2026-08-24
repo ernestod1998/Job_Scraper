@@ -1,32 +1,42 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-08-24 16:19 UTC*
+*Last updated: 2026-08-24 17:08 UTC*
 
-**6 new role(s)** since last run · 47 total in last 1h
+**9 new role(s)** since last run · 26 total in last 1h
 
-### [Full Stack Engineer, Assessment Platform](https://www.linkedin.com/jobs/view/4453206785/) — Recruiting from Scratch
+### [Machine Learning Engineer, Inference & Serving (Speech LLM)](https://www.linkedin.com/jobs/view/4456896857/) — Jobright.ai
 - 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $130,000.00/yr - $400,000.00/yr
 - 🕒 **Posted:** 2026-08-24
 
-### [Full-Stack Software Engineer, Agentic Product](https://www.linkedin.com/jobs/view/4447999462/) — Recruiting from Scratch
+### [Machine Learning Engineer, Speech LLM Training](https://www.linkedin.com/jobs/view/4457107789/) — Jobright.ai
 - 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $150,000.00/yr - $400,000.00/yr
 - 🕒 **Posted:** 2026-08-24
 
-### [AI Research Scientist | Machine Learning | Deep Learning |Natural Language Processing | LLM | Hybrid | San Jose, CA](https://www.linkedin.com/jobs/view/4456895734/) — Enigma
-- 📍 **Location:** San Jose, CA
+### [Software Engineer, Model Runtime](https://www.linkedin.com/jobs/view/4456894952/) — OpenAI
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $266,000.00/yr - $445,000.00/yr
 - 🕒 **Posted:** 2026-08-24
 
-### [System Software Engineer, GPU Development Tools](https://www.linkedin.com/jobs/view/4402307640/) — NVIDIA
-- 📍 **Location:** Santa Clara, CA
+### [Software Engineer - AI Agent](https://www.linkedin.com/jobs/view/4456896774/) — Jobright.ai
+- 📍 **Location:** San Mateo County, CA
 - 🕒 **Posted:** 2026-08-24
 
-### [Android Engineer](https://www.linkedin.com/jobs/view/4332347321/) — Whatnot
+### [Software Engineer, Backend (Early-to-Mid Career)](https://www.linkedin.com/jobs/view/4456512168/) — Medilinkers LLC
+- 📍 **Location:** Redwood City, CA
+- 🕒 **Posted:** 2026-08-24
+
+### [Cloud Engineer](https://www.linkedin.com/jobs/view/4458237617/) — Nexwave
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-08-24
+
+### [Java Software Engineer](https://www.linkedin.com/jobs/view/4458241610/) — Motion Recruitment
+- 📍 **Location:** Oakland, CA
+- 🕒 **Posted:** 2026-08-24
+
+### [Audio and UX Software Engineer](https://www.linkedin.com/jobs/view/4456508162/) — Sony Interactive Entertainment
+- 📍 **Location:** San Mateo, CA
+- 🕒 **Posted:** 2026-08-24
+
+### [Forward Deployed Software Engineer](https://www.linkedin.com/jobs/view/4456513032/) — Oxbow Talent
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $170,000.00/yr - $290,000.00/yr
-- 🕒 **Posted:** 2026-08-24
-
-### [Associate, Software Developer - Fixed Income Technology (NY Repo)](https://www.linkedin.com/jobs/view/4456899712/) — Jefferies
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $125,000.00/yr - $150,000.00/yr
+- 💰 **Salary:** $135,000.00/yr - $200,000.00/yr
 - 🕒 **Posted:** 2026-08-24
