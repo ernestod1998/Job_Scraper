@@ -1,63 +1,32 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-08-24 16:07 UTC*
+*Last updated: 2026-08-24 16:19 UTC*
 
-**13 new role(s)** since last run · 41 total in last 1h
+**6 new role(s)** since last run · 47 total in last 1h
 
-### [Software Engineer](https://www.linkedin.com/jobs/view/4457106449/) — Jack
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $175,000.00/yr - $225,000.00/yr
-- 🕒 **Posted:** 2026-08-24
-
-### [Software Engineer (Partner 16, Partner 18), Backend, ASG](https://www.linkedin.com/jobs/view/4458251161/) — Andreessen Horowitz
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-08-24
-
-### [Software Engineer, Backend](https://www.linkedin.com/jobs/view/4342556259/) — Character.AI
-- 📍 **Location:** Redwood City, CA
-- 🕒 **Posted:** 2026-08-24
-
-### [Software Engineer](https://www.linkedin.com/jobs/view/4456893654/) — Autodesk
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-08-24
-
-### [Software Engineer, Trust Experience](https://www.linkedin.com/jobs/view/4319383907/) — Whatnot
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $170,000.00/yr - $230,000.00/yr
-- 🕒 **Posted:** 2026-08-24
-
-### [Software Engineer, Platform](https://www.linkedin.com/jobs/view/4443183078/) — Recruiting from Scratch
+### [Full Stack Engineer, Assessment Platform](https://www.linkedin.com/jobs/view/4453206785/) — Recruiting from Scratch
 - 📍 **Location:** San Francisco, CA
 - 💰 **Salary:** $130,000.00/yr - $400,000.00/yr
 - 🕒 **Posted:** 2026-08-24
 
-### [Software Engineer – Marketplace](https://www.linkedin.com/jobs/view/4450089483/) — Recruiting from Scratch
+### [Full-Stack Software Engineer, Agentic Product](https://www.linkedin.com/jobs/view/4447999462/) — Recruiting from Scratch
 - 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $130,000.00/yr - $400,000.00/yr
+- 💰 **Salary:** $150,000.00/yr - $400,000.00/yr
 - 🕒 **Posted:** 2026-08-24
 
-### [Backend Software Engineer](https://www.linkedin.com/jobs/view/4450095364/) — Recruiting from Scratch
-- 📍 **Location:** San Francisco Bay Area
-- 💰 **Salary:** $130,000.00/yr - $400,000.00/yr
+### [AI Research Scientist | Machine Learning | Deep Learning |Natural Language Processing | LLM | Hybrid | San Jose, CA](https://www.linkedin.com/jobs/view/4456895734/) — Enigma
+- 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-08-24
 
-### [Software Engineer, Frontier Data Products](https://www.linkedin.com/jobs/view/4441339012/) — Recruiting from Scratch
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $130,000.00/yr - $400,000.00/yr
+### [System Software Engineer, GPU Development Tools](https://www.linkedin.com/jobs/view/4402307640/) — NVIDIA
+- 📍 **Location:** Santa Clara, CA
 - 🕒 **Posted:** 2026-08-24
 
-### [Software Engineer, Infrastructure](https://www.linkedin.com/jobs/view/4458247251/) — Hebbia
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-08-24
-
-### [DevOps Engineer - Only W2 Please](https://www.linkedin.com/jobs/view/4456899625/) — Value Innovation Labs
-- 📍 **Location:** Cupertino, CA
-- 🕒 **Posted:** 2026-08-24
-
-### [Machine Learning Engineer](https://www.linkedin.com/jobs/view/4450304107/) — Recruiting from Scratch
+### [Android Engineer](https://www.linkedin.com/jobs/view/4332347321/) — Whatnot
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $120,000.00/yr - $150,000.00/yr
+- 💰 **Salary:** $170,000.00/yr - $290,000.00/yr
 - 🕒 **Posted:** 2026-08-24
 
-### [Software Engineer, Infrastructure](https://www.linkedin.com/jobs/view/4458251192/) — Hebbia
+### [Associate, Software Developer - Fixed Income Technology (NY Repo)](https://www.linkedin.com/jobs/view/4456899712/) — Jefferies
 - 📍 **Location:** New York, NY
+- 💰 **Salary:** $125,000.00/yr - $150,000.00/yr
 - 🕒 **Posted:** 2026-08-24
