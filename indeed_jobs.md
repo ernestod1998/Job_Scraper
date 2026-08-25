@@ -1,53 +1,44 @@
 # 🟦 Indeed — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-08-25 20:59 UTC*
+*Last updated: 2026-08-25 21:57 UTC*
 
-**10 new role(s)** since last run · 64 total in last 24h
+**8 new role(s)** since last run · 65 total in last 24h
 
-### [(USA) Software Engineer III](https://www.indeed.com/viewjob?jk=03517b7f07e94985) — Walmart
-- 📍 **Location:** Sunnyvale, CA, US
-- 💰 **Salary:** $108k–$234k/yr
-- 🕒 **Posted:** 2026-08-25
-
-### [Software Engineer, Foundation Models](https://www.indeed.com/viewjob?jk=a237f68657a8324a) — Waymo
+### [Software Engineer III, AI/ML, Account Structure Intelligence](https://www.indeed.com/viewjob?jk=88cfda87ede16b40) — Google
 - 📍 **Location:** Mountain View, CA, US
-- 💰 **Salary:** $251k–$310k/yr
+- 💰 **Salary:** $147k–$210k/yr
 - 🕒 **Posted:** 2026-08-25
 
-### [Software Engineer - AI/ML](https://www.indeed.com/viewjob?jk=bd31f4c8ab1972ab) — Advantest
-- 📍 **Location:** San Jose, CA, US
+### [AI/ML Engineer](https://www.indeed.com/viewjob?jk=17b82fabfd5fc6f9) — micro1
+- 📍 **Location:** Palo Alto, CA, US
+- 💰 **Salary:** $200k–$350k/yr
 - 🕒 **Posted:** 2026-08-25
 
-### [Software Engineer, AI Applications](https://www.indeed.com/viewjob?jk=55094384fcc74712) — Salesforce
-- 📍 **Location:** San Francisco, CA, US
-- 💰 **Salary:** $117k–$194k/yr
-- 🕒 **Posted:** 2026-08-25
-
-### [Embedded Software Developer for RDK - B](https://www.indeed.com/viewjob?jk=8c7472cb7269a0af) — Capgemini
+### [#PE Software Engineer](https://www.indeed.com/viewjob?jk=a722b389eb3b15b5) — Qualcomm
 - 📍 **Location:** Santa Clara, CA, US
-- 💰 **Salary:** $36–$57/hr
+- 💰 **Salary:** $129k–$194k/yr
 - 🕒 **Posted:** 2026-08-25
 
-### [AI Full Stack Engineer- Agentic AI](https://www.indeed.com/viewjob?jk=fad60c05c42583c0) — EL SHADDAI TECHNOLOGIES
+### [Software Engineer, Embedded Systems, Pixel Touch](https://www.indeed.com/viewjob?jk=2e766061c9ddb4a8) — Google
 - 📍 **Location:** Mountain View, CA, US
-- 💰 **Salary:** $55–$60/hr
+- 💰 **Salary:** $174k–$252k/yr
 - 🕒 **Posted:** 2026-08-25
 
-### [Software Engineer](https://www.indeed.com/viewjob?jk=c001b1bebcfe2c68) — Goliath Partners
-- 📍 **Location:** New York, NY, US
-- 💰 **Salary:** $225k–$600k/yr
+### [Dev and AI Infra Software Engineer, Releases, XR](https://www.indeed.com/viewjob?jk=667189a2620aa247) — Google
+- 📍 **Location:** San Jose, CA, US
+- 💰 **Salary:** $207k–$300k/yr
 - 🕒 **Posted:** 2026-08-25
 
-### [AIML Engineer](https://www.indeed.com/viewjob?jk=d346d026bbc19c0d) — Capgemini
+### [Cybersecurity Engineer Level 4 - PAM](https://www.indeed.com/viewjob?jk=3bbda526990260d8) — Metropolitan Transportation Authority
 - 📍 **Location:** New York, NY, US
-- 💰 **Salary:** $32–$50/hr
+- 💰 **Salary:** $106k–$144k/yr
 - 🕒 **Posted:** 2026-08-25
 
-### [Software Engineer, Client Experience Frameworks](https://www.indeed.com/viewjob?jk=73a43be82f812f85) — Addepar
+### [Software Engineer III, Infrastructure, Keystore Platforms](https://www.indeed.com/viewjob?jk=a4cba1b4d3e6b2f0) — Google
 - 📍 **Location:** New York, NY, US
-- 💰 **Salary:** $134k–$168k/yr
+- 💰 **Salary:** $147k–$210k/yr
 - 🕒 **Posted:** 2026-08-25
 
-### [Software engineer, full-stack](https://www.indeed.com/viewjob?jk=bb05ed5e05dd4eb1) — Watershed Technology
+### [Specialist Infrastructure Engineer - Bus Command Center - Operations Support](https://www.indeed.com/viewjob?jk=542fbdb5c579ef39) — Metropolitan Transportation Authority
 - 📍 **Location:** New York, NY, US
-- 💰 **Salary:** $174k–$197k/yr
+- 💰 **Salary:** $114k–$135k/yr
 - 🕒 **Posted:** 2026-08-25
