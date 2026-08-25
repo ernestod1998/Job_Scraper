@@ -1,24 +1,32 @@
 # 🟦 Indeed — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-08-25 17:10 UTC*
+*Last updated: 2026-08-25 18:01 UTC*
 
-**4 new role(s)** since last run · 73 total in last 24h
+**6 new role(s)** since last run · 77 total in last 24h
 
-### [Software Engineer, Tech & Product](https://www.indeed.com/viewjob?jk=eeacfc2bc9ce332e) — TikTok USDS JV
-- 📍 **Location:** San Jose, CA, US
-- 💰 **Salary:** $137k–$259k/yr
+### [Software Engineer - University Hire 2027](https://www.indeed.com/viewjob?jk=63dc87ed5236a055) — The Voleon Group
+- 📍 **Location:** Berkeley, CA, US
+- 💰 **Salary:** $175k–$210k/yr
 - 🕒 **Posted:** 2026-08-25
 
-### [Programmer - Software Developer](https://www.indeed.com/viewjob?jk=aa591aecc2aa6547) — Unknown
-- 📍 **Location:** San Francisco, CA, US
-- 💰 **Salary:** $75k–$146k/yr
-- 🕒 **Posted:** 2026-08-24
-
-### [Cybersecurity Engineer Level 4 - PAM](https://www.indeed.com/viewjob?jk=5d07157d8daf46b2) — Metropolitan Transportation Authority
-- 📍 **Location:** New York, NY, US
-- 💰 **Salary:** $106k–$144k/yr
+### [Software Engineer Intern - (Summer 2027)](https://www.indeed.com/viewjob?jk=9c34d526e72398c7) — The Voleon Group
+- 📍 **Location:** Berkeley, CA, US
 - 🕒 **Posted:** 2026-08-25
 
-### [Specialist Infrastructure Engineer - Bus Command Center - Operations Support](https://www.indeed.com/viewjob?jk=a705a94490ca4e8b) — Metropolitan Transportation Authority
+### [Software Engineer - University Hire 2027](https://www.indeed.com/viewjob?jk=3aca0fa19f6a6972) — The Voleon Group
 - 📍 **Location:** New York, NY, US
-- 💰 **Salary:** $114k–$135k/yr
+- 💰 **Salary:** $175k–$210k/yr
+- 🕒 **Posted:** 2026-08-25
+
+### [Software Engineer Intern - (Summer 2027)](https://www.indeed.com/viewjob?jk=d1f1a7526be00553) — The Voleon Group
+- 📍 **Location:** New York, NY, US
+- 🕒 **Posted:** 2026-08-25
+
+### [Data Scientist](https://www.indeed.com/viewjob?jk=24adabe75eea8b28) — Neara
+- 📍 **Location:** New York, NY, US
+- 💰 **Salary:** $160k–$190k/yr
+- 🕒 **Posted:** 2026-08-25
+
+### [AI Scientist](https://www.indeed.com/viewjob?jk=0c1ea51976266b71) — Metropolitan Commercial Bank
+- 📍 **Location:** New York, NY, US
+- 💰 **Salary:** $130k–$200k/yr
 - 🕒 **Posted:** 2026-08-25
