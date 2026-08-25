@@ -1,40 +1,30 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-08-25 19:11 UTC*
+*Last updated: 2026-08-25 19:18 UTC*
 
-**9 new role(s)** since last run · 21 total in last 1h
+**6 new role(s)** since last run · 26 total in last 1h
 
-### [Machine Learning Engineer: Perception](https://www.linkedin.com/jobs/view/4408940437/) — Bedrock Robotics
+### [Software Engineer -LabVIEW and Python](https://www.linkedin.com/jobs/view/4458799894/) — MPower Plus
+- 📍 **Location:** Cupertino, CA
+- 🕒 **Posted:** 2026-08-25
+
+### [Applied Deep Learning PhD Research Intern, Reinforcement Learning for LLMs - Fall 2026](https://www.linkedin.com/jobs/view/4410874474/) — NVIDIA
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-08-25
+
+### [Software Engineer](https://www.linkedin.com/jobs/view/3986116442/) — Epic
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-08-25
 
-### [Machine Learning Engineer: Evaluation](https://www.linkedin.com/jobs/view/4367573059/) — Bedrock Robotics
+### [GPU Development Tools System Software Engineer](https://www.linkedin.com/jobs/view/4456966219/) — NVIDIA AI
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-08-25
+
+### [Biostatistician, Quantitative Epidemiology](https://www.linkedin.com/jobs/view/4456967146/) — Hinge Health
 - 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $169,600.00/yr - $254,400.00/yr
 - 🕒 **Posted:** 2026-08-25
 
-### [Software Engineer, AI Applications](https://www.linkedin.com/jobs/view/4459018721/) — Salesforce
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-08-25
-
-### [Developer Platform Engineer](https://www.linkedin.com/jobs/view/4428785295/) — Bedrock Robotics
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-08-25
-
-### [Data Scientist](https://www.linkedin.com/jobs/view/4425227915/) — Bedrock Robotics
+### [Software Engineer, Design Systems](https://www.linkedin.com/jobs/view/4457619436/) — Whatnot
 - 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-08-25
-
-### [Forward Deployed Software Engineer - Equities Technology](https://www.linkedin.com/jobs/view/4439476489/) — Millennium
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-08-25
-
-### [Machine Learning Engineer: Evaluation](https://www.linkedin.com/jobs/view/4380484519/) — Bedrock Robotics
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-08-25
-
-### [full stack engineer and scientific software](https://www.linkedin.com/jobs/view/4459000654/) — Tenzor AI Talent
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-08-25
-
-### [Developer Platform Engineer](https://www.linkedin.com/jobs/view/4428776427/) — Bedrock Robotics
-- 📍 **Location:** New York, NY
+- 💰 **Salary:** $207,000.00/yr - $230,000.00/yr
 - 🕒 **Posted:** 2026-08-25
