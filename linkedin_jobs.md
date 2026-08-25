@@ -1,64 +1,62 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-08-24 23:18 UTC*
+*Last updated: 2026-08-25 00:18 UTC*
 
-**13 new role(s)** since last run · 41 total in last 1h
+**14 new role(s)** since last run · 25 total in last 1h
 
-### [Machine Learning Engineer, Speech LLM Training](https://www.linkedin.com/jobs/view/4457170691/) — Jobright.ai
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-08-24
-
-### [Software Engineer, Backend](https://www.linkedin.com/jobs/view/4457177772/) — Tessera Labs
-- 📍 **Location:** San Jose, CA
-- 💰 **Salary:** $180,000.00/yr - $250,000.00/yr
-- 🕒 **Posted:** 2026-08-24
-
-### [SoC Test Infrastructure Engineer, Google Cloud](https://www.linkedin.com/jobs/view/4457185610/) — Google
+### [Applied Scientist, Navigation](https://www.linkedin.com/jobs/view/4458544268/) — Amazon
 - 📍 **Location:** Sunnyvale, CA
 - 🕒 **Posted:** 2026-08-24
 
-### [2027 PhD Research Engineering Intern/Co-op](https://www.linkedin.com/jobs/view/4454164309/) — AMD
-- 📍 **Location:** San Jose, CA
-- 💰 **Salary:** $91,520.00/yr - $137,280.00/yr
+### [Applied Scientist, Navigation](https://www.linkedin.com/jobs/view/4458532466/) — Amazon
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-08-24
 
-### [2027 PhD Research Engineering Intern/Co-op](https://www.linkedin.com/jobs/view/4454165339/) — AMD
+### [DevX Software Engineer (Partner 16, Partner 18), ASG](https://www.linkedin.com/jobs/view/4458542403/) — Andreessen Horowitz
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-08-24
+
+### [Applied Scientist, Prime Video - Generative AI (Video)](https://www.linkedin.com/jobs/view/4458538442/) — Prime Video & Amazon MGM Studios
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-08-24
+
+### [Software Engineer - AI/ML](https://www.linkedin.com/jobs/view/4456525881/) — Super Micro Computer Spain, S.L.
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-08-24
+
+### [Machine Learning Engineer Graduate (E-Commerce Risk Control) - 2027 Start (PhD)](https://www.linkedin.com/jobs/view/4458548197/) — ByteDance
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-08-24
+
+### [Machine Learning Engineer, Inference & Serving (Speech LLM)](https://www.linkedin.com/jobs/view/4457411255/) — Jobright.ai
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-08-24
+
+### [Software Engineer II, AWS Continuum for code vulnerabilities](https://www.linkedin.com/jobs/view/4458544271/) — Amazon Web Services (AWS)
 - 📍 **Location:** Santa Clara, CA
-- 💰 **Salary:** $91,520.00/yr - $137,280.00/yr
 - 🕒 **Posted:** 2026-08-24
 
-### [DOR Data Scientist/Engineer](https://www.linkedin.com/jobs/view/4458502944/) — Apex Systems
-- 📍 **Location:** Pleasanton, CA
-- 💰 **Salary:** $75.00/hr - $83.00/hr
+### [Software Engineer II, AWS Continuum for code vulnerabilities](https://www.linkedin.com/jobs/view/4458528589/) — Amazon Web Services (AWS)
+- 📍 **Location:** Santa Clara, CA
 - 🕒 **Posted:** 2026-08-24
 
-### [Machine Learning Engineer](https://www.linkedin.com/jobs/view/4457190053/) — Advanced Software Talent
-- 📍 **Location:** South San Francisco, CA
+### [Software Engineer - AI Agent](https://www.linkedin.com/jobs/view/4457198099/) — Jobright.ai
+- 📍 **Location:** San Mateo County, CA
 - 🕒 **Posted:** 2026-08-24
 
-### [Software Engineer, Deployment Infrastructure](https://www.linkedin.com/jobs/view/4343003573/) — Vercel
-- 📍 **Location:** San Francisco, CA
+### [Software Engineer (I) [AQ-14727]](https://www.linkedin.com/jobs/view/4456535570/) — Aquent
+- 📍 **Location:** San Jose, CA
+- 💰 **Salary:** $71.00/hr - $81.00/hr
 - 🕒 **Posted:** 2026-08-24
 
-### [Systems Software Engineer, Silicon Bringup](https://www.linkedin.com/jobs/view/4457190168/) — OpenAI
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $266,000.00/yr - $445,000.00/yr
+### [Software Engineer](https://www.linkedin.com/jobs/view/4458544119/) — Aditi Consulting
+- 📍 **Location:** Menlo Park, CA
+- 💰 **Salary:** $85.00/hr - $90.00/hr
 - 🕒 **Posted:** 2026-08-24
 
-### [Software Engineer, AI accelerator Runtime](https://www.linkedin.com/jobs/view/4457173778/) — OpenAI
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $266,000.00/yr - $445,000.00/yr
+### [AWS GenAI Platform Engineer](https://www.linkedin.com/jobs/view/4458535151/) — LTIMindtree
+- 📍 **Location:** Jersey City, NJ
 - 🕒 **Posted:** 2026-08-24
 
-### [Network Security Engineer](https://www.linkedin.com/jobs/view/4457171819/) — Tata Consultancy Services
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-08-24
-
-### [2027 PhD Research Engineering Intern/Co-op](https://www.linkedin.com/jobs/view/4454164306/) — AMD
-- 📍 **Location:** Secaucus, NJ
-- 💰 **Salary:** $91,520.00/yr - $137,280.00/yr
-- 🕒 **Posted:** 2026-08-24
-
-### [Full Stack Engineer](https://www.linkedin.com/jobs/view/4456539177/) — Narmi
+### [Associate, Software Developer - Fixed Income Technology (NY Repo, Python)](https://www.linkedin.com/jobs/view/4458527742/) — Jefferies
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $145,000.00/yr - $161,000.00/yr
 - 🕒 **Posted:** 2026-08-24
