@@ -1,114 +1,99 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-08-26 16:19 UTC*
+*Last updated: 2026-08-26 17:19 UTC*
 
-**25 new role(s)** since last run · 25 total in last 1h
+**23 new role(s)** since last run · 48 total in last 1h
 
-### [ML Infrastructure Engineer](https://www.linkedin.com/jobs/view/4349692925/) — Gridware
-- 📍 **Location:** San Francisco Bay Area
-- 💰 **Salary:** $190,000.00/yr - $250,000.00/yr
+### [Software Engineer, AI/ML, Google Research](https://www.linkedin.com/jobs/view/4457964942/) — Google
+- 📍 **Location:** Mountain View, CA
 - 🕒 **Posted:** 2026-08-26
 
-### [Data Scientist, Finance (Infrastructure & AI)](https://www.linkedin.com/jobs/view/4457266586/) — Meta
-- 📍 **Location:** Menlo Park, CA
-- 💰 **Salary:** $210,000.00/yr - $281,000.00/yr
+### [Machine Learning Engineer, Speech LLM Training](https://www.linkedin.com/jobs/view/4457975017/) — Jobright.ai
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-08-26
 
-### [Computational Materials Research Engineer](https://www.linkedin.com/jobs/view/4457272135/) — WD
-- 📍 **Location:** San Jose, CA
-- 💰 **Salary:** $134,800.00/yr - $179,700.00/yr
+### [Software Engineer, Agent Harness](https://www.linkedin.com/jobs/view/4459333726/) — EngRadar
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-08-26
 
-### [Software Engineer, Systems ML - Compilers / Backend](https://www.linkedin.com/jobs/view/4457269195/) — Meta
+### [Business Data Scientist, Subscriptions and Customer Growth Marketing](https://www.linkedin.com/jobs/view/4457954964/) — Google
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-08-26
+
+### [Software Engineer - C++ Core Data](https://www.linkedin.com/jobs/view/4459328803/) — EngRadar
+- 📍 **Location:** Foster City, CA
+- 🕒 **Posted:** 2026-08-26
+
+### [Software Engineer, UX, DeepMind](https://www.linkedin.com/jobs/view/4457972052/) — Google DeepMind
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-08-26
+
+### [Full-Stack Engineer](https://www.linkedin.com/jobs/view/4459326801/) — eTeam
 - 📍 **Location:** Sunnyvale, CA
-- 💰 **Salary:** $121,992.00/yr - $181,000.00/yr
+- 💰 **Salary:** $110.00/hr - $111.00/hr
 - 🕒 **Posted:** 2026-08-26
 
-### [Software Engineer - Product (Technical Leadership)](https://www.linkedin.com/jobs/view/4457284041/) — Meta
+### [Software Engineer, Product](https://www.linkedin.com/jobs/view/4459317883/) — EngRadar
 - 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $219,000.00/yr - $301,000.00/yr
 - 🕒 **Posted:** 2026-08-26
 
-### [Data Scientist](https://www.linkedin.com/jobs/view/4459318453/) — BCforward
-- 📍 **Location:** Menlo Park, CA
+### [Software Engineer, Sandboxing](https://www.linkedin.com/jobs/view/4459330749/) — EngRadar
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-08-26
 
-### [Software Engineer - AI Agent](https://www.linkedin.com/jobs/view/4457960929/) — Jobright.ai
+### [Software Engineer, Creator Studio](https://www.linkedin.com/jobs/view/4459324875/) — EngRadar
+- 📍 **Location:** San Mateo, CA
+- 🕒 **Posted:** 2026-08-26
+
+### [Business Data Scientist, Subscriptions and Customer Growth Marketing](https://www.linkedin.com/jobs/view/4457964950/) — Google
+- 📍 **Location:** Mountain View, CA
+- 🕒 **Posted:** 2026-08-26
+
+### [Machine Learning Engineer, Inference & Serving (Speech LLM)](https://www.linkedin.com/jobs/view/4457970294/) — Jobright.ai
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-08-26
+
+### [Platform Engineer](https://www.linkedin.com/jobs/view/4457984179/) — Unify Technologies
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-08-26
+
+### [Software Engineer](https://www.linkedin.com/jobs/view/4459318825/) — EngRadar
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-08-26
+
+### [Security Engineer III, Cloud Security Controls](https://www.linkedin.com/jobs/view/4457954959/) — Google
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-08-26
+
+### [Software Engineer: Backend](https://www.linkedin.com/jobs/view/4450836768/) — Thatch
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-08-26
+
+### [AI/ML Engineer](https://www.linkedin.com/jobs/view/4457974168/) — Harnham
 - 📍 **Location:** San Mateo County, CA
+- 💰 **Salary:** $250,000.00/yr - $350,000.00/yr
 - 🕒 **Posted:** 2026-08-26
 
-### [Software Engineer DevOps](https://www.linkedin.com/jobs/view/4459322326/) — Johnson & Johnson MedTech
-- 📍 **Location:** Santa Clara, CA
+### [AI Platform Engineer](https://www.linkedin.com/jobs/view/4457287373/) — Vserv Infosystems Private Limited
+- 📍 **Location:** Manhattan, NY
+- 💰 **Salary:** $120,000.00/yr - $180,000.00/yr
 - 🕒 **Posted:** 2026-08-26
 
-### [Network DevOps Engineer - W2 ONLY](https://www.linkedin.com/jobs/view/4457954814/) — InvestM Technology LLC
-- 📍 **Location:** San Francisco, CA
+### [Software Engineer – NYC](https://www.linkedin.com/jobs/view/4457273427/) — Carex Consulting Group
+- 📍 **Location:** Brooklyn, NY
 - 🕒 **Posted:** 2026-08-26
 
-### [Software Engineer](https://www.linkedin.com/jobs/view/4459321501/) — Infobahn Softworld Inc
-- 📍 **Location:** Palo Alto, CA
+### [Software Engineer](https://www.linkedin.com/jobs/view/4422381283/) — The Depository Trust & Clearing Corporation (DTCC)
+- 📍 **Location:** Jersey City, NJ
 - 🕒 **Posted:** 2026-08-26
 
-### [Software Engineering Technical Leader](https://www.linkedin.com/jobs/view/4459335207/) — Cisco
-- 📍 **Location:** Milpitas, CA
-- 🕒 **Posted:** 2026-08-26
-
-### [IT & Security Engineer](https://www.linkedin.com/jobs/view/4457947824/) — Ultimate Staffing
-- 📍 **Location:** San Francisco County, CA
-- 💰 **Salary:** $120,000.00/yr - $140,000.00/yr
-- 🕒 **Posted:** 2026-08-26
-
-### [DevOps Engineer](https://www.linkedin.com/jobs/view/4459328300/) — Nexwave
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-08-26
-
-### [AI/ ML Software Engineer II](https://www.linkedin.com/jobs/view/4459192946/) — JPMorganChase
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $123,500.00/yr - $150,000.00/yr
-- 🕒 **Posted:** 2026-08-26
-
-### [Research Scientist/Research Engineer, Reinforcement Learning](https://www.linkedin.com/jobs/view/4457946776/) — Jump Trading
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-08-26
-
-### [Data Scientist, Analytics (Ranking, AI)](https://www.linkedin.com/jobs/view/4457286020/) — Meta
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $177,000.00/yr - $247,000.00/yr
-- 🕒 **Posted:** 2026-08-26
-
-### [Infrastructure Engineer](https://www.linkedin.com/jobs/view/4457951798/) — Imprint
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-08-26
-
-### [Client Technology - Engineering - Software Engineering](https://www.linkedin.com/jobs/view/4418244800/) — EY
-- 📍 **Location:** Hoboken, NJ
-- 🕒 **Posted:** 2026-08-26
-
-### [Software Engineer II](https://www.linkedin.com/jobs/view/4457957777/) — Garner Health
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-08-26
-
-### [Software Engineer](https://www.linkedin.com/jobs/view/4457284034/) — TBG | The Bachrach Group
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $130,000.00/yr - $160,000.00/yr
-- 🕒 **Posted:** 2026-08-26
-
-### [Python Full Stack Engineer](https://www.linkedin.com/jobs/view/4459319313/) — Mumba Technologies, Inc.
+### [DevOps Engineer](https://www.linkedin.com/jobs/view/4457270559/) — NYC Mayor's Office of Contract Services
 - 📍 **Location:** Manhattan, NY
 - 🕒 **Posted:** 2026-08-26
 
-### [Frontend Developer(React / Next.js / Sitecore JSS)](https://www.linkedin.com/jobs/view/4454416758/) — Harvey Nash
-- 📍 **Location:** Jersey City, NJ
-- 💰 **Salary:** $65.00/hr - $71.00/hr
-- 🕒 **Posted:** 2026-08-26
-
-### [Databricks Platform Engineer (AWS)](https://www.linkedin.com/jobs/view/4457967820/) — Smart IT Frame LLC
+### [Infrastructure Platform Engineer](https://www.linkedin.com/jobs/view/4457269540/) — Tapestry
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-08-26
 
-### [Security Engineer III, Cloud Security Controls](https://www.linkedin.com/jobs/view/4457966928/) — Google
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-08-26
-
-### [Software Engineer III, Storage Infrastructure](https://www.linkedin.com/jobs/view/4457961956/) — Google
+### [Infrastructure Engineer](https://www.linkedin.com/jobs/view/4448541903/) — Orveon Global
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-08-26
