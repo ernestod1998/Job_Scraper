@@ -1,20 +1,32 @@
 # 🧬 Biotech LinkedIn — MLE / DS Roles
-*Last updated: 2026-08-25 04:05 UTC*
+*Last updated: 2026-08-26 04:09 UTC*
 
-**4 new role(s)** since last run · 34 total in last 24h
+**7 new role(s)** since last run · 38 total in last 24h
 
-### [Machine Learning Research Engineer ](https://job-boards.greenhouse.io/profluent/jobs/5195933008) — Profluent
-- 📍 **Location:** Emeryville, California, United States; Hybrid (2-3 days on-site)
-- 🕒 **Posted:** 2026-08-24
+### [Data Scientist, Portfolio Optimization](https://job-boards.greenhouse.io/formationbio/jobs/7757667) — Formation Bio
+- 📍 **Location:** New York, NY; Boston, MA
+- 🕒 **Posted:** 2026-08-25
 
-### [Software Engineer, Machine Learning Platform](https://job-boards.greenhouse.io/profluent/jobs/5290271008) — Profluent
-- 📍 **Location:** Emeryville, California, United States; Hybrid (2-3 days on-site)
-- 🕒 **Posted:** 2026-08-24
+### [Software Engineer (Open Level)](https://job-boards.greenhouse.io/formationbio/jobs/7821695) — Formation Bio
+- 📍 **Location:** New York, NY; Boston MA; San Francisco, CA
+- 🕒 **Posted:** 2026-08-25
 
-### [ Software Engineer, Model Evaluation and Improvement](https://jobs.ashbyhq.com/benchling/3fbb23bd-c06c-49da-8834-4da67200275e) — Benchling
+### [Cheminformatics & Synthesis Prediction](https://job-boards.greenhouse.io/ginkgobioworks/jobs/5220505007) — Ginkgo Bioworks
+- 📍 **Location:** Boston, Massachusetts
+- 🕒 **Posted:** 2026-08-25
+
+### [Software Engineer, Platform (Developer Experience)](https://jobs.ashbyhq.com/benchling/63d7d126-efaf-4a48-b328-f8d85b640ebf) — Benchling
 - 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-08-24
+- 🕒 **Posted:** 2026-08-25
 
-### [Machine Learning Engineer, AI Studio](https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Machine-Learning-Engineer--AI-Studio_R-250796) — Amgen
-- 📍 **Location:** United States - Remote
-- 🕒 **Posted:** Posted Today
+### [Cheminformatics & Synthesis Prediction](https://job-boards.greenhouse.io/ginkgobioworks/jobs/5220505007) — Bitome, Inc.
+- 📍 **Location:** Boston, Massachusetts
+- 🕒 **Posted:** 2026-08-25
+
+### [2027 Business Technology Solutions Intern - Data & Software Engineering (Undergraduate)](https://www.linkedin.com/jobs/view/4457681530/) — AbbVie
+- 📍 **Location:** South San Francisco, CA
+- 🕒 **Posted:** 2026-08-25
+
+### [MSAT Data Science Engineer](https://www.linkedin.com/jobs/view/4430968589/) — Allogene Therapeutics
+- 📍 **Location:** Newark, CA
+- 🕒 **Posted:** 2026-08-25
