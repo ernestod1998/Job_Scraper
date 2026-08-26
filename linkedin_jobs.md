@@ -1,69 +1,51 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-08-26 20:18 UTC*
+*Last updated: 2026-08-26 21:18 UTC*
 
-**15 new role(s)** since last run · 22 total in last 1h
+**11 new role(s)** since last run · 24 total in last 1h
 
-### [Machine Learning Engineer, Search and Shopping Ads](https://www.linkedin.com/jobs/view/4457980672/) — Google
+### [Software Engineer, Distributed Systems](https://www.linkedin.com/jobs/view/4457701181/) — eBay
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-08-26
+
+### [Embedded Software Engineer, Drive-By-Wire](https://www.linkedin.com/jobs/view/4458311121/) — Gatik
+- 📍 **Location:** Santa Clara, CA
+- 💰 **Salary:** $160,000.00/yr - $260,000.00/yr
+- 🕒 **Posted:** 2026-08-26
+
+### [Software Engineer I (Oakland, CA - US)](https://www.linkedin.com/jobs/view/4459373631/) — Energy Solutions
+- 📍 **Location:** Oakland, CA
+- 🕒 **Posted:** 2026-08-26
+
+### [Full Stack Software Engineer](https://www.linkedin.com/jobs/view/4458301156/) — BetterHelp
 - 📍 **Location:** Mountain View, CA
 - 🕒 **Posted:** 2026-08-26
 
-### [Backend & AI Platform Engineer](https://www.linkedin.com/jobs/view/4457295033/) — Beckman Coulter Life Sciences
+### [Snr Infrastructure Engineer](https://www.linkedin.com/jobs/view/4457994268/) — Signify Technology
 - 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-08-26
 
-### [Robotics Software Engineer (Controls & Perception)](https://www.linkedin.com/jobs/view/4457270987/) — Beckman Coulter Life Sciences
-- 📍 **Location:** San Jose, CA
+### [Research Associate II ~ Bioanalytical/In Vitro ADME/DMPK](https://www.linkedin.com/jobs/view/4459382476/) — Nurix Therapeutics
+- 📍 **Location:** Brisbane, CA
 - 🕒 **Posted:** 2026-08-26
 
-### [Infrastructure Engineer](https://www.linkedin.com/jobs/view/4459375393/) — Imprint
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $170,000.00/yr - $230,000.00/yr
-- 🕒 **Posted:** 2026-08-26
-
-### [Data Scientist - TikTok Ads](https://www.linkedin.com/jobs/view/4296065375/) — TikTok
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-08-26
-
-### [Research Engineer/Scientist](https://www.linkedin.com/jobs/view/4459368557/) — Center for AI Safety
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $140,000.00/yr - $200,000.00/yr
-- 🕒 **Posted:** 2026-08-26
-
-### [Research Engineer Intern](https://www.linkedin.com/jobs/view/4459377414/) — Center for AI Safety
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $9,700.00/yr - $19,000.00/yr
-- 🕒 **Posted:** 2026-08-26
-
-### [Software Engineer - Infrastructure](https://www.linkedin.com/jobs/view/4458310002/) — Modern Treasury
-- 📍 **Location:** San Francisco Bay Area
-- 💰 **Salary:** $150,000.00/yr - $250,000.00/yr
-- 🕒 **Posted:** 2026-08-26
-
-### [Software Engineer Security](https://www.linkedin.com/jobs/view/4435846627/) — Thinking Machines Lab
-- 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-08-26
-
-### [Software Engineer I, Memberships](https://www.linkedin.com/jobs/view/4457986953/) — Twitch
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-08-26
-
-### [DevOps Engineer](https://www.linkedin.com/jobs/view/4459186949/) — New York Technology Partners
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-08-26
-
-### [Data Scientist V- #26-21251](https://www.linkedin.com/jobs/view/4457983604/) — US Tech Solutions
-- 📍 **Location:** Menlo Park, CA
-- 💰 **Salary:** $70.00/hr - $150.00/hr
-- 🕒 **Posted:** 2026-08-26
-
-### [Software Engineer II, Fintech](https://www.linkedin.com/jobs/view/4458301011/) — Twitch
+### [Software Engineer - Capital Markets](https://www.linkedin.com/jobs/view/4459603256/) — SMBC Group
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-08-26
 
-### [Data Science & Advanced Analytics](https://www.linkedin.com/jobs/view/4419376244/) — East West Bank
+### [Software Engineer II (Backend Java)](https://www.linkedin.com/jobs/view/4459605107/) — Russell Tobin
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $69.80/hr - $69.80/hr
+- 🕒 **Posted:** 2026-08-26
+
+### [Software Engineer III: Frontend Developer](https://www.linkedin.com/jobs/view/4459387205/) — JPMorganChase
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $137,750.00/yr - $185,000.00/yr
+- 🕒 **Posted:** 2026-08-26
+
+### [Software Engineer I (New York, NY - US)](https://www.linkedin.com/jobs/view/4459394033/) — Energy Solutions
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-08-26
 
-### [Software Developer](https://www.linkedin.com/jobs/view/4459319187/) — BMO U.S.
-- 📍 **Location:** Berkeley Heights, NJ
+### [Infrastructure Engineer (SSCM)](https://www.linkedin.com/jobs/view/4459397158/) — New York Technology Partners
+- 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-08-26
