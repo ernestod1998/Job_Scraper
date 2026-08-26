@@ -1,54 +1,46 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-08-26 18:18 UTC*
+*Last updated: 2026-08-26 19:18 UTC*
 
-**12 new role(s)** since last run · 18 total in last 1h
+**10 new role(s)** since last run · 21 total in last 1h
 
-### [Applied Scientist , Prime Video Personalization and Discovery](https://www.linkedin.com/jobs/view/4459353342/) — Prime Video & Amazon MGM Studios
+### [Applied Data Scientist - AI Enablement (Transportation)](https://www.linkedin.com/jobs/view/4457977509/) — HDR
+- 📍 **Location:** Walnut Creek, CA
+- 🕒 **Posted:** 2026-08-26
+
+### [Data Scientist (Growth)](https://www.linkedin.com/jobs/view/4457985600/) — Rox
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-08-26
+
+### [Développeur.euse de logiciels spécialisés en testabilité / Software Developer in Test](https://www.linkedin.com/jobs/view/4419203050/) — Electronic Arts (EA)
+- 📍 **Location:** Redwood City, CA
+- 🕒 **Posted:** 2026-08-26
+
+### [Software Engineer - AI Agent](https://www.linkedin.com/jobs/view/4457971507/) — Jobright.ai
+- 📍 **Location:** San Mateo County, CA
+- 🕒 **Posted:** 2026-08-26
+
+### [Site Reliability Engineer-Americas & EMEA Tech](https://www.linkedin.com/jobs/view/4457991456/) — Ant International
 - 📍 **Location:** Sunnyvale, CA
+- 💰 **Salary:** $100,000.00/yr - $150,000.00/yr
 - 🕒 **Posted:** 2026-08-26
 
-### [Software Engineer Intern, AI Solutions](https://www.linkedin.com/jobs/view/4457986258/) — Cloudwick
-- 📍 **Location:** San Francisco Bay Area
+### [Control Plane & Observability Software Engineer, Hyperscale Line of Business](https://www.linkedin.com/jobs/view/4457973762/) — Everpure
+- 📍 **Location:** Santa Clara, CA
 - 🕒 **Posted:** 2026-08-26
 
-### [Software Engineer](https://www.linkedin.com/jobs/view/4459354312/) — Column
-- 📍 **Location:** San Francisco, CA
+### [Software Engineer DevOps](https://www.linkedin.com/jobs/view/4459349531/) — PharmaPayWatch
+- 📍 **Location:** Santa Clara, CA
 - 🕒 **Posted:** 2026-08-26
 
-### [Frontend Engineer - BizBuySell - San Francisco](https://www.linkedin.com/jobs/view/4440583808/) — BizBuySell
-- 📍 **Location:** San Francisco, CA
+### [Applied Data Scientist - AI Enablement (Transportation)](https://www.linkedin.com/jobs/view/4457969596/) — HDR
+- 📍 **Location:** Newark, NJ
 - 🕒 **Posted:** 2026-08-26
 
-### [Software Engineer in Test- Pleasanton, CA](https://www.linkedin.com/jobs/view/4449422012/) — Calyxo, Inc.
-- 📍 **Location:** Pleasanton, CA
-- 🕒 **Posted:** 2026-08-26
-
-### [PIXEL TEST AUTOMATION ENGINEER - PYTHON, HIL & COMPUTER VISION](https://www.linkedin.com/jobs/view/4457285622/) — Wise Skulls
-- 📍 **Location:** Mountain View, CA
-- 🕒 **Posted:** 2026-08-26
-
-### [CyberSecurity Engineering](https://www.linkedin.com/jobs/view/4457250092/) — Orvanta
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-08-26
-
-### [The Core Engineering-Corporate Treasury, New York, Associate, Software Engineering](https://www.linkedin.com/jobs/view/4439813433/) — Goldman Sachs
+### [Applied Data Scientist - AI Enablement (Transportation)](https://www.linkedin.com/jobs/view/4457981487/) — HDR
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-08-26
 
-### [Backend Engineer (Mid-Level)](https://www.linkedin.com/jobs/view/4459338094/) — Spade
+### [Computer Vision & ML Expert](https://www.linkedin.com/jobs/view/4456442051/) — Alignerr
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $170,000.00/yr - $200,000.00/yr
-- 🕒 **Posted:** 2026-08-26
-
-### [Cloud Data Platform Engineer II (CEMI)](https://www.linkedin.com/jobs/view/4456506584/) — Weill Cornell Medicine
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-08-26
-
-### [Network Engineer (Devops)](https://www.linkedin.com/jobs/view/4457980305/) — iTech US Inc
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $45.00/hr - $60.00/hr
-- 🕒 **Posted:** 2026-08-26
-
-### [GCP DevOps Engineer](https://www.linkedin.com/jobs/view/4459348284/) — TEKsystems
-- 📍 **Location:** Secaucus, NJ
+- 💰 **Salary:** $100.00/hr - $150.00/hr
 - 🕒 **Posted:** 2026-08-26
