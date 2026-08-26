@@ -1,72 +1,111 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-08-26 22:18 UTC*
+*Last updated: 2026-08-26 23:18 UTC*
 
-**16 new role(s)** since last run · 28 total in last 1h
+**25 new role(s)** since last run · 39 total in last 1h
 
-### [Infrastructure Engineer](https://www.linkedin.com/jobs/view/4459601133/) — HCLTech
-- 📍 **Location:** Santa Clara County, CA
-- 💰 **Salary:** $120,000.00/yr - $160,000.00/yr
-- 🕒 **Posted:** 2026-08-26
-
-### [Data Science Leader, HCM](https://www.linkedin.com/jobs/view/4458307335/) — SAP
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-08-26
-
-### [Software Engineer, Research Tools](https://www.linkedin.com/jobs/view/4459604331/) — Thinking Machines Lab
+### [Machine Learning Engineer, Speech LLM Training](https://www.linkedin.com/jobs/view/4458310378/) — Jobright.ai
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-08-26
 
-### [Software Engineer, Evaluation Platform / Infra](https://www.linkedin.com/jobs/view/4459393408/) — Thinking Machines Lab
+### [Site Reliability Engineer, Tinker](https://www.linkedin.com/jobs/view/4459610661/) — Thinking Machines Lab
 - 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $300,000.00/yr - $475,000.00/yr
+- 💰 **Salary:** $350,000.00/yr - $475,000.00/yr
 - 🕒 **Posted:** 2026-08-26
 
-### [Software Engineer, Planner](https://www.linkedin.com/jobs/view/4458317257/) — Waymo
-- 📍 **Location:** Mountain View, CA
+### [Data Scientist- Hardware Quality (Hybrid)](https://www.linkedin.com/jobs/view/4459387603/) — Cisco
+- 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-08-26
 
-### [Software Engineer, AI Workflows](https://www.linkedin.com/jobs/view/4398965812/) — Notion
+### [Site Reliability Engineer, RL Infra](https://www.linkedin.com/jobs/view/4459610680/) — Thinking Machines Lab
 - 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $350,000.00/yr - $475,000.00/yr
 - 🕒 **Posted:** 2026-08-26
 
-### [Software Engineer, Planner](https://www.linkedin.com/jobs/view/4458309340/) — Waymo
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-08-26
-
-### [Full Stack Engineer III](https://www.linkedin.com/jobs/view/4459387591/) — RLink Solutions
+### [Data Scientist Intern](https://www.linkedin.com/jobs/view/4457995598/) — Jobright.ai
 - 📍 **Location:** San Francisco Bay Area
 - 🕒 **Posted:** 2026-08-26
 
-### [Full Stack Engineer](https://www.linkedin.com/jobs/view/4459391521/) — Yoh, A Day & Zimmermann Company
-- 📍 **Location:** Mountain View, CA
+### [Applied Scientist, Prime Video - Generative AI (Video)](https://www.linkedin.com/jobs/view/4457704450/) — Amazon Science
+- 📍 **Location:** Sunnyvale, CA
 - 🕒 **Posted:** 2026-08-26
 
-### [Software Engineer III , Caching](https://www.linkedin.com/jobs/view/4459399576/) — Box
-- 📍 **Location:** Redwood City, CA
+### [Applied Scientist, Prime Video - Generative AI (Video)](https://www.linkedin.com/jobs/view/4457700505/) — Amazon Science
+- 📍 **Location:** Sunnyvale, CA
 - 🕒 **Posted:** 2026-08-26
 
-### [Full Stack Software Engineer](https://www.linkedin.com/jobs/view/4458307503/) — LM Studio
+### [Machine Learning Engineer, Inference & Serving (Speech LLM)](https://www.linkedin.com/jobs/view/4458314494/) — Jobright.ai
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-08-26
+
+### [Embedded Software Engineer Intern (Spring 2027)](https://www.linkedin.com/jobs/view/4459610865/) — Zipline
+- 📍 **Location:** South San Francisco, CA
+- 🕒 **Posted:** 2026-08-26
+
+### [DevOps Engineer(AWS | Terraform | Kubernetes)](https://www.linkedin.com/jobs/view/4458313509/) — Programming.com
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-08-26
+
+### [Full-Stack Software Engineer](https://www.linkedin.com/jobs/view/4433176517/) — Quadric
+- 📍 **Location:** Burlingame, CA
+- 💰 **Salary:** $110,000.00/yr - $270,000.00/yr
+- 🕒 **Posted:** 2026-08-26
+
+### [Software Engineer, Airspace Platform](https://www.linkedin.com/jobs/view/4459388972/) — Zipline
+- 📍 **Location:** South San Francisco, CA
+- 🕒 **Posted:** 2026-08-26
+
+### [Software Engineer III, Infrastructure, Infra Bigtable](https://www.linkedin.com/jobs/view/4458311460/) — Google
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-08-26
+
+### [Software Engineer, Foundations](https://www.linkedin.com/jobs/view/4459603634/) — Front
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-08-26
+
+### [Software Engineer, Creator](https://www.linkedin.com/jobs/view/4457994899/) — Roblox
+- 📍 **Location:** San Mateo, CA
+- 🕒 **Posted:** 2026-08-26
+
+### [Software Engineer - Android](https://www.linkedin.com/jobs/view/4458316403/) — Dinan & Assocciates
+- 📍 **Location:** San Francisco Bay Area
+- 💰 **Salary:** $200,000.00/yr - $235,000.00/yr
+- 🕒 **Posted:** 2026-08-26
+
+### [Wireless Systems Software Engineer](https://www.linkedin.com/jobs/view/4459387793/) — HP IQ
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-08-26
+
+### [Full Stack Software Engineer – Python & React (Hybrid - Sunnyvale, CA)](https://www.linkedin.com/jobs/view/4459603791/) — The Mom Project
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-08-26
+
+### [Infrastructure Engineer](https://www.linkedin.com/jobs/view/4457297522/) — SoTalent
+- 📍 **Location:** Vacaville, CA
+- 🕒 **Posted:** 2026-08-26
+
+### [Applied Scientist, Prime Video - Generative AI (Video)](https://www.linkedin.com/jobs/view/4457293814/) — Amazon Science
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-08-26
+
+### [Software Engineer III, Infrastructure, Infra Bigtable](https://www.linkedin.com/jobs/view/4458305505/) — Google
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $150,000.00/yr - $350,000.00/yr
 - 🕒 **Posted:** 2026-08-26
 
-### [Software Engineer](https://www.linkedin.com/jobs/view/4459398517/) — Fidelity Investments
-- 📍 **Location:** Jersey City, NJ
-- 🕒 **Posted:** 2026-08-26
-
-### [Product Security Engineer](https://www.linkedin.com/jobs/view/4459387067/) — YipitData
+### [Software Engineer II (Hybrid)](https://www.linkedin.com/jobs/view/4459606800/) — Kforce Inc
 - 📍 **Location:** New York, NY
+- 💰 **Salary:** $56.00/hr - $66.14/hr
 - 🕒 **Posted:** 2026-08-26
 
-### [Machine Learning Engineer-Predictive Intelligence](https://www.linkedin.com/jobs/view/4457220796/) — Jobot
-- 📍 **Location:** Hoboken, NJ
-- 💰 **Salary:** $140,000.00/yr - $180,000.00/yr
-- 🕒 **Posted:** 2026-08-26
-
-### [Machine Learning Engineer-Predictive Intelligence](https://www.linkedin.com/jobs/view/4457241670/) — Jobot
+### [Software Engineer, Codex Cyber](https://www.linkedin.com/jobs/view/4458313595/) — OpenAI
 - 📍 **Location:** New York, NY
+- 💰 **Salary:** $230,000.00/yr - $405,000.00/yr
 - 🕒 **Posted:** 2026-08-26
 
-### [Computational Biologist, Immune Cell Repolarization](https://www.linkedin.com/jobs/view/4457708295/) — Biohub
+### [Full Stack Software Engineer, Cybersecurity Products](https://www.linkedin.com/jobs/view/4458316511/) — OpenAI
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $230,000.00/yr - $405,000.00/yr
+- 🕒 **Posted:** 2026-08-26
+
+### [Application Security Engineer](https://www.linkedin.com/jobs/view/4457333650/) — Saicon
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-08-26
