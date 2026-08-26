@@ -1,8 +1,6 @@
 # 🏛 NEOGOV — State & Local Government Roles
-*Last updated: 2026-08-25 17:00 UTC*
+*Last updated: 2026-08-26 18:08 UTC*
 
-**1 new role(s)** since last run · 1 total in recent GovernmentJobs postings
+**0 new role(s)** since last run · 0 total in recent GovernmentJobs postings
 
-### [Programmer - Software Developer](https://www.governmentjobs.com/jobs/5458435-0/programmer-software-developer) — US District Courts, Northern District of California
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $74,673.00 - $145,507.00 Annually
+No new state/local-gov roles since the last run.
