@@ -1,56 +1,44 @@
 # 🗃 Direct ATS Registry — Engineering / ML / DS Roles
-*Last updated: 2026-08-25 14:48 UTC*
+*Last updated: 2026-08-26 14:46 UTC*
 
-**13 new role(s)** since last run · 78 total in current registry shard
+**10 new role(s)** since last run · 78 total in current registry shard
 
-### [Software Engineer, II - Autonomy Data ](https://job-boards.greenhouse.io/torcrobotics/jobs/8677422002) — Torc Robotics
-- 📍 **Location:** Remote - US, Blacksburg, VA
-- 🕒 **Posted:** 2026-08-24
-
-### [Backend Engineer, Alarms](https://job-boards.greenhouse.io/verkada/jobs/5191604007) — Verkada
-- 📍 **Location:** San Mateo, CA United States
-- 🕒 **Posted:** 2026-08-24
-
-### [Backend Engineer - Connectivity](https://job-boards.greenhouse.io/verkada/jobs/5194598007) — Verkada
-- 📍 **Location:** San Mateo, CA United States
-- 🕒 **Posted:** 2026-08-24
-
-### [Embedded Software Engineer, Access Control](https://job-boards.greenhouse.io/verkada/jobs/5194716007) — Verkada
-- 📍 **Location:** San Mateo, CA United States
-- 🕒 **Posted:** 2026-08-24
-
-### [Software Engineer - Computer Vision](https://job-boards.greenhouse.io/verkada/jobs/5195995007) — Verkada
-- 📍 **Location:** San Mateo, CA United States
-- 🕒 **Posted:** 2026-08-24
-
-### [Software Engineer, Full Stack](https://jobs.lever.co/AIFund/f02096c9-21c0-42a0-9568-08907fdd7f90) — AI Fund
-- 📍 **Location:** Mountain View, CA
-- 🕒 **Posted:** 2026-08-12
-
-### [IBP Supply Planning Data Scientist](https://agilent.wd5.myworkdayjobs.com/Agilent_Careers/job/Singapore-Yishun/IBP-Supply-Planning-Data-Scientist_4039190) — Agilent Technologies
-- 📍 **Location:** US-CA-Santa Clara
-- 🕒 **Posted:** Posted Today
-
-### [Physics AI Scientist IV](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Physics-AI-Scientist-III_R2626857) — Applied Materials
-- 📍 **Location:** Santa Clara,CA
-- 🕒 **Posted:** Posted Yesterday
-
-### [Associate, Full Stack Engineer](https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/job/San-Francisco-CA/Associate--Full-Stack-Engineer_R265953) — BlackRock
+### [Software Engineer II, Fintech](https://job-boards.greenhouse.io/twitch/jobs/8743145002) — Twitch
 - 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** Posted Yesterday
+- 🕒 **Posted:** 2026-08-25
 
-### [Experienced Simulation Software Engineer - Training Systems](https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Hazelwood-MO/Experienced-Simulation-Software-Engineer---Training-Systems_JR2026521191) — Boeing
-- 📍 **Location:** USA - Berkeley, MO
-- 🕒 **Posted:** Posted Today
+### [Backend Software Engineering Intern 2027](https://job-boards.greenhouse.io/verkada/jobs/5210813007) — Verkada
+- 📍 **Location:** San Mateo, CA United States
+- 🕒 **Posted:** 2026-08-25
 
-### [Associate Security Engineer (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote-TX/Security-Engineer--Remote-_R26320) — Crowdstrike
-- 📍 **Location:** USA - Remote, TX
-- 🕒 **Posted:** Posted Today
+### [Embedded Software Engineering Intern 2027](https://job-boards.greenhouse.io/verkada/jobs/5211595007) — Verkada
+- 📍 **Location:** San Mateo, CA United States
+- 🕒 **Posted:** 2026-08-25
 
-### [Software Engineer II](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Glendale-CA-USA/Software-Engineer-II_10148551-2) — The Walt Disney Company
-- 📍 **Location:** New York, NY, USA
-- 🕒 **Posted:** Posted Yesterday
+### [Frontend Software Engineering Intern 2027](https://job-boards.greenhouse.io/verkada/jobs/5210942007) — Verkada
+- 📍 **Location:** San Mateo, CA United States
+- 🕒 **Posted:** 2026-08-25
 
-### [Software Engineer II](https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Glendale-CA-USA/Software-Engineer-II_10148551) — The Walt Disney Company
-- 📍 **Location:** New York, NY, USA
+### [Mobile Software Engineering Intern 2027](https://job-boards.greenhouse.io/verkada/jobs/5219131007) — Verkada
+- 📍 **Location:** San Mateo, CA United States
+- 🕒 **Posted:** 2026-08-25
+
+### [Security Software Engineering Intern 2027](https://job-boards.greenhouse.io/verkada/jobs/5213881007) — Verkada
+- 📍 **Location:** San Mateo, CA United States
+- 🕒 **Posted:** 2026-08-25
+
+### [Junior Software Engineer](https://job-boards.greenhouse.io/waymark/jobs/4711827005) — Waymark
+- 📍 **Location:** US - Remote
+- 🕒 **Posted:** 2026-08-18
+
+### [Embedded Software Engineer](https://job-boards.greenhouse.io/workstream/jobs/6111335004) — Workstream
+- 📍 **Location:** Menlo Park, California
+- 🕒 **Posted:** 2026-08-17
+
+### [Android Engineer III](https://jobs.lever.co/matchgroup/cb977666-1e41-4098-ad9c-6ab387e56a7a) — Tinder
+- 📍 **Location:** New York, New York
+- 🕒 **Posted:** 2026-08-21
+
+### [Google Cloud Platform Engineer Expert (Remote, US)](https://allstate.wd5.myworkdayjobs.com/allstate_careers/job/USA---IL-Remote/Google-Cloud-Platform-Engineer-Expert--Remote--US-_R33813-1) — Allstate Insurance Company
+- 📍 **Location:** USA - IL (Remote)
 - 🕒 **Posted:** Posted Yesterday
