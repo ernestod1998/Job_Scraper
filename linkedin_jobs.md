@@ -1,56 +1,124 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-08-28 22:18 UTC*
+*Last updated: 2026-08-28 23:34 UTC*
 
-**13 new role(s)** since last run · 17 total in last 1h
+**28 new role(s)** since last run · 28 total in last 1h
 
-### [Software Engineer, AI Workflows](https://www.linkedin.com/jobs/view/4398965812/) — Notion
+### [AI/ML Engineer](https://www.linkedin.com/jobs/view/4460538540/) — Air Apps
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $100,000.00/yr - $187,000.00/yr
+- 🕒 **Posted:** 2026-08-28
+
+### [Machine Learning Engineer, Speech LLM Training](https://www.linkedin.com/jobs/view/4459444231/) — Jobright.ai
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-08-28
 
-### [Software Engineer, Applied AI Research](https://www.linkedin.com/jobs/view/4460511942/) — Hightouch
+### [AI Robotics Engineer, Vision-Language-Action (VLA)](https://www.linkedin.com/jobs/view/4459436151/) — Confidential
 - 📍 **Location:** San Francisco Bay Area
 - 🕒 **Posted:** 2026-08-28
 
-### [Data Science Engineer](https://www.linkedin.com/jobs/view/4460533144/) — Lawrence Livermore National Laboratory
-- 📍 **Location:** Livermore, CA
+### [AI Research Engineer](https://www.linkedin.com/jobs/view/4459431263/) — Elio
+- 📍 **Location:** San Mateo, CA
 - 🕒 **Posted:** 2026-08-28
 
-### [Data Scientist Intern](https://www.linkedin.com/jobs/view/4459451049/) — Jobright.ai
-- 📍 **Location:** San Francisco Bay Area
+### [Software Engineer](https://www.linkedin.com/jobs/view/4459443155/) — LanceSoft, Inc.
+- 📍 **Location:** Foster City, CA
+- 💰 **Salary:** $80.00/hr - $85.00/hr
 - 🕒 **Posted:** 2026-08-28
 
-### [Data Scientist – Applied AI](https://www.linkedin.com/jobs/view/4458427952/) — Triune Infomatics Inc
-- 📍 **Location:** South San Francisco, CA
-- 🕒 **Posted:** 2026-08-28
-
-### [Backend Engineer](https://www.linkedin.com/jobs/view/4459422999/) — MetAntz
+### [Data Scientist - Mobile](https://www.linkedin.com/jobs/view/4459439124/) — Adobe
 - 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-08-28
 
-### [DevOps Platform Development Engineer (Bilingual Mandarin)](https://www.linkedin.com/jobs/view/4459442038/) — Comrise
-- 📍 **Location:** Palo Alto, CA
+### [Data Scientist](https://www.linkedin.com/jobs/view/4460539521/) — Plaid
+- 📍 **Location:** San Francisco Bay Area
+- 💰 **Salary:** $190,800.00/yr - $262,800.00/yr
 - 🕒 **Posted:** 2026-08-28
 
-### [Robotics Engineer](https://www.linkedin.com/jobs/view/4459431210/) — HYFIX
+### [Software Engineer II, Storage](https://www.linkedin.com/jobs/view/4460522578/) — Crusoe
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-08-28
+
+### [Cloud Engineer Intern](https://www.linkedin.com/jobs/view/4460535321/) — Hewlett Packard Enterprise
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-08-28
+
+### [Cloud Engineer Intern](https://www.linkedin.com/jobs/view/4460539238/) — Hewlett Packard Enterprise
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-08-28
+
+### [Data Science Graduate](https://www.linkedin.com/jobs/view/4460522630/) — Hewlett Packard Enterprise
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-08-28
+
+### [Data Science Graduate](https://www.linkedin.com/jobs/view/4460526413/) — Hewlett Packard Enterprise
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-08-28
+
+### [Software Engineer ||](https://www.linkedin.com/jobs/view/4458450194/) — Applied Materials
 - 📍 **Location:** Santa Clara, CA
 - 🕒 **Posted:** 2026-08-28
 
-### [Full Stack Engineer](https://www.linkedin.com/jobs/view/4460524256/) — Roo
-- 📍 **Location:** San Francisco, CA
+### [Cloud Engineer](https://www.linkedin.com/jobs/view/4460537273/) — ManpowerGroup
+- 📍 **Location:** Foster City, CA
 - 🕒 **Posted:** 2026-08-28
 
-### [Cloud DevOps and AI Security Engineer](https://www.linkedin.com/jobs/view/4459435031/) — CyberJobs.Com
+### [Cloud Engineer Graduate](https://www.linkedin.com/jobs/view/4460541217/) — Hewlett Packard Enterprise
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-08-28
+
+### [Cloud Engineer Graduate](https://www.linkedin.com/jobs/view/4460521641/) — Hewlett Packard Enterprise
 - 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-08-28
 
-### [Junior Generative AI Application Developer](https://www.linkedin.com/jobs/view/4459447027/) — Citi
-- 📍 **Location:** Jersey City, NJ
+### [Backend Engineer](https://www.linkedin.com/jobs/view/4460523794/) — Air Apps
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $80,000.00/yr - $160,000.00/yr
 - 🕒 **Posted:** 2026-08-28
 
-### [Junior Generative AI Application Developer](https://www.linkedin.com/jobs/view/4459441034/) — Citi
+### [Software Engineer, Economy Platform](https://www.linkedin.com/jobs/view/4459453322/) — Roblox
+- 📍 **Location:** San Mateo, CA
+- 🕒 **Posted:** 2026-08-28
+
+### [Software Engineer (Linux, Virtualization, Hypervisor)](https://www.linkedin.com/jobs/view/4457300048/) — Nutanix
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-08-28
+
+### [Software Engineer, Tooling and Development Infrastructure](https://www.linkedin.com/jobs/view/4460533302/) — HP IQ
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-08-28
+
+### [Software Engineer Graduate](https://www.linkedin.com/jobs/view/4460529371/) — Hewlett Packard Enterprise
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-08-28
+
+### [Software Engineer Graduate](https://www.linkedin.com/jobs/view/4460537281/) — Hewlett Packard Enterprise
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-08-28
+
+### [Embedded Software Engineer](https://www.linkedin.com/jobs/view/4459440415/) — LanceSoft, Inc.
+- 📍 **Location:** Foster City, CA
+- 💰 **Salary:** $90.00/hr - $97.00/hr
+- 🕒 **Posted:** 2026-08-28
+
+### [Software Engineer Intern](https://www.linkedin.com/jobs/view/4460543086/) — Hewlett Packard Enterprise
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-08-28
+
+### [Software Engineer Intern](https://www.linkedin.com/jobs/view/4460527432/) — Hewlett Packard Enterprise
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-08-28
+
+### [Security Engineer](https://www.linkedin.com/jobs/view/4460522951/) — Air Apps
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $110,000.00/yr - $193,000.00/yr
+- 🕒 **Posted:** 2026-08-28
+
+### [Embedded System Security Engineer](https://www.linkedin.com/jobs/view/4459436207/) — LanceSoft, Inc.
+- 📍 **Location:** Foster City, CA
+- 💰 **Salary:** $90.00/hr - $98.00/hr
+- 🕒 **Posted:** 2026-08-28
+
+### [Software Engineer, Astral](https://www.linkedin.com/jobs/view/4459435255/) — OpenAI
 - 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-08-28
-
-### [FTE: Prompt Engineer](https://www.linkedin.com/jobs/view/4459407950/) — GAC Solutions
-- 📍 **Location:** Jersey City, NJ
+- 💰 **Salary:** $250,000.00/yr - $400,000.00/yr
 - 🕒 **Posted:** 2026-08-28
