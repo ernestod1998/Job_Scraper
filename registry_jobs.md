@@ -1,120 +1,56 @@
 # 🗃 Direct ATS Registry — Engineering / ML / DS Roles
-*Last updated: 2026-08-27 23:25 UTC*
+*Last updated: 2026-08-28 23:33 UTC*
 
-**29 new role(s)** since last run · 95 total in current registry shard
+**13 new role(s)** since last run · 35 total in current registry shard
 
-### [Product Security Engineer](https://job-boards.greenhouse.io/vercel/jobs/6102343004) — Vercel
-- 📍 **Location:** Hybrid - San Francisco, New York City, London, Berlin
-- 🕒 **Posted:** 2026-08-26
-
-### [Security Engineer, Cloud](https://job-boards.greenhouse.io/vercel/jobs/6102335004) — Vercel
-- 📍 **Location:** Remote - United States
-- 🕒 **Posted:** 2026-08-18
-
-### [Security Engineer, Detection Response](https://job-boards.greenhouse.io/vercel/jobs/6111332004) — Vercel
-- 📍 **Location:** Hybrid - San Francisco, New York City, London, Berlin
-- 🕒 **Posted:** 2026-08-18
-
-### [Security Software Engineer, IAM](https://job-boards.greenhouse.io/vercel/jobs/6093255004) — Vercel
-- 📍 **Location:** Remote - United States
-- 🕒 **Posted:** 2026-08-26
-
-### [Security Software Engineer, Open Source Frameworks](https://job-boards.greenhouse.io/vercel/jobs/6117204004) — Vercel
-- 📍 **Location:** Hybrid - San Francisco, New York City, London, Berlin
-- 🕒 **Posted:** 2026-08-18
-
-### [Software Engineer, Agent](https://job-boards.greenhouse.io/vercel/jobs/5704320004) — Vercel
-- 📍 **Location:** Hybrid - New York City
-- 🕒 **Posted:** 2026-08-18
-
-### [Software Engineer, AI Gateway](https://job-boards.greenhouse.io/vercel/jobs/5798406004) — Vercel
-- 📍 **Location:** Hybrid - San Francisco, New York City
-- 🕒 **Posted:** 2026-08-18
-
-### [Software Engineer, AI SDK](https://job-boards.greenhouse.io/vercel/jobs/5474915004) — Vercel
-- 📍 **Location:** Hybrid - San Francisco, New York City
-- 🕒 **Posted:** 2026-08-18
-
-### [Software Engineer, Backend](https://job-boards.greenhouse.io/vercel/jobs/5430088004) — Vercel
-- 📍 **Location:** Remote - United States
-- 🕒 **Posted:** 2026-08-18
-
-### [Software Engineer, CDN](https://job-boards.greenhouse.io/vercel/jobs/5179639004) — Vercel
-- 📍 **Location:** Hybrid - San Francisco, New York City
-- 🕒 **Posted:** 2026-08-18
-
-### [Software Engineer, CDN Content](https://job-boards.greenhouse.io/vercel/jobs/6105394004) — Vercel
-- 📍 **Location:** Hybrid - San Francisco
-- 🕒 **Posted:** 2026-08-18
-
-### [Software Engineer, Data Platform ](https://job-boards.greenhouse.io/vercel/jobs/6161129004) — Vercel
-- 📍 **Location:** Hybrid - San Francisco, New York City
-- 🕒 **Posted:** 2026-08-25
-
-### [Software Engineer, Deployment Infrastructure](https://job-boards.greenhouse.io/vercel/jobs/5633880004) — Vercel
-- 📍 **Location:** Hybrid - San Francisco, New York City
-- 🕒 **Posted:** 2026-08-18
-
-### [Software Engineer, eve](https://job-boards.greenhouse.io/vercel/jobs/6098390004) — Vercel
-- 📍 **Location:** Hybrid - San Francisco, New York City
-- 🕒 **Posted:** 2026-08-18
-
-### [Software Engineer, Observability](https://job-boards.greenhouse.io/vercel/jobs/5428982004) — Vercel
-- 📍 **Location:** Hybrid - San Francisco, New York City, London
-- 🕒 **Posted:** 2026-08-18
-
-### [Software Engineer, Trust & Safety](https://job-boards.greenhouse.io/vercel/jobs/5649459004) — Vercel
-- 📍 **Location:** Hybrid - San Francisco, New York City
-- 🕒 **Posted:** 2026-08-26
-
-### [Software Engineer, Workflows](https://job-boards.greenhouse.io/vercel/jobs/5798416004) — Vercel
-- 📍 **Location:** Hybrid - San Francisco, New York City
-- 🕒 **Posted:** 2026-08-18
-
-### [AI DevOps Engineer](https://job-boards.greenhouse.io/zscaler/jobs/5208829007) — Zscaler
-- 📍 **Location:** Remote - USA; San Jose, California, USA
-- 🕒 **Posted:** 2026-08-20
-
-### [Site Reliability Engineer Federal- SkillBridge Intern](https://job-boards.greenhouse.io/zscaler/jobs/5046050007) — Zscaler
-- 📍 **Location:** Remote - Virginia, USA
-- 🕒 **Posted:** 2026-08-19
-
-### [Site Reliability Engineer-SkillBridge Intern](https://job-boards.greenhouse.io/zscaler/jobs/5045817007) — Zscaler
-- 📍 **Location:** Remote - USA
-- 🕒 **Posted:** 2026-08-19
-
-### [Software Engineer, Android](https://jobs.lever.co/matchgroup/26725d4e-c597-4434-95d3-e6b86472d8a4) — Tinder
-- 📍 **Location:** Palo Alto, California
-- 🕒 **Posted:** 2026-08-27
-
-### [Machine Learning Engineer](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Francisco/Machine-Learning-Engineer_R169938) — Adobe
-- 📍 **Location:** San Francisco
+### [AI Materials Research Engineer](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/AI-Materials-Research-Engineer_R2626716) — Applied Materials
+- 📍 **Location:** Santa Clara,CA
 - 🕒 **Posted:** Posted Today
 
-### [Cloud Engineer](https://bcbst.wd1.myworkdayjobs.com/External/job/USA-TN-Chattanooga-Remote/Data-Engineer_R-50971) — BCBST
-- 📍 **Location:** USA, TN, Chattanooga, Remote
-- 🕒 **Posted:** Posted Yesterday
+### [Associate, Full Stack Engineer - SMA Solutions](https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/job/San-Francisco-CA/Associate--Full-Stack-Engineer---SMA-Solutions_R266215) — BlackRock
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** Posted Today
 
-### [Site Reliability Engineer (Associate or Experienced)](https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Berkeley-MO/Site-Reliability-Engineer--Associate-or-Experienced-_JR2026519788) — Boeing
+### [Software Engineer–DevSecOps](https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Berkeley-MO/Software-Engineer-DevSecOps_JR2026519673) — Boeing
 - 📍 **Location:** USA - Berkeley, MO
-- 🕒 **Posted:** Posted Yesterday
+- 🕒 **Posted:** Posted Today
 
-### [Backend Software Engineer (Python)](https://dentsuaegis.wd3.myworkdayjobs.com/DAN_GLOBAL/job/USA--Remote--Texas--Central-Time/Backend-Software-Engineer--Python-_R1122826) — Dentsu
-- 📍 **Location:** USA – Remote – Texas – Central Time
-- 🕒 **Posted:** Posted Yesterday
+### [Software Engineer III - Cloud Security - FCS Registration (Hybrid NYC)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---New-York-NY/Software-Engineer-III---Cloud-Security---FCS-Registration--Hybrid-_R29327-1) — Crowdstrike
+- 📍 **Location:** USA - New York, NY
+- 🕒 **Posted:** Posted Today
 
-### [Machine Learning Engineer II](https://expedia.wd108.myworkdayjobs.com/private/job/USA---California---San-Jose/Machine-Learning-Engineer-II_R-108871) — Expedia Group
+### [Software Engineer – Sensor, Sensor Performance and Stability (Hybrid)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Redmond-WA/Software-Engineer---Sensor--SaO--Hybrid-_R29874) — Crowdstrike
+- 📍 **Location:** USA - Sunnyvale, CA
+- 🕒 **Posted:** Posted Today
+
+### [Product Software Engineer II (News Front End)](https://disney.wd5.myworkdayjobs.com/disneycareer/job/New-York-NY-USA/Product-Software-Engineer-II--News-Front-End-_10157843) — The Walt Disney Company
+- 📍 **Location:** New York, NY, USA
+- 🕒 **Posted:** Posted Today
+
+### [Product Software Engineer II (News Front End)](https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/New-York-NY-USA/Product-Software-Engineer-II--News-Front-End-_10157843-1) — The Walt Disney Company
+- 📍 **Location:** New York, NY, USA
+- 🕒 **Posted:** Posted Today
+
+### [Machine Learning Scientist II - Agentic Experiences](https://expedia.wd108.myworkdayjobs.com/search/job/USA---California---San-Jose/Machine-Learning-Scientist-II_R-107895-1) — Expedia Group
 - 📍 **Location:** USA - California - San Jose
+- 🕒 **Posted:** Posted Today
+
+### [Software Engineer – Simulation Validation](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/Senior-Software-Engineer---Simulation-Validation_JR-202519080) — General Motors
+- 📍 **Location:** Sunnyvale, California, United States of America
+- 🕒 **Posted:** Posted 4 Days Ago
+
+### [ML Infrastructure Engineer](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/ML-Infrastructure-Engineer_JR-202601303) — General Motors
+- 📍 **Location:** Sunnyvale, California, United States of America
+- 🕒 **Posted:** Posted 11 Days Ago
+
+### [ML / AI Software Engineer - C++ Metrics Frameworks](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Cruise-Automation---San-Francisco-HQ---Cruise-San-Francisco-1201-Bryant-Street-and-530-10th-Street/AI-ML-Engineer_JR-202517415) — General Motors
+- 📍 **Location:** Cruise Automation - San Francisco HQ - Cruise-San Francisco-1201 Bryant Street and 530 10th Street
 - 🕒 **Posted:** Posted Yesterday
 
-### [Machine Learning Scientist III - Personalization](https://expedia.wd108.myworkdayjobs.com/search/job/USA---California---San-Jose/Machine-Learning-Scientist-III---Personalization_R-107143-1) — Expedia Group
-- 📍 **Location:** USA - California - San Jose
-- 🕒 **Posted:** Posted 9 Days Ago
+### [Software Engineer III](https://ghr.wd1.myworkdayjobs.com/us-emplsv/job/Charlotte/Software-Engineer-III_26025047) — Bank of America
+- 📍 **Location:** Charlotte; Jersey City; Plano
+- 🕒 **Posted:** Posted Yesterday
 
-### [Software Engineer AI/ML](https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Evendale/Software-Engineer-AI-ML_R5034608-1) — GE Aerospace
-- 📍 **Location:** Remote
-- 🕒 **Posted:** Posted 3 Days Ago
-
-### [AI/ML Software Engineer](https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Evendale/AI-ML-Software-Engineer_R5035945-1) — GE Aerospace
-- 📍 **Location:** Remote
-- 🕒 **Posted:** Posted 3 Days Ago
+### [Software Engineer II - Equities Cash Technology (ECT) Team](https://ghr.wd1.myworkdayjobs.com/us-emplsv/job/Jersey-City/Software-Engineer-II---Equities-Cash-Technology--ECT--Team_26029291-1) — Bank of America
+- 📍 **Location:** Jersey City
+- 🕒 **Posted:** Posted 10 Days Ago
