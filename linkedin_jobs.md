@@ -1,118 +1,52 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-08-28 18:19 UTC*
+*Last updated: 2026-08-28 19:19 UTC*
 
-**27 new role(s)** since last run · 36 total in last 1h
+**11 new role(s)** since last run · 38 total in last 1h
 
-### [Software Engineer II](https://www.linkedin.com/jobs/view/4440279745/) — Cadence
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-08-28
-
-### [Product Data Scientist](https://www.linkedin.com/jobs/view/4460392320/) — Zof AI
+### [Machine Learning Engineer, Speech LLM Training](https://www.linkedin.com/jobs/view/4459412253/) — Jobright.ai
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-08-28
 
-### [Forward Deployed Software Engineer](https://www.linkedin.com/jobs/view/4460378471/) — Zof AI
+### [AI Data Scientist-Furman lab](https://www.linkedin.com/jobs/view/4427938237/) — Buck Institute for Research on Aging
+- 📍 **Location:** Novato, CA
+- 🕒 **Posted:** 2026-08-28
+
+### [Associate Data Scientist (College Grad 2027)](https://www.linkedin.com/jobs/view/4459420342/) — Solace
+- 📍 **Location:** Redwood City, CA
+- 🕒 **Posted:** 2026-08-28
+
+### [Full Stack Engineer](https://www.linkedin.com/jobs/view/4460386791/) — Intuitive
+- 📍 **Location:** Sunnyvale, CA
+- 💰 **Salary:** $134,600.00/yr - $227,700.00/yr
+- 🕒 **Posted:** 2026-08-28
+
+### [Instrument Software Engineer](https://www.linkedin.com/jobs/view/4460383745/) — Intuitive
+- 📍 **Location:** Sunnyvale, CA
+- 💰 **Salary:** $134,600.00/yr - $227,700.00/yr
+- 🕒 **Posted:** 2026-08-28
+
+### [Summer 2027 Intern - Software Engineer](https://www.linkedin.com/jobs/view/4460394896/) — Salesforce
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-08-28
 
-### [Backend Software Engineer](https://www.linkedin.com/jobs/view/4460382426/) — Zof AI
+### [Software Engineer, Video Streaming](https://www.linkedin.com/jobs/view/4459408322/) — Nuro
+- 📍 **Location:** Mountain View, CA
+- 🕒 **Posted:** 2026-08-28
+
+### [Full Stack Engineer](https://www.linkedin.com/jobs/view/4460500061/) — Toptal
+- 📍 **Location:** Berkeley, CA
+- 💰 **Salary:** $90.00/hr - $110.00/hr
+- 🕒 **Posted:** 2026-08-28
+
+### [Software Engineer III, Apple](https://www.linkedin.com/jobs/view/4413593777/) — Crunchyroll
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-08-28
 
-### [Full Stack Software Engineer](https://www.linkedin.com/jobs/view/4460381455/) — Zof AI
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-08-28
-
-### [Junior Software Engineer](https://www.linkedin.com/jobs/view/4460392317/) — Zof AI
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-08-28
-
-### [Marketing Data Scientist](https://www.linkedin.com/jobs/view/4459406006/) — Jobright.ai
-- 📍 **Location:** San Carlos, CA
-- 🕒 **Posted:** 2026-08-28
-
-### [Machine Learning Engineer](https://www.linkedin.com/jobs/view/4438948677/) — Mariana Minerals
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $120,000.00/yr - $180,000.00/yr
-- 🕒 **Posted:** 2026-08-28
-
-### [Research Engineer, RL Environments](https://www.linkedin.com/jobs/view/4458031134/) — Dissei
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-08-28
-
-### [Machine Learning Engineer (Autonomy)](https://www.linkedin.com/jobs/view/4456299782/) — Mariana Minerals
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $140,000.00/yr - $180,000.00/yr
-- 🕒 **Posted:** 2026-08-28
-
-### [Research Engineer Intern](https://www.linkedin.com/jobs/view/4460383494/) — Center for AI Safety
-- 📍 **Location:** San Francisco Bay Area
-- 💰 **Salary:** $3,200.00/mo - $6,300.00/mo
-- 🕒 **Posted:** 2026-08-28
-
-### [AI Platform Engineer](https://www.linkedin.com/jobs/view/4460383386/) — Zof AI
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-08-28
-
-### [Site Reliability Engineer :: Onsite :: Santa Clara, CA :: W2](https://www.linkedin.com/jobs/view/4459429120/) — Prudent Technologies and Consulting, Inc.
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-08-28
-
-### [Site Reliability Engineer with AI platforms](https://www.linkedin.com/jobs/view/4460381392/) — Raas Infotek
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-08-28
-
-### [Software Engineer, New Grad](https://www.linkedin.com/jobs/view/4450024039/) — IXL Learning
-- 📍 **Location:** San Mateo, CA
-- 🕒 **Posted:** 2026-08-28
-
-### [Software Engineer expert](https://www.linkedin.com/jobs/view/4460374682/) — Triple Tune Entertainment
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-08-28
-
-### [Frontend Software Engineer](https://www.linkedin.com/jobs/view/4460375575/) — Zof AI
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-08-28
-
-### [Application Security Engineer](https://www.linkedin.com/jobs/view/4460373779/) — Zof AI
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-08-28
-
-### [AI/ML Software Engineer](https://www.linkedin.com/jobs/view/4459405120/) — Clutch
+### [Full Stack Engineering Intern](https://www.linkedin.com/jobs/view/4460386823/) — talentpluto
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $150,000.00/yr - $200,000.00/yr
+- 💰 **Salary:** $72,800.00/yr - $104,000.00/yr
 - 🕒 **Posted:** 2026-08-28
 
-### [Bloomberg Product Oversight - Data Scientist](https://www.linkedin.com/jobs/view/4404145738/) — Bloomberg
+### [Summer 2027 Intern - Software Engineer](https://www.linkedin.com/jobs/view/4460503117/) — Salesforce
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $190,000.00/yr - $220,000.00/yr
-- 🕒 **Posted:** 2026-08-28
-
-### [Software Engineer](https://www.linkedin.com/jobs/view/4460376552/) — Easy Aerial Inc.
-- 📍 **Location:** Brooklyn, NY
-- 🕒 **Posted:** 2026-08-28
-
-### [Full Stack Engineer](https://www.linkedin.com/jobs/view/4458407605/) — Oxenham Group
-- 📍 **Location:** Manhattan, NY
-- 💰 **Salary:** $180,000.00/yr - $220,000.00/yr
-- 🕒 **Posted:** 2026-08-28
-
-### [Applied Researcher I (AI Foundations, LLM Customization, Finetuning, Reinforcement Learning)](https://www.linkedin.com/jobs/view/4397335456/) — Capital One
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-08-28
-
-### [Associate, Client Intelligence (Data Scientist)](https://www.linkedin.com/jobs/view/4460392608/) — HSBC
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-08-28
-
-### [AI Infrastructure Engineer](https://www.linkedin.com/jobs/view/4460378604/) — Fortinet
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-08-28
-
-### [Java / Full Stack Software Engineer](https://www.linkedin.com/jobs/view/4460377560/) — First Soft Solutions LLC
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-08-28
-
-### [Software Engineer](https://www.linkedin.com/jobs/view/4459421170/) — Infotree Global Solutions
-- 📍 **Location:** Secaucus, NJ
 - 🕒 **Posted:** 2026-08-28
