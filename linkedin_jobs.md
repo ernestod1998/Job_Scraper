@@ -1,80 +1,55 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-08-28 16:18 UTC*
+*Last updated: 2026-08-28 17:19 UTC*
 
-**18 new role(s)** since last run · 25 total in last 1h
+**12 new role(s)** since last run · 29 total in last 1h
 
-### [Foundation Model Data, Software Engineer](https://www.linkedin.com/jobs/view/4434165462/) — Waymo
+### [ML Infrastructure Engineer](https://www.linkedin.com/jobs/view/4446394892/) — OP Recruiting
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-08-28
 
-### [Foundation Model Data, Software Engineer](https://www.linkedin.com/jobs/view/4434159860/) — Waymo
-- 📍 **Location:** Mountain View, CA
-- 🕒 **Posted:** 2026-08-28
-
-### [Data Scientist – Consumer Banking Pricing & Profitability](https://www.linkedin.com/jobs/view/4441289854/) — City National Bank
+### [Machine Learning Engineer, Inference & Serving (Speech LLM)](https://www.linkedin.com/jobs/view/4458986671/) — Jobright.ai
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-08-28
 
-### [Software engineer, full-stack](https://www.linkedin.com/jobs/view/4448712006/) — Watershed
+### [Optimization Software Engineer](https://www.linkedin.com/jobs/view/4458980822/) — Verrus
+- 📍 **Location:** San Francisco Bay Area
+- 💰 **Salary:** $160,000.00/yr - $200,000.00/yr
+- 🕒 **Posted:** 2026-08-28
+
+### [Software Engineer - Solutions](https://www.linkedin.com/jobs/view/4404542500/) — Alchemy
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $150,000.00/yr - $225,000.00/yr
+- 🕒 **Posted:** 2026-08-28
+
+### [Data Scientist Intern](https://www.linkedin.com/jobs/view/4458994424/) — Jobright.ai
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-08-28
+
+### [Software Engineer III, Infrastructure, Infra Spanner](https://www.linkedin.com/jobs/view/4458987533/) — Google
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-08-28
+
+### [Software Engineer III, Cloud Security, Identity and Access Management](https://www.linkedin.com/jobs/view/4458987535/) — Google
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-08-28
 
-### [Backend Engineer](https://www.linkedin.com/jobs/view/4440359739/) — Scribe
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $140,000.00/yr - $165,000.00/yr
+### [Full Stack Software Developer](https://www.linkedin.com/jobs/view/4447404037/) — OSI Engineering
+- 📍 **Location:** Sunnyvale, CA
+- 💰 **Salary:** $68.00/hr - $83.00/hr
 - 🕒 **Posted:** 2026-08-28
 
-### [Software Engineer, iOS, Level 3](https://www.linkedin.com/jobs/view/4450659793/) — Snap Inc.
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-08-28
-
-### [iOS Engineer, App Platform](https://www.linkedin.com/jobs/view/4440624056/) — Whatnot
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $170,000.00/yr - $290,000.00/yr
-- 🕒 **Posted:** 2026-08-28
-
-### [Software Engineer, DevInfra](https://www.linkedin.com/jobs/view/4450613351/) — Mixpanel
+### [Software Engineer III, Android, Geo](https://www.linkedin.com/jobs/view/4458993313/) — Google
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-08-28
 
-### [Security Software Engineer, Open Source Frameworks](https://www.linkedin.com/jobs/view/4441666934/) — Vercel
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-08-28
-
-### [AI/Machine Learning Engineer](https://www.linkedin.com/jobs/view/4449774021/) — Fordham University
+### [Backend Software Engineer- Calculation Engines (NY)](https://www.linkedin.com/jobs/view/4434894524/) — Solomon Page
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-08-28
 
-### [Foundation Model Data, Software Engineer](https://www.linkedin.com/jobs/view/4434169438/) — Waymo
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-08-28
-
-### [Software Engineer, Infrastructure (Optimization)](https://www.linkedin.com/jobs/view/4450665959/) — Kustomer
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $130,000.00/yr - $215,000.00/yr
-- 🕒 **Posted:** 2026-08-28
-
-### [Cloud Engineer](https://www.linkedin.com/jobs/view/4441635709/) — BNY
+### [Mainframe Infrastructure Engineering](https://www.linkedin.com/jobs/view/4458424011/) — Eliassen Group
 - 📍 **Location:** Jersey City, NJ
 - 🕒 **Posted:** 2026-08-28
 
-### [Site Reliability Engineer 3](https://www.linkedin.com/jobs/view/4404853191/) — MongoDB
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-08-28
-
-### [Full Stack Software Engineer](https://www.linkedin.com/jobs/view/4371575959/) — Cape
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-08-28
-
-### [iOS Engineer, App Platform](https://www.linkedin.com/jobs/view/4440603801/) — Whatnot
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $170,000.00/yr - $290,000.00/yr
-- 🕒 **Posted:** 2026-08-28
-
-### [Software Developer - Testing Tools/Automation/Performance](https://www.linkedin.com/jobs/view/4458099928/) — Mitchell Martin Inc.
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-08-28
-
-### [Software Engineer III, Infrastructure, Infra Bigtable](https://www.linkedin.com/jobs/view/4458997040/) — Google
+### [Infrastructure Engineer (SSCM)](https://www.linkedin.com/jobs/view/4459397158/) — New York Technology Partners
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-08-28
