@@ -1,74 +1,54 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-08-29 15:18 UTC*
+*Last updated: 2026-08-29 16:18 UTC*
 
-**17 new role(s)** since last run · 17 total in last 1h
+**11 new role(s)** since last run · 26 total in last 1h
 
-### [Machine Learning Engineer, Agentic AI Harness & Quality - Moveworks](https://www.linkedin.com/jobs/view/4433012132/) — ServiceNow
-- 📍 **Location:** Mountain View, CA
+### [Software Engineer](https://www.linkedin.com/jobs/view/4458490305/) — Meta
+- 📍 **Location:** Menlo Park, CA
 - 🕒 **Posted:** 2026-08-29
 
-### [Software Engineer, Inference AI/ML](https://www.linkedin.com/jobs/view/4347121472/) — CoreWeave
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-08-29
-
-### [Applied AI Scientist, Small Language Model and AI Training](https://www.linkedin.com/jobs/view/4312322574/) — Postman
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-08-29
-
-### [Intelligent Data Infrastructure Engineer](https://www.linkedin.com/jobs/view/4453414446/) — NetApp
+### [Software Engineer - ANF (Azure NetApp Files)](https://www.linkedin.com/jobs/view/4460821598/) — NetApp
 - 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-08-29
 
-### [Systems Software Engineer](https://www.linkedin.com/jobs/view/4450727979/) — Picarro
-- 📍 **Location:** Santa Clara, CA
+### [Software Engineer II](https://www.linkedin.com/jobs/view/4450565291/) — interface.ai
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $170,000.00/yr - $215,000.00/yr
 - 🕒 **Posted:** 2026-08-29
 
-### [Software Engineer, Storage](https://www.linkedin.com/jobs/view/4424011130/) — Glean
-- 📍 **Location:** Mountain View, CA
-- 🕒 **Posted:** 2026-08-29
-
-### [Software Engineer II, Managed Platform Services](https://www.linkedin.com/jobs/view/4432160701/) — Crusoe
+### [Research Engineer, Machine Learning (RL Velocity)](https://www.linkedin.com/jobs/view/4405025538/) — Anthropic
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-08-29
 
-### [Software Engineer, Data Foundations](https://www.linkedin.com/jobs/view/4441140190/) — Whatnot
+### [Research Engineer, Economic Research Data Platform](https://www.linkedin.com/jobs/view/4382863007/) — Anthropic
 - 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-08-29
+
+### [Research Scientist, Machine Learning](https://www.linkedin.com/jobs/view/4458800153/) — Meta
+- 📍 **Location:** Sunnyvale, CA
+- 💰 **Salary:** $122,000.00/yr - $181,000.00/yr
+- 🕒 **Posted:** 2026-08-29
+
+### [Software Engineer, Android](https://www.linkedin.com/jobs/view/4458496270/) — Meta
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $183,997.00/yr - $257,000.00/yr
+- 🕒 **Posted:** 2026-08-29
+
+### [Security Engineer, Applied AI](https://www.linkedin.com/jobs/view/4458480443/) — Meta
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $154,000.00/yr - $217,000.00/yr
+- 🕒 **Posted:** 2026-08-29
+
+### [Software Engineer, Seller Growth](https://www.linkedin.com/jobs/view/4441158691/) — Whatnot
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $205,000.00/yr - $290,000.00/yr
+- 🕒 **Posted:** 2026-08-29
+
+### [Software Engineer, Data Foundations](https://www.linkedin.com/jobs/view/4441139292/) — Whatnot
+- 📍 **Location:** New York, NY
 - 💰 **Salary:** $200,000.00/yr - $275,000.00/yr
 - 🕒 **Posted:** 2026-08-29
 
-### [Systems Software Engineer](https://www.linkedin.com/jobs/view/4450749036/) — Picarro
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-08-29
-
-### [DevOps Engineer - PAM Core](https://www.linkedin.com/jobs/view/4401966449/) — Okta
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-08-29
-
-### [Software Engineer 3](https://www.linkedin.com/jobs/view/4432892572/) — Berkshire Hathaway Homestate Companies - Workers Compensation Division
-- 📍 **Location:** Walnut Creek, CA
-- 🕒 **Posted:** 2026-08-29
-
-### [Android Engineer](https://www.linkedin.com/jobs/view/4319478980/) — Wealthfront
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-08-29
-
-### [Wireless Software Engineer](https://www.linkedin.com/jobs/view/4459492416/) — Qualcomm
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-08-29
-
-### [Software Engineer III (AI)](https://www.linkedin.com/jobs/view/4358334135/) — Verisk
-- 📍 **Location:** Jersey City, NJ
-- 💰 **Salary:** $130,000.00/yr - $160,000.00/yr
-- 🕒 **Posted:** 2026-08-29
-
-### [Data Platform Engineer](https://www.linkedin.com/jobs/view/4392417661/) — Capstone Investment Advisors
+### [Research Engineer / Research Scientist, Tokens](https://www.linkedin.com/jobs/view/4441174301/) — Anthropic
 - 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-08-29
-
-### [Bioinformatics Scientist , Bureau of the Public Health Laboratory](https://www.linkedin.com/jobs/view/4460829315/) — NYC Department of Health and Mental Hygiene
-- 📍 **Location:** Manhattan, NY
-- 🕒 **Posted:** 2026-08-29
-
-### [CLOUD DEVOPS AND APPLICATION MIGRATION ENGINEER](https://www.linkedin.com/jobs/view/4458483279/) — NYC Department of Social Services
-- 📍 **Location:** Manhattan, NY
 - 🕒 **Posted:** 2026-08-29
