@@ -1,54 +1,67 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-08-29 16:18 UTC*
+*Last updated: 2026-08-29 17:19 UTC*
 
-**11 new role(s)** since last run · 26 total in last 1h
+**15 new role(s)** since last run · 19 total in last 1h
 
-### [Software Engineer](https://www.linkedin.com/jobs/view/4458490305/) — Meta
-- 📍 **Location:** Menlo Park, CA
+### [Data Scientist Intern](https://www.linkedin.com/jobs/view/4459496570/) — Jobright.ai
+- 📍 **Location:** San Francisco Bay Area
 - 🕒 **Posted:** 2026-08-29
 
-### [Software Engineer - ANF (Azure NetApp Files)](https://www.linkedin.com/jobs/view/4460821598/) — NetApp
-- 📍 **Location:** San Jose, CA
+### [Software Engineer, Economy Platform](https://www.linkedin.com/jobs/view/4460823652/) — EngRadar
+- 📍 **Location:** San Mateo, CA
 - 🕒 **Posted:** 2026-08-29
 
-### [Software Engineer II](https://www.linkedin.com/jobs/view/4450565291/) — interface.ai
+### [AI Materials Research Engineer](https://www.linkedin.com/jobs/view/4458497300/) — Applied Materials
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-08-29
+
+### [Applied Machine Learning Scientist Intern - PhD](https://www.linkedin.com/jobs/view/4411566647/) — Marvell Technology
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-08-29
+
+### [Machine Learning Engineer, Inference & Serving (Speech LLM)](https://www.linkedin.com/jobs/view/4459496580/) — Jobright.ai
 - 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $170,000.00/yr - $215,000.00/yr
 - 🕒 **Posted:** 2026-08-29
 
-### [Research Engineer, Machine Learning (RL Velocity)](https://www.linkedin.com/jobs/view/4405025538/) — Anthropic
+### [Software Engineer](https://www.linkedin.com/jobs/view/4450566262/) — interface.ai
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $135,000.00/yr - $175,000.00/yr
+- 🕒 **Posted:** 2026-08-29
+
+### [Software Engineer, Perception Attributes Auto-Labeling Pipeline](https://www.linkedin.com/jobs/view/4432850653/) — HireArt
+- 📍 **Location:** Foster City, CA
+- 🕒 **Posted:** 2026-08-29
+
+### [Cloud Infrastructure Engineer](https://www.linkedin.com/jobs/view/4404520998/) — Alchemy
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $135,000.00/yr - $240,000.00/yr
+- 🕒 **Posted:** 2026-08-29
+
+### [Infrastructure Engineer - Series A Startup](https://www.linkedin.com/jobs/view/4459053639/) — Epic Placements
+- 📍 **Location:** San Francisco Bay Area
+- 💰 **Salary:** $150,000.00/yr - $300,000.00/yr
+- 🕒 **Posted:** 2026-08-29
+
+### [Software Engineer, Platform / Infrastructure (Starlink)](https://www.linkedin.com/jobs/view/4442147983/) — SpaceX
+- 📍 **Location:** Palo Alto, CA
+- 🕒 **Posted:** 2026-08-29
+
+### [Full-Stack Software Engineer](https://www.linkedin.com/jobs/view/4460827557/) — EngRadar
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-08-29
 
-### [Research Engineer, Economic Research Data Platform](https://www.linkedin.com/jobs/view/4382863007/) — Anthropic
-- 📍 **Location:** San Francisco, CA
+### [Software Engineer, Ontology](https://www.linkedin.com/jobs/view/4460837326/) — EngRadar
+- 📍 **Location:** San Francisco County, CA
 - 🕒 **Posted:** 2026-08-29
 
-### [Research Scientist, Machine Learning](https://www.linkedin.com/jobs/view/4458800153/) — Meta
-- 📍 **Location:** Sunnyvale, CA
-- 💰 **Salary:** $122,000.00/yr - $181,000.00/yr
-- 🕒 **Posted:** 2026-08-29
-
-### [Software Engineer, Android](https://www.linkedin.com/jobs/view/4458496270/) — Meta
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $183,997.00/yr - $257,000.00/yr
-- 🕒 **Posted:** 2026-08-29
-
-### [Security Engineer, Applied AI](https://www.linkedin.com/jobs/view/4458480443/) — Meta
+### [Research Scientist/Research Engineer | Deep Learning](https://www.linkedin.com/jobs/view/4451034780/) — Jump Trading
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $154,000.00/yr - $217,000.00/yr
 - 🕒 **Posted:** 2026-08-29
 
-### [Software Engineer, Seller Growth](https://www.linkedin.com/jobs/view/4441158691/) — Whatnot
+### [The Core Engineering, Software Engineering, New York, Associate](https://www.linkedin.com/jobs/view/4424433578/) — Goldman Sachs
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $205,000.00/yr - $290,000.00/yr
 - 🕒 **Posted:** 2026-08-29
 
-### [Software Engineer, Data Foundations](https://www.linkedin.com/jobs/view/4441139292/) — Whatnot
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $200,000.00/yr - $275,000.00/yr
-- 🕒 **Posted:** 2026-08-29
-
-### [Research Engineer / Research Scientist, Tokens](https://www.linkedin.com/jobs/view/4441174301/) — Anthropic
+### [Applied Researcher I (AI Foundations, Recommendation Systems, Personalization, Reinforcement Learning)](https://www.linkedin.com/jobs/view/4442458840/) — Capital One
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-08-29
