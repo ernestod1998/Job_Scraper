@@ -1,146 +1,108 @@
 # 🟦 Indeed — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-08-29 00:06 UTC*
+*Last updated: 2026-08-29 07:21 UTC*
 
-**30 new role(s)** since last run · 63 total in last 24h
+**21 new role(s)** since last run · 57 total in last 24h
 
-### [AI Materials Research Engineer](https://www.indeed.com/viewjob?jk=188d1a2d81e40af6) — Applied Materials
-- 📍 **Location:** Santa Clara, CA, US
-- 💰 **Salary:** $170k–$234k/yr
+### [Software Engineer](https://www.indeed.com/viewjob?jk=86e62449c4c85c8e) — Calfus
+- 📍 **Location:** Pleasanton, CA, US
+- 💰 **Salary:** $90k–$110k/yr
+- 🕒 **Posted:** 2026-08-29
+
+### [Data Science Engineer](https://www.indeed.com/viewjob?jk=85a85d4ebf20f743) — Lawrence Livermore National Laboratory
+- 📍 **Location:** Livermore, CA, US
+- 💰 **Salary:** $122k–$154k/yr
 - 🕒 **Posted:** 2026-08-28
 
-### [Data Scientist](https://www.indeed.com/viewjob?jk=c611edd102a53798) — Plaid
+### [Machine Learning Engineer](https://www.indeed.com/viewjob?jk=b6d44b3e950198e6) — Unknown
 - 📍 **Location:** San Francisco, CA, US
-- 💰 **Salary:** $191k–$263k/yr
+- 💰 **Salary:** $260k–$300k/yr
 - 🕒 **Posted:** 2026-08-28
 
-### [Associate Data Scientist (College Grad 2027)](https://www.indeed.com/viewjob?jk=bbfe370b8245adaf) — Solace Health
-- 📍 **Location:** Redwood City, CA, US
-- 🕒 **Posted:** 2026-08-28
-
-### [Software Engineer](https://www.indeed.com/viewjob?jk=6c9b108b8a6e6a0a) — Unknown
-- 📍 **Location:** San Mateo, CA, US
-- 🕒 **Posted:** 2026-08-28
-
-### [Software Engineer](https://www.indeed.com/viewjob?jk=3f4a5522b35dc4d4) — Unknown
+### [AI/ML Engineer](https://www.indeed.com/viewjob?jk=3912553adc878921) — Fieldwire
 - 📍 **Location:** San Francisco, CA, US
+- 💰 **Salary:** $152k–$220k/yr
 - 🕒 **Posted:** 2026-08-28
 
-### [AIML Software Engineer, On-Device Audio Intelligence, Sensing & Connectivity](https://www.indeed.com/viewjob?jk=0179ed7b3bb95296) — Apple
-- 📍 **Location:** Cupertino, CA, US
-- 💰 **Salary:** $185k–$278k/yr
-- 🕒 **Posted:** 2026-08-24
+### [Software Engineer, Systems & ML Infrastructure - MSL FAIR Foundations](https://www.indeed.com/viewjob?jk=28356219552605dd) — Meta
+- 📍 **Location:** Menlo Park, CA, US
+- 💰 **Salary:** $154k–$217k/yr
+- 🕒 **Posted:** 2026-08-26
 
-### [Software Engineer - Applied AI](https://www.indeed.com/viewjob?jk=056a960d656d99be) — Specter
-- 📍 **Location:** San Francisco, CA, US
-- 🕒 **Posted:** 2026-08-28
-
-### [Wireless Software Engineer](https://www.indeed.com/viewjob?jk=6fd35a2d3f041852) — Qualcomm
-- 📍 **Location:** Santa Clara, CA, US
-- 💰 **Salary:** $104k–$156k/yr
-- 🕒 **Posted:** 2026-08-28
-
-### [Software Engineer, Infrastructure Security](https://www.indeed.com/viewjob?jk=7c63d119415baf6d) — ResolveAi
-- 📍 **Location:** San Francisco, CA, US
-- 🕒 **Posted:** 2026-08-28
-
-### [Software Engineer, Frontend](https://www.indeed.com/viewjob?jk=74b4788b77a477f9) — ResolveAi
-- 📍 **Location:** San Francisco, CA, US
-- 🕒 **Posted:** 2026-08-28
-
-### [Software Engineer III, Android, Geo](https://www.indeed.com/viewjob?jk=5f32eea9bb645b76) — Google
-- 📍 **Location:** San Francisco, CA, US
-- 💰 **Salary:** $147k–$210k/yr
-- 🕒 **Posted:** 2026-08-28
-
-### [Software Engineer III, Infrastructure, Infra Spanner](https://www.indeed.com/viewjob?jk=b04b9f6037651521) — Google
-- 📍 **Location:** Sunnyvale, CA, US
-- 💰 **Salary:** $147k–$210k/yr
-- 🕒 **Posted:** 2026-08-28
-
-### [Instrument Software Engineer](https://www.indeed.com/viewjob?jk=f1b65dac8656fd43) — Intuitive (Intuitive Surgical)
-- 📍 **Location:** Sunnyvale, CA, US
-- 💰 **Salary:** $135k–$228k/yr
-- 🕒 **Posted:** 2026-08-28
-
-### [Full Stack Engineer](https://www.indeed.com/viewjob?jk=1436f63304cb57ca) — Intuitive (Intuitive Surgical)
-- 📍 **Location:** Sunnyvale, CA, US
-- 💰 **Salary:** $135k–$228k/yr
-- 🕒 **Posted:** 2026-08-28
-
-### [Software Engineer, iOS Core Product - San Jose, CA, USA](https://www.indeed.com/viewjob?jk=3381613c49793d41) — Speechify
-- 📍 **Location:** San Jose, CA, US
-- 💰 **Salary:** $140k–$200k/yr
-- 🕒 **Posted:** 2026-08-28
-
-### [Software Engineer, Data Infrastructure & Acquisition - San Francisco, CA, USA](https://www.indeed.com/viewjob?jk=7c38ad9bf16ceb00) — Speechify
-- 📍 **Location:** San Francisco, CA, US
-- 💰 **Salary:** $140k–$200k/yr
-- 🕒 **Posted:** 2026-08-28
-
-### [Software Engineer, Platform - San Francisco, CA, USA](https://www.indeed.com/viewjob?jk=ce50a536acd0b5ad) — Speechify
-- 📍 **Location:** San Francisco, CA, US
-- 💰 **Salary:** $140k–$200k/yr
-- 🕒 **Posted:** 2026-08-28
-
-### [Software Engineer, Data Infrastructure & Acquisition - Mountain View, CA, USA](https://www.indeed.com/viewjob?jk=481f81926e8e89b4) — Speechify
+### [ML Research Engineer](https://www.indeed.com/viewjob?jk=ac4c9fe9c8b7aa06) — Unknown
 - 📍 **Location:** Mountain View, CA, US
-- 💰 **Salary:** $140k–$200k/yr
+- 💰 **Salary:** $100–$1000/mo
+- 🕒 **Posted:** 2026-08-29
+
+### [AI/ML Engineer — Early Role at a Pre-Seed Stealth Startup](https://www.indeed.com/viewjob?jk=7ba03981f6e31874) — Unknown
+- 📍 **Location:** San Francisco, CA, US
+- 💰 **Salary:** $80k–$240k/wk
+- 🕒 **Posted:** 2026-08-29
+
+### [Data Scientist - Mobile](https://www.indeed.com/viewjob?jk=dfbb8b7675e75305) — Adobe
+- 📍 **Location:** San Jose, CA, US
+- 💰 **Salary:** $109k–$201k/yr
 - 🕒 **Posted:** 2026-08-28
 
-### [Software Engineer, Data Infrastructure & Acquisition - Berkeley, CA, USA](https://www.indeed.com/viewjob?jk=ef3e42b0f15aac9a) — Speechify
-- 📍 **Location:** Berkeley, CA, US
-- 💰 **Salary:** $140k–$200k/yr
+### [Data Scientist IV - Risk Adjustment: Medicare, Medicaid, ACA](https://www.indeed.com/viewjob?jk=0a0eabb8100ebea2) — Kaiser Permanente
+- 📍 **Location:** Oakland, CA, US
+- 💰 **Salary:** $166k–$215k/yr
 - 🕒 **Posted:** 2026-08-28
 
-### [Software Engineer, Data Infrastructure & Acquisition - Sunnyvale, CA, USA](https://www.indeed.com/viewjob?jk=a9e6d31150d5beeb) — Speechify
-- 📍 **Location:** Sunnyvale, CA, US
-- 💰 **Salary:** $140k–$200k/yr
+### [Data Scientist V - Risk Adjustment: Medicare, Medicaid, ACA](https://www.indeed.com/viewjob?jk=a06a73404eafd104) — Kaiser Permanente
+- 📍 **Location:** Oakland, CA, US
+- 💰 **Salary:** $174k–$226k/yr
 - 🕒 **Posted:** 2026-08-28
 
-### [Software Engineer, Data Infrastructure & Acquisition - Fremont, CA, USA](https://www.indeed.com/viewjob?jk=33203ef2b30401b9) — Speechify
-- 📍 **Location:** Fremont, CA, US
-- 💰 **Salary:** $140k–$200k/yr
+### [Software Engineer](https://www.indeed.com/viewjob?jk=54f9eafbe25cd87c) — Proximal
+- 📍 **Location:** San Francisco, CA, US
 - 🕒 **Posted:** 2026-08-28
 
-### [Software Engineer III, Google Distributed Cloud AI Storage](https://www.indeed.com/viewjob?jk=ca4fb5390b822b47) — Google
-- 📍 **Location:** Sunnyvale, CA, US
-- 💰 **Salary:** $147k–$210k/yr
+### [Software Engineer, Economy Platform](https://www.indeed.com/viewjob?jk=802744ec3d997c7a) — Roblox
+- 📍 **Location:** San Mateo, CA, US
+- 💰 **Salary:** $153k–$197k/yr
 - 🕒 **Posted:** 2026-08-28
 
-### [Wireless Bluetooth Tools & Triage Software Engineer](https://www.indeed.com/viewjob?jk=c3d5baeb8f191fd3) — Apple
-- 📍 **Location:** San Francisco Bay Area, CA, US
-- 💰 **Salary:** $129k–$195k/yr
-- 🕒 **Posted:** 2026-08-25
-
-### [Union Mobile Engineer](https://www.indeed.com/viewjob?jk=96aa1b549078371f) — JLL
-- 📍 **Location:** Sunnyvale, CA, US
+### [Cloud Engineer Intern](https://www.indeed.com/viewjob?jk=476d4e1b9a5afd11) — Hewlett Packard Enterprise | HPE
+- 📍 **Location:** San Jose, CA, US
+- 💰 **Salary:** $35–$46/hr
 - 🕒 **Posted:** 2026-08-28
 
-### [Internship, Network Engineer, Infrastructure Engineering (Winter/Spring 2027)](https://www.indeed.com/viewjob?jk=2350b411caf14ef9) — Tesla
-- 📍 **Location:** Fremont, CA, US
-- 💰 **Salary:** $39–$58/hr
+### [Software Engineer, Autonomy - Calibration, Mapping & Localization](https://www.indeed.com/viewjob?jk=a20550da720e30c0) — CYNGN
+- 📍 **Location:** Mountain View, CA, US
+- 💰 **Salary:** $162k–$180k/yr
 - 🕒 **Posted:** 2026-08-28
 
-### [DATA SCIENTIST, P3](https://www.indeed.com/viewjob?jk=1d2f4c94a9bf1669) — United Nations
-- 📍 **Location:** New York, NY, US
-- 🕒 **Posted:** 2026-08-18
+### [Software Engineer, Database Reliability & Performance](https://www.indeed.com/viewjob?jk=cdeebc1cfb53fa2a) — InfluxData
+- 📍 **Location:** San Francisco, CA, US
+- 💰 **Salary:** $100k–$168k/yr
+- 🕒 **Posted:** 2026-08-28
 
-### [Applied Scientist, AWS Science of Security](https://www.indeed.com/viewjob?jk=be2384089f532f7a) — Amazon.com
-- 📍 **Location:** New York, NY, US
-- 💰 **Salary:** $143k–$223k/yr
-- 🕒 **Posted:** 2026-08-18
+### [Software Engineer II, Storage](https://www.indeed.com/viewjob?jk=7de3b507d5849ae8) — CRUSOE
+- 📍 **Location:** San Francisco, CA, US
+- 💰 **Salary:** $140k–$160k/yr
+- 🕒 **Posted:** 2026-08-28
 
-### [Java AWS Software Engineer III](https://www.indeed.com/viewjob?jk=36efec2b0b04dfd4) — JPMorganChase
+### [Full Stack Engineer](https://www.indeed.com/viewjob?jk=d9ffe7047b29a468) — ProgrammX
+- 📍 **Location:** San Francisco, CA, US
+- 💰 **Salary:** $180k–$240k/yr
+- 🕒 **Posted:** 2026-08-28
+
+### [Full-Stack Software Engineer III (Python, React, Playwright)](https://www.indeed.com/viewjob?jk=26885abf2b73bd4d) — JPMorganChase
+- 📍 **Location:** Jersey City, NJ, US
+- 💰 **Salary:** $138k–$185k/yr
+- 🕒 **Posted:** 2026-08-28
+
+### [Software Engineer III - IOS](https://www.indeed.com/viewjob?jk=e55451d275deb8b8) — JPMorganChase
 - 📍 **Location:** New York, NY, US
 - 💰 **Salary:** $138k–$185k/yr
 - 🕒 **Posted:** 2026-08-28
 
-### [Software Engineer, Data Infrastructure & Acquisition - Newark, NJ, USA](https://www.indeed.com/viewjob?jk=8891216330e6a1cd) — Speechify
-- 📍 **Location:** Newark, NJ, US
-- 💰 **Salary:** $140k–$200k/yr
+### [Cybersecurity Engineer - Threat Management](https://www.indeed.com/viewjob?jk=49a2ec5352441fef) — Cognizant
+- 📍 **Location:** New York, NY, US
+- 💰 **Salary:** $114k–$134k/yr
 - 🕒 **Posted:** 2026-08-28
 
-### [AI Infrastructure Engineer](https://www.indeed.com/viewjob?jk=43debd0c8dadfcf9) — Fortinet
-- 📍 **Location:** New York, NY, US
-- 💰 **Salary:** $215k–$350k/yr
+### [Software Engineering III](https://www.indeed.com/viewjob?jk=da232191f01ac3ff) — JPMorganChase
+- 📍 **Location:** Jersey City, NJ, US
+- 💰 **Salary:** $138k–$185k/yr
 - 🕒 **Posted:** 2026-08-28
