@@ -1,13 +1,20 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-08-29 22:17 UTC*
+*Last updated: 2026-08-29 23:17 UTC*
 
-**2 new role(s)** since last run · 2 total in last 1h
+**4 new role(s)** since last run · 5 total in last 1h
 
-### [GM Technology Data Scientist Associate](https://www.linkedin.com/jobs/view/4459497827/) — Nomura
-- 📍 **Location:** New York, NY
+### [Machine Learning Engineer, Inference & Serving (Speech LLM)](https://www.linkedin.com/jobs/view/4459712071/) — Jobright.ai
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-08-29
 
-### [Azure and Google Cloud Engineer - Hybrid NYC](https://www.linkedin.com/jobs/view/4459701836/) — Randstad Digital Americas
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $70.00/hr - $75.00/hr
+### [Data Scientist II, Tech](https://www.linkedin.com/jobs/view/4460862300/) — Uber
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-08-29
+
+### [Marketing Data Scientist](https://www.linkedin.com/jobs/view/4459492988/) — Jobright.ai
+- 📍 **Location:** San Carlos, CA
+- 🕒 **Posted:** 2026-08-29
+
+### [Software Engineer](https://www.linkedin.com/jobs/view/4460860342/) — Tessera Data
+- 📍 **Location:** San Francisco Bay Area
 - 🕒 **Posted:** 2026-08-29
