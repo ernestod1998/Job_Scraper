@@ -1,34 +1,49 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-08-29 01:18 UTC*
+*Last updated: 2026-08-29 02:18 UTC*
 
-**7 new role(s)** since last run · 8 total in last 1h
+**10 new role(s)** since last run · 11 total in last 1h
 
-### [Software Engineer, Product & Infrastructure](https://www.linkedin.com/jobs/view/4459451067/) — LuminX
-- 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-08-28
-
-### [Software Engineer (Product)](https://www.linkedin.com/jobs/view/4459448955/) — Centralize
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $190,000.00/yr - $260,000.00/yr
-- 🕒 **Posted:** 2026-08-28
-
-### [Machine Learning Engineer, Causal Inference, Level 5](https://www.linkedin.com/jobs/view/4460545141/) — Snap Inc.
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-08-28
-
-### [Site Reliability Engineer / 9 hours ago](https://www.linkedin.com/jobs/view/4459454828/) — Filipino Contractors
+### [Software Engineer - Dashboards & Workflow Automation](https://www.linkedin.com/jobs/view/4458433707/) — HireArt
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-08-28
 
-### [Software Engineer (Product)](https://www.linkedin.com/jobs/view/4459454921/) — Centralize
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $190,000.00/yr - $260,000.00/yr
+### [Software Engineer, Distributed Systems](https://www.linkedin.com/jobs/view/4460556989/) — fal
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $180,000.00/yr - $250,000.00/yr
 - 🕒 **Posted:** 2026-08-28
 
-### [Backend Software Engineer (Python or PHP) - New York - ONSITE 4X Week](https://www.linkedin.com/jobs/view/4459464026/) — Comcast
-- 📍 **Location:** New York, NY
+### [Software Engineer, Platform](https://www.linkedin.com/jobs/view/4460576054/) — fal
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-08-28
 
-### [Azure Cloud Infrastructure Engineer II](https://www.linkedin.com/jobs/view/4454076625/) — Services for the UnderServed
+### [Full-Stack Software Engineer](https://www.linkedin.com/jobs/view/4460568271/) — Alex AI
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $100,000.00/yr - $250,000.00/yr
+- 🕒 **Posted:** 2026-08-28
+
+### [Software Engineer, Full Stack (Serverless)](https://www.linkedin.com/jobs/view/4460573101/) — fal
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $180,000.00/yr - $230,000.00/yr
+- 🕒 **Posted:** 2026-08-28
+
+### [Software Engineer, Site Reliability](https://www.linkedin.com/jobs/view/4460579049/) — fal
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $180,000.00/yr - $250,000.00/yr
+- 🕒 **Posted:** 2026-08-28
+
+### [Software Engineer, Database Reliability & Performance](https://www.linkedin.com/jobs/view/4459460228/) — InfluxData
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $100,000.00/yr - $168,000.00/yr
+- 🕒 **Posted:** 2026-08-28
+
+### [Software Engineer, Goldman School of Public Policy (5438C) #88563](https://www.linkedin.com/jobs/view/4460553933/) — University of California, Berkeley
+- 📍 **Location:** Berkeley, CA
+- 🕒 **Posted:** 2026-08-28
+
+### [Full Stack Software Engineer Intern](https://www.linkedin.com/jobs/view/4459471166/) — GenPark
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-08-28
+
+### [Robotics Software Engineer (Controls & Perception)](https://www.linkedin.com/jobs/view/4458432630/) — Beckman Coulter Life Sciences
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-08-28
