@@ -1,9 +1,9 @@
 # 🟦 Indeed — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-08-29 21:57 UTC*
+*Last updated: 2026-08-30 00:39 UTC*
 
-**1 new role(s)** since last run · 37 total in last 24h
+**1 new role(s)** since last run · 25 total in last 24h
 
-### [AI Context & Data Infrastructure Engineer](https://www.indeed.com/viewjob?jk=ee10151a84c2b6ad) — Unknown
-- 📍 **Location:** San Francisco, CA, US
-- 💰 **Salary:** $250k–$300k/yr
+### [Machine Learning Engineer III](https://www.indeed.com/viewjob?jk=9f243633b12e35cb) — Expedia Group
+- 📍 **Location:** San Jose, CA, US
+- 💰 **Salary:** $146k–$252k/yr
 - 🕒 **Posted:** 2026-08-29
