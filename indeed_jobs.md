@@ -1,48 +1,45 @@
 # 🟦 Indeed — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-08-30 07:19 UTC*
+*Last updated: 2026-08-30 18:47 UTC*
 
-**10 new role(s)** since last run · 22 total in last 24h
+**9 new role(s)** since last run · 19 total in last 24h
 
-### [Software Engineer, Goldman School of Public Policy (5438C) #88563](https://www.indeed.com/viewjob?jk=6ac6df20d4775381) — University of California Berkeley
-- 📍 **Location:** Berkeley, CA, US
-- 💰 **Salary:** $87k–$100k/yr
-- 🕒 **Posted:** 2026-08-29
+### [Design Verification Infrastructure Engineer - Platform](https://www.indeed.com/viewjob?jk=14402151cacfb928) — SiFive
+- 📍 **Location:** Santa Clara, CA, US
+- 💰 **Salary:** $159k–$194k/yr
+- 🕒 **Posted:** 2026-08-30
 
-### [Machine Learning Engineer Graduate (E-Commerce Knowledge Graph) - 2027 Start](https://www.indeed.com/viewjob?jk=a1d48c33c982fbf5) — TikTok
-- 📍 **Location:** San Jose, CA, US
-- 💰 **Salary:** $128k–$317k/yr
-- 🕒 **Posted:** 2026-08-29
+### [Software Engineer, Platform Reliability Engineering, AiDP](https://www.indeed.com/viewjob?jk=dd29fe54ffaecbd7) — Apple
+- 📍 **Location:** Sunnyvale, CA, US
+- 💰 **Salary:** $185k–$278k/yr
+- 🕒 **Posted:** 2026-08-26
 
-### [Data Scientist, Marketplace Incentives](https://www.indeed.com/viewjob?jk=b4690f902644084b) — Build AI
+### [R&D Finance & Data Scientist](https://www.indeed.com/viewjob?jk=d3f5a0a1478ef585) — Apple
+- 📍 **Location:** Cupertino, CA, US
+- 💰 **Salary:** $149k–$249k/yr
+- 🕒 **Posted:** 2026-08-26
+
+### [Full Stack Engineer, Employee Experience](https://www.indeed.com/viewjob?jk=bd63adb341638e81) — SpaceX
+- 📍 **Location:** Palo Alto, CA, US
+- 💰 **Salary:** $135k–$185k/yr
+- 🕒 **Posted:** 2026-08-30
+
+### [Software Engineer, Scaling](https://www.indeed.com/viewjob?jk=145f5dde8fdb8138) — Smart Apply Test Company
 - 📍 **Location:** San Francisco, CA, US
-- 🕒 **Posted:** 2026-08-29
+- 🕒 **Posted:** 2026-08-30
 
-### [ML Engineer, Inference Optimization](https://www.indeed.com/viewjob?jk=041809c30b321cc6) — Build AI
+### [Software Engineer, Data Infrastructure & Pipelining](https://www.indeed.com/viewjob?jk=b5d05f94182f4cf1) — Smart Apply Test Company
 - 📍 **Location:** San Francisco, CA, US
-- 🕒 **Posted:** 2026-08-29
+- 🕒 **Posted:** 2026-08-30
 
-### [Software Engineer, Data Visualization](https://www.indeed.com/viewjob?jk=4aec0019782d2100) — Build AI
+### [Software Engineer, Data Visualization](https://www.indeed.com/viewjob?jk=acb8c28fe650d9cf) — Smart Apply Test Company
 - 📍 **Location:** San Francisco, CA, US
-- 🕒 **Posted:** 2026-08-29
+- 🕒 **Posted:** 2026-08-30
 
-### [Software Engineer, Scaling](https://www.indeed.com/viewjob?jk=15591e43c9b19f83) — Build AI
+### [Software Engineer, Generalist](https://www.indeed.com/viewjob?jk=6d84105b25514e2c) — Smart Apply Test Company
 - 📍 **Location:** San Francisco, CA, US
-- 🕒 **Posted:** 2026-08-29
+- 🕒 **Posted:** 2026-08-30
 
-### [Software Engineer, Data Infrastructure & Pipelining](https://www.indeed.com/viewjob?jk=29ab592798f181e4) — Build AI
-- 📍 **Location:** San Francisco, CA, US
-- 🕒 **Posted:** 2026-08-29
-
-### [Software Engineer, Generalist](https://www.indeed.com/viewjob?jk=87181de41ca311e2) — Build AI
-- 📍 **Location:** San Francisco, CA, US
-- 🕒 **Posted:** 2026-08-29
-
-### [Software Engineer, GTM](https://www.indeed.com/viewjob?jk=fae17f8101624e22) — Unknown
-- 📍 **Location:** San Francisco, CA, US
-- 💰 **Salary:** $160k–$200k/yr
-- 🕒 **Posted:** 2026-08-29
-
-### [Software Engineer II](https://www.indeed.com/viewjob?jk=0fa0054d24c3efc9) — ARINI
-- 📍 **Location:** San Francisco, CA, US
-- 💰 **Salary:** $170k–$185k/yr
-- 🕒 **Posted:** 2026-08-29
+### [DevOps / Infrastructure Engineer - Firmware Validation](https://www.indeed.com/viewjob?jk=4ebce3819d426210) — Apple
+- 📍 **Location:** Cupertino, CA, US
+- 💰 **Salary:** $185k–$325k/yr
+- 🕒 **Posted:** 2026-08-26
