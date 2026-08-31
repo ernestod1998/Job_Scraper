@@ -1,62 +1,89 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-08-31 15:18 UTC*
+*Last updated: 2026-08-31 16:19 UTC*
 
-**14 new role(s)** since last run · 14 total in last 1h
+**20 new role(s)** since last run · 23 total in last 1h
 
-### [Research Engineer](https://www.linkedin.com/jobs/view/4461208675/) — Goliath Partners
-- 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-08-31
-
-### [Gen AI Front-End Engineer - San Francisco](https://www.linkedin.com/jobs/view/4460010702/) — Aptonet
-- 📍 **Location:** South San Francisco, CA
-- 🕒 **Posted:** 2026-08-31
-
-### [Software Engineer - Cloud Volumes](https://www.linkedin.com/jobs/view/4459203815/) — NetApp
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-08-31
-
-### [Machine Learning Engineer (Remote | $60–$120/hr)](https://www.linkedin.com/jobs/view/4459224359/) — Synthires
-- 📍 **Location:** San Francisco Bay Area
-- 💰 **Salary:** $60.00/hr - $120.00/hr
-- 🕒 **Posted:** 2026-08-31
-
-### [DevOps Engineer](https://www.linkedin.com/jobs/view/4461217142/) — New York Technology Partners
+### [Software Engineer, Backend (All Levels)](https://www.linkedin.com/jobs/view/4406142194/) — Zip
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-08-31
 
-### [Software Engineer, CAD Automation](https://www.linkedin.com/jobs/view/4424494288/) — NVIDIA
-- 📍 **Location:** Santa Clara, CA
+### [Full Stack Software Engineer](https://www.linkedin.com/jobs/view/4406562211/) — Chalk
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $170,000.00/yr - $280,000.00/yr
 - 🕒 **Posted:** 2026-08-31
 
-### [Software Engineer](https://www.linkedin.com/jobs/view/4459217712/) — NetApp
+### [Software Engineer, Developer Productivity](https://www.linkedin.com/jobs/view/4450839455/) — Chalk
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $170,000.00/yr - $280,000.00/yr
+- 🕒 **Posted:** 2026-08-31
+
+### [Software Engineer, Fullstack](https://www.linkedin.com/jobs/view/4195259082/) — Glean
+- 📍 **Location:** Mountain View, CA
+- 🕒 **Posted:** 2026-08-31
+
+### [Software Engineer, AI Workflows](https://www.linkedin.com/jobs/view/4398965812/) — Notion
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-08-31
+
+### [Software Engineer, Backend/Applied ML (Safety & Integrity)](https://www.linkedin.com/jobs/view/4358631563/) — Character.AI
+- 📍 **Location:** Redwood City, CA
+- 🕒 **Posted:** 2026-08-31
+
+### [Full-Stack Engineer](https://www.linkedin.com/jobs/view/4454408314/) — Nordic Naturals
 - 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-08-31
 
-### [Software Engineer - Systems](https://www.linkedin.com/jobs/view/4457266893/) — FUJIFILM Healthcare Americas Corporation
-- 📍 **Location:** Santa Clara, CA
+### [Machine Learning Engineer II, Responsible AI](https://www.linkedin.com/jobs/view/4460022991/) — Remote Talent
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-08-31
 
-### [Software Engineer](https://www.linkedin.com/jobs/view/4459213930/) — SoTalent
-- 📍 **Location:** Santa Clara County, CA
-- 🕒 **Posted:** 2026-08-31
-
-### [Embedded Software Engineer](https://www.linkedin.com/jobs/view/4460030571/) — Millennium Software and Staffing Inc
+### [Intelligent Data Infrastructure Engineer](https://www.linkedin.com/jobs/view/4461216721/) — NetApp
 - 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-08-31
 
-### [Software Engineer in Test](https://www.linkedin.com/jobs/view/4460026607/) — Infotree Global Solutions
-- 📍 **Location:** Cupertino, CA
+### [Forward Deployed Marketing Data Scientist](https://www.linkedin.com/jobs/view/4344193243/) — Hightouch
+- 📍 **Location:** San Francisco Bay Area
 - 🕒 **Posted:** 2026-08-31
 
-### [Software Engineer in Test](https://www.linkedin.com/jobs/view/4460024497/) — OSI Engineering
-- 📍 **Location:** Cupertino, CA
-- 💰 **Salary:** $50.00/hr - $65.00/hr
+### [Software Engineer, Starlink Network](https://www.linkedin.com/jobs/view/4384549082/) — SpaceX
+- 📍 **Location:** Sunnyvale, CA
 - 🕒 **Posted:** 2026-08-31
 
-### [Site Reliability Engineer, Global Banking & Markets, Frontline Production Engineering](https://www.linkedin.com/jobs/view/4450994633/) — Goldman Sachs
+### [Software Engineer - Core Systems and Storage Roles (Multiple Individual Contributor Levels)](https://www.linkedin.com/jobs/view/4461232516/) — NetApp
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-08-31
+
+### [Frontend Software Engineer](https://www.linkedin.com/jobs/view/4406568149/) — Chalk
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-08-31
+
+### [Frontend Developer](https://www.linkedin.com/jobs/view/4459839909/) — AMISEQ
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-08-31
+
+### [Infrastructure Engineer](https://www.linkedin.com/jobs/view/4406566178/) — Chalk
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $170,000.00/yr - $280,000.00/yr
+- 🕒 **Posted:** 2026-08-31
+
+### [Software Engineering Technical Leader](https://www.linkedin.com/jobs/view/4460030806/) — Cisco
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-08-31
+
+### [Software Engineer](https://www.linkedin.com/jobs/view/4406548495/) — Chalk
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-08-31
 
-### [OT Security Engineer](https://www.linkedin.com/jobs/view/4460007915/) — SPADTEK SOLUTIONS
-- 📍 **Location:** Newark, NJ
+### [Infrastructure Engineer](https://www.linkedin.com/jobs/view/4457951798/) — Imprint
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-08-31
+
+### [Software Engineer, Data Platform](https://www.linkedin.com/jobs/view/4393892454/) — Whatnot
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $190,000.00/yr - $270,000.00/yr
+- 🕒 **Posted:** 2026-08-31
+
+### [Software Engineer, Developer Productivity](https://www.linkedin.com/jobs/view/4450841412/) — Chalk
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $170,000.00/yr - $280,000.00/yr
 - 🕒 **Posted:** 2026-08-31
