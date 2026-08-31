@@ -1,16 +1,12 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-08-30 23:17 UTC*
+*Last updated: 2026-08-31 00:17 UTC*
 
-**3 new role(s)** since last run · 3 total in last 1h
+**2 new role(s)** since last run · 5 total in last 1h
 
-### [Machine Learning Engineer, Inference & Serving (Speech LLM)](https://www.linkedin.com/jobs/view/4459751773/) — Jobright.ai
-- 📍 **Location:** San Francisco, CA
+### [Applied Scientist II, Sponsored Products and Brands - Advertiser Growth and Strategies](https://www.linkedin.com/jobs/view/4461029630/) — Amazon
+- 📍 **Location:** Palo Alto, CA
 - 🕒 **Posted:** 2026-08-30
 
-### [Machine Learning Engineer, Speech LLM Training](https://www.linkedin.com/jobs/view/4459744764/) — Jobright.ai
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-08-30
-
-### [Data Scientist Intern](https://www.linkedin.com/jobs/view/4459736874/) — Jobright.ai
-- 📍 **Location:** San Francisco Bay Area
+### [Marketing Data Scientist](https://www.linkedin.com/jobs/view/4459745863/) — Jobright.ai
+- 📍 **Location:** San Carlos, CA
 - 🕒 **Posted:** 2026-08-30
