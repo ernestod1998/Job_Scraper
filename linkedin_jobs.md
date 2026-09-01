@@ -1,54 +1,82 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-09-01 22:18 UTC*
+*Last updated: 2026-09-01 23:19 UTC*
 
-**12 new role(s)** since last run · 23 total in last 1h
+**18 new role(s)** since last run · 20 total in last 1h
 
-### [Data Science Engineer](https://www.linkedin.com/jobs/view/4404904193/) — Lawrence Livermore National Laboratory
-- 📍 **Location:** Livermore, CA
+### [Software Engineer, Developer Productivity](https://www.linkedin.com/jobs/view/4460673105/) — OpenAI
+- 📍 **Location:** Mountain View, CA
+- 💰 **Salary:** $210,000.00/yr - $490,000.00/yr
 - 🕒 **Posted:** 2026-09-01
 
-### [Internship, Charging Data Modeling, Machine Learning Engineer (Winter/Spring 2027)](https://www.linkedin.com/jobs/view/4462068568/) — Tesla
-- 📍 **Location:** Palo Alto, CA
+### [Software Engineer, Database Systems](https://www.linkedin.com/jobs/view/4460691093/) — OpenAI
+- 📍 **Location:** Mountain View, CA
+- 💰 **Salary:** $266,000.00/yr - $445,000.00/yr
 - 🕒 **Posted:** 2026-09-01
 
-### [Backend Engineer](https://www.linkedin.com/jobs/view/4462066838/) — Fellow
+### [Data Scientist Intern](https://www.linkedin.com/jobs/view/4460689032/) — Jobright.ai
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-09-01
+
+### [Software Engineer, Observability](https://www.linkedin.com/jobs/view/4460673106/) — OpenAI
+- 📍 **Location:** Mountain View, CA
+- 💰 **Salary:** $266,000.00/yr - $445,000.00/yr
+- 🕒 **Posted:** 2026-09-01
+
+### [Software Engineer Intern, Cloud Services (Summer 2027)](https://www.linkedin.com/jobs/view/4461290767/) — HP IQ
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-09-01
 
-### [Software Engineer Intern, 2027 Summer U.S.](https://www.linkedin.com/jobs/view/4462069578/) — Atlassian
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-09-01
-
-### [Software Engineer - Healthcare](https://www.linkedin.com/jobs/view/4462059698/) — LiveRamp
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-09-01
-
-### [Software Engineer, Platform Infrastructure](https://www.linkedin.com/jobs/view/4462061027/) — Stripe
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-09-01
-
-### [Software Engineer V](https://www.linkedin.com/jobs/view/4462071326/) — INSPYR Solutions
-- 📍 **Location:** Menlo Park, CA
-- 💰 **Salary:** $78.00/hr - $98.00/hr
-- 🕒 **Posted:** 2026-09-01
-
-### [Internship, Vehicle Software Engineer, Diagnostic User Interface (Spring 2027)](https://www.linkedin.com/jobs/view/4462072069/) — Tesla
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-09-01
-
-### [Back End/Full-Stack Software Engineer](https://www.linkedin.com/jobs/view/4462061713/) — MeeBoss
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-09-01
-
-### [Leader, Software Engineering](https://www.linkedin.com/jobs/view/4462057939/) — Cisco
+### [Software Engineer - Search & Vector Database Infrastructure](https://www.linkedin.com/jobs/view/4460667009/) — ByteDance
 - 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-09-01
 
-### [Cyber Security Engineer](https://www.linkedin.com/jobs/view/4448595539/) — Atomus
-- 📍 **Location:** San Francisco Bay Area
-- 💰 **Salary:** $120,000.00/yr - $170,000.00/yr
+### [Software Engineer, Design Systems](https://www.linkedin.com/jobs/view/4460678032/) — Assembled
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-09-01
 
-### [Full Stack Engineer - Junior](https://www.linkedin.com/jobs/view/4459573188/) — Breeze
+### [Software Engineer](https://www.linkedin.com/jobs/view/4462073541/) — Tessera Data
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-09-01
+
+### [Software Engineer, Design Systems](https://www.linkedin.com/jobs/view/4460692021/) — Assembled
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-09-01
+
+### [Software Engineering Intern, Connectivity (Summer 2027)](https://www.linkedin.com/jobs/view/4462075245/) — HP IQ
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-09-01
+
+### [Software Developer in Test](https://www.linkedin.com/jobs/view/4462070867/) — ManpowerGroup
+- 📍 **Location:** Foster City, CA
+- 🕒 **Posted:** 2026-09-01
+
+### [Software Engineering - Software Engineer V](https://www.linkedin.com/jobs/view/4462068823/) — Apex Systems
+- 📍 **Location:** Menlo Park, CA
+- 💰 **Salary:** $99.00/hr - $109.00/hr
+- 🕒 **Posted:** 2026-09-01
+
+### [Generative AI & Machine Learning Engineer](https://www.linkedin.com/jobs/view/4449142161/) — Morgan Stanley
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-09-01
+
+### [Software Engineer, Observability](https://www.linkedin.com/jobs/view/4460683119/) — OpenAI
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $266,000.00/yr - $445,000.00/yr
+- 🕒 **Posted:** 2026-09-01
+
+### [Data Platform Engineer](https://www.linkedin.com/jobs/view/4460686096/) — Adonis
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $165,000.00/yr - $190,000.00/yr
+- 🕒 **Posted:** 2026-09-01
+
+### [Software Engineer, Cash App Taxes](https://www.linkedin.com/jobs/view/4462077501/) — Cash App
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-09-01
+
+### [Full-Stack Software Engineer](https://www.linkedin.com/jobs/view/4462072504/) — Teladoc Health
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-09-01
+
+### [Associate Software Engineer - Infrastructure](https://www.linkedin.com/jobs/view/4460672055/) — Metropolitan Transportation Authority
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-09-01
