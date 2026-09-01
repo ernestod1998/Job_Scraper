@@ -1,76 +1,84 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-09-01 15:18 UTC*
+*Last updated: 2026-09-01 16:19 UTC*
 
-**17 new role(s)** since last run · 17 total in last 1h
+**18 new role(s)** since last run · 35 total in last 1h
 
-### [Machine Learning Engineer | Python | Pytorch | Distributed Training | Optimisation | GPU | Hybrid, San Jose, CA](https://www.linkedin.com/jobs/view/4460609544/) — Enigma
-- 📍 **Location:** San Jose, CA
+### [Full Stack Engineer](https://www.linkedin.com/jobs/view/4459546178/) — Salt
+- 📍 **Location:** Sunnyvale, CA
 - 🕒 **Posted:** 2026-09-01
 
-### [Security Software Engineer, Detection & Response Platform](https://www.linkedin.com/jobs/view/4366434219/) — Anthropic
+### [Full Stack Engineer](https://www.linkedin.com/jobs/view/4358570627/) — Nash
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-09-01
 
-### [Software Engineer, Database Infrastructure](https://www.linkedin.com/jobs/view/4461766523/) — LangChain
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-09-01
-
-### [Software Engineer, Research Tools](https://www.linkedin.com/jobs/view/4451647467/) — Anthropic
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-09-01
-
-### [Software Engineer – Performance Profiling](https://www.linkedin.com/jobs/view/4385389611/) — Etched
-- 📍 **Location:** San Jose, CA
-- 💰 **Salary:** $150,000.00/yr - $275,000.00/yr
-- 🕒 **Posted:** 2026-09-01
-
-### [Site Reliability Engineer III - Performance Engineer- Service now](https://www.linkedin.com/jobs/view/4461758647/) — JPMorganChase
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $137,750.00/yr - $185,000.00/yr
-- 🕒 **Posted:** 2026-09-01
-
-### [Software Engineer - Core Systems and Storage Roles (Multiple Individual Contributor Levels)](https://www.linkedin.com/jobs/view/4459539151/) — NetApp
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-09-01
-
-### [Software Engineer - (Windows Display Driver / Graphics)](https://www.linkedin.com/jobs/view/4460298802/) — Omnissa
+### [Software Engineer, LLM Infrastructure](https://www.linkedin.com/jobs/view/4283317485/) — Glean
 - 📍 **Location:** Mountain View, CA
 - 🕒 **Posted:** 2026-09-01
 
-### [Software Engineer, iOS, Level 5](https://www.linkedin.com/jobs/view/4452099242/) — Snap Inc.
-- 📍 **Location:** San Francisco, CA
+### [Software Engineer](https://www.linkedin.com/jobs/view/4460608796/) — Employia
+- 📍 **Location:** San Francisco Bay Area
 - 🕒 **Posted:** 2026-09-01
 
-### [NetApp Emerging Talent - Software Engineer (Systems)](https://www.linkedin.com/jobs/view/4459530293/) — NetApp
+### [Full Stack Engineer](https://www.linkedin.com/jobs/view/4459533551/) — BrothersTech
+- 📍 **Location:** Fremont, CA
+- 🕒 **Posted:** 2026-09-01
+
+### [Computer Vision Engineer](https://www.linkedin.com/jobs/view/4445152614/) — Harvey Nash
+- 📍 **Location:** San Francisco Bay Area
+- 💰 **Salary:** $160,000.00/yr - $250,000.00/yr
+- 🕒 **Posted:** 2026-09-01
+
+### [Hardware Test Infrastructure Engineer](https://www.linkedin.com/jobs/view/4434566335/) — Efficient Computer
 - 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-09-01
 
-### [Embedded Software Engineer, Validation](https://www.linkedin.com/jobs/view/4451569648/) — Zipline
-- 📍 **Location:** South San Francisco, CA
+### [Frontend Developer](https://www.linkedin.com/jobs/view/4459538476/) — BrothersTech
+- 📍 **Location:** Fremont, CA
 - 🕒 **Posted:** 2026-09-01
 
-### [Software Developer](https://www.linkedin.com/jobs/view/4459537212/) — Amoha Recruitment Services LLC
+### [Research Engineer, Foundation Models](https://www.linkedin.com/jobs/view/4441271677/) — Brahma Consulting Group
 - 📍 **Location:** San Francisco Bay Area
-- 💰 **Salary:** $75,000.00/yr - $115,000.00/yr
+- 💰 **Salary:** $250,000.00/yr - $400,000.00/yr
 - 🕒 **Posted:** 2026-09-01
 
-### [Software Engineer, Test Infrastructure](https://www.linkedin.com/jobs/view/4442759260/) — Zipline
-- 📍 **Location:** South San Francisco, CA
+### [Infrastructure Engineer](https://www.linkedin.com/jobs/view/4452043378/) — Opto Investments
+- 📍 **Location:** San Francisco Bay Area
 - 🕒 **Posted:** 2026-09-01
 
-### [Frontend Engineer, AI Observability & Evals Platform](https://www.linkedin.com/jobs/view/4461773401/) — LangChain
+### [Software Engineer, Data Platform](https://www.linkedin.com/jobs/view/4394204415/) — Whatnot
 - 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $190,000.00/yr - $270,000.00/yr
 - 🕒 **Posted:** 2026-09-01
 
-### [Research Engineer, LangSmith Engine](https://www.linkedin.com/jobs/view/4461759603/) — LangChain
+### [Data Scientist](https://www.linkedin.com/jobs/view/4449845142/) — FanDuel
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-09-01
 
-### [2027 Graduate Software Engineer (DV Commodities)](https://www.linkedin.com/jobs/view/4451616486/) — DV Trading LLC
+### [Data Scientist](https://www.linkedin.com/jobs/view/4448389674/) — Warner Music Group
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-09-01
 
-### [Java Backend Developer](https://www.linkedin.com/jobs/view/4448566461/) — Next Gen Software Solutions LLC
-- 📍 **Location:** Berkeley Heights, NJ
-- 💰 **Salary:** $50.00/hr - $52.00/hr
+### [Data Scientist](https://www.linkedin.com/jobs/view/4460607778/) — Agentio
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $195,000.00/yr - $350,000.00/yr
+- 🕒 **Posted:** 2026-09-01
+
+### [Software Engineer X 3 - DefenseTech](https://www.linkedin.com/jobs/view/4461781267/) — IT Recruitment Solutions
+- 📍 **Location:** Manhattan, NY
+- 💰 **Salary:** $200,000.00/yr - $250,000.00/yr
+- 🕒 **Posted:** 2026-09-01
+
+### [Full Stack Engineer](https://www.linkedin.com/jobs/view/4460612198/) — BayOne Solutions
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $75.00/hr - $80.00/hr
+- 🕒 **Posted:** 2026-09-01
+
+### [FullStack engineer-Agentic AI engineering](https://www.linkedin.com/jobs/view/4446676541/) — HCLTech
+- 📍 **Location:** Hoboken, NJ
+- 💰 **Salary:** $68,000.00/yr - $128,000.00/yr
+- 🕒 **Posted:** 2026-09-01
+
+### [Java Software Engineer](https://www.linkedin.com/jobs/view/4459528623/) — Aptimized
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $1.00/yr - $2.00/yr
 - 🕒 **Posted:** 2026-09-01
