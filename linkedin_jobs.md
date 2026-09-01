@@ -1,53 +1,54 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-09-01 21:19 UTC*
+*Last updated: 2026-09-01 22:18 UTC*
 
-**12 new role(s)** since last run · 34 total in last 1h
+**12 new role(s)** since last run · 23 total in last 1h
 
-### [ML Infrastructure Engineer](https://www.linkedin.com/jobs/view/4462059053/) — D24 Search
-- 📍 **Location:** Redwood City, CA
+### [Data Science Engineer](https://www.linkedin.com/jobs/view/4404904193/) — Lawrence Livermore National Laboratory
+- 📍 **Location:** Livermore, CA
 - 🕒 **Posted:** 2026-09-01
 
-### [Machine Learning Engineer](https://www.linkedin.com/jobs/view/4459561691/) — Horizontal Talent
-- 📍 **Location:** Pleasanton, CA
+### [Internship, Charging Data Modeling, Machine Learning Engineer (Winter/Spring 2027)](https://www.linkedin.com/jobs/view/4462068568/) — Tesla
+- 📍 **Location:** Palo Alto, CA
 - 🕒 **Posted:** 2026-09-01
 
-### [IBP Supply Planning Data Scientist](https://www.linkedin.com/jobs/view/4459030555/) — Agilent Technologies
-- 📍 **Location:** Santa Clara, CA
+### [Backend Engineer](https://www.linkedin.com/jobs/view/4462066838/) — Fellow
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-09-01
 
-### [Full-Stack Software Engineer - IDE, Web APIs, Infrastructure](https://www.linkedin.com/jobs/view/4460646656/) — Cadence
+### [Software Engineer Intern, 2027 Summer U.S.](https://www.linkedin.com/jobs/view/4462069578/) — Atlassian
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-09-01
+
+### [Software Engineer - Healthcare](https://www.linkedin.com/jobs/view/4462059698/) — LiveRamp
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-09-01
+
+### [Software Engineer, Platform Infrastructure](https://www.linkedin.com/jobs/view/4462061027/) — Stripe
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-09-01
+
+### [Software Engineer V](https://www.linkedin.com/jobs/view/4462071326/) — INSPYR Solutions
+- 📍 **Location:** Menlo Park, CA
+- 💰 **Salary:** $78.00/hr - $98.00/hr
+- 🕒 **Posted:** 2026-09-01
+
+### [Internship, Vehicle Software Engineer, Diagnostic User Interface (Spring 2027)](https://www.linkedin.com/jobs/view/4462072069/) — Tesla
+- 📍 **Location:** Palo Alto, CA
+- 🕒 **Posted:** 2026-09-01
+
+### [Back End/Full-Stack Software Engineer](https://www.linkedin.com/jobs/view/4462061713/) — MeeBoss
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-09-01
+
+### [Leader, Software Engineering](https://www.linkedin.com/jobs/view/4462057939/) — Cisco
 - 📍 **Location:** San Jose, CA
-- 💰 **Salary:** $136,500.00/yr - $253,500.00/yr
 - 🕒 **Posted:** 2026-09-01
 
-### [Software Engineer, Deployment Infrastructure](https://www.linkedin.com/jobs/view/4343003573/) — Vercel
-- 📍 **Location:** San Francisco, CA
+### [Cyber Security Engineer](https://www.linkedin.com/jobs/view/4448595539/) — Atomus
+- 📍 **Location:** San Francisco Bay Area
+- 💰 **Salary:** $120,000.00/yr - $170,000.00/yr
 - 🕒 **Posted:** 2026-09-01
 
-### [Software Engineer, New Grad](https://www.linkedin.com/jobs/view/4462058112/) — Stripe
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-09-01
-
-### [Software Engineer - Systems](https://www.linkedin.com/jobs/view/4459554805/) — FUJIFILM Dimatix, Inc.
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-09-01
-
-### [Software Engineer, Intern (Summer or Winter)](https://www.linkedin.com/jobs/view/4462058113/) — Stripe
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-09-01
-
-### [Data Scientist](https://www.linkedin.com/jobs/view/4460657423/) — BERA
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-09-01
-
-### [Software Engineer](https://www.linkedin.com/jobs/view/4434331919/) — Allara
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-09-01
-
-### [Software Engineer - Healthcare](https://www.linkedin.com/jobs/view/4462067528/) — LiveRamp
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-09-01
-
-### [Research Informatics Software Engineer](https://www.linkedin.com/jobs/view/4462040445/) — Sci.bio Recruiting
+### [Full Stack Engineer - Junior](https://www.linkedin.com/jobs/view/4459573188/) — Breeze
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-09-01
