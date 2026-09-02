@@ -1,121 +1,96 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-09-02 18:19 UTC*
+*Last updated: 2026-09-02 19:19 UTC*
 
-**26 new role(s)** since last run · 49 total in last 1h
+**22 new role(s)** since last run · 39 total in last 1h
 
-### [Software Engineer, Applied AI](https://www.linkedin.com/jobs/view/4451914917/) — CHAOS Industries
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-09-02
-
-### [Machine Learning Engineer, Inference & Serving (Speech LLM)](https://www.linkedin.com/jobs/view/4460996948/) — Jobright.ai
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-09-02
-
-### [Research Engineer](https://www.linkedin.com/jobs/view/4462432973/) — talentpluto
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $140,000.00/yr - $250,000.00/yr
-- 🕒 **Posted:** 2026-09-02
-
-### [Data Scientist with QuickSight Knowledge](https://www.linkedin.com/jobs/view/4445228624/) — W3Global
-- 📍 **Location:** Santa Clara, CA
-- 💰 **Salary:** $65.00/hr - $75.00/hr
-- 🕒 **Posted:** 2026-09-02
-
-### [Optics and Computer Vision (Systems) Engineer](https://www.linkedin.com/jobs/view/4451946617/) — SCITON
+### [Software Engineer, ML Infrastructure, Level 4](https://www.linkedin.com/jobs/view/4453019453/) — Snap Inc.
 - 📍 **Location:** Palo Alto, CA
-- 💰 **Salary:** $150,000.00/yr - $220,000.00/yr
 - 🕒 **Posted:** 2026-09-02
 
-### [Full Stack Engineer, Assessment Platform](https://www.linkedin.com/jobs/view/4453206785/) — Recruiting from Scratch
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $130,000.00/yr - $400,000.00/yr
-- 🕒 **Posted:** 2026-09-02
-
-### [AI Trainer - Data Science](https://www.linkedin.com/jobs/view/4459995028/) — Planet Pharma
+### [Machine Learning Engineer, Speech LLM Training](https://www.linkedin.com/jobs/view/4461324007/) — Jobright.ai
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-09-02
 
-### [Software Engineer – Marketplace](https://www.linkedin.com/jobs/view/4450089483/) — Recruiting from Scratch
+### [Data Scientist, Level 4](https://www.linkedin.com/jobs/view/4443050735/) — Snap Inc.
 - 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $130,000.00/yr - $400,000.00/yr
 - 🕒 **Posted:** 2026-09-02
 
-### [Full-Stack Software Engineer, Agentic Product](https://www.linkedin.com/jobs/view/4447999462/) — Recruiting from Scratch
+### [Data Scientist, Level 4](https://www.linkedin.com/jobs/view/4443053547/) — Snap Inc.
+- 📍 **Location:** Palo Alto, CA
+- 🕒 **Posted:** 2026-09-02
+
+### [Software Engineer, Level 3](https://www.linkedin.com/jobs/view/4453017471/) — Snap Inc.
+- 📍 **Location:** Palo Alto, CA
+- 🕒 **Posted:** 2026-09-02
+
+### [Software Engineer](https://www.linkedin.com/jobs/view/4461320604/) — recruyt
 - 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $150,000.00/yr - $400,000.00/yr
 - 🕒 **Posted:** 2026-09-02
 
-### [Marketing Data Scientist](https://www.linkedin.com/jobs/view/4461318441/) — Jobright.ai
-- 📍 **Location:** San Carlos, CA
+### [Software Engineer - Identity and Authorization](https://www.linkedin.com/jobs/view/4462449637/) — Baseten
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $240,000.00/yr - $285,000.00/yr
 - 🕒 **Posted:** 2026-09-02
 
-### [Current PhD - Data Science Internship - Summer 2027](https://www.linkedin.com/jobs/view/4443076385/) — Capital One
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-09-02
-
-### [Infrastructure Engineer – MuleSoft/CRM Support](https://www.linkedin.com/jobs/view/4460637441/) — VeeAR Projects Inc.
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-09-02
-
-### [Backend Software Engineer](https://www.linkedin.com/jobs/view/4450095364/) — Recruiting from Scratch
+### [Software Engineer, Financial Platform - Issuing](https://www.linkedin.com/jobs/view/4451969307/) — Cash App
 - 📍 **Location:** San Francisco Bay Area
-- 💰 **Salary:** $130,000.00/yr - $400,000.00/yr
 - 🕒 **Posted:** 2026-09-02
 
-### [Software Engineer, Platform](https://www.linkedin.com/jobs/view/4461309880/) — Recruiting from Scratch
+### [Software Engineer, Design Systems](https://www.linkedin.com/jobs/view/4460678032/) — Assembled
 - 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $130,000.00/yr - $400,000.00/yr
 - 🕒 **Posted:** 2026-09-02
 
-### [Software Engineer in Test](https://www.linkedin.com/jobs/view/4459976564/) — Neural Strategic Solutions, Inc.
-- 📍 **Location:** Fremont, CA
-- 💰 **Salary:** $55.00/hr - $60.00/hr
+### [Software Engineer – High-Speed SerDes](https://www.linkedin.com/jobs/view/4461316757/) — Eridu
+- 📍 **Location:** San Francisco Bay Area
 - 🕒 **Posted:** 2026-09-02
 
-### [Embedded Software Engineer II](https://www.linkedin.com/jobs/view/4460602329/) — Pivotal
+### [Frontend Developer](https://www.linkedin.com/jobs/view/4462445742/) — TEKFORTUNE INC
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-09-02
+
+### [Software Engineer, Android, Level 5](https://www.linkedin.com/jobs/view/4443586847/) — Snap Inc.
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-09-02
+
+### [Software Engineer, Android, Level 5](https://www.linkedin.com/jobs/view/4443583969/) — Snap Inc.
 - 📍 **Location:** Palo Alto, CA
 - 🕒 **Posted:** 2026-09-02
 
-### [Salesforce DevOps Architect](https://www.linkedin.com/jobs/view/4461311793/) — Slalom
+### [Software Engineer - Identity and Authorization](https://www.linkedin.com/jobs/view/4462452575/) — Baseten
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $240,000.00/yr - $285,000.00/yr
+- 🕒 **Posted:** 2026-09-02
+
+### [Software Engineer, Design Systems](https://www.linkedin.com/jobs/view/4460692021/) — Assembled
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-09-02
 
-### [Software Engineer III - Full Stack (React + Java/Go)](https://www.linkedin.com/jobs/view/4452713741/) — Avenue Code
-- 📍 **Location:** San Mateo, CA
-- 🕒 **Posted:** 2026-09-02
-
-### [Kernel Driver Software Engineer](https://www.linkedin.com/jobs/view/4385378988/) — Etched
-- 📍 **Location:** San Jose, CA
-- 💰 **Salary:** $150,000.00/yr - $275,000.00/yr
-- 🕒 **Posted:** 2026-09-02
-
-### [Backend Software Engineer](https://www.linkedin.com/jobs/view/4459972871/) — Metis Technology Solutions, Inc.
-- 📍 **Location:** Mountain View, CA
-- 💰 **Salary:** $120,000.00/yr - $220,000.00/yr
-- 🕒 **Posted:** 2026-09-02
-
-### [Modeling and Simulation Software Engineer](https://www.linkedin.com/jobs/view/4459986176/) — Metis Technology Solutions, Inc.
-- 📍 **Location:** Mountain View, CA
-- 💰 **Salary:** $140,000.00/yr - $200,000.00/yr
-- 🕒 **Posted:** 2026-09-02
-
-### [Mid-Level Machine Learning Engineer](https://www.linkedin.com/jobs/view/4461311540/) — TetraMem - Accelerate The World
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-09-02
-
-### [Machine Learning Engineer](https://www.linkedin.com/jobs/view/4461307901/) — Recruiting from Scratch
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $120,000.00/yr - $150,000.00/yr
-- 🕒 **Posted:** 2026-09-02
-
-### [Full Stack Engineer](https://www.linkedin.com/jobs/view/4461308843/) — Porter
+### [ML Research Scientist -Deep Learning & Transformer Architectures](https://www.linkedin.com/jobs/view/4425289010/) — Millennium
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-09-02
 
-### [Full Stack Software Engineer- T. Rowe Price AI Lab (NY or MD)](https://www.linkedin.com/jobs/view/4459975600/) — T. Rowe Price
+### [Software Engineer](https://www.linkedin.com/jobs/view/4462459176/) — Winaxis LLC
+- 📍 **Location:** Jersey City, NJ
+- 💰 **Salary:** $35.00/hr - $45.00/hr
+- 🕒 **Posted:** 2026-09-02
+
+### [Current PhD - Data Science Internship - Summer 2027](https://www.linkedin.com/jobs/view/4443067849/) — Capital One
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-09-02
 
-### [Asset & Wealth Management – New York - Associate Security Engineering - 10415579](https://www.linkedin.com/jobs/view/4451920158/) — Goldman Sachs
+### [Software Engineer 3, Atlas Identity and Access Management](https://www.linkedin.com/jobs/view/4443531708/) — MongoDB
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-09-02
+
+### [Software Engineer - Identity and Authorization](https://www.linkedin.com/jobs/view/4462457335/) — Baseten
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $240,000.00/yr - $285,000.00/yr
+- 🕒 **Posted:** 2026-09-02
+
+### [Software Engineer (Development & QA Automation) (Hybrid - Newark, NJ, Coppell, TX or NYC)](https://www.linkedin.com/jobs/view/4452340869/) — Broadridge
+- 📍 **Location:** Newark, NJ
+- 🕒 **Posted:** 2026-09-02
+
+### [Data Scientist, Decisions - Central Market Management](https://www.linkedin.com/jobs/view/4434729469/) — Lyft
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-09-02
