@@ -1,46 +1,42 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-09-02 02:18 UTC*
+*Last updated: 2026-09-02 03:18 UTC*
 
-**10 new role(s)** since last run · 18 total in last 1h
+**8 new role(s)** since last run · 18 total in last 1h
 
-### [Software Engineer, AI Platform](https://www.linkedin.com/jobs/view/4459598161/) — Fab2
+### [Software Engineer](https://www.linkedin.com/jobs/view/4459589774/) — Raydar
 - 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $140,000.00/yr - $200,000.00/yr
+- 💰 **Salary:** $150,000.00/yr - $220,000.00/yr
 - 🕒 **Posted:** 2026-09-01
 
-### [Artificial Intelligence Security Engineer](https://www.linkedin.com/jobs/view/4462104819/) — Bright Vision Technologies
-- 📍 **Location:** Palo Alto, CA
+### [AI Research Scientist, Reinforcement Learning (LLM) and Post-Training](https://www.linkedin.com/jobs/view/4459595486/) — AMD
+- 📍 **Location:** Santa Clara, CA
+- 💰 **Salary:** $204,000.00/yr - $306,000.00/yr
 - 🕒 **Posted:** 2026-09-01
 
-### [Hardware Automation Software Engineering Intern](https://www.linkedin.com/jobs/view/4459575797/) — Avicena Tech
+### [Fullstack Engineer, Ambient AI](https://www.linkedin.com/jobs/view/4438508827/) — Commure
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $130,000.00/yr - $180,000.00/yr
+- 🕒 **Posted:** 2026-09-01
+
+### [Software Engineering LMTS](https://www.linkedin.com/jobs/view/4460916313/) — MuleSoft
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-09-01
+
+### [Full Stack Engineer](https://www.linkedin.com/jobs/view/4459599021/) — Yara AI
+- 📍 **Location:** San Francisco Bay Area
+- 💰 **Salary:** $150,000.00/yr - $500,000.00/yr
+- 🕒 **Posted:** 2026-09-01
+
+### [Software Engineer, RCM Core](https://www.linkedin.com/jobs/view/4442169621/) — Commure
+- 📍 **Location:** Mountain View, CA
+- 💰 **Salary:** $170,000.00/yr - $190,000.00/yr
+- 🕒 **Posted:** 2026-09-01
+
+### [Fullstack Engineer, Ambient AI](https://www.linkedin.com/jobs/view/4438516340/) — Commure
+- 📍 **Location:** Mountain View, CA
+- 💰 **Salary:** $130,000.00/yr - $180,000.00/yr
+- 🕒 **Posted:** 2026-09-01
+
+### [Security Engineer](https://www.linkedin.com/jobs/view/4453504085/) — System Integration Solutions
 - 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-09-01
-
-### [DevOps Automation Engineer](https://www.linkedin.com/jobs/view/4462112680/) — Bright Vision Technologies
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-09-01
-
-### [Software Engineer, Applied AI](https://www.linkedin.com/jobs/view/4459577724/) — Rilla
-- 📍 **Location:** Brooklyn, NY
-- 🕒 **Posted:** 2026-09-01
-
-### [Software Engineer, Integrations](https://www.linkedin.com/jobs/view/4459598131/) — Rilla
-- 📍 **Location:** Brooklyn, NY
-- 🕒 **Posted:** 2026-09-01
-
-### [Computer Vision & ML Expert](https://www.linkedin.com/jobs/view/4460135981/) — Alignerr
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $100.00/hr - $150.00/hr
-- 🕒 **Posted:** 2026-09-01
-
-### [Software Engineering Intern - 2027 Graduates](https://www.linkedin.com/jobs/view/4459583547/) — Rilla
-- 📍 **Location:** Brooklyn, NY
-- 🕒 **Posted:** 2026-09-01
-
-### [Artificial Intelligence and Data Science for Public Policy](https://www.linkedin.com/jobs/view/4460683843/) — Evalve Consulting
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-09-01
-
-### [Software Engineer, Platform](https://www.linkedin.com/jobs/view/4459573856/) — Rilla
-- 📍 **Location:** Brooklyn, NY
 - 🕒 **Posted:** 2026-09-01
