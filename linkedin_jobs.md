@@ -1,48 +1,48 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-09-03 03:17 UTC*
+*Last updated: 2026-09-03 06:25 UTC*
 
-**10 new role(s)** since last run · 20 total in last 1h
+**11 new role(s)** since last run · 15 total in last 1h
 
-### [Software Engineer - ANF (Azure NetApp Files)](https://www.linkedin.com/jobs/view/4460422465/) — NetApp
+### [GPU Simulation System Software Engineer](https://www.linkedin.com/jobs/view/4460453493/) — NVIDIA AI
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-09-02
+
+### [Security Software Engineer, Vulnerability Operations](https://www.linkedin.com/jobs/view/4460451505/) — NVIDIA AI
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-09-02
+
+### [Power Infrastructure Engineer](https://www.linkedin.com/jobs/view/4461001335/) — SiFive
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-09-02
+
+### [Internship, Fullstack Engineer, AI Tooling (Winter/Spring 2027)](https://www.linkedin.com/jobs/view/4462776069/) — Tesla
+- 📍 **Location:** Palo Alto, CA
+- 🕒 **Posted:** 2026-09-02
+
+### [DevOps Engineer III](https://www.linkedin.com/jobs/view/4462761701/) — Deloitte
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-09-02
+
+### [DevOps Engineer III](https://www.linkedin.com/jobs/view/4462771249/) — Deloitte
 - 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-09-02
 
-### [Entry Level Software Engineer - ANF (Azure NetApp Files)](https://www.linkedin.com/jobs/view/4460422463/) — NetApp
-- 📍 **Location:** San Jose, CA
+### [Internship, Software Engineer, Vehicle UI Development (Winter/Spring 2027)](https://www.linkedin.com/jobs/view/4462764176/) — Tesla
+- 📍 **Location:** Palo Alto, CA
 - 🕒 **Posted:** 2026-09-02
 
-### [Detection and Response Platform Engineer](https://www.linkedin.com/jobs/view/4462751156/) — Cerebras
-- 📍 **Location:** Sunnyvale, CA
+### [Internship, Software Engineer, Finance Programs (Winter/Spring 2027)](https://www.linkedin.com/jobs/view/4462771109/) — Tesla
+- 📍 **Location:** Palo Alto, CA
 - 🕒 **Posted:** 2026-09-02
 
-### [Cybersecurity Engineer](https://www.linkedin.com/jobs/view/4460423458/) — Coherent Corp.
-- 📍 **Location:** San Francisco Bay Area
-- 💰 **Salary:** $118,000.00/yr - $202,063.00/yr
+### [Internship, Embedded Software Engineer, Steering, Chassis Systems (Winter/Spring 2027)](https://www.linkedin.com/jobs/view/4462775085/) — Tesla
+- 📍 **Location:** Palo Alto, CA
 - 🕒 **Posted:** 2026-09-02
 
-### [Software Engineer III (Python/AWS)](https://www.linkedin.com/jobs/view/4462756114/) — JPMorganChase
-- 📍 **Location:** Jersey City, NJ
-- 💰 **Salary:** $137,750.00/yr - $185,000.00/yr
+### [Internship, Software Engineer, AI Data Infrastructure (Winter/Spring 2027)](https://www.linkedin.com/jobs/view/4462760974/) — Tesla
+- 📍 **Location:** Palo Alto, CA
 - 🕒 **Posted:** 2026-09-02
 
-### [Software Engineer III - Asset & Wealth Management Technology](https://www.linkedin.com/jobs/view/4462740221/) — JPMorganChase
-- 📍 **Location:** Jersey City, NJ
-- 💰 **Salary:** $137,750.00/yr - $185,000.00/yr
-- 🕒 **Posted:** 2026-09-02
-
-### [Software Engineer III - Trading Technology | Asset Management](https://www.linkedin.com/jobs/view/4462746190/) — JPMorganChase
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-09-02
-
-### [Java Backend Developer (Spring boot/Microservices) - 70286151](https://www.linkedin.com/jobs/view/4461387513/) — Cognizant
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-09-02
-
-### [Software Engineer III - Alternative Asset Management Technology](https://www.linkedin.com/jobs/view/4462753157/) — JPMorganChase
-- 📍 **Location:** Jersey City, NJ
-- 💰 **Salary:** $137,750.00/yr - $185,000.00/yr
-- 🕒 **Posted:** 2026-09-02
-
-### [Software Engineer II](https://www.linkedin.com/jobs/view/4462740039/) — Motion Recruitment
+### [DevOps Engineer III](https://www.linkedin.com/jobs/view/4462764306/) — Deloitte
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-09-02
