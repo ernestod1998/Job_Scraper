@@ -1,41 +1,58 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-09-03 01:18 UTC*
+*Last updated: 2026-09-03 02:18 UTC*
 
-**8 new role(s)** since last run · 21 total in last 1h
+**13 new role(s)** since last run · 21 total in last 1h
 
-### [Cybersecurity Software Engineer - New Grad (December 2027)](https://www.linkedin.com/jobs/view/4461364374/) — Applied Intuition
+### [Generative AI Engineer](https://www.linkedin.com/jobs/view/4462733717/) — Bright Vision Technologies
+- 📍 **Location:** Redwood City, CA
+- 🕒 **Posted:** 2026-09-02
+
+### [Machine Learning Infrastructure Engineer](https://www.linkedin.com/jobs/view/4462735696/) — Bright Vision Technologies
+- 📍 **Location:** Redwood City, CA
+- 🕒 **Posted:** 2026-09-02
+
+### [Machine Learning Engineer](https://www.linkedin.com/jobs/view/4462733839/) — Capable
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $150,000.00/yr - $240,000.00/yr
+- 🕒 **Posted:** 2026-09-02
+
+### [Full Stack Engineer, AI Internal Systems](https://www.linkedin.com/jobs/view/4461382428/) — ActAI
+- 📍 **Location:** Palo Alto, CA
+- 🕒 **Posted:** 2026-09-02
+
+### [Software Engineer](https://www.linkedin.com/jobs/view/4462725677/) — Uber
 - 📍 **Location:** Sunnyvale, CA
-- 💰 **Salary:** $130,000.00/yr - $158,000.00/yr
 - 🕒 **Posted:** 2026-09-02
 
-### [Machine Learning Engineer](https://www.linkedin.com/jobs/view/4461360956/) — Intryc (YC S24)
+### [AI Scientist](https://www.linkedin.com/jobs/view/4462730728/) — Bright Vision Technologies
+- 📍 **Location:** Redwood City, CA
+- 🕒 **Posted:** 2026-09-02
+
+### [Android Software Engineer](https://www.linkedin.com/jobs/view/4461386339/) — ActAI
+- 📍 **Location:** Palo Alto, CA
+- 🕒 **Posted:** 2026-09-02
+
+### [Product Data Scientist](https://www.linkedin.com/jobs/view/4462728491/) — Baseten
 - 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $150,000.00/yr - $250,000.00/yr
+- 💰 **Salary:** $185,000.00/yr - $260,000.00/yr
 - 🕒 **Posted:** 2026-09-02
 
-### [Platform Engineer](https://www.linkedin.com/jobs/view/4462732418/) — Reactor
-- 📍 **Location:** San Francisco, CA
+### [Site Reliability Engineer - Product & Data Security-Sunnyvale](https://www.linkedin.com/jobs/view/4460436328/) — Alibaba Cloud
+- 📍 **Location:** Sunnyvale, CA
 - 🕒 **Posted:** 2026-09-02
 
-### [Software Engineering Generalist](https://www.linkedin.com/jobs/view/4450824635/) — Horizontal Talent
-- 📍 **Location:** San Francisco, CA
+### [Chip Software Engineer](https://www.linkedin.com/jobs/view/4462716810/) — Bright Vision Technologies
+- 📍 **Location:** Palo Alto, CA
 - 🕒 **Posted:** 2026-09-02
 
-### [Marketing Data Scientist](https://www.linkedin.com/jobs/view/4461361435/) — Jobright.ai
-- 📍 **Location:** San Carlos, CA
+### [AWS Cloud Engineer](https://www.linkedin.com/jobs/view/4462726749/) — Bright Vision Technologies
+- 📍 **Location:** Redwood City, CA
 - 🕒 **Posted:** 2026-09-02
 
-### [Backend Software Engineer - Simulations](https://www.linkedin.com/jobs/view/4460443195/) — Rune Technologies
+### [Azure Infrastructure Engineer](https://www.linkedin.com/jobs/view/4462735703/) — Bright Vision Technologies
+- 📍 **Location:** Palo Alto, CA
+- 🕒 **Posted:** 2026-09-02
+
+### [Software Engineer - Ad Engineering](https://www.linkedin.com/jobs/view/4461391002/) — Fubo
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $190,000.00/yr - $210,000.00/yr
-- 🕒 **Posted:** 2026-09-02
-
-### [Software Engineer (C#) - Internal Tooling](https://www.linkedin.com/jobs/view/4462722599/) — Alignerr
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $50.00/hr - $75.00/hr
-- 🕒 **Posted:** 2026-09-02
-
-### [Data Scientist (Masters)](https://www.linkedin.com/jobs/view/4462720601/) — Alignerr
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $40.00/hr - $80.00/hr
 - 🕒 **Posted:** 2026-09-02
