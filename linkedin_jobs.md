@@ -1,62 +1,62 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-09-02 23:18 UTC*
+*Last updated: 2026-09-03 00:18 UTC*
 
-**13 new role(s)** since last run · 14 total in last 1h
+**14 new role(s)** since last run · 28 total in last 1h
 
-### [ML Infrastructure Engineer](https://www.linkedin.com/jobs/view/4460951951/) — Inventure
-- 📍 **Location:** Redwood City, CA
-- 💰 **Salary:** $220,000.00/yr - $350,000.00/yr
+### [Machine Learning Engineer, Speech LLM Training](https://www.linkedin.com/jobs/view/4461364286/) — Jobright.ai
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-09-02
 
-### [Research Engineer](https://www.linkedin.com/jobs/view/4462480858/) — Goliath Partners
-- 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-09-02
-
-### [Generative AI Developer](https://www.linkedin.com/jobs/view/4462490304/) — Apex Systems
-- 📍 **Location:** Pleasanton, CA
-- 💰 **Salary:** $80.00/hr - $90.00/hr
-- 🕒 **Posted:** 2026-09-02
-
-### [AI Native Software Engineer (Full Stack Engineer)](https://www.linkedin.com/jobs/view/4461360102/) — Tata Consultancy Services
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-09-02
-
-### [AI Native Software Engineer (AWS)](https://www.linkedin.com/jobs/view/4461362086/) — Tata Consultancy Services
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-09-02
-
-### [Software Engineer, Insider Risk - Global Security Organization](https://www.linkedin.com/jobs/view/4461345694/) — TikTok
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-09-02
-
-### [Software Engineer, Distributed Systems](https://www.linkedin.com/jobs/view/4424262692/) — Discord
-- 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-09-02
-
-### [Data Scientist Intern](https://www.linkedin.com/jobs/view/4461346300/) — Jobright.ai
-- 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-09-02
-
-### [Embedded Software Engineer - Onsite](https://www.linkedin.com/jobs/view/4436095196/) — BayOne Solutions
+### [Applied Scientist, Prime Video - Generative AI (Video)](https://www.linkedin.com/jobs/view/4462720080/) — Prime Video & Amazon MGM Studios
 - 📍 **Location:** Sunnyvale, CA
-- 💰 **Salary:** $75.00/hr - $80.00/hr
 - 🕒 **Posted:** 2026-09-02
 
-### [Machine Learning Engineer](https://www.linkedin.com/jobs/view/4462493154/) — Apex Systems
-- 📍 **Location:** Jersey City, NJ
-- 💰 **Salary:** $66.00/hr - $68.00/hr
+### [AI/ML Engineer Intern](https://www.linkedin.com/jobs/view/4461364208/) — Stealth Startup
+- 📍 **Location:** Mountain View, CA
 - 🕒 **Posted:** 2026-09-02
 
-### [Software Engineer III](https://www.linkedin.com/jobs/view/4462497249/) — Kforce Inc
+### [Solutions Architect, Generative AI Startups, AWS](https://www.linkedin.com/jobs/view/4462726009/) — Amazon Web Services (AWS)
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-09-02
+
+### [Research Software Engineer, Calibration, MQS Center for Quantum Computing](https://www.linkedin.com/jobs/view/4462715073/) — Amazon Web Services (AWS)
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-09-02
+
+### [Systems Development Engineer, AWS Generative AI & ML Servers](https://www.linkedin.com/jobs/view/4462721021/) — Amazon Web Services (AWS)
+- 📍 **Location:** Cupertino, CA
+- 🕒 **Posted:** 2026-09-02
+
+### [Software Engineer](https://www.linkedin.com/jobs/view/4461362382/) — The Knowledge Company
+- 📍 **Location:** Berkeley, CA
+- 🕒 **Posted:** 2026-09-02
+
+### [Cloud Hardware Dev Engineer (AWS Generative AI & ML Servers), AWS Generative AI & ML Servers](https://www.linkedin.com/jobs/view/4462713090/) — Amazon Web Services (AWS)
+- 📍 **Location:** Cupertino, CA
+- 🕒 **Posted:** 2026-09-02
+
+### [Applied Scientist , Sponsored Products](https://www.linkedin.com/jobs/view/4462720076/) — Amazon
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $60.00/hr - $65.00/hr
 - 🕒 **Posted:** 2026-09-02
 
-### [Cloud Engineer](https://www.linkedin.com/jobs/view/4462492440/) — TripleLift
-- 📍 **Location:** New York, NY
+### [Machine Learning Engineer, Inference & Serving (Speech LLM)](https://www.linkedin.com/jobs/view/4461365160/) — Jobright.ai
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-09-02
 
-### [Software Engineer III - AMRS Linear Rates Technology team](https://www.linkedin.com/jobs/view/4462496049/) — Bank of America
+### [Data Scientist II - Big Data R&D, Identity Graph & Deceased Monitoring](https://www.linkedin.com/jobs/view/4462489907/) — Socure
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $140,000.00/yr - $170,000.00/yr
+- 🕒 **Posted:** 2026-09-02
+
+### [Software Engineer](https://www.linkedin.com/jobs/view/4462496490/) — Valar Labs
+- 📍 **Location:** Palo Alto, CA
+- 🕒 **Posted:** 2026-09-02
+
+### [Site Reliability Engineer-Sunnyvale](https://www.linkedin.com/jobs/view/4460439106/) — Alibaba Cloud
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-09-02
+
+### [Data Scientist II - Big Data R&D, Identity Graph & Deceased Monitoring](https://www.linkedin.com/jobs/view/4462490896/) — Socure
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $102,900.00/yr - $179,900.00/yr
+- 💰 **Salary:** $140,000.00/yr - $170,000.00/yr
 - 🕒 **Posted:** 2026-09-02
