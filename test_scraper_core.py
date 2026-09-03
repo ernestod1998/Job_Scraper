@@ -42,6 +42,19 @@ class RoleAndLocationPolicy(unittest.TestCase):
             self.assertFalse(sj.is_mle_role(f"{prefix} Machine Learning Engineer"), prefix)
         self.assertTrue(sj.is_mle_role("Machine Learning Engineer, Leadership Development"))
 
+    def test_security_veto_drops_security_flavored_titles(self):
+        for title in (
+            "Security Engineer", "Cybersecurity Engineer", "Cyber Security Engineer",
+            "Software Engineer, Cloud Security", "Application Security Engineer",
+            "Site Reliability Engineer - Product & Data Security",
+            "Software Engineer, Vulnerability Management", "DevSecOps Engineer",
+            "Software Engineer, Threat Detection", "Machine Learning Engineer, Secure Systems",
+            "Software Engineer, iOS - Securing Engineering, USDS",
+        ):
+            self.assertFalse(sj.is_mle_role(title), title)
+        for title in ("Software Engineer", "Machine Learning Engineer", "Data Scientist, Insecurity Index"):
+            self.assertTrue(sj.is_mle_role(title), title)
+
     def test_general_nyc_and_close_nj_allowlist(self):
         accepted = (
             "New York, NY", "New York City", "Brooklyn, NY", "Queens, New York",
@@ -74,6 +87,7 @@ class RoleAndLocationPolicy(unittest.TestCase):
         rows = [
             role("https://x/ok"),
             role("https://x/senior", title="Senior Machine Learning Engineer"),
+            role("https://x/security", title="Software Engineer, Cloud Security"),
             role("https://x/far", location="Boston, MA"),
             role("https://x/company", company="Jack & Jill"),
             role("https://x/old", date_posted="2024-09-04"),
@@ -81,9 +95,9 @@ class RoleAndLocationPolicy(unittest.TestCase):
         kept, rejected, stats = sj._filter_job_observations(rows, default_feed="general")
         self.assertEqual([j["url"] for j in kept], ["https://x/ok"])
         self.assertEqual(kept[0]["feeds"], ["general"])
-        self.assertEqual(stats, {"company": 1, "seniority": 1, "role": 0, "location": 1, "stale": 1})
-        self.assertEqual({r["reason"] for r in rejected}, {"company", "seniority", "location", "stale"})
-        bio, _, _ = sj._filter_job_observations([rows[2]], default_feed="biotech")
+        self.assertEqual(stats, {"company": 1, "seniority": 1, "security": 1, "role": 0, "location": 1, "stale": 1})
+        self.assertEqual({r["reason"] for r in rejected}, {"company", "seniority", "security", "location", "stale"})
+        bio, _, _ = sj._filter_job_observations([rows[3]], default_feed="biotech")
         self.assertEqual(bio[0]["feeds"], ["biotech"])
 
     def test_stale_policy_at_the_choke_point(self):

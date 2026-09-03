@@ -68,7 +68,11 @@ KEYWORDS = [
     "cloud engineer",
     "devops engineer", "devops",
     "site reliability engineer",
-    "security engineer",
+    # Retired 2026-09-03 — Ernesto doesn't want security roles at all. The
+    # EXCLUDED_SECURITY_RE veto below also drops security-flavored titles that
+    # reach here via another keyword ("Software Engineer, Cloud Security").
+    # Uncomment here + LINKEDIN_SEARCH_TERMS and delete the veto to resume.
+    # "security engineer",
     # ---- Data engineering ----
     # Paused 2026-08-19 — same rationale as the systems-engineer lane above.
     # "data engineer", "data engineering",
@@ -127,6 +131,16 @@ EXCLUDED_SENIORITY_RE = re.compile(
     r'vice president|vp|svp|chief|head\s+of)\b',
     re.IGNORECASE)
 
+# Security-domain titles are excluded everywhere (2026-09-03): the lane was
+# retired and Ernesto wants nothing security-adjacent, including roles that
+# match another keyword ("Software Engineer, Cloud Security", "SRE - Product
+# Security"). Keep in sync with EXCLUDED_SECURITY_RE in triage.html.
+EXCLUDED_SECURITY_RE = re.compile(
+    r'\b(security|secure|securing|cyber\w*|infosec|appsec|devsecops|secops|threat|'
+    r'vulnerability|vulnerabilities|pentest\w*|penetration|red\s+team|'
+    r'incident\s+response|soc|iam|cryptograph\w*|grc)\b',
+    re.IGNORECASE)
+
 # Recruiting-platform / aggregator accounts that repost roles which mostly don't
 # actually exist (e.g. "Jack & Jill" reposts other companies' jobs on LinkedIn).
 # Matched against the parsed company name; add a line to block the next one.
@@ -170,7 +184,7 @@ def fetch(url):
 
 
 def is_mle_role(title: str) -> bool:
-    if EXCLUDED_SENIORITY_RE.search(title):
+    if EXCLUDED_SENIORITY_RE.search(title) or EXCLUDED_SECURITY_RE.search(title):
         return False
     return bool(_KEYWORD_RE.search(title))
 
@@ -1089,7 +1103,8 @@ LINKEDIN_SEARCH_TERMS = [
     "devops engineer",
     "site reliability engineer",
     "infrastructure engineer",
-    "security engineer",
+    # Retired 2026-09-03 with the matching KEYWORDS entry (see note there).
+    # "security engineer",
     # Data engineering — paused 2026-08-19 with the matching KEYWORDS lanes
     # (no data-eng experience); uncomment both places to resume.
     # "data engineer",
@@ -1608,7 +1623,7 @@ def _job_identity(url: str) -> str:
     return url.split("?")[0].rstrip("/")
 
 
-FILTER_STAT_KEYS = ("company", "seniority", "role", "location", "stale")
+FILTER_STAT_KEYS = ("company", "seniority", "security", "role", "location", "stale")
 
 
 def _observation_feed(job: dict, default_feed: str) -> str:
@@ -1641,6 +1656,8 @@ def _filter_job_observations(jobs: list[dict], *, default_feed: str):
             reason = "company"
         elif EXCLUDED_SENIORITY_RE.search(title):
             reason = "seniority"
+        elif EXCLUDED_SECURITY_RE.search(title):
+            reason = "security"
         elif not _KEYWORD_RE.search(title):
             reason = "role"
         else:

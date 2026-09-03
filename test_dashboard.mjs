@@ -57,6 +57,20 @@ for (const title of ['Machine Learning Engineer', 'Leadership Program Analyst', 
   check(`seniority boundary allows: ${title}`, !veto.test(title));
 }
 
+const secMatch = html.match(/const EXCLUDED_SECURITY_RE = (\/.*\/[a-z]*);/);
+if (!secMatch) throw new Error('EXCLUDED_SECURITY_RE not found');
+const secVeto = new Function(`return ${secMatch[1]}`)();
+for (const title of [
+  'Security Engineer', 'Cybersecurity Engineer', 'Cyber Security Engineer',
+  'Software Engineer, Cloud Security', 'Application Security Engineer',
+  'DevSecOps Engineer', 'Software Engineer, Threat Detection',
+  'Software Engineer, Vulnerability Management', 'Machine Learning Engineer, Secure Systems',
+  'Software Engineer, iOS - Securing Engineering, USDS',
+]) check(`security veto: ${title}`, secVeto.test(title));
+for (const title of ['Software Engineer', 'Machine Learning Engineer', 'Data Scientist, Insecurity Index']) {
+  check(`security boundary allows: ${title}`, !secVeto.test(title));
+}
+
 check('scoring feature flag is disabled', /const ENABLE_SCORING\s*=\s*false\s*;/.test(html));
 check('score fetch is feature-gated', /if \(ENABLE_SCORING\)\s*\{[\s\S]*?fetch\('scores\.json'/.test(html));
 check('rank control follows feature flag', /view-rank'\)\.hidden\s*=\s*!ENABLE_SCORING/.test(html));

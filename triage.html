@@ -1561,6 +1561,9 @@
   // scrape_jobs.py) or older than 30 days. Anything saved/applied/dismissed
   // is kept — that's the user's triage history.
   const EXCLUDED_TITLE_RE = /\b(senior|sr|staff|principal|distinguished|founding|lead|manager|director|vice president|vp|svp|chief|head\s+of)\b/i;
+  // Security-domain veto (lane retired 2026-09-03) — keep in sync with
+  // EXCLUDED_SECURITY_RE in scrape_jobs.py.
+  const EXCLUDED_SECURITY_RE = /\b(security|secure|securing|cyber\w*|infosec|appsec|devsecops|secops|threat|vulnerability|vulnerabilities|pentest\w*|penetration|red\s+team|incident\s+response|soc|iam|cryptograph\w*|grc)\b/i;
   function repairBiotechSourceCollision(j) {
     const company = String(j.company || '').normalize('NFKD')
       .replace(/[\u0300-\u036f]/g, '').replace(/[^a-z0-9]/gi, '').toLowerCase();
@@ -1579,6 +1582,7 @@
       repairBiotechSourceCollision(j);
       if (tri(j.url)) return true;   // tri(), not truthiness — a tombstone is an object
       if (EXCLUDED_TITLE_RE.test(j.title || '')) return false;
+      if (EXCLUDED_SECURITY_RE.test(j.title || '')) return false;
       const t = jobFreshMs(j);
       return t == null || t >= cutoff;
     });

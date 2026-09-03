@@ -1,6 +1,6 @@
 # 🧬 Bay Area + NYC MLE / DS Job Scraper
 
-Automated watchers that scrape **software engineering, ML/AI, data science, data engineering, platform/infra/security, and biotech informatics roles**, commit the results to the repo, and surface them in the [`triage.html`](#interactive-triage-dashboard--triagehtml) dashboard. General sources are limited to the SF Bay Area, core NYC, nearby North Jersey, and US-remote roles; the dedicated biotech lane intentionally keeps the broader configured US biotech hubs.
+Automated watchers that scrape **software engineering, ML/AI, data science, data engineering, platform/infra, and biotech informatics roles**, commit the results to the repo, and surface them in the [`triage.html`](#interactive-triage-dashboard--triagehtml) dashboard. General sources are limited to the SF Bay Area, core NYC, nearby North Jersey, and US-remote roles; the dedicated biotech lane intentionally keeps the broader configured US biotech hubs.
 
 ## What It Does
 
@@ -35,7 +35,7 @@ The generic `ai engineer` / `ai/ml engineer` lane is deliberately paused; the re
 
 **Software engineering:** `software engineer`, `software developer`, `backend engineer`, `back-end engineer`, `backend developer`, `frontend engineer`, `front-end engineer`, `frontend developer`, `full stack engineer`, `full-stack engineer`, `fullstack engineer`, `mobile engineer`, `ios engineer`, `android engineer`
 
-**Platform / infra / ops:** `platform engineer`, `infrastructure engineer`, `infra engineer`, `cloud engineer`, `devops engineer`, `devops`, `site reliability engineer`, `security engineer` — the `systems engineer` / `distributed systems` lane was paused 2026-08-19 (no systems-eng experience; commented out in `KEYWORDS`)
+**Platform / infra / ops:** `platform engineer`, `infrastructure engineer`, `infra engineer`, `cloud engineer`, `devops engineer`, `devops`, `site reliability engineer` — the `systems engineer` / `distributed systems` lane was paused 2026-08-19 (no systems-eng experience; commented out in `KEYWORDS`). The `security engineer` lane was retired 2026-09-03 and `EXCLUDED_SECURITY_RE` now vetoes any security-flavored title (cyber, appsec, threat, vulnerability, …) regardless of which keyword it matched
 
 **Data engineering:** paused 2026-08-19 (no data-eng experience) — `data engineer`, `data engineering`, `analytics engineer`, `data platform`, `data infrastructure`, `etl engineer`, `etl developer` are commented out in `KEYWORDS` and `LINKEDIN_SEARCH_TERMS`; uncomment both places to resume
 
