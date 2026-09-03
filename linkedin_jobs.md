@@ -1,58 +1,48 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-09-03 02:18 UTC*
+*Last updated: 2026-09-03 03:17 UTC*
 
-**13 new role(s)** since last run · 21 total in last 1h
+**10 new role(s)** since last run · 20 total in last 1h
 
-### [Generative AI Engineer](https://www.linkedin.com/jobs/view/4462733717/) — Bright Vision Technologies
-- 📍 **Location:** Redwood City, CA
+### [Software Engineer - ANF (Azure NetApp Files)](https://www.linkedin.com/jobs/view/4460422465/) — NetApp
+- 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-09-02
 
-### [Machine Learning Infrastructure Engineer](https://www.linkedin.com/jobs/view/4462735696/) — Bright Vision Technologies
-- 📍 **Location:** Redwood City, CA
+### [Entry Level Software Engineer - ANF (Azure NetApp Files)](https://www.linkedin.com/jobs/view/4460422463/) — NetApp
+- 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-09-02
 
-### [Machine Learning Engineer](https://www.linkedin.com/jobs/view/4462733839/) — Capable
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $150,000.00/yr - $240,000.00/yr
-- 🕒 **Posted:** 2026-09-02
-
-### [Full Stack Engineer, AI Internal Systems](https://www.linkedin.com/jobs/view/4461382428/) — ActAI
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-09-02
-
-### [Software Engineer](https://www.linkedin.com/jobs/view/4462725677/) — Uber
+### [Detection and Response Platform Engineer](https://www.linkedin.com/jobs/view/4462751156/) — Cerebras
 - 📍 **Location:** Sunnyvale, CA
 - 🕒 **Posted:** 2026-09-02
 
-### [AI Scientist](https://www.linkedin.com/jobs/view/4462730728/) — Bright Vision Technologies
-- 📍 **Location:** Redwood City, CA
+### [Cybersecurity Engineer](https://www.linkedin.com/jobs/view/4460423458/) — Coherent Corp.
+- 📍 **Location:** San Francisco Bay Area
+- 💰 **Salary:** $118,000.00/yr - $202,063.00/yr
 - 🕒 **Posted:** 2026-09-02
 
-### [Android Software Engineer](https://www.linkedin.com/jobs/view/4461386339/) — ActAI
-- 📍 **Location:** Palo Alto, CA
+### [Software Engineer III (Python/AWS)](https://www.linkedin.com/jobs/view/4462756114/) — JPMorganChase
+- 📍 **Location:** Jersey City, NJ
+- 💰 **Salary:** $137,750.00/yr - $185,000.00/yr
 - 🕒 **Posted:** 2026-09-02
 
-### [Product Data Scientist](https://www.linkedin.com/jobs/view/4462728491/) — Baseten
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $185,000.00/yr - $260,000.00/yr
+### [Software Engineer III - Asset & Wealth Management Technology](https://www.linkedin.com/jobs/view/4462740221/) — JPMorganChase
+- 📍 **Location:** Jersey City, NJ
+- 💰 **Salary:** $137,750.00/yr - $185,000.00/yr
 - 🕒 **Posted:** 2026-09-02
 
-### [Site Reliability Engineer - Product & Data Security-Sunnyvale](https://www.linkedin.com/jobs/view/4460436328/) — Alibaba Cloud
-- 📍 **Location:** Sunnyvale, CA
+### [Software Engineer III - Trading Technology | Asset Management](https://www.linkedin.com/jobs/view/4462746190/) — JPMorganChase
+- 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-09-02
 
-### [Chip Software Engineer](https://www.linkedin.com/jobs/view/4462716810/) — Bright Vision Technologies
-- 📍 **Location:** Palo Alto, CA
+### [Java Backend Developer (Spring boot/Microservices) - 70286151](https://www.linkedin.com/jobs/view/4461387513/) — Cognizant
+- 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-09-02
 
-### [AWS Cloud Engineer](https://www.linkedin.com/jobs/view/4462726749/) — Bright Vision Technologies
-- 📍 **Location:** Redwood City, CA
+### [Software Engineer III - Alternative Asset Management Technology](https://www.linkedin.com/jobs/view/4462753157/) — JPMorganChase
+- 📍 **Location:** Jersey City, NJ
+- 💰 **Salary:** $137,750.00/yr - $185,000.00/yr
 - 🕒 **Posted:** 2026-09-02
 
-### [Azure Infrastructure Engineer](https://www.linkedin.com/jobs/view/4462735703/) — Bright Vision Technologies
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-09-02
-
-### [Software Engineer - Ad Engineering](https://www.linkedin.com/jobs/view/4461391002/) — Fubo
+### [Software Engineer II](https://www.linkedin.com/jobs/view/4462740039/) — Motion Recruitment
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-09-02
