@@ -1,108 +1,106 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-09-03 15:19 UTC*
+*Last updated: 2026-09-03 16:19 UTC*
 
-**24 new role(s)** since last run · 24 total in last 1h
+**23 new role(s)** since last run · 29 total in last 1h
 
-### [Machine Learning Engineer](https://www.linkedin.com/jobs/view/4462841576/) — ALKU
-- 📍 **Location:** San Francisco Bay Area
-- 💰 **Salary:** $250,000.00/yr - $325,000.00/yr
+### [Machine Learning Engineer](https://www.linkedin.com/jobs/view/4462857813/) — Venture Up
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $200,000.00/yr - $300,000.00/yr
 - 🕒 **Posted:** 2026-09-03
 
-### [AI/ML Engineer](https://www.linkedin.com/jobs/view/4460995675/) — Centraprise
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-09-03
-
-### [MLOps Engineer](https://www.linkedin.com/jobs/view/4437675336/) — Blue Signal Search
-- 📍 **Location:** Santa Clara, CA
-- 💰 **Salary:** $180,000.00/yr - $220,000.00/yr
-- 🕒 **Posted:** 2026-09-03
-
-### [Data Scientist, GTM](https://www.linkedin.com/jobs/view/4434672626/) — Anthropic
+### [Data Scientist, Full Stack](https://www.linkedin.com/jobs/view/4453629111/) — SentiLink
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-09-03
 
-### [Software Engineer](https://www.linkedin.com/jobs/view/4460742038/) — TruNorth LTD
+### [Machine Learning Infrastructure Engineer, Safeguards Research](https://www.linkedin.com/jobs/view/4442930561/) — Anthropic
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-09-03
 
-### [Software Engineer in Test](https://www.linkedin.com/jobs/view/4461661735/) — TalentOla
-- 📍 **Location:** Sunnyvale, CA
+### [Software Engineer Leadership, Machine Learning RecSys](https://www.linkedin.com/jobs/view/4460733388/) — Meta
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $219,000.00/yr - $301,000.00/yr
 - 🕒 **Posted:** 2026-09-03
 
-### [Software Engineer, Custodian Data](https://www.linkedin.com/jobs/view/4344641433/) — Ridgeline
-- 📍 **Location:** San Ramon, CA
-- 🕒 **Posted:** 2026-09-03
-
-### [Biostatistician](https://www.linkedin.com/jobs/view/4443438069/) — Unlearn.AI
+### [Clinical Data Scientist](https://www.linkedin.com/jobs/view/4443432078/) — Unlearn.AI
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-09-03
 
-### [Site Reliability Engineer](https://www.linkedin.com/jobs/view/4461669348/) — Ateeca Inc
-- 📍 **Location:** Berkeley, CA
-- 💰 **Salary:** $60.00/hr - $80.00/hr
-- 🕒 **Posted:** 2026-09-03
-
-### [Software Engineer](https://www.linkedin.com/jobs/view/4461658789/) — Workday
-- 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-09-03
-
-### [Full Stack Software Engineer](https://www.linkedin.com/jobs/view/4462834994/) — ALKU
-- 📍 **Location:** San Francisco Bay Area
-- 💰 **Salary:** $180,000.00/yr - $230,000.00/yr
-- 🕒 **Posted:** 2026-09-03
-
-### [Software Engineer](https://www.linkedin.com/jobs/view/4453601464/) — Docusign
+### [Site Reliability Engineer](https://www.linkedin.com/jobs/view/4405165422/) — Superhuman
 - 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $214,000.00/yr - $260,000.00/yr
 - 🕒 **Posted:** 2026-09-03
 
-### [NetApp Emerging Talent - Software Engineer (Systems)](https://www.linkedin.com/jobs/view/4460735190/) — NetApp
+### [Software Engineer, Android](https://www.linkedin.com/jobs/view/4460727407/) — Meta
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $183,997.00/yr - $257,000.00/yr
+- 🕒 **Posted:** 2026-09-03
+
+### [Frontend Engineer - UI,UX Focus](https://www.linkedin.com/jobs/view/4461669628/) — MetAntz
+- 📍 **Location:** Palo Alto, CA
+- 🕒 **Posted:** 2026-09-03
+
+### [Python Backend Developer](https://www.linkedin.com/jobs/view/4460726536/) — Planet Pharma
+- 📍 **Location:** Brisbane, CA
+- 🕒 **Posted:** 2026-09-03
+
+### [Software Developer Spring Co-op 2027](https://www.linkedin.com/jobs/view/4450443068/) — IBM
 - 📍 **Location:** San Jose, CA
+- 💰 **Salary:** $75,600.00/yr - $166,320.00/yr
 - 🕒 **Posted:** 2026-09-03
 
-### [Full Stack Engineer | React/JavaScript | Microservices | Supply Chain/3PL](https://www.linkedin.com/jobs/view/4462846858/) — MPower Plus
-- 📍 **Location:** Fremont, CA
+### [2027 Summer Intern, BS, SysEng Software Engineer](https://www.linkedin.com/jobs/view/4461675037/) — Waymo
+- 📍 **Location:** Mountain View, CA
 - 🕒 **Posted:** 2026-09-03
 
-### [GenAI Front-End Engineer](https://www.linkedin.com/jobs/view/4461656761/) — NLB Services
-- 📍 **Location:** South San Francisco, CA
-- 💰 **Salary:** $85.00/hr - $90.00/hr
-- 🕒 **Posted:** 2026-09-03
-
-### [Machine Learning Infrastructure Engineer, Safeguards Research](https://www.linkedin.com/jobs/view/4442940103/) — Anthropic
+### [Data Scientist, Full Stack](https://www.linkedin.com/jobs/view/4453626118/) — SentiLink
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-09-03
 
-### [Research Engineer, Computer Use](https://www.linkedin.com/jobs/view/4434363084/) — Anthropic
+### [Software Engineer - Pre-trade analytics, risk, portfolio optimization](https://www.linkedin.com/jobs/view/4430585194/) — Clear Street
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-09-03
 
-### [Data Science and Analytics Specialist](https://www.linkedin.com/jobs/view/4452746010/) — HR&A Advisors
+### [Data Security Engineer](https://www.linkedin.com/jobs/view/4443419018/) — Medal
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $180,000.00/yr - $300,000.00/yr
+- 🕒 **Posted:** 2026-09-03
+
+### [Software Engineer - Game Integrations](https://www.linkedin.com/jobs/view/4443418068/) — Medal
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $180,000.00/yr - $275,000.00/yr
+- 🕒 **Posted:** 2026-09-03
+
+### [Software Engineer - Market Data](https://www.linkedin.com/jobs/view/4277940692/) — Clear Street
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-09-03
 
-### [Python AWS Software Engineer III](https://www.linkedin.com/jobs/view/4462850607/) — JPMorganChase
-- 📍 **Location:** Jersey City, NJ
-- 💰 **Salary:** $137,750.00/yr - $185,000.00/yr
+### [Software Engineer- General Interest](https://www.linkedin.com/jobs/view/4453379712/) — Uniswap
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $158,000.00/yr - $260,000.00/yr
 - 🕒 **Posted:** 2026-09-03
 
-### [Site Reliability Engineer III](https://www.linkedin.com/jobs/view/4462849663/) — JPMorganChase
-- 📍 **Location:** Jersey City, NJ
-- 💰 **Salary:** $137,750.00/yr - $185,000.00/yr
-- 🕒 **Posted:** 2026-09-03
-
-### [Software Engineer, Kubernetes Core Interfaces](https://www.linkedin.com/jobs/view/4373485529/) — CoreWeave
+### [Data Scientist, North Insights](https://www.linkedin.com/jobs/view/4443818681/) — Cohere
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-09-03
 
-### [Junior Software Engineer](https://www.linkedin.com/jobs/view/4462849441/) — Switchboard
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $80,000.00/yr - $110,000.00/yr
-- 🕒 **Posted:** 2026-09-03
-
-### [Forward Deployed Software Engineering - Experienced Associate](https://www.linkedin.com/jobs/view/4453645948/) — PwC
+### [Ph.D. Biostatistician](https://www.linkedin.com/jobs/view/4462866211/) — The Mount Sinai Hospital
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-09-03
 
-### [Software Developer](https://www.linkedin.com/jobs/view/4462854517/) — 4Consulting, Inc.
-- 📍 **Location:** Jersey City, NJ
+### [Research Scientist, AI & Systems Co-Design (PhD)](https://www.linkedin.com/jobs/view/4460733384/) — Meta
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $122,000.00/yr - $181,000.00/yr
+- 🕒 **Posted:** 2026-09-03
+
+### [Backend Software Engineer - Reference Data Services](https://www.linkedin.com/jobs/view/4284203359/) — Clear Street
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-09-03
+
+### [Software Engineer - Early Career](https://www.linkedin.com/jobs/view/4453380670/) — Uniswap
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $138,000.00/yr - $200,000.00/yr
+- 🕒 **Posted:** 2026-09-03
+
+### [Software Engineer, TypeScript/React](https://www.linkedin.com/jobs/view/4462855953/) — T-Mobile
+- 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-09-03
