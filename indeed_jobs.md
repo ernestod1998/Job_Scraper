@@ -1,88 +1,113 @@
 # 🟦 Indeed — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-09-04 05:02 UTC*
+*Last updated: 2026-09-04 18:34 UTC*
 
-**17 new role(s)** since last run · 80 total in last 24h
+**22 new role(s)** since last run · 68 total in last 24h
 
-### [Software Engineer - Collision Avoidance System Metrics](https://www.indeed.com/viewjob?jk=8c5123c7fd7e66a3) — Zoox
-- 📍 **Location:** Foster City, CA, US
-- 💰 **Salary:** $185k–$251k/yr
+### [AI Systems Research Engineer](https://www.indeed.com/viewjob?jk=7a8f210b17b08e73) — Bosch
+- 📍 **Location:** Sunnyvale, CA, US
+- 💰 **Salary:** $160k–$175k/yr
+- 🕒 **Posted:** 2026-09-04
+
+### [Machine Learning Engineer 4](https://www.indeed.com/viewjob?jk=a32f9ac88b6f18bf) — Adobe
+- 📍 **Location:** San Jose, CA, US
+- 💰 **Salary:** $152k–$265k/yr
 - 🕒 **Posted:** 2026-09-03
 
-### [Data Infrastructure Engineer, Pre-training](https://www.indeed.com/viewjob?jk=957243bda2ef6dad) — Anthropic
-- 📍 **Location:** San Francisco, CA, US
-- 💰 **Salary:** $500k–$850k/yr
+### [Machine Learning Engineer](https://www.indeed.com/viewjob?jk=de535ff5c8d25ede) — Adobe
+- 📍 **Location:** San Jose, CA, US
+- 💰 **Salary:** $126k–$234k/yr
 - 🕒 **Posted:** 2026-09-03
 
-### [Data Scientist II, New College Grad- Master's (Santa Clara, CA)](https://www.indeed.com/viewjob?jk=a8bc8442250535cc) — Applied Materials
-- 📍 **Location:** Santa Clara, CA, US
-- 💰 **Salary:** $120k–$164k/yr
-- 🕒 **Posted:** 2026-09-03
+### [Software Engineer, Recommendation Systems](https://www.indeed.com/viewjob?jk=44f8091bd3723e32) — Meta
+- 📍 **Location:** Menlo Park, CA, US
+- 💰 **Salary:** $347k–$403k/yr
+- 🕒 **Posted:** 2026-09-02
 
-### [Software Engineer III, AI/ML GenAI, YouTube](https://www.indeed.com/viewjob?jk=3870c25f30d4515c) — Youtube
+### [Full Stack Engineer, Graphics, Games, and ML](https://www.indeed.com/viewjob?jk=aded7549706f52fc) — Apple
+- 📍 **Location:** Cupertino, CA, US
+- 💰 **Salary:** $129k–$225k/yr
+- 🕒 **Posted:** 2026-08-31
+
+### [Junior Software Engineer](https://www.indeed.com/viewjob?jk=07b48d08cc2da892) — Auto-Chlor System
 - 📍 **Location:** Mountain View, CA, US
-- 💰 **Salary:** $147k–$210k/yr
-- 🕒 **Posted:** 2026-09-03
+- 💰 **Salary:** $60k–$70k/yr
+- 🕒 **Posted:** 2026-09-04
 
-### [Software Engineer (req-291)](https://www.indeed.com/viewjob?jk=1f7b6389a8da4287) — Cathexis
-- 📍 **Location:** Redwood City, CA, US
-- 💰 **Salary:** $137k–$167k/yr
-- 🕒 **Posted:** 2026-09-03
-
-### [Software Engineer, Chip Design](https://www.indeed.com/viewjob?jk=25fb9f7cfb13eb27) — Unknown
+### [DevOps Engineer](https://www.indeed.com/viewjob?jk=bec097fb7f2babaa) — Rhombus Power
 - 📍 **Location:** Palo Alto, CA, US
-- 🕒 **Posted:** 2026-09-03
+- 🕒 **Posted:** 2026-09-04
 
-### [Software Engineer III, AI/ML GenAI, Google Cloud Compute Infrastructure](https://www.indeed.com/viewjob?jk=f63fd61b73eb5f5c) — Google
+### [Onsite_Google Cloud Engineer_Sunnyvale CA](https://www.indeed.com/viewjob?jk=ea265aac19e7f164) — THEMESOFT
+- 📍 **Location:** Sunnyvale, CA, US
+- 💰 **Salary:** $50–$54/hr
+- 🕒 **Posted:** 2026-09-04
+
+### [Software Engineer](https://www.indeed.com/viewjob?jk=c1a155cddb69c0b0) — Zoom Communications
+- 📍 **Location:** San Jose, CA, US
+- 💰 **Salary:** $124k–$271k/yr
+- 🕒 **Posted:** 2026-09-04
+
+### [Software Engineer III, Infrastructure, Google Cloud](https://www.indeed.com/viewjob?jk=175a25702c019b52) — Google
 - 📍 **Location:** Sunnyvale, CA, US
 - 💰 **Salary:** $147k–$210k/yr
-- 🕒 **Posted:** 2026-09-03
+- 🕒 **Posted:** 2026-09-04
 
-### [Software Engineer III, Mobile, Android](https://www.indeed.com/viewjob?jk=4fba2c567bc68365) — Google
-- 📍 **Location:** Mountain View, CA, US
-- 💰 **Salary:** $147k–$210k/yr
-- 🕒 **Posted:** 2026-09-03
-
-### [Software Engineer III, Infrastructure, YouTube](https://www.indeed.com/viewjob?jk=dea535a2ae1aa10c) — Youtube
-- 📍 **Location:** Mountain View, CA, US
-- 💰 **Salary:** $147k–$210k/yr
-- 🕒 **Posted:** 2026-09-03
-
-### [DevOps Engineer III](https://www.indeed.com/viewjob?jk=e3c6d28a065dc52d) — Deloitte
+### [Backend Engineer, IoT Architecture & Migration](https://www.indeed.com/viewjob?jk=428d030a371efde6) — Fellow
 - 📍 **Location:** San Francisco, CA, US
-- 💰 **Salary:** $116k–$229k/yr
-- 🕒 **Posted:** 2026-09-03
+- 💰 **Salary:** $200k–$230k/yr
+- 🕒 **Posted:** 2026-09-04
 
-### [DevOps Engineer III](https://www.indeed.com/viewjob?jk=f240442ef846d6f7) — Deloitte
-- 📍 **Location:** San Jose, CA, US
-- 💰 **Salary:** $116k–$229k/yr
-- 🕒 **Posted:** 2026-09-03
-
-### [Software Engineer II, iOS](https://www.indeed.com/viewjob?jk=b3ca585be260075d) — Tinder
+### [Internship, Audio & Sensor Software Engineer, Vehicle Engineering (Winter/Spring 2027)](https://www.indeed.com/viewjob?jk=efe5e34aa175fe49) — Tesla
 - 📍 **Location:** Palo Alto, CA, US
-- 💰 **Salary:** $140k–$160k/yr
+- 💰 **Salary:** $20–$50/hr
 - 🕒 **Posted:** 2026-09-03
 
-### [Software Engineer](https://www.indeed.com/viewjob?jk=761bdf5e2062024b) — Cisco
-- 📍 **Location:** Milpitas, CA, US
-- 💰 **Salary:** $112k–$203k/yr
-- 🕒 **Posted:** 2026-09-03
-
-### [Platform Engineer](https://www.indeed.com/viewjob?jk=b44a19f12a8e8842) — Rakuten International
+### [Platform Engineer](https://www.indeed.com/viewjob?jk=f9bfadcb3e3c8e3d) — Rakuten Global
 - 📍 **Location:** San Mateo, CA, US
 - 💰 **Salary:** $79k–$134k/yr
 - 🕒 **Posted:** 2026-09-03
 
-### [Simulation Software Engineer, RF & DSP - Terawave](https://www.indeed.com/viewjob?jk=146d48d5a6a980e8) — Blue Origin
-- 📍 **Location:** San Francisco Bay Area, CA, US
-- 💰 **Salary:** $192k–$269k/yr
+### [Software Engineer, Commerce Segments and Platform, ASE](https://www.indeed.com/viewjob?jk=4a7841ce94152053) — Apple
+- 📍 **Location:** Cupertino, CA, US
+- 💰 **Salary:** $129k–$225k/yr
+- 🕒 **Posted:** 2026-08-31
+
+### [Associate Platform Engineer](https://www.indeed.com/viewjob?jk=792d3b0499b3f47b) — Aechelon Technology Inc.
+- 📍 **Location:** South San Francisco, CA, US
+- 💰 **Salary:** $120k–$140k/yr
+- 🕒 **Posted:** 2026-09-04
+
+### [Research Engineer — Training Performance & ML Compilation (Torch Compile) - Seed Infra](https://www.indeed.com/viewjob?jk=52f9a275fff07cbc) — ByteDance
+- 📍 **Location:** San Jose, CA, US
+- 💰 **Salary:** $254k–$480k/yr
+- 🕒 **Posted:** 2026-09-04
+
+### [Multi-Cloud CDN Access Platform Engineer](https://www.indeed.com/viewjob?jk=8f2162b13e4dd156) — TikTok
+- 📍 **Location:** San Jose, CA, US
+- 💰 **Salary:** $218k–$480k/yr
 - 🕒 **Posted:** 2026-09-03
 
-### [Software Engineer](https://www.indeed.com/viewjob?jk=64cd138edc42e2e4) — Siemens
+### [ML Data Platform Engineer](https://www.indeed.com/viewjob?jk=50fcc7086f2e22b0) — Unknown
 - 📍 **Location:** New York, NY, US
-- 💰 **Salary:** $137k–$185k/yr
+- 💰 **Salary:** $175k–$245k/yr
+- 🕒 **Posted:** 2026-09-04
+
+### [Mobile Infrastructure Engineer](https://www.indeed.com/viewjob?jk=66a9021143a37bc4) — Polymarket
+- 📍 **Location:** New York, NY, US
+- 💰 **Salary:** $250k–$350k/yr
+- 🕒 **Posted:** 2026-09-04
+
+### [Software Engineer, Back Office Systems](https://www.indeed.com/viewjob?jk=1618f37101d832fd) — Point72
+- 📍 **Location:** New York, NY, US
+- 💰 **Salary:** $160k–$225k/yr
+- 🕒 **Posted:** 2026-09-04
+
+### [Associate, Software Engineer](https://www.indeed.com/viewjob?jk=61c52ac26fe3b63f) — Morgan Stanley
+- 📍 **Location:** New York, NY, US
+- 💰 **Salary:** $138k–$150k/yr
 - 🕒 **Posted:** 2026-09-03
 
-### [DevOps Engineer III](https://www.indeed.com/viewjob?jk=b3ec30d33caf9024) — Deloitte
+### [Associate Infrastructure Engineer](https://www.indeed.com/viewjob?jk=1f4181a898aad3cd) — Metropolitan Transportation Authority
 - 📍 **Location:** New York, NY, US
-- 💰 **Salary:** $116k–$229k/yr
+- 💰 **Salary:** $100k–$118k/yr
 - 🕒 **Posted:** 2026-09-03
