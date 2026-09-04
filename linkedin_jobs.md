@@ -1,86 +1,53 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-09-04 15:18 UTC*
+*Last updated: 2026-09-04 16:18 UTC*
 
-**20 new role(s)** since last run · 20 total in last 1h
+**12 new role(s)** since last run · 32 total in last 1h
 
-### [Machine Learning Engineer II, Visual AI](https://www.linkedin.com/jobs/view/4427667642/) — Pinterest
+### [Software Engineer, Observability](https://www.linkedin.com/jobs/view/4454060554/) — Vercel
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-09-04
 
-### [Research Engineer, Computer Use](https://www.linkedin.com/jobs/view/4434341919/) — Anthropic
+### [FullStack Engineer - Prospect UI Solutions](https://www.linkedin.com/jobs/view/4463381771/) — Sapphire Partners
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-09-04
 
-### [Embodied AI Robotics Engineer](https://www.linkedin.com/jobs/view/4463382192/) — Caterpillar Inc.
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-09-04
-
-### [Research Engineer, Universes](https://www.linkedin.com/jobs/view/4332215494/) — Anthropic
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-09-04
-
-### [Data Scientist II, ML Infrastructure](https://www.linkedin.com/jobs/view/4444701249/) — Pinterest
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-09-04
-
-### [Research Engineer - Vision Language Models / Multimodal AI / Computer Vision](https://www.linkedin.com/jobs/view/4461166699/) — Acceler8 Talent
-- 📍 **Location:** Mountain View, CA
-- 🕒 **Posted:** 2026-09-04
-
-### [Data Scientist](https://www.linkedin.com/jobs/view/4461990497/) — AARATECH
-- 📍 **Location:** San Francisco Bay Area
-- 💰 **Salary:** $65,000.00/yr - $85,000.00/yr
-- 🕒 **Posted:** 2026-09-04
-
-### [MLOPS Engineer](https://www.linkedin.com/jobs/view/4461977639/) — Ampstek
-- 📍 **Location:** Concord, CA
-- 🕒 **Posted:** 2026-09-04
-
-### [Software Engineer](https://www.linkedin.com/jobs/view/4453282586/) — Docusign
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-09-04
-
-### [LabVIEW Software Engineer (1147344)](https://www.linkedin.com/jobs/view/4453595100/) — The Judge Group
-- 📍 **Location:** Cupertino, CA
-- 🕒 **Posted:** 2026-09-04
-
-### [Software Engineer – IT Automation & Integrations](https://www.linkedin.com/jobs/view/4463379500/) — CriticalRiver Inc.
-- 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-09-04
-
-### [Web Application / DevOps Architect](https://www.linkedin.com/jobs/view/4461972512/) — Noblesoft Technologies
+### [Software Engineering Technical Leader](https://www.linkedin.com/jobs/view/4463390486/) — Cisco
 - 📍 **Location:** San Jose, CA
-- 💰 **Salary:** $65.00/hr - $75.00/hr
 - 🕒 **Posted:** 2026-09-04
 
-### [Site Infrastructure Engineer](https://www.linkedin.com/jobs/view/4463382241/) — Raas Infotek
-- 📍 **Location:** Santa Clara, CA
+### [Software Engineer III](https://www.linkedin.com/jobs/view/4452986280/) — Lead
+- 📍 **Location:** Sunnyvale, CA
 - 🕒 **Posted:** 2026-09-04
 
-### [Research Engineer, Universes](https://www.linkedin.com/jobs/view/4332254414/) — Anthropic
+### [NOSQL Software Engineer](https://www.linkedin.com/jobs/view/4461994973/) — Programmers.io
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-09-04
+
+### [Data Scientist, North Insights](https://www.linkedin.com/jobs/view/4443829572/) — Cohere
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-09-04
+
+### [Data Scientist, North Insights](https://www.linkedin.com/jobs/view/4443825598/) — Cohere
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-09-04
+
+### [Software Engineer III](https://www.linkedin.com/jobs/view/4461972869/) — Garner Health
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-09-04
 
-### [Research Engineer, Code RL (Reinforcement Learning)](https://www.linkedin.com/jobs/view/4426682742/) — Anthropic
+### [Software Engineer II](https://www.linkedin.com/jobs/view/4461978743/) — Garner Health
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-09-04
 
-### [Machine Learning Research Scientist](https://www.linkedin.com/jobs/view/4461725192/) — Point One - Hedge Fund Talent
+### [Software Engineer, Integrations](https://www.linkedin.com/jobs/view/4429709690/) — Scan.com
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-09-04
 
-### [Software Engineer, Compensation Planning](https://www.linkedin.com/jobs/view/4436126108/) — Pave
+### [Software Engineer, Back Office Systems](https://www.linkedin.com/jobs/view/4463398172/) — Point72
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-09-04
 
-### [Data Scientist, GTM](https://www.linkedin.com/jobs/view/4434680200/) — Anthropic
+### [Site Reliability / Infrastructure Engineer](https://www.linkedin.com/jobs/view/4443418070/) — Medal
 - 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-09-04
-
-### [Data Scientist](https://www.linkedin.com/jobs/view/4461977477/) — MassarCareers
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-09-04
-
-### [Software Developer - Java – Wholesale Market Making Team](https://www.linkedin.com/jobs/view/4461181373/) — GTS
-- 📍 **Location:** New York, NY
+- 💰 **Salary:** $180,000.00/yr - $275,000.00/yr
 - 🕒 **Posted:** 2026-09-04
