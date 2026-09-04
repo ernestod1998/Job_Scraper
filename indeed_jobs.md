@@ -1,64 +1,126 @@
 # 🟦 Indeed — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-09-03 21:53 UTC*
+*Last updated: 2026-09-04 00:20 UTC*
 
-**13 new role(s)** since last run · 65 total in last 24h
+**25 new role(s)** since last run · 80 total in last 24h
 
-### [Software Engineer](https://www.indeed.com/viewjob?jk=82c8293eeb895c5e) — Unknown
+### [Applied Scientist Intern](https://www.indeed.com/viewjob?jk=716c14b2dbdd334f) — Thomson Reuters
 - 📍 **Location:** San Francisco, CA, US
 - 🕒 **Posted:** 2026-09-03
 
-### [Software Engineer](https://www.indeed.com/viewjob?jk=80b8de1499225a71) — Unknown
-- 📍 **Location:** San Mateo, CA, US
+### [Machine Learning Engineer II](https://www.indeed.com/viewjob?jk=401b8c2d7d8e91ad) — Warner Bros. Discovery
+- 📍 **Location:** San Francisco, CA, US
+- 💰 **Salary:** $135k–$251k/yr
 - 🕒 **Posted:** 2026-09-03
 
-### [Machine Learning Engineer](https://www.indeed.com/viewjob?jk=d1ac44b275ba04c4) — BigHat Biosciences
-- 📍 **Location:** San Mateo, CA, US
-- 💰 **Salary:** $150k–$200k/yr
+### [Machine Learning Engineer II](https://www.indeed.com/viewjob?jk=37b866cf445866bf) — Warner Bros. Discovery
+- 📍 **Location:** San Francisco, CA, US
+- 💰 **Salary:** $135k–$251k/yr
 - 🕒 **Posted:** 2026-09-03
 
-### [Machine Learning Scientist](https://www.indeed.com/viewjob?jk=b22e4d8cd9fed77e) — BigHat Biosciences
-- 📍 **Location:** San Mateo, CA, US
-- 💰 **Salary:** $150k–$200k/yr
+### [Machine Learning Engineer II](https://www.indeed.com/viewjob?jk=43b1990e52e9a5eb) — Warner Bros. Discovery
+- 📍 **Location:** San Francisco, CA, US
+- 💰 **Salary:** $135k–$251k/yr
 - 🕒 **Posted:** 2026-09-03
 
-### [Software Engineer, Operational Tools](https://www.indeed.com/viewjob?jk=52fc9dd36194e5d1) — Zoox
+### [Machine Learning Engineer II](https://www.indeed.com/viewjob?jk=48ae5a9c3cd09729) — Warner Bros. Discovery
+- 📍 **Location:** San Francisco, CA, US
+- 💰 **Salary:** $135k–$251k/yr
+- 🕒 **Posted:** 2026-09-03
+
+### [Machine Learning Engineer II](https://www.indeed.com/viewjob?jk=d53d0f4d11f5bf46) — Warner Bros. Discovery
+- 📍 **Location:** San Francisco, CA, US
+- 💰 **Salary:** $135k–$251k/yr
+- 🕒 **Posted:** 2026-09-03
+
+### [Applied Scientist III - AMZ27946.1](https://www.indeed.com/viewjob?jk=de0edeff3ea9f363) — Amazon.com
+- 📍 **Location:** San Francisco, CA, US
+- 💰 **Salary:** $192k–$260k/yr
+- 🕒 **Posted:** 2026-08-25
+
+### [2026 Intern Conversion: 2027 FT Data Scientist III- Sunnyvale](https://www.indeed.com/viewjob?jk=5943080c36db3bf2) — Walmart
+- 📍 **Location:** Sunnyvale, CA, US
+- 💰 **Salary:** $117k–$234k/yr
+- 🕒 **Posted:** 2026-09-03
+
+### [Generative AI Consultant](https://www.indeed.com/viewjob?jk=0395f09e1094e303) — SIA
+- 📍 **Location:** San Francisco, CA, US
+- 🕒 **Posted:** 2026-09-03
+
+### [Applied Scientist, Amazon Stores Finance Science](https://www.indeed.com/viewjob?jk=0b12dab01a4ae34d) — Amazon.com
+- 📍 **Location:** Sunnyvale, CA, US
+- 💰 **Salary:** $136k–$213k/yr
+- 🕒 **Posted:** 2026-08-25
+
+### [Computational Pathology Scientist](https://www.indeed.com/viewjob?jk=9215abcc75d8a2a9) — Gilead Sciences
 - 📍 **Location:** Foster City, CA, US
-- 💰 **Salary:** $160k–$215k/yr
+- 💰 **Salary:** $147k–$190k/yr
 - 🕒 **Posted:** 2026-09-03
 
-### [Full Stack Engineer, Observability](https://www.indeed.com/viewjob?jk=5ee0517ea0851376) — LaunchDarkly
-- 📍 **Location:** Oakland, CA, US
-- 💰 **Salary:** $146k–$235k/yr
+### [Test Software Engineer (LabVIEW, Matlab, Python, and C#) (Contract & FTE)](https://www.indeed.com/viewjob?jk=05d57e4db0cba456) — Realign
+- 📍 **Location:** Sunnyvale, CA, US
 - 🕒 **Posted:** 2026-09-03
 
-### [Software Engineer, Data Systems](https://www.indeed.com/viewjob?jk=16a58f585da6af15) — Eventual
-- 📍 **Location:** San Francisco, CA, US
-- 🕒 **Posted:** 2026-09-03
-
-### [Software Engineer, Multimodal Backend Systems](https://www.indeed.com/viewjob?jk=67a173820d3b01a0) — Eventual
-- 📍 **Location:** San Francisco, CA, US
-- 🕒 **Posted:** 2026-09-03
-
-### [Software Engineer II, Android](https://www.indeed.com/viewjob?jk=ec19c6c9ea24f72d) — Tinder
+### [Internship, Embedded Software Engineer, Optimus (Winter/Spring 2027)](https://www.indeed.com/viewjob?jk=432f1464f9448d99) — Tesla
 - 📍 **Location:** Palo Alto, CA, US
-- 💰 **Salary:** $140k–$160k/yr
+- 💰 **Salary:** $20–$60/hr
 - 🕒 **Posted:** 2026-09-03
 
-### [DevOps Engineer](https://www.indeed.com/viewjob?jk=f3c3b4deaa88a167) — AliveCor
-- 📍 **Location:** Mountain View, CA, US
-- 💰 **Salary:** $150k–$180k/yr
-- 🕒 **Posted:** 2026-09-03
-
-### [Research Engineer, ML Platform](https://www.indeed.com/viewjob?jk=22840951798e5a45) — Mistral AI
+### [Internship, Embedded Systems Software Engineer, AI Platforms (Winter/Spring 2027)](https://www.indeed.com/viewjob?jk=95dc015266f0c3d0) — Tesla
 - 📍 **Location:** Palo Alto, CA, US
+- 💰 **Salary:** $20–$60/hr
 - 🕒 **Posted:** 2026-09-03
 
-### [Software Engineer](https://www.indeed.com/viewjob?jk=f5e58c72a9cfe747) — Daymark Health
-- 📍 **Location:** New York, NY, US
-- 💰 **Salary:** $145k–$160k/yr
+### [Full Stack Software Engineer 4 - Account Consumer Experiences](https://www.indeed.com/viewjob?jk=24963ccd3bb44d11) — Netflix
+- 📍 **Location:** Los Gatos, CA, US
+- 💰 **Salary:** $250k–$413k/yr
 - 🕒 **Posted:** 2026-09-03
 
-### [Enterprise AI & Data Infrastructure Engineer](https://www.indeed.com/viewjob?jk=954fbe9642d70cac) — Axinn
+### [2026 Intern Conversion: 2027 FT Software Engineer II - Sunnyvale](https://www.indeed.com/viewjob?jk=677b98de5ed889a6) — Walmart
+- 📍 **Location:** Sunnyvale, CA, US
+- 💰 **Salary:** $104k–$202k/yr
+- 🕒 **Posted:** 2026-09-03
+
+### [Internship, Software Engineer, Torque Path & Chassis Controls (Winter/Spring 2027)](https://www.indeed.com/viewjob?jk=6e0c1db614bba7c2) — Tesla
+- 📍 **Location:** Palo Alto, CA, US
+- 💰 **Salary:** $50–$59/hr
+- 🕒 **Posted:** 2026-09-02
+
+### [Software Development Engineer, Generative AI, Annapurna Labs - Neuroboros Team](https://www.indeed.com/viewjob?jk=fabbb2ed66f81dc2) — Amazon Web Services
 - 📍 **Location:** New York, NY, US
-- 💰 **Salary:** $135k–$200k/yr
+- 💰 **Salary:** $158k–$214k/yr
+- 🕒 **Posted:** 2026-08-21
+
+### [Software Development Engineer, Generative AI, Annapurna Labs - Neuroboros Team](https://www.indeed.com/viewjob?jk=f7f7dd3eab77ac18) — Amazon Web Services
+- 📍 **Location:** New York, NY, US
+- 💰 **Salary:** $158k–$214k/yr
+- 🕒 **Posted:** 2026-08-21
+
+### [Data Scientist](https://www.indeed.com/viewjob?jk=b1c329395e899e53) — EXL Service
+- 📍 **Location:** New York, NY, US
+- 💰 **Salary:** $173k–$175k/yr
+- 🕒 **Posted:** 2026-09-03
+
+### [Front-End Engineer, Amazon Quick](https://www.indeed.com/viewjob?jk=eb8c0753b35fd021) — Amazon Web Services
+- 📍 **Location:** New York, NY, US
+- 💰 **Salary:** $158k–$214k/yr
+- 🕒 **Posted:** 2026-08-31
+
+### [Front-End Engineer, Amazon Quick](https://www.indeed.com/viewjob?jk=1998b888efe176e5) — Amazon.com
+- 📍 **Location:** New York, NY, US
+- 💰 **Salary:** $158k–$214k/yr
+- 🕒 **Posted:** 2026-08-31
+
+### [Software Engineer III - Resiliency Tech](https://www.indeed.com/viewjob?jk=d9ddfc901243f26d) — JPMorganChase
+- 📍 **Location:** Jersey City, NJ, US
+- 💰 **Salary:** $138k–$185k/yr
+- 🕒 **Posted:** 2026-09-03
+
+### [Associate, Software Engineer](https://www.indeed.com/viewjob?jk=61c52ac26fe3b63f) — Morgan Stanley
+- 📍 **Location:** New York, NY, US
+- 💰 **Salary:** $138k–$150k/yr
+- 🕒 **Posted:** 2026-09-03
+
+### [Associate Infrastructure Engineer](https://www.indeed.com/viewjob?jk=1fac0f2da756c52b) — Metropolitan Transportation Authority
+- 📍 **Location:** New York, NY, US
+- 💰 **Salary:** $100k–$118k/yr
 - 🕒 **Posted:** 2026-09-03
