@@ -1,28 +1,24 @@
 # 🗃 Direct ATS Registry — Engineering / ML / DS Roles
-*Last updated: 2026-09-03 17:32 UTC*
+*Last updated: 2026-09-04 17:26 UTC*
 
-**8 new role(s)** · 26 total after policy cleanup
+**5 new role(s)** since last run · 24 total in current registry shard
 
-### [Machine Learning Engineer II (Intern) - United States](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Francisco-California-US/Machine-Learning-Engineer-II--Intern----United-States_2024683) — Cisco
-- 📍 **Location:** San Francisco, California, US
+### [Software Engineer  (new college grad Dec 2026)](https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/SAN-JOSE/Software-Engineer---new-college-grad-Dec-2026-_R55738-2) — Cadence Design Systems
+- 📍 **Location:** SAN JOSE
+- 🕒 **Posted:** Posted Yesterday
 
-### [Software Developer III, Auctions Insights - Advertising Technology](https://expedia.wd108.myworkdayjobs.com/private/job/USA---California---San-Jose/Software-Developer-III--Auctions-Insights---Advertising-Technology_R-109475) — Expedia Group
-- 📍 **Location:** USA - California - San Jose
+### [AI Research Engineer: Vision AI / VLM / Physical AI-1](https://centific.wd1.myworkdayjobs.com/Centific_Global/job/Remote-Work-USA/AI-Research-Engineer--Vision-AI---VLM---Physical-AI-1_JR107053-1) — Centific
+- 📍 **Location:** Remote Work( USA)
+- 🕒 **Posted:** Posted 3 Days Ago
 
-### [Software Engineer AI/ML](https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Evendale/Software-Engineer-AI-ML_R5034608-1) — GE Aerospace
-- 📍 **Location:** Remote
+### [Software Engineering Technical Leader](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Software-Engineering-Technical-Leader_2023550-1) — Cisco
+- 📍 **Location:** San Jose, California, US
+- 🕒 **Posted:** Posted Today
 
-### [Software Engineer – Simulation Validation](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/Senior-Software-Engineer---Simulation-Validation_JR-202519080) — General Motors
-- 📍 **Location:** Sunnyvale, California, United States of America
+### [AI Software Engineer](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---Remote-Any-location/AI-Software-Engineer_40569) — Guidehouse
+- 📍 **Location:** US - Remote (Any location)
+- 🕒 **Posted:** Posted 7 Days Ago
 
-### [Data Scientist - Interactive Safety Visualizations and Reporting](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Remote---United-States/Data-Scientist---Interactive-Safety-Visualizations-and-Reporting_JR-202618806) — General Motors
-- 📍 **Location:** Remote - United States
-
-### [ML / AI Software Engineer - C++ Metrics Frameworks](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Cruise-Automation---San-Francisco-HQ---Cruise-San-Francisco-1201-Bryant-Street-and-530-10th-Street/AI-ML-Engineer_JR-202517415) — General Motors
-- 📍 **Location:** Cruise Automation - San Francisco HQ - Cruise-San Francisco-1201 Bryant Street and 530 10th Street
-
-### [ADS AI Services Software Engineer](https://ghr.wd1.myworkdayjobs.com/us-emplsv/job/Chandler/ADS-AI-Services-Software-Engineer_26013538) — Bank of America
-- 📍 **Location:** Chandler; Plano; Jersey City; Charlotte
-
-### [Software Engineer III](https://ghr.wd1.myworkdayjobs.com/us-emplsv/job/Charlotte/Software-Engineer-III_26025047) — Bank of America
-- 📍 **Location:** Charlotte; Jersey City; Plano
+### [Associate, Data Science](https://horizonmedia.wd1.myworkdayjobs.com/CareerOpportunities/job/New-York-New-York/Associate--Data-Science_R0017491) — Horizon media
+- 📍 **Location:** New York, New York
+- 🕒 **Posted:** Posted 2 Days Ago
