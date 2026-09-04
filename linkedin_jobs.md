@@ -1,62 +1,77 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-09-04 17:28 UTC*
+*Last updated: 2026-09-04 18:18 UTC*
 
-**14 new role(s)** since last run · 14 total in last 1h
+**18 new role(s)** since last run · 31 total in last 1h
 
-### [Machine Learning Engineer, Inference & Serving (Speech LLM)](https://www.linkedin.com/jobs/view/4462319066/) — Jobright.ai
+### [Marketing Data Scientist](https://www.linkedin.com/jobs/view/4462306210/) — Jobright.ai
+- 📍 **Location:** San Carlos, CA
+- 🕒 **Posted:** 2026-09-04
+
+### [Applied Scientist](https://www.linkedin.com/jobs/view/4462316156/) — Clipboard
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-09-04
 
-### [Software Engineers: Full-Stack, Front-End, Backend, AI/ML](https://www.linkedin.com/jobs/view/4462304137/) — Mobina
+### [Physics AI Scientist III](https://www.linkedin.com/jobs/view/4451250240/) — Applied Materials
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-09-04
+
+### [RL Environment Software Engineer](https://www.linkedin.com/jobs/view/4463614097/) — talentpluto
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $180,000.00/yr - $400,000.00/yr
+- 🕒 **Posted:** 2026-09-04
+
+### [AI/ML Engineer](https://www.linkedin.com/jobs/view/4460995675/) — Centraprise
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-09-04
+
+### [Software Engineer, Neural Graphics Developer Tools](https://www.linkedin.com/jobs/view/4444039930/) — NVIDIA
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-09-04
+
+### [Machine Learning Engineer](https://www.linkedin.com/jobs/view/4463615189/) — Lyft
+- 📍 **Location:** San Francisco County, CA
+- 🕒 **Posted:** 2026-09-04
+
+### [Applied Research Engineer, Chip Design](https://www.linkedin.com/jobs/view/4444055052/) — NVIDIA
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-09-04
+
+### [Backend Engineer, Core Technology](https://www.linkedin.com/jobs/view/4454540425/) — Stripe
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-09-04
 
-### [Data Scientist Intern](https://www.linkedin.com/jobs/view/4462301009/) — Jobright.ai
+### [Software Engineer, iOS, Level 4](https://www.linkedin.com/jobs/view/4436476645/) — Snap Inc.
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-09-04
+
+### [Software Engineer](https://www.linkedin.com/jobs/view/4461401007/) — Wise Skulls
+- 📍 **Location:** Cupertino, CA
+- 🕒 **Posted:** 2026-09-04
+
+### [Software Engineering Intern (Summer 2027)](https://www.linkedin.com/jobs/view/4463620080/) — Scale AI
 - 📍 **Location:** San Francisco Bay Area
 - 🕒 **Posted:** 2026-09-04
 
-### [Software Infrastructure Engineer (Starlink)](https://www.linkedin.com/jobs/view/4426705094/) — SpaceX
-- 📍 **Location:** Palo Alto, CA
+### [Software Engineer - New Grad](https://www.linkedin.com/jobs/view/4463615188/) — Scale AI
+- 📍 **Location:** San Francisco Bay Area
 - 🕒 **Posted:** 2026-09-04
 
-### [Cloud Engineer](https://www.linkedin.com/jobs/view/4462310085/) — Milestone Technologies, Inc.
+### [Bioinformatics Analyst](https://www.linkedin.com/jobs/view/4463611404/) — Oath Biome
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-09-04
 
-### [Embedded Software Engineer, Laser Mesh Routing (Starlink)](https://www.linkedin.com/jobs/view/4426581994/) — SpaceX
-- 📍 **Location:** Palo Alto, CA
+### [Data Scientist](https://www.linkedin.com/jobs/view/4419566276/) — Parafin
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-09-04
 
-### [Software Engineer, Frontend](https://www.linkedin.com/jobs/view/4195258183/) — Glean
-- 📍 **Location:** Mountain View, CA
+### [Data Scientist, Underwriting](https://www.linkedin.com/jobs/view/4411231710/) — Parafin
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-09-04
 
-### [Software Engineer, Beam Planning (Starlink)](https://www.linkedin.com/jobs/view/4426712020/) — SpaceX
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-09-04
-
-### [Azure ML Engineer](https://www.linkedin.com/jobs/view/4461771118/) — GQR
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $80.00/hr - $110.00/hr
-- 🕒 **Posted:** 2026-09-04
-
-### [Software Engineer](https://www.linkedin.com/jobs/view/4461988955/) — Cantor Fitzgerald
+### [Machine Learning Engineer](https://www.linkedin.com/jobs/view/4463603461/) — Lyft
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-09-04
 
-### [Software Engineer, Product (Frontend-leaning)](https://www.linkedin.com/jobs/view/4434692470/) — Assembled
+### [Data Scientist / Biostatistician](https://www.linkedin.com/jobs/view/4463608270/) — Jefferies
 - 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-09-04
-
-### [Software Engineer](https://www.linkedin.com/jobs/view/4450823588/) — Major League Baseball (MLB)
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-09-04
-
-### [Java Fullstack Engineer](https://www.linkedin.com/jobs/view/4461297679/) — Capgemini
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-09-04
-
-### [Site Reliability Engineer III](https://www.linkedin.com/jobs/view/4463391642/) — Apex Systems
-- 📍 **Location:** Jersey City, NJ
-- 💰 **Salary:** $72.00/hr - $73.00/hr
 - 🕒 **Posted:** 2026-09-04
