@@ -1,17 +1,44 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-09-04 23:18 UTC*
+*Last updated: 2026-09-05 00:18 UTC*
 
-**3 new role(s)** since last run · 17 total in last 1h
+**10 new role(s)** since last run · 20 total in last 1h
 
-### [Data Scientist Intern](https://www.linkedin.com/jobs/view/4462330189/) — Jobright.ai
-- 📍 **Location:** San Francisco Bay Area
+### [Software Engineer, E-Commerce AI Platform](https://www.linkedin.com/jobs/view/4463678122/) — TikTok USDS Joint Venture
+- 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-09-04
 
-### [Machine Learning Engineer, Inference & Serving (Speech LLM)](https://www.linkedin.com/jobs/view/4462342188/) — Jobright.ai
+### [Frontend Web Software Engineer, NGC](https://www.linkedin.com/jobs/view/4462346262/) — NVIDIA
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-09-04
+
+### [Software Engineer - Test Automation (SDET)](https://www.linkedin.com/jobs/view/4461414506/) — Mach9
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-09-04
 
-### [Research Engineer, Electrical Sensing](https://www.linkedin.com/jobs/view/4461409783/) — Gridware
+### [Applied Scientist II, ASCS AI Lab Team](https://www.linkedin.com/jobs/view/4463661811/) — Amazon Web Services (AWS)
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-09-04
+
+### [Frontend Web Software Engineer, NGC](https://www.linkedin.com/jobs/view/4462322644/) — NVIDIA
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-09-04
+
+### [Full-Stack Engineer – Federal Programs](https://www.linkedin.com/jobs/view/4463672199/) — 8090 Solutions
+- 📍 **Location:** Redwood City, CA
+- 🕒 **Posted:** 2026-09-04
+
+### [Software Engineer](https://www.linkedin.com/jobs/view/4463657750/) — MeeBoss
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-09-04
+
+### [Software Engineer, Infrastructure](https://www.linkedin.com/jobs/view/4463668590/) — Descript
 - 📍 **Location:** San Francisco Bay Area
-- 💰 **Salary:** $145,000.00/yr - $160,000.00/yr
+- 🕒 **Posted:** 2026-09-04
+
+### [System Software Engineer, Engineering Workflow Platform](https://www.linkedin.com/jobs/view/4463659615/) — Thomas To
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-09-04
+
+### [Database Cloud Engineer V](https://www.linkedin.com/jobs/view/4433003133/) — The Custom Group of Companies
+- 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-09-04
