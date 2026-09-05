@@ -1,64 +1,40 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-09-05 18:18 UTC*
+*Last updated: 2026-09-05 19:18 UTC*
 
-**15 new role(s)** since last run · 18 total in last 1h
+**9 new role(s)** since last run · 23 total in last 1h
 
-### [Machine Learning Engineer (Foundation Models & Personalization)](https://www.linkedin.com/jobs/view/4463775294/) — SportAtlas
+### [Software Engineer, Unity Engine and XR](https://www.linkedin.com/jobs/view/4462649066/) — ByteDance
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-09-05
+
+### [Software Engineer III - ATI](https://www.linkedin.com/jobs/view/4438651464/) — Robert Half
+- 📍 **Location:** San Ramon, CA
+- 🕒 **Posted:** 2026-09-05
+
+### [Site Reliability Engineer, Compute Platform](https://www.linkedin.com/jobs/view/4462657028/) — TikTok
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-09-05
+
+### [Research Engineer/Scientist (all levels), World Models](https://www.linkedin.com/jobs/view/4462669027/) — TikTok
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-09-05
+
+### [DevOps Engineer III](https://www.linkedin.com/jobs/view/4440349380/) — Robert Half
+- 📍 **Location:** San Ramon, CA
+- 🕒 **Posted:** 2026-09-05
+
+### [Data Scientist, Payment Analytics - USDS](https://www.linkedin.com/jobs/view/4463769454/) — TikTok USDS Joint Venture
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-09-05
+
+### [Data Scientist II - Customer Analytics](https://www.linkedin.com/jobs/view/4463789369/) — Gap Inc.
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-09-05
 
-### [MLOps Engineer](https://www.linkedin.com/jobs/view/4462611994/) — Evlo AI
-- 📍 **Location:** San Francisco, CA
+### [Software Engineer, Cross Platform](https://www.linkedin.com/jobs/view/4462664094/) — ByteDance
+- 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-09-05
 
-### [Marketing Data Scientist](https://www.linkedin.com/jobs/view/4462633101/) — Jobright.ai
-- 📍 **Location:** San Carlos, CA
-- 🕒 **Posted:** 2026-09-05
-
-### [Research Scientist, AI for Graphics and Gaming - New College Grad 2026](https://www.linkedin.com/jobs/view/4395488139/) — NVIDIA
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-09-05
-
-### [Research Scientist, Fundamental Generative AI - New College Grad 2026](https://www.linkedin.com/jobs/view/4395480204/) — NVIDIA
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-09-05
-
-### [Software Engineer Intern, AI Solutions](https://www.linkedin.com/jobs/view/4462619993/) — Cloudwick
-- 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-09-05
-
-### [Software Engineer, Authorization Infrastructure](https://www.linkedin.com/jobs/view/4454892206/) — Stripe
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-09-05
-
-### [Software Engineer, Backend, Level 5](https://www.linkedin.com/jobs/view/4436437698/) — Snap Inc.
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-09-05
-
-### [Machine Learning Engineer](https://www.linkedin.com/jobs/view/4462637042/) — Evlo AI
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-09-05
-
-### [MLOps Engineer](https://www.linkedin.com/jobs/view/4462639026/) — Evlo AI
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-09-05
-
-### [GENERATIVE AI DEVELOPER GRADUATE INTERN](https://www.linkedin.com/jobs/view/4462632097/) — jobply
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-09-05
-
-### [Full Stack Engineer - Customer Experience](https://www.linkedin.com/jobs/view/4463773265/) — SportAtlas
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-09-05
-
-### [Software Engineer - Full Stack](https://www.linkedin.com/jobs/view/4462640016/) — Evlo AI
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-09-05
-
-### [Site Reliability Engineer](https://www.linkedin.com/jobs/view/4462625175/) — Evlo AI
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-09-05
-
-### [Structural Engineer - Temporary Structures - Kiewit Infrastructure Engineers](https://www.linkedin.com/jobs/view/4231441036/) — Kiewit
-- 📍 **Location:** Manhattan, NY
+### [Machine Learning Engineer, AI Coding Tools](https://www.linkedin.com/jobs/view/4462668036/) — ByteDance
+- 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-09-05
