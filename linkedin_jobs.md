@@ -1,44 +1,44 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-09-05 00:18 UTC*
+*Last updated: 2026-09-05 01:18 UTC*
 
 **10 new role(s)** since last run · 20 total in last 1h
 
-### [Software Engineer, E-Commerce AI Platform](https://www.linkedin.com/jobs/view/4463678122/) — TikTok USDS Joint Venture
+### [Data Scientist](https://www.linkedin.com/jobs/view/4462344797/) — CapitalG
+- 📍 **Location:** Mountain View, CA
+- 🕒 **Posted:** 2026-09-04
+
+### [Machine Learning Engineer](https://www.linkedin.com/jobs/view/4462344798/) — CapitalG
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-09-04
+
+### [Marketing Data Scientist](https://www.linkedin.com/jobs/view/4462327928/) — Jobright.ai
+- 📍 **Location:** San Carlos, CA
+- 🕒 **Posted:** 2026-09-04
+
+### [Software Engineer II, Backend (Post-Transaction)](https://www.linkedin.com/jobs/view/4462339815/) — Affirm
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-09-04
+
+### [Software Engineer II, Backend (Post-Transaction)](https://www.linkedin.com/jobs/view/4462342785/) — Affirm
 - 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-09-04
 
-### [Frontend Web Software Engineer, NGC](https://www.linkedin.com/jobs/view/4462346262/) — NVIDIA
-- 📍 **Location:** Santa Clara, CA
+### [Cloud Platform Engineer](https://www.linkedin.com/jobs/view/4462332893/) — Pacific Gas and Electric Company
+- 📍 **Location:** Oakland, CA
 - 🕒 **Posted:** 2026-09-04
 
-### [Software Engineer - Test Automation (SDET)](https://www.linkedin.com/jobs/view/4461414506/) — Mach9
-- 📍 **Location:** San Francisco, CA
+### [Software Engineer II, Backend (Post-Transaction)](https://www.linkedin.com/jobs/view/4462337851/) — Affirm
+- 📍 **Location:** Palo Alto, CA
 - 🕒 **Posted:** 2026-09-04
 
-### [Applied Scientist II, ASCS AI Lab Team](https://www.linkedin.com/jobs/view/4463661811/) — Amazon Web Services (AWS)
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-09-04
-
-### [Frontend Web Software Engineer, NGC](https://www.linkedin.com/jobs/view/4462322644/) — NVIDIA
+### [Junior Generative AI Engineer](https://www.linkedin.com/jobs/view/4463682433/) — Cleary Gottlieb Steen & Hamilton LLP
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-09-04
 
-### [Full-Stack Engineer – Federal Programs](https://www.linkedin.com/jobs/view/4463672199/) — 8090 Solutions
-- 📍 **Location:** Redwood City, CA
+### [Data Scientist, Market Making](https://www.linkedin.com/jobs/view/4461429028/) — FanDuel
+- 📍 **Location:** Jersey City, NJ
 - 🕒 **Posted:** 2026-09-04
 
-### [Software Engineer](https://www.linkedin.com/jobs/view/4463657750/) — MeeBoss
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-09-04
-
-### [Software Engineer, Infrastructure](https://www.linkedin.com/jobs/view/4463668590/) — Descript
-- 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-09-04
-
-### [System Software Engineer, Engineering Workflow Platform](https://www.linkedin.com/jobs/view/4463659615/) — Thomas To
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-09-04
-
-### [Database Cloud Engineer V](https://www.linkedin.com/jobs/view/4433003133/) — The Custom Group of Companies
+### [Software Engineer II, Backend (Post-Transaction)](https://www.linkedin.com/jobs/view/4462333846/) — Affirm
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-09-04
