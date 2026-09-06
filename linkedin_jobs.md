@@ -1,41 +1,32 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-09-06 16:18 UTC*
+*Last updated: 2026-09-06 17:18 UTC*
 
-**9 new role(s)** since last run · 18 total in last 1h
+**7 new role(s)** since last run · 14 total in last 1h
 
-### [Research Scientist / Engineer – Reinforcement Learning Infrastructure](https://www.linkedin.com/jobs/view/4445276729/) — Luma
-- 📍 **Location:** Redwood City, CA
+### [Machine Learning Engineer, Inference & Serving (Speech LLM)](https://www.linkedin.com/jobs/view/4462687649/) — Jobright.ai
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-09-06
 
-### [Software Engineer, AI Agents](https://www.linkedin.com/jobs/view/4333129648/) — Hightouch
-- 📍 **Location:** San Francisco Bay Area
+### [Full Stack Software Engineering](https://www.linkedin.com/jobs/view/4461843415/) — Orvanta
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-09-06
 
-### [Software Engineer, Inference AI/ML](https://www.linkedin.com/jobs/view/4461851282/) — CoreWeave
+### [Software Engineer (Platform Team)](https://www.linkedin.com/jobs/view/4416356318/) — SpaceX
 - 📍 **Location:** Sunnyvale, CA
 - 🕒 **Posted:** 2026-09-06
 
-### [Software Engineer Intern (Winter 2027)](https://www.linkedin.com/jobs/view/4407974013/) — Cohere
+### [Software Engineer](https://www.linkedin.com/jobs/view/4464051002/) — Hire Feed
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-09-06
+
+### [Frontend Engineer, Compliance Platform](https://www.linkedin.com/jobs/view/4464034967/) — Supio
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-09-06
 
-### [Full-Stack Software Engineer](https://www.linkedin.com/jobs/view/4461831393/) — Horizon Lane
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-09-06
-
-### [Software Engineer, iOS, Level 4](https://www.linkedin.com/jobs/view/4436490185/) — Snap Inc.
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-09-06
-
-### [Software Engineer - Product](https://www.linkedin.com/jobs/view/4445273773/) — Luma
-- 📍 **Location:** Redwood City, CA
-- 💰 **Salary:** $168,000.00/yr - $252,000.00/yr
-- 🕒 **Posted:** 2026-09-06
-
-### [Site Reliability Engineer, Inference Infrastructure](https://www.linkedin.com/jobs/view/4354704064/) — Cohere
+### [Software Engineer: Internal Automation](https://www.linkedin.com/jobs/view/4464042048/) — EngRadar
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-09-06
 
-### [Frontend Platform Engineer](https://www.linkedin.com/jobs/view/4406928175/) — Harvey
+### [Observability Platform Engineer](https://www.linkedin.com/jobs/view/4376001680/) — Neuberger
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-09-06
