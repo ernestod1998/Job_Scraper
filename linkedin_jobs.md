@@ -1,28 +1,36 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-09-05 23:17 UTC*
+*Last updated: 2026-09-06 00:11 UTC*
 
-**6 new role(s)** since last run · 6 total in last 1h
+**8 new role(s)** since last run · 13 total in last 1h
 
-### [Machine Learning Engineer, Inference & Serving (Speech LLM)](https://www.linkedin.com/jobs/view/4462660177/) — Jobright.ai
+### [Applied Scientist II, Search Ranking, Search Ranking](https://www.linkedin.com/jobs/view/4463777847/) — Amazon
+- 📍 **Location:** Palo Alto, CA
+- 🕒 **Posted:** 2026-09-05
+
+### [ML Infrastructure Engineer](https://www.linkedin.com/jobs/view/4443647075/) — Objective Partners
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-09-05
 
-### [Robotics Engineer](https://www.linkedin.com/jobs/view/4462657156/) — Circuit Lanch
-- 📍 **Location:** Sunnyvale, CA
+### [Marketing Data Scientist](https://www.linkedin.com/jobs/view/4462667258/) — Jobright.ai
+- 📍 **Location:** San Carlos, CA
 - 🕒 **Posted:** 2026-09-05
 
-### [Infrastructure Engineer](https://www.linkedin.com/jobs/view/4462662292/) — Garuda Ventures
+### [Software Engineer II, Backend - Platform Team](https://www.linkedin.com/jobs/view/4463790890/) — Rippling
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-09-05
 
-### [Software Engineer](https://www.linkedin.com/jobs/view/4446929574/) — Current
+### [Software Engineer II, Backend - Financial Product](https://www.linkedin.com/jobs/view/4463778846/) — Rippling
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-09-05
+
+### [Applied AI/ML Engineer](https://www.linkedin.com/jobs/view/4446510435/) — OP Recruiting
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-09-05
 
-### [Java Fullstack Engineer](https://www.linkedin.com/jobs/view/4461297679/) — Capgemini
+### [Applied AI/ML Engineer](https://www.linkedin.com/jobs/view/4443643517/) — Objective Partners
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-09-05
 
-### [Software Engineer, Android](https://www.linkedin.com/jobs/view/4449917643/) — Current
+### [Software Engineer II, Backend - Platform Team](https://www.linkedin.com/jobs/view/4463790891/) — Rippling
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-09-05
