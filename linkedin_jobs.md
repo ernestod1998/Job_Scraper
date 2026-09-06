@@ -1,40 +1,41 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-09-06 15:18 UTC*
+*Last updated: 2026-09-06 16:18 UTC*
 
-**9 new role(s)** since last run · 9 total in last 1h
+**9 new role(s)** since last run · 18 total in last 1h
 
-### [Research Engineer, Code RL (Reinforcement Learning)](https://www.linkedin.com/jobs/view/4426683713/) — Anthropic
+### [Research Scientist / Engineer – Reinforcement Learning Infrastructure](https://www.linkedin.com/jobs/view/4445276729/) — Luma
+- 📍 **Location:** Redwood City, CA
+- 🕒 **Posted:** 2026-09-06
+
+### [Software Engineer, AI Agents](https://www.linkedin.com/jobs/view/4333129648/) — Hightouch
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-09-06
+
+### [Software Engineer, Inference AI/ML](https://www.linkedin.com/jobs/view/4461851282/) — CoreWeave
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-09-06
+
+### [Software Engineer Intern (Winter 2027)](https://www.linkedin.com/jobs/view/4407974013/) — Cohere
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-09-06
 
-### [Software Engineer - AI Agent Platforms](https://www.linkedin.com/jobs/view/4455120742/) — Workato
+### [Full-Stack Software Engineer](https://www.linkedin.com/jobs/view/4461831393/) — Horizon Lane
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-09-06
 
-### [System Software Engineer - Tegra](https://www.linkedin.com/jobs/view/4395489152/) — NVIDIA
-- 📍 **Location:** Santa Clara, CA
+### [Software Engineer, iOS, Level 4](https://www.linkedin.com/jobs/view/4436490185/) — Snap Inc.
+- 📍 **Location:** Palo Alto, CA
 - 🕒 **Posted:** 2026-09-06
 
-### [Research Scientist, AI Accelerator Design and VLSI - New College Grad 2026](https://www.linkedin.com/jobs/view/4395476613/) — NVIDIA
-- 📍 **Location:** Santa Clara, CA
+### [Software Engineer - Product](https://www.linkedin.com/jobs/view/4445273773/) — Luma
+- 📍 **Location:** Redwood City, CA
+- 💰 **Salary:** $168,000.00/yr - $252,000.00/yr
 - 🕒 **Posted:** 2026-09-06
 
-### [Research Scientist, ML Systems - PhD New College Grad 2026](https://www.linkedin.com/jobs/view/4395482499/) — NVIDIA
-- 📍 **Location:** Santa Clara, CA
+### [Site Reliability Engineer, Inference Infrastructure](https://www.linkedin.com/jobs/view/4354704064/) — Cohere
+- 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-09-06
 
-### [Software Engineer](https://www.linkedin.com/jobs/view/4435231668/) — Medallion
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-09-06
-
-### [Full Stack Engineer, Support Experience (Greater China Support)](https://www.linkedin.com/jobs/view/4454549329/) — Stripe
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-09-06
-
-### [Software Engineer - Smart Contract, Bridge](https://www.linkedin.com/jobs/view/4454539367/) — Stripe
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-09-06
-
-### [Software Engineer (C#/.NET)](https://www.linkedin.com/jobs/view/4444396742/) — Rockstar Games
-- 📍 **Location:** Manhattan, NY
+### [Frontend Platform Engineer](https://www.linkedin.com/jobs/view/4406928175/) — Harvey
+- 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-09-06
