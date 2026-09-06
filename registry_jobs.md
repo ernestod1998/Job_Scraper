@@ -1,12 +1,16 @@
 # 🗃 Direct ATS Registry — Engineering / ML / DS Roles
-*Last updated: 2026-09-05 16:35 UTC*
+*Last updated: 2026-09-06 16:46 UTC*
 
-**2 new role(s)** since last run · 20 total in current registry shard
+**3 new role(s)** since last run · 23 total in current registry shard
 
-### [Data Scientist II - Customer Analytics](https://gapinc.wd1.myworkdayjobs.com/GAPINC/job/SF---2-Folsom/Data-Scientist-II---Customer-Analytics_R218226) — GAP
-- 📍 **Location:** SF - 2 Folsom
-- 🕒 **Posted:** Posted Yesterday
-
-### [AI Engineer (Computer Vision/Signal Processing)](https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/AI-Engineer--Computer-Vision-Signal-Processing_2638582) — KLA Corporation
+### [Software Engineer](https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Software-Engineer_2640196) — KLA
 - 📍 **Location:** Milpitas, CA
-- 🕒 **Posted:** Posted 12 Days Ago
+- 🕒 **Posted:** Posted 5 Days Ago
+
+### [DevOps Engineer](https://leidos.wd5.myworkdayjobs.com/External/job/Orlando-FL/DevOps-Engineer_R-00191340) — Leidos
+- 📍 **Location:** Remote, US
+- 🕒 **Posted:** Posted 4 Days Ago
+
+### [Data Scientist](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Data-Scientist_R-00191410) — Leidos
+- 📍 **Location:** 6314 Remote/Teleworker US
+- 🕒 **Posted:** Posted 2 Days Ago
