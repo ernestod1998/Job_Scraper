@@ -1,20 +1,13 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-09-07 21:17 UTC*
+*Last updated: 2026-09-07 22:14 UTC*
 
-**4 new role(s)** since last run · 5 total in last 1h
+**2 new role(s)** since last run · 6 total in last 1h
 
-### [Frontend Developer UI/UX](https://www.linkedin.com/jobs/view/4462208536/) — SproutsAI
-- 📍 **Location:** Palo Alto, CA
+### [Software Engineer](https://www.linkedin.com/jobs/view/4464397287/) — Aegis Search
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $200,000.00/yr - $220,000.00/yr
 - 🕒 **Posted:** 2026-09-07
 
-### [Backend Developer](https://www.linkedin.com/jobs/view/4462242511/) — Horizontal Talent
-- 📍 **Location:** Pleasanton, CA
-- 🕒 **Posted:** 2026-09-07
-
-### [Software Engineer](https://www.linkedin.com/jobs/view/4462239516/) — AI Talent Hope
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-09-07
-
-### [Backend Infrastructure Engineer](https://www.linkedin.com/jobs/view/4462231659/) — Descon
-- 📍 **Location:** Brooklyn, NY
+### [Data Scientist Intern](https://www.linkedin.com/jobs/view/4462982479/) — Jobright.ai
+- 📍 **Location:** San Francisco Bay Area
 - 🕒 **Posted:** 2026-09-07
