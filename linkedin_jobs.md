@@ -1,6 +1,8 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-09-06 23:17 UTC*
+*Last updated: 2026-09-07 00:17 UTC*
 
-**0 new role(s)** since last run · 4 total in last 1h
+**1 new role(s)** since last run · 2 total in last 1h
 
-No new roles since the last run.
+### [Marketing Data Scientist](https://www.linkedin.com/jobs/view/4462905100/) — Jobright.ai
+- 📍 **Location:** San Carlos, CA
+- 🕒 **Posted:** 2026-09-06
