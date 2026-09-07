@@ -1,38 +1,49 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-09-07 17:18 UTC*
+*Last updated: 2026-09-07 18:18 UTC*
 
-**8 new role(s)** since last run · 13 total in last 1h
+**11 new role(s)** since last run · 11 total in last 1h
 
-### [Software Engineer, Backend, Google Photos](https://www.linkedin.com/jobs/view/4462959752/) — Google
-- 📍 **Location:** Mountain View, CA
-- 🕒 **Posted:** 2026-09-07
-
-### [Frontend Software Engineer](https://www.linkedin.com/jobs/view/4464357820/) — NAYA
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $175.00/yr - $225.00/yr
-- 🕒 **Posted:** 2026-09-07
-
-### [Platform Engineer](https://www.linkedin.com/jobs/view/4464369058/) — Harrison Clarke
-- 📍 **Location:** San Francisco Bay Area
-- 💰 **Salary:** $240,000.00/yr - $320,000.00/yr
-- 🕒 **Posted:** 2026-09-07
-
-### [Machine Learning Engineer, Inference & Serving (Speech LLM)](https://www.linkedin.com/jobs/view/4462969781/) — Jobright.ai
+### [MLOps Engineer](https://www.linkedin.com/jobs/view/4462965922/) — Evlo AI
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-09-07
 
-### [AI Research Scientist | Machine Learning | Deep Learning |Natural Language Processing | LLM | Hybrid | San Jose, CA](https://www.linkedin.com/jobs/view/4462954970/) — Enigma
-- 📍 **Location:** San Jose, CA
+### [Applied Scientist, Prime Video - Generative AI (Video)](https://www.linkedin.com/jobs/view/4464369587/) — Prime Video & Amazon MGM Studios
+- 📍 **Location:** Sunnyvale, CA
 - 🕒 **Posted:** 2026-09-07
 
-### [Embedded Software Engineer - RISCV](https://www.linkedin.com/jobs/view/4427240101/) — NVIDIA
+### [Marketing Data Scientist](https://www.linkedin.com/jobs/view/4462972998/) — Jobright.ai
+- 📍 **Location:** San Carlos, CA
+- 🕒 **Posted:** 2026-09-07
+
+### [Research Scientist, Efficient Deep Learning - New College Grad 2026](https://www.linkedin.com/jobs/view/4427233480/) — NVIDIA
 - 📍 **Location:** Santa Clara, CA
 - 🕒 **Posted:** 2026-09-07
 
-### [Data Scientist Intern](https://www.linkedin.com/jobs/view/4462958773/) — Jobright.ai
-- 📍 **Location:** San Francisco Bay Area
+### [Software Engineer, DevOps - Moveworks](https://www.linkedin.com/jobs/view/4408017230/) — ServiceNow
+- 📍 **Location:** Mountain View, CA
 - 🕒 **Posted:** 2026-09-07
 
-### [Junior Bioinformatics Scientist, Bureau of the Public Health Laboratory](https://www.linkedin.com/jobs/view/4462231166/) — NYC Department of Health and Mental Hygiene
-- 📍 **Location:** Manhattan, NY
+### [Backend Software Engineer - Platforms](https://www.linkedin.com/jobs/view/4462967943/) — ByteDance
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-09-07
+
+### [Mobile Engineer (iOS / Android)](https://www.linkedin.com/jobs/view/4462960942/) — Evlo AI
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-09-07
+
+### [MLOps Engineer](https://www.linkedin.com/jobs/view/4462951991/) — Evlo AI
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-09-07
+
+### [Software Engineer, Global Banking & Markets, AI/ML Technology](https://www.linkedin.com/jobs/view/4454402371/) — Goldman Sachs
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-09-07
+
+### [Data Scientist - Music Mission](https://www.linkedin.com/jobs/view/4455315558/) — Spotify
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-09-07
+
+### [Campus Graduate Masters Summer Internship Program - 2027 Software Engineer, Enterprise Technology Services- New York, NY](https://www.linkedin.com/jobs/view/4454216934/) — American Express
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $24.05/hr - $63.00/hr
 - 🕒 **Posted:** 2026-09-07
