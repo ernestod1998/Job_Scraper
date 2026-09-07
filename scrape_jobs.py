@@ -15,6 +15,7 @@ import sys
 import time
 import urllib.parse
 import urllib.robotparser
+from dataclasses import dataclass
 from datetime import date, datetime, timedelta, timezone
 from html.parser import HTMLParser
 from urllib.request import urlopen, Request, build_opener, HTTPCookieProcessor
@@ -171,7 +172,7 @@ _KEYWORD_RE = re.compile(
 # Helpers
 # ---------------------------------------------------------------------------
 
-def fetch(url):
+def fetch(url, *, health=None):
     try:
         # Request() itself raises ValueError on malformed/schemeless URLs
         # (third-party portfolio data), so it must sit inside the try.
@@ -179,6 +180,8 @@ def fetch(url):
         with urlopen(req, timeout=15) as r:
             return r.read().decode("utf-8", errors="ignore")
     except (URLError, TimeoutError, OSError, ValueError) as e:
+        if health is not None:
+            health.errors += 1
         print(f"  ⚠️  Could not fetch {url}: {e}")
         return ""
 
@@ -1254,7 +1257,7 @@ def _parse_linkedin_cards(html: str) -> tuple[list[dict], list[str]]:
     return parsed, raw_ids
 
 
-def _linkedin_search(terms: list[str], lookback_seconds: int) -> tuple[list[dict], int]:
+def _linkedin_search(terms: list[str], lookback_seconds: int, *, health=None) -> tuple[list[dict], int]:
     """
     Per-term, paginated LinkedIn guest-endpoint search. Dedupes by job ID and
     sorts by recency. Used by both the general MLE/DS watcher and the biotech
@@ -1278,7 +1281,7 @@ def _linkedin_search(terms: list[str], lookback_seconds: int) -> tuple[list[dict
                 f"&f_TPR=r{lookback_seconds}"
                 f"&start={start}"
             )
-            html = fetch(url)
+            html = fetch(url) if health is None else fetch(url, health=health)
             if not html.strip():
                 break
             parsed, raw_ids = _parse_linkedin_cards(html)
@@ -1310,9 +1313,64 @@ def _linkedin_search(terms: list[str], lookback_seconds: int) -> tuple[list[dict
     return jobs, total_raw_cards
 
 
-def scrape_linkedin_recent() -> list:
+@dataclass
+class _RetrievalHealth:
+    errors: int = 0
+    raw_records: int = 0
+    used_cache: bool = False
+
+
+@dataclass
+class ScrapeRun:
+    jobs: list
+    last_attempt_at: str
+    last_success_at: str | None
+    status: str
+
+    def metadata(self) -> dict:
+        return {"last_attempt_at": self.last_attempt_at,
+                "last_success_at": self.last_success_at, "status": self.status}
+
+
+def _collect_run(scraper, basename: str) -> ScrapeRun:
+    attempted = datetime.now(timezone.utc).isoformat()
+    previous_success = None
+    try:
+        with open(os.path.join(SCRIPT_DIR, basename + ".json")) as f:
+            previous = json.load(f)
+        value = previous.get("last_success_at")
+        if isinstance(value, str):
+            # Legacy scraped_at is a generation time, never evidence of success.
+            parsed = datetime.fromisoformat(value.replace("Z", "+00:00"))
+            if parsed.tzinfo is not None:
+                previous_success = value
+    except (OSError, ValueError, AttributeError):
+        pass
+    health = _RetrievalHealth()
+    jobs = scraper(_health=health)
+    if health.used_cache:
+        status = "cached"
+    elif health.raw_records == 0:
+        status = "error"
+    else:
+        status = "partial" if health.errors else "ok"
+    success = datetime.now(timezone.utc).isoformat() if status == "ok" else previous_success
+    return ScrapeRun(jobs, attempted, success, status)
+
+
+def collect_linkedin_recent() -> ScrapeRun:
+    return _collect_run(scrape_linkedin_recent, "linkedin_jobs")
+
+
+def collect_indeed_recent() -> ScrapeRun:
+    return _collect_run(scrape_indeed_recent, "indeed_jobs")
+
+
+def scrape_linkedin_recent(*, _health=None) -> list:
     print(f"🔎 Scraping LinkedIn (last {LINKEDIN_LOOKBACK_SECONDS // 3600}h)...")
-    jobs, raw_cards = _linkedin_search(LINKEDIN_SEARCH_TERMS, LINKEDIN_LOOKBACK_SECONDS)
+    jobs, raw_cards = _linkedin_search(LINKEDIN_SEARCH_TERMS, LINKEDIN_LOOKBACK_SECONDS, health=_health)
+    if _health is not None:
+        _health.raw_records = raw_cards
     # Block guard (mirrors Indeed's): zero raw cards across every term means
     # LinkedIn gave us nothing — rate-limited or blocked, not a quiet hour.
     # Reuse the previous results so we don't clobber the dedupe baseline.
@@ -1320,6 +1378,8 @@ def scrape_linkedin_recent() -> list:
         prev = _load_prev_jobs(os.path.join(SCRIPT_DIR, "linkedin_jobs.json"))
         print(f"  ⛔ LinkedIn returned 0 cards across all terms (likely blocked); "
               f"preserving previous {len(prev)} result(s)")
+        if _health is not None:
+            _health.used_cache = bool(prev)
         return prev
     print(f"  ✅ LinkedIn: {len(jobs)} role(s)")
     _enrich_linkedin_salaries(jobs)
@@ -1366,16 +1426,20 @@ INDEED_JD_MAX_CHARS = 6000
 JOBSPY_LOCATIONS = [("San Francisco, CA", 50), ("New York, NY", 25)]
 
 
-def _jobspy_fetch_with_retry(jobspy_scrape, **kwargs):
+def _jobspy_fetch_with_retry(jobspy_scrape, *, _health=None, **kwargs):
     """Fetch 50 rows, retrying once at 100 when the first result saturates."""
     first = jobspy_scrape(results_wanted=50, **kwargs)
     if first is not None and len(first) == 50:
         try:
             second = jobspy_scrape(results_wanted=100, **kwargs)
         except Exception as e:
+            if _health is not None:
+                _health.errors += 1
             print(f"  ⚠️  JobSpy 100-row retry failed; keeping first 50 rows ({e})")
             return first
         if second is None:
+            if _health is not None:
+                _health.errors += 1
             return first
         if second is not None and len(second) >= 100:
             print("  ⚠️  JobSpy result set still saturated at 100 rows")
@@ -1383,13 +1447,18 @@ def _jobspy_fetch_with_retry(jobspy_scrape, **kwargs):
     return first
 
 
-def scrape_indeed_recent() -> list:
+def scrape_indeed_recent(*, _health=None) -> list:
     """Indeed MLE/DS roles posted in the last INDEED_LOOKBACK_HOURS, SF Bay Area + NYC."""
     print(f"🟦 Scraping Indeed (last {INDEED_LOOKBACK_HOURS}h)...")
     try:
         from jobspy import scrape_jobs as jobspy_scrape
     except ImportError:
         print("  ⚠️  python-jobspy not installed; skipping Indeed")
+        if _health is not None:
+            _health.errors += 1
+            prev = _load_prev_jobs(os.path.join(SCRIPT_DIR, "indeed_jobs.json"))
+            _health.used_cache = bool(prev)
+            return prev
         return []
 
     jobs_by_id: dict[str, dict] = {}
@@ -1404,6 +1473,7 @@ def scrape_indeed_recent() -> list:
             # silently breaks. Keep hours_old; do not add the others.
             df = _jobspy_fetch_with_retry(
                 jobspy_scrape,
+                _health=_health,
                 site_name=["indeed"],
                 search_term=term,
                 location=location,
@@ -1413,6 +1483,8 @@ def scrape_indeed_recent() -> list:
             )
         except Exception as e:
             errored_terms += 1
+            if _health is not None:
+                _health.errors += 1
             print(f"  ⚠️  Indeed ({term!r} · {location}): {e}")
             continue
         ok_terms += 1
@@ -1450,6 +1522,8 @@ def scrape_indeed_recent() -> list:
                 ),
                 "ats": "Indeed",
             }
+    if _health is not None:
+        _health.raw_records = raw_rows
     jobs = list(jobs_by_id.values())
     print(
         f"  📊 Indeed: {len(LINKEDIN_SEARCH_TERMS)} terms × {len(JOBSPY_LOCATIONS)} metros → "
@@ -1468,6 +1542,8 @@ def scrape_indeed_recent() -> list:
             f"  ⛔ Indeed returned 0 rows across all terms (likely blocked); "
             f"preserving previous {len(prev)} result(s)"
         )
+        if _health is not None:
+            _health.used_cache = bool(prev)
         return prev
 
     return jobs
@@ -1805,7 +1881,7 @@ def _normalize_dates(jobs: list) -> None:
 
 def save_jobs_output(jobs: list, *, basename: str, title: str, subtitle: str,
                      accent: str, empty_message: str, window_label: str,
-                     default_feed: str = "general"):
+                     default_feed: str = "general", run_metadata: dict | None = None):
     """
     Save jobs to {basename}.{json,md,html}. Dedupes against the previous JSON at
     the same path so each email surfaces only postings new to this run.
@@ -1865,6 +1941,10 @@ def save_jobs_output(jobs: list, *, basename: str, title: str, subtitle: str,
         "new_jobs": new_jobs,
         "filter_stats": filter_stats,
     }
+    if run_metadata is not None:
+        output.update({key: run_metadata[key] for key in
+                       ("last_attempt_at", "last_success_at", "status")})
+
     with open(json_path, "w") as f:
         json.dump(output, f, indent=2)
 
@@ -1899,9 +1979,10 @@ def save_jobs_output(jobs: list, *, basename: str, title: str, subtitle: str,
     print(f"📄 Saved {basename}.json/.md/.html ({len(new_jobs)} new of {len(jobs)} total)")
 
 
-def save_linkedin_results(jobs: list):
+def save_linkedin_results(jobs: list, *, run_metadata: dict | None = None):
     save_jobs_output(
         jobs,
+        run_metadata=run_metadata,
         basename="linkedin_jobs",
         title="🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)",
         subtitle=f"SF Bay Area + NYC · last {LINKEDIN_LOOKBACK_SECONDS // 3600}h",
@@ -1911,9 +1992,10 @@ def save_linkedin_results(jobs: list):
     )
 
 
-def save_indeed_results(jobs: list):
+def save_indeed_results(jobs: list, *, run_metadata: dict | None = None):
     save_jobs_output(
         jobs,
+        run_metadata=run_metadata,
         basename="indeed_jobs",
         title="🟦 Indeed — Engineering / ML / DS Roles (SF Bay Area + NYC)",
         subtitle=f"SF Bay Area + NYC · last {INDEED_LOOKBACK_HOURS}h",
@@ -2802,7 +2884,8 @@ if __name__ == "__main__":
         sys.exit(0)
 
     if "--indeed-only" in sys.argv:
-        save_indeed_results(scrape_indeed_recent())
+        run = collect_indeed_recent()
+        save_indeed_results(run.jobs, run_metadata=run.metadata())
         sys.exit(0)
 
     if "--boards-only" in sys.argv:
@@ -2810,7 +2893,8 @@ if __name__ == "__main__":
         sys.exit(0)
 
     if "--linkedin-only" in sys.argv:
-        save_linkedin_results(scrape_linkedin_recent())
+        run = collect_linkedin_recent()
+        save_linkedin_results(run.jobs, run_metadata=run.metadata())
         sys.exit(0)
 
     if "--usajobs-only" in sys.argv:

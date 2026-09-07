@@ -1,6 +1,6 @@
 name: Tests
 
-# Fast, secret-free, no-network unit tests. Deliberately path-filtered: the
+# Secret-free tests with offline fixtures; setup downloads test dependencies. Deliberately path-filtered: the
 # watchers push ~30 chore commits a day and none of them should burn CI minutes
 # here. The workflow paths are included so that reintroducing a hand-rolled
 # rebase-and-push tail in any watcher trips the recurrence guard in
@@ -21,7 +21,14 @@ on:
       - test_dates.mjs
       - test_dashboard.mjs
       - triage.html
-      - sync/**
+      - assets/triage/**
+      - browser-tests/**
+      - test_decisions.mjs
+      - test_feeds.mjs
+      - test_source_health.py
+      - package.json
+      - package-lock.json
+      - playwright.config.mjs
       - .github/workflows/*.yml
   pull_request:
     paths:
@@ -37,13 +44,20 @@ on:
       - test_dates.mjs
       - test_dashboard.mjs
       - triage.html
-      - sync/**
+      - assets/triage/**
+      - browser-tests/**
+      - test_decisions.mjs
+      - test_feeds.mjs
+      - test_source_health.py
+      - package.json
+      - package-lock.json
+      - playwright.config.mjs
       - .github/workflows/*.yml
   workflow_dispatch:
 
 jobs:
   tests:
-    name: Commit/push + triage merge tests
+    name: Scraper and local dashboard tests
     runs-on: ubuntu-latest
 
     permissions:
@@ -70,7 +84,7 @@ jobs:
         run: python test_ci_commit_push.py
 
       # Posted dates must mean a Pacific calendar day, not the runner's UTC day.
-      # Includes recurrence guards that grep scrape_jobs.py and triage.html for
+      # Includes recurrence guards that inspect scraper and dashboard date helpers for
       # the UTC-day idioms that caused the 2026-07-28 future-dated postings.
       - name: Posted-date normalization tests
         run: python test_dates.py
@@ -86,19 +100,17 @@ jobs:
         with:
           node-version: "20"
 
-      # triage.html carries an inline copy of the triage merge rules and
-      # sync/merge.js carries the server's. This extracts the browser's copy and
-      # asserts the two agree — silent drift between them would corrupt triage
-      # data, which is the failure this whole feature exists to prevent. No
-      # dependencies, no network.
-      - name: Triage merge-rule parity
-        run: node sync/merge.test.mjs
+      - name: Source health regressions
+        run: python test_source_health.py
 
-      # The date bug existed in both languages; test_dates.py can only grep the
-      # browser's copy, this actually runs it. Pins TZ internally, so it gives
-      # the same result on a UTC runner as on a Pacific laptop.
-      - name: Triage date-clamp tests
-        run: node test_dates.mjs
+      - name: Install browser test dependencies
+        run: npm ci
 
-      - name: Dashboard policy regressions
-        run: node test_dashboard.mjs
+      - name: Dashboard unit and policy tests
+        run: npm test
+
+      - name: Install Chromium
+        run: npx playwright install --with-deps chromium
+
+      - name: Browser acceptance tests
+        run: npm run test:browser

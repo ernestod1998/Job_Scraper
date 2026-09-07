@@ -1,4 +1,4 @@
-// Date-clamping tests for triage.html's inline script.
+// Date-clamping tests for the dashboard's shared date helpers.
 //
 // The 2026-07-28 bug was "derive a calendar day in UTC", and it existed in both
 // languages. test_dates.py guards the Python side, but it can only grep the
@@ -22,34 +22,12 @@ import { fileURLToPath } from 'node:url';
 import { dirname, join } from 'node:path';
 
 const here = dirname(fileURLToPath(import.meta.url));
-// NB: this file lives at the repo root, unlike sync/merge.test.mjs.
-const html = readFileSync(join(here, 'triage.html'), 'utf8');
-
-// Copied from sync/merge.test.mjs — that file exports nothing, runs its
-// assertions at import time and calls process.exit(), so it can't be imported.
-// Pull a top-level `function name(...) { ... }` out of the inline <script> by
-// brace-matching from its opening brace. Regex alone can't do this safely.
-function extractFunction(src, name) {
-  const start = src.indexOf(`function ${name}(`);
-  if (start === -1) throw new Error(`triage.html no longer defines ${name}() — did it get renamed?`);
-  const open = src.indexOf('{', start);
-  let depth = 0;
-  for (let i = open; i < src.length; i++) {
-    if (src[i] === '{') depth++;
-    else if (src[i] === '}' && --depth === 0) return src.slice(start, i + 1);
-  }
-  throw new Error(`unbalanced braces while extracting ${name}()`);
-}
-
-const NAMES = ['localToday', 'displayDate'];
-const client = new Function(
-  `${NAMES.map(n => extractFunction(html, n)).join('\n')}
-   return { ${NAMES.join(', ')} };`
-)();
+const html = readFileSync(join(here, 'assets/triage/model.mjs'), 'utf8');
+import * as client from './assets/triage/model.mjs';
 
 // 2026-07-29T01:30:00Z === 18:30 PDT on 2026-07-28 — inside the window where
 // the UTC day and the Pacific day disagree. Fixed clock: these must not depend
-// on wall time (same convention as sync/merge.test.mjs).
+// on wall time.
 const EVENING_PT = Date.parse('2026-07-29T01:30:00Z');
 const MORNING_PT = Date.parse('2026-07-28T17:00:00Z');  // 10:00 PDT, days agree
 

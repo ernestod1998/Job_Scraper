@@ -114,7 +114,7 @@ model calls. After changing the prompt, profile, resume, or model, dispatch it m
 
 ## Rollback
 
-Revert the commits touching `triage.html`, `scrape_jobs.py`, and the workflow files;
+For ranking-only rollback, revert only the ranking changes in the dashboard modules, `scrape_jobs.py`, and the workflow files; preserve the local-only dashboard and storage safety fixes described in README.md;
 delete `.github/workflows/triage.yml`, `scores.json`, `all_jobs.json`; remove the
 secrets. Do **not** `git clean` — it would wipe your untracked resume/profile.
 

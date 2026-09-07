@@ -7,14 +7,18 @@ resume.md
 resume.txt
 shortlist.*
 
-# Sync service (sync/ deploys to Vercel from the CLI). GitHub Pages serves this
+# Retired sync service local files. GitHub Pages serves this
 # repo's root, so anything committed here is published — keep credentials and
 # dependencies out. .env* must be ignored BEFORE any `vercel env pull`.
 sync/.env*
 sync/.vercel/
 node_modules/
-# Vendor agent-docs the Upstash integration drops in on install — ~40 markdown
+# Vendor agent-docs left by the retired integration — ~40 markdown
 # files that aren't ours, get regenerated, and would be published by Pages.
 sync/.agents/
 sync/.claude/
 sync/skills-lock.json
+
+# Local browser-test artifacts
+test-results/
+playwright-report/

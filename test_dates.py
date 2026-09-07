@@ -278,7 +278,7 @@ class RecurrenceGuards(unittest.TestCase):
 
     def test_triage_html_does_not_build_a_day_from_toisostring(self):
         # The same bug in the browser: toISOString() is the UTC day.
-        with open(os.path.join(SCRIPT_DIR, "triage.html")) as f:
+        with open(os.path.join(SCRIPT_DIR, "assets", "triage", "model.mjs")) as f:
             body = f.read()
         self.assertNotIn("toISOString().slice(0, 10)", body)
         self.assertNotIn("toISOString().slice(0,10)", body)

@@ -76,27 +76,43 @@ The scraper workflows keep a GitHub history of generated digests by committing c
 
 ### Interactive triage dashboard — `triage.html`
 
-A single-file dashboard hosted on GitHub Pages that merges all the latest source JSONs into one filterable cockpit: search, role/seniority/source filters, save/applied/dismiss buttons persisted in localStorage, top-companies + role-mix charts, and Export/Import buttons for backing up your triage decisions to a file.
+A static dashboard hosted on GitHub Pages, with native JavaScript modules and CSS in `assets/triage/`. There is no production build step. Search, decision filters and sorting lead the page; advanced Filters, Insights and Source health are collapsible. Results load 50 cards at a time, while counts, charts and the map use the complete selection. The latest dismissal can be undone for five seconds unless a newer decision supersedes it.
 
-Triage state lives in two localStorage keys, deliberately kept apart: `jobTriage:v2` holds your decisions (small, merged on every write, never dropped) and `jobTriage:cache:v1` holds a capped copy of the job list (bulky and disposable). The dashboard also recovers the short-lived `jobTriage:cache:v2` transition cache and removes it only after a verified merged write to v1. Every decision write merges against what's already stored — newest timestamp per job wins — so a second browser window refreshing can no longer overwrite decisions it never saw. Open `triage.html?selftest=1` to run the merge-rule assertion suite.
+#### Local decisions and backups
 
-#### Cross-device sync — on by default
+Saved, applied and dismissed decisions stay in this browser. Cross-device sync has been removed. Use **Data tools → Export** to download a backup and **Import** to merge it into another browser. Export includes pending decisions even if a storage write failed. Old backup files still work; old sync fields are ignored. The dashboard continues downloading public job feeds.
 
-**Your triage decisions leave your browser.** The ⇅ Sync button mirrors them to a small endpoint (`sync/`, deployed on Vercel, backed by Upstash Redis) so a phone and a laptop can share them. This is **on by default**; the dot on the button shows the current state and **Turn sync off** stops it completely, at which point nothing is uploaded and everything still works.
+`jobTriage:v2` contains decisions and compact triaged-job details; `jobTriage:cache:v1` contains a disposable cache. Startup also recovers the legacy combined record and the transitional `jobTriage:cache:v2` cache. Writes merge with current storage and use an origin-scoped Web Lock where supported. Without Web Locks, tab coordination uses best-effort read/merge/verification and storage events. Browser storage can be cleared or evicted, so keep an Export backup.
 
-What's stored: the decision (`saved` / `applied` / `dismissed`) for each job URL, plus the title/company of the jobs you triaged — that's what lets a saved role display on a phone that never fetched it. So the roles you applied to are held on a third-party server. Nothing else is: the bulky job cache never syncs, and there is no account, email, or profile data involved.
+Duplicate groups use the newest decision, including cleared markers, and actions update every known alias. Saved/applied decisions are retained indefinitely. Dismissals expire after 30 days and cleared markers after 60 days; unknown-age legacy decisions do not expire. Decisions referenced by a retained legacy recovery document are protected from expiry until that document has been safely removed. Quota recovery evicts disposable caches before attempting decisions without job copies; it never deletes the last legacy recovery copy to make room. Storage failure is visible and leaves in-memory decisions exportable.
 
-How it identifies you: your browser generates a random 26-character code (~130 bits) and keeps it locally. The server only ever receives `SHA-256(code)`, sent as a request header — so it cannot learn your code, and the code never appears in a URL or a server log. To add a device, hit Sync → **Copy link** and open that link there. Anyone with the link can read and change your decisions, so treat it like a password. Pasting a code **merges** both devices' decisions; it never replaces either side.
+#### Source health
 
-Losing the code means losing the bucket — the server only knows its hash, by design. Use **Export** for a backup file.
+Each feed is validated independently and has a 15-second timeout. Failed sources retain available local jobs; **Source health → Retry failed** retries failed downloads. Download status is separate from scraper status. LinkedIn/Indeed outputs add UTC `last_attempt_at`, nullable `last_success_at`, and `status` (`ok`, `partial`, `cached`, `error`). `ok` means the configured retrieval pass completed, including a pass whose retrieved rows were all filtered out; it does not mean exhaustive coverage. Cached/partial/error runs retain the last known successful time, and old generation timestamps are not treated as proof of success.
 
-Dismissals older than 30 days are garbage-collected (safe: `all_jobs.json` prunes at 14 days, so such a job can't reappear). **Saved and applied are kept forever.**
+#### Release and rollback
 
-The merge rule exists twice — inline in `triage.html` for the browser and in `sync/merge.js` for the server — because the dashboard is a single file with no build step. `sync/merge.test.mjs` extracts the browser's copy and asserts the two agree; CI fails on any drift.
+Reload or close tabs opened before this upgrade: code already running in an old tab can still call the retired sync endpoint. Legacy shared links are made inert on the new page. Removing the client/backend code does **not** delete a deployed Vercel service or Redis data; infrastructure retirement is separate.
+
+Release the local-only code together with its persistence/duplicate fixes and tests. This combined tested version is the earliest rollback target. Later GUI/source-health rollbacks must retain those fixes and must never restore sync, reset browser storage, or replace generated job snapshots. The Jackie/PJ projects and existing scraper schedules/notifications are outside this change.
+
+#### Development checks
+
+Use Python 3.11 and Node 20 or newer:
+
+```bash
+python3.11 -m unittest test_dates test_scraper_core test_ats_registry test_ci_commit_push test_source_health
+npm ci
+npm test
+npx playwright install chromium
+npm run test:browser
+```
+
+The browser suite uses isolated storage, intercepts external requests before navigation and serves the dashboard under `/Job_Scraper/`. Open `triage.html?selftest=1` for the small in-page merge check. Production hosting only needs the HTML, assets and existing public JSON feeds; npm dependencies are development-only.
 
 **View it:** [`https://ernestod1998.github.io/Job_Scraper/triage.html`](https://ernestod1998.github.io/Job_Scraper/triage.html)
 
-The dashboard fetches `jobs.json` / `linkedin_jobs.json` / `indeed_jobs.json` from the same repo at view time, so it always reflects the latest committed scrape. Refresh in the browser to see new data after a cron fire (Pages serves with ~1–2 min lag after each push). No bake-on-cron step in the scraper — `triage.html` is committed once and never modified by automation.
+The dashboard fetches the configured source JSON files and cumulative master from the same repo at view time. Source health reports failures while retaining available cached jobs. Refresh in the browser to see new data after a cron fire (Pages serves with ~1–2 min lag after each push). No bake-on-cron step in the scraper — `triage.html` is committed once and never modified by automation.
 
 To run locally (e.g. to edit the dashboard UI):
 ```bash
