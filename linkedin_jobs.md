@@ -1,86 +1,110 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-09-08 15:19 UTC*
+*Last updated: 2026-09-08 16:19 UTC*
 
-**20 new role(s)** since last run · 20 total in last 1h
+**25 new role(s)** since last run · 43 total in last 1h
 
-### [Data Scientist](https://www.linkedin.com/jobs/view/4454416037/) — CHAOS Industries
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-09-08
-
-### [AI/ML Engineer](https://www.linkedin.com/jobs/view/4460995675/) — Centraprise
+### [Research Scientist, Generative AI for Physical AI - PhD New College Grad 2026](https://www.linkedin.com/jobs/view/4398197686/) — NVIDIA
 - 📍 **Location:** Santa Clara, CA
 - 🕒 **Posted:** 2026-09-08
 
-### [Research Engineer / Scientist, Alignment](https://www.linkedin.com/jobs/view/4322241769/) — Anthropic
+### [Software Engineer II, Storage](https://www.linkedin.com/jobs/view/4388307322/) — Crusoe
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-09-08
 
-### [Software Engineer, Research Data Platform](https://www.linkedin.com/jobs/view/4454430379/) — Anthropic
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-09-08
-
-### [Backend Engineer, Growth and Data](https://www.linkedin.com/jobs/view/4416688800/) — Hebbia
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-09-08
-
-### [Software Engineer, Early Career](https://www.linkedin.com/jobs/view/4437461678/) — Notion
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-09-08
-
-### [AI/ML Engineer](https://www.linkedin.com/jobs/view/4463509481/) — Harnham
-- 📍 **Location:** San Mateo County, CA
-- 💰 **Salary:** $250,000.00/yr - $350,000.00/yr
-- 🕒 **Posted:** 2026-09-08
-
-### [AI/ML Engineer](https://www.linkedin.com/jobs/view/4464622443/) — Harnham
+### [Software Engineer, Product](https://www.linkedin.com/jobs/view/4455397489/) — Opto Investments
 - 📍 **Location:** San Francisco Bay Area
 - 🕒 **Posted:** 2026-09-08
 
-### [Backend Software Engineer (C#/.NET)](https://www.linkedin.com/jobs/view/4464624339/) — Methodic
+### [Backend Developer](https://www.linkedin.com/jobs/view/4462529033/) — Solomon Page
+- 📍 **Location:** Pleasanton, CA
+- 🕒 **Posted:** 2026-09-08
+
+### [Software Engineering Intern - Winter '27](https://www.linkedin.com/jobs/view/4464621862/) — Vercel
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-09-08
 
-### [Cellular DevOps Engineer - Wearables Connectivity](https://www.linkedin.com/jobs/view/4463646615/) — Info Way Solutions
-- 📍 **Location:** Menlo Park, CA
-- 🕒 **Posted:** 2026-09-08
-
-### [Research Engineer, Machine Learning (Reinforcement Learning)](https://www.linkedin.com/jobs/view/4322390079/) — Anthropic
+### [Software Engineering Intern - Summer '27](https://www.linkedin.com/jobs/view/4464618861/) — Vercel
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-09-08
 
-### [Software Engineer, Research Data Platform](https://www.linkedin.com/jobs/view/4454413458/) — Anthropic
+### [Software Engineer, Native Delivery](https://www.linkedin.com/jobs/view/4418419672/) — Hightouch
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-09-08
+
+### [Technical Leader, SIte Reliability Engineer](https://www.linkedin.com/jobs/view/4464620777/) — Cisco
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-09-08
+
+### [Software Engineer, Collections Experience](https://www.linkedin.com/jobs/view/4405869769/) — Notion
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-09-08
+
+### [Full Stack Engineer - AI](https://www.linkedin.com/jobs/view/4451659487/) — UMATR
+- 📍 **Location:** San Francisco Bay Area
+- 💰 **Salary:** $180,000.00/yr - $270,000.00/yr
+- 🕒 **Posted:** 2026-09-08
+
+### [Software Engineer, Enterprise Support](https://www.linkedin.com/jobs/view/4454488259/) — Whatnot
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $170,000.00/yr - $230,000.00/yr
+- 🕒 **Posted:** 2026-09-08
+
+### [Software Engineer – IT Automation & Integrations](https://www.linkedin.com/jobs/view/4463379500/) — CriticalRiver Inc.
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-09-08
+
+### [Associate Software Engineer, Core Infrastructure - Moveworks](https://www.linkedin.com/jobs/view/4369288501/) — ServiceNow
+- 📍 **Location:** Mountain View, CA
+- 🕒 **Posted:** 2026-09-08
+
+### [MLOps Engineer](https://www.linkedin.com/jobs/view/4463505785/) — IMR Soft LLC
+- 📍 **Location:** Concord, CA
+- 🕒 **Posted:** 2026-09-08
+
+### [Site Infrastructure Engineer](https://www.linkedin.com/jobs/view/4463510765/) — Yochana
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-09-08
+
+### [Data Scientist](https://www.linkedin.com/jobs/view/4464625937/) — Epicor
+- 📍 **Location:** Dublin, CA
+- 🕒 **Posted:** 2026-09-08
+
+### [Software Engineer, Growth](https://www.linkedin.com/jobs/view/4414851039/) — Suno
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-09-08
 
-### [Backend Engineer, Ops Engineering](https://www.linkedin.com/jobs/view/4387601303/) — Ramp
+### [Software Engineer, Enterprise Support](https://www.linkedin.com/jobs/view/4454711094/) — Whatnot
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $170,000.00/yr - $230,000.00/yr
+- 🕒 **Posted:** 2026-09-08
+
+### [Data Scientist](https://www.linkedin.com/jobs/view/4455735631/) — Connecticut Innovations
+- 📍 **Location:** Brooklyn, NY
+- 💰 **Salary:** $90,000.00/yr - $120,000.00/yr
+- 🕒 **Posted:** 2026-09-08
+
+### [Campus Undergraduate Summer Internship Program - 2027 Software Engineer, Technology - New York, NY](https://www.linkedin.com/jobs/view/4454453119/) — American Express
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $24.05/hr - $63.00/hr
+- 🕒 **Posted:** 2026-09-08
+
+### [Data Platform engineer](https://www.linkedin.com/jobs/view/4464620742/) — Luxoft
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-09-08
 
-### [Systems Specialist - GCP Platform Engineer, Enterprise Data & Analytics](https://www.linkedin.com/jobs/view/4446153919/) — Con Edison
+### [Trading Systems Software Engineer 3664775](https://www.linkedin.com/jobs/view/4463142036/) — Axiom Path
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-09-08
+
+### [Associate, Credit eTrading Software Developer (Java)](https://www.linkedin.com/jobs/view/4452705810/) — Jefferies
 - 📍 **Location:** New York, NY
 - 💰 **Salary:** $125,000.00/yr - $150,000.00/yr
 - 🕒 **Posted:** 2026-09-08
 
-### [Backend Engineer, Agent Collaboration Platform](https://www.linkedin.com/jobs/view/4416425389/) — Hebbia
+### [Software Developer (Innovation) Summer Intern](https://www.linkedin.com/jobs/view/4464628872/) — Syska Hennessy Group
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-09-08
 
-### [Software Engineer, Site Reliability](https://www.linkedin.com/jobs/view/4416677901/) — Hebbia
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-09-08
-
-### [Full Stack Engineer](https://www.linkedin.com/jobs/view/4452600003/) — DRUM UPSKILL
-- 📍 **Location:** Newark, NJ
-- 🕒 **Posted:** 2026-09-08
-
-### [Mobile Engineer](https://www.linkedin.com/jobs/view/4459825237/) — Specialist Staffing Group
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-09-08
-
-### [Software Engineer-Other - Advanced](https://www.linkedin.com/jobs/view/4464492922/) — PTR Global
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-09-08
-
-### [Software Engineer 1 (Full-Stack)](https://www.linkedin.com/jobs/view/4463509453/) — Prometheum
+### [Software Engineer, Collections Experience](https://www.linkedin.com/jobs/view/4405880033/) — Notion
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-09-08
