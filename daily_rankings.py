@@ -206,9 +206,15 @@ def main():
     store = GitHubStore(os.environ['GITHUB_REPOSITORY'], os.environ['GITHUB_TOKEN'])
     store.initialize()
     runner = Runner(store, inputs, now)
+    scheduled = os.environ.get('GITHUB_EVENT_NAME') == 'schedule'
+    if scheduled and runner.state.get('completed_schedule') == runner.day:
+        return
     try:
         limits = {n: min(LIMITS[n], max(0, int(os.environ.get('RUN_' + n.upper()) or LIMITS[n]))) for n in LIMITS}
         runner.run(load_jobs(), run_limits=limits)
+        if scheduled:
+            runner.state['completed_schedule'] = runner.day
+            runner.checkpoint()
     finally:
         runner.publish()
 
