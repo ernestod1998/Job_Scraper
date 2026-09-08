@@ -1,3 +1,4 @@
+import { bestScore, parseRankings, rankingDetails } from './rankings.mjs';
 import { classifyRole, classifySeniority, jobFeeds, classifySource, parseSalary, localToday, displayDate, jobDateMs, jobFreshMs, compareByDate, EXCLUDED_TITLE_RE, EXCLUDED_SECURITY_RE, repairBiotechSourceCollision } from './model.mjs';
 import { dedupe } from './groups.mjs';
 import { createDecisionStore, DECIDE_KEY, TOMB_MS, decide, normalizeTriage, mergeTriage, gcDecisions, resolveDecision, reconcileAliases } from './decisions.mjs';
@@ -20,13 +21,14 @@ const SOURCES = [
   { name: 'all_jobs.json',      src: 'Master'   },
 ];
 
-// Scoring is intentionally dormant. Keeping one switch preserves the existing
-// reversible implementation without fetching score data or exposing rank UI.
-const ENABLE_SCORING = false;
+// Daily ranking is separate from local save/apply/dismiss decisions.
+const ENABLE_SCORING = true;
 document.getElementById('view-rank').hidden = !ENABLE_SCORING;
 
-// Fit scores from the manually-invoked triage agent, keyed by job URL.
+// Sanitized daily resume comparisons, keyed by job URL.
 let SCORES = {};
+let rankingUpdate = '';
+let rankingUnavailable = false;
 
 const store = createDecisionStore({ storage: { getItem: k => localStorage.getItem(k), setItem: (k,v) => localStorage.setItem(k,v), removeItem: k => localStorage.removeItem(k) }, locks: navigator.locks, onError: reportSaveError });
 const state = store.state;
@@ -42,22 +44,16 @@ function enrich(j) {
   j._salMin = sal ? sal.min : null;
   j._salMax = sal ? sal.max : null;
   j._salDisp = sal ? sal.disp : '';
-  // Agent verdict, when this URL has been scored (see scores.json).
-  // A stored "error" verdict is a failed model call, not a judgment —
-  // treat it as unscored so it doesn't masquerade as a real 0/100.
-  const s = ENABLE_SCORING ? (SCORES[j.url] || {}) : {};
-  const errored = s.verdict === 'error';
-  j._score   = (!errored && typeof s.score === 'number') ? s.score : null;
-  j._verdict = errored ? null : (s.verdict || null);
-  j._family  = errored ? null : (s.role_family || null);
-  j._why     = errored ? '' : (s.why || '');
-  j._opener  = errored ? '' : (s.outreach_opener || '');
-  // Optional score-audit (triage_agent --judge). judge_conf < 0 is the
-  // "could not judge" sentinel → treat as un-judged (no marker, never a false ✅).
-  const jc = (typeof s.judge_conf === 'number') ? s.judge_conf : null;
-  j._judgeOk   = (errored || jc === null || jc < 0) ? null
-                 : (typeof s.judge_ok === 'boolean' ? s.judge_ok : null);
-  j._judgeNote = errored ? '' : (s.judge_note || '');
+  const s = SCORES[j.url];
+  j._score = bestScore(s);
+  j._ranking = s;
+  j._verdict = j._score == null ? null : 'Luna qualification match';
+  j._family = null;
+  j._why = '';
+  j._opener = '';
+  j._judgeOk = null;
+  j._judgeNote = '';
+
 }
 
 // ---------- Data loading ----------
@@ -67,9 +63,13 @@ const feedLoader = createFeedLoader(SOURCES);
 async function loadJobs(options) {
   if (ENABLE_SCORING) {
     try {
-      const r = await fetch('scores.json');
-      SCORES = r.ok ? ((await r.json()).scores || {}) : {};
-    } catch { SCORES = {}; }
+      const r = await fetch('ranking_results.json?v=' + Date.now());
+      if (!r.ok) throw new Error('Ranking data unavailable');
+      const data = parseRankings(await r.json());
+      SCORES = data.scores;
+      rankingUpdate = data.updated_at || '';
+      rankingUnavailable = false;
+    } catch { SCORES = {}; rankingUnavailable = true; }
   }
   return feedLoader.load(options);
 }
@@ -330,7 +330,7 @@ function renderJobs() {
       ((b._score ?? -1) - (a._score ?? -1)) || compareByDate(a, b, filters.sort));
     const scored = jobs.filter(j => j._score != null).length;
     info.hidden = false;
-    info.textContent = `★ Rank: ${scored} of ${jobs.length} visible roles scored by the manual agent — unscored roles sink to the bottom.`;
+    info.textContent = `Daily ranking · ${scored} of ${jobs.length} visible roles scored. Up to 50 jobs with Luna + 5 Sonnet reviews per day, against five resumes. ${rankingUnavailable ? 'Ranking data currently unavailable.' : rankingUpdate ? 'Updated ' + new Date(rankingUpdate).toLocaleString() + '.' : 'First daily run pending.'} Unscored roles appear last.`;
   } else {
     jobs = jobs.slice().sort((a, b) => compareByDate(a, b, filters.sort));
     info.hidden = true;
@@ -359,7 +359,7 @@ function renderJobs() {
           <span>🕒 ${escape(displayDate(j.date_posted))}</span>
           <span><span class="tag role">${j._role}</span><span class="tag">${j._sen}</span>${j._family ? `<span class="tag">${escape(j._family)}</span>` : ''}</span>
         </div>
-        ${j._why ? `<div class="why">${escape(j._why)}</div>` : ''}
+        ${viewMode === 'rank' ? rankingDetails(j._ranking) : ''}
       </div>
       <div class="actions">
         ${j._opener ? '<button type="button" class="act" data-act="opener">✉ Opener</button>' : ''}
@@ -623,7 +623,7 @@ function prepareJobs() {
 }
 let groupKey = '';
 function rebuildGroups() {
-  const key = JSON.stringify(state.jobs.map(j => [j.url, j.title, j.company, j.location, j.date_posted, j.first_seen, j._src, j._salMin, j._salMax, j._salDisp, j.salary, j.description, j._score, j._why]));
+  const key = JSON.stringify(state.jobs.map(j => [j.url, j.title, j.company, j.location, j.date_posted, j.first_seen, j._src, j._salMin, j._salMax, j._salDisp, j.salary, j.description, j._score, j._why, j._ranking]));
   if (key === groupKey) return;
   groupKey = key;
   VIEW = dedupe(state.jobs);

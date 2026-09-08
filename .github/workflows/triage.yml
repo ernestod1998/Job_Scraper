@@ -1,49 +1,49 @@
-name: Manual Job Triage
-
+name: Daily Resume Ranking
 on:
   workflow_dispatch:
-
+    inputs:
+      luna:
+        description: 'Maximum Luna attempts this run (daily cap 50)'
+        default: '50'
+      sonnet:
+        description: 'Maximum Sonnet attempts this run (daily cap 5)'
+        default: '5'
+  schedule:
+    - cron: '15 16,17 * * *'
 concurrency:
-  group: job-scraper-commit-push
+  group: job-scraper-daily-ranking
   cancel-in-progress: false
-
 jobs:
-  triage:
-    name: Score new roles vs candidate profile
+  rank:
+    if: github.event_name == 'workflow_dispatch' || vars.DAILY_RANKING_ENABLED == 'true'
     runs-on: ubuntu-latest
-
+    timeout-minutes: 120
     permissions:
       contents: write
-
+      pages: write
     steps:
-      - name: Checkout repo
-        uses: actions/checkout@v4
-
-      - name: Set up Python
-        uses: actions/setup-python@v5
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
         with:
-          python-version: "3.11"
-
-      - name: Install Anthropic SDK
-        run: pip install anthropic
-
-      # Profile/resume arrive as env vars straight from Actions secrets —
-      # never written to disk, never committed (the repo is public).
-      # --limit bounds worst-case daily spend; raise/lower as the cost knob.
-      - name: Run triage agent
+          python-version: '3.11'
+      - run: pip install -r requirements-benchmark.txt
+      - name: Rank new jobs and review strongest matches
         env:
-          # Gemini is the cheap ranking backend (triage_agent picks it first).
-          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-          CANDIDATE_PROFILE: ${{ secrets.CANDIDATE_PROFILE }}
-          CANDIDATE_RESUME: ${{ secrets.CANDIDATE_RESUME }}
-        # --judge audits each fit score >= 50 (the shortlist) and writes judge_*
-        # fields the dashboard renders as ✅/⚖️ markers. Advisory, never gates.
-        run: python triage_agent.py --limit 300 --judge
-
-      - name: Commit scores to repo
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          RANKING_INPUTS: ${{ secrets.RANKING_INPUTS }}
+          GITHUB_TOKEN: ${{ github.token }}
+          RUN_LUNA: ${{ inputs.luna }}
+          RUN_SONNET: ${{ inputs.sonnet }}
+        run: python -B daily_rankings.py
+      - name: Publish sanitized rankings
+        if: always()
+        env:
+          GH_TOKEN: ${{ github.token }}
         run: |
-          git config user.name  "ernestod1998"
-          git config user.email "61074783+ernestod1998@users.noreply.github.com"
-          python ci_commit_push.py \
-            --message "chore: update fit scores [$(date -u '+%Y-%m-%d %H:%MZ')]" \
-            scores.json
+          if [ -f ranking_results.json ]; then
+            git config user.name 'github-actions[bot]'
+            git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+            python ci_commit_push.py --message 'chore: publish daily resume rankings' ranking_results.json
+            gh api --method POST "repos/$GITHUB_REPOSITORY/pages/builds" --silent
+          fi

@@ -52,8 +52,8 @@ for (const title of ['Software Engineer', 'Machine Learning Engineer', 'Data Sci
   check(`security boundary allows: ${title}`, !secVeto.test(title));
 }
 
-check('scoring feature flag is disabled', /const ENABLE_SCORING\s*=\s*false\s*;/.test(html));
-check('score fetch is feature-gated', /if \(ENABLE_SCORING\)\s*\{[\s\S]*?fetch\('scores\.json'/.test(html));
+check('daily scoring feature flag is enabled', /const ENABLE_SCORING\s*=\s*true\s*;/.test(html));
+check('score fetch is feature-gated', /if \(ENABLE_SCORING\)\s*\{[\s\S]*?fetch\('ranking_results\.json\?v='/.test(html));
 check('rank control follows feature flag', /view-rank'\)\.hidden\s*=\s*!ENABLE_SCORING/.test(html));
 check('v1 is restored as the primary cache', CACHE_KEY === 'jobTriage:cache:v1');
 check('short-lived v2 cache remains readable during recovery',
@@ -109,7 +109,7 @@ for (const file of ['triage.yml', 'evals.yml']) {
   const workflow = readFileSync(join(root, '.github', 'workflows', file), 'utf8');
   const triggerBlock = workflow.split(/^jobs:/m)[0];
   check(`${file} retains manual dispatch`, /^\s{2}workflow_dispatch:/m.test(triggerBlock));
-  check(`${file} has no schedule trigger`, !/^\s{2}schedule:/m.test(triggerBlock));
+  check(`${file} has the intended schedule policy`, /^\s{2}schedule:/m.test(triggerBlock) === (file === 'triage.yml'));
   check(`${file} has no push trigger`, !/^\s{2}push:/m.test(triggerBlock));
 }
 

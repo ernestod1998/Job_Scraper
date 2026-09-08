@@ -2,7 +2,7 @@
   "name": "ernesto-job-triage-tests",
   "private": true,
   "scripts": {
-    "test": "node test_dates.mjs && node test_dashboard.mjs && node --test test_decisions.mjs test_feeds.mjs",
+    "test": "node test_dates.mjs && node test_dashboard.mjs && node --test test_decisions.mjs test_feeds.mjs test_rankings.mjs",
     "test:browser": "playwright test"
   },
   "devDependencies": { "@playwright/test": "1.58.2" }

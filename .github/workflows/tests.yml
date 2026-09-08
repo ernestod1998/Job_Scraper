@@ -20,6 +20,12 @@ on:
       - test_dates.py
       - test_dates.mjs
       - test_dashboard.mjs
+      - daily_rankings.py
+      - ranking/**
+      - benchmark/**
+      - test_daily_rankings.py
+      - test_rankings.mjs
+      - requirements-benchmark.txt
       - triage.html
       - assets/triage/**
       - browser-tests/**
@@ -43,6 +49,12 @@ on:
       - test_dates.py
       - test_dates.mjs
       - test_dashboard.mjs
+      - daily_rankings.py
+      - ranking/**
+      - benchmark/**
+      - test_daily_rankings.py
+      - test_rankings.mjs
+      - requirements-benchmark.txt
       - triage.html
       - assets/triage/**
       - browser-tests/**
@@ -79,6 +91,11 @@ jobs:
           git config --global user.name  "ci"
           git config --global user.email "ci@example.com"
           git config --global init.defaultBranch main
+
+      - name: Daily ranking tests
+        run: |
+          pip install -r requirements-benchmark.txt
+          python -B -m unittest test_daily_rankings
 
       - name: Run tests
         run: python test_ci_commit_push.py

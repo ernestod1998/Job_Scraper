@@ -4,11 +4,12 @@ const makeJobs = count => Array.from({length:count}, (_,i)=>({
   url:`https://jobs.test/${i}`,title:`Software Engineer ${i}`,company:`Company ${i % 100}`,location:'San Francisco, CA',
   salary:'$130,000 - $170,000',date_posted:new Date().toLocaleDateString('en-CA'),ats:'LinkedIn',
 }));
-async function fixture(context, jobs=makeJobs(6), { fail=false }={}) {
+async function fixture(context, jobs=makeJobs(6), { fail=false, rankings={version:1,scores:{}} }={}) {
   const external=[];
   await context.route('**/*',async route=>{
     const url=new URL(route.request().url());
     if(url.origin!=='http://127.0.0.1:8765') {external.push(url.href);return route.abort();}
+    if(url.pathname.endsWith('/ranking_results.json')) return route.fulfill({json:rankings});
     if(url.pathname.endsWith('.json')) return fail ? route.fulfill({status:503,body:'offline'}) : route.fulfill({json:{jobs:url.pathname.endsWith('/linkedin_jobs.json')?jobs:[],status:'cached',new_jobs:[]}});
     return route.continue();
   });
@@ -119,4 +120,33 @@ test('old links and browser lifecycle never contact sync; import reaches another
   await other.close();await page.reload();await loaded(page);
   expect(external.filter(u=>/triage-sync|upstash/.test(u))).toEqual([]);
   expect(await page.evaluate(()=>JSON.parse(localStorage.getItem('jobTriage:v2')).code)).toBeUndefined();
+});
+
+for (const width of [390, 1440]) test(`daily Rank at ${width}px compares five resumes and preserves decisions`, async ({context,page}) => {
+  await page.setViewportSize({width,height:900});
+  const resumes=['BioScience_ML','ML','DS','SWE','FDE'];
+  const result = n => ({model:'fixture',scores:Object.fromEntries(resumes.map(r=>[r,n])),best_resumes:['SWE'],requirements:[{text:'Python required <img src=x onerror=alert(1)>',importance:'required',hard_eligibility:true,statuses:Object.fromEntries(resumes.map(r=>[r,'matched']))}]});
+  await fixture(context,makeJobs(3),{rankings:{version:1,updated_at:new Date().toISOString(),scores:{
+    'https://jobs.test/0':{status:'valid',luna:result(60)},
+    'https://jobs.test/1':{status:'valid',luna:result(90),sonnet:result(75)},
+    'https://jobs.test/2':{status:'stale',luna:result(100)},
+  }}});
+  await page.goto('triage.html');await loaded(page);
+  await page.locator('#view-rank').click();
+  await expect(page.locator('.job').first()).toHaveAttribute('data-url','https://jobs.test/1');
+  await expect(page.locator('#rank-info')).toContainText('Daily ranking');
+  const first=page.locator('.job').first();
+  await first.locator('.ranking-details > summary').click();
+  await expect(first.locator('tbody tr')).toHaveCount(5);
+  await expect(first.locator('tbody tr').first()).toContainText('90');
+  await expect(first.locator('tbody tr').first()).toContainText('75');
+  await first.getByText('Luna requirements and skills',{exact:true}).click();
+  await expect(first.locator('.ranking-details img')).toHaveCount(0);
+  await expect(first.locator('.match-statuses').first()).toContainText('Matched');
+  expect(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth)).toBe(true);
+  await first.getByRole('button',{name:'Save',exact:false}).click();
+  await page.locator('#view-browse').click();
+  await expect(page.locator('.job[data-url="https://jobs.test/1"]')).toHaveAttribute('data-state','saved');
+  await page.locator('#view-rank').click();
+  await expect(page.locator('.job').last()).toHaveAttribute('data-url','https://jobs.test/2');
 });
