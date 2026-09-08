@@ -157,3 +157,22 @@ for (const width of [390, 1440]) test(`daily Rank at ${width}px compares five re
   await page.locator('#view-rank').click();
   await expect(page.locator('.job[data-url="https://jobs.test/1"]')).toHaveCount(0);
 });
+
+test('Rank preserves cross-post scores and hides applied aliases', async ({context,page}) => {
+  const jobs=makeJobs(2);
+  const alias={...jobs[0],url:'https://jobs.test/alias',description:'Richer cross-post'};
+  const resumes=['BioScience_ML','ML','DS','SWE','FDE'];
+  const luna={scores:Object.fromEntries(resumes.map(r=>[r,95])),best_resumes:['SWE'],requirements:[]};
+  await fixture(context,[...jobs,alias],{rankings:{version:1,scores:{[jobs[0].url]:{status:'valid',luna}}}});
+  await context.addInitScript(url=>localStorage.setItem('jobTriage:v2',JSON.stringify({v:2,jobs:[],triage:{[url]:{s:'applied',t:Date.now()}}})),jobs[0].url);
+  await page.goto('triage.html');await loaded(page);
+  await page.locator('#view-rank').click();
+  await expect(page.locator('.job')).toHaveCount(1);
+  await page.locator('#view-browse').click();
+  const card=page.locator('.job[data-url="https://jobs.test/alias"]');
+  await expect(card).toHaveAttribute('data-state','applied');
+  await card.locator('.act.applied').click();
+  await page.locator('#view-rank').click();
+  await expect(page.locator('.job').first()).toHaveAttribute('data-url','https://jobs.test/alias');
+  await expect(page.locator('.job').first().locator('.scorechip')).toHaveText('95');
+});

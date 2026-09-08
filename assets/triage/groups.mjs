@@ -64,5 +64,17 @@ function _mergeCluster(cluster) {
     const w = cluster.find(j => j._salMin != null);
     if (w) { primary._salMin = w._salMin; primary._salMax = w._salMax; primary._salDisp = w._salDisp; }
   }
+  // The richer posting chosen for the card may be an unscored cross-post.
+  // Keep a scored member's comparison instead of losing it during de-duplication.
+  if (primary._score == null) {
+    const ranked = cluster.filter(j => j._score != null).sort((a, b) =>
+      String(b._ranking?.scored_at || '').localeCompare(String(a._ranking?.scored_at || ''))
+      || a.url.localeCompare(b.url))[0];
+    if (ranked) {
+      primary._score = ranked._score;
+      primary._ranking = ranked._ranking;
+      primary._verdict = ranked._verdict;
+    }
+  }
   return primary;
 }
