@@ -1,8 +1,8 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-09-08 02:17 UTC*
+*Last updated: 2026-09-08 03:17 UTC*
 
 **1 new role(s)** since last run · 1 total in last 1h
 
-### [Applied AI/ML Engineer](https://www.linkedin.com/jobs/view/4443643517/) — Objective Partners
-- 📍 **Location:** New York, NY
+### [Software Engineer SMTS](https://www.linkedin.com/jobs/view/4464435129/) — Salesforce
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-09-07
