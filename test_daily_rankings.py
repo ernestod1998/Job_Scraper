@@ -7,7 +7,7 @@ from datetime import datetime, timezone, timedelta
 from types import SimpleNamespace
 
 from benchmark.core import RESUMES, scores
-from daily_rankings import Runner
+from daily_rankings import Runner, schedule_due
 from ranking.core import projection, queue, shortlist
 
 NOW = datetime(2026, 9, 8, 17, tzinfo=timezone.utc)
@@ -151,6 +151,15 @@ class Tests(unittest.TestCase):
         r.run([job(i) for i in range(10)], fetcher=lambda j: j, run_limits={'luna': 2, 'sonnet': 1})
         self.assertEqual(r.output['attempts_today'], {'luna': 2, 'sonnet': 1})
         self.assertEqual(self.runner().remaining('luna'), 48)
+
+    def test_schedule_handles_dst_and_skips_completed_day(self):
+        winter = datetime(2026, 12, 8, 16, 15, tzinfo=timezone.utc)
+        self.assertFalse(schedule_due(winter))
+        self.assertTrue(schedule_due(winter + timedelta(hours=1)))
+        summer = datetime(2026, 9, 8, 16, 15, tzinfo=timezone.utc)
+        self.assertTrue(schedule_due(summer))
+        self.assertFalse(schedule_due(summer + timedelta(hours=1), '2026-09-08'))
+        self.assertTrue(schedule_due(summer + timedelta(hours=1), '2026-09-07'))
 
 
 if __name__ == '__main__':

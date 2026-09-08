@@ -16,6 +16,11 @@ FEEDS = ('all_jobs.json', 'jobs.json', 'linkedin_jobs.json', 'indeed_jobs.json',
          'usajobs_jobs.json', 'governmentjobs_jobs.json', 'calopps_jobs.json', 'calcareers_jobs.json')
 
 
+def schedule_due(now, completed_day=None):
+    local = now.astimezone(ZoneInfo('America/Los_Angeles'))
+    return local.hour >= 9 and completed_day != local.date().isoformat()
+
+
 def load_jobs():
     jobs = {}
     for name in FEEDS:
@@ -200,14 +205,14 @@ class Runner:
 
 def main():
     now = datetime.now(timezone.utc)
-    if os.environ.get('GITHUB_EVENT_NAME') == 'schedule' and now.astimezone(ZoneInfo('America/Los_Angeles')).hour < 9:
+    if os.environ.get('GITHUB_EVENT_NAME') == 'schedule' and not schedule_due(now):
         return
     inputs = json.loads(os.environ['RANKING_INPUTS'])
     store = GitHubStore(os.environ['GITHUB_REPOSITORY'], os.environ['GITHUB_TOKEN'])
     store.initialize()
     runner = Runner(store, inputs, now)
     scheduled = os.environ.get('GITHUB_EVENT_NAME') == 'schedule'
-    if scheduled and runner.state.get('completed_schedule') == runner.day:
+    if scheduled and not schedule_due(now, runner.state.get('completed_schedule')):
         return
     try:
         limits = {n: min(LIMITS[n], max(0, int(os.environ.get('RUN_' + n.upper()) or LIMITS[n]))) for n in LIMITS}
