@@ -146,6 +146,12 @@ class Tests(unittest.TestCase):
         self.assertEqual(len(r.output['scores']), 50)
         self.assertEqual(self.adapter.calls, 50)
 
+    def test_smoke_limits_share_daily_quota(self):
+        r = self.runner()
+        r.run([job(i) for i in range(10)], fetcher=lambda j: j, run_limits={'luna': 2, 'sonnet': 1})
+        self.assertEqual(r.output['attempts_today'], {'luna': 2, 'sonnet': 1})
+        self.assertEqual(self.runner().remaining('luna'), 48)
+
 
 if __name__ == '__main__':
     unittest.main()

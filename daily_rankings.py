@@ -166,13 +166,14 @@ class Runner:
                 same = previous.get('context') == self.context and previous.get('description_hash') == full['description_hash']
                 self.output['scores'][job['url']] = {**(previous if same else {}),
                     'url': job['url'], 'context': self.context, 'description_hash': full['description_hash'],
-                    'status': 'valid', 'luna': luna, 'scored_at': self.now.isoformat()}
+                    'status': 'valid', 'luna': luna,
+                    'scored_at': previous.get('scored_at', self.now.isoformat()) if same else self.now.isoformat()}
             else:
                 self.output['scores'][job['url']] = {'status': 'invalid_or_unknown', 'context': self.context}
             self.publish()
         eligible = [v for u, v in self.output['scores'].items()
                     if u in candidates_by_url and v.get('context') == self.context
-                    and v.get('status') == 'valid' and 'sonnet' not in v]
+                    and v.get('status') == 'valid' and 'sonnet' not in v and not v.get('sonnet_status')]
         for item in shortlist(eligible):
             if self.remaining('sonnet') <= 0 or self.state['days'][self.day]['sonnet'] - starting['sonnet'] >= run_limits['sonnet']:
                 break
