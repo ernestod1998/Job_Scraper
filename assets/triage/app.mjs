@@ -120,6 +120,7 @@ function resetLimitForFilters() {
 
 // `except` skips one dimension so a facet's pills don't constrain their own counts.
 function matchesFilters(j, except) {
+  if (viewMode === 'rank' && ['applied', 'dismissed'].includes(tri(j.url))) return false;
   // Merged cross-posts carry every source in _srcs (single jobs: [_src]).
   const srcs = j._srcs || [j._src];
   if (except !== 'source' && filters.source.size && !srcs.some(s => filters.source.has(s))) return false;
@@ -240,6 +241,7 @@ function renderStateFilter() {
     counts[tri(j.url) || 'active']++;
   });
   opts.forEach(([k, label]) => {
+    if (viewMode === 'rank' && ['applied', 'dismissed'].includes(k)) return;
     const active = filters.state.has(k);
     const p = document.createElement('button');
     p.type = 'button';
@@ -329,8 +331,9 @@ function renderJobs() {
     jobs = jobs.slice().sort((a, b) =>
       ((b._score ?? -1) - (a._score ?? -1)) || compareByDate(a, b, filters.sort));
     const scored = jobs.filter(j => j._score != null).length;
+    const reviewed = jobs.filter(j => j._ranking?.sonnet && j._score != null).length;
     info.hidden = false;
-    info.textContent = `Daily ranking · ${scored} of ${jobs.length} visible roles scored. Up to 50 jobs with Luna + 5 Sonnet reviews per day, against five resumes. ${rankingUnavailable ? 'Ranking data currently unavailable.' : rankingUpdate ? 'Updated ' + new Date(rankingUpdate).toLocaleString() + '.' : 'First daily run pending.'} Unscored roles appear last.`;
+    info.textContent = `Daily ranking · ${scored} Luna-scored jobs · ${reviewed} Sonnet reviews. Applied and dismissed jobs are hidden. The worker selects newest postings first, up to 50 jobs + 5 reviews daily. ${rankingUnavailable ? 'Ranking data currently unavailable.' : rankingUpdate ? 'Updated ' + new Date(rankingUpdate).toLocaleString() + '.' : 'First daily run pending.'} New results are published during the run; use Refresh to load them. Unscored roles appear last.`;
   } else {
     jobs = jobs.slice().sort((a, b) => compareByDate(a, b, filters.sort));
     info.hidden = true;
@@ -741,14 +744,22 @@ $('undo-btn').onclick = async () => {
 };
 
 // Browse / Rank view toggle
+let browseStates = null;
 function setView(mode) {
   if (mode === 'rank' && !ENABLE_SCORING) mode = 'browse';
+  if (mode === 'rank' && viewMode !== 'rank') {
+    browseStates = new Set(filters.state);
+    filters.state = new Set(['active', 'saved']);
+  } else if (viewMode === 'rank' && mode !== 'rank' && browseStates) {
+    filters.state = browseStates;
+    browseStates = null;
+  }
   viewMode = mode;
   ['browse', 'rank', 'map'].forEach(m => {
     const b = $('view-' + m);
     if (b) { b.classList.toggle('on', mode === m); b.setAttribute('aria-pressed', String(mode === m)); }
   });
-  renderJobs();
+  renderAll();
 }
 $('view-browse').onclick = () => setView('browse');
 $('view-rank').onclick = () => setView('rank');

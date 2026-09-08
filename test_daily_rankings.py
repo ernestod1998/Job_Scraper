@@ -152,6 +152,20 @@ class Tests(unittest.TestCase):
         self.assertEqual(r.output['attempts_today'], {'luna': 2, 'sonnet': 1})
         self.assertEqual(self.runner().remaining('luna'), 48)
 
+    def test_newest_postings_first_and_old_reposts_excluded(self):
+        old = {**job(1), 'date_posted': '2026-09-06', 'title': 'Data Scientist'}
+        newest = {**job(2), 'date_posted': '2026-09-08'}
+        repost = {**job(3), 'date_posted': '2026-08-01', 'first_seen': '2026-09-08'}
+        self.assertEqual([j['id'] for j in queue([old, repost, newest], NOW)], ['2', '1'])
+
+    def test_existing_urls_do_not_consume_new_job_budget(self):
+        r = self.runner()
+        r.score(job(1), 'luna')
+        changed = {**job(1), 'evidence': {'JD:1': 'Posting changed'}, 'description_hash': 'changed'}
+        r.run([changed, job(2)], fetcher=lambda j: j, run_limits={'luna': 1, 'sonnet': 0})
+        self.assertEqual(self.adapter.calls, 2)
+        self.assertEqual(r.output['scores'][job(2)['url']]['status'], 'valid')
+
     def test_schedule_handles_dst_and_skips_completed_day(self):
         winter = datetime(2026, 12, 8, 16, 15, tzinfo=timezone.utc)
         self.assertFalse(schedule_due(winter))

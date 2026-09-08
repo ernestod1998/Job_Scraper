@@ -27,6 +27,10 @@ jobs:
         with:
           python-version: '3.11'
       - run: pip install -r requirements-benchmark.txt
+      - name: Configure ranking publisher
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
       - name: Rank new jobs and review strongest matches
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}

@@ -59,10 +59,14 @@ def stamp(job):
         return 0
 
 
+def posted_stamp(job):
+    return stamp({'first_seen': job.get('date_posted')}) or stamp(job)
+
+
 def queue(jobs, now, initial=False):
     groups = {r: [] for r in RESUMES}
     seen = set()
-    for job in sorted(jobs, key=lambda j: (stamp(j), j.get('url', ''))):
+    for job in sorted(jobs, key=lambda j: (-posted_stamp(j), -stamp(j), j.get('url', ''))):
         family = track(job)
         location = job.get('location', '')
         if not family or not re.search(r'remote|san francisco|bay area|palo alto|san jose|san mateo|san carlos|redwood|mountain view|sunnyvale|south san|oakland|berkeley|new york|\bNYC\b|menlo park|foster city', location, re.I):
@@ -70,16 +74,19 @@ def queue(jobs, now, initial=False):
         age = (now.timestamp() - stamp(job)) / 86400
         if not 0 <= age <= (7 if initial else 14):
             continue
+        if not 0 <= (now.timestamp() - posted_stamp(job)) / 86400 <= 7:
+            continue
         duplicate = tuple(re.sub(r'\W+', '', job.get(k, '').lower()) for k in ('company', 'title', 'location'))
         if duplicate in seen:
             continue
         seen.add(duplicate)
         groups[family].append(job)
-    # Round-robin gives each populated track ten slots, then borrows unused slots.
+    # Balance tracks within a posting day, finishing newer days before older ones.
     result = []
     while any(groups.values()):
+        newest_day = max(int(posted_stamp(group[0]) // 86400) for group in groups.values() if group)
         for group in groups.values():
-            if group:
+            if group and int(posted_stamp(group[0]) // 86400) == newest_day:
                 result.append(group.pop(0))
     return result
 

@@ -2,6 +2,9 @@
 """Daily matching. Only allowlisted public projections leave the worker."""
 import json
 import os
+import subprocess
+import sys
+import time
 from datetime import datetime, timezone, timedelta
 from pathlib import Path
 from urllib.parse import urlparse
@@ -54,8 +57,9 @@ def full_job(job):
 
 
 class Runner:
-    def __init__(self, store, inputs, now=None, adapters=None):
+    def __init__(self, store, inputs, now=None, adapters=None, on_publish=None):
         self.store, self.inputs = store, inputs
+        self.on_publish = on_publish
         self.now = now or datetime.now(timezone.utc)
         self.day = self.now.astimezone(ZoneInfo('America/Los_Angeles')).date().isoformat()
         self.context = digest({'inputs': inputs, 'system': DAILY_SYSTEM, 'version': VERSION,
@@ -127,6 +131,8 @@ class Runner:
         self.output['attempts_today'] = self.state['days'][self.day]
         self.output['updated_at'] = datetime.now(timezone.utc).isoformat()
         Path('ranking_results.json').write_text(json.dumps(self.output, ensure_ascii=False, indent=2) + '\n')
+        if self.on_publish:
+            self.on_publish()
 
     def run(self, jobs, fetcher=full_job, run_limits=None):
         run_limits = run_limits or LIMITS
@@ -154,9 +160,14 @@ class Runner:
             elif same and 'luna' in old:
                 old['sonnet'] = saved
         prepared = {}
+        self.publish()  # Make recovered results visible before more paid work.
         candidates = queue([j for j in jobs if stamp(j) >= self.state['seed_floor']], self.now, self.initial)
         candidates_by_url = {j['url']: j for j in candidates}
+        attempted = {a['url'] for a in self.state['attempts'].values()
+                     if a.get('context') == self.context and a['provider'] == 'luna'}
         for job in candidates:
+            if job['url'] in attempted:
+                continue
             if self.remaining('luna') <= 0 or self.state['days'][self.day]['luna'] - starting['luna'] >= run_limits['luna']:
                 break
             try:
@@ -203,6 +214,21 @@ class Runner:
         self.publish()
 
 
+def progress_publisher():
+    last = [None]
+    def publish():
+        current = time.monotonic()
+        if last[0] is not None and current - last[0] < 300:
+            return
+        last[0] = current
+        subprocess.run([sys.executable, 'ci_commit_push.py', '--message',
+                        'chore: publish ranking progress', 'ranking_results.json'], check=True)
+        subprocess.run(['gh', 'api', '--method', 'POST',
+                        'repos/' + os.environ['GITHUB_REPOSITORY'] + '/pages/builds', '--silent'],
+                       check=True, env={**os.environ, 'GH_TOKEN': os.environ['GITHUB_TOKEN']})
+    return publish
+
+
 def main():
     now = datetime.now(timezone.utc)
     if os.environ.get('GITHUB_EVENT_NAME') == 'schedule' and not schedule_due(now):
@@ -210,7 +236,7 @@ def main():
     inputs = json.loads(os.environ['RANKING_INPUTS'])
     store = GitHubStore(os.environ['GITHUB_REPOSITORY'], os.environ['GITHUB_TOKEN'])
     store.initialize()
-    runner = Runner(store, inputs, now)
+    runner = Runner(store, inputs, now, on_publish=progress_publisher())
     scheduled = os.environ.get('GITHUB_EVENT_NAME') == 'schedule'
     if scheduled and not schedule_due(now, runner.state.get('completed_schedule')):
         return

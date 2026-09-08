@@ -149,4 +149,11 @@ for (const width of [390, 1440]) test(`daily Rank at ${width}px compares five re
   await expect(page.locator('.job[data-url="https://jobs.test/1"]')).toHaveAttribute('data-state','saved');
   await page.locator('#view-rank').click();
   await expect(page.locator('.job').last()).toHaveAttribute('data-url','https://jobs.test/2');
+  await page.locator('.job[data-url="https://jobs.test/1"] .act.applied').click();
+  await expect(page.locator('.job[data-url="https://jobs.test/1"]')).toHaveCount(0);
+  await expect(page.locator('#filter-state')).not.toContainText('Applied');
+  await page.locator('#view-browse').click();
+  await expect(page.locator('.job[data-url="https://jobs.test/1"]')).toHaveAttribute('data-state','applied');
+  await page.locator('#view-rank').click();
+  await expect(page.locator('.job[data-url="https://jobs.test/1"]')).toHaveCount(0);
 });
