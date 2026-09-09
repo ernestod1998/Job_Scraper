@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-09-09T19:21:15.351521+00:00",
+  "updated_at": "2026-09-09T19:26:39.286760+00:00",
   "day": "2026-09-09",
   "context": "82bea7faf9add1960b42f0a2572b8295e284d851f2b663c29fbf8ae3dceb3486",
   "scores": {
@@ -9212,6 +9212,1045 @@
     "https://www.linkedin.com/jobs/view/4455933546/": {
       "status": "invalid_or_unknown",
       "context": "82bea7faf9add1960b42f0a2572b8295e284d851f2b663c29fbf8ae3dceb3486"
+    },
+    "https://www.indeed.com/viewjob?jk=17ec79b2caaffd45": {
+      "url": "https://www.indeed.com/viewjob?jk=17ec79b2caaffd45",
+      "context": "82bea7faf9add1960b42f0a2572b8295e284d851f2b663c29fbf8ae3dceb3486",
+      "description_hash": "e6f6cd9bb817ede9a8668002c9d6fbfce1dcceb42ea8636b7e7c69cef79f656e",
+      "status": "valid",
+      "luna": {
+        "model": "gpt-5.6-luna",
+        "scores": {
+          "BioScience_ML": 62,
+          "ML": 69,
+          "DS": 62,
+          "SWE": 81,
+          "FDE": 81
+        },
+        "best_resumes": [
+          "FDE",
+          "SWE"
+        ],
+        "requirements": [
+          {
+            "text": "* Brings at least three years of experience in Full\\-Stack development.",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial"
+            }
+          },
+          {
+            "text": "* Displays excellent software engineering fundamentals, including knowledge of algorithms and data structures.",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "matched",
+              "FDE": "matched"
+            }
+          },
+          {
+            "text": "* Is ready to tackle infrastructure challenges when needed.",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "matched",
+              "FDE": "matched"
+            }
+          },
+          {
+            "text": "* Knows modern web client development and testing tools.",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "not_evidenced",
+              "ML": "partial",
+              "DS": "not_evidenced",
+              "SWE": "partial",
+              "FDE": "partial"
+            }
+          },
+          {
+            "text": "* Has experience building, deploying, and debugging production systems at scale.",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "matched",
+              "FDE": "matched"
+            }
+          },
+          {
+            "text": "* Demonstrates perseverance when faced with tough technical issues.",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "matched",
+              "FDE": "matched"
+            }
+          },
+          {
+            "text": "* Cares about the end\\-user experience and strives to ensure high quality.",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "matched",
+              "FDE": "matched"
+            }
+          },
+          {
+            "text": "* Has a demonstrated ability to work independently with minimal guidance, proactively manages tasks and priorities across multiple projects, analyzes and executes work efficiently, collaborates effectively with cross\\-functional teams, and thrives in fast\\-paced, results\\-driven environments",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial"
+            }
+          }
+        ],
+        "usage": {
+          "input": 8966,
+          "output": 4466,
+          "thinking": 1736,
+          "cached": 0,
+          "cache_write": 8963,
+          "cost": 7600550
+        }
+      },
+      "scored_at": "2026-09-09T19:15:44.334554+00:00"
+    },
+    "https://www.linkedin.com/jobs/view/4455905072/": {
+      "url": "https://www.linkedin.com/jobs/view/4455905072/",
+      "context": "82bea7faf9add1960b42f0a2572b8295e284d851f2b663c29fbf8ae3dceb3486",
+      "description_hash": "1b8268bb59db556945954647a10067d0f1e88d8216ae2c83561f7479cb7d846e",
+      "status": "valid",
+      "luna": {
+        "model": "gpt-5.6-luna",
+        "scores": {
+          "BioScience_ML": 97,
+          "ML": 97,
+          "DS": 97,
+          "SWE": 97,
+          "FDE": 97
+        },
+        "best_resumes": [
+          "BioScience_ML",
+          "DS",
+          "FDE",
+          "ML",
+          "SWE"
+        ],
+        "requirements": [
+          {
+            "text": "3+ years of building models for business application experience",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "matched",
+              "FDE": "matched"
+            }
+          },
+          {
+            "text": "PhD, or Master's degree and 4+ years of CS, CE, ML or related field experience",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "matched",
+              "FDE": "matched"
+            }
+          },
+          {
+            "text": "Experience programming in Java, C++, Python or related language",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "matched",
+              "FDE": "matched"
+            }
+          },
+          {
+            "text": "Experience in any of the following areas: algorithms and data structures, parsing, numerical optimization, data mining, parallel and distributed computing, high-performance computing",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "matched",
+              "FDE": "matched"
+            }
+          },
+          {
+            "text": "We are looking for a thought leader that has an aptitude for delivering customer-focused solutions and who enjoys working on the intersection of Big-Data analytics, Machine/Deep Learning, and Causal Inference. A successful candidate will be a self-starter, comfortable with ambiguity, able to think big and be creative, while still paying careful attention to detail. You should be able to translate how data represents the customer journey, be comfortable dealing with large and complex data sets, and have experience using machine learning and/or econometric modeling to solve business problems. You should have strong analytical and communication skills, be able to work with product managers to define key business questions and work with the engineering team to bring our solutions into production. You will join a highly collaborative and diverse working environment that will empower you to shape the future of Amazon advertising, and also allow you to become part of our large science community.",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "matched",
+              "FDE": "matched"
+            }
+          },
+          {
+            "text": "We are looking for a thought leader that has an aptitude for delivering customer-focused solutions and who enjoys working on the intersection of Big-Data analytics, Machine/Deep Learning, and Causal Inference. A successful candidate will be a self-starter, comfortable with ambiguity, able to think big and be creative, while still paying careful attention to detail. You should be able to translate how data represents the customer journey, be comfortable dealing with large and complex data sets, and have experience using machine learning and/or econometric modeling to solve business problems. You should have strong analytical and communication skills, be able to work with product managers to define key business questions and work with the engineering team to bring our solutions into production. You will join a highly collaborative and diverse working environment that will empower you to shape the future of Amazon advertising, and also allow you to become part of our large science community.",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "matched",
+              "FDE": "matched"
+            }
+          },
+          {
+            "text": "We are looking for a thought leader that has an aptitude for delivering customer-focused solutions and who enjoys working on the intersection of Big-Data analytics, Machine/Deep Learning, and Causal Inference. A successful candidate will be a self-starter, comfortable with ambiguity, able to think big and be creative, while still paying careful attention to detail. You should be able to translate how data represents the customer journey, be comfortable dealing with large and complex data sets, and have experience using machine learning and/or econometric modeling to solve business problems. You should have strong analytical and communication skills, be able to work with product managers to define key business questions and work with the engineering team to bring our solutions into production. You will join a highly collaborative and diverse working environment that will empower you to shape the future of Amazon advertising, and also allow you to become part of our large science community.",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "matched",
+              "FDE": "matched"
+            }
+          },
+          {
+            "text": "Do you want to lead the Ads industry and redefine how we measure the effectiveness of Amazon Ads business? Are you passionate about causal inference, Deep Learning & AI, raising the science bar, and connecting leading-edge science research to Amazon-scale implementation? If so, come join Amazon Ads to be a science leader within our Advertising Incrementality Measurement science team!",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial"
+            }
+          },
+          {
+            "text": "Experience using Unix/Linux",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "matched",
+              "FDE": "matched"
+            }
+          },
+          {
+            "text": "Experience in professional software development",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "matched",
+              "FDE": "matched"
+            }
+          }
+        ],
+        "usage": {
+          "input": 8548,
+          "output": 4645,
+          "thinking": 1304,
+          "cached": 0,
+          "cache_write": 8545,
+          "cost": 7710850
+        }
+      },
+      "scored_at": "2026-09-09T19:15:44.334554+00:00"
+    },
+    "https://www.indeed.com/viewjob?jk=b16d3edd0e7c65e0": {
+      "url": "https://www.indeed.com/viewjob?jk=b16d3edd0e7c65e0",
+      "context": "82bea7faf9add1960b42f0a2572b8295e284d851f2b663c29fbf8ae3dceb3486",
+      "description_hash": "bf55a41df3f9b67cc9b847344fd12eb11e0e997ed28abcfc63e1e8b8701c36c4",
+      "status": "valid",
+      "luna": {
+        "model": "gpt-5.6-luna",
+        "scores": {
+          "BioScience_ML": 75,
+          "ML": 75,
+          "DS": 75,
+          "SWE": 75,
+          "FDE": 75
+        },
+        "best_resumes": [
+          "BioScience_ML",
+          "DS",
+          "FDE",
+          "ML",
+          "SWE"
+        ],
+        "requirements": [
+          {
+            "text": "* Master's degree in a quantitative discipline such as Statistics, Engineering, Sciences, or equivalent practical experience.",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial"
+            }
+          },
+          {
+            "text": "* 3 years of experience using analytics to solve product or business problems, coding (e.g., Python, R, SQL), querying databases or statistical analysis, or a relevant PhD degree.",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "matched",
+              "FDE": "matched"
+            }
+          },
+          {
+            "text": "* PhD in a quantitative discipline such as Computer Science, Engineering, Economics, Statistics, Mathematics, Physics, Neuroscience, or equivalent practical experience.",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "matched",
+              "FDE": "matched"
+            }
+          },
+          {
+            "text": "* 4 years of experience using analytics to solve product or business problems, coding (e.g., Python, R, SQL), querying databases or statistical analysis, or a relevant PhD degree.",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "matched",
+              "FDE": "matched"
+            }
+          },
+          {
+            "text": "* Experience in driving a project from an experimental idea to a proof\\-of\\-concept to a launched product feature.",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "not_evidenced",
+              "ML": "not_evidenced",
+              "DS": "not_evidenced",
+              "SWE": "not_evidenced",
+              "FDE": "not_evidenced"
+            }
+          },
+          {
+            "text": "* Experience in publications and working with technologies.",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "matched",
+              "FDE": "matched"
+            }
+          }
+        ],
+        "usage": {
+          "input": 8352,
+          "output": 3427,
+          "thinking": 1094,
+          "cached": 0,
+          "cache_write": 8349,
+          "cost": 6200250
+        }
+      },
+      "scored_at": "2026-09-09T19:15:44.334554+00:00"
+    },
+    "https://www.linkedin.com/jobs/view/4463888439/": {
+      "url": "https://www.linkedin.com/jobs/view/4463888439/",
+      "context": "82bea7faf9add1960b42f0a2572b8295e284d851f2b663c29fbf8ae3dceb3486",
+      "description_hash": "6093b4d1d03f23b1162e81e8a2442c64e2deaf15643f8b1cb71901905c590dfc",
+      "status": "valid",
+      "luna": {
+        "model": "gpt-5.6-luna",
+        "scores": {
+          "BioScience_ML": 35,
+          "ML": 35,
+          "DS": 35,
+          "SWE": 35,
+          "FDE": 35
+        },
+        "best_resumes": [
+          "BioScience_ML",
+          "DS",
+          "FDE",
+          "ML",
+          "SWE"
+        ],
+        "requirements": [
+          {
+            "text": "At this time, we are only able to consider candidates who are authorized to work in the United States without sponsorship.",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "not_evidenced",
+              "ML": "not_evidenced",
+              "DS": "not_evidenced",
+              "SWE": "not_evidenced",
+              "FDE": "not_evidenced"
+            }
+          },
+          {
+            "text": "Bachelor's or Master's degree in Data Science, Computer Science, Statistics, Mathematics, Engineering, Information Technology, or a related field.",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "matched",
+              "FDE": "matched"
+            }
+          },
+          {
+            "text": "with 3–4 years of professional experience to design, develop, evaluate, and implement data science and machine-learning solutions.",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "confirmed_unmet",
+              "ML": "confirmed_unmet",
+              "DS": "confirmed_unmet",
+              "SWE": "confirmed_unmet",
+              "FDE": "confirmed_unmet"
+            }
+          },
+          {
+            "text": "The ideal candidate will have strong expertise in Python, SQL, machine learning, statistical analysis, and data visualization, along with the ability to independently drive analytical projects and communicate results to technical and business stakeholders.",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "matched",
+              "FDE": "matched"
+            }
+          },
+          {
+            "text": "Advanced SQL skills, including complex joins, CTEs, window functions, subqueries, query optimization, and data aggregation.",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial"
+            }
+          },
+          {
+            "text": "pandas, NumPy, SciPy, scikit-learn, Regression, Classification, Clustering, Ensemble Methods, Feature Engineering, Model Optimization, Model Evaluation",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "matched",
+              "FDE": "matched"
+            }
+          },
+          {
+            "text": "Hands-on experience with pandas, NumPy, SciPy, scikit-learn, and related data-science frameworks.",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial"
+            }
+          },
+          {
+            "text": "Experience with feature engineering, model validation, hyperparameter tuning, and model performance evaluation.",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "matched",
+              "FDE": "matched"
+            }
+          },
+          {
+            "text": "Experience with Power BI, Tableau, or other data visualization technologies.",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "not_evidenced",
+              "ML": "not_evidenced",
+              "DS": "not_evidenced",
+              "SWE": "not_evidenced",
+              "FDE": "not_evidenced"
+            }
+          },
+          {
+            "text": "Experience working with large datasets and modern cloud/data platforms.",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "matched",
+              "FDE": "matched"
+            }
+          },
+          {
+            "text": "Strong analytical, problem-solving, communication, and stakeholder-management skills.",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "matched"
+            }
+          },
+          {
+            "text": "Experience developing end-to-end machine-learning solutions.",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "matched",
+              "FDE": "matched"
+            }
+          },
+          {
+            "text": "Experience deploying machine-learning models into production environments.",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "matched",
+              "FDE": "matched"
+            }
+          },
+          {
+            "text": "Knowledge of MLOps and model lifecycle management.",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "matched",
+              "FDE": "matched"
+            }
+          },
+          {
+            "text": "Experience with NLP, time-series forecasting, recommendation systems, or deep learning.",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "matched",
+              "FDE": "matched"
+            }
+          },
+          {
+            "text": "Experience with Spark/PySpark for large-scale data processing.",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "matched",
+              "FDE": "not_evidenced"
+            }
+          },
+          {
+            "text": "Familiarity with cloud-based machine-learning services.",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "matched",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "matched"
+            }
+          },
+          {
+            "text": "Knowledge of A/B testing and advanced statistical methods.",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "not_evidenced",
+              "FDE": "partial"
+            }
+          },
+          {
+            "text": "Experience building automated data science and machine-learning pipelines.",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "matched",
+              "FDE": "matched"
+            }
+          },
+          {
+            "text": "Ability to mentor junior data scientists and collaborate across technical teams.",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial"
+            }
+          },
+          {
+            "text": "Cloud, Data Science, Machine Learning, or Analytics certifications are a plus.",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "not_evidenced",
+              "ML": "not_evidenced",
+              "DS": "not_evidenced",
+              "SWE": "not_evidenced",
+              "FDE": "not_evidenced"
+            }
+          },
+          {
+            "text": "The ideal candidate will have strong expertise in Python, SQL, machine learning, statistical analysis, and data visualization, along with the ability to independently drive analytical projects and communicate results to technical and business stakeholders.",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "partial",
+              "SWE": "matched",
+              "FDE": "matched"
+            }
+          }
+        ],
+        "usage": {
+          "input": 8806,
+          "output": 8292,
+          "thinking": 1483,
+          "cached": 0,
+          "cache_write": 8803,
+          "cost": 12151750
+        }
+      },
+      "scored_at": "2026-09-09T19:15:44.334554+00:00"
+    },
+    "https://www.indeed.com/viewjob?jk=22348f1de90cb84d": {
+      "url": "https://www.indeed.com/viewjob?jk=22348f1de90cb84d",
+      "context": "82bea7faf9add1960b42f0a2572b8295e284d851f2b663c29fbf8ae3dceb3486",
+      "description_hash": "370c98b5c4c3cabaf6425683d47f839631bbe174b9ccadf1f309148ded1243e2",
+      "status": "valid",
+      "luna": {
+        "model": "gpt-5.6-luna",
+        "scores": {
+          "BioScience_ML": 27,
+          "ML": 27,
+          "DS": 27,
+          "SWE": 27,
+          "FDE": 27
+        },
+        "best_resumes": [
+          "BioScience_ML",
+          "DS",
+          "FDE",
+          "ML",
+          "SWE"
+        ],
+        "requirements": [
+          {
+            "text": "* Graduation from a top\\-tier university or an exceptional academic track record, including highest honors, Distinctions, and top\\-percentile GPA and SAT scores",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial"
+            }
+          },
+          {
+            "text": "* Proven elite problem\\-solving ability — you likely hold medals in international olympiads (IMO, IPhO, IOI) or top rankings in the Putnam Competition",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial"
+            }
+          },
+          {
+            "text": "* A deep, intrinsic love for rigorous analytical challenges — you are an academic at heart who thrives in deeply complex, theoretical environments",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "not_evidenced",
+              "ML": "not_evidenced",
+              "DS": "not_evidenced",
+              "SWE": "not_evidenced",
+              "FDE": "not_evidenced"
+            }
+          },
+          {
+            "text": "* Intense intellectual curiosity outside of work, often demonstrated through pursuits like a high chess Elo, a deep appreciation for classical music, or exploring abstract mathematical concepts for fun",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "not_evidenced",
+              "ML": "not_evidenced",
+              "DS": "not_evidenced",
+              "SWE": "not_evidenced",
+              "FDE": "not_evidenced"
+            }
+          },
+          {
+            "text": "* A Master's degree or PhD in Mathematics, Physics, Statistics, Computer Science, or a related highly quantitative discipline is a major plus",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial"
+            }
+          },
+          {
+            "text": "* Published research in prestigious academic journals or presentations at premier conferences",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial"
+            }
+          },
+          {
+            "text": "* While prior quantitative finance experience is welcome, purely academic backgrounds with absolutely zero finance or industry experience are highly encouraged to apply",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "not_evidenced",
+              "ML": "not_evidenced",
+              "DS": "not_evidenced",
+              "SWE": "not_evidenced",
+              "FDE": "not_evidenced"
+            }
+          }
+        ],
+        "usage": {
+          "input": 8114,
+          "output": 3580,
+          "thinking": 1287,
+          "cached": 0,
+          "cache_write": 8111,
+          "cost": 6324350
+        }
+      },
+      "scored_at": "2026-09-09T19:15:44.334554+00:00"
+    },
+    "https://www.linkedin.com/jobs/view/4455923467/": {
+      "url": "https://www.linkedin.com/jobs/view/4455923467/",
+      "context": "82bea7faf9add1960b42f0a2572b8295e284d851f2b663c29fbf8ae3dceb3486",
+      "description_hash": "977e6a3f1a9c3e75393329ac298cdf61920c705a3b08292d8007a8da275e349b",
+      "status": "valid",
+      "luna": {
+        "model": "gpt-5.6-luna",
+        "scores": {
+          "BioScience_ML": 85,
+          "ML": 85,
+          "DS": 85,
+          "SWE": 85,
+          "FDE": 85
+        },
+        "best_resumes": [
+          "BioScience_ML",
+          "DS",
+          "FDE",
+          "ML",
+          "SWE"
+        ],
+        "requirements": [
+          {
+            "text": "PhD, or Master's degree and 4+ years of CS, CE, ML or related field experience",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial"
+            }
+          },
+          {
+            "text": "Experience programming in Java, C++, Python or related language",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "matched",
+              "FDE": "matched"
+            }
+          },
+          {
+            "text": "Experience in any of the following areas: algorithms and data structures, parsing, numerical optimization, data mining, parallel and distributed computing, high-performance computing",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "matched",
+              "FDE": "matched"
+            }
+          },
+          {
+            "text": "Experience using Unix/Linux",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "matched",
+              "FDE": "matched"
+            }
+          },
+          {
+            "text": "Experience in professional software development",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "matched",
+              "FDE": "matched"
+            }
+          },
+          {
+            "text": "Experience in state-of-the-art deep learning models architecture design and deep learning training and optimization and model pruning",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial"
+            }
+          },
+          {
+            "text": "Experience with Machine and Deep Learning toolkits such as MXNet, TensorFlow, Caffe and PyTorch",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "matched",
+              "FDE": "matched"
+            }
+          }
+        ],
+        "usage": {
+          "input": 8614,
+          "output": 3371,
+          "thinking": 882,
+          "cached": 0,
+          "cache_write": 8611,
+          "cost": 6198550
+        }
+      },
+      "scored_at": "2026-09-09T19:15:44.334554+00:00"
+    },
+    "https://www.indeed.com/viewjob?jk=b524fc7be93392cb": {
+      "url": "https://www.indeed.com/viewjob?jk=b524fc7be93392cb",
+      "context": "82bea7faf9add1960b42f0a2572b8295e284d851f2b663c29fbf8ae3dceb3486",
+      "description_hash": "bf55a41df3f9b67cc9b847344fd12eb11e0e997ed28abcfc63e1e8b8701c36c4",
+      "status": "valid",
+      "luna": {
+        "model": "gpt-5.6-luna",
+        "scores": {
+          "BioScience_ML": 77,
+          "ML": 77,
+          "DS": 77,
+          "SWE": 77,
+          "FDE": 77
+        },
+        "best_resumes": [
+          "BioScience_ML",
+          "DS",
+          "FDE",
+          "ML",
+          "SWE"
+        ],
+        "requirements": [
+          {
+            "text": "* Master's degree in a quantitative discipline such as Statistics, Engineering, Sciences, or equivalent practical experience.",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial"
+            }
+          },
+          {
+            "text": "* 3 years of experience using analytics to solve product or business problems, coding (e.g., Python, R, SQL), querying databases or statistical analysis, or a relevant PhD degree.",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "matched",
+              "FDE": "matched"
+            }
+          },
+          {
+            "text": "* PhD in a quantitative discipline such as Computer Science, Engineering, Economics, Statistics, Mathematics, Physics, Neuroscience, or equivalent practical experience.",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial"
+            }
+          },
+          {
+            "text": "* 4 years of experience using analytics to solve product or business problems, coding (e.g., Python, R, SQL), querying databases or statistical analysis, or a relevant PhD degree.",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "matched",
+              "FDE": "matched"
+            }
+          },
+          {
+            "text": "* Experience in driving a project from an experimental idea to a proof\\-of\\-concept to a launched product feature.",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial"
+            }
+          },
+          {
+            "text": "* Experience in publications and working with technologies.",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "matched",
+              "FDE": "matched"
+            }
+          },
+          {
+            "text": "* Experience in publications and working with technologies.",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "matched",
+              "FDE": "matched"
+            }
+          }
+        ],
+        "usage": {
+          "input": 8354,
+          "output": 4120,
+          "thinking": 1226,
+          "cached": 0,
+          "cache_write": 8351,
+          "cost": 7032350
+        }
+      },
+      "scored_at": "2026-09-09T19:15:44.334554+00:00"
     }
   },
   "limits": {
@@ -9219,7 +10258,7 @@
     "sonnet": 5
   },
   "attempts_today": {
-    "luna": 7,
+    "luna": 14,
     "sonnet": 0
   }
 }
