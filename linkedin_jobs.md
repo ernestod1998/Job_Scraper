@@ -1,98 +1,143 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-09-09 18:19 UTC*
+*Last updated: 2026-09-09 19:19 UTC*
 
-**23 new role(s)** since last run · 51 total in last 1h
+**34 new role(s)** since last run · 64 total in last 1h
 
-### [Machine Learning Engineer, Level 4](https://www.linkedin.com/jobs/view/4437427761/) — Snap Inc.
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-09-09
-
-### [Machine Learning Engineer](https://www.linkedin.com/jobs/view/4465083731/) — Hippocratic AI
-- 📍 **Location:** Menlo Park, CA
-- 🕒 **Posted:** 2026-09-09
-
-### [Applied Scientist II, Amazon, Amazon](https://www.linkedin.com/jobs/view/4455902986/) — Amazon
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-09-09
-
-### [ML Software Engineer, Data Plane](https://www.linkedin.com/jobs/view/4455797974/) — Amazon Web Services (AWS)
+### [Software Engineer- AI/ML, AWS Neuron Distributed Training - Performance Optimization](https://www.linkedin.com/jobs/view/4455933555/) — Amazon Web Services (AWS)
 - 📍 **Location:** Cupertino, CA
 - 🕒 **Posted:** 2026-09-09
 
-### [Machine Learning Engineer, Level 5](https://www.linkedin.com/jobs/view/4437430607/) — Snap Inc.
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-09-09
-
-### [Software Engineer II, Search Science Data Infra](https://www.linkedin.com/jobs/view/4455929430/) — Amazon
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-09-09
-
-### [Applied Scientist, Shopping Convo Foundations - Pre-purchases Science, Shopping Convo Foundations - Pre-purchases Science](https://www.linkedin.com/jobs/view/4455939276/) — Amazon
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-09-09
-
-### [Software Engineer (Agentic Systems)](https://www.linkedin.com/jobs/view/4446595965/) — Dialpad
-- 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-09-09
-
-### [Software Engineer - Full Stack, Product Engineering](https://www.linkedin.com/jobs/view/4465092585/) — Baton
+### [RL Environment Software Engineer](https://www.linkedin.com/jobs/view/4465084911/) — talentpluto
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-09-09
 
-### [Full Stack Software Engineer](https://www.linkedin.com/jobs/view/4465074535/) — ALKU
+### [Research Engineer / Scientist (Robot Learning)](https://www.linkedin.com/jobs/view/4464103846/) — World Labs
 - 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $180,000.00/yr - $225,000.00/yr
+- 💰 **Salary:** $250,000.00/yr - $350,000.00/yr
 - 🕒 **Posted:** 2026-09-09
 
-### [Software Developer Engineer, Amazon WorkSpaces Core Managed Instances](https://www.linkedin.com/jobs/view/4455906750/) — Amazon Web Services (AWS)
-- 📍 **Location:** Sunnyvale, CA
+### [Robotics Software Engineer - Grasping](https://www.linkedin.com/jobs/view/4463048739/) — Intrinsic
+- 📍 **Location:** Mountain View, CA
 - 🕒 **Posted:** 2026-09-09
 
-### [Full-Stack Engineer](https://www.linkedin.com/jobs/view/4454408314/) — Nordic Naturals
+### [Software Engineer, AI Research Summer 2027 Intern](https://www.linkedin.com/jobs/view/4465308023/) — Tokyo Electron US
 - 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-09-09
 
-### [Slalom Flex (Project Based)- Microsoft 365 / Purview / Power Platform Engineer](https://www.linkedin.com/jobs/view/4464115028/) — Slalom
-- 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-09-09
-
-### [Slalom Flex (Project Based)- Microsoft 365 / Purview / Power Platform Engineer](https://www.linkedin.com/jobs/view/4464117003/) — Slalom
+### [Applied Scientist II, Perception](https://www.linkedin.com/jobs/view/4455929135/) — Amazon
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-09-09
 
-### [Cloud Hardware Dev Engineer (AWS Generative AI & ML Servers), AWS Generative AI & ML Servers](https://www.linkedin.com/jobs/view/4455905923/) — Amazon Web Services (AWS)
+### [Applied Scientist II, Perception](https://www.linkedin.com/jobs/view/4455916845/) — Amazon
+- 📍 **Location:** San Francisco County, CA
+- 🕒 **Posted:** 2026-09-09
+
+### [Virtual Platform Software Engineer, Annapurna Labs Machine Learning Accelerators, AWS](https://www.linkedin.com/jobs/view/4455922674/) — Amazon Web Services (AWS)
 - 📍 **Location:** Cupertino, CA
 - 🕒 **Posted:** 2026-09-09
 
-### [Embedded Software Engineer - Onsite](https://www.linkedin.com/jobs/view/4436095196/) — BayOne Solutions
+### [Applied Scientist, Navigation](https://www.linkedin.com/jobs/view/4455924480/) — Amazon
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-09-09
+
+### [Applied Scientist, Automated Reasoning](https://www.linkedin.com/jobs/view/4455921142/) — Amazon Web Services (AWS)
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-09-09
+
+### [Robotics - Applied Scientist II Intern / Co-op - 2026 (Robotics, Manipulation, Perception, Motion Planning, Autonomous Mobile Robots, Computer Vision, Machine Learning, Controls, and more)](https://www.linkedin.com/jobs/view/4455912936/) — Amazon
 - 📍 **Location:** Sunnyvale, CA
-- 💰 **Salary:** $75.00/hr - $80.00/hr
 - 🕒 **Posted:** 2026-09-09
 
-### [Machine Learning Engineer - Summer Intern 2027](https://www.linkedin.com/jobs/view/4465097575/) — Kensho Technologies
+### [Marketing Data Scientist](https://www.linkedin.com/jobs/view/4464126239/) — Jobright.ai
+- 📍 **Location:** San Carlos, CA
+- 🕒 **Posted:** 2026-09-09
+
+### [Applied Scientist, AWS Agentic AI](https://www.linkedin.com/jobs/view/4456199302/) — Amazon Web Services (AWS)
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-09-09
+
+### [Research Engineer / Scientist (SLAM)](https://www.linkedin.com/jobs/view/4464112180/) — World Labs
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $250,000.00/yr - $350,000.00/yr
+- 🕒 **Posted:** 2026-09-09
+
+### [Android Software Engineer - Applications](https://www.linkedin.com/jobs/view/4432927197/) — Applied Intuition
+- 📍 **Location:** Sunnyvale, CA
+- 💰 **Salary:** $147,000.00/yr - $265,000.00/yr
+- 🕒 **Posted:** 2026-09-09
+
+### [Applied Scientist II, Perception](https://www.linkedin.com/jobs/view/4455917593/) — Amazon
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-09-09
+
+### [Applied Scientist II](https://www.linkedin.com/jobs/view/4455910761/) — Amazon
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-09-09
+
+### [Software Engineer](https://www.linkedin.com/jobs/view/4463063662/) — RemoteStar
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-09-09
+
+### [Systems Development Eng (AWS Generative AI & ML Servers), AWS Hardware Engineering Accelerators](https://www.linkedin.com/jobs/view/4455798907/) — Amazon Web Services (AWS)
+- 📍 **Location:** Cupertino, CA
+- 🕒 **Posted:** 2026-09-09
+
+### [Software Engineer II (Frontend)](https://www.linkedin.com/jobs/view/4464105454/) — Adyen
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-09-09
+
+### [Software Engineer](https://www.linkedin.com/jobs/view/4464108368/) — ZealTech
+- 📍 **Location:** Fremont, CA
+- 🕒 **Posted:** 2026-09-09
+
+### [Software Engineer](https://www.linkedin.com/jobs/view/4465314231/) — ServiceNow
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-09-09
+
+### [C++ Software Engineer](https://www.linkedin.com/jobs/view/4464104638/) — Unify Technologies
+- 📍 **Location:** Foster City, CA
+- 🕒 **Posted:** 2026-09-09
+
+### [DevOps Engineer](https://www.linkedin.com/jobs/view/4465327000/) — Storm2
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-09-09
+
+### [Cloud Hardware Dev Engineer (AWS Generative AI & ML Servers), AWS Hardware Engineering Services](https://www.linkedin.com/jobs/view/4455913623/) — Amazon Web Services (AWS)
+- 📍 **Location:** Cupertino, CA
+- 🕒 **Posted:** 2026-09-09
+
+### [DSP Software Engineer](https://www.linkedin.com/jobs/view/4445258531/) — Cowboy Space Corporation
+- 📍 **Location:** San Carlos, CA
+- 🕒 **Posted:** 2026-09-09
+
+### [Applied Scientist, Amazon Connect](https://www.linkedin.com/jobs/view/4455929013/) — Amazon Web Services (AWS)
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-09-09
 
-### [Software Engineer - Summer Intern 2027](https://www.linkedin.com/jobs/view/4465096526/) — Kensho Technologies
+### [Applied Scientist, Prime Video - Generative AI](https://www.linkedin.com/jobs/view/4455922040/) — Prime Video & Amazon MGM Studios
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-09-09
 
-### [AI Infrastructure Engineer](https://www.linkedin.com/jobs/view/4438211476/) — BlackRock
+### [Machine Learning Engineer, Level 5](https://www.linkedin.com/jobs/view/4437444246/) — Snap Inc.
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-09-09
 
-### [Infrastructure DevOps Engineer](https://www.linkedin.com/jobs/view/4398852933/) — MLB NETWORK
-- 📍 **Location:** Secaucus, NJ
-- 🕒 **Posted:** 2026-09-09
-
-### [Software Engineer, Global Banking & Markets, Front Office Technology](https://www.linkedin.com/jobs/view/4436816729/) — Goldman Sachs
+### [ML Infrastructure Engineer, Fauna](https://www.linkedin.com/jobs/view/4455914816/) — Amazon
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-09-09
 
-### [iOS Engineer - 1095 (Hybrid Brooklyn)](https://www.linkedin.com/jobs/view/4465090611/) — Braintrust
+### [Software Engineer](https://www.linkedin.com/jobs/view/4446016723/) — Millennium
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-09-09
 
-### [Slalom Flex (Project Based)- Microsoft 365 / Purview / Power Platform Engineer](https://www.linkedin.com/jobs/view/4464112035/) — Slalom
+### [Front Office Software Engineer - Fixed Income](https://www.linkedin.com/jobs/view/4454931021/) — Capstone Investment Advisors
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-09-09
+
+### [Software Engineer II, Athena Engine Front End](https://www.linkedin.com/jobs/view/4455979883/) — Amazon Web Services (AWS)
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-09-09
+
+### [Java AWS Backend Developer](https://www.linkedin.com/jobs/view/4463596928/) — Capgemini
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-09-09
