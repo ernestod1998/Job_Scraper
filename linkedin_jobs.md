@@ -1,108 +1,194 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-09-09 15:19 UTC*
+*Last updated: 2026-09-09 16:20 UTC*
 
-**26 new role(s)** since last run · 26 total in last 1h
+**47 new role(s)** since last run · 72 total in last 1h
 
-### [Machine Learning Systems Research Engineer/Scientist, Agent Post-training - Enterprise Gen](https://www.linkedin.com/jobs/view/4465067577/) — Drift AI
+### [Software Engineer, Data and AI Platform](https://www.linkedin.com/jobs/view/4465081566/) — Drift AI
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-09-09
 
-### [Robotics Engineer](https://www.linkedin.com/jobs/view/4463876924/) — Programmers.io
+### [Data Infrastructure Engineer, Pre-training](https://www.linkedin.com/jobs/view/4465071877/) — Drift AI
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-09-09
+
+### [Applied Scientist, Machine Learning Accelerator - Annapurna Labs](https://www.linkedin.com/jobs/view/4455904618/) — Amazon Web Services (AWS)
 - 📍 **Location:** Cupertino, CA
 - 🕒 **Posted:** 2026-09-09
 
-### [Machine Learning Research Scientist, Agent Data Foundation - Enterprise GenAI](https://www.linkedin.com/jobs/view/4465067580/) — Drift AI
+### [Delivery Consultant- GenAI/ML & Data Science, Professional Services, AWS Industries](https://www.linkedin.com/jobs/view/4455796809/) — Amazon Web Services (AWS)
+- 📍 **Location:** Mountain View, CA
+- 🕒 **Posted:** 2026-09-09
+
+### [Software Engineer, AI Developer Tools](https://www.linkedin.com/jobs/view/4465058966/) — Drift AI
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-09-09
 
-### [Machine Learning Research Scientist Agents - Enterprise GenAI](https://www.linkedin.com/jobs/view/4465060615/) — Drift AI
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-09-09
-
-### [Applied Scientist, AWS Quick](https://www.linkedin.com/jobs/view/4455915572/) — Amazon Web Services (AWS)
+### [Applied Scientist, AWS Quick](https://www.linkedin.com/jobs/view/4455982826/) — Amazon Web Services (AWS)
 - 📍 **Location:** Santa Clara, CA
 - 🕒 **Posted:** 2026-09-09
 
-### [Applied Scientist, AWS Neuron Science team](https://www.linkedin.com/jobs/view/4455796360/) — Amazon Web Services (AWS)
-- 📍 **Location:** Cupertino, CA
-- 🕒 **Posted:** 2026-09-09
-
-### [Applied Scientist II, Foundation Model, Industrial Robotics Group](https://www.linkedin.com/jobs/view/4455901676/) — Amazon
-- 📍 **Location:** San Francisco County, CA
-- 🕒 **Posted:** 2026-09-09
-
-### [Applied Scientist II, Search Ranking](https://www.linkedin.com/jobs/view/4455923467/) — Amazon
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-09-09
-
-### [Applied Scientist, Console Science](https://www.linkedin.com/jobs/view/4455794485/) — Amazon Web Services (AWS)
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-09-09
-
-### [Applied Scientist II, AWS Agentic AI](https://www.linkedin.com/jobs/view/4455799631/) — Amazon Web Services (AWS)
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-09-09
-
-### [Software Engineering Intern (Summer 2027)](https://www.linkedin.com/jobs/view/4465073515/) — Drift AI
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-09-09
-
-### [Applied Scientist, Quantum Algorithms, Center for Quantum Computing](https://www.linkedin.com/jobs/view/4455905687/) — Amazon
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-09-09
-
-### [Delivery Consultant- GenAI/ML & Data Science, Professional Services, AWS Industries](https://www.linkedin.com/jobs/view/4455927007/) — Amazon Web Services (AWS)
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-09-09
-
-### [Enterprise Systems Software Engineer Intern (Spring 2027)](https://www.linkedin.com/jobs/view/4455978412/) — Zipline
-- 📍 **Location:** South San Francisco, CA
-- 🕒 **Posted:** 2026-09-09
-
-### [Software Developer Engineer, Amazon WorkSpaces Core Managed Instances](https://www.linkedin.com/jobs/view/4455777957/) — Amazon Web Services (AWS)
+### [Applied Scientist II, Foundation Model, Industrial Robotics Group](https://www.linkedin.com/jobs/view/4455917088/) — Amazon
 - 📍 **Location:** Sunnyvale, CA
 - 🕒 **Posted:** 2026-09-09
 
-### [Full Stack Engineer, Link](https://www.linkedin.com/jobs/view/4456135062/) — Stripe
+### [Software Engineer - New Grad](https://www.linkedin.com/jobs/view/4465063834/) — Drift AI
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-09-09
 
-### [Software Engineer, Workflows](https://www.linkedin.com/jobs/view/4372135667/) — Vercel
+### [Delivery Consultant- GenAI/ML & Data Science, AWS Industries](https://www.linkedin.com/jobs/view/4455930031/) — Amazon Web Services (AWS)
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-09-09
 
-### [Software Engineer – IT Automation & Integrations](https://www.linkedin.com/jobs/view/4463379500/) — CriticalRiver Inc.
+### [Software Engineer II, Annapurna Labs ML Acceleration System Software](https://www.linkedin.com/jobs/view/4455799817/) — Amazon Web Services (AWS)
+- 📍 **Location:** Cupertino, CA
+- 🕒 **Posted:** 2026-09-09
+
+### [Robotics Software Engineer - Labs, DoorDash Air](https://www.linkedin.com/jobs/view/4465081561/) — Drift AI
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-09-09
+
+### [Software Engineer, Data Platform (All Teams)](https://www.linkedin.com/jobs/view/4465076929/) — Drift AI
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-09-09
+
+### [Software Engineer, Planning & Controls - Autonomy & Robotics, DoorDash Air](https://www.linkedin.com/jobs/view/4465078993/) — Drift AI
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-09-09
+
+### [Software Engineer, Traffic](https://www.linkedin.com/jobs/view/4465072990/) — Drift AI
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-09-09
+
+### [Software Engineer II, Data Engineering](https://www.linkedin.com/jobs/view/4465069959/) — Drift AI
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-09-09
+
+### [Machine Learning Engineer, Drive](https://www.linkedin.com/jobs/view/4465068989/) — Drift AI
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-09-09
+
+### [Machine Learning Engineer, Marketplace Optimization](https://www.linkedin.com/jobs/view/4465070940/) — Drift AI
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-09-09
+
+### [Data Scientist](https://www.linkedin.com/jobs/view/4463888439/) — AARATECH
+- 📍 **Location:** San Francisco Bay Area
+- 💰 **Salary:** $75,000.00/yr - $90,000.00/yr
+- 🕒 **Posted:** 2026-09-09
+
+### [Data Scientist, Risk](https://www.linkedin.com/jobs/view/4465058981/) — Drift AI
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-09-09
+
+### [Delivery Consultant- GenAI/ML & Data Science, Professional Services, AWS Industries](https://www.linkedin.com/jobs/view/4455911347/) — Amazon Web Services (AWS)
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-09-09
+
+### [Delivery Consultant- GenAI/ML & Data Science, Professional Services, AWS Industries](https://www.linkedin.com/jobs/view/4455794603/) — Amazon Web Services (AWS)
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-09-09
+
+### [Data Scientist II, Device Economics](https://www.linkedin.com/jobs/view/4455902503/) — Amazon
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-09-09
+
+### [Software Engineer, Machine Learning Infrastructure - Generative AI](https://www.linkedin.com/jobs/view/4465070919/) — Drift AI
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-09-09
+
+### [Software Engineer II, Crusoe Container Registry](https://www.linkedin.com/jobs/view/4446507221/) — Crusoe
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-09-09
+
+### [Research Engineer](https://www.linkedin.com/jobs/view/4463038934/) — Acceler8 Talent
 - 📍 **Location:** San Francisco Bay Area
 - 🕒 **Posted:** 2026-09-09
 
-### [Software Engineer V](https://www.linkedin.com/jobs/view/4465075478/) — EPITEC
-- 📍 **Location:** Burlingame, CA
-- 🕒 **Posted:** 2026-09-09
-
-### [Partner Engineering - Software Engineer (Mid-Level)](https://www.linkedin.com/jobs/view/4463032827/) — Sprinter Health
-- 📍 **Location:** Menlo Park, CA
-- 🕒 **Posted:** 2026-09-09
-
-### [Software Engineer II, Fullstack](https://www.linkedin.com/jobs/view/4456194320/) — Pinterest
+### [Software Engineer, CDN Content](https://www.linkedin.com/jobs/view/4437825524/) — Vercel
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-09-09
 
-### [Cellular DevOps Engineer - Wearables Connectivity](https://www.linkedin.com/jobs/view/4465073298/) — TekWissen ®
-- 📍 **Location:** Menlo Park, CA
-- 🕒 **Posted:** 2026-09-09
-
-### [Full-Stack Engineer, Human Agent Tooling](https://www.linkedin.com/jobs/view/4465059557/) — Drift AI
+### [Data Scientist, Amazon Music - DISCO](https://www.linkedin.com/jobs/view/4455933546/) — Amazon Music
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-09-09
 
-### [AI Integration Software Engineer - Associate](https://www.linkedin.com/jobs/view/4454918360/) — Morgan Stanley
+### [Data Scientist, Amazon Music - DISCO](https://www.linkedin.com/jobs/view/4455931529/) — Amazon Music
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-09-09
+
+### [Machine Learning Engineer](https://www.linkedin.com/jobs/view/4465059886/) — Aklip Technologies LLC
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-09-09
+
+### [Software Engineer, Robotics Infrastructure - Autonomy & Robotics, DoorDash Air](https://www.linkedin.com/jobs/view/4465088021/) — Drift AI
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-09-09
+
+### [Software Engineer, Unified Gateway](https://www.linkedin.com/jobs/view/4465083112/) — Drift AI
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-09-09
+
+### [Software Engineer, Billing & Revenue Platform](https://www.linkedin.com/jobs/view/4436872487/) — Glean
+- 📍 **Location:** Mountain View, CA
+- 🕒 **Posted:** 2026-09-09
+
+### [Software Engineer, Backend - DoorDash Air](https://www.linkedin.com/jobs/view/4465092000/) — Drift AI
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-09-09
+
+### [Software Engineer, Backend (All Teams)](https://www.linkedin.com/jobs/view/4465088050/) — Drift AI
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-09-09
+
+### [Software Engineer](https://www.linkedin.com/jobs/view/4463045238/) — SoTalent
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-09-09
+
+### [Specialty Software Engineer 4](https://www.linkedin.com/jobs/view/4465069350/) — Motion Recruitment
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-09-09
+
+### [Software Engineer, iOS (All Teams)](https://www.linkedin.com/jobs/view/4465068977/) — Drift AI
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-09-09
+
+### [Data Scientist](https://www.linkedin.com/jobs/view/4440257035/) — Millennium
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-09-09
 
-### [Applied Scientist, Amazon Selection and Catalog Systems (ASCS)](https://www.linkedin.com/jobs/view/4455903425/) — Amazon
+### [Software Development Engineer, Measurement, Ad Tech, and Data Science](https://www.linkedin.com/jobs/view/4455912334/) — Amazon
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-09-09
 
-### [Human-Robot Interaction Applied Scientist , Fauna](https://www.linkedin.com/jobs/view/4455794427/) — Amazon
+### [Applied Scientist, Amazon Connect](https://www.linkedin.com/jobs/view/4455927155/) — Amazon Web Services (AWS)
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-09-09
+
+### [Applied AI, Research Engineer](https://www.linkedin.com/jobs/view/4465063891/) — Drift AI
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-09-09
+
+### [Software Engineer, Payments](https://www.linkedin.com/jobs/view/4465081483/) — Drift AI
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-09-09
+
+### [Software Engineer, Research Tools](https://www.linkedin.com/jobs/view/4322290330/) — Anthropic
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-09-09
+
+### [Software Engineer](https://www.linkedin.com/jobs/view/4463064029/) — SoTalent
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-09-09
+
+### [Software Engineer, New Grad - Defense](https://www.linkedin.com/jobs/view/4434143445/) — Palantir Technologies
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-09-09
+
+### [Software Engineer III](https://www.linkedin.com/jobs/view/4465078990/) — Bank of America
+- 📍 **Location:** Jersey City, NJ
+- 💰 **Salary:** $102,900.00/yr - $179,900.00/yr
+- 🕒 **Posted:** 2026-09-09
+
+### [Applied Scientist II, Advertising Incrementality Measurement](https://www.linkedin.com/jobs/view/4455905072/) — Amazon
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-09-09
