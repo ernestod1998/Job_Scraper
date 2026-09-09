@@ -1,59 +1,77 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-09-09 00:18 UTC*
+*Last updated: 2026-09-09 01:18 UTC*
 
-**13 new role(s)** since last run · 47 total in last 1h
+**17 new role(s)** since last run · 27 total in last 1h
 
-### [Software Engineer, Android](https://www.linkedin.com/jobs/view/4463566932/) — StartX Med
+### [ML Engineer](https://www.linkedin.com/jobs/view/4463570887/) — StartX Med
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-09-08
 
-### [Robotics Software Engineer](https://www.linkedin.com/jobs/view/4464909980/) — Leverages U.S. Inc.
-- 📍 **Location:** San Jose, CA
-- 💰 **Salary:** $140,000.00/yr - $180,000.00/yr
+### [Machine Learning Engineer: LLM Interpretability & Systems](https://www.linkedin.com/jobs/view/4463576382/) — StartX Med
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-09-08
 
-### [Software Engineer - AI Research Clusters](https://www.linkedin.com/jobs/view/4463578131/) — NVIDIA
-- 📍 **Location:** Santa Clara, CA
+### [Software Engineer - Game Development](https://www.linkedin.com/jobs/view/4430847398/) — Applied Intuition
+- 📍 **Location:** Sunnyvale, CA
+- 💰 **Salary:** $173,400.00/yr - $232,925.00/yr
 - 🕒 **Posted:** 2026-09-08
 
-### [Agent Platform Engineer](https://www.linkedin.com/jobs/view/4463565923/) — StartX Med
-- 📍 **Location:** San Francisco Bay Area
+### [Platform Engineer, Infrastructure](https://www.linkedin.com/jobs/view/4463584136/) — StartX Med
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-09-08
 
-### [Machine Learning Engineer, Amazon Ads Identity](https://www.linkedin.com/jobs/view/4464910870/) — Amazon
-- 📍 **Location:** Palo Alto, CA
+### [Marketing Data Scientist](https://www.linkedin.com/jobs/view/4463588023/) — Jobright.ai
+- 📍 **Location:** San Carlos, CA
 - 🕒 **Posted:** 2026-09-08
 
-### [Data Infrastructure Engineer](https://www.linkedin.com/jobs/view/4463564967/) — StartX Med
-- 📍 **Location:** Berkeley, CA
+### [ML Scientist](https://www.linkedin.com/jobs/view/4463560994/) — StartX Med
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-09-08
 
-### [Site Reliability Engineer](https://www.linkedin.com/jobs/view/4463559918/) — StartX Med
-- 📍 **Location:** Santa Clara, CA
+### [Clinical Research Engineer - Future Forward](https://www.linkedin.com/jobs/view/4464911952/) — Intuitive
+- 📍 **Location:** Sunnyvale, CA
+- 💰 **Salary:** $132,000.00/yr - $223,500.00/yr
 - 🕒 **Posted:** 2026-09-08
 
-### [Applied Scientist II, Console Science](https://www.linkedin.com/jobs/view/4464931152/) — Amazon Web Services (AWS)
-- 📍 **Location:** Santa Clara, CA
+### [Mobile Engineer](https://www.linkedin.com/jobs/view/4464913691/) — Schemata, Inc.
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-09-08
 
-### [Backend Software Engineer, Agentic Data Platform-NYC (Tapestry)](https://www.linkedin.com/jobs/view/4463578091/) — X, The Moonshot Factory
-- 📍 **Location:** Mountain View, CA
+### [Robotics Software Engineer](https://www.linkedin.com/jobs/view/4463575778/) — StartX Med
+- 📍 **Location:** Milpitas, CA
 - 🕒 **Posted:** 2026-09-08
 
-### [Robotics Software Engineer (C++ & Python)](https://www.linkedin.com/jobs/view/4463559848/) — SOSV HAX
-- 📍 **Location:** San Francisco Bay Area
+### [Software Engineering (SMTS/LMTS)](https://www.linkedin.com/jobs/view/4464927854/) — Salesforce
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-09-08
 
-### [Software Engineer - Evaluation](https://www.linkedin.com/jobs/view/4462549625/) — Pony.ai
-- 📍 **Location:** Fremont, CA
-- 💰 **Salary:** $120,000.00/yr - $200,000.00/yr
+### [Platform Engineer, Billing Systems](https://www.linkedin.com/jobs/view/4463576372/) — StartX Med
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-09-08
 
-### [Biostatistician II](https://www.linkedin.com/jobs/view/4463573642/) — StartX Med
-- 📍 **Location:** Redwood City, CA
+### [Software Engineer](https://www.linkedin.com/jobs/view/4463583030/) — StartX Med
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-09-08
 
-### [Software Developer](https://www.linkedin.com/jobs/view/4464690858/) — AfterQuery Experts
+### [Embedded Software Engineer](https://www.linkedin.com/jobs/view/4463587115/) — Protingent
+- 📍 **Location:** Pleasanton, CA
+- 🕒 **Posted:** 2026-09-08
+
+### [Machine Learning Engineer, Discovery](https://www.linkedin.com/jobs/view/4463580305/) — Whatnot
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $50.00/hr - $100.00/hr
+- 💰 **Salary:** $180,000.00/yr - $245,000.00/yr
+- 🕒 **Posted:** 2026-09-08
+
+### [Software Engineer – Machine Learning (AI Training)](https://www.linkedin.com/jobs/view/4464932611/) — Alignerr
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $90.00/hr - $120.00/hr
+- 🕒 **Posted:** 2026-09-08
+
+### [Software Engineer, Full Stack (Early Career)](https://www.linkedin.com/jobs/view/4464918838/) — Kustomer
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-09-08
+
+### [Software Engineer - YAML Experience](https://www.linkedin.com/jobs/view/4464925894/) — Alignerr
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $40.00/hr - $55.00/hr
 - 🕒 **Posted:** 2026-09-08
