@@ -1,66 +1,85 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-09-09 22:18 UTC*
+*Last updated: 2026-09-09 23:18 UTC*
 
-**15 new role(s)** since last run · 30 total in last 1h
+**19 new role(s)** since last run · 28 total in last 1h
 
-### [Software Engineer III, Network Platform](https://www.linkedin.com/jobs/view/4465340522/) — Box
-- 📍 **Location:** Redwood City, CA
-- 🕒 **Posted:** 2026-09-09
-
-### [Software Engineer III, Edge](https://www.linkedin.com/jobs/view/4465345471/) — Box
-- 📍 **Location:** Redwood City, CA
-- 🕒 **Posted:** 2026-09-09
-
-### [Software Engineer Sys 3](https://www.linkedin.com/jobs/view/4464121941/) — Lam Research
-- 📍 **Location:** Fremont, CA
-- 🕒 **Posted:** 2026-09-09
-
-### [Software Engineer - Early Careers](https://www.linkedin.com/jobs/view/4465316811/) — Instabase
+### [Research Engineer, Post-Training](https://www.linkedin.com/jobs/view/4455714605/) — Vizcom
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-09-09
 
-### [Software Engineer III - Mobile](https://www.linkedin.com/jobs/view/4463071397/) — Walmart Global Tech
-- 📍 **Location:** Sunnyvale, CA
-- 💰 **Salary:** $117,000.00/yr - $234,000.00/yr
-- 🕒 **Posted:** 2026-09-09
-
-### [Software Engineering Intern](https://www.linkedin.com/jobs/view/4465340690/) — Trimble Inc.
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-09-09
-
-### [Global Labs DevOps Linux Engineer](https://www.linkedin.com/jobs/view/4465335566/) — Ampere
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-09-09
-
-### [Software Engineer, AI Gateway](https://www.linkedin.com/jobs/view/4465333600/) — Vercel
+### [Machine Learning Engineer, Inference & Serving (Speech LLM)](https://www.linkedin.com/jobs/view/4464138596/) — Jobright.ai
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-09-09
 
-### [Full-Stack Software Engineer : 26-02699](https://www.linkedin.com/jobs/view/4465339324/) — Akraya, Inc.
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-09-09
-
-### [Software Engineer III](https://www.linkedin.com/jobs/view/4463086312/) — Walmart Global Tech
-- 📍 **Location:** Sunnyvale, CA
-- 💰 **Salary:** $117,000.00/yr - $234,000.00/yr
-- 🕒 **Posted:** 2026-09-09
-
-### [Full Stack Engineer III](https://www.linkedin.com/jobs/view/4465337612/) — RLink Solutions
+### [Research Engineer](https://www.linkedin.com/jobs/view/4463079321/) — Goliath Partners
 - 📍 **Location:** San Francisco Bay Area
 - 🕒 **Posted:** 2026-09-09
 
-### [Data Science Analyst Revenue Management](https://www.linkedin.com/jobs/view/4463080217/) — JetBlue
-- 📍 **Location:** New York, NY
+### [Computer Vision Research Engineer](https://www.linkedin.com/jobs/view/4463085583/) — TTN Talent
+- 📍 **Location:** San Francisco Bay Area
+- 💰 **Salary:** $160,000.00/yr - $240,000.00/yr
 - 🕒 **Posted:** 2026-09-09
 
-### [Software Engineer - New Grad, 2027](https://www.linkedin.com/jobs/view/4464138190/) — Domino Data Lab
-- 📍 **Location:** New York, NY
+### [Physics AI Scientist III](https://www.linkedin.com/jobs/view/4451250240/) — Applied Materials
+- 📍 **Location:** Santa Clara, CA
 - 🕒 **Posted:** 2026-09-09
 
-### [Android Engineer III](https://www.linkedin.com/jobs/view/4463076242/) — Peloton Interactive
-- 📍 **Location:** New York, NY
+### [Software Engineer, Tools and Automation](https://www.linkedin.com/jobs/view/4465341744/) — Benchling
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $195,000.00/yr - $265,000.00/yr
 - 🕒 **Posted:** 2026-09-09
 
-### [Software Engineer, Intern - Campus Recruiting 2027](https://www.linkedin.com/jobs/view/4464134225/) — Domino Data Lab
-- 📍 **Location:** New York, NY
+### [Zoom AI DevOps Engineer](https://www.linkedin.com/jobs/view/4464150206/) — Zoom
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-09-09
+
+### [Software Engineer, Systems (Partner 16, Partner 18)](https://www.linkedin.com/jobs/view/4463092383/) — Andreessen Horowitz
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-09-09
+
+### [Software Engineer, Platform (Partner 16, Partner 18)](https://www.linkedin.com/jobs/view/4463072524/) — Andreessen Horowitz
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-09-09
+
+### [Applied Scientist, Ring AI](https://www.linkedin.com/jobs/view/4464150231/) — Amazon Science
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-09-09
+
+### [Applied Scientist, Prime Video - Generative AI (Video)](https://www.linkedin.com/jobs/view/4464142289/) — Amazon Science
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-09-09
+
+### [AI/ML Engineer](https://www.linkedin.com/jobs/view/4464150203/) — Infosys
+- 📍 **Location:** Sunnyvale, CA
+- 💰 **Salary:** $90,751.00/yr - $146,416.00/yr
+- 🕒 **Posted:** 2026-09-09
+
+### [(USA) Software Engineer III](https://www.linkedin.com/jobs/view/4463080310/) — Walmart
+- 📍 **Location:** Sunnyvale, CA
+- 💰 **Salary:** $117,000.00/yr - $234,000.00/yr
+- 🕒 **Posted:** 2026-09-09
+
+### [Software Engineer III - TeraWave](https://www.linkedin.com/jobs/view/4463079526/) — Blue Origin
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-09-09
+
+### [Software Engineer, Software Factory (Partner 16, Partner 18)](https://www.linkedin.com/jobs/view/4463070614/) — Andreessen Horowitz
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-09-09
+
+### [2027 Software Engineering Intern (Masters - Santa Clara, CA)](https://www.linkedin.com/jobs/view/4463070672/) — Applied Materials
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-09-09
+
+### [Software Engineer III](https://www.linkedin.com/jobs/view/4465336801/) — Kforce Inc
+- 📍 **Location:** Mountain View, CA
+- 💰 **Salary:** $74.00/hr - $84.25/hr
+- 🕒 **Posted:** 2026-09-09
+
+### [Software Engineer III, Embedded Systems/Firmware, XR](https://www.linkedin.com/jobs/view/4463073449/) — Google
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-09-09
+
+### [iOS Engineer (NYC metro area)](https://www.linkedin.com/jobs/view/4465340870/) — The Mom Project
+- 📍 **Location:** Brooklyn, NY
 - 🕒 **Posted:** 2026-09-09
