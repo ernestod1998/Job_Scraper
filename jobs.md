@@ -1,16 +1,24 @@
 # 🧬 Biotech LinkedIn — MLE / DS Roles
-*Last updated: 2026-09-08 08:09 UTC*
+*Last updated: 2026-09-09 08:14 UTC*
 
-**3 new role(s)** since last run · 44 total in last 24h
+**5 new role(s)** since last run · 48 total in last 24h
 
-### [Research Scientist, AI](https://job-boards.greenhouse.io/biohub/jobs/7747518) — Chan Zuckerberg Biohub
-- 📍 **Location:** New York, NY (Hybrid)
+### [Research Scientist, AI](https://job-boards.greenhouse.io/biohub/jobs/7793644) — Chan Zuckerberg Biohub
+- 📍 **Location:** Redwood City, CA (Hybrid)
 - 🕒 **Posted:** 2026-08-28
 
-### [Intern - Research - Data Sciences](https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Intern---Research---Data-Sciences_R0054572) — Gilead Sciences
-- 📍 **Location:** United States - California - Foster City
-- 🕒 **Posted:** Posted Today
+### [Machine Learning Scientist II, Drug Discovery Analytics](https://www.revmed.com/careers-list/?gh_jid=7984019003) — Revolution Medicines
+- 📍 **Location:** Redwood City, California, United States
+- 🕒 **Posted:** 2026-09-08
 
-### [Intern - Research - Drug Metabolism](https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Intern---Research---Drug-Metabolism_R0054510) — Gilead Sciences
-- 📍 **Location:** United States - California - Foster City
-- 🕒 **Posted:** Posted Today
+### [ML Scientist I/II, Nucleic Acid Design](https://www.linkedin.com/jobs/view/4446144681/) — Lila Sciences
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-09-08
+
+### [Head, Innovation Accelerator Data Science](https://www.linkedin.com/jobs/view/4445495241/) — Genentech
+- 📍 **Location:** South San Francisco, CA
+- 🕒 **Posted:** 2026-09-08
+
+### [Intern - Research - Data Sciences](https://www.linkedin.com/jobs/view/4463260225/) — Gilead Sciences
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-09-08
