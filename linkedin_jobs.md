@@ -1,64 +1,66 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-09-09 21:18 UTC*
+*Last updated: 2026-09-09 22:18 UTC*
 
-**14 new role(s)** since last run · 25 total in last 1h
+**15 new role(s)** since last run · 30 total in last 1h
 
-### [Data Science, AI and Business Analyst](https://www.linkedin.com/jobs/view/4463081047/) — Coherent Corp.
+### [Software Engineer III, Network Platform](https://www.linkedin.com/jobs/view/4465340522/) — Box
+- 📍 **Location:** Redwood City, CA
+- 🕒 **Posted:** 2026-09-09
+
+### [Software Engineer III, Edge](https://www.linkedin.com/jobs/view/4465345471/) — Box
+- 📍 **Location:** Redwood City, CA
+- 🕒 **Posted:** 2026-09-09
+
+### [Software Engineer Sys 3](https://www.linkedin.com/jobs/view/4464121941/) — Lam Research
+- 📍 **Location:** Fremont, CA
+- 🕒 **Posted:** 2026-09-09
+
+### [Software Engineer - Early Careers](https://www.linkedin.com/jobs/view/4465316811/) — Instabase
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-09-09
+
+### [Software Engineer III - Mobile](https://www.linkedin.com/jobs/view/4463071397/) — Walmart Global Tech
+- 📍 **Location:** Sunnyvale, CA
+- 💰 **Salary:** $117,000.00/yr - $234,000.00/yr
+- 🕒 **Posted:** 2026-09-09
+
+### [Software Engineering Intern](https://www.linkedin.com/jobs/view/4465340690/) — Trimble Inc.
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-09-09
+
+### [Global Labs DevOps Linux Engineer](https://www.linkedin.com/jobs/view/4465335566/) — Ampere
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-09-09
+
+### [Software Engineer, AI Gateway](https://www.linkedin.com/jobs/view/4465333600/) — Vercel
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-09-09
+
+### [Full-Stack Software Engineer : 26-02699](https://www.linkedin.com/jobs/view/4465339324/) — Akraya, Inc.
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-09-09
+
+### [Software Engineer III](https://www.linkedin.com/jobs/view/4463086312/) — Walmart Global Tech
+- 📍 **Location:** Sunnyvale, CA
+- 💰 **Salary:** $117,000.00/yr - $234,000.00/yr
+- 🕒 **Posted:** 2026-09-09
+
+### [Full Stack Engineer III](https://www.linkedin.com/jobs/view/4465337612/) — RLink Solutions
 - 📍 **Location:** San Francisco Bay Area
-- 💰 **Salary:** $73,000.00/yr - $119,500.00/yr
 - 🕒 **Posted:** 2026-09-09
 
-### [AI/ML Scientist](https://www.linkedin.com/jobs/view/4464129105/) — Bayside Solutions
-- 📍 **Location:** San Mateo County, CA
-- 💰 **Salary:** $70.00/hr - $100.00/hr
-- 🕒 **Posted:** 2026-09-09
-
-### [Oath Technologies - Research Engineer, Tools & Infrastructure](https://www.linkedin.com/jobs/view/4465331263/) — Convergent Research
-- 📍 **Location:** Berkeley, CA
-- 🕒 **Posted:** 2026-09-09
-
-### [Oath Technologies - Formal Methods Research Engineer](https://www.linkedin.com/jobs/view/4465348128/) — Convergent Research
-- 📍 **Location:** Berkeley, CA
-- 🕒 **Posted:** 2026-09-09
-
-### [Cellular DevOps Engineer](https://www.linkedin.com/jobs/view/4464108933/) — BrezQ
-- 📍 **Location:** Menlo Park, CA
-- 🕒 **Posted:** 2026-09-09
-
-### [Platform Engineer](https://www.linkedin.com/jobs/view/4465351165/) — Goliath Partners
-- 📍 **Location:** San Francisco Bay Area
-- 💰 **Salary:** $220,000.00/yr - $275,000.00/yr
-- 🕒 **Posted:** 2026-09-09
-
-### [Backend Developer](https://www.linkedin.com/jobs/view/4464123800/) — DRISHTICON Inc
-- 📍 **Location:** Pleasanton, CA
-- 🕒 **Posted:** 2026-09-09
-
-### [Data Scientist](https://www.linkedin.com/jobs/view/4464117913/) — Healthfirst
+### [Data Science Analyst Revenue Management](https://www.linkedin.com/jobs/view/4463080217/) — JetBlue
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-09-09
 
-### [Innovation, Data & Analytics Team, AI/ML Engineer (Agentic Systems)](https://www.linkedin.com/jobs/view/4465334031/) — Pfizer
+### [Software Engineer - New Grad, 2027](https://www.linkedin.com/jobs/view/4464138190/) — Domino Data Lab
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-09-09
 
-### [Machine Learning Engineer - Summer Intern 2027](https://www.linkedin.com/jobs/view/4464128518/) — S&P Global
+### [Android Engineer III](https://www.linkedin.com/jobs/view/4463076242/) — Peloton Interactive
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-09-09
 
-### [DevOps Engineer](https://www.linkedin.com/jobs/view/4464117943/) — Insight Global
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $65.00/hr - $70.00/hr
-- 🕒 **Posted:** 2026-09-09
-
-### [Enterprise Software Engineer](https://www.linkedin.com/jobs/view/4464108853/) — Capstone Investment Advisors
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-09-09
-
-### [Trading Systems Software Engineer 3664775](https://www.linkedin.com/jobs/view/4463142036/) — Axiom Path
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-09-09
-
-### [Software Engineer - Summer Intern 2027](https://www.linkedin.com/jobs/view/4464108934/) — S&P Global
+### [Software Engineer, Intern - Campus Recruiting 2027](https://www.linkedin.com/jobs/view/4464134225/) — Domino Data Lab
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-09-09
