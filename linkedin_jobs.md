@@ -1,120 +1,155 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-09-10 16:19 UTC*
+*Last updated: 2026-09-10 17:34 UTC*
 
-**28 new role(s)** since last run · 51 total in last 1h
+**36 new role(s)** since last run · 37 total in last 1h
 
-### [Software Engineer, Agents & Automations](https://www.linkedin.com/jobs/view/4427715774/) — Cohere
+### [ML Infrastructure Engineer](https://www.linkedin.com/jobs/view/4446394892/) — OP Recruiting
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-09-10
 
-### [Software Engineer](https://www.linkedin.com/jobs/view/4428668066/) — Valeo
-- 📍 **Location:** San Mateo, CA
+### [ML Engineer, Inference & Optimization](https://www.linkedin.com/jobs/view/4463491763/) — Makers Fund
+- 📍 **Location:** Palo Alto, CA
 - 🕒 **Posted:** 2026-09-10
 
-### [Forward Deployed AI Scientist, Campus, United States - BCG X](https://www.linkedin.com/jobs/view/4455446930/) — BCG X
+### [Software Engineer - AI Enablement](https://www.linkedin.com/jobs/view/4465802909/) — Drift AI
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-09-10
 
-### [Software Engineer, eve](https://www.linkedin.com/jobs/view/4431344443/) — Vercel
+### [Deep Learning Compiler Engineer](https://www.linkedin.com/jobs/view/4455488142/) — NVIDIA
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-09-10
+
+### [Software Engineer, Agent](https://www.linkedin.com/jobs/view/4465804798/) — EngRadar
+- 📍 **Location:** San Carlos, CA
+- 🕒 **Posted:** 2026-09-10
+
+### [AI Enabled Full-Stack Software Engineer](https://www.linkedin.com/jobs/view/4465803830/) — Nityo Infotech
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-09-10
+
+### [Backend Engineer (Infra)](https://www.linkedin.com/jobs/view/4317493942/) — Conversion
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $175,000.00/yr - $225,000.00/yr
+- 🕒 **Posted:** 2026-09-10
+
+### [NVIDIA 2027 Internships: Ph.D. Research Computer Vision and Deep Learning](https://www.linkedin.com/jobs/view/4455489135/) — NVIDIA
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-09-10
+
+### [Software Engineer, Public Sector](https://www.linkedin.com/jobs/view/4465807858/) — Drift AI
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-09-10
 
-### [Data Scientist, Developer Productivity](https://www.linkedin.com/jobs/view/4436850436/) — Anthropic
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-09-10
-
-### [Software Engineer, AI SDK](https://www.linkedin.com/jobs/view/4342963837/) — Vercel
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-09-10
-
-### [Software Engineer](https://www.linkedin.com/jobs/view/4464562252/) — ZealTech
-- 📍 **Location:** Fremont, CA
-- 🕒 **Posted:** 2026-09-10
-
-### [Software Engineer – IT Automation & Integrations](https://www.linkedin.com/jobs/view/4463379500/) — CriticalRiver Inc.
+### [Software Engineer, Distributed Systems](https://www.linkedin.com/jobs/view/4465819798/) — Drift AI
 - 📍 **Location:** San Francisco Bay Area
 - 🕒 **Posted:** 2026-09-10
 
-### [Software Engineer, Tokenization](https://www.linkedin.com/jobs/view/4463488473/) — Robinhood
-- 📍 **Location:** Menlo Park, CA
-- 🕒 **Posted:** 2026-09-10
-
-### [Software Engineer, Seller Growth](https://www.linkedin.com/jobs/view/4455483544/) — Whatnot
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $205,000.00/yr - $290,000.00/yr
-- 🕒 **Posted:** 2026-09-10
-
-### [Software Engineer I, Storage](https://www.linkedin.com/jobs/view/4446396463/) — Crusoe
+### [Software Engineer - Internal Tools](https://www.linkedin.com/jobs/view/4465810888/) — Drift AI
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-09-10
 
-### [Software Engineer, Atlas Distributed Systems](https://www.linkedin.com/jobs/view/4456408344/) — Rubrik
+### [Software Engineer, Growth](https://www.linkedin.com/jobs/view/4465813815/) — Drift AI
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-09-10
+
+### [NVIDIA 2027 Internships: Software Engineering](https://www.linkedin.com/jobs/view/4455493094/) — NVIDIA
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-09-10
+
+### [Software Engineer - Core Systems](https://www.linkedin.com/jobs/view/4465815707/) — EngRadar
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-09-10
+
+### [Infrastructure Software Engineer, Enterprise GenAI](https://www.linkedin.com/jobs/view/4465811732/) — Drift AI
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-09-10
+
+### [Software Engineer, Platform](https://www.linkedin.com/jobs/view/4465826074/) — Drift AI
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-09-10
+
+### [Software Engineer, Data Platform](https://www.linkedin.com/jobs/view/4465804908/) — Drift AI
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-09-10
+
+### [Global Software Engineer II](https://www.linkedin.com/jobs/view/4463495216/) — Applied Materials
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-09-10
+
+### [Agiloft Software Engineer II](https://www.linkedin.com/jobs/view/4463912166/) — BDO USA
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-09-10
+
+### [Full Stack Software Engineer (Starlink)](https://www.linkedin.com/jobs/view/4401565319/) — SpaceX
 - 📍 **Location:** Palo Alto, CA
 - 🕒 **Posted:** 2026-09-10
 
-### [Software Engineer, New Grad - Infrastructure](https://www.linkedin.com/jobs/view/4434149314/) — Palantir Technologies
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-09-10
-
-### [Software Engineer, Trust & Safety](https://www.linkedin.com/jobs/view/4456385649/) — Vercel
+### [Software Engineer - Product](https://www.linkedin.com/jobs/view/4465697932/) — EngRadar
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-09-10
 
-### [Full Stack Engineer](https://www.linkedin.com/jobs/view/4464568159/) — Intelliswift - An LTTS Company
+### [DevOps Engineer](https://www.linkedin.com/jobs/view/4465806643/) — Aditi Consulting
 - 📍 **Location:** San Jose, CA
-- 💰 **Salary:** $80.00/hr - $85.00/hr
+- 💰 **Salary:** $60.00/hr - $65.00/hr
 - 🕒 **Posted:** 2026-09-10
 
-### [SRE Monitoring Platform Software Engineer (Early Career / Temporary)](https://www.linkedin.com/jobs/view/4453493635/) — Bitdeer (NASDAQ: BTDR)
+### [DevOps Engineer](https://www.linkedin.com/jobs/view/4464573609/) — Akkodis
 - 📍 **Location:** San Jose, CA
+- 💰 **Salary:** $70.00/hr - $80.00/hr
 - 🕒 **Posted:** 2026-09-10
 
-### [Data Scientist](https://www.linkedin.com/jobs/view/4298469184/) — Tarro
-- 📍 **Location:** San Mateo, CA
-- 🕒 **Posted:** 2026-09-10
-
-### [Software Engineer, Monetization](https://www.linkedin.com/jobs/view/4310537769/) — Character.ai
-- 📍 **Location:** Redwood City, CA
-- 🕒 **Posted:** 2026-09-10
-
-### [Machine Learning Engineer, Core Engineering](https://www.linkedin.com/jobs/view/4121963772/) — Pinterest
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-09-10
-
-### [Data Scientist](https://www.linkedin.com/jobs/view/4465804511/) — Structure Therapeutics
-- 📍 **Location:** South San Francisco, CA
-- 💰 **Salary:** $148,000.00/yr - $182,000.00/yr
-- 🕒 **Posted:** 2026-09-10
-
-### [Software Engineer in Test](https://www.linkedin.com/jobs/view/4463498081/) — Maganti IT Resources, LLC
-- 📍 **Location:** Fremont, CA
-- 🕒 **Posted:** 2026-09-10
-
-### [Machine Learning Engineer, Generative ML, Level 4](https://www.linkedin.com/jobs/view/4456415385/) — Snap Inc.
+### [Union Mobile Engineer](https://www.linkedin.com/jobs/view/4465840165/) — JLL
 - 📍 **Location:** Palo Alto, CA
+- 💰 **Salary:** $159,120.00/yr - $159,120.00/yr
 - 🕒 **Posted:** 2026-09-10
 
-### [Data Scientist](https://www.linkedin.com/jobs/view/4465809552/) — SPECTRAFORCE
-- 📍 **Location:** Newark, NJ
-- 🕒 **Posted:** 2026-09-10
-
-### [Cloud Engineer](https://www.linkedin.com/jobs/view/4465818246/) — Selby Jennings
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $200,000.00/yr - $250,000.00/yr
-- 🕒 **Posted:** 2026-09-10
-
-### [Software Engineer, Unified Gateway](https://www.linkedin.com/jobs/view/4463468592/) — DoorDash
+### [Machine Learning Engineer](https://www.linkedin.com/jobs/view/4455498028/) — Cognizant
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-09-10
 
-### [Software Engineer, Tokenization](https://www.linkedin.com/jobs/view/4463470511/) — Robinhood
+### [Machine Learning Software Engineer](https://www.linkedin.com/jobs/view/4463492269/) — Morgan & Morgan, P.A.
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-09-10
 
-### [Software Engineer, Product Platform](https://www.linkedin.com/jobs/view/4317483397/) — Cape
+### [Data Scientist](https://www.linkedin.com/jobs/view/4455979098/) — Candid
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-09-10
 
-### [Software Engineer, iOS](https://www.linkedin.com/jobs/view/4317482419/) — Cape
+### [Software Engineer, Data Infrastructure](https://www.linkedin.com/jobs/view/4465823110/) — Drift AI
 - 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-09-10
+
+### [Software Engineer](https://www.linkedin.com/jobs/view/4465816892/) — NBCUniversal
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $105,000.00/yr - $145,000.00/yr
+- 🕒 **Posted:** 2026-09-10
+
+### [Data Scientist - Music Promotion](https://www.linkedin.com/jobs/view/4465816492/) — Spotify
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-09-10
+
+### [Data Infrastructure Engineer (Hadoop)](https://www.linkedin.com/jobs/view/4443483798/) — Magnite
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-09-10
+
+### [Data Infrastructure Engineer - REMOTE](https://www.linkedin.com/jobs/view/4465818911/) — Sligo Software Solutions Inc.
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $70.00/hr - $75.00/hr
+- 🕒 **Posted:** 2026-09-10
+
+### [Software Engineer II, Fintech](https://www.linkedin.com/jobs/view/4465835188/) — Drift AI
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-09-10
+
+### [Software Engineer](https://www.linkedin.com/jobs/view/4444178548/) — Solomon Page
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-09-10
+
+### [Agiloft Software Engineer II](https://www.linkedin.com/jobs/view/4463494268/) — BDO USA
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-09-10
+
+### [Infrastructure Engineer – MuleSoft/CRM Support - REMOTE](https://www.linkedin.com/jobs/view/4465814859/) — Sligo Software Solutions Inc.
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $70.00/hr - $75.00/hr
 - 🕒 **Posted:** 2026-09-10
