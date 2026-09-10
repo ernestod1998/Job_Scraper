@@ -1,66 +1,42 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-09-10 00:18 UTC*
+*Last updated: 2026-09-10 01:18 UTC*
 
-**15 new role(s)** since last run · 34 total in last 1h
+**9 new role(s)** since last run · 24 total in last 1h
 
-### [Applied Scientist, Amazon Music - Search Science](https://www.linkedin.com/jobs/view/4465367292/) — Amazon Music
-- 📍 **Location:** Sunnyvale, CA
+### [Machine Learning Engineer - Payroll](https://www.linkedin.com/jobs/view/4463081766/) — Workday
+- 📍 **Location:** Pleasanton, CA
 - 🕒 **Posted:** 2026-09-09
 
-### [Applied Scientist, Linear Personalization Experience Team (LPEX)](https://www.linkedin.com/jobs/view/4465369334/) — Amazon
-- 📍 **Location:** Sunnyvale, CA
+### [Audio Deep Learning Engineer](https://www.linkedin.com/jobs/view/4464158124/) — StartX Med
+- 📍 **Location:** San Bruno, CA
 - 🕒 **Posted:** 2026-09-09
 
-### [Applied Scientist, Fauna](https://www.linkedin.com/jobs/view/4465353853/) — Amazon
-- 📍 **Location:** Sunnyvale, CA
+### [Marketing Data Scientist](https://www.linkedin.com/jobs/view/4464140871/) — Jobright.ai
+- 📍 **Location:** San Carlos, CA
 - 🕒 **Posted:** 2026-09-09
 
-### [HPC Platform Engineer, Software, Center for Quantum Computing](https://www.linkedin.com/jobs/view/4465371271/) — Amazon Web Services (AWS)
-- 📍 **Location:** San Francisco, CA
+### [Software Engineer - New Grad (2027)](https://www.linkedin.com/jobs/view/4464163116/) — Replit
+- 📍 **Location:** Foster City, CA
+- 💰 **Salary:** $140,000.00/yr - $180,000.00/yr
 - 🕒 **Posted:** 2026-09-09
 
-### [Applied Scientist, Linear Personalization Experience Team (LPEX)](https://www.linkedin.com/jobs/view/4465371277/) — Amazon
-- 📍 **Location:** Sunnyvale, CA
+### [Full Stack Engineer (Los Altos)](https://www.linkedin.com/jobs/view/4464161061/) — StartX Med
+- 📍 **Location:** Los Altos, CA
 - 🕒 **Posted:** 2026-09-09
 
-### [AI/ML Engineer](https://www.linkedin.com/jobs/view/4453026572/) — Slalom
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-09-09
-
-### [Software Engineer II, Athena Engine Front End](https://www.linkedin.com/jobs/view/4465360329/) — Amazon Web Services (AWS)
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-09-09
-
-### [Machine Learning Engineer](https://www.linkedin.com/jobs/view/4464154311/) — NVIDIA
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-09-09
-
-### [Machine Learning Engineer, Level 3](https://www.linkedin.com/jobs/view/4465372192/) — Snap Inc.
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-09-09
-
-### [Machine Learning Engineer, Level 3](https://www.linkedin.com/jobs/view/4465365244/) — Snap Inc.
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-09-09
-
-### [Software Engineer - Apache Spark](https://www.linkedin.com/jobs/view/4464142597/) — Talentum, Inc.
-- 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-09-09
-
-### [EDA Software Engineer](https://www.linkedin.com/jobs/view/4465357080/) — Altera
+### [Software Engineer (Fully Remote)](https://www.linkedin.com/jobs/view/4464175005/) — StartX Med
 - 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-09-09
 
-### [Fullstack Software Engineer](https://www.linkedin.com/jobs/view/4463077611/) — Oscar
-- 📍 **Location:** San Francisco County, CA
-- 💰 **Salary:** $150,000.00/yr - $170,000.00/yr
+### [Summer 2027 AI Software Engineering Internship](https://www.linkedin.com/jobs/view/4465362688/) — Tradeweb
+- 📍 **Location:** Jersey City, NJ
 - 🕒 **Posted:** 2026-09-09
 
-### [Mobile Engineer - Fire Life Safety](https://www.linkedin.com/jobs/view/4465368136/) — JLL
-- 📍 **Location:** Mountain View, CA
-- 💰 **Salary:** $159,120.00/yr - $159,120.00/yr
-- 🕒 **Posted:** 2026-09-09
-
-### [Machine Learning Engineer, Level 3](https://www.linkedin.com/jobs/view/4465365245/) — Snap Inc.
+### [Nutanix & VMware Infrastructure Engineer](https://www.linkedin.com/jobs/view/4464150750/) — Seneca Resources
 - 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-09-09
+
+### [Fullstack Engineer, Ads](https://www.linkedin.com/jobs/view/4464166054/) — Whatnot
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $207,000.00/yr - $230,000.00/yr
 - 🕒 **Posted:** 2026-09-09
