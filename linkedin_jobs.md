@@ -1,52 +1,113 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-09-10 20:18 UTC*
+*Last updated: 2026-09-10 21:18 UTC*
 
-**11 new role(s)** since last run · 23 total in last 1h
+**24 new role(s)** since last run · 27 total in last 1h
 
-### [Platform Engineer](https://www.linkedin.com/jobs/view/4464369058/) — Harrison Clarke
-- 📍 **Location:** San Francisco Bay Area
-- 💰 **Salary:** $240,000.00/yr - $320,000.00/yr
-- 🕒 **Posted:** 2026-09-10
-
-### [Climate data scientist, sustainability](https://www.linkedin.com/jobs/view/4465857490/) — Watershed
+### [Applied AI / ML Engineer](https://www.linkedin.com/jobs/view/4464580907/) — CyRAD Solutions
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-09-10
 
-### [Software Engineer](https://www.linkedin.com/jobs/view/4465861142/) — Sigma Software
-- 📍 **Location:** Foster City, CA
+### [Applied Scientist , Sponsored Products](https://www.linkedin.com/jobs/view/4465833426/) — Amazon
+- 📍 **Location:** Palo Alto, CA
 - 🕒 **Posted:** 2026-09-10
 
-### [Software Engineer, Product Platform (Fullstack)](https://www.linkedin.com/jobs/view/4465851504/) — Triumph
+### [Machine Learning Engineer](https://www.linkedin.com/jobs/view/4464595741/) — Gatik
+- 📍 **Location:** Santa Clara, CA
+- 💰 **Salary:** $170,000.00/yr - $240,000.00/yr
+- 🕒 **Posted:** 2026-09-10
+
+### [HPC & AI Engineer (PhD) / Software Engineer](https://www.linkedin.com/jobs/view/4463914533/) — AMD
+- 📍 **Location:** Santa Clara, CA
+- 💰 **Salary:** $173,600.00/yr - $260,400.00/yr
+- 🕒 **Posted:** 2026-09-10
+
+### [HPC Software Engineer](https://www.linkedin.com/jobs/view/4463915526/) — KLA
+- 📍 **Location:** Milpitas, CA
+- 🕒 **Posted:** 2026-09-10
+
+### [Agiloft Software Engineer II](https://www.linkedin.com/jobs/view/4463912166/) — BDO USA
 - 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $200,000.00/yr - $400,000.00/yr
 - 🕒 **Posted:** 2026-09-10
 
-### [Full-Stack Software Engineer](https://www.linkedin.com/jobs/view/4433176517/) — Quadric
-- 📍 **Location:** Burlingame, CA
+### [Embedded Platform Engineer](https://www.linkedin.com/jobs/view/4463908964/) — Atos
+- 📍 **Location:** San Jose, CA
+- 💰 **Salary:** $100,000.00/yr - $140,000.00/yr
 - 🕒 **Posted:** 2026-09-10
 
-### [Software Engineering Intern – Summer 2027](https://www.linkedin.com/jobs/view/4464804078/) — Tanium
-- 📍 **Location:** Emeryville, CA
+### [Software Engineer - Host and Network IO](https://www.linkedin.com/jobs/view/4465866826/) — Cerebras
+- 📍 **Location:** Sunnyvale, CA
 - 🕒 **Posted:** 2026-09-10
 
-### [Software Engineer - Android](https://www.linkedin.com/jobs/view/4465850603/) — LinkedIn
-- 📍 **Location:** Mountain View, CA
+### [Software Engineer](https://www.linkedin.com/jobs/view/4465865687/) — Outschool
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-09-10
 
-### [Software Engineer](https://www.linkedin.com/jobs/view/4465861508/) — Beyond Reach Labs (YC W26)
-- 📍 **Location:** Brooklyn, NY
-- 💰 **Salary:** $100,000.00/yr - $180,000.00/yr
+### [Software Engineer-Automated Semiconductor Test Equipment](https://www.linkedin.com/jobs/view/4464585725/) — NEXUSTEST PTE LTD
+- 📍 **Location:** Fremont, CA
 - 🕒 **Posted:** 2026-09-10
 
-### [Software Engineer: Platform](https://www.linkedin.com/jobs/view/4465861450/) — Rogo
+### [Embedded Software Engineer](https://www.linkedin.com/jobs/view/4464597607/) — Dinan & Associates Technical Recruiting
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $200,000.00/yr - $230,000.00/yr
+- 🕒 **Posted:** 2026-09-10
+
+### [Machine Learning Engineer - Fraud Risk](https://www.linkedin.com/jobs/view/4463914596/) — Rain
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $250,000.00/yr - $315,000.00/yr
+- 💰 **Salary:** $170,000.00/yr - $240,000.00/yr
 - 🕒 **Posted:** 2026-09-10
 
-### [DevOps Engineer, Infrastructure & Platform](https://www.linkedin.com/jobs/view/4465866558/) — Portra
+### [Data Scientist - Fraud Risk](https://www.linkedin.com/jobs/view/4463921042/) — Rain
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $190,000.00/yr - $230,000.00/yr
+- 🕒 **Posted:** 2026-09-10
+
+### [Software Engineer](https://www.linkedin.com/jobs/view/4464803582/) — Product Pulse
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-09-10
 
-### [2027 Platform Engineering Intern](https://www.linkedin.com/jobs/view/4465847730/) — Schonfeld
+### [Backend Engineer, AI](https://www.linkedin.com/jobs/view/4463906975/) — Rain
 - 📍 **Location:** New York, NY
+- 💰 **Salary:** $165,000.00/yr - $200,000.00/yr
+- 🕒 **Posted:** 2026-09-10
+
+### [DevOps Engineer](https://www.linkedin.com/jobs/view/4464594763/) — Clevanoo LLC
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-09-10
+
+### [Backend Engineer](https://www.linkedin.com/jobs/view/4463918120/) — Rain
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $170,000.00/yr - $240,000.00/yr
+- 🕒 **Posted:** 2026-09-10
+
+### [Software Engineer - Compliance](https://www.linkedin.com/jobs/view/4463922046/) — Rain
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $170,000.00/yr - $240,000.00/yr
+- 🕒 **Posted:** 2026-09-10
+
+### [Front End Software Engineer](https://www.linkedin.com/jobs/view/4429106316/) — Candid Health
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-09-10
+
+### [Agiloft Software Engineer II](https://www.linkedin.com/jobs/view/4463494268/) — BDO USA
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-09-10
+
+### [Software Engineer - Solana](https://www.linkedin.com/jobs/view/4463926017/) — Rain
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $170,000.00/yr - $240,000.00/yr
+- 🕒 **Posted:** 2026-09-10
+
+### [Software Engineer - Stellar](https://www.linkedin.com/jobs/view/4463918119/) — Rain
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $170,000.00/yr - $240,000.00/yr
+- 🕒 **Posted:** 2026-09-10
+
+### [Software Engineer - EVM](https://www.linkedin.com/jobs/view/4463924029/) — Rain
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $200,000.00/yr - $280,000.00/yr
+- 🕒 **Posted:** 2026-09-10
+
+### [iOS Engineer](https://www.linkedin.com/jobs/view/4463920052/) — Rain
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $170,000.00/yr - $240,000.00/yr
 - 🕒 **Posted:** 2026-09-10
