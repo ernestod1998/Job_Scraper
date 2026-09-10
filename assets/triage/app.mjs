@@ -1,4 +1,4 @@
-import { bestScore, parseRankings, rankingDetails } from './rankings.mjs?v=20260908-rank3';
+import { bestScore, parseRankings, rankingDetails } from './rankings.mjs?v=20260910-pending';
 import { classifyRole, classifySeniority, jobFeeds, classifySource, parseSalary, localToday, displayDate, jobDateMs, jobFreshMs, compareByDate, EXCLUDED_TITLE_RE, EXCLUDED_SECURITY_RE, repairBiotechSourceCollision } from './model.mjs';
 import { dedupe } from './groups.mjs?v=20260908-rank3';
 import { createDecisionStore, DECIDE_KEY, TOMB_MS, decide, normalizeTriage, mergeTriage, gcDecisions, resolveDecision, reconcileAliases } from './decisions.mjs';

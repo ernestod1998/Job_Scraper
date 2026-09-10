@@ -17,8 +17,21 @@ test('six resumes, separate review, and escaped evidence',()=>{
   assert.ok(html.includes('Not shortlisted'));
   assert.ok(rankingDetails({...record,sonnet:record.luna}).includes('Sonnet reviewed'));
 });
-test('old five-resume results are not presented as current comparisons',()=>{
+test('old five-resume results remain visible with sixth resume pending',()=>{
   const old = structuredClone(record);
   delete old.luna.scores.Research_Software_Engineer;
+  assert.equal(bestScore(old), 80);
+  assert.ok(rankingDetails(old).includes('Research Software Engineer: pending'));
+  assert.ok(rankingDetails(old).includes('<td>80</td>'));
+  old.status = 'stale';
   assert.equal(bestScore(old), null);
+  assert.ok(rankingDetails(old).includes('Previous resume match'));
+  assert.ok(rankingDetails(old).includes('<td>80</td>'));
+});
+test('malformed sixth scores do not silently become five-resume comparisons',()=>{
+  for (const value of [null, -1, 101, '80']) {
+    const bad = structuredClone(record);
+    bad.luna.scores.Research_Software_Engineer = value;
+    assert.equal(bestScore(bad), null);
+  }
 });
