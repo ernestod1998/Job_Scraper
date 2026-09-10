@@ -6,7 +6,7 @@ import unittest
 from datetime import datetime, timezone, timedelta
 from types import SimpleNamespace
 
-from benchmark.core import RESUMES, scores
+from benchmark.core import RESUMES, scores, validate_result
 from daily_rankings import Runner, schedule_due
 from ranking.core import projection, queue, shortlist
 
@@ -26,6 +26,18 @@ def result(status='matched'):
              'importance': 'required', 'hard_eligibility': True, 'job_evidence_ids': ['JD:1'],
              'assessments': [{'resume_id': r, 'status': status, 'evidence_ids': [r + ':1'],
                               'explanation': 'PRIVATE_EXPLANATION_CANARY'} for r in RESUMES]}]}
+
+
+class ResumeCoverageTests(unittest.TestCase):
+    def test_six_resume_assessments_required(self):
+        self.assertEqual(len(RESUMES), 6)
+        self.assertIn('Research_Software_Engineer', RESUMES)
+        complete = result()
+        validate_result(complete, job(), INPUTS['resumes'], {})
+        self.assertEqual(scores(complete)['Research_Software_Engineer'], 100)
+        complete['requirements'][0]['assessments'].pop()
+        with self.assertRaisesRegex(ValueError, 'incomplete_resume_coverage'):
+            validate_result(complete, job(), INPUTS['resumes'], {})
 
 
 class Store:

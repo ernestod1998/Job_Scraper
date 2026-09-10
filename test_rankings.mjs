@@ -8,11 +8,17 @@ test('invalid and stale scores are never zero or ranked',()=>{
   assert.equal(bestScore({status:'valid',luna:{scores:{SWE:99}}}),null);
   assert.throws(()=>parseRankings({scores:[]}));
 });
-test('five resumes, separate review, and escaped evidence',()=>{
+test('six resumes, separate review, and escaped evidence',()=>{
+  assert.equal(RESUMES.length, 6);
   const html=rankingDetails(record);
   for(const r of RESUMES) assert.ok(html.includes(r.replaceAll('_',' ')));
   assert.ok(html.includes('&lt;img'));
   assert.ok(!html.includes('<img'));
   assert.ok(html.includes('Not shortlisted'));
   assert.ok(rankingDetails({...record,sonnet:record.luna}).includes('Sonnet reviewed'));
+});
+test('old five-resume results are not presented as current comparisons',()=>{
+  const old = structuredClone(record);
+  delete old.luna.scores.Research_Software_Engineer;
+  assert.equal(bestScore(old), null);
 });

@@ -17,6 +17,7 @@ from .providers import APIError, NoRedirect, http_json
 from .storage import private_dir, write_json
 
 PATTERNS = {
+    "Research_Software_Engineer": r"research software|scientific software",
     "BioScience_ML": r"bioinform|computational|cheminform|(?:machine learning|AI).*scientist|scientist.*(?:ML|AI)",
     "ML": r"machine learning|\bML\b|AI engineer|research engineer",
     "DS": r"data scien",

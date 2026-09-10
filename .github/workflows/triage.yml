@@ -36,6 +36,7 @@ jobs:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           RANKING_INPUTS: ${{ secrets.RANKING_INPUTS }}
+          RANKING_RESEARCH_RESUME: ${{ secrets.RANKING_RESEARCH_RESUME }}
           GITHUB_TOKEN: ${{ github.token }}
           RUN_LUNA: ${{ inputs.luna }}
           RUN_SONNET: ${{ inputs.sonnet }}

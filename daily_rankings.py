@@ -234,6 +234,9 @@ def main():
     if os.environ.get('GITHUB_EVENT_NAME') == 'schedule' and not schedule_due(now):
         return
     inputs = json.loads(os.environ['RANKING_INPUTS'])
+    # Keep the existing five resumes and shared facts unchanged.
+    if os.environ.get('RANKING_RESEARCH_RESUME'):
+        inputs['resumes']['Research_Software_Engineer'] = json.loads(os.environ['RANKING_RESEARCH_RESUME'])
     store = GitHubStore(os.environ['GITHUB_REPOSITORY'], os.environ['GITHUB_TOKEN'])
     store.initialize()
     runner = Runner(store, inputs, now, on_publish=progress_publisher())

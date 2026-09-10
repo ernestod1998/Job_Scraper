@@ -1,10 +1,10 @@
-export const RESUMES = ['BioScience_ML', 'ML', 'DS', 'SWE', 'FDE'];
+export const RESUMES = ['BioScience_ML', 'ML', 'DS', 'SWE', 'FDE', 'Research_Software_Engineer'];
 const escape = s => String(s ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const validScore = v => Number.isInteger(v) && v >= 0 && v <= 100;
 export function bestScore(record) {
   if (record?.status !== 'valid') return null;
   const values = RESUMES.map(r => record.luna?.scores?.[r]).filter(validScore);
-  return values.length === 5 ? Math.max(...values) : null;
+  return values.length === RESUMES.length ? Math.max(...values) : null;
 }
 export function parseRankings(data) {
   if (data?.version !== 1 || !data.scores || typeof data.scores !== 'object' || Array.isArray(data.scores)) throw new Error('Invalid rankings');
