@@ -1,24 +1,20 @@
 # 🧬 Biotech LinkedIn — MLE / DS Roles
-*Last updated: 2026-09-09 08:14 UTC*
+*Last updated: 2026-09-10 08:14 UTC*
 
-**5 new role(s)** since last run · 48 total in last 24h
+**4 new role(s)** since last run · 48 total in last 24h
 
-### [Research Scientist, AI](https://job-boards.greenhouse.io/biohub/jobs/7793644) — Chan Zuckerberg Biohub
-- 📍 **Location:** Redwood City, CA (Hybrid)
-- 🕒 **Posted:** 2026-08-28
+### [Bioinformatician](https://job-boards.greenhouse.io/natera/jobs/6187373004) — Natera
+- 📍 **Location:** US Remote
+- 🕒 **Posted:** 2026-09-09
 
-### [Machine Learning Scientist II, Drug Discovery Analytics](https://www.revmed.com/careers-list/?gh_jid=7984019003) — Revolution Medicines
-- 📍 **Location:** Redwood City, California, United States
-- 🕒 **Posted:** 2026-09-08
-
-### [ML Scientist I/II, Nucleic Acid Design](https://www.linkedin.com/jobs/view/4446144681/) — Lila Sciences
+### [Software Engineer, Tools and Automation](https://jobs.ashbyhq.com/benchling/ba0bcb25-d2e9-4ef6-ada0-dc5f7ea5424e) — Benchling
 - 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-09-08
+- 🕒 **Posted:** 2026-09-09
 
-### [Head, Innovation Accelerator Data Science](https://www.linkedin.com/jobs/view/4445495241/) — Genentech
-- 📍 **Location:** South San Francisco, CA
-- 🕒 **Posted:** 2026-09-08
+### [Data Scientist/Postdoctoral Researcher - Zhou & Gao Labs](https://www.linkedin.com/jobs/view/4465381452/) — Buck Institute for Research on Aging
+- 📍 **Location:** Novato, CA
+- 🕒 **Posted:** 2026-09-10
 
-### [Intern - Research - Data Sciences](https://www.linkedin.com/jobs/view/4463260225/) — Gilead Sciences
-- 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-09-08
+### [Innovation, Data & Analytics Team, AI/ML Engineer (Agentic Systems)](https://www.linkedin.com/jobs/view/4465334031/) — Pfizer
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-09-09
