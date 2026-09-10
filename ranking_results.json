@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-09-10T19:34:36.113013+00:00",
+  "updated_at": "2026-09-10T19:39:45.825326+00:00",
   "day": "2026-09-10",
   "context": "82bea7faf9add1960b42f0a2572b8295e284d851f2b663c29fbf8ae3dceb3486",
   "scores": {
@@ -22811,6 +22811,1082 @@
         }
       },
       "scored_at": "2026-09-10T19:06:42.250817+00:00"
+    },
+    "https://www.linkedin.com/jobs/view/4463491763/": {
+      "url": "https://www.linkedin.com/jobs/view/4463491763/",
+      "context": "82bea7faf9add1960b42f0a2572b8295e284d851f2b663c29fbf8ae3dceb3486",
+      "description_hash": "abbb3041cba775bd1b6a40877716bb931517d18f89e08ed85b2f782b85d2113c",
+      "status": "valid",
+      "luna": {
+        "model": "gpt-5.6-luna",
+        "scores": {
+          "BioScience_ML": 36,
+          "ML": 36,
+          "DS": 36,
+          "SWE": 36,
+          "FDE": 40
+        },
+        "best_resumes": [
+          "FDE"
+        ],
+        "requirements": [
+          {
+            "text": "We work from our Palo Alto office 3–5 days a week and welcome applicants who are eager to contribute onsite.",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "not_evidenced",
+              "ML": "not_evidenced",
+              "DS": "not_evidenced",
+              "SWE": "not_evidenced",
+              "FDE": "not_evidenced"
+            }
+          },
+          {
+            "text": "Experience: 5+ years engineering experience, with a strong track record in inference acceleration and model deployment at scale.",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "matched",
+              "FDE": "matched"
+            }
+          },
+          {
+            "text": "Experience: 5+ years engineering experience, with a strong track record in inference acceleration and model deployment at scale.",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial"
+            }
+          },
+          {
+            "text": "Inference Mastery: Proven expertise in inference optimization, including quantization, attention acceleration, and deep learning compiler stacks.",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "not_evidenced",
+              "ML": "not_evidenced",
+              "DS": "not_evidenced",
+              "SWE": "not_evidenced",
+              "FDE": "not_evidenced"
+            }
+          },
+          {
+            "text": "GPU & Parallelism: Deep knowledge of GPU programming (CUDA, NCCL) and experience with SP, TP, PP, and other forms of parallelism for distributed inference.",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial"
+            }
+          },
+          {
+            "text": "AI Domain Knowledge: Familiarity with video generation (videogen) models and large language models (LLMs).",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial"
+            }
+          },
+          {
+            "text": "Collaboration: Strong cross-discipline communication skills; able to drive shared goals across research and engineering functions.",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial"
+            }
+          },
+          {
+            "text": "Ownership Mindset: Self-driven, solutions-oriented, and capable of managing ambiguity in a fast-paced startup environment.",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "matched"
+            }
+          },
+          {
+            "text": "Improve Training Efficiency: (Bonus) Contribute to improvements in model training speed, stability, and resource utilization as part of our deployment lifecycle.",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "not_evidenced",
+              "ML": "not_evidenced",
+              "DS": "not_evidenced",
+              "SWE": "not_evidenced",
+              "FDE": "not_evidenced"
+            }
+          },
+          {
+            "text": "Experience with high-throughput video or real-time streaming model deployment",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "not_evidenced",
+              "ML": "not_evidenced",
+              "DS": "not_evidenced",
+              "SWE": "not_evidenced",
+              "FDE": "not_evidenced"
+            }
+          },
+          {
+            "text": "Familiarity with distributed training and optimization toolkits",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "not_evidenced",
+              "ML": "not_evidenced",
+              "DS": "not_evidenced",
+              "SWE": "not_evidenced",
+              "FDE": "not_evidenced"
+            }
+          },
+          {
+            "text": "Contributions to open source projects in AI infrastructure or deep learning compilers",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial"
+            }
+          },
+          {
+            "text": "Startup or rapid prototyping experience",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "not_evidenced",
+              "ML": "not_evidenced",
+              "DS": "not_evidenced",
+              "SWE": "not_evidenced",
+              "FDE": "not_evidenced"
+            }
+          },
+          {
+            "text": "Technical Excellence: Drive rigorous code reviews, participate in technical discussions, and mentor fellow engineers on best practices in inference and GPU programming.",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "not_evidenced",
+              "ML": "not_evidenced",
+              "DS": "not_evidenced",
+              "SWE": "not_evidenced",
+              "FDE": "not_evidenced"
+            }
+          },
+          {
+            "text": "Advance AI Deployment: Collaborate with research and engineering teams to bring state-of-the-art videogen and large language models into production.",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial"
+            }
+          }
+        ],
+        "usage": {
+          "input": 10143,
+          "output": 5938,
+          "thinking": 1293,
+          "cached": 0,
+          "cache_write": 10140,
+          "cost": 9661200
+        }
+      },
+      "scored_at": "2026-09-10T19:06:42.250817+00:00"
+    },
+    "https://www.linkedin.com/jobs/view/4465804511/": {
+      "url": "https://www.linkedin.com/jobs/view/4465804511/",
+      "context": "82bea7faf9add1960b42f0a2572b8295e284d851f2b663c29fbf8ae3dceb3486",
+      "description_hash": "2ff50567ebdb97f794eb1bd4162d2a967592e4367079d3d5a2ad948e467db8d4",
+      "status": "valid",
+      "luna": {
+        "model": "gpt-5.6-luna",
+        "scores": {
+          "BioScience_ML": 64,
+          "ML": 64,
+          "DS": 64,
+          "SWE": 70,
+          "FDE": 64
+        },
+        "best_resumes": [
+          "SWE"
+        ],
+        "requirements": [
+          {
+            "text": "Bachelor’s degree in computer science, Data Science, Statistics, Mathematics, or a related field.",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "matched",
+              "FDE": "matched"
+            }
+          },
+          {
+            "text": "Minimum of 10 years of Data Science experience with a Bachelor’s degree, 8 years with a Master’s, or 4 years with a Ph.D., including at least 3 years of hands-on experience developing production-grade software in programming languages such as Python or R.",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial"
+            }
+          },
+          {
+            "text": "Demonstrated understanding of software architecture, performance optimization and validation.",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "matched",
+              "FDE": "partial"
+            }
+          },
+          {
+            "text": "Strong expertise in Machine Learning and Deep Learning techniques (e.g., Scikit-learn, TensorFlow, or PyTorch).",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "matched",
+              "FDE": "matched"
+            }
+          },
+          {
+            "text": "Familiar with data visualization tools such as ggplot2. Plotly, Matplotlib or Seaborn.",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "not_evidenced",
+              "ML": "not_evidenced",
+              "DS": "not_evidenced",
+              "SWE": "not_evidenced",
+              "FDE": "not_evidenced"
+            }
+          },
+          {
+            "text": "Strong analytical thinking and problem-solving skills.",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "matched",
+              "FDE": "matched"
+            }
+          },
+          {
+            "text": "Experienced with Github.",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "matched",
+              "FDE": "matched"
+            }
+          },
+          {
+            "text": "Master’s or Ph.D degree in Computer Science, Machine Learning, Statistics, Mathematics, or a related field.",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial"
+            }
+          },
+          {
+            "text": "Experience with cloud-computing platforms (AWS, GCP, or Azure) and containerization (e.g., Docker).",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "matched",
+              "FDE": "matched"
+            }
+          },
+          {
+            "text": "Experience with creating Large Language Models (LLMs) and GenAI based solution in production environment.",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial"
+            }
+          },
+          {
+            "text": "Experienced in designing and implementing CI/CD pipelines.",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "matched",
+              "FDE": "matched"
+            }
+          },
+          {
+            "text": "Travel Required: Connection week",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "not_evidenced",
+              "ML": "not_evidenced",
+              "DS": "not_evidenced",
+              "SWE": "not_evidenced",
+              "FDE": "not_evidenced"
+            }
+          }
+        ],
+        "usage": {
+          "input": 8631,
+          "output": 4922,
+          "thinking": 1137,
+          "cached": 0,
+          "cache_write": 8628,
+          "cost": 8064000
+        }
+      },
+      "scored_at": "2026-09-10T19:06:42.250817+00:00"
+    },
+    "https://www.indeed.com/viewjob?jk=55657fdd4430135d": {
+      "url": "https://www.indeed.com/viewjob?jk=55657fdd4430135d",
+      "context": "82bea7faf9add1960b42f0a2572b8295e284d851f2b663c29fbf8ae3dceb3486",
+      "description_hash": "1ea0f40c56ec88538653db7dc5d1ba7fa7b776fb48c472ac8a9100835d346911",
+      "status": "valid",
+      "luna": {
+        "model": "gpt-5.6-luna",
+        "scores": {
+          "BioScience_ML": 38,
+          "ML": 38,
+          "DS": 38,
+          "SWE": 38,
+          "FDE": 44
+        },
+        "best_resumes": [
+          "FDE"
+        ],
+        "requirements": [
+          {
+            "text": "* Have strong backend software engineering fundamentals and experience building production\\-grade distributed systems.",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "matched",
+              "FDE": "matched"
+            }
+          },
+          {
+            "text": "* Have strong backend software engineering fundamentals and experience building production\\-grade distributed systems.",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial"
+            }
+          },
+          {
+            "text": "* Are proficient in one or more backend languages such as Python, Go, Rust, Java, or C\\+\\+.",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "matched",
+              "FDE": "matched"
+            }
+          },
+          {
+            "text": "* Have experience with security, identity, authorization, encryption, key management, policy systems, or enterprise governance.",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "not_evidenced",
+              "ML": "not_evidenced",
+              "DS": "not_evidenced",
+              "SWE": "not_evidenced",
+              "FDE": "not_evidenced"
+            }
+          },
+          {
+            "text": "* Understand enterprise foundations such as SSO/SAML/OIDC, SCIM, RBAC, audit logging, compliance controls, and data governance.",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "not_evidenced",
+              "ML": "not_evidenced",
+              "DS": "not_evidenced",
+              "SWE": "not_evidenced",
+              "FDE": "not_evidenced"
+            }
+          },
+          {
+            "text": "* Enjoy building foundational platform capabilities that unlock many product surfaces and customer workflows.",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "not_evidenced",
+              "ML": "not_evidenced",
+              "DS": "not_evidenced",
+              "SWE": "not_evidenced",
+              "FDE": "not_evidenced"
+            }
+          },
+          {
+            "text": "* Are comfortable working across ambiguous technical and product requirements, especially in fast\\-moving 0 1 environments.",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "not_evidenced",
+              "ML": "not_evidenced",
+              "DS": "not_evidenced",
+              "SWE": "not_evidenced",
+              "FDE": "partial"
+            }
+          },
+          {
+            "text": "* Care deeply about reliability, security, observability, and customer trust.",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial"
+            }
+          }
+        ],
+        "usage": {
+          "input": 8603,
+          "output": 3723,
+          "thinking": 1474,
+          "cached": 0,
+          "cache_write": 8600,
+          "cost": 6618200
+        }
+      },
+      "scored_at": "2026-09-10T19:06:42.250817+00:00"
+    },
+    "https://www.linkedin.com/jobs/view/4464520438/": {
+      "url": "https://www.linkedin.com/jobs/view/4464520438/",
+      "context": "82bea7faf9add1960b42f0a2572b8295e284d851f2b663c29fbf8ae3dceb3486",
+      "description_hash": "a549ee81e4536c91153c7a5928adc9a4a278f6c61952300c8dedf7aa7269f707",
+      "status": "valid",
+      "luna": {
+        "model": "gpt-5.6-luna",
+        "scores": {
+          "BioScience_ML": 46,
+          "ML": 46,
+          "DS": 46,
+          "SWE": 46,
+          "FDE": 46
+        },
+        "best_resumes": [
+          "BioScience_ML",
+          "DS",
+          "FDE",
+          "ML",
+          "SWE"
+        ],
+        "requirements": [
+          {
+            "text": "PhD, MS, or BS in Computer Science, Machine Learning, Statistics, Engineering, or a related field; or equivalent professional experience",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "matched",
+              "FDE": "matched"
+            }
+          },
+          {
+            "text": "2+ years of related industry experience",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "matched",
+              "FDE": "matched"
+            }
+          },
+          {
+            "text": "Demonstrated experience designing and deploying agentic or multi-step AI systems (e.g., ReAct, tool-calling agents, multi-agent pipelines) in production or research settings",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "not_evidenced",
+              "ML": "not_evidenced",
+              "DS": "not_evidenced",
+              "SWE": "not_evidenced",
+              "FDE": "not_evidenced"
+            }
+          },
+          {
+            "text": "Proficiency in Python and ML frameworks (PyTorch, TensorFlow, or JAX); experience with LLM APIs and orchestration libraries (e.g., LangChain, LlamaIndex, or similar)",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial"
+            }
+          },
+          {
+            "text": "Experience integrating LLMs with external tools, APIs, and structured data sources for real-world task completion",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial"
+            }
+          },
+          {
+            "text": "Understanding of prompt engineering techniques including chain-of-thought, few-shot prompting, and structured output generation",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "not_evidenced",
+              "ML": "not_evidenced",
+              "DS": "not_evidenced",
+              "SWE": "not_evidenced",
+              "FDE": "not_evidenced"
+            }
+          },
+          {
+            "text": "Experience defining and running evaluation frameworks for ML systems, including offline benchmarking and production monitoring",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial"
+            }
+          },
+          {
+            "text": "Experience in the travel or e-commerce industry",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "not_evidenced",
+              "ML": "not_evidenced",
+              "DS": "not_evidenced",
+              "SWE": "not_evidenced",
+              "FDE": "not_evidenced"
+            }
+          },
+          {
+            "text": "Publications in top-tier ML conferences or journals",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial"
+            }
+          },
+          {
+            "text": "Patented Inventions, pending and issued",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "not_evidenced",
+              "ML": "not_evidenced",
+              "DS": "not_evidenced",
+              "SWE": "not_evidenced",
+              "FDE": "not_evidenced"
+            }
+          },
+          {
+            "text": "Contributions to open-source ML projects",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial"
+            }
+          },
+          {
+            "text": "Experience taking models from prototype to production in collaboration with Machine Learning Engineering teams",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial"
+            }
+          }
+        ],
+        "usage": {
+          "input": 9166,
+          "output": 4817,
+          "thinking": 1053,
+          "cached": 0,
+          "cache_write": 9163,
+          "cost": 8071750
+        }
+      },
+      "scored_at": "2026-09-10T19:06:42.250817+00:00"
+    },
+    "https://www.linkedin.com/jobs/view/4463492269/": {
+      "url": "https://www.linkedin.com/jobs/view/4463492269/",
+      "context": "82bea7faf9add1960b42f0a2572b8295e284d851f2b663c29fbf8ae3dceb3486",
+      "description_hash": "8e3fdb2fe1fa42afe1f77045e7b0cccee2a04085c29f5a20b3a1d1b95c0b0bac",
+      "status": "valid",
+      "luna": {
+        "model": "gpt-5.6-luna",
+        "scores": {
+          "BioScience_ML": 35,
+          "ML": 35,
+          "DS": 35,
+          "SWE": 35,
+          "FDE": 35
+        },
+        "best_resumes": [
+          "BioScience_ML",
+          "DS",
+          "FDE",
+          "ML",
+          "SWE"
+        ],
+        "requirements": [
+          {
+            "text": "We’re looking for a Machine Learning Software Engineer who is passionate about building high-quality software and leading engineering teams with a strong sense of technical rigor and collaboration. In this role, you’ll drive technical direction, mentor engineers, and guide the team toward sound engineering practices in a fast-paced, agile environment.",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "not_evidenced",
+              "ML": "not_evidenced",
+              "DS": "not_evidenced",
+              "SWE": "not_evidenced",
+              "FDE": "not_evidenced"
+            }
+          },
+          {
+            "text": "· Design, build, and deploy ML models and pipelines at scale",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "matched",
+              "FDE": "matched"
+            }
+          },
+          {
+            "text": "· Partner with software engineers to integrate ML into products",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "matched",
+              "FDE": "matched"
+            }
+          },
+          {
+            "text": "· Elevate code quality: Champion test-driven development, code hygiene, and clean architecture across the team",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "matched",
+              "FDE": "matched"
+            }
+          },
+          {
+            "text": "· Design leadership: Own the authoring and review of technical design documents that drive shared understanding and decision-making across teams",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "matched",
+              "FDE": "partial"
+            }
+          },
+          {
+            "text": "· Agile delivery: Lead sprint planning, retrospectives, and incremental delivery with a strong bias toward iteration and value delivery",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "not_evidenced",
+              "ML": "not_evidenced",
+              "DS": "not_evidenced",
+              "SWE": "not_evidenced",
+              "FDE": "not_evidenced"
+            }
+          },
+          {
+            "text": "· Deep proficiency in Python, particularly with FastAPI or similar frameworks",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "matched",
+              "FDE": "matched"
+            }
+          },
+          {
+            "text": "· Strong experience with React and front-end application architecture",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "not_evidenced",
+              "ML": "not_evidenced",
+              "DS": "not_evidenced",
+              "SWE": "not_evidenced",
+              "FDE": "not_evidenced"
+            }
+          },
+          {
+            "text": "· Lead by example: Design and implement scalable, robust systems across the backend (Python/FastAPI), frontend (React), and cloud infrastructure (AWS)",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "matched",
+              "FDE": "matched"
+            }
+          },
+          {
+            "text": "· Mentor and grow engineers: Provide technical mentorship and encourage a growth mindset through regular feedback and coaching",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "not_evidenced",
+              "ML": "not_evidenced",
+              "DS": "not_evidenced",
+              "SWE": "not_evidenced",
+              "FDE": "not_evidenced"
+            }
+          },
+          {
+            "text": "· Cross-functional alignment: Collaborate with product managers, designers, and other stakeholders to ensure alignment on roadmap priorities and delivery timelines",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial"
+            }
+          },
+          {
+            "text": "· Build for resilience: Design systems with fault tolerance, observability, and graceful degradation in mind; guide the team in applying principles of reliability and operational excellence",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial"
+            }
+          },
+          {
+            "text": "· 7+ years of professional software development experience",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "confirmed_unmet",
+              "ML": "confirmed_unmet",
+              "DS": "confirmed_unmet",
+              "SWE": "confirmed_unmet",
+              "FDE": "confirmed_unmet"
+            }
+          },
+          {
+            "text": "· 4+ years of professional experience with AI/ML/LLM or exposure to machine learning systems and large language models",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "matched",
+              "FDE": "matched"
+            }
+          },
+          {
+            "text": "· Experience with infrastructure-as-code (Terraform, CDK, or similar)",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "matched",
+              "FDE": "matched"
+            }
+          },
+          {
+            "text": "· Familiarity with system observability tools (e.g., Datadog, OpenTelemetry)",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "not_evidenced",
+              "ML": "not_evidenced",
+              "DS": "not_evidenced",
+              "SWE": "not_evidenced",
+              "FDE": "not_evidenced"
+            }
+          },
+          {
+            "text": "· Contributions to open source or technical writing (blogs, documentation, etc.)",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "matched",
+              "FDE": "matched"
+            }
+          }
+        ],
+        "usage": {
+          "input": 8873,
+          "output": 6408,
+          "thinking": 1221,
+          "cached": 0,
+          "cache_write": 8870,
+          "cost": 9907700
+        }
+      },
+      "scored_at": "2026-09-10T19:06:42.250817+00:00"
+    },
+    "https://www.indeed.com/viewjob?jk=5e5c01c2043b5118": {
+      "url": "https://www.indeed.com/viewjob?jk=5e5c01c2043b5118",
+      "context": "82bea7faf9add1960b42f0a2572b8295e284d851f2b663c29fbf8ae3dceb3486",
+      "description_hash": "dd4343c56ea6b793ceddde9381f396e51ac6b79bbb98cd6a7e54ff452ce0ddda",
+      "status": "valid",
+      "luna": {
+        "model": "gpt-5.6-luna",
+        "scores": {
+          "BioScience_ML": 46,
+          "ML": 46,
+          "DS": 46,
+          "SWE": 50,
+          "FDE": 46
+        },
+        "best_resumes": [
+          "SWE"
+        ],
+        "requirements": [
+          {
+            "text": "We're looking for exceptional full stack product engineers who love building polished consumer experiences from the ground up.",
+            "importance": "required",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial"
+            }
+          },
+          {
+            "text": "* Are comfortable moving across frontend, backend, infrastructure, and product architecture.",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial"
+            }
+          },
+          {
+            "text": "* Have strong systems thinking while maintaining exceptional attention to detail.",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial"
+            }
+          },
+          {
+            "text": "* Communicate well across engineering, design, product, and research teams.",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial"
+            }
+          },
+          {
+            "text": "* Strong experience with modern frontend technologies (React, TypeScript, Next.js, or similar).",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "not_evidenced",
+              "ML": "not_evidenced",
+              "DS": "not_evidenced",
+              "SWE": "partial",
+              "FDE": "not_evidenced"
+            }
+          },
+          {
+            "text": "* Experience building scalable backend services using Python, Go, Node.js, Rust, or comparable technologies.",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial"
+            }
+          },
+          {
+            "text": "* Familiarity with distributed systems, APIs, and cloud infrastructure.",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial"
+            }
+          },
+          {
+            "text": "* Experience building highly interactive consumer products.",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "not_evidenced",
+              "ML": "not_evidenced",
+              "DS": "not_evidenced",
+              "SWE": "not_evidenced",
+              "FDE": "not_evidenced"
+            }
+          },
+          {
+            "text": "* Background working with AI, machine learning products, search, recommendations, personalization, or multimodal systems is a plus.",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "matched",
+              "FDE": "matched"
+            }
+          },
+          {
+            "text": "* A track record of shipping products quickly while maintaining engineering quality.",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial"
+            }
+          }
+        ],
+        "usage": {
+          "input": 8661,
+          "output": 4894,
+          "thinking": 1653,
+          "cached": 0,
+          "cache_write": 8658,
+          "cost": 8037900
+        }
+      },
+      "scored_at": "2026-09-10T19:06:42.250817+00:00"
     }
   },
   "limits": {
@@ -22818,7 +23894,7 @@
     "sonnet": 5
   },
   "attempts_today": {
-    "luna": 36,
+    "luna": 42,
     "sonnet": 0
   }
 }
