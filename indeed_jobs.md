@@ -1,39 +1,62 @@
 # 🟦 Indeed — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-09-11 00:30 UTC*
+*Last updated: 2026-09-11 05:08 UTC*
 
-**7 new role(s)** since last run · 97 total in last 24h
+**12 new role(s)** since last run · 90 total in last 24h
 
-### [Machine Learning Engineer](https://www.indeed.com/viewjob?jk=7ad706dadadab692) — Gatik
-- 📍 **Location:** Santa Clara, CA, US
-- 💰 **Salary:** $170k–$240k/yr
-- 🕒 **Posted:** 2026-09-10
-
-### [Software Engineer (Contractor)](https://www.indeed.com/viewjob?jk=6bd7b0b7816bf1b6) — Eikon Therapeutics
-- 📍 **Location:** Millbrae, CA, US
-- 💰 **Salary:** $56–$68/hr
-- 🕒 **Posted:** 2026-09-10
-
-### [Internship, Software Engineer, Update Systems Validation (Winter/Spring 2027)](https://www.indeed.com/viewjob?jk=5f71784dda0169ea) — Tesla
-- 📍 **Location:** Palo Alto, CA, US
-- 💰 **Salary:** $42–$56/hr
-- 🕒 **Posted:** 2026-09-10
-
-### [Software Engineer (L5/6) - Infrastructure Management](https://www.indeed.com/viewjob?jk=6533b8d16e849216) — Netflix
-- 📍 **Location:** Los Gatos, CA, US
-- 💰 **Salary:** $499k–$900k/yr
-- 🕒 **Posted:** 2026-08-31
-
-### [Software Engineer](https://www.indeed.com/viewjob?jk=2fcd6dbcefb613d4) — Sydecar
+### [Research Engineer (ML)](https://www.indeed.com/viewjob?jk=aca83b2ad4850eed) — Gladstone Institutes
 - 📍 **Location:** San Francisco, CA, US
-- 💰 **Salary:** $135k–$185k/yr
+- 💰 **Salary:** $88k–$120k/yr
 - 🕒 **Posted:** 2026-09-10
 
-### [Software Engineer](https://www.indeed.com/viewjob?jk=464ad83be25387d1) — EnTech Engineering, PC
+### [Software Engineer Intern](https://www.indeed.com/viewjob?jk=a678b99faf8e0694) — SK hynix memory solutions
+- 📍 **Location:** San Jose, CA, US
+- 💰 **Salary:** $35–$45/hr
+- 🕒 **Posted:** 2026-09-10
+
+### [Software Engineer Intern](https://www.indeed.com/viewjob?jk=8570fc8d34e50f7c) — Unknown
+- 📍 **Location:** Menlo Park, CA, US
+- 💰 **Salary:** $20–$40/hr
+- 🕒 **Posted:** 2026-09-10
+
+### [HPC Software Engineer](https://www.indeed.com/viewjob?jk=519d4ec011b71b97) — KLA
+- 📍 **Location:** Milpitas, CA, US
+- 💰 **Salary:** $136k–$232k/yr
+- 🕒 **Posted:** 2026-09-10
+
+### [Full-Stack Software Engineer, Emerging Products](https://www.indeed.com/viewjob?jk=2447ab266b2c16e2) — OpenAI
+- 📍 **Location:** San Francisco, CA, US
+- 💰 **Salary:** $295k–$445k/yr
+- 🕒 **Posted:** 2026-09-10
+
+### [Software Engineer](https://www.indeed.com/viewjob?jk=d7bc0f2a454851b0) — Super Micro Computer, Inc.
+- 📍 **Location:** San Jose, CA, US
+- 💰 **Salary:** $100k–$115k/yr
+- 🕒 **Posted:** 2026-09-10
+
+### [Software Engineer](https://www.indeed.com/viewjob?jk=00e73b1c7d42ad0b) — Super Micro Computer, Inc.
+- 📍 **Location:** San Jose, CA, US
+- 💰 **Salary:** $100k–$115k/yr
+- 🕒 **Posted:** 2026-09-10
+
+### [HPC & AI Engineer (PhD) / Software Engineer](https://www.indeed.com/viewjob?jk=bc4f1d986f89df54) — AMD
+- 📍 **Location:** Santa Clara, CA, US
+- 🕒 **Posted:** 2026-09-10
+
+### [Software Engineer, Product](https://www.indeed.com/viewjob?jk=eb31c9cceea3df5d) — American Housing
+- 📍 **Location:** San Francisco, CA, US
+- 🕒 **Posted:** 2026-09-10
+
+### [Software Engineer 3](https://www.indeed.com/viewjob?jk=17d4577fc7f8f41d) — eBay
+- 📍 **Location:** San Jose, CA, US
+- 💰 **Salary:** $170k–$230k/yr
+- 🕒 **Posted:** 2026-09-10
+
+### [Software Engineer](https://www.indeed.com/viewjob?jk=36b8d4312204cfa3) — The Hearst Corporation
 - 📍 **Location:** New York, NY, US
-- 💰 **Salary:** $92k–$100k/yr
+- 💰 **Salary:** $116k–$125k/yr
 - 🕒 **Posted:** 2026-09-10
 
-### [Software Engineer](https://www.indeed.com/viewjob?jk=6682cd2d3d5b941a) — Unknown
-- 📍 **Location:** Brooklyn, NY, US
-- 💰 **Salary:** $100k–$180k/yr
+### [Infrastructure Engineer III](https://www.indeed.com/viewjob?jk=9edf28d107bf8ecf) — JPMorganChase
+- 📍 **Location:** Jersey City, NJ, US
+- 💰 **Salary:** $119k–$160k/yr
 - 🕒 **Posted:** 2026-09-10
