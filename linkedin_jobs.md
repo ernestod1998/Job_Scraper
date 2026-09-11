@@ -1,57 +1,61 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-09-11 01:18 UTC*
+*Last updated: 2026-09-11 02:18 UTC*
 
-**12 new role(s)** since last run · 25 total in last 1h
+**13 new role(s)** since last run · 23 total in last 1h
 
-### [2027 Summer Intern, PhD, Machine Learning, Computer Vision](https://www.linkedin.com/jobs/view/4464817657/) — CapitalG
-- 📍 **Location:** Mountain View, CA
-- 🕒 **Posted:** 2026-09-10
-
-### [Software Engineer, Maneuvering Tech](https://www.linkedin.com/jobs/view/4464598882/) — Waymo
-- 📍 **Location:** Mountain View, CA
-- 🕒 **Posted:** 2026-09-10
-
-### [Software Engineer](https://www.linkedin.com/jobs/view/4466002585/) — ServiceNow
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-09-10
-
-### [Software Engineer, Maneuvering Tech](https://www.linkedin.com/jobs/view/4464594830/) — Waymo
+### [Data Scientist, Product](https://www.linkedin.com/jobs/view/4465873875/) — Ascend
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-09-10
 
-### [GNSS Software Engineer](https://www.linkedin.com/jobs/view/4464810673/) — Protingent
-- 📍 **Location:** San Jose, CA
+### [Software Engineer, Machine Learning](https://www.linkedin.com/jobs/view/4466013670/) — AppLovin
+- 📍 **Location:** Palo Alto, CA
 - 🕒 **Posted:** 2026-09-10
 
-### [Systems Software Engineer - Machine Learning Ops](https://www.linkedin.com/jobs/view/4465899627/) — Alignerr
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $50.00/hr - $75.00/hr
+### [Software Engineer](https://www.linkedin.com/jobs/view/4463939227/) — JOLT
+- 📍 **Location:** San Francisco Bay Area
 - 🕒 **Posted:** 2026-09-10
 
-### [Python Software Engineer - AI Workflows](https://www.linkedin.com/jobs/view/4466008572/) — Alignerr
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $50.00/hr - $75.00/hr
+### [Software Engineer, AI Infrastructure - LVM Inference & Evaluation](https://www.linkedin.com/jobs/view/4466001630/) — Ambient.ai
+- 📍 **Location:** San Francisco Bay Area
 - 🕒 **Posted:** 2026-09-10
 
-### [Software Engineer (C#) - Internal Tooling](https://www.linkedin.com/jobs/view/4466009567/) — Alignerr
-- 📍 **Location:** New York, NY
+### [Infrastructure Engineer](https://www.linkedin.com/jobs/view/4464830077/) — Forage
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $160,000.00/yr - $180,000.00/yr
 - 🕒 **Posted:** 2026-09-10
 
-### [Rust Software Engineer - Distributed Systems](https://www.linkedin.com/jobs/view/4466000573/) — Alignerr
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $50.00/hr - $75.00/hr
+### [Software Engineer, Product](https://www.linkedin.com/jobs/view/4466001907/) — The American Housing Corporation
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-09-10
 
-### [Data Platform Engineer (Python)](https://www.linkedin.com/jobs/view/4466002601/) — Alignerr
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $50.00/hr - $75.00/hr
-- 🕒 **Posted:** 2026-09-10
-
-### [Front End Software Engineer](https://www.linkedin.com/jobs/view/4429106316/) — Candid Health
+### [Research Engineer](https://www.linkedin.com/jobs/view/4464821915/) — Thomson Reuters
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-09-10
 
-### [Computer Vision & ML Expert](https://www.linkedin.com/jobs/view/4464070534/) — Alignerr
+### [Quantitative Software Engineer](https://www.linkedin.com/jobs/view/4466000916/) — Fractal Power
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $100.00/hr - $150.00/hr
+- 💰 **Salary:** $220,000.00/yr - $300,000.00/yr
+- 🕒 **Posted:** 2026-09-10
+
+### [Full-Stack Engineer](https://www.linkedin.com/jobs/view/4466006909/) — Ascertain
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $150,000.00/yr - $180,000.00/yr
+- 🕒 **Posted:** 2026-09-10
+
+### [Bioinformatician II  - Genetics](https://www.linkedin.com/jobs/view/4464808858/) — Mount Sinai Health System
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-09-10
+
+### [Data Infrastructure Engineer](https://www.linkedin.com/jobs/view/4466019025/) — Imprint
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $170,000.00/yr - $230,000.00/yr
+- 🕒 **Posted:** 2026-09-10
+
+### [Software Engineer, Product](https://www.linkedin.com/jobs/view/4466020017/) — The American Housing Corporation
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-09-10
+
+### [Full Stack Engineer (Java / Spring Boot / React)](https://www.linkedin.com/jobs/view/4464594781/) — Randstad Digital Americas
+- 📍 **Location:** Jersey City, NJ
+- 💰 **Salary:** $40.00/hr - $45.00/hr
 - 🕒 **Posted:** 2026-09-10
