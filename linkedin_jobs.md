@@ -1,64 +1,37 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-09-11 19:18 UTC*
+*Last updated: 2026-09-11 20:18 UTC*
 
-**15 new role(s)** since last run · 24 total in last 1h
+**7 new role(s)** since last run · 7 total in last 1h
 
-### [Data Scientist](https://www.linkedin.com/jobs/view/4454653089/) — Applied Materials
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-09-11
-
-### [Data Scientist](https://www.linkedin.com/jobs/view/4401794091/) — Samba
+### [Software Engineer II - Insider Risk](https://www.linkedin.com/jobs/view/4465165004/) — Abnormal AI
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-09-11
 
-### [Data Science Intern, Algorithms (Summer 2027)](https://www.linkedin.com/jobs/view/4466354432/) — Lyft
-- 📍 **Location:** San Francisco County, CA
-- 🕒 **Posted:** 2026-09-11
-
-### [Software Engineer I](https://www.linkedin.com/jobs/view/4466344646/) — EPITEC
-- 📍 **Location:** Menlo Park, CA
-- 🕒 **Posted:** 2026-09-11
-
-### [Software Engineer, Calibration](https://www.linkedin.com/jobs/view/4448812062/) — Aurora
+### [Climate data scientist, sustainability](https://www.linkedin.com/jobs/view/4466378361/) — Watershed
 - 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $193,500.00/yr - $202,100.00/yr
 - 🕒 **Posted:** 2026-09-11
 
-### [Software Engineer, Calibration](https://www.linkedin.com/jobs/view/4448615931/) — Aurora
-- 📍 **Location:** Mountain View, CA
+### [Software Engineer - Pipeline Infrastructure & Integration](https://www.linkedin.com/jobs/view/4466376362/) — Zoox
+- 📍 **Location:** Foster City, CA
 - 🕒 **Posted:** 2026-09-11
 
-### [Software Engineer I, Memberships](https://www.linkedin.com/jobs/view/4466362379/) — Drift AI
-- 📍 **Location:** San Francisco, CA
+### [HiL Robotics Engineer](https://www.linkedin.com/jobs/view/4465159072/) — Insight Global
+- 📍 **Location:** Fremont, CA
+- 💰 **Salary:** $60.00/hr - $75.00/hr
 - 🕒 **Posted:** 2026-09-11
 
-### [Software Engineer - Applications](https://www.linkedin.com/jobs/view/4466347742/) — LinkedIn
-- 📍 **Location:** Mountain View, CA
-- 🕒 **Posted:** 2026-09-11
-
-### [Fullstack Software Engineer](https://www.linkedin.com/jobs/view/4307254630/) — Confidential
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-09-11
-
-### [Software Engineer, ML Systems](https://www.linkedin.com/jobs/view/4465124614/) — Harmonic
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-09-11
-
-### [Research Engineer, Training & Inference](https://www.linkedin.com/jobs/view/4465122641/) — Harmonic
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-09-11
-
-### [Software Engineer](https://www.linkedin.com/jobs/view/4466350391/) — Drift AI
+### [Software Engineer](https://www.linkedin.com/jobs/view/4464224941/) — Taylor Hodson Staffing
 - 📍 **Location:** New York, NY
+- 💰 **Salary:** $70.00/hr - $80.00/hr
 - 🕒 **Posted:** 2026-09-11
 
-### [Software Engineer 3, Networking & Observability](https://www.linkedin.com/jobs/view/4457079431/) — MongoDB
+### [Data Infrastructure Engineer](https://www.linkedin.com/jobs/view/4466384429/) — Imprint
 - 📍 **Location:** New York, NY
+- 💰 **Salary:** $170,000.00/yr - $230,000.00/yr
 - 🕒 **Posted:** 2026-09-11
 
-### [Software Engineer II](https://www.linkedin.com/jobs/view/4456052412/) — American Express
+### [EDI Software Developer](https://www.linkedin.com/jobs/view/4464229707/) — MetroPlusHealth
 - 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-09-11
-
-### [Cloud Engineer with Azure - Application Architect](https://www.linkedin.com/jobs/view/4464224611/) — Mitchell Martin Inc.
-- 📍 **Location:** Jersey City, NJ
+- 💰 **Salary:** $117,617.00/yr - $127,617.00/yr
 - 🕒 **Posted:** 2026-09-11
