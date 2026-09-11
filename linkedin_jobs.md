@@ -1,116 +1,244 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-09-11 15:19 UTC*
+*Last updated: 2026-09-11 16:19 UTC*
 
-**26 new role(s)** since last run · 26 total in last 1h
+**56 new role(s)** since last run · 64 total in last 1h
 
-### [Research Engineer, Production Model Post-Training](https://www.linkedin.com/jobs/view/4322460020/) — Anthropic
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-09-11
-
-### [Research Engineer/Research Scientist, Pre-training](https://www.linkedin.com/jobs/view/4322290299/) — Anthropic
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-09-11
-
-### [Research Engineer](https://www.linkedin.com/jobs/view/4466321117/) — Goliath Partners
+### [Research Engineer, Mechanical](https://www.linkedin.com/jobs/view/4445504943/) — Gridware
 - 📍 **Location:** San Francisco Bay Area
-- 💰 **Salary:** $200,000.00/yr - $365,000.00/yr
+- 💰 **Salary:** $145,000.00/yr - $160,000.00/yr
 - 🕒 **Posted:** 2026-09-11
 
-### [Data Scientist](https://www.linkedin.com/jobs/view/4464886354/) — AARATECH
-- 📍 **Location:** San Francisco Bay Area
-- 💰 **Salary:** $75,000.00/yr - $90,000.00/yr
-- 🕒 **Posted:** 2026-09-11
-
-### [Software Engineer (Ray Data)](https://www.linkedin.com/jobs/view/4454132401/) — Anyscale
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-09-11
-
-### [Robotics Engineer](https://www.linkedin.com/jobs/view/4464210075/) — Cubiq Recruitment
-- 📍 **Location:** Milpitas, CA
-- 💰 **Salary:** $160,000.00/yr - $265,000.00/yr
-- 🕒 **Posted:** 2026-09-11
-
-### [Research Engineer / Research Scientist, Tokens](https://www.linkedin.com/jobs/view/4378287279/) — Anthropic
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-09-11
-
-### [Software Engineer — Product](https://www.linkedin.com/jobs/view/4454130925/) — Snorkel AI
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-09-11
-
-### [Manufacturing Test Automation Software Engineer](https://www.linkedin.com/jobs/view/4446833684/) — Joby Aviation
-- 📍 **Location:** San Carlos, CA
-- 🕒 **Posted:** 2026-09-11
-
-### [Android Software Engineer - Applications](https://www.linkedin.com/jobs/view/4432927197/) — Applied Intuition
-- 📍 **Location:** Sunnyvale, CA
-- 💰 **Salary:** $147,000.00/yr - $265,000.00/yr
-- 🕒 **Posted:** 2026-09-11
-
-### [Software Engineer, Enterprise](https://www.linkedin.com/jobs/view/4411232984/) — Replit
-- 📍 **Location:** Foster City, CA
-- 💰 **Salary:** $180,000.00/yr - $320,000.00/yr
-- 🕒 **Posted:** 2026-09-11
-
-### [Software Developer - SRE](https://www.linkedin.com/jobs/view/4465328440/) — Trident Consulting
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-09-11
-
-### [Software Engineer, Internship - Infrastructure](https://www.linkedin.com/jobs/view/4434140506/) — Palantir Technologies
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-09-11
-
-### [Site Reliability Engineer, Video System - USDS (Multiple Positions)](https://www.linkedin.com/jobs/view/4464886476/) — TikTok USDS Joint Venture
+### [Software Engineer, Early Careers focused on AI and UI](https://www.linkedin.com/jobs/view/4466327251/) — Roku
 - 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-09-11
 
-### [Software Engineer, Full-Stack](https://www.linkedin.com/jobs/view/4416862458/) — Superhuman
+### [Software Engineer](https://www.linkedin.com/jobs/view/4464899473/) — Jack
 - 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $163,500.00/yr - $284,000.00/yr
+- 💰 **Salary:** $160,000.00/yr - $210,000.00/yr
 - 🕒 **Posted:** 2026-09-11
 
-### [Software Engineer Intern (Spring 2027)](https://www.linkedin.com/jobs/view/4457019748/) — Zipline
-- 📍 **Location:** South San Francisco, CA
+### [Applied AI Scientist, Small Language Model and AI Training](https://www.linkedin.com/jobs/view/4466315377/) — Drift AI
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-09-11
 
-### [Applied Scientist II, Search Ranking](https://www.linkedin.com/jobs/view/4455913537/) — Amazon
-- 📍 **Location:** Palo Alto, CA
+### [Robotics Perception Engineer](https://www.linkedin.com/jobs/view/4464510546/) — Auxo Talent
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $180,000.00/yr - $250,000.00/yr
 - 🕒 **Posted:** 2026-09-11
 
-### [Software Developer (3C6AFE5)](https://www.linkedin.com/jobs/view/4466076682/) — Referment
+### [Robotics Engineer, Locomotion](https://www.linkedin.com/jobs/view/4452911834/) — Auxo Talent
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-09-11
+
+### [Software Engineer](https://www.linkedin.com/jobs/view/4464899538/) — Jack
+- 📍 **Location:** San Francisco Bay Area
+- 💰 **Salary:** $160,000.00/yr - $210,000.00/yr
+- 🕒 **Posted:** 2026-09-11
+
+### [Software Engineer](https://www.linkedin.com/jobs/view/4465102489/) — Jack
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $175,000.00/yr - $225,000.00/yr
+- 🕒 **Posted:** 2026-09-11
+
+### [Platform Engineer](https://www.linkedin.com/jobs/view/4464369058/) — Harrison Clarke
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-09-11
+
+### [Software Engineer, LLVM Compiler](https://www.linkedin.com/jobs/view/4464210258/) — Meta
+- 📍 **Location:** Menlo Park, CA
+- 💰 **Salary:** $154,003.00/yr - $217,000.00/yr
+- 🕒 **Posted:** 2026-09-11
+
+### [Software Engineer, Support Foundations](https://www.linkedin.com/jobs/view/4466330094/) — Drift AI
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-09-11
+
+### [Software Engineer, LLVM Compiler](https://www.linkedin.com/jobs/view/4464209267/) — Meta
+- 📍 **Location:** Menlo Park, CA
+- 💰 **Salary:** $154,003.00/yr - $217,000.00/yr
+- 🕒 **Posted:** 2026-09-11
+
+### [Robotics Engineer, Navigation](https://www.linkedin.com/jobs/view/4452916944/) — Auxo Talent
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-09-11
+
+### [Data Scientist](https://www.linkedin.com/jobs/view/4437379243/) — Twitch
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-09-11
+
+### [Full Stack Software Engineer, Evaluation Tools](https://www.linkedin.com/jobs/view/4454143486/) — Wayve
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-09-11
+
+### [Software Engineer, GenAI Frameworks](https://www.linkedin.com/jobs/view/4463998433/) — Meta
+- 📍 **Location:** Menlo Park, CA
+- 💰 **Salary:** $121,992.00/yr - $181,000.00/yr
+- 🕒 **Posted:** 2026-09-11
+
+### [Machine Learning Engineering Technical Leader - CX AI](https://www.linkedin.com/jobs/view/4466327257/) — Cisco
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-09-11
+
+### [Robotics Engineer, Perception and Vision](https://www.linkedin.com/jobs/view/4452912792/) — Auxo Talent
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-09-11
+
+### [Robotics Engineer, Manipulation](https://www.linkedin.com/jobs/view/4452910785/) — Auxo Talent
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-09-11
+
+### [Software Engineer, North for Finance](https://www.linkedin.com/jobs/view/4428410424/) — Cohere
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-09-11
+
+### [Infrastructure Engineer](https://www.linkedin.com/jobs/view/4464342942/) — Harrison Clarke
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-09-11
+
+### [Java Backend Developer](https://www.linkedin.com/jobs/view/4456036723/) — Cognizant
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-09-11
+
+### [Backend Software Engineer (Robotics Systems)](https://www.linkedin.com/jobs/view/4427370725/) — Intrinsic
+- 📍 **Location:** Mountain View, CA
+- 🕒 **Posted:** 2026-09-11
+
+### [Software Engineer, Test & Automation](https://www.linkedin.com/jobs/view/4456416041/) — Cowboy Space Corporation
+- 📍 **Location:** San Carlos, CA
+- 🕒 **Posted:** 2026-09-11
+
+### [Infrastructure Engineer, Traffic](https://www.linkedin.com/jobs/view/4456041256/) — Whatnot
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $207,000.00/yr - $230,000.00/yr
+- 🕒 **Posted:** 2026-09-11
+
+### [Embedded Software Engineer](https://www.linkedin.com/jobs/view/4456298259/) — BayOne Solutions
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-09-11
+
+### [Software Engineer — Test](https://www.linkedin.com/jobs/view/4454135616/) — Snorkel AI
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-09-11
+
+### [DevOps Engineer/ Integration Engineer](https://www.linkedin.com/jobs/view/4466321265/) — CriticalRiver Inc.
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-09-11
+
+### [Software Engineer, Lending](https://www.linkedin.com/jobs/view/4466319243/) — Drift AI
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-09-11
+
+### [Software Developer, GO Systems](https://www.linkedin.com/jobs/view/4464201398/) — Meta
+- 📍 **Location:** Menlo Park, CA
+- 💰 **Salary:** $142,000.00/yr - $201,000.00/yr
+- 🕒 **Posted:** 2026-09-11
+
+### [Software Engineer – IT Automation & Integrations](https://www.linkedin.com/jobs/view/4463379500/) — CriticalRiver Inc.
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-09-11
+
+### [Virtualization & Cloud Platform Engineer](https://www.linkedin.com/jobs/view/4464893500/) — Tekgence Inc
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-09-11
+
+### [Frontend Engineer, Ads](https://www.linkedin.com/jobs/view/4466319321/) — Reddit, Inc.
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-09-11
+
+### [Software Engineer, Membership](https://www.linkedin.com/jobs/view/4466323172/) — Drift AI
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-09-11
+
+### [Software Engineer, Communication Platform](https://www.linkedin.com/jobs/view/4466309993/) — Drift AI
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-09-11
+
+### [Research Engineer/Research Scientist, Pre-training](https://www.linkedin.com/jobs/view/4322400090/) — Anthropic
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $250,000.00/yr - $275,000.00/yr
 - 🕒 **Posted:** 2026-09-11
 
-### [Software Engineer III (Full Stack)](https://www.linkedin.com/jobs/view/4465804131/) — JPMorganChase
+### [Software Engineer, GenAI Frameworks](https://www.linkedin.com/jobs/view/4464206329/) — Meta
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $121,992.00/yr - $181,000.00/yr
+- 🕒 **Posted:** 2026-09-11
+
+### [Data Scientist](https://www.linkedin.com/jobs/view/4437382162/) — Twitch
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-09-11
+
+### [Software Engineer, MTIA SW Performance Autotuning](https://www.linkedin.com/jobs/view/4464206328/) — Meta
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $154,003.00/yr - $217,000.00/yr
+- 🕒 **Posted:** 2026-09-11
+
+### [Software Engineer](https://www.linkedin.com/jobs/view/4444138678/) — Warp
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-09-11
+
+### [Software Engineer, Simulation](https://www.linkedin.com/jobs/view/4464205374/) — Meta
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $154,003.00/yr - $217,000.00/yr
+- 🕒 **Posted:** 2026-09-11
+
+### [Software Developer Intern - Summer 2027 (DV Equities)](https://www.linkedin.com/jobs/view/4464888656/) — DV Trading LLC
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-09-11
+
+### [Software Engineer, LLVM Compiler](https://www.linkedin.com/jobs/view/4464201401/) — Meta
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $154,003.00/yr - $217,000.00/yr
+- 🕒 **Posted:** 2026-09-11
+
+### [Software Engineer, LLVM Compiler](https://www.linkedin.com/jobs/view/4463992558/) — Meta
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-09-11
+
+### [Software Engineer](https://www.linkedin.com/jobs/view/4437327279/) — GLG
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-09-11
+
+### [Software Engineer, New Grad](https://www.linkedin.com/jobs/view/4434138603/) — Palantir Technologies
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-09-11
+
+### [Software Developer, GO Systems](https://www.linkedin.com/jobs/view/4464208286/) — Meta
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-09-11
+
+### [Software Engineer, DevOps](https://www.linkedin.com/jobs/view/4466336309/) — Atria Health and Research Institute
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-09-11
+
+### [Software Engineer, Cloud Infrastructure](https://www.linkedin.com/jobs/view/4466321166/) — Drift AI
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-09-11
+
+### [Software Engineer, Financial Platform](https://www.linkedin.com/jobs/view/4466326108/) — Drift AI
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-09-11
+
+### [Junior Software Engineer](https://www.linkedin.com/jobs/view/4464209280/) — SAJA
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-09-11
+
+### [Expert Backend Engineer](https://www.linkedin.com/jobs/view/4463983917/) — Wiz
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-09-11
+
+### [Software Engineer III - Equities Structured Products Technology](https://www.linkedin.com/jobs/view/4466322579/) — Bank of America
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $102,900.00/yr - $179,900.00/yr
+- 🕒 **Posted:** 2026-09-11
+
+### [Trading Systems Software Engineer 3664775](https://www.linkedin.com/jobs/view/4463142036/) — Axiom Path
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-09-11
+
+### [Customer Success Engineer/Devops](https://www.linkedin.com/jobs/view/4466332074/) — Drift AI
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-09-11
+
+### [IBMi Infrastructure Engineer ll](https://www.linkedin.com/jobs/view/4466330493/) — Bank of America
 - 📍 **Location:** Jersey City, NJ
-- 💰 **Salary:** $137,750.00/yr - $185,000.00/yr
-- 🕒 **Posted:** 2026-09-11
-
-### [Planner Climate Data Science (Capital Strategy)](https://www.linkedin.com/jobs/view/4446753086/) — Metropolitan Transportation Authority
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-09-11
-
-### [Cloud Engineer](https://www.linkedin.com/jobs/view/4464890268/) — Software Guidance & Assistance, Inc. (SGA, Inc.)
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-09-11
-
-### [Full Stack Engineer](https://www.linkedin.com/jobs/view/4437075801/) — Melio
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-09-11
-
-### [Site Reliability Engineer, Observability](https://www.linkedin.com/jobs/view/4418278585/) — Ripple
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-09-11
-
-### [Software Engineer — Test](https://www.linkedin.com/jobs/view/4454137554/) — Snorkel AI
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-09-11
-
-### [Infrastructure Engineer III](https://www.linkedin.com/jobs/view/4466059609/) — JPMorganChase
-- 📍 **Location:** Jersey City, NJ
-- 🕒 **Posted:** 2026-09-11
-
-### [Infrastructure Industrial Designer - Kiewit Infrastructure Engineers](https://www.linkedin.com/jobs/view/4456059514/) — Kiewit
-- 📍 **Location:** Manhattan, NY
+- 💰 **Salary:** $104,200.00/yr - $155,300.00/yr
 - 🕒 **Posted:** 2026-09-11
