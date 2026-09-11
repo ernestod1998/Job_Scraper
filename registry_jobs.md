@@ -1,16 +1,16 @@
 # 🗃 Direct ATS Registry — Engineering / ML / DS Roles
-*Last updated: 2026-09-10 17:32 UTC*
+*Last updated: 2026-09-11 17:33 UTC*
 
-**3 new role(s)** since last run · 15 total in current registry shard
+**3 new role(s)** since last run · 9 total in current registry shard
 
-### [Machine Learning Scientist III - Personalization](https://expedia.wd108.myworkdayjobs.com/search/job/USA---California---San-Jose/Machine-Learning-Scientist-III---Personalization_R-107143-1) — Expedia Group
-- 📍 **Location:** USA - California - San Jose
+### [AI/ML Engineer - Controllable Biology](https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/London-The-Stanley-Building/AI-ML-Engineer---Controllable-Biology_447487-1) — GSK
+- 📍 **Location:** San Francisco
 - 🕒 **Posted:** Posted Today
 
-### [AI/ML Data Scientist](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/AI-ML-Data-Scientist_R-00191932) — Leidos
-- 📍 **Location:** 6314 Remote/Teleworker US
-- 🕒 **Posted:** Posted Today
+### [Software Engineer](https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Software-Engineer_2638274) — KLA
+- 📍 **Location:** Milpitas, CA
+- 🕒 **Posted:** Posted Yesterday
 
-### [Data Scientist](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Data-Scientist_R-00191410) — Leidos
-- 📍 **Location:** 6314 Remote/Teleworker US
-- 🕒 **Posted:** Posted 6 Days Ago
+### [Full Stack Software Engineer](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/Work-at-Home---Michigan-USA-WMIA/Full-Stack-Software-Engineer_JR0150756) — McKesson
+- 📍 **Location:** USA, Remote
+- 🕒 **Posted:** Posted 2 Days Ago
