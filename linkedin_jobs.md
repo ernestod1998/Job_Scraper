@@ -1,33 +1,38 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-09-11 03:18 UTC*
+*Last updated: 2026-09-11 05:07 UTC*
 
-**7 new role(s)** since last run · 17 total in last 1h
+**8 new role(s)** since last run · 8 total in last 1h
 
-### [Android Software Engineer](https://www.linkedin.com/jobs/view/4464822962/) — ActAI
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-09-10
-
-### [Software Engineer, Enterprise Build](https://www.linkedin.com/jobs/view/4466030050/) — Drift AI
-- 📍 **Location:** Menlo Park, CA
-- 🕒 **Posted:** 2026-09-10
-
-### [Software Engineer, Wallet](https://www.linkedin.com/jobs/view/4466023068/) — Drift AI
-- 📍 **Location:** Menlo Park, CA
-- 🕒 **Posted:** 2026-09-10
-
-### [Android Software Engineer - Applications](https://www.linkedin.com/jobs/view/4432927197/) — Applied Intuition
-- 📍 **Location:** Sunnyvale, CA
-- 💰 **Salary:** $147,000.00/yr - $265,000.00/yr
-- 🕒 **Posted:** 2026-09-10
-
-### [Fullstack Software Engineer](https://www.linkedin.com/jobs/view/4307254630/) — Confidential
+### [AI Scientist (Model Building & Training)](https://www.linkedin.com/jobs/view/4466020815/) — BioSpace
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-09-10
 
-### [Software Engineer, Tokenization](https://www.linkedin.com/jobs/view/4466032171/) — Drift AI
-- 📍 **Location:** Menlo Park, CA
+### [Data Scientist](https://www.linkedin.com/jobs/view/4466030656/) — Epicor
+- 📍 **Location:** Dublin, CA
 - 🕒 **Posted:** 2026-09-10
 
-### [Software Engineer, Enterprise AI](https://www.linkedin.com/jobs/view/4466028280/) — Drift AI
+### [Software Engineer, API Frontiers](https://www.linkedin.com/jobs/view/4464841499/) — OpenAI
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $266,000.00/yr - $445,000.00/yr
+- 🕒 **Posted:** 2026-09-10
+
+### [Software Engineer, Data Infrastructure](https://www.linkedin.com/jobs/view/4464845383/) — Cohere
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-09-10
+
+### [Software Engineer Intern](https://www.linkedin.com/jobs/view/4466029794/) — SK hynix memory solutions America Inc.
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-09-10
+
+### [Research Engineer](https://www.linkedin.com/jobs/view/4464841367/) — NYU Langone Health
 - 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-09-10
+
+### [Research Engineer](https://www.linkedin.com/jobs/view/4464839370/) — NYU Langone Health
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-09-10
+
+### [Software Engineer, API Frontiers](https://www.linkedin.com/jobs/view/4464838510/) — OpenAI
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $266,000.00/yr - $445,000.00/yr
 - 🕒 **Posted:** 2026-09-10
