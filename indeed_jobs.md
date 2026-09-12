@@ -1,58 +1,34 @@
 # 🟦 Indeed — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-09-11 21:54 UTC*
+*Last updated: 2026-09-12 00:35 UTC*
 
-**11 new role(s)** since last run · 55 total in last 24h
+**6 new role(s)** since last run · 55 total in last 24h
 
-### [Software Engineer, Notifications](https://www.indeed.com/viewjob?jk=266eef7602c1331f) — Discord
-- 📍 **Location:** San Francisco Bay Area, CA, US
-- 💰 **Salary:** $160k–$180k/yr
+### [Embedded Software Engineer](https://www.indeed.com/viewjob?jk=3580bd3d17d5b9d3) — Brooks Automation
+- 📍 **Location:** Fremont, CA, US
+- 💰 **Salary:** $111k–$150k/yr
 - 🕒 **Posted:** 2026-09-11
 
-### [Research Engineer, Polaris, DeepMind](https://www.indeed.com/viewjob?jk=0747f0303e1fa9e1) — DeepMind
+### [Software Engineer, Early Career 2027](https://www.indeed.com/viewjob?jk=c6d7d3db1220ae16) — Commure
 - 📍 **Location:** Mountain View, CA, US
-- 💰 **Salary:** $147k–$210k/yr
+- 💰 **Salary:** $130k–$150k/yr
 - 🕒 **Posted:** 2026-09-11
 
-### [Software Engineer, Generative AI, Shopping Quality](https://www.indeed.com/viewjob?jk=eed636cfd856b24e) — Google
-- 📍 **Location:** Mountain View, CA, US
-- 💰 **Salary:** $147k–$210k/yr
-- 🕒 **Posted:** 2026-09-11
-
-### [Research Engineer, Machine Learning, GeminiApp Personalization, DeepMind](https://www.indeed.com/viewjob?jk=e31b0b4fb3614cbd) — DeepMind
-- 📍 **Location:** Mountain View, CA, US
-- 💰 **Salary:** $174k–$252k/yr
-- 🕒 **Posted:** 2026-09-11
-
-### [Research Engineer, RL Environments and Infrastructure](https://www.indeed.com/viewjob?jk=4de0bd5d217bf4d1) — Hyphen Connect
+### [Software Engineer - Developer Experience, Web](https://www.indeed.com/viewjob?jk=b227ab23d7cc0d88) — DoorDash
 - 📍 **Location:** San Francisco, CA, US
+- 💰 **Salary:** $131k–$192k/yr
 - 🕒 **Posted:** 2026-09-11
 
-### [Software Engineer Embedded Systems II (Full Time) - United States](https://www.indeed.com/viewjob?jk=29ed6792c0e6c045) — Cisco
-- 📍 **Location:** San Jose, CA, US
-- 💰 **Salary:** $112k–$203k/yr
+### [Automation Software Engineer (Machine Control)](https://www.indeed.com/viewjob?jk=293194464f506d3a) — FormFactor, Inc.
+- 📍 **Location:** Livermore, CA, US
+- 💰 **Salary:** $136k–$179k/yr
 - 🕒 **Posted:** 2026-09-11
 
-### [Software Developer](https://www.indeed.com/viewjob?jk=78a447851176416e) — Neon
-- 📍 **Location:** San Francisco, CA, US
-- 💰 **Salary:** $120k–$165k/yr
-- 🕒 **Posted:** 2026-09-11
-
-### [Software Engineer III, Pixel Audio](https://www.indeed.com/viewjob?jk=fb7867ba1b4f7fd3) — Google
-- 📍 **Location:** Mountain View, CA, US
-- 💰 **Salary:** $147k–$210k/yr
-- 🕒 **Posted:** 2026-09-11
-
-### [Software Engineer](https://www.indeed.com/viewjob?jk=d7bc0f2a454851b0) — Super Micro Computer, Inc.
-- 📍 **Location:** San Jose, CA, US
-- 💰 **Salary:** $100k–$115k/yr
+### [Software Development Engineer, AI Studios Engineering](https://www.indeed.com/viewjob?jk=fc0fc3b9e4bbe6f6) — Amazon.com
+- 📍 **Location:** New York, NY, US
+- 💰 **Salary:** $144k–$214k/yr
 - 🕒 **Posted:** 2026-09-10
 
-### [Data Platform Engineer](https://www.indeed.com/viewjob?jk=366d4383d4dec9c5) — Tessera Labs
-- 📍 **Location:** San Jose, CA, US
-- 💰 **Salary:** $200k–$250k/yr
-- 🕒 **Posted:** 2026-09-11
-
-### [Site Reliability Engineer- FedRAMP](https://www.indeed.com/viewjob?jk=7f13495f5ea42de1) — Rubrik
-- 📍 **Location:** Palo Alto, CA, US
-- 💰 **Salary:** $158k–$237k/yr
+### [Site Reliability Engineer](https://www.indeed.com/viewjob?jk=f33f6441d739f039) — Piper Sandler
+- 📍 **Location:** New York, NY, US
+- 💰 **Salary:** $120k–$150k/yr
 - 🕒 **Posted:** 2026-09-11
