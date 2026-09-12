@@ -1,16 +1,23 @@
 # 🗃 Direct ATS Registry — Engineering / ML / DS Roles
-*Last updated: 2026-09-11 17:33 UTC*
+*Last updated: 2026-09-12 16:49 UTC*
 
-**3 new role(s)** since last run · 9 total in current registry shard
+**5 new role(s)** since last run · 11 total in current registry shard
 
-### [AI/ML Engineer - Controllable Biology](https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/London-The-Stanley-Building/AI-ML-Engineer---Controllable-Biology_447487-1) — GSK
-- 📍 **Location:** San Francisco
-- 🕒 **Posted:** Posted Today
-
-### [Software Engineer](https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Software-Engineer_2638274) — KLA
-- 📍 **Location:** Milpitas, CA
+### [AI Software Developer](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/AI-Software-Developer_R-00188597) — Leidos
+- 📍 **Location:** 6314 Remote/Teleworker US
 - 🕒 **Posted:** Posted Yesterday
 
-### [Full Stack Software Engineer](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/Work-at-Home---Michigan-USA-WMIA/Full-Stack-Software-Engineer_JR0150756) — McKesson
-- 📍 **Location:** USA, Remote
-- 🕒 **Posted:** Posted 2 Days Ago
+### [Machine Learning Engineer](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Machine-Learning-Engineer_JR2025036) — NVIDIA
+- 📍 **Location:** US, CA, Santa Clara
+- 🕒 **Posted:** Posted 4 Days Ago
+
+### [Software Engineer, CUDA Deep Learning Systems](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--CUDA-Deep-Learning-Systems_JR2022831) — NVIDIA
+- 📍 **Location:** US, CA, Santa Clara
+- 🕒 **Posted:** Posted 12 Days Ago
+
+### [Devops Software and Modeling Engineer](https://parsons.wd5.myworkdayjobs.com/search/job/US---Remote-Any-Location/Devops-Software-and-Modeling-Engineer_R185715) — Parsons
+- 📍 **Location:** US - Remote (Any Location)
+
+### [Machine Learning Engineer](https://proofpoint.wd5.myworkdayjobs.com/proofpointcareers/job/India/Machine-Learning-Engineer_R14232) — Proofpoint
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** Posted 10 Days Ago
