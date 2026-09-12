@@ -1,18 +1,19 @@
 # 🟦 Indeed — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-09-12 20:54 UTC*
+*Last updated: 2026-09-12 23:16 UTC*
 
-**3 new role(s)** since last run · 29 total in last 24h
+**3 new role(s)** since last run · 25 total in last 24h
 
-### [Applied Researcher I (AI Foundations, LLM Customization, Finetuning, Reinforcement Learning)](https://www.indeed.com/viewjob?jk=05c9f2e6e596a312) — Capital One
-- 📍 **Location:** San Jose, CA, US
+### [Software Engineer](https://www.indeed.com/viewjob?jk=b7a2a77fa339eb2a) — CoreWeave
+- 📍 **Location:** Sunnyvale, CA, US
+- 💰 **Salary:** $101k–$134k/yr
 - 🕒 **Posted:** 2026-09-11
 
-### [Software Engineer III - AI Research](https://www.indeed.com/viewjob?jk=ae01c664e8b83211) — JPMorganChase
+### [Software Engineer III - Agentic AI, Java/Python](https://www.indeed.com/viewjob?jk=9e520441c4192543) — JPMorganChase
 - 📍 **Location:** Jersey City, NJ, US
-- 💰 **Salary:** $138k–$185k/yr
-- 🕒 **Posted:** 2026-09-11
+- 💰 **Salary:** $114k–$185k/yr
+- 🕒 **Posted:** 2026-09-12
 
-### [Applied Scientist, Amazon Selection and Catalog Systems (ASCS)](https://www.indeed.com/viewjob?jk=7745cfb676c56cb0) — Amazon.com
+### [AI/ML Software Engineer II](https://www.indeed.com/viewjob?jk=ca25277b66a00e9b) — JPMorganChase
 - 📍 **Location:** New York, NY, US
-- 💰 **Salary:** $172k–$223k/yr
-- 🕒 **Posted:** 2026-09-10
+- 💰 **Salary:** $124k–$150k/yr
+- 🕒 **Posted:** 2026-09-12
