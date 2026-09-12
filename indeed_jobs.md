@@ -1,81 +1,119 @@
 # 🟦 Indeed — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-09-12 05:01 UTC*
+*Last updated: 2026-09-12 17:50 UTC*
 
-**16 new role(s)** since last run · 60 total in last 24h
+**23 new role(s)** since last run · 52 total in last 24h
 
-### [AI Research Engineer, Computer Vision & VLMs](https://www.indeed.com/viewjob?jk=3bd017bf4ed47295) — Palona AI
-- 📍 **Location:** Los Altos, CA, US
-- 🕒 **Posted:** 2026-09-11
+### [Software Engineer, Systems ML Tooling](https://www.indeed.com/viewjob?jk=88c92e4d422cfd58) — Meta
+- 📍 **Location:** Menlo Park, CA, US
+- 💰 **Salary:** $154k–$217k/yr
+- 🕒 **Posted:** 2026-09-10
 
-### [Machine Learning Engineer](https://www.indeed.com/viewjob?jk=1b84f98d039d55d6) — Adobe
+### [Embedded Software Engineer, Connectivity/Wireless](https://www.indeed.com/viewjob?jk=c069af41abd9c10d) — Meta
+- 📍 **Location:** Burlingame, CA, US
+- 💰 **Salary:** $184k–$257k/yr
+- 🕒 **Posted:** 2026-09-07
+
+### [AI Software Engineer](https://www.indeed.com/viewjob?jk=429749c8e255bbf7) — Allied Telesis
 - 📍 **Location:** San Jose, CA, US
-- 💰 **Salary:** $152k–$265k/yr
-- 🕒 **Posted:** 2026-09-11
+- 💰 **Salary:** $120k–$160k/yr
+- 🕒 **Posted:** 2026-09-12
 
-### [Machine Learning Engineer](https://www.indeed.com/viewjob?jk=1d7252eb1b333304) — Adobe
+### [Software Engineer](https://www.indeed.com/viewjob?jk=e5c47ea27697c02a) — PayPal
 - 📍 **Location:** San Jose, CA, US
-- 💰 **Salary:** $126k–$234k/yr
+- 💰 **Salary:** $149k–$198k/yr
 - 🕒 **Posted:** 2026-09-11
 
-### [Software Engineer - Pipeline Infrastructure & Integration](https://www.indeed.com/viewjob?jk=4548e5b1febeb169) — Zoox
-- 📍 **Location:** Foster City, CA, US
-- 💰 **Salary:** $196k–$240k/yr
-- 🕒 **Posted:** 2026-09-11
+### [Software Engineer, Apple Ads](https://www.indeed.com/viewjob?jk=66c3e9c00baeb880) — Apple
+- 📍 **Location:** Cupertino, CA, US
+- 💰 **Salary:** $129k–$225k/yr
+- 🕒 **Posted:** 2026-09-08
 
-### [ML Engineer](https://www.indeed.com/viewjob?jk=45381e91bfcc86d0) — Monarch
-- 📍 **Location:** Emeryville, CA, US
-- 🕒 **Posted:** 2026-09-11
-
-### [Data Scientist - (B3)](https://www.indeed.com/viewjob?jk=3d3c0364be7a2693) — Applied Materials
-- 📍 **Location:** Santa Clara, CA, US
-- 💰 **Salary:** $134k–$184k/yr
-- 🕒 **Posted:** 2026-09-11
-
-### [Research Engineer, AI for Chip Design](https://www.indeed.com/viewjob?jk=630730bd4e73ac61) — OpenAI
-- 📍 **Location:** San Francisco, CA, US
-- 💰 **Salary:** $380k–$500k/yr
-- 🕒 **Posted:** 2026-09-11
-
-### [DevOps Software Engineer Hybrid](https://www.indeed.com/viewjob?jk=59dadda435477d69) — Cisco
-- 📍 **Location:** San Jose, CA, US
-- 💰 **Salary:** $149k–$282k/yr
-- 🕒 **Posted:** 2026-09-11
-
-### [Software Engineer II Data Reliability & Automation (APIs)](https://www.indeed.com/viewjob?jk=f06822d7bc4ddf71) — Sony Interactive Entertainment
-- 📍 **Location:** San Mateo, CA, US
+### [Site Reliability Engineer, Apple Ads](https://www.indeed.com/viewjob?jk=4cff2f0dda43010e) — Apple
+- 📍 **Location:** Cupertino, CA, US
 - 💰 **Salary:** $150k–$225k/yr
-- 🕒 **Posted:** 2026-09-11
+- 🕒 **Posted:** 2026-09-08
 
-### [Software Engineer (Onsite San Francisco)](https://www.indeed.com/viewjob?jk=95c78bb5532882e7) — Rox Data Corp
-- 📍 **Location:** San Francisco, CA, US
-- 🕒 **Posted:** 2026-09-11
-
-### [Software Engineer](https://www.indeed.com/viewjob?jk=82cf9751753a6555) — CoreWeave
-- 📍 **Location:** San Francisco, CA, US
-- 💰 **Salary:** $101k–$134k/yr
-- 🕒 **Posted:** 2026-09-11
-
-### [Software Engineer - E2](https://www.indeed.com/viewjob?jk=d742e1a7bc31e05f) — Lockheed Martin
-- 📍 **Location:** Sunnyvale, CA, US
-- 💰 **Salary:** $101k–$188k/yr
-- 🕒 **Posted:** 2026-09-03
-
-### [Software Engineer](https://www.indeed.com/viewjob?jk=b7a2a77fa339eb2a) — CoreWeave
-- 📍 **Location:** Sunnyvale, CA, US
-- 💰 **Salary:** $101k–$134k/yr
-- 🕒 **Posted:** 2026-09-11
-
-### [ML Data Platform Engineer](https://www.indeed.com/viewjob?jk=56b2945fc39f45a1) — Unknown
+### [Site Reliability Engineer - ML, Apple Ads](https://www.indeed.com/viewjob?jk=95f97707796fb14a) — Apple
 - 📍 **Location:** New York, NY, US
-- 💰 **Salary:** $175k–$245k/yr
-- 🕒 **Posted:** 2026-09-11
+- 💰 **Salary:** $150k–$225k/yr
+- 🕒 **Posted:** 2026-09-08
 
-### [Software Engineer](https://www.indeed.com/viewjob?jk=4818018238c94f3b) — CoreWeave
+### [Embedded Software Engineer, Connectivity/Wireless](https://www.indeed.com/viewjob?jk=b05ac6d8043f0206) — Meta
 - 📍 **Location:** New York, NY, US
-- 💰 **Salary:** $101k–$134k/yr
-- 🕒 **Posted:** 2026-09-11
+- 💰 **Salary:** $184k–$257k/yr
+- 🕒 **Posted:** 2026-09-07
 
-### [Software Engineer III - Android](https://www.indeed.com/viewjob?jk=ff18a82bba1d2f89) — JPMorganChase
+### [Data Scientist - Fraud](https://www.indeed.com/viewjob?jk=069522557cde60bd) — Plaid
+- 📍 **Location:** New York, NY, US
+- 💰 **Salary:** $176k–$227k/yr
+- 🕒 **Posted:** 2026-09-12
+
+### [Site Reliability Engineer III](https://www.indeed.com/viewjob?jk=3377c0914473422c) — JPMorganChase
+- 📍 **Location:** Jersey City, NJ, US
+- 💰 **Salary:** $138k–$185k/yr
+- 🕒 **Posted:** 2026-09-12
+
+### [Software Engineer III - Asset Management Research Engineer](https://www.indeed.com/viewjob?jk=3d29726a0a1b5d41) — JPMorganChase
+- 📍 **Location:** Jersey City, NJ, US
+- 💰 **Salary:** $138k–$185k/yr
+- 🕒 **Posted:** 2026-09-12
+
+### [Software Engineer III - DevOps, Python and/or JavaScript](https://www.indeed.com/viewjob?jk=096498561178c0a0) — JPMorganChase
+- 📍 **Location:** Jersey City, NJ, US
+- 💰 **Salary:** $138k–$185k/yr
+- 🕒 **Posted:** 2026-09-12
+
+### [Software Engineer II (Java/React)](https://www.indeed.com/viewjob?jk=45427b6bf6fd07a7) — JPMorganChase
+- 📍 **Location:** New York, NY, US
+- 💰 **Salary:** $124k–$150k/yr
+- 🕒 **Posted:** 2026-09-12
+
+### [Experienced Software Engineer Java / Python (Full Stack or Back End)](https://www.indeed.com/viewjob?jk=2c063c2be64cc891) — JPMorganChase
+- 📍 **Location:** Jersey City, NJ, US
+- 💰 **Salary:** $130k–$170k/yr
+- 🕒 **Posted:** 2026-09-12
+
+### [Software Engineer III (React/Java)](https://www.indeed.com/viewjob?jk=ba25455cc42ba5d9) — JPMorganChase
+- 📍 **Location:** Jersey City, NJ, US
+- 💰 **Salary:** $138k–$185k/yr
+- 🕒 **Posted:** 2026-09-12
+
+### [Software Engineer III - React, Java](https://www.indeed.com/viewjob?jk=36f479d929a2594a) — JPMorganChase
 - 📍 **Location:** New York, NY, US
 - 💰 **Salary:** $138k–$185k/yr
+- 🕒 **Posted:** 2026-09-12
+
+### [Software Engineer III - Python / Databricks](https://www.indeed.com/viewjob?jk=5bc420ed270716f6) — JPMorganChase
+- 📍 **Location:** Jersey City, NJ, US
+- 💰 **Salary:** $138k–$185k/yr
+- 🕒 **Posted:** 2026-09-12
+
+### [Software Engineer III - Java/Spring Boot/Kafka](https://www.indeed.com/viewjob?jk=80c2c607ac0517dd) — JPMorganChase
+- 📍 **Location:** Jersey City, NJ, US
+- 💰 **Salary:** $138k–$185k/yr
+- 🕒 **Posted:** 2026-09-12
+
+### [Software Engineer III (Full Stack)](https://www.indeed.com/viewjob?jk=dd684247ce47479b) — JPMorganChase
+- 📍 **Location:** Jersey City, NJ, US
+- 💰 **Salary:** $138k–$185k/yr
+- 🕒 **Posted:** 2026-09-12
+
+### [Software Engineer III (Java/AWS)](https://www.indeed.com/viewjob?jk=ea6de150b1e7a698) — JPMorganChase
+- 📍 **Location:** New York, NY, US
+- 💰 **Salary:** $138k–$185k/yr
+- 🕒 **Posted:** 2026-09-12
+
+### [Software Engineer III (Java/AWS)](https://www.indeed.com/viewjob?jk=c4652ad3c3084c2e) — JPMorganChase
+- 📍 **Location:** New York, NY, US
+- 💰 **Salary:** $138k–$185k/yr
+- 🕒 **Posted:** 2026-09-11
+
+### [Full-Stack Software Engineer III (Python, React, Playwright)](https://www.indeed.com/viewjob?jk=9d234dd331e3c3c2) — JPMorganChase
+- 📍 **Location:** Jersey City, NJ, US
+- 💰 **Salary:** $138k–$185k/yr
+- 🕒 **Posted:** 2026-09-11
+
+### [Software Engineer Intern, Fullstack (Summer 2027)](https://www.indeed.com/viewjob?jk=c9448b4e634d0b1c) — Lyft
+- 📍 **Location:** New York, NY, US
+- 💰 **Salary:** $52–$58/hr
 - 🕒 **Posted:** 2026-09-11
