@@ -1,35 +1,20 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-09-13 17:25 UTC*
+*Last updated: 2026-09-13 18:17 UTC*
 
-**7 new role(s)** since last run · 7 total in last 1h
+**4 new role(s)** since last run · 11 total in last 1h
 
-### [Machine Learning Engineer, App SW](https://www.linkedin.com/jobs/view/4417654657/) — Wayve
-- 📍 **Location:** Sunnyvale, CA
+### [Software Engineer, Recommendations - USDS](https://www.linkedin.com/jobs/view/4466783403/) — TikTok USDS Joint Venture
+- 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-09-13
 
-### [Software Engineer](https://www.linkedin.com/jobs/view/4466791227/) — EngRadar
-- 📍 **Location:** San Francisco, CA
+### [Machine Learning Engineer, Infra, AI for Drug Discovery](https://www.linkedin.com/jobs/view/4447583143/) — Genentech
+- 📍 **Location:** South San Francisco, CA
 - 🕒 **Posted:** 2026-09-13
 
-### [Data Scientist, Product](https://www.linkedin.com/jobs/view/4411253059/) — Replit
-- 📍 **Location:** Foster City, CA
-- 💰 **Salary:** $210,000.00/yr - $350,000.00/yr
+### [Data Scientist](https://www.linkedin.com/jobs/view/4465485115/) — Evlo AI
+- 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-09-13
 
-### [Software Engineer, Enterprise Platform](https://www.linkedin.com/jobs/view/4411246140/) — Replit
-- 📍 **Location:** Foster City, CA
-- 💰 **Salary:** $130,000.00/yr - $290,000.00/yr
-- 🕒 **Posted:** 2026-09-13
-
-### [Software Engineer II - Digital Assets](https://www.linkedin.com/jobs/view/4420628398/) — Early Warning
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-09-13
-
-### [Software Engineer, Developer Experience](https://www.linkedin.com/jobs/view/4411246137/) — Replit
-- 📍 **Location:** Foster City, CA
-- 💰 **Salary:** $180,000.00/yr - $230,000.00/yr
-- 🕒 **Posted:** 2026-09-13
-
-### [Frontend Platform Engineer](https://www.linkedin.com/jobs/view/4447183071/) — Harvey
-- 📍 **Location:** San Francisco, CA
+### [Junior Bioinformatics Scientist, Bureau of the Public Health Laboratory](https://www.linkedin.com/jobs/view/4465488079/) — CHEManager International
+- 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-09-13
