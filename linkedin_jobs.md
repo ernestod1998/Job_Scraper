@@ -1,8 +1,16 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-09-13 03:17 UTC*
+*Last updated: 2026-09-13 06:43 UTC*
 
-**1 new role(s)** since last run · 1 total in last 1h
+**3 new role(s)** since last run · 3 total in last 1h
 
-### [Machine Learning Engineer Graduate (Ads Signal & Measurement) - 2027 Start](https://www.linkedin.com/jobs/view/4465464186/) — TikTok
-- 📍 **Location:** San Jose, CA
+### [Cloud Engineer](https://www.linkedin.com/jobs/view/4466753984/) — JSM Consulting Inc.
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-09-12
+
+### [Cloud Engineer](https://www.linkedin.com/jobs/view/4466747945/) — JSM Consulting Inc.
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-09-12
+
+### [Cloud Engineer](https://www.linkedin.com/jobs/view/4466748951/) — JSM Consulting Inc.
+- 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-09-12
