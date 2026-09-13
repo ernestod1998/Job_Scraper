@@ -1,19 +1,39 @@
 # 🟦 Indeed — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-09-12 23:16 UTC*
+*Last updated: 2026-09-13 01:24 UTC*
 
-**3 new role(s)** since last run · 25 total in last 24h
+**7 new role(s)** since last run · 20 total in last 24h
 
-### [Software Engineer](https://www.indeed.com/viewjob?jk=b7a2a77fa339eb2a) — CoreWeave
-- 📍 **Location:** Sunnyvale, CA, US
-- 💰 **Salary:** $101k–$134k/yr
-- 🕒 **Posted:** 2026-09-11
-
-### [Software Engineer III - Agentic AI, Java/Python](https://www.indeed.com/viewjob?jk=9e520441c4192543) — JPMorganChase
+### [Software Engineer III (Python/AWS)](https://www.indeed.com/viewjob?jk=e9cadb9d904c7a2e) — JPMorganChase
 - 📍 **Location:** Jersey City, NJ, US
-- 💰 **Salary:** $114k–$185k/yr
+- 💰 **Salary:** $138k–$185k/yr
 - 🕒 **Posted:** 2026-09-12
 
-### [AI/ML Software Engineer II](https://www.indeed.com/viewjob?jk=ca25277b66a00e9b) — JPMorganChase
+### [Software Engineer, US Life (2027 Permanent)](https://www.indeed.com/viewjob?jk=b9c7b92751622956) — Münchener Rückversicherungs-Gesellschaft
 - 📍 **Location:** New York, NY, US
-- 💰 **Salary:** $124k–$150k/yr
+- 💰 **Salary:** $125k–$145k/yr
+- 🕒 **Posted:** 2026-09-12
+
+### [Site Reliability Engineer III](https://www.indeed.com/viewjob?jk=9f7b17b10d5bed91) — JPMorganChase
+- 📍 **Location:** Jersey City, NJ, US
+- 💰 **Salary:** $138k–$185k/yr
+- 🕒 **Posted:** 2026-09-12
+
+### [Site Reliability Engineer III](https://www.indeed.com/viewjob?jk=a39ecc4ca815593a) — JPMorganChase
+- 📍 **Location:** Jersey City, NJ, US
+- 💰 **Salary:** $138k–$185k/yr
+- 🕒 **Posted:** 2026-09-12
+
+### [Site Reliability Engineer III](https://www.indeed.com/viewjob?jk=9a841d8aef98b0d2) — JPMorganChase
+- 📍 **Location:** Jersey City, NJ, US
+- 💰 **Salary:** $138k–$185k/yr
+- 🕒 **Posted:** 2026-09-12
+
+### [Site Reliability Engineer III](https://www.indeed.com/viewjob?jk=1d7e9ecc9b2a5055) — JPMorganChase
+- 📍 **Location:** Jersey City, NJ, US
+- 💰 **Salary:** $138k–$185k/yr
+- 🕒 **Posted:** 2026-09-12
+
+### [Site Reliability Engineer III](https://www.indeed.com/viewjob?jk=3b156367a9b4adb1) — JPMorganChase
+- 📍 **Location:** Jersey City, NJ, US
+- 💰 **Salary:** $138k–$185k/yr
 - 🕒 **Posted:** 2026-09-12
