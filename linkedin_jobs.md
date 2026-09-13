@@ -1,18 +1,13 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-09-13 20:17 UTC*
+*Last updated: 2026-09-13 21:05 UTC*
 
-**3 new role(s)** since last run · 10 total in last 1h
+**2 new role(s)** since last run · 6 total in last 1h
 
-### [Software Developer](https://www.linkedin.com/jobs/view/4464744680/) — Haystack
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $165,200.00/yr - $223,600.00/yr
+### [AI Prompt Engineer](https://www.linkedin.com/jobs/view/4466792558/) — Stash Talent Services
+- 📍 **Location:** San Francisco Bay Area
+- 💰 **Salary:** $70.00/hr - $77.00/hr
 - 🕒 **Posted:** 2026-09-13
 
-### [Data Scientist (PGC) - TikTok](https://www.linkedin.com/jobs/view/4465480228/) — TikTok
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-09-13
-
-### [Infrastructure Engineer](https://www.linkedin.com/jobs/view/4466784483/) — Simple AI
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $140.00/yr - $250,000.00/yr
+### [Backend Developer Internship - TypeScript, PostgreSQL & Restaurant Operations](https://www.linkedin.com/jobs/view/4465702140/) — ZOVU
+- 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-09-13
