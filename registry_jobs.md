@@ -1,23 +1,16 @@
 # 🗃 Direct ATS Registry — Engineering / ML / DS Roles
-*Last updated: 2026-09-12 16:49 UTC*
+*Last updated: 2026-09-13 17:24 UTC*
 
-**5 new role(s)** since last run · 11 total in current registry shard
+**3 new role(s)** since last run · 14 total in current registry shard
 
-### [AI Software Developer](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/AI-Software-Developer_R-00188597) — Leidos
-- 📍 **Location:** 6314 Remote/Teleworker US
+### [Software Engineer - Real-Time Geospatial Mapping for Planetary Exploration](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Moffett-Field-California/Software-Engineer---Real-Time-Geospatial-Mapping-for-Planetary-Exploration_R2129705) — KBR
+- 📍 **Location:** Mountain View, California
+- 🕒 **Posted:** Posted 3 Days Ago
+
+### [Data Scientist](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-Remote/Data-Scientist_JR0152158) — McKesson
+- 📍 **Location:** USA, Remote
 - 🕒 **Posted:** Posted Yesterday
 
-### [Machine Learning Engineer](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Machine-Learning-Engineer_JR2025036) — NVIDIA
-- 📍 **Location:** US, CA, Santa Clara
-- 🕒 **Posted:** Posted 4 Days Ago
-
-### [Software Engineer, CUDA Deep Learning Systems](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--CUDA-Deep-Learning-Systems_JR2022831) — NVIDIA
-- 📍 **Location:** US, CA, Santa Clara
+### [Data Scientist](https://owensminor.wd1.myworkdayjobs.com/OMCareers/job/Remote---US/Data-Scientist_REQ_26_32998) — Owens & Minor
+- 📍 **Location:** Remote - US
 - 🕒 **Posted:** Posted 12 Days Ago
-
-### [Devops Software and Modeling Engineer](https://parsons.wd5.myworkdayjobs.com/search/job/US---Remote-Any-Location/Devops-Software-and-Modeling-Engineer_R185715) — Parsons
-- 📍 **Location:** US - Remote (Any Location)
-
-### [Machine Learning Engineer](https://proofpoint.wd5.myworkdayjobs.com/proofpointcareers/job/India/Machine-Learning-Engineer_R14232) — Proofpoint
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** Posted 10 Days Ago
