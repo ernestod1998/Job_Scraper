@@ -1120,7 +1120,24 @@ LINKEDIN_SEARCH_TERMS = [
     "research software engineer",
 ]
 
-LINKEDIN_LOOKBACK_SECONDS = 3600          # 1h — hourly watcher surfaces the freshest hour
+BIOTECH_SPECIALTY_SEARCH_TERMS = [
+    # Daily long-tail sweep. These phrases are intentionally biotech/research
+    # weighted rather than reopening the noisy generic "AI engineer" lane.
+    "research engineer",
+    "machine learning scientist",
+    "computational scientist",
+    "computational chemistry",
+    "computational toxicology",
+    "drug metabolism",
+    "DMPK",
+    "ADMET",
+    "QSAR",
+    "medical imaging",
+]
+
+# The normal watcher remains a tight hourly query. A separate morning catch-up
+# workflow overrides this to 14h so the overnight period is not lost.
+LINKEDIN_LOOKBACK_SECONDS = int(os.environ.get("LINKEDIN_LOOKBACK_SECONDS", "3600"))
 LINKEDIN_BIOTECH_LOOKBACK_SECONDS = 86400 # 24h — biotech is a daily 8pm PT digest
 
 # Guest-endpoint geo scopes as (display name, LinkedIn geoId) pairs.
@@ -1128,6 +1145,19 @@ LINKEDIN_BIOTECH_LOOKBACK_SECONDS = 86400 # 24h — biotech is a daily 8pm PT di
 LINKEDIN_LOCATIONS = [
     ("San Francisco Bay Area", "90000084"),
     ("New York City Metropolitan Area", "90000070"),
+]
+
+# Long-tail biotech queries cover every hub admitted by is_target_location().
+# Known metro geoIds are retained; city strings work as the guest endpoint's
+# fallback for the other hubs.
+BIOTECH_LINKEDIN_LOCATIONS = [
+    ("San Francisco Bay Area", "90000084"),
+    ("New York City Metropolitan Area", "90000070"),
+    ("Boston, Massachusetts, United States", ""),
+    ("San Diego, California, United States", ""),
+    ("Greater Los Angeles", "90000049"),
+    ("Seattle, Washington, United States", ""),
+    ("Raleigh-Durham-Chapel Hill Area", ""),
 ]
 
 # Biotech allowlist used by the LinkedIn-side filter. Broader than CURATED_BIOTECHS
@@ -1257,7 +1287,13 @@ def _parse_linkedin_cards(html: str) -> tuple[list[dict], list[str]]:
     return parsed, raw_ids
 
 
-def _linkedin_search(terms: list[str], lookback_seconds: int, *, health=None) -> tuple[list[dict], int]:
+def _linkedin_search(
+    terms: list[str],
+    lookback_seconds: int,
+    *,
+    health=None,
+    locations: list[tuple[str, str]] | None = None,
+) -> tuple[list[dict], int]:
     """
     Per-term, paginated LinkedIn guest-endpoint search. Dedupes by job ID and
     sorts by recency. Used by both the general MLE/DS watcher and the biotech
@@ -1268,7 +1304,8 @@ def _linkedin_search(terms: list[str], lookback_seconds: int, *, health=None) ->
     """
     jobs_by_id: dict[str, dict] = {}
     total_raw_cards = 0
-    for (loc_name, geo_id), term in itertools.product(LINKEDIN_LOCATIONS, terms):
+    search_locations = LINKEDIN_LOCATIONS if locations is None else locations
+    for (loc_name, geo_id), term in itertools.product(search_locations, terms):
         start = 0
         seen_raw_ids: set[str] = set()
         while start < 75:
@@ -1393,7 +1430,21 @@ def scrape_linkedin_biotech() -> list:
     endpoint, so we use general MLE/DS keywords + a company allowlist.
     """
     print(f"🧬 Scraping LinkedIn biotech allowlist (last {LINKEDIN_BIOTECH_LOOKBACK_SECONDS // 3600}h)...")
-    raw, raw_cards = _linkedin_search(LINKEDIN_SEARCH_TERMS, LINKEDIN_BIOTECH_LOOKBACK_SECONDS)
+    core, core_cards = _linkedin_search(
+        LINKEDIN_SEARCH_TERMS,
+        LINKEDIN_BIOTECH_LOOKBACK_SECONDS,
+    )
+    specialty, specialty_cards = _linkedin_search(
+        BIOTECH_SPECIALTY_SEARCH_TERMS,
+        LINKEDIN_BIOTECH_LOOKBACK_SECONDS,
+        locations=BIOTECH_LINKEDIN_LOCATIONS,
+    )
+    raw_by_id = {
+        _job_identity(job.get("url", "")): job
+        for job in core + specialty
+    }
+    raw = list(raw_by_id.values())
+    raw_cards = core_cards + specialty_cards
     if raw_cards == 0:
         # Blocked run: contribute nothing rather than nuke the digest baseline;
         # the direct ATS probes in --biotech-only still supply fresh roles.
@@ -1401,7 +1452,10 @@ def scrape_linkedin_biotech() -> list:
               "skipping LinkedIn for this digest")
         return []
     jobs = [j for j in raw if _is_biotech_company(j["company"])]
-    print(f"  ✅ Biotech LinkedIn: {len(jobs)} role(s) (from {len(raw)} total)")
+    print(
+        f"  ✅ Biotech LinkedIn: {len(jobs)} role(s) "
+        f"(from {len(raw)} unique candidates; {specialty_cards} specialty cards)"
+    )
     return jobs
 
 

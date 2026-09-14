@@ -24,6 +24,36 @@ jobs:
       actions: write
       contents: read
     steps:
+      - name: LinkedIn catch-up — dispatch backup if stale
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          set -e
+          last=$(gh -R ${{ github.repository }} run list \
+            --workflow=linkedin_catchup.yml --limit 1 \
+            --json createdAt,status)
+          status=$(echo "$last" | jq -r '.[0].status')
+          createdAt=$(echo "$last" | jq -r '.[0].createdAt')
+          if [ "$status" = "in_progress" ]; then
+            echo "linkedin_catchup in flight ($status); nothing to do"
+          elif [ "$status" = "queued" ]; then
+            echo "linkedin_catchup is queued; waiting for the shared concurrency slot"
+            sleep 90
+          elif [ -n "$createdAt" ] && [ "$createdAt" != "null" ]; then
+            hours_since=$(python3 -c "from datetime import datetime, timezone; d=datetime.fromisoformat('$createdAt'.replace('Z','+00:00')); print(int((datetime.now(timezone.utc)-d).total_seconds()/3600))")
+            if [ "$hours_since" -lt 20 ]; then
+              echo "linkedin_catchup ran ${hours_since}h ago; nothing to do"
+            else
+              echo "linkedin_catchup stale (${hours_since}h), dispatching backup"
+              gh -R ${{ github.repository }} workflow run linkedin_catchup.yml --ref main
+              sleep 90
+            fi
+          else
+            echo "No linkedin_catchup run found, dispatching backup"
+            gh -R ${{ github.repository }} workflow run linkedin_catchup.yml --ref main
+            sleep 90
+          fi
+
       - name: LinkedIn — dispatch backup if no run this UTC hour
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}

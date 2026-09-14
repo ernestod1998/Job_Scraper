@@ -1,0 +1,40 @@
+name: ATS Registry Baseline Boost
+
+# A second scrape-only pass advances the active-board cursor without adding
+# another seed/verification batch. This accelerates the unfinished baseline
+# and remains useful as a second daily refresh after the baseline completes.
+on:
+  schedule:
+    - cron: "43 1 * * *"   # ~6:43pm PT during daylight saving time
+  workflow_dispatch:
+
+concurrency:
+  group: job-scraper-commit-push
+  cancel-in-progress: false
+
+jobs:
+  registry-scrape:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Scrape another registry shard window
+        env:
+          PUSHOVER_TOKEN: ${{ secrets.PUSHOVER_TOKEN }}
+          PUSHOVER_USER: ${{ secrets.PUSHOVER_USER }}
+          NOTIFY_TERMS: ${{ vars.NOTIFY_TERMS }}
+        run: python scrape_jobs.py --registry-only
+      - name: Run registry unit tests
+        run: python test_ats_registry.py
+      - name: Commit registry jobs and state
+        run: |
+          git config user.name "ernestod1998"
+          git config user.email "61074783+ernestod1998@users.noreply.github.com"
+          python ci_commit_push.py \
+            --message "chore: boost ATS registry coverage [$(date -u '+%Y-%m-%d %H:%MZ')]" \
+            ats_registry.json registry_jobs.json registry_jobs.md registry_jobs.html \
+            all_jobs.json notified.json

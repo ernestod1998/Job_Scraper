@@ -7,6 +7,13 @@ Automated watchers that scrape **software engineering, ML/AI, data science, data
 ### 1. Biotech digest — daily at 8pm PT
 Sweeps curated/discovered company boards through their direct ATS endpoints and supplements them with LinkedIn's public guest endpoint. LinkedIn results are post-filtered through the broader biotech company allowlist. This lane intentionally covers all configured US biotech hubs plus US-remote roles.
 
+The LinkedIn supplement also runs a biotech-heavy long-tail sweep across the Bay
+Area, NYC, Boston, San Diego, Los Angeles, Seattle, and Research Triangle. Its
+queries include research engineering, machine-learning scientist, computational
+science/chemistry/toxicology, drug metabolism, DMPK, ADMET, QSAR, and medical
+imaging titles. The company allowlist and normal role/seniority filters still
+apply, so this expands discovery without reopening the generic AI-title lane.
+
 Output goes to `jobs.json`, `jobs.md`, and `jobs.html`. Each run dedupes against the previously-committed `jobs.json` so the output surfaces only postings new since the last run.
 
 > Why allowlist instead of LinkedIn's industry filter? The `f_I` industry parameter is silently ignored on the public guest endpoint (verified by probing IDs 12, 14, 16, 1763, 1862 — all returned identical non-biotech results).
@@ -15,6 +22,10 @@ Output goes to `jobs.json`, `jobs.md`, and `jobs.html`. Each run dedupes against
 Hits LinkedIn's public guest endpoint for SF Bay Area + NYC roles posted in **the last hour** across multiple search terms, dedupes by job ID, and sorts by recency. Output goes to `linkedin_jobs.json`, `linkedin_jobs.md`, and `linkedin_jobs.html`.
 
 Runs hourly at :17 PT (8am–8pm), driven externally by cron-job.org with the in-GH watchdog as backup. A block guard preserves the previous results when LinkedIn returns zero cards across every term (rate-limited run), so the dedupe baseline and dashboard column survive. Each run dedupes against the previous run so empty windows produce no new listings.
+
+A separate daily catch-up runs shortly before the daytime watcher with a 14-hour
+lookback. This covers postings published after the previous evening's final
+hourly run; the same identity dedupe prevents repeat dashboard entries or alerts.
 
 > ⚠️ Uses the unauthenticated public guest endpoint only — **never** signs in with a user account and does not use LinkedIn cookies, tokens, or credentials.
 
@@ -41,7 +52,7 @@ The generic `ai engineer` / `ai/ml engineer` lane is deliberately paused; the re
 
 **Robotics / perception:** `robotics engineer`, `perception engineer`
 
-**Computational / informatics (biotech):** `computational scientist`, `computational biologist`, `bioinformatics scientist`, `bioinformatics engineer`, `cheminformatics`, `biostatistician`, `bioinformatician`, `bioinformatics analyst`, `genomics scientist`, `research software engineer`, `scientific software engineer`, `associate computational biologist`, `research associate, computational`, `research scientist, ai`
+**Computational / informatics (biotech):** `computational scientist`, `computational biologist`, `bioinformatics scientist`, `bioinformatics engineer`, `cheminformatics`, `biostatistician`, `bioinformatician`, `bioinformatics analyst`, `genomics scientist`, `research software engineer`, `scientific software engineer`, `associate computational biologist`, `research associate, computational`, `research scientist, ai`. The daily biotech sweep explicitly searches additional long-tail phrases including `machine learning scientist`, `computational chemistry`, `computational toxicology`, `drug metabolism`, `DMPK`, `ADMET`, `QSAR`, and `medical imaging`.
 
 **Excluded seniority:** titles containing word-bounded `senior`/`sr`, `staff`, `principal`, `lead`, `manager`, `distinguished`, `founding`, `director`, `vice president`, `vp`/`svp`, `chief`, or `head of` are dropped everywhere (early-to-mid-level IC focus). The description's years-of-experience language is not inspected. Single-word role keywords are word-bounded, so `mle` cannot match inside another word.
 
@@ -139,6 +150,11 @@ they follow whatever roles you already target):
 
 Heavier per-term sources share `GOV_SEARCH_TERMS` (a slice of `LINKEDIN_SEARCH_TERMS`); widen it to taste. Each new source has a matching workflow (`usajobs_watch.yml`, `localgov_watch.yml`, `calcareers_watch.yml`).
 
+The ATS registry keeps its daily seed/verify/scrape cycle and now has a second
+daily scrape-only pass. The extra pass advances through verified employer boards
+without adding another batch of unverified candidates, accelerating the initial
+registry baseline while also providing a second refresh once it is complete.
+
 **Salary backfill:** the LinkedIn watcher now backfills pay from each posting's public guest page (search cards omit it). The dashboard harmonizes every format (hourly / monthly / yearly / `$k` ranges / title-embedded) to an annual figure.
 
 **Dashboard additions:**
@@ -180,6 +196,7 @@ Or locally:
 ```bash
 python scrape_jobs.py --biotech-only   # biotech LinkedIn, last 24h, allowlist-filtered
 python scrape_jobs.py --linkedin-only  # general MLE/DS LinkedIn, last 1h
+LINKEDIN_LOOKBACK_SECONDS=50400 python scrape_jobs.py --linkedin-only  # 14h catch-up
 python scrape_jobs.py --indeed-only    # general MLE/DS Indeed, last 24h (requires python-jobspy)
 python scrape_jobs.py --registry-only  # one bounded active-registry shard (manual pilot)
 python scrape_jobs.py --refilter-existing          # preview current-output cleanup
@@ -214,9 +231,11 @@ Biotech and LinkedIn pipelines use only the standard library. The Indeed pipelin
 └── .github/workflows/
     ├── scrape_jobs.yml             # Daily 8pm PT — biotech (direct ATS + LinkedIn allowlist)
     ├── linkedin_watch.yml          # Hourly :17 PT — general LinkedIn (last 1h, cron-job.org-driven)
+    ├── linkedin_catchup.yml        # Daily morning — overnight LinkedIn catch-up (last 14h)
     ├── indeed_watch.yml            # Hourly :47 PT — Indeed (last 24h, cron-job.org-driven)
     ├── linkedin_watch_backup.yml   # In-GH watchdog at :33 PT — re-dispatches missed runs
     ├── registry_watch.yml          # Daily ATS registry seed/verify/scrape cycle
+    ├── registry_scrape_boost.yml   # Second daily scrape-only registry pass
     ├── triage.yml                  # Manual-only fit scoring (paused)
     └── evals.yml                   # Manual-only scoring evals (paused)
 ```

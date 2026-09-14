@@ -1,0 +1,66 @@
+name: LinkedIn Overnight Catch-up
+
+on:
+  # One wider pass before the daytime hourly watcher starts. The 14-hour
+  # window overlaps the previous evening run so scheduler delays do not create
+  # a blind spot; cross-run identity dedupe prevents duplicate notifications.
+  schedule:
+    - cron: "7 14 * * *"   # ~7:07am PT during daylight saving time
+  workflow_dispatch:
+
+concurrency:
+  group: job-scraper-commit-push
+  cancel-in-progress: false
+
+jobs:
+  scrape:
+    name: LinkedIn overnight catch-up
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Scrape LinkedIn (last 14h)
+        env:
+          LINKEDIN_LOOKBACK_SECONDS: "50400"
+          PUSHOVER_TOKEN: ${{ secrets.PUSHOVER_TOKEN }}
+          PUSHOVER_USER: ${{ secrets.PUSHOVER_USER }}
+          NOTIFY_TERMS: ${{ vars.NOTIFY_TERMS }}
+        run: python scrape_jobs.py --linkedin-only
+
+      - name: Record workflow run
+        run: |
+          python - <<'EOF'
+          import json
+          import os
+          from datetime import datetime, timezone
+
+          with open("linkedin_jobs.json", encoding="utf-8") as f:
+              data = json.load(f)
+
+          entry = {
+              "workflow": "linkedin_catchup",
+              "timestamp": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
+              "job_count": int(data.get("total", 0)),
+              "run_id": os.environ.get("GITHUB_RUN_ID", ""),
+              "run_attempt": os.environ.get("GITHUB_RUN_ATTEMPT", ""),
+          }
+
+          with open("workflow_runs.jsonl", "a", encoding="utf-8") as f:
+              f.write(json.dumps(entry, sort_keys=True) + "\n")
+          EOF
+
+      - name: Commit results to repo
+        run: |
+          git config user.name "ernestod1998"
+          git config user.email "61074783+ernestod1998@users.noreply.github.com"
+          python ci_commit_push.py \
+            --message "chore: catch up overnight linkedin listings [$(date -u '+%Y-%m-%d %H:%MZ')]" \
+            linkedin_jobs.json linkedin_jobs.md linkedin_jobs.html \
+            workflow_runs.jsonl all_jobs.json notified.json

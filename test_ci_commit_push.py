@@ -15,6 +15,7 @@ No network, no secrets — it builds a throwaway bare repo in a temp dir.
 
 import json
 import os
+import re
 import shutil
 import subprocess
 import sys
@@ -300,6 +301,28 @@ class WorkflowsUseIt(unittest.TestCase):
                 body = f.read()
             if "git config user." in body:  # i.e. this workflow makes a commit
                 self.assertIn("ci_commit_push.py", body, os.path.basename(path))
+
+    def test_catchup_workflows_preserve_concurrency_safety(self):
+        workflows = os.path.join(SCRIPT_DIR, ".github", "workflows")
+        with open(os.path.join(workflows, "linkedin_catchup.yml")) as f:
+            catchup = f.read()
+        self.assertIn('LINKEDIN_LOOKBACK_SECONDS: "50400"', catchup)
+        self.assertIn("ci_commit_push.py", catchup)
+
+        with open(os.path.join(workflows, "linkedin_watch_backup.yml")) as f:
+            watchdog = f.read()
+        dispatch_then_wait = re.findall(
+            r"workflow run linkedin_catchup\.yml --ref main\n\s+sleep 90",
+            watchdog,
+        )
+        self.assertEqual(len(dispatch_then_wait), 2)
+        self.assertRegex(watchdog, r'linkedin_catchup is queued;[\s\S]*?sleep 90')
+
+        with open(os.path.join(workflows, "registry_scrape_boost.yml")) as f:
+            registry_boost = f.read()
+        self.assertIn("python scrape_jobs.py --registry-only", registry_boost)
+        self.assertNotIn("--registry-seeds", registry_boost)
+        self.assertNotIn("--verify-registry", registry_boost)
 
 
 if __name__ == "__main__":

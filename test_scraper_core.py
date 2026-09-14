@@ -199,6 +199,33 @@ class RetrievalPolicy(unittest.TestCase):
         self.assertEqual(raw, 20)  # repeated page is counted as received raw data
         self.assertEqual([re.search(r"start=(\d+)", u).group(1) for u in urls], ["0", "10"])
 
+    def test_biotech_specialty_sweep_expands_terms_and_hubs(self):
+        self.assertTrue({
+            "research engineer", "machine learning scientist",
+            "computational scientist", "computational chemistry",
+            "computational toxicology", "DMPK", "ADMET", "QSAR",
+            "medical imaging",
+        }.issubset(set(sj.BIOTECH_SPECIALTY_SEARCH_TERMS)))
+        location_names = {name for name, _ in sj.BIOTECH_LINKEDIN_LOCATIONS}
+        self.assertTrue({
+            "San Francisco Bay Area", "New York City Metropolitan Area",
+            "Boston, Massachusetts, United States",
+            "San Diego, California, United States",
+            "Greater Los Angeles", "Seattle, Washington, United States",
+            "Raleigh-Durham-Chapel Hill Area",
+        }.issubset(location_names))
+
+        first = role("https://linkedin.test/1", company="Genentech")
+        second = role("https://linkedin.test/2", company="Metagenomi")
+        with patch.object(
+            sj,
+            "_linkedin_search",
+            side_effect=[([first], 5), ([first, second], 7)],
+        ) as search:
+            jobs = sj.scrape_linkedin_biotech()
+        self.assertEqual({job["url"] for job in jobs}, {first["url"], second["url"]})
+        self.assertEqual(search.call_args_list[1].kwargs["locations"], sj.BIOTECH_LINKEDIN_LOCATIONS)
+
     def test_jobspy_retries_only_on_exactly_fifty(self):
         calls = []
 
