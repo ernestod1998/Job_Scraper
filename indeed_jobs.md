@@ -1,79 +1,54 @@
 # 🟦 Indeed — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-09-13 23:27 UTC*
+*Last updated: 2026-09-14 01:33 UTC*
 
-**15 new role(s)** since last run · 25 total in last 24h
+**10 new role(s)** since last run · 30 total in last 24h
 
-### [Machine Learning Engineer - Digital Intelligence](https://www.indeed.com/viewjob?jk=16b1d84ac73cf58a) — JPMorganChase
-- 📍 **Location:** Palo Alto, CA, US
-- 💰 **Salary:** $138k–$195k/yr
-- 🕒 **Posted:** 2026-09-13
-
-### [Software Engineer III - Machine Learning Platform](https://www.indeed.com/viewjob?jk=a5d0e797b63177f5) — JPMorganChase
+### [Software Engineer III- AI/ML Engineering, GPU ML Serving](https://www.indeed.com/viewjob?jk=f813c02f5a8ca98f) — JPMorganChase
 - 📍 **Location:** Palo Alto, CA, US
 - 💰 **Salary:** $138k–$185k/yr
 - 🕒 **Posted:** 2026-09-13
 
-### [Machine Learning Research Engineer, ASE Search](https://www.indeed.com/viewjob?jk=e4f301dc13047ab9) — Apple
+### [Bluetooth Software Engineer](https://www.indeed.com/viewjob?jk=8ab5a974c884b1a8) — Apple
 - 📍 **Location:** Cupertino, CA, US
-- 💰 **Salary:** $150k–$278k/yr
+- 💰 **Salary:** $129k–$195k/yr
 - 🕒 **Posted:** 2026-09-10
 
-### [Software Engineer, Data & Observability Platforms — MTS/SMTS](https://www.indeed.com/viewjob?jk=e297fca3706aff0b) — Salesforce
-- 📍 **Location:** San Francisco, CA, US
-- 💰 **Salary:** $117k–$224k/yr
-- 🕒 **Posted:** 2026-09-13
-
-### [Junior Software Engineer](https://www.indeed.com/viewjob?jk=91b7a5bd310d29dc) — SAJA
-- 📍 **Location:** New York, NY, US
-- 💰 **Salary:** $200k–$300k/yr
-- 🕒 **Posted:** 2026-09-13
-
-### [Software Engineer III (Agentic)](https://www.indeed.com/viewjob?jk=a7dbe83183547b87) — JPMorganChase
+### [Software Engineer III - React, Java](https://www.indeed.com/viewjob?jk=b6b036ec3d304597) — JPMorganChase
 - 📍 **Location:** New York, NY, US
 - 💰 **Salary:** $138k–$185k/yr
 - 🕒 **Posted:** 2026-09-13
 
-### [Software Engineer III (Java)](https://www.indeed.com/viewjob?jk=a88a04a99df8feb2) — JPMorganChase
-- 📍 **Location:** New York, NY, US
-- 💰 **Salary:** $138k–$185k/yr
-- 🕒 **Posted:** 2026-09-13
-
-### [Software Engineer III - Full Stack](https://www.indeed.com/viewjob?jk=ed8cdcff1a04038c) — JPMorganChase
+### [Software Engineer III - Python / Databricks](https://www.indeed.com/viewjob?jk=ff31315beba0301a) — JPMorganChase
 - 📍 **Location:** Jersey City, NJ, US
 - 💰 **Salary:** $138k–$185k/yr
 - 🕒 **Posted:** 2026-09-13
 
-### [Software Engineer III (Full Stack Engineer)](https://www.indeed.com/viewjob?jk=9f89c7c39ab706ea) — JPMorganChase
-- 📍 **Location:** New York, NY, US
-- 💰 **Salary:** $138k–$185k/yr
-- 🕒 **Posted:** 2026-09-13
-
-### [Software Engineer III - DevOps, Python and/or JavaScript](https://www.indeed.com/viewjob?jk=a81199f021d2dc9c) — JPMorganChase
+### [Software Engineer III - Resiliency Tech](https://www.indeed.com/viewjob?jk=c2074eb5ba3bb8e2) — JPMorganChase
 - 📍 **Location:** Jersey City, NJ, US
 - 💰 **Salary:** $138k–$185k/yr
 - 🕒 **Posted:** 2026-09-13
 
-### [Infrastructure Engineer III](https://www.indeed.com/viewjob?jk=521db724f9300b32) — JPMorganChase
-- 📍 **Location:** New York, NY, US
-- 💰 **Salary:** $119k–$160k/yr
+### [Full-Stack Software Engineer III (Python, React, Playwright)](https://www.indeed.com/viewjob?jk=0d41ede32546f213) — JPMorganChase
+- 📍 **Location:** Jersey City, NJ, US
+- 💰 **Salary:** $138k–$185k/yr
 - 🕒 **Posted:** 2026-09-13
 
-### [DevOps AWS Software Engineer III](https://www.indeed.com/viewjob?jk=59681196f3e054aa) — JPMorganChase
+### [Software Engineer II (Java/React)](https://www.indeed.com/viewjob?jk=01fb4f5c3e5b1bd5) — JPMorganChase
+- 📍 **Location:** New York, NY, US
+- 💰 **Salary:** $124k–$150k/yr
+- 🕒 **Posted:** 2026-09-13
+
+### [Software Engineer III (Java/AWS)](https://www.indeed.com/viewjob?jk=325be2d7e8badc1c) — JPMorganChase
+- 📍 **Location:** New York, NY, US
+- 💰 **Salary:** $138k–$185k/yr
+- 🕒 **Posted:** 2026-09-13
+
+### [Software Engineer III - Asset Management Research Engineer](https://www.indeed.com/viewjob?jk=3afefad54bdcd733) — JPMorganChase
+- 📍 **Location:** Jersey City, NJ, US
+- 💰 **Salary:** $138k–$185k/yr
+- 🕒 **Posted:** 2026-09-13
+
+### [Python AWS Software Engineer III](https://www.indeed.com/viewjob?jk=73b486235320c3fc) — JPMorganChase
 - 📍 **Location:** Jersey City, NJ, US
 - 💰 **Salary:** $138k–$185k/yr
 - 🕒 **Posted:** 2026-09-12
-
-### [Site Reliability Engineer III](https://www.indeed.com/viewjob?jk=85262e299ec4ba2f) — JPMorganChase
-- 📍 **Location:** Jersey City, NJ, US
-- 💰 **Salary:** $138k–$185k/yr
-- 🕒 **Posted:** 2026-09-13
-
-### [Site Reliability Engineer III](https://www.indeed.com/viewjob?jk=6307190169022664) — JPMorganChase
-- 📍 **Location:** Jersey City, NJ, US
-- 💰 **Salary:** $138k–$185k/yr
-- 🕒 **Posted:** 2026-09-13
-
-### [Site Reliability Engineer III](https://www.indeed.com/viewjob?jk=bb5dd80e1790149d) — JPMorganChase
-- 📍 **Location:** Jersey City, NJ, US
-- 💰 **Salary:** $138k–$185k/yr
-- 🕒 **Posted:** 2026-09-13
