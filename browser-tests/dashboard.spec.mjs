@@ -122,9 +122,9 @@ test('old links and browser lifecycle never contact sync; import reaches another
   expect(await page.evaluate(()=>JSON.parse(localStorage.getItem('jobTriage:v2')).code)).toBeUndefined();
 });
 
-for (const width of [390, 1440]) test(`daily Rank at ${width}px compares five resumes and preserves decisions`, async ({context,page}) => {
+for (const width of [390, 1440]) test(`daily Rank at ${width}px compares six resumes and preserves decisions`, async ({context,page}) => {
   await page.setViewportSize({width,height:900});
-  const resumes=['BioScience_ML','ML','DS','SWE','FDE'];
+  const resumes=['BioScience_ML','ML','DS','SWE','FDE','Research_Software_Engineer'];
   const result = n => ({model:'fixture',scores:Object.fromEntries(resumes.map(r=>[r,n])),best_resumes:['SWE'],requirements:[{text:'Python required <img src=x onerror=alert(1)>',importance:'required',hard_eligibility:true,statuses:Object.fromEntries(resumes.map(r=>[r,'matched']))}]});
   await fixture(context,makeJobs(3),{rankings:{version:1,updated_at:new Date().toISOString(),scores:{
     'https://jobs.test/0':{status:'valid',luna:result(60)},
@@ -137,7 +137,7 @@ for (const width of [390, 1440]) test(`daily Rank at ${width}px compares five re
   await expect(page.locator('#rank-info')).toContainText('Daily ranking');
   const first=page.locator('.job').first();
   await first.locator('.ranking-details > summary').click();
-  await expect(first.locator('tbody tr')).toHaveCount(5);
+  await expect(first.locator('tbody tr')).toHaveCount(6);
   await expect(first.locator('tbody tr').first()).toContainText('90');
   await expect(first.locator('tbody tr').first()).toContainText('75');
   await first.getByText('Luna requirements and skills',{exact:true}).click();
