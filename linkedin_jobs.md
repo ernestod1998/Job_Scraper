@@ -1,6 +1,8 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-09-13 23:17 UTC*
+*Last updated: 2026-09-14 00:17 UTC*
 
-**0 new role(s)** since last run · 4 total in last 1h
+**1 new role(s)** since last run · 1 total in last 1h
 
-No new roles since the last run.
+### [Software Engineer](https://www.linkedin.com/jobs/view/4465704020/) — Revin
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-09-13
