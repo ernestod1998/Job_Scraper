@@ -1,6 +1,9 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-09-14 03:17 UTC*
+*Last updated: 2026-09-14 07:00 UTC*
 
-**0 new role(s)** since last run · 1 total in last 1h
+**1 new role(s)** since last run · 1 total in last 1h
 
-No new roles since the last run.
+### [Software Developer](https://www.linkedin.com/jobs/view/4467031648/) — Haystack
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $165,200.00/yr - $223,600.00/yr
+- 🕒 **Posted:** 2026-09-14
