@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-09-14T20:53:53.190412+00:00",
+  "updated_at": "2026-09-14T20:56:04.073085+00:00",
   "day": "2026-09-14",
   "context": "3ba40bc7f768802deaea5fdb4539ae6756b2ad705c2a79069ac6f13a206750ea",
   "scores": {
@@ -60521,7 +60521,75 @@
           "cost": 5929150
         }
       },
-      "scored_at": "2026-09-14T20:17:37.510055+00:00"
+      "scored_at": "2026-09-14T20:17:37.510055+00:00",
+      "sonnet": {
+        "model": "claude-sonnet-5",
+        "scores": {
+          "BioScience_ML": 71,
+          "ML": 71,
+          "DS": 71,
+          "SWE": 71,
+          "FDE": 71,
+          "Research_Software_Engineer": 71
+        },
+        "best_resumes": [
+          "BioScience_ML",
+          "DS",
+          "FDE",
+          "ML",
+          "Research_Software_Engineer",
+          "SWE"
+        ],
+        "requirements": [
+          {
+            "text": "1. 3+ years of research and practical experience in one or more areas of computer vision, including but not limited to (preferring candidates with publications in the venues such as CVPR, ICCV, SIGGRAPH, NeurIPS):",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial",
+              "Research_Software_Engineer": "partial"
+            }
+          },
+          {
+            "text": "1. 3+ years of research and practical experience in one or more areas of computer vision, including but not limited to (preferring candidates with publications in the venues such as CVPR, ICCV, SIGGRAPH, NeurIPS):",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial",
+              "Research_Software_Engineer": "partial"
+            }
+          },
+          {
+            "text": "2. Highly competent in algorithms and programming; Strong coding skills in C/C++ and Python.",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "matched",
+              "FDE": "matched",
+              "Research_Software_Engineer": "matched"
+            }
+          }
+        ],
+        "usage": {
+          "input": 17465,
+          "output": 3879,
+          "thinking": 1921,
+          "cached": 0,
+          "cache_write": 0,
+          "cost": 73720000
+        }
+      }
     },
     "https://www.indeed.com/viewjob?jk=f813c02f5a8ca98f": {
       "status": "jd_unavailable",
@@ -61474,7 +61542,109 @@
           "cost": 8051250
         }
       },
-      "scored_at": "2026-09-14T20:17:37.510055+00:00"
+      "scored_at": "2026-09-14T20:17:37.510055+00:00",
+      "sonnet": {
+        "model": "claude-sonnet-5",
+        "scores": {
+          "BioScience_ML": 83,
+          "ML": 88,
+          "DS": 83,
+          "SWE": 71,
+          "FDE": 83,
+          "Research_Software_Engineer": 83
+        },
+        "best_resumes": [
+          "ML"
+        ],
+        "requirements": [
+          {
+            "text": "- BA, Master's degree or PhD in a quantitative discipline (e.g., Statistics, Operations Research, Economics, Computer Science, Mathematics, Physics) or equivalent practical experience.",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "matched",
+              "FDE": "matched",
+              "Research_Software_Engineer": "matched"
+            }
+          },
+          {
+            "text": "- 2+ years of relevant work experience, including expertise with statistical data analysis such as linear models, multivariate analysis, stochastic models, sampling methods.",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "partial",
+              "FDE": "matched",
+              "Research_Software_Engineer": "matched"
+            }
+          },
+          {
+            "text": "- Experience with statistical software (e.g. R, Python, MATLAB) and database languages (e.g. SQL)",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "matched",
+              "FDE": "matched",
+              "Research_Software_Engineer": "matched"
+            }
+          },
+          {
+            "text": "- Experience with Ads, Recommendation, E-Comm, Search etc. is a plus",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "not_evidenced",
+              "ML": "not_evidenced",
+              "DS": "not_evidenced",
+              "SWE": "not_evidenced",
+              "FDE": "not_evidenced",
+              "Research_Software_Engineer": "not_evidenced"
+            }
+          },
+          {
+            "text": "- Demonstrated leadership and self-direction. Willingness to both teach others and learn new techniques.",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "not_evidenced",
+              "ML": "partial",
+              "DS": "not_evidenced",
+              "SWE": "partial",
+              "FDE": "partial",
+              "Research_Software_Engineer": "partial"
+            }
+          },
+          {
+            "text": "- Demonstrated skills in selecting the right statistical tools given a data analysis problem. Effective written and verbal communication skills.",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "partial",
+              "FDE": "partial",
+              "Research_Software_Engineer": "partial"
+            }
+          }
+        ],
+        "usage": {
+          "input": 18503,
+          "output": 6022,
+          "thinking": 2494,
+          "cached": 0,
+          "cache_write": 0,
+          "cost": 97226000
+        }
+      }
     },
     "https://www.indeed.com/viewjob?jk=325be2d7e8badc1c": {
       "status": "jd_unavailable",
@@ -61587,7 +61757,101 @@
           "cost": 6725000
         }
       },
-      "scored_at": "2026-09-14T20:17:37.510055+00:00"
+      "scored_at": "2026-09-14T20:17:37.510055+00:00",
+      "sonnet": {
+        "model": "claude-sonnet-5",
+        "scores": {
+          "BioScience_ML": 73,
+          "ML": 73,
+          "DS": 73,
+          "SWE": 73,
+          "FDE": 73,
+          "Research_Software_Engineer": 73
+        },
+        "best_resumes": [
+          "BioScience_ML",
+          "DS",
+          "FDE",
+          "ML",
+          "Research_Software_Engineer",
+          "SWE"
+        ],
+        "requirements": [
+          {
+            "text": "Do you have experience in AI research across LLMs, agents, evaluations, benchmarking, AI safety, alignment, agent understanding, RL environments or post-training?",
+            "importance": "required",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial",
+              "Research_Software_Engineer": "partial"
+            }
+          },
+          {
+            "text": "Have you built practical AI/ML research projects, benchmarks, evaluations or agent-related systems through academic research, open-source work, internships or industry?",
+            "importance": "required",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "matched",
+              "FDE": "matched",
+              "Research_Software_Engineer": "matched"
+            }
+          },
+          {
+            "text": "Do you have hands-on experience with post-training methods such as RLHF, DPO, distillation or high-stakes model evaluation, ideally beyond coursework?",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial",
+              "Research_Software_Engineer": "partial"
+            }
+          },
+          {
+            "text": "Are you a strong hands-on coder or full-stack technical generalist who enjoys building, testing and shipping rather than only writing papers?",
+            "importance": "required",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "matched",
+              "FDE": "matched",
+              "Research_Software_Engineer": "matched"
+            }
+          },
+          {
+            "text": "Can you operate autonomously on ambiguous technical problems and move quickly from research through to task creation and delivery?",
+            "importance": "required",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial",
+              "Research_Software_Engineer": "partial"
+            }
+          }
+        ],
+        "usage": {
+          "input": 15958,
+          "output": 4339,
+          "thinking": 1073,
+          "cached": 0,
+          "cache_write": 0,
+          "cost": 75306000
+        }
+      }
     },
     "https://www.linkedin.com/jobs/view/4466793805/": {
       "url": "https://www.linkedin.com/jobs/view/4466793805/",
@@ -61901,6 +62165,6 @@
   },
   "attempts_today": {
     "luna": 50,
-    "sonnet": 2
+    "sonnet": 5
   }
 }
