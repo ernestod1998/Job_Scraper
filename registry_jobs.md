@@ -1,16 +1,19 @@
 # 🗃 Direct ATS Registry — Engineering / ML / DS Roles
-*Last updated: 2026-09-13 17:24 UTC*
+*Last updated: 2026-09-14 19:12 UTC*
 
-**3 new role(s)** since last run · 14 total in current registry shard
+**4 new role(s)** since last run · 14 total in current registry shard
 
-### [Software Engineer - Real-Time Geospatial Mapping for Planetary Exploration](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Moffett-Field-California/Software-Engineer---Real-Time-Geospatial-Mapping-for-Planetary-Exploration_R2129705) — KBR
-- 📍 **Location:** Mountain View, California
-- 🕒 **Posted:** Posted 3 Days Ago
+### [2027 Future Talent Program – Drug Metabolism and Pharmacokinetics – Co-op](https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---California---South-San-Francisco-Grand-Ave/XMLNAME-2027-Future-Talent-Program---Drug-Metabolism-and-Pharmacokinetics---Co-op_R412928) — Merck
+- 📍 **Location:** USA - California - South San Francisco (Grand Ave)
+- 🕒 **Posted:** Posted 6 Days Ago
 
-### [Data Scientist](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-Remote/Data-Scientist_JR0152158) — McKesson
-- 📍 **Location:** USA, Remote
-- 🕒 **Posted:** Posted Yesterday
+### [Medical Imaging Field Engineer - Fargo, ND](https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/United-States-ND-Bismark---Remote/Medical-Imaging-Field-Engineer---Fargo--ND_R-30161) — Varian
+- 📍 **Location:** United States, ND, Bismark - Remote
+- 🕒 **Posted:** Posted Today
 
-### [Data Scientist](https://owensminor.wd1.myworkdayjobs.com/OMCareers/job/Remote---US/Data-Scientist_REQ_26_32998) — Owens & Minor
-- 📍 **Location:** Remote - US
-- 🕒 **Posted:** Posted 12 Days Ago
+### [Data Scientist](https://parsons.wd5.myworkdayjobs.com/search/job/US---Remote-Any-Location/Data-Scientist_R185988) — Parsons
+- 📍 **Location:** US - Remote (Any Location)
+
+### [Innovation, Data & Analytics Team, AI/ML Engineer (Agentic Systems)](https://pfizer.wd1.myworkdayjobs.com/internaljobs/job/United-States---New-York---New-York-City/Innovation--Data---Analytics-Team--AI-ML-Engineer--Agentic-Systems-_4963337) — Pfizer
+- 📍 **Location:** United States - New York - New York City
+- 🕒 **Posted:** Posted 4 Days Ago
