@@ -1,63 +1,51 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-09-15 20:18 UTC*
+*Last updated: 2026-09-15 21:19 UTC*
 
-**14 new role(s)** since last run · 22 total in last 1h
+**11 new role(s)** since last run · 22 total in last 1h
 
-### [Machine Learning Engineer | Python | Pytorch | Distributed Training | Optimisation | GPU | Hybrid, San Jose, CA](https://www.linkedin.com/jobs/view/4467773453/) — Enigma
+### [Machine Learning Infrastructure Engineer](https://www.linkedin.com/jobs/view/4467783679/) — Cognizant
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-09-15
+
+### [Software Engineer I - AI Agents](https://www.linkedin.com/jobs/view/4467776863/) — Observe.AI
+- 📍 **Location:** Redwood City, CA
+- 🕒 **Posted:** 2026-09-15
+
+### [Platform Engineer](https://www.linkedin.com/jobs/view/4467774918/) — Intelliswift - An LTTS Company
+- 📍 **Location:** San Francisco Bay Area
+- 💰 **Salary:** $70.00/hr - $73.95/hr
+- 🕒 **Posted:** 2026-09-15
+
+### [Machine Learning Infrastructure Engineer](https://www.linkedin.com/jobs/view/4467776736/) — Cognizant
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-09-15
+
+### [Machine Learning Infrastructure Engineer](https://www.linkedin.com/jobs/view/4467784694/) — Cognizant
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-09-15
+
+### [Machine Learning Infrastructure Engineer](https://www.linkedin.com/jobs/view/4467780700/) — Cognizant
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-09-15
+
+### [Biostatistician, Late Stage](https://www.linkedin.com/jobs/view/4467774801/) — Bayside Solutions
+- 📍 **Location:** San Mateo County, CA
+- 💰 **Salary:** $100.00/hr - $130.00/hr
+- 🕒 **Posted:** 2026-09-15
+
+### [Cloud Platform Engineer](https://www.linkedin.com/jobs/view/4465907957/) — KLA
+- 📍 **Location:** Milpitas, CA
+- 🕒 **Posted:** 2026-09-15
+
+### [GNSS Software Engineer](https://www.linkedin.com/jobs/view/4465918821/) — Prodapt ASIC services (Formerly Innovative Logic)
 - 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-09-15
 
-### [Software Engineer, Platform](https://www.linkedin.com/jobs/view/4467752951/) — Lassie
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-09-15
-
-### [Backend Software Engineer](https://www.linkedin.com/jobs/view/4467776564/) — One Technology Services
-- 📍 **Location:** Fremont, CA
-- 💰 **Salary:** $60.00/hr - $65.00/hr
-- 🕒 **Posted:** 2026-09-15
-
-### [Data Scientist – Analytics](https://www.linkedin.com/jobs/view/4454349781/) — AppLovin
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-09-15
-
-### [IT Infrastructure Engineer](https://www.linkedin.com/jobs/view/4466585474/) — Tanium
-- 📍 **Location:** Emeryville, CA
-- 🕒 **Posted:** 2026-09-15
-
-### [ML Scientist I/II, AI for Protein Engineering](https://www.linkedin.com/jobs/view/4465904682/) — Teli Labs
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-09-15
-
-### [AI/ML Engineer](https://www.linkedin.com/jobs/view/4467787320/) — Phaxis
+### [Software Engineer](https://www.linkedin.com/jobs/view/4465921745/) — TBG | The Bachrach Group
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $155,000.00/yr - $185,000.00/yr
+- 💰 **Salary:** $140,000.00/yr - $160,000.00/yr
 - 🕒 **Posted:** 2026-09-15
 
-### [Quantitative Research Engineer – PhD Intern (US)](https://www.linkedin.com/jobs/view/4465922187/) — Citadel Securities
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-09-15
-
-### [Software Engineering Co-op](https://www.linkedin.com/jobs/view/4465914473/) — Ambrook
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $2,000.00/wk - $2,000.00/wk
-- 🕒 **Posted:** 2026-09-15
-
-### [Software Engineer, Intern](https://www.linkedin.com/jobs/view/4467767544/) — Duolingo
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-09-15
-
-### [Software Engineering Intern, 2028 Grads](https://www.linkedin.com/jobs/view/4465905534/) — Rilla
-- 📍 **Location:** Brooklyn, NY
-- 🕒 **Posted:** 2026-09-15
-
-### [AI Platform Engineer](https://www.linkedin.com/jobs/view/4465919252/) — SoTalent
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-09-15
-
-### [Database Platform Engineer](https://www.linkedin.com/jobs/view/4467777196/) — Capstone Investment Advisors
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-09-15
-
-### [Software Engineer II - Integrated Services](https://www.linkedin.com/jobs/view/4467756889/) — Compass
-- 📍 **Location:** New York, NY
+### [W2 only / Open for transfers _Site Reliability Engineer _ Inperson Interview _ Pennington, NJ or Jersey City, NJ](https://www.linkedin.com/jobs/view/4465157299/) — Mitchell Martin Inc.
+- 📍 **Location:** Jersey City, NJ
 - 🕒 **Posted:** 2026-09-15
