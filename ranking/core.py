@@ -13,7 +13,7 @@ does not establish years, production ownership, or leadership. If review context
 provided, independently check it, remove unsupported qualifications and add missing
 ones. Return your own complete assessments. Never treat the first model as evidence.
 '''
-LIMITS = {'luna': 50, 'sonnet': 5}
+LIMITS = {'luna': 100, 'sonnet': 5}
 
 
 class DailyAdapter(Adapter):

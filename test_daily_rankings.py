@@ -86,13 +86,13 @@ class Tests(unittest.TestCase):
         self.assertIn('Python experience required', out)
     def test_quota_survives_rerun(self):
         r = self.runner()
-        for i in range(55):
+        for i in range(105):
             r.score(job(i), 'luna')
-        self.assertEqual(self.adapter.calls, 50)
+        self.assertEqual(self.adapter.calls, 100)
         r = self.runner()
-        self.assertIsNone(r.score(job(99), 'luna'))
+        self.assertIsNone(r.score(job(999), 'luna'))
         self.assertIsNotNone(r.score(job(0), 'luna'))
-        self.assertEqual(self.adapter.calls, 50)
+        self.assertEqual(self.adapter.calls, 100)
     def test_unknown_dispatch_never_replayed(self):
         self.adapter.crash = True
         with self.assertRaises(KeyboardInterrupt):
@@ -104,7 +104,7 @@ class Tests(unittest.TestCase):
         self.adapter.invalid = True
         r = self.runner()
         self.assertIsNone(r.score(job(), 'luna'))
-        self.assertEqual(r.remaining('luna'), 49)
+        self.assertEqual(r.remaining('luna'), 99)
         self.assertIsNone(self.runner().score(job(), 'luna'))
         self.assertEqual(self.adapter.calls, 1)
     def test_checkpoint_failure_prevents_payment(self):
@@ -120,7 +120,7 @@ class Tests(unittest.TestCase):
         first = self.runner()
         first.score(job(), 'luna')
         tomorrow = self.runner(NOW + timedelta(days=1))
-        self.assertEqual(tomorrow.remaining('luna'), 50)
+        self.assertEqual(tomorrow.remaining('luna'), 100)
         self.assertIsNotNone(tomorrow.score(job(), 'luna'))
         self.assertEqual(self.adapter.calls, 1)
         changed = copy.deepcopy(INPUTS)
@@ -138,10 +138,10 @@ class Tests(unittest.TestCase):
         self.assertEqual(out, queue(list(reversed(jobs)), NOW, True))
     def test_end_to_end_public_output_and_sonnet_quota(self):
         r = self.runner()
-        r.run([job(i) for i in range(55)], fetcher=lambda j: j)
+        r.run([job(i) for i in range(105)], fetcher=lambda j: j)
         data = json.loads(open('ranking_results.json').read())
-        self.assertEqual(data['attempts_today'], {'luna': 50, 'sonnet': 5})
-        self.assertEqual(len(data['scores']), 50)
+        self.assertEqual(data['attempts_today'], {'luna': 100, 'sonnet': 5})
+        self.assertEqual(len(data['scores']), 100)
         self.assertNotIn('PRIVATE', json.dumps(self.store.data))
         self.assertNotIn('PRIVATE', json.dumps(data))
     def test_shortlist_does_not_force_low_scores(self):
@@ -150,19 +150,19 @@ class Tests(unittest.TestCase):
 
     def test_recover_unpublished_results_after_quota_exhausted(self):
         r = self.runner()
-        for i in range(50):
+        for i in range(100):
             r.score(job(i), 'luna')
         self.store.data['daily-state.json']['days']['2026-09-08']['sonnet'] = 5
         r = self.runner()
-        r.run([job(i) for i in range(50)], fetcher=lambda j: j)
-        self.assertEqual(len(r.output['scores']), 50)
-        self.assertEqual(self.adapter.calls, 50)
+        r.run([job(i) for i in range(100)], fetcher=lambda j: j)
+        self.assertEqual(len(r.output['scores']), 100)
+        self.assertEqual(self.adapter.calls, 100)
 
     def test_smoke_limits_share_daily_quota(self):
         r = self.runner()
         r.run([job(i) for i in range(10)], fetcher=lambda j: j, run_limits={'luna': 2, 'sonnet': 1})
         self.assertEqual(r.output['attempts_today'], {'luna': 2, 'sonnet': 1})
-        self.assertEqual(self.runner().remaining('luna'), 48)
+        self.assertEqual(self.runner().remaining('luna'), 98)
 
     def test_newest_postings_first_and_old_reposts_excluded(self):
         old = {**job(1), 'date_posted': '2026-09-06', 'title': 'Data Scientist'}
