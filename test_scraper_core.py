@@ -199,6 +199,31 @@ class RetrievalPolicy(unittest.TestCase):
         self.assertEqual(raw, 20)  # repeated page is counted as received raw data
         self.assertEqual([re.search(r"start=(\d+)", u).group(1) for u in urls], ["0", "10"])
 
+    def test_linkedin_stops_after_consecutive_network_errors(self):
+        calls = []
+        health = sj._RetrievalHealth()
+
+        def failed_fetch(url, *, health):
+            calls.append(url)
+            health.errors += 1
+            return ""
+
+        with patch.object(
+            sj,
+            "LINKEDIN_LOCATIONS",
+            [("San Francisco Bay Area", "1"), ("New York, NY", "2")],
+        ), patch.object(sj, "fetch", side_effect=failed_fetch), patch.object(sj.time, "sleep"):
+            jobs, raw = sj._linkedin_search(
+                ["machine learning", "data scientist"],
+                3600,
+                health=health,
+            )
+
+        self.assertEqual(jobs, [])
+        self.assertEqual(raw, 0)
+        self.assertEqual(len(calls), sj.LINKEDIN_MAX_CONSECUTIVE_ERRORS)
+        self.assertEqual(health.consecutive_errors, sj.LINKEDIN_MAX_CONSECUTIVE_ERRORS)
+
     def test_biotech_specialty_sweep_expands_terms_and_hubs(self):
         self.assertTrue({
             "research engineer", "machine learning scientist",

@@ -1139,6 +1139,7 @@ BIOTECH_SPECIALTY_SEARCH_TERMS = [
 # workflow overrides this to 14h so the overnight period is not lost.
 LINKEDIN_LOOKBACK_SECONDS = int(os.environ.get("LINKEDIN_LOOKBACK_SECONDS", "3600"))
 LINKEDIN_BIOTECH_LOOKBACK_SECONDS = 86400 # 24h — biotech is a daily 8pm PT digest
+LINKEDIN_MAX_CONSECUTIVE_ERRORS = 3
 
 # Guest-endpoint geo scopes as (display name, LinkedIn geoId) pairs.
 # geoId 90000070 (NYC metro) verified live against the endpoint 2026-07-21.
@@ -1304,6 +1305,12 @@ def _linkedin_search(
     """
     jobs_by_id: dict[str, dict] = {}
     total_raw_cards = 0
+    if (
+        health is not None
+        and health.consecutive_errors >= LINKEDIN_MAX_CONSECUTIVE_ERRORS
+    ):
+        print("  ⛔ LinkedIn request circuit already open; skipping query set")
+        return [], 0
     search_locations = LINKEDIN_LOCATIONS if locations is None else locations
     for (loc_name, geo_id), term in itertools.product(search_locations, terms):
         start = 0
@@ -1318,9 +1325,25 @@ def _linkedin_search(
                 f"&f_TPR=r{lookback_seconds}"
                 f"&start={start}"
             )
+            errors_before = health.errors if health is not None else 0
             html = fetch(url) if health is None else fetch(url, health=health)
             if not html.strip():
+                if health is not None and health.errors > errors_before:
+                    health.consecutive_errors += 1
+                    if health.consecutive_errors >= LINKEDIN_MAX_CONSECUTIVE_ERRORS:
+                        print(
+                            "  ⛔ LinkedIn request circuit open after "
+                            f"{health.consecutive_errors} consecutive errors; "
+                            "skipping remaining queries"
+                        )
+                        jobs = list(jobs_by_id.values())
+                        jobs.sort(key=lambda j: -_iso_to_ts(j.get("date_posted", "")))
+                        return jobs, total_raw_cards
+                elif health is not None:
+                    health.consecutive_errors = 0
                 break
+            if health is not None:
+                health.consecutive_errors = 0
             parsed, raw_ids = _parse_linkedin_cards(html)
             raw_count = len(raw_ids)
             total_raw_cards += raw_count
@@ -1355,6 +1378,7 @@ class _RetrievalHealth:
     errors: int = 0
     raw_records: int = 0
     used_cache: bool = False
+    consecutive_errors: int = 0
 
 
 @dataclass
@@ -1430,13 +1454,16 @@ def scrape_linkedin_biotech() -> list:
     endpoint, so we use general MLE/DS keywords + a company allowlist.
     """
     print(f"🧬 Scraping LinkedIn biotech allowlist (last {LINKEDIN_BIOTECH_LOOKBACK_SECONDS // 3600}h)...")
+    health = _RetrievalHealth()
     core, core_cards = _linkedin_search(
         LINKEDIN_SEARCH_TERMS,
         LINKEDIN_BIOTECH_LOOKBACK_SECONDS,
+        health=health,
     )
     specialty, specialty_cards = _linkedin_search(
         BIOTECH_SPECIALTY_SEARCH_TERMS,
         LINKEDIN_BIOTECH_LOOKBACK_SECONDS,
+        health=health,
         locations=BIOTECH_LINKEDIN_LOCATIONS,
     )
     raw_by_id = {
