@@ -1,20 +1,29 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-09-15 03:17 UTC*
+*Last updated: 2026-09-15 08:00 UTC*
 
-**4 new role(s)** since last run · 18 total in last 1h
+**6 new role(s)** since last run · 6 total in last 1h
 
-### [Android Software Engineer](https://www.linkedin.com/jobs/view/4466151992/) — ActAI
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-09-14
+### [Software Engineer, ML Data](https://www.linkedin.com/jobs/view/4441014880/) — Liftoff Mobile
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-09-15
 
-### [Full Stack Engineer, AI Internal Systems](https://www.linkedin.com/jobs/view/4466167062/) — ActAI
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-09-14
+### [AI/ML Engineer](https://www.linkedin.com/jobs/view/4466174761/) — SenseLab
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-09-15
 
-### [Software Engineer, Mobile (iOS), Google Maps Platform](https://www.linkedin.com/jobs/view/4466161568/) — Google
-- 📍 **Location:** Mountain View, CA
-- 🕒 **Posted:** 2026-09-14
+### [Java Software Engineer](https://www.linkedin.com/jobs/view/4465838337/) — Flexton Inc.
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-09-15
 
-### [Android Engineer, Social](https://www.linkedin.com/jobs/view/4465262277/) — Robinhood
-- 📍 **Location:** Menlo Park, CA
-- 🕒 **Posted:** 2026-09-14
+### [Software Engineer, Code Quality](https://www.linkedin.com/jobs/view/4465526354/) — DoorDash
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-09-15
+
+### [Computer Vision & ML Expert](https://www.linkedin.com/jobs/view/4467417949/) — Alignerr
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $100.00/hr - $150.00/hr
+- 🕒 **Posted:** 2026-09-15
+
+### [Software Engineer, Code Quality](https://www.linkedin.com/jobs/view/4465525405/) — DoorDash
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-09-15
