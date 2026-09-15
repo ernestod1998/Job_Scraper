@@ -13,7 +13,7 @@ does not establish years, production ownership, or leadership. If review context
 provided, independently check it, remove unsupported qualifications and add missing
 ones. Return your own complete assessments. Never treat the first model as evidence.
 '''
-LIMITS = {'luna': 100, 'sonnet': 5}
+LIMITS = {'luna': 100, 'sonnet': 10}
 
 
 class DailyAdapter(Adapter):
@@ -97,14 +97,17 @@ def shortlist(items):
     ordered = sorted(items, key=lambda i: (-best(i), i['url']))
     high = [i for i in ordered if best(i) >= 70]
     chosen = high[:3]
+    # Preserve the existing mix of at most two uncertain borderline cases,
+    # then use the expanded review budget on additional high-scoring matches.
+    uncertain_limit = min(5, LIMITS['sonnet'])
     for item in ordered:
         values = sorted((v for v in item['luna']['scores'].values() if v is not None), reverse=True)
         uncertain = (len(values) > 1 and values[0] - values[1] <= 5) or any(
             r['hard_eligibility'] and 'not_evidenced' in r['statuses'].values()
             for r in item['luna']['requirements'])
-        if len(chosen) < 5 and item not in chosen and best(item) >= 50 and uncertain:
+        if len(chosen) < uncertain_limit and item not in chosen and best(item) >= 50 and uncertain:
             chosen.append(item)
     for item in high:
-        if len(chosen) < 5 and item not in chosen:
+        if len(chosen) < LIMITS['sonnet'] and item not in chosen:
             chosen.append(item)
     return chosen

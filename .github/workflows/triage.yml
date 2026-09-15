@@ -6,8 +6,8 @@ on:
         description: 'Maximum Luna attempts this run (daily cap 100)'
         default: '100'
       sonnet:
-        description: 'Maximum Sonnet attempts this run (daily cap 5)'
-        default: '5'
+        description: 'Maximum Sonnet attempts this run (daily cap 10)'
+        default: '10'
   schedule:
     - cron: '15 16,17 * * *'
 concurrency:

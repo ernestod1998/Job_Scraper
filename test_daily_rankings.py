@@ -140,7 +140,7 @@ class Tests(unittest.TestCase):
         r = self.runner()
         r.run([job(i) for i in range(105)], fetcher=lambda j: j)
         data = json.loads(open('ranking_results.json').read())
-        self.assertEqual(data['attempts_today'], {'luna': 100, 'sonnet': 5})
+        self.assertEqual(data['attempts_today'], {'luna': 100, 'sonnet': 10})
         self.assertEqual(len(data['scores']), 100)
         self.assertNotIn('PRIVATE', json.dumps(self.store.data))
         self.assertNotIn('PRIVATE', json.dumps(data))
@@ -148,11 +148,15 @@ class Tests(unittest.TestCase):
         items = [{'url': str(i), 'luna': {'scores': {r: 20 for r in RESUMES}, 'requirements': []}} for i in range(8)]
         self.assertEqual(shortlist(items), [])
 
+    def test_shortlist_uses_expanded_sonnet_cap_for_high_scores(self):
+        items = [{'url': str(i), 'luna': {'scores': {r: 80 for r in RESUMES}, 'requirements': []}} for i in range(14)]
+        self.assertEqual(len(shortlist(items)), 10)
+
     def test_recover_unpublished_results_after_quota_exhausted(self):
         r = self.runner()
         for i in range(100):
             r.score(job(i), 'luna')
-        self.store.data['daily-state.json']['days']['2026-09-08']['sonnet'] = 5
+        self.store.data['daily-state.json']['days']['2026-09-08']['sonnet'] = 10
         r = self.runner()
         r.run([job(i) for i in range(100)], fetcher=lambda j: j)
         self.assertEqual(len(r.output['scores']), 100)
