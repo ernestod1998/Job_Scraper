@@ -1,22 +1,50 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-09-16 18:19 UTC*
+*Last updated: 2026-09-16 19:03 UTC*
 
-**4 new role(s)** since last run · 24 total in last 1h
+**11 new role(s)** since last run · 19 total in last 1h
 
-### [DevOps Engineer with  Firmware Experience](https://www.linkedin.com/jobs/view/4466879954/) — 7Th Sky Tech
-- 📍 **Location:** Berkeley, CA
+### [Machine Learning Engineer, E-Commerce Risk Control - USDS](https://www.linkedin.com/jobs/view/4468266137/) — TikTok USDS Joint Venture
+- 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-09-16
 
-### [SOFTWARE ENGINEER (SIL/HIL)](https://www.linkedin.com/jobs/view/4466884958/) — 7Th Sky Tech
-- 📍 **Location:** Berkeley, CA
-- 💰 **Salary:** $50.00/hr - $65.00/hr
+### [Machine Learning Engineer, Monetization Technology](https://www.linkedin.com/jobs/view/4467105208/) — TikTok
+- 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-09-16
 
-### [Software Engineer](https://www.linkedin.com/jobs/view/4467759520/) — Storm3
-- 📍 **Location:** San Francisco Bay Area
-- 💰 **Salary:** $200,000.00/yr - $275,000.00/yr
+### [AWS Cloud Engineer (Remote)](https://www.linkedin.com/jobs/view/4449145845/) — Astrix
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-09-16
 
-### [Applied Scientist, Prime Video - Generative AI (Video)](https://www.linkedin.com/jobs/view/4459073405/) — Prime Video & Amazon MGM Studios
+### [Applied Deep Learning PhD Research Intern, Reinforcement Learning for LLMs - Fall 2026](https://www.linkedin.com/jobs/view/4410874474/) — NVIDIA
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-09-16
+
+### [Software Engineer - Build and Release.](https://www.linkedin.com/jobs/view/4468265386/) — Intuitive
 - 📍 **Location:** Sunnyvale, CA
+- 💰 **Salary:** $117,000.00/yr - $186,300.00/yr
+- 🕒 **Posted:** 2026-09-16
+
+### [Data Scientist](https://www.linkedin.com/jobs/view/4467106304/) — Payactiv
+- 📍 **Location:** Milpitas, CA
+- 💰 **Salary:** $100,000.00/yr - $120,000.00/yr
+- 🕒 **Posted:** 2026-09-16
+
+### [Développeur.euse de logiciels spécialisés en testabilité / Software Developer in Test](https://www.linkedin.com/jobs/view/4419203050/) — Electronic Arts (EA)
+- 📍 **Location:** Redwood City, CA
+- 🕒 **Posted:** 2026-09-16
+
+### [System Software Engineer - Trusted Firmware](https://www.linkedin.com/jobs/view/4455493096/) — NVIDIA
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-09-16
+
+### [Human-Robot Interaction, Applied Scientist , Fauna](https://www.linkedin.com/jobs/view/4458745598/) — Amazon
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-09-16
+
+### [Software Engineer III- AI & Engineering/Software as a Service](https://www.linkedin.com/jobs/view/4468271269/) — Deloitte
+- 📍 **Location:** Jersey City, NJ
+- 🕒 **Posted:** 2026-09-16
+
+### [Software Engineer III- AI & Engineering/Software as a Service](https://www.linkedin.com/jobs/view/4468277253/) — Deloitte
+- 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-09-16
