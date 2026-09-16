@@ -1,93 +1,78 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-09-16 16:19 UTC*
+*Last updated: 2026-09-16 17:20 UTC*
 
-**21 new role(s)** since last run · 38 total in last 1h
+**17 new role(s)** since last run · 17 total in last 1h
 
-### [AI Research Scientist | Machine Learning | Deep Learning |Natural Language Processing | LLM | Hybrid | San Jose, CA](https://www.linkedin.com/jobs/view/4466844362/) — Enigma
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-09-16
-
-### [Machine Learning Research Scientist (Remote | $50–$100/hr)](https://www.linkedin.com/jobs/view/4466213291/) — Synthires
-- 📍 **Location:** San Francisco Bay Area
-- 💰 **Salary:** $50.00/hr - $100.00/hr
-- 🕒 **Posted:** 2026-09-16
-
-### [Java/Python Backend Engineers](https://www.linkedin.com/jobs/view/4468247399/) — Steneral Consulting
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-09-16
-
-### [Applied Scientist- Pricing, Dynamic Pricing & Offer Selection](https://www.linkedin.com/jobs/view/4371638246/) — Lyft
-- 📍 **Location:** San Francisco County, CA
-- 🕒 **Posted:** 2026-09-16
-
-### [Software Engineer III](https://www.linkedin.com/jobs/view/4333266868/) — PTR Global
-- 📍 **Location:** Cupertino, CA
-- 🕒 **Posted:** 2026-09-16
-
-### [Java Backend developer | W2 Only | Need Locals](https://www.linkedin.com/jobs/view/4466866780/) — iPivot
+### [Applied Scientist, Prime Video - Generative AI (Video)](https://www.linkedin.com/jobs/view/4459079284/) — Prime Video & Amazon MGM Studios
 - 📍 **Location:** Sunnyvale, CA
 - 🕒 **Posted:** 2026-09-16
 
-### [Software Engineer, Design Systems](https://www.linkedin.com/jobs/view/4457622315/) — Whatnot
+### [Entry-Level Software Engineer](https://www.linkedin.com/jobs/view/4446265806/) — Pariveda
 - 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $207,000.00/yr - $230,000.00/yr
+- 💰 **Salary:** $79,800.00/yr - $91,800.00/yr
 - 🕒 **Posted:** 2026-09-16
 
-### [Software Engineer, Recommendation Systems](https://www.linkedin.com/jobs/view/4466215200/) — Meta
+### [Infrastructure Engineer](https://www.linkedin.com/jobs/view/4464342942/) — Harrison Clarke
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $280,000.00/yr - $350,000.00/yr
+- 🕒 **Posted:** 2026-09-16
+
+### [Wireless Research Engineer](https://www.linkedin.com/jobs/view/4466201834/) — Bosch USA
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-09-16
+
+### [Platform Engineer](https://www.linkedin.com/jobs/view/4464369058/) — Harrison Clarke
+- 📍 **Location:** San Francisco Bay Area
+- 💰 **Salary:** $240,000.00/yr - $320,000.00/yr
+- 🕒 **Posted:** 2026-09-16
+
+### [DevOps Engineer with  Firmware Experience](https://www.linkedin.com/jobs/view/4466879954/) — 7Th Sky Tech
+- 📍 **Location:** Berkeley, CA
+- 🕒 **Posted:** 2026-09-16
+
+### [Software Engineer III, Infrastructure, Spanner](https://www.linkedin.com/jobs/view/4466879711/) — Google
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-09-16
+
+### [Software Engineer, Discovery UX](https://www.linkedin.com/jobs/view/4466885881/) — Roblox
+- 📍 **Location:** San Mateo, CA
+- 🕒 **Posted:** 2026-09-16
+
+### [Software Engineer, Trading Product](https://www.linkedin.com/jobs/view/4446256332/) — Aptos Labs
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-09-16
+
+### [Fullstack Software Engineer, Robot Interfaces](https://www.linkedin.com/jobs/view/4468248740/) — Physical Intelligence
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-09-16
+
+### [Full Stack Engineer (React, Microservices)](https://www.linkedin.com/jobs/view/4468240806/) — TekValue IT Solutions
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-09-16
+
+### [SOFTWARE ENGINEER (SIL/HIL)](https://www.linkedin.com/jobs/view/4466884958/) — 7Th Sky Tech
+- 📍 **Location:** Berkeley, CA
+- 💰 **Salary:** $50.00/hr - $65.00/hr
+- 🕒 **Posted:** 2026-09-16
+
+### [SDN / GPU Infrastructure Engineer](https://www.linkedin.com/jobs/view/4466878953/) — Centraprise
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-09-16
+
+### [Software Engineer](https://www.linkedin.com/jobs/view/4466215408/) — Revin
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $271,000.00/yr - $347,000.00/yr
+- 💰 **Salary:** $140,000.00/yr - $180,000.00/yr
 - 🕒 **Posted:** 2026-09-16
 
-### [Junior Software Engineer](https://www.linkedin.com/jobs/view/4448653008/) — SOCOTEC US
+### [Software Engineer, Growth Marketing](https://www.linkedin.com/jobs/view/4429416585/) — Suno
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-09-16
 
-### [Robotics Engineer (Perception)](https://www.linkedin.com/jobs/view/4369279543/) — Treeswift
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-09-16
-
-### [Data Scientist – Regression Analysis](https://www.linkedin.com/jobs/view/4466880592/) — Mphasis
-- 📍 **Location:** Berkeley Heights, NJ
-- 💰 **Salary:** $60.00/hr - $75.00/hr
-- 🕒 **Posted:** 2026-09-16
-
-### [AI/Machine Learning Engineering Intern](https://www.linkedin.com/jobs/view/4466207493/) — Gecko Robotics
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-09-16
-
-### [Junior Software Engineer](https://www.linkedin.com/jobs/view/4448243270/) — SOCOTEC
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-09-16
-
-### [Software engineer, full-stack](https://www.linkedin.com/jobs/view/4457645042/) — Watershed
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-09-16
-
-### [Palantir Foundry Full Stack Engineer](https://www.linkedin.com/jobs/view/4466867873/) — EXL
+### [DevOps Engineer](https://www.linkedin.com/jobs/view/4468248520/) — HireTalent - Staffing & Recruiting Firm
 - 📍 **Location:** Jersey City, NJ
 - 🕒 **Posted:** 2026-09-16
 
-### [Full Stack Software Engineering Intern](https://www.linkedin.com/jobs/view/4466202525/) — Gecko Robotics
+### [AWS Cloud Engineer](https://www.linkedin.com/jobs/view/4468233845/) — Kforce Inc
 - 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-09-16
-
-### [Full Stack Software Engineer](https://www.linkedin.com/jobs/view/4429569313/) — Treeswift
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-09-16
-
-### [Software Engineer, Trading Product](https://www.linkedin.com/jobs/view/4446245617/) — Aptos Labs
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-09-16
-
-### [C++ Software Engineer (DV Commodities - New York)](https://www.linkedin.com/jobs/view/4448932444/) — DV Trading LLC
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-09-16
-
-### [Software Engineer](https://www.linkedin.com/jobs/view/4448251427/) — Cantor Fitzgerald
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-09-16
-
-### [Software Engineer, Design Systems](https://www.linkedin.com/jobs/view/4457619436/) — Whatnot
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $207,000.00/yr - $230,000.00/yr
+- 💰 **Salary:** $55.00/hr - $60.00/hr
 - 🕒 **Posted:** 2026-09-16
