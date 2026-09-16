@@ -1,61 +1,62 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-09-15 23:19 UTC*
+*Last updated: 2026-09-16 00:18 UTC*
 
-**13 new role(s)** since last run · 24 total in last 1h
+**14 new role(s)** since last run · 23 total in last 1h
 
-### [Software Engineer, Distributed Systems](https://www.linkedin.com/jobs/view/4466577924/) — Discord
+### [Biostatistician (AI Focus)](https://www.linkedin.com/jobs/view/4463577089/) — Clindata Insight Inc
+- 📍 **Location:** San Francisco Bay Area
+- 💰 **Salary:** $80.00/hr - $110.00/hr
+- 🕒 **Posted:** 2026-09-15
+
+### [Software Engineer](https://www.linkedin.com/jobs/view/4466804408/) — Docusign
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-09-15
+
+### [Applied Scientist II, Foundation Model](https://www.linkedin.com/jobs/view/4467928059/) — Amazon
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-09-15
+
+### [Applied Scientist, Fauna](https://www.linkedin.com/jobs/view/4467917150/) — Amazon
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-09-15
+
+### [Product Data Scientist - SFO, CA - Hybrid](https://www.linkedin.com/jobs/view/4467791609/) — Gandiv Insights LLC
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-09-15
+
+### [Machine Learning Infrastructure Engineer](https://www.linkedin.com/jobs/view/4467783679/) — Cognizant
 - 📍 **Location:** San Francisco Bay Area
 - 🕒 **Posted:** 2026-09-15
 
-### [Software Developer](https://www.linkedin.com/jobs/view/4467908586/) — AfterQuery Experts
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $50.00/hr - $100.00/hr
+### [Research Intern, Fundamental Generative AI - 2027](https://www.linkedin.com/jobs/view/4466588638/) — NVIDIA
+- 📍 **Location:** Santa Clara, CA
 - 🕒 **Posted:** 2026-09-15
 
-### [Software Engineer - Embedded (RIS)](https://www.linkedin.com/jobs/view/4467796500/) — Hewlett Packard Enterprise
-- 📍 **Location:** Sunnyvale, CA
+### [PhD Research Intern, Generative AI for Physical AI - 2027](https://www.linkedin.com/jobs/view/4466805414/) — NVIDIA
+- 📍 **Location:** Santa Clara, CA
 - 🕒 **Posted:** 2026-09-15
 
-### [Embedded Platform Engineer – L2 (SDN and SRE)](https://www.linkedin.com/jobs/view/4466578914/) — Centraprise
-- 📍 **Location:** Sunnyvale, CA
+### [System Software Engineer, NPI Data Center Diagnostics](https://www.linkedin.com/jobs/view/4466599473/) — NVIDIA
+- 📍 **Location:** Santa Clara, CA
 - 🕒 **Posted:** 2026-09-15
 
-### [Data Scientist – Applied AI](https://www.linkedin.com/jobs/view/4465929387/) — Triune Infomatics Inc
-- 📍 **Location:** South San Francisco, CA
+### [Machine Learning Infrastructure Engineer](https://www.linkedin.com/jobs/view/4467776736/) — Cognizant
+- 📍 **Location:** San Francisco Bay Area
 - 🕒 **Posted:** 2026-09-15
 
-### [Full Stack Engineer](https://www.linkedin.com/jobs/view/4467791644/) — AfterQuery Experts
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $50.00/hr - $100.00/hr
+### [Machine Learning Infrastructure Engineer](https://www.linkedin.com/jobs/view/4467784694/) — Cognizant
+- 📍 **Location:** San Francisco Bay Area
 - 🕒 **Posted:** 2026-09-15
 
-### [Frontend Engineer](https://www.linkedin.com/jobs/view/4467901501/) — AfterQuery Experts
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $50.00/hr - $100.00/hr
+### [Machine Learning Infrastructure Engineer](https://www.linkedin.com/jobs/view/4467780700/) — Cognizant
+- 📍 **Location:** San Francisco Bay Area
 - 🕒 **Posted:** 2026-09-15
 
-### [Leader, Software Engineering](https://www.linkedin.com/jobs/view/4467910226/) — Cisco
-- 📍 **Location:** Milpitas, CA
-- 🕒 **Posted:** 2026-09-15
-
-### [Applied Machine Learning Scientist II (AI/ML - Model Validation, GenAI & Agentic AI)](https://www.linkedin.com/jobs/view/4467901051/) — TD
+### [Backend Engineer (Data Infrastructure / Data Quality) [SK-17961]](https://www.linkedin.com/jobs/view/4465932385/) — Skill
 - 📍 **Location:** New York, NY
+- 💰 **Salary:** $58.00/hr - $64.00/hr
 - 🕒 **Posted:** 2026-09-15
 
-### [Summer 2027: Software Engineering Intern - Full Stack](https://www.linkedin.com/jobs/view/4467798523/) — Intuit
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-09-15
-
-### [DevOps Engineer](https://www.linkedin.com/jobs/view/4465946215/) — INA Solution
-- 📍 **Location:** Jersey City, NJ
-- 🕒 **Posted:** 2026-09-15
-
-### [Backend Engineer](https://www.linkedin.com/jobs/view/4467900567/) — AfterQuery Experts
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $50.00/hr - $100.00/hr
-- 🕒 **Posted:** 2026-09-15
-
-### [Software Developer](https://www.linkedin.com/jobs/view/4467912477/) — AfterQuery Experts
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $50.00/hr - $100.00/hr
+### [Software Engineer II - Integrated Services](https://www.linkedin.com/jobs/view/4466592519/) — Compass Real Estate - Peninsula
+- 📍 **Location:** Manhattan, NY
 - 🕒 **Posted:** 2026-09-15
