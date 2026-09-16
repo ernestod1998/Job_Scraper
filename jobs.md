@@ -1,16 +1,8 @@
 # 🧬 Biotech LinkedIn — MLE / DS Roles
-*Last updated: 2026-09-15 08:50 UTC*
+*Last updated: 2026-09-16 08:46 UTC*
 
-**3 new role(s)** since last run · 54 total in last 24h
+**1 new role(s)** since last run · 50 total in last 24h
 
-### [Biostatistician (Translational and Exploratory Biostatistics)](https://www.linkedin.com/jobs/view/4467422696/) — Genentech
-- 📍 **Location:** South San Francisco, CA
-- 🕒 **Posted:** 2026-09-15
-
-### [ML Scientist I/II, AI for Protein Engineering](https://www.linkedin.com/jobs/view/4467444982/) — Lila Sciences
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-09-15
-
-### [Machine Learning Scientist I / II, Protein Design](https://www.linkedin.com/jobs/view/4467453283/) — Lila Sciences
-- 📍 **Location:** Cambridge, MA
+### [Data Scientist](https://www.linkedin.com/jobs/view/4465554052/) — Bristol Myers Squibb
+- 📍 **Location:** San Diego, CA
 - 🕒 **Posted:** 2026-09-15
