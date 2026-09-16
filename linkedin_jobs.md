@@ -1,46 +1,54 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-09-16 01:18 UTC*
+*Last updated: 2026-09-16 02:18 UTC*
 
-**10 new role(s)** since last run · 23 total in last 1h
+**12 new role(s)** since last run · 14 total in last 1h
 
-### [Software Engineer, Distributed Training](https://www.linkedin.com/jobs/view/4465948313/) — River AI
+### [Deep Learning Field Engineer](https://www.linkedin.com/jobs/view/4466811845/) — Matroid
 - 📍 **Location:** Palo Alto, CA
 - 🕒 **Posted:** 2026-09-15
 
-### [Software Engineer, Inference Systems](https://www.linkedin.com/jobs/view/4465949267/) — River AI
-- 📍 **Location:** Palo Alto, CA
+### [Data Scientist, Bioengineering](https://www.linkedin.com/jobs/view/4460239400/) — Merge Labs
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $120,000.00/yr - $200,000.00/yr
 - 🕒 **Posted:** 2026-09-15
 
-### [Data Scientist](https://www.linkedin.com/jobs/view/4467794351/) — Apex Systems
-- 📍 **Location:** Sunnyvale, CA
-- 💰 **Salary:** $50.00/hr - $80.00/hr
+### [Software Engineer](https://www.linkedin.com/jobs/view/4467926989/) — MintMCP
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-09-15
 
-### [Software Engineer - Calibration Platform](https://www.linkedin.com/jobs/view/4466801502/) — Applied Intuition
-- 📍 **Location:** Sunnyvale, CA
-- 💰 **Salary:** $151,000.00/yr - $240,000.00/yr
+### [Software Engineer](https://www.linkedin.com/jobs/view/4467931951/) — MintMCP
+- 📍 **Location:** San Mateo, CA
 - 🕒 **Posted:** 2026-09-15
 
-### [Software Engineer, GPU Kernels](https://www.linkedin.com/jobs/view/4465933450/) — River AI
-- 📍 **Location:** Palo Alto, CA
+### [Software Engineer, Robotics](https://www.linkedin.com/jobs/view/4467942072/) — TAR
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-09-15
 
-### [Applied Scientist, Sponsored Products and Brands](https://www.linkedin.com/jobs/view/4467740354/) — Amazon
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-09-15
-
-### [Software Engineer, River API](https://www.linkedin.com/jobs/view/4467936539/) — River AI
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-09-15
-
-### [Research Engineer / Research Scientist](https://www.linkedin.com/jobs/view/4467934596/) — River AI
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-09-15
-
-### [Applied Scientist, AGI](https://www.linkedin.com/jobs/view/4465587594/) — Amazon
+### [Software Engineer III, Infrastructure, Google Workspace](https://www.linkedin.com/jobs/view/4466807670/) — Google
 - 📍 **Location:** Sunnyvale, CA
 - 🕒 **Posted:** 2026-09-15
 
-### [Software Engineering Intern, 2028 Grads](https://www.linkedin.com/jobs/view/4466807462/) — Rilla
+### [Software Engineer - Compiler](https://www.linkedin.com/jobs/view/4426751178/) — Sigma
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-09-15
+
+### [Intern Conversion: Software Developer](https://www.linkedin.com/jobs/view/4465940594/) — IBM
+- 📍 **Location:** San Jose, CA
+- 💰 **Salary:** $88,000.00/yr - $152,000.00/yr
+- 🕒 **Posted:** 2026-09-15
+
+### [Oracle Cloud Infrastructure Engineer](https://www.linkedin.com/jobs/view/4467929806/) — Bright Vision Technologies
+- 📍 **Location:** Foster City, CA
+- 🕒 **Posted:** 2026-09-15
+
+### [Software Engineer](https://www.linkedin.com/jobs/view/4467928736/) — Paramount
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-09-15
+
+### [Software Engineer - Compiler](https://www.linkedin.com/jobs/view/4426745273/) — Sigma
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-09-15
+
+### [Software Engineer 3, Commerce](https://www.linkedin.com/jobs/view/4466817106/) — Condé Nast
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-09-15
