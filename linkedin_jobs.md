@@ -1,17 +1,16 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-09-16 03:18 UTC*
+*Last updated: 2026-09-16 06:38 UTC*
 
-**3 new role(s)** since last run · 17 total in last 1h
+**3 new role(s)** since last run · 4 total in last 1h
 
-### [Full-Stack Software Engineer](https://www.linkedin.com/jobs/view/4466812527/) — UpCore Solutions
-- 📍 **Location:** Redwood City, CA
+### [Research Intern, Fundamental Generative AI - 2027](https://www.linkedin.com/jobs/view/4466588638/) — NVIDIA
+- 📍 **Location:** Santa Clara, CA
 - 🕒 **Posted:** 2026-09-15
 
-### [Fullstack Engineer](https://www.linkedin.com/jobs/view/4466809893/) — UpCore Solutions
-- 📍 **Location:** San Francisco, CA
+### [PhD Research Intern, Generative AI for Physical AI - 2027](https://www.linkedin.com/jobs/view/4466805414/) — NVIDIA
+- 📍 **Location:** Santa Clara, CA
 - 🕒 **Posted:** 2026-09-15
 
-### [Software Engineer II - Asset & Wealth Management Technology](https://www.linkedin.com/jobs/view/4467942289/) — JPMorganChase
-- 📍 **Location:** Jersey City, NJ
-- 💰 **Salary:** $123,500.00/yr - $150,000.00/yr
+### [System Software Engineer, NPI Data Center Diagnostics](https://www.linkedin.com/jobs/view/4466599473/) — NVIDIA
+- 📍 **Location:** Santa Clara, CA
 - 🕒 **Posted:** 2026-09-15
