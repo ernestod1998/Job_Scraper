@@ -1,35 +1,46 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-09-17 21:18 UTC*
+*Last updated: 2026-09-17 22:17 UTC*
 
-**7 new role(s)** since last run · 21 total in last 1h
+**10 new role(s)** since last run · 10 total in last 1h
 
-### [Google Data Platform Engineer](https://www.linkedin.com/jobs/view/4467810283/) — Holistic Partners, Inc
+### [Machine Learning Engineer](https://www.linkedin.com/jobs/view/4468832405/) — PTR Global
+- 📍 **Location:** Cupertino, CA
+- 🕒 **Posted:** 2026-09-17
+
+### [Software Engineer (Backed by $9M from Kleiner Perkins)](https://www.linkedin.com/jobs/view/4467589892/) — Day One Partners
 - 📍 **Location:** San Francisco Bay Area
 - 🕒 **Posted:** 2026-09-17
 
-### [Software Engineer (AI)](https://www.linkedin.com/jobs/view/4468812844/) — People In AI
-- 📍 **Location:** New York City Metropolitan Area
-- 💰 **Salary:** $200,000.00/yr - $250,000.00/yr
+### [AI Platform Engineer (Hybrid)](https://www.linkedin.com/jobs/view/4468824196/) — RTX
+- 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-09-17
 
-### [Software Engineer - Full Stack](https://www.linkedin.com/jobs/view/4466609844/) — TechAviv
+### [Full Stack Engineer | $7.5B AI Healthcare Startup](https://www.linkedin.com/jobs/view/4467803560/) — Day One Partners
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-09-17
+
+### [Junior Data Scientist](https://www.linkedin.com/jobs/view/4465872171/) — COGENT Infotech
+- 📍 **Location:** White Plains, NY
+- 🕒 **Posted:** 2026-09-17
+
+### [AI/ML Engineer](https://www.linkedin.com/jobs/view/4468837089/) — HireTalent - Staffing & Recruiting Firm
+- 📍 **Location:** Newark, NJ
+- 🕒 **Posted:** 2026-09-17
+
+### [Software Engineer](https://www.linkedin.com/jobs/view/4466622175/) — ECLARO
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-09-17
 
-### [Site Reliability Engineer - Production Support](https://www.linkedin.com/jobs/view/4467809231/) — Bayside Solutions
-- 📍 **Location:** Cupertino, CA
-- 💰 **Salary:** $60.00/hr - $70.00/hr
-- 🕒 **Posted:** 2026-09-17
-
-### [Associate Software Engineer](https://www.linkedin.com/jobs/view/4468613847/) — New York Technology Partners
+### [Software Engineer](https://www.linkedin.com/jobs/view/4465982850/) — BeaconFire Inc.
 - 📍 **Location:** New York City Metropolitan Area
-- 💰 **Salary:** $40.00/hr - $50.00/hr
+- 💰 **Salary:** $65,000.00/yr - $80,000.00/yr
 - 🕒 **Posted:** 2026-09-17
 
-### [Backend Engineer, Core Technology](https://www.linkedin.com/jobs/view/4454540425/) — Stripe
-- 📍 **Location:** San Francisco, CA
+### [Software Engineer(LLM) – Performance & Load Test Exp](https://www.linkedin.com/jobs/view/4468830330/) — Envision Technology Solutions
+- 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-09-17
 
-### [Software Engineer - Vehicle Test](https://www.linkedin.com/jobs/view/4467805362/) — Astranis Space Technologies
-- 📍 **Location:** San Francisco, CA
+### [Full Stack Engineer / Healthcare & Wellness / NYC](https://www.linkedin.com/jobs/view/4468824365/) — Motion Recruitment
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $130,000.00/yr - $150,000.00/yr
 - 🕒 **Posted:** 2026-09-17
