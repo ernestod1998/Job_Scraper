@@ -1,37 +1,54 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-09-17 18:19 UTC*
+*Last updated: 2026-09-17 19:15 UTC*
 
-**8 new role(s)** since last run · 31 total in last 1h
+**12 new role(s)** since last run · 29 total in last 1h
 
-### [Software Engineering Intern, Dynamo - Fall 2026](https://www.linkedin.com/jobs/view/4449317707/) — NVIDIA
+### [Perception Engineer - Defense (All-Domain)](https://www.linkedin.com/jobs/view/4467573790/) — Applied Intuition
+- 📍 **Location:** Sunnyvale, CA
+- 💰 **Salary:** $160,000.00/yr - $220,000.00/yr
+- 🕒 **Posted:** 2026-09-17
+
+### [Machine Learning Engineer, Digital Experience](https://www.linkedin.com/jobs/view/4467572862/) — Everpure
 - 📍 **Location:** Santa Clara, CA
 - 🕒 **Posted:** 2026-09-17
 
-### [Specialist, Software Engineering](https://www.linkedin.com/jobs/view/4459361222/) — L3Harris Technologies
-- 📍 **Location:** Clifton, NJ
-- 🕒 **Posted:** 2026-09-17
-
-### [Forward Deployed Software Engineer](https://www.linkedin.com/jobs/view/4468665808/) — Harrington Starr
-- 📍 **Location:** New York City Metropolitan Area
-- 🕒 **Posted:** 2026-09-17
-
-### [Camera Imaging Embedded Software Engineer](https://www.linkedin.com/jobs/view/4467588361/) — BayOne Solutions
-- 📍 **Location:** Sunnyvale, CA
-- 💰 **Salary:** $75.00/hr - $80.00/hr
-- 🕒 **Posted:** 2026-09-17
-
-### [Camera Imaging Software Engineer](https://www.linkedin.com/jobs/view/4467564906/) — BayOne Solutions
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-09-17
-
-### [System Software Engineer - Performance Verification Infrastructure](https://www.linkedin.com/jobs/view/4458320009/) — NVIDIA
+### [Software Engineer](https://www.linkedin.com/jobs/view/4468800117/) — ServiceNow
 - 📍 **Location:** Santa Clara, CA
 - 🕒 **Posted:** 2026-09-17
 
-### [Software Engineer – IT Automation & Integrations](https://www.linkedin.com/jobs/view/4463379500/) — CriticalRiver Inc.
-- 📍 **Location:** San Francisco Bay Area
+### [Software Engineer](https://www.linkedin.com/jobs/view/4468802103/) — ServiceNow
+- 📍 **Location:** Santa Clara, CA
 - 🕒 **Posted:** 2026-09-17
 
-### [Software Engineer, Tools Internals (Core)](https://www.linkedin.com/jobs/view/4468668929/) — Pixar Animation Studios
-- 📍 **Location:** Emeryville, CA
+### [Full Stack Engineer](https://www.linkedin.com/jobs/view/4468802048/) — Torentify
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-09-17
+
+### [Full Stack Engineer (React Java)](https://www.linkedin.com/jobs/view/4468694698/) — Info Way Solutions
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-09-17
+
+### [Software Engineer, DNS & Cloud Infrastructure](https://www.linkedin.com/jobs/view/4468687819/) — Salesforce
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-09-17
+
+### [Software Engineer- GovCloud](https://www.linkedin.com/jobs/view/4468688841/) — Salesforce
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-09-17
+
+### [Software Engineer](https://www.linkedin.com/jobs/view/4468681932/) — Renesas Electronics
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-09-17
+
+### [Network DevOps Engineer - W2 ONLY](https://www.linkedin.com/jobs/view/4457954814/) — InvestM Technology LLC
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-09-17
+
+### [Full Stack Software Engineer](https://www.linkedin.com/jobs/view/4466294901/) — Gen
+- 📍 **Location:** Mountain View, CA
+- 💰 **Salary:** $155,000.00/yr - $175,000.00/yr
+- 🕒 **Posted:** 2026-09-17
+
+### [Software Engineer](https://www.linkedin.com/jobs/view/4468697343/) — Renesas Electronics
+- 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-09-17
