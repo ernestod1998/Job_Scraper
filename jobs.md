@@ -1,8 +1,12 @@
 # 🧬 Biotech LinkedIn — MLE / DS Roles
-*Last updated: 2026-09-16 08:46 UTC*
+*Last updated: 2026-09-17 08:44 UTC*
 
-**1 new role(s)** since last run · 50 total in last 24h
+**2 new role(s)** since last run · 47 total in last 24h
 
-### [Data Scientist](https://www.linkedin.com/jobs/view/4465554052/) — Bristol Myers Squibb
-- 📍 **Location:** San Diego, CA
-- 🕒 **Posted:** 2026-09-15
+### [MSAT Data Science Engineer](https://www.linkedin.com/jobs/view/4430968589/) — Allogene Therapeutics
+- 📍 **Location:** Newark, CA
+- 🕒 **Posted:** 2026-09-16
+
+### [2027 Business Technology Solutions Intern - Data & Software Engineering (Undergraduate)](https://www.linkedin.com/jobs/view/4457681530/) — AbbVie
+- 📍 **Location:** South San Francisco, CA
+- 🕒 **Posted:** 2026-09-16
