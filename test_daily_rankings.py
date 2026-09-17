@@ -136,6 +136,13 @@ class Tests(unittest.TestCase):
         self.assertEqual(len(out), 61)
         self.assertIn('Data Scientist', [j['title'] for j in out[:5]])
         self.assertEqual(out, queue(list(reversed(jobs)), NOW, True))
+
+    def test_queue_keeps_nyc_commuter_ring(self):
+        jobs = [
+            {**job(i), 'location': location}
+            for i, location in enumerate(('White Plains, NY', 'Stamford, CT', 'Paramus, NJ'))
+        ]
+        self.assertEqual(len(queue(jobs, NOW, True)), 3)
     def test_end_to_end_public_output_and_sonnet_quota(self):
         r = self.runner()
         r.run([job(i) for i in range(105)], fetcher=lambda j: j)

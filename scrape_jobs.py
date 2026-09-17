@@ -298,25 +298,36 @@ _NYC_CITY_RE = re.compile(
     r'\bnew york\s*,\s*(ny|new york)\b'
     r'|\bnew york city\b'
     r'|\bnyc\b', re.IGNORECASE)
+_NYC_METRO_RE = re.compile(
+    r'\bnew york(?: city)? metropolitan area\b'
+    r'|\bgreater new york(?: city)? area\b'
+    r'|\bnew york city metro\b'
+    r'|\bnyc metro\b', re.IGNORECASE)
 _NYC_BOROUGHS = {"manhattan", "brooklyn", "queens", "bronx", "staten island"}
 _CLOSE_NJ_CITIES = {
     "jersey city", "hoboken", "newark", "secaucus", "weehawken",
-    "north bergen", "fort lee",
+    "north bergen", "fort lee", "englewood cliffs", "hackensack",
+    "teaneck", "paramus", "rutherford", "east rutherford", "montclair",
+    "clifton", "short hills", "parsippany",
 }
 _NJ_AMBIGUOUS = {"newark", "fort lee"}
 _NJ_CONFIRM_RE = re.compile(r'\b(nj|new jersey)\b', re.IGNORECASE)
+_NYC_COMMUTER_CITIES = {
+    "NY": {
+        "long island city", "yonkers", "white plains", "tarrytown",
+        "new rochelle", "purchase", "harrison", "rye", "port chester",
+    },
+    "CT": {"stamford", "greenwich"},
+}
+_CT_CONFIRM_RE = re.compile(r'\b(ct|connecticut)\b', re.IGNORECASE)
 
 
 def is_nyc(location: str) -> bool:
-    """Strict general-feed NYC/nearby-NJ gate.
-
-    This intentionally excludes broad metro/state labels, Long Island,
-    Westchester/Connecticut, and NJ cities beyond the small approved set.
-    """
+    """NYC plus an explicit commuter ring in NY, North Jersey and SW CT."""
     low = (location or "").lower()
-    if not low or "metro" in low:
+    if not low:
         return False
-    if _NYC_CITY_RE.search(low):
+    if _NYC_CITY_RE.search(low) or _NYC_METRO_RE.search(low):
         return True
     if any(re.search(rf'\b{re.escape(city)}\b', low) for city in _NYC_BOROUGHS):
         return bool(_STATE_CONFIRM["NY"].search(low) or "new york city" in low)
@@ -328,6 +339,11 @@ def is_nyc(location: str) -> bool:
         # board omits the state (a common ATS formatting choice).
         if city not in _NJ_AMBIGUOUS or _NJ_CONFIRM_RE.search(low):
             return True
+    for state, cities in _NYC_COMMUTER_CITIES.items():
+        confirm = _STATE_CONFIRM["NY"] if state == "NY" else _CT_CONFIRM_RE
+        for city in cities:
+            if re.search(rf'\b{re.escape(city)}\b', low) and confirm.search(low):
+                return True
     return False
 
 
@@ -1503,8 +1519,10 @@ INDEED_LOOKBACK_HOURS = 24  # Indeed posting dates are ~day-resolution, so a 1h 
 INDEED_JD_MAX_CHARS = 6000
 
 # Metro scopes for the jobspy-backed sources (Indeed, ZipRecruiter + Google).
-# NYC is deliberately tighter; the central post-fetch policy is authoritative.
-JOBSPY_LOCATIONS = [("San Francisco, CA", 50), ("New York, NY", 25)]
+# A 40-mile NYC radius reaches the explicit Westchester, North Jersey and
+# southwest Connecticut commuter cities admitted by is_nyc(). The central
+# post-fetch policy remains authoritative and rejects other distant results.
+JOBSPY_LOCATIONS = [("San Francisco, CA", 50), ("New York, NY", 40)]
 
 
 def _jobspy_fetch_with_retry(jobspy_scrape, *, _health=None, **kwargs):
@@ -2722,9 +2740,9 @@ REFILTER_OUTPUTS = {
 
 REFILTER_RENDER_CONFIG = {
     "jobs": ("🧬 Biotech LinkedIn — MLE / DS Roles", "US biotech allowlist", "#2ea04f", "No new biotech roles since the last run."),
-    "linkedin_jobs": ("🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)", "SF Bay Area + core NYC / close NJ", "#3b82f6", "No new roles since the last run."),
-    "indeed_jobs": ("🟦 Indeed — Engineering / ML / DS Roles (SF Bay Area + NYC)", "SF Bay Area + core NYC / close NJ", "#2557a7", "No new roles since the last run."),
-    "boards_jobs": ("🟪 ZipRecruiter + Google — Engineering / ML / DS Roles", "SF Bay Area + core NYC / close NJ", "#7c5cff", "No new roles since the last run."),
+    "linkedin_jobs": ("🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)", "SF Bay Area + NYC commuter ring", "#3b82f6", "No new roles since the last run."),
+    "indeed_jobs": ("🟦 Indeed — Engineering / ML / DS Roles (SF Bay Area + NYC)", "SF Bay Area + NYC commuter ring", "#2557a7", "No new roles since the last run."),
+    "boards_jobs": ("🟪 ZipRecruiter + Google — Engineering / ML / DS Roles", "SF Bay Area + NYC commuter ring", "#7c5cff", "No new roles since the last run."),
     "usajobs_jobs": ("🇺🇸 USAJOBS — Federal Roles", "usajobs.gov · federal agencies", "#1d4ed8", "No new federal roles since the last run."),
     "governmentjobs_jobs": ("🏛 NEOGOV — State & Local Government Roles", "governmentjobs.com", "#0e7490", "No new state/local-gov roles since the last run."),
     "calopps_jobs": ("🏛 CalOpps — California Local-Agency Roles", "calopps.org · CA cities, counties, special districts", "#15803d", "No new CalOpps roles since the last run."),

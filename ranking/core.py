@@ -69,7 +69,11 @@ def queue(jobs, now, initial=False):
     for job in sorted(jobs, key=lambda j: (-posted_stamp(j), -stamp(j), j.get('url', ''))):
         family = track(job)
         location = job.get('location', '')
-        if not family or not re.search(r'remote|san francisco|bay area|palo alto|san jose|san mateo|san carlos|redwood|mountain view|sunnyvale|south san|oakland|berkeley|new york|\bNYC\b|menlo park|foster city', location, re.I):
+        if not family or not re.search(
+            r'remote|san francisco|bay area|palo alto|san jose|san mateo|san carlos|redwood|mountain view|sunnyvale|south san|oakland|berkeley|new york|\bNYC\b|manhattan|brooklyn|queens|bronx|staten island|long island city|yonkers|white plains|tarrytown|new rochelle|purchase|harrison|rye|port chester|jersey city|hoboken|newark|secaucus|weehawken|north bergen|fort lee|englewood cliffs|hackensack|teaneck|paramus|rutherford|montclair|clifton|short hills|parsippany|stamford|greenwich|menlo park|foster city',
+            location,
+            re.I,
+        ):
             continue
         age = (now.timestamp() - stamp(job)) / 86400
         if not 0 <= age <= (7 if initial else 14):

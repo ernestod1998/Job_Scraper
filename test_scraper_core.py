@@ -58,8 +58,14 @@ class RoleAndLocationPolicy(unittest.TestCase):
     def test_general_nyc_and_close_nj_allowlist(self):
         accepted = (
             "New York, NY", "New York City", "Brooklyn, NY", "Queens, New York",
+            "New York City Metropolitan Area", "Greater New York City Area", "NYC Metro",
             "Jersey City, NJ", "Hoboken, New Jersey", "Newark, NJ",
             "Secaucus, NJ", "Weehawken, NJ", "North Bergen, NJ", "Fort Lee, NJ",
+            "Englewood Cliffs, NJ", "Hackensack, NJ", "Teaneck, NJ", "Paramus, NJ",
+            "Rutherford, NJ", "Montclair, NJ", "Clifton, NJ", "Short Hills, NJ",
+            "Parsippany, NJ", "Long Island City, NY", "Yonkers, NY",
+            "White Plains, NY", "Tarrytown, NY", "New Rochelle, NY",
+            "Purchase, NY", "Port Chester, NY", "Stamford, CT", "Greenwich, CT",
             "Jersey City", "Hoboken", "Secaucus", "Weehawken", "North Bergen",
         )
         for location in accepted:
@@ -67,9 +73,8 @@ class RoleAndLocationPolicy(unittest.TestCase):
 
     def test_general_rejects_broad_or_distant_ny_nj(self):
         rejected = (
-            "New York metro", "New York, United States", "New Jersey",
-            "Long Island, NY", "White Plains, NY", "Tarrytown, NY",
-            "Princeton, NJ", "Newark, DE", "Fort Lee, VA", "Stamford, CT",
+            "New York metro", "New York, United States", "New Jersey", "Long Island, NY",
+            "Princeton, NJ", "Newark, DE", "Fort Lee, VA", "Stamford, England",
         )
         for location in rejected:
             self.assertFalse(sj.is_watch_location(location), location)
@@ -79,9 +84,11 @@ class RoleAndLocationPolicy(unittest.TestCase):
             self.assertTrue(sj.is_watch_location(location), location)
 
     def test_biotech_keeps_existing_hubs(self):
-        for location in ("Boston, MA", "Seattle, WA", "Tarrytown, NY", "San Diego, CA"):
+        for location in ("Boston, MA", "Seattle, WA", "San Diego, CA"):
             self.assertTrue(sj.is_target_location(location), location)
             self.assertFalse(sj.is_watch_location(location), location)
+        self.assertTrue(sj.is_target_location("Tarrytown, NY"))
+        self.assertTrue(sj.is_watch_location("Tarrytown, NY"))
 
     def test_filter_is_feed_aware_and_reports_stats(self):
         rows = [
@@ -270,7 +277,7 @@ class RetrievalPolicy(unittest.TestCase):
         self.assertEqual(calls, [50])
 
     def test_jobspy_metro_radii(self):
-        self.assertEqual(sj.JOBSPY_LOCATIONS, [("San Francisco, CA", 50), ("New York, NY", 25)])
+        self.assertEqual(sj.JOBSPY_LOCATIONS, [("San Francisco, CA", 50), ("New York, NY", 40)])
 
 
 class RefilterCommand(unittest.TestCase):

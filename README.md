@@ -1,6 +1,6 @@
 # 🧬 Bay Area + NYC MLE / DS Job Scraper
 
-Automated watchers that scrape **software engineering, ML/AI, data science, data engineering, platform/infra, and biotech informatics roles**, commit the results to the repo, and surface them in the [`triage.html`](#interactive-triage-dashboard--triagehtml) dashboard. General sources are limited to the SF Bay Area, core NYC, nearby North Jersey, and US-remote roles; the dedicated biotech lane intentionally keeps the broader configured US biotech hubs.
+Automated watchers that scrape **software engineering, ML/AI, data science, data engineering, platform/infra, and biotech informatics roles**, commit the results to the repo, and surface them in the [`triage.html`](#interactive-triage-dashboard--triagehtml) dashboard. General sources cover the SF Bay Area, NYC plus its explicit commuter ring, and US-remote roles; the dedicated biotech lane intentionally keeps the broader configured US biotech hubs.
 
 ## What It Does
 
@@ -62,7 +62,7 @@ The generic `ai engineer` / `ai/ml engineer` lane is deliberately paused; the re
 
 ## Location policies
 
-- **General sources:** the existing Bay Area list; New York City, Manhattan, Brooklyn, Queens, the Bronx, and Staten Island; Jersey City, Hoboken, Newark, Secaucus, Weehawken, North Bergen, and Fort Lee; and positively identified US-remote roles. Generic “NYC metro,” bare New Jersey, Long Island, Westchester, Connecticut, and other New Jersey locations are rejected.
+- **General sources:** the existing Bay Area list; all five NYC boroughs; explicit NYC-metro labels; nearby Westchester and Long Island City; the Stamford/Greenwich corridor; an explicit North Jersey commuter-city allowlist; and positively identified US-remote roles. Bare New York/New Jersey state labels, generic Long Island, and distant locations such as Princeton remain rejected.
 - **Biotech source:** the existing nationwide biotech-hub list plus US-remote roles. A Boston, Seattle, San Diego, or Tarrytown result may therefore appear when it came through the dedicated biotech lane.
 
 ## Output Files
