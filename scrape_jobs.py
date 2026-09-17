@@ -1328,7 +1328,10 @@ def _linkedin_search(
         print("  ⛔ LinkedIn request circuit already open; skipping query set")
         return [], 0
     search_locations = LINKEDIN_LOCATIONS if locations is None else locations
-    for (loc_name, geo_id), term in itertools.product(search_locations, terms):
+    # Interleave locations for each term so a late-run rate limit cannot let
+    # the first metro consume the entire request budget before later metros
+    # (notably NYC) receive any queries.
+    for term, (loc_name, geo_id) in itertools.product(terms, search_locations):
         start = 0
         seen_raw_ids: set[str] = set()
         while start < 75:

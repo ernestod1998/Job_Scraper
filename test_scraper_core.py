@@ -230,6 +230,8 @@ class RetrievalPolicy(unittest.TestCase):
         self.assertEqual(raw, 0)
         self.assertEqual(len(calls), sj.LINKEDIN_MAX_CONSECUTIVE_ERRORS)
         self.assertEqual(health.consecutive_errors, sj.LINKEDIN_MAX_CONSECUTIVE_ERRORS)
+        self.assertIn("geoId=1", calls[0])
+        self.assertIn("geoId=2", calls[1])
 
     def test_biotech_specialty_sweep_expands_terms_and_hubs(self):
         self.assertTrue({
