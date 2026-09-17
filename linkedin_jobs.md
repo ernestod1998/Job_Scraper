@@ -1,24 +1,28 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-09-17 02:17 UTC*
+*Last updated: 2026-09-17 03:17 UTC*
 
-**5 new role(s)** since last run · 10 total in last 1h
+**5 new role(s)** since last run · 11 total in last 1h
 
-### [Machine Learning Engineer](https://www.linkedin.com/jobs/view/4468332736/) — Watney
-- 📍 **Location:** San Francisco, CA
+### [Software Engineer - Robotics Data Platform (New Grad / Early Career)](https://www.linkedin.com/jobs/view/4467159525/) — Intelliswift - An LTTS Company
+- 📍 **Location:** Menlo Park, CA
+- 💰 **Salary:** $70.00/hr - $80.00/hr
 - 🕒 **Posted:** 2026-09-16
 
-### [Software Engineer II - Engineer](https://www.linkedin.com/jobs/view/4468335393/) — Uber
-- 📍 **Location:** New York, NY
+### [Software Engineer II Python/Observation](https://www.linkedin.com/jobs/view/4468349792/) — JPMorganChase
+- 📍 **Location:** Jersey City, NJ
+- 💰 **Salary:** $123,500.00/yr - $150,000.00/yr
 - 🕒 **Posted:** 2026-09-16
 
-### [Site Reliability Engineer](https://www.linkedin.com/jobs/view/4468348591/) — Schonfeld
-- 📍 **Location:** New York, NY
+### [Java AWS Software Engineer III](https://www.linkedin.com/jobs/view/4468335944/) — JPMorganChase
+- 📍 **Location:** Jersey City, NJ
+- 💰 **Salary:** $137,750.00/yr - $185,000.00/yr
 - 🕒 **Posted:** 2026-09-16
 
-### [Backend Engineer](https://www.linkedin.com/jobs/view/4468329854/) — Conductor
-- 📍 **Location:** San Francisco, CA
+### [Full-Stack Java/Python React Software Engineer III - Trading applications](https://www.linkedin.com/jobs/view/4468340858/) — JPMorganChase
+- 📍 **Location:** Jersey City, NJ
 - 🕒 **Posted:** 2026-09-16
 
-### [Software Engineer, Full Stack](https://www.linkedin.com/jobs/view/4468338614/) — Arena
-- 📍 **Location:** San Francisco Bay Area
+### [Software Engineer II Python](https://www.linkedin.com/jobs/view/4468342802/) — JPMorganChase
+- 📍 **Location:** Jersey City, NJ
+- 💰 **Salary:** $123,500.00/yr - $150,000.00/yr
 - 🕒 **Posted:** 2026-09-16
