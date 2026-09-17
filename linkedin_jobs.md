@@ -1,28 +1,35 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-09-17 03:17 UTC*
+*Last updated: 2026-09-17 06:36 UTC*
 
-**5 new role(s)** since last run · 11 total in last 1h
+**7 new role(s)** since last run · 7 total in last 1h
 
-### [Software Engineer - Robotics Data Platform (New Grad / Early Career)](https://www.linkedin.com/jobs/view/4467159525/) — Intelliswift - An LTTS Company
-- 📍 **Location:** Menlo Park, CA
-- 💰 **Salary:** $70.00/hr - $80.00/hr
+### [Software Engineer � Test Infrastructure Development](https://www.linkedin.com/jobs/view/4468375413/) — Katalyst CRO
+- 📍 **Location:** Santa Clara, CA
 - 🕒 **Posted:** 2026-09-16
 
-### [Software Engineer II Python/Observation](https://www.linkedin.com/jobs/view/4468349792/) — JPMorganChase
-- 📍 **Location:** Jersey City, NJ
-- 💰 **Salary:** $123,500.00/yr - $150,000.00/yr
+### [Software Engineering 5 - Ads Agent (Agentic Platform for Enterprise)](https://www.linkedin.com/jobs/view/4468375380/) — Netflix
+- 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-09-16
 
-### [Java AWS Software Engineer III](https://www.linkedin.com/jobs/view/4468335944/) — JPMorganChase
-- 📍 **Location:** Jersey City, NJ
-- 💰 **Salary:** $137,750.00/yr - $185,000.00/yr
+### [Systems: Cloud Engineer (EF3DAFC)](https://www.linkedin.com/jobs/view/4467182617/) — Referment
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $225,000.00/yr - $300,000.00/yr
 - 🕒 **Posted:** 2026-09-16
 
-### [Full-Stack Java/Python React Software Engineer III - Trading applications](https://www.linkedin.com/jobs/view/4468340858/) — JPMorganChase
-- 📍 **Location:** Jersey City, NJ
+### [Infrastructure Software Engineer: Application Engineering (5F50207)](https://www.linkedin.com/jobs/view/4467185519/) — Referment
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $225,000.00/yr - $300,000.00/yr
 - 🕒 **Posted:** 2026-09-16
 
-### [Software Engineer II Python](https://www.linkedin.com/jobs/view/4468342802/) — JPMorganChase
-- 📍 **Location:** Jersey City, NJ
-- 💰 **Salary:** $123,500.00/yr - $150,000.00/yr
+### [Fullstack Software Engineer](https://www.linkedin.com/jobs/view/4307254630/) — Confidential
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-09-16
+
+### [Software Developer: Developer Experience (70F9F2A)](https://www.linkedin.com/jobs/view/4467178664/) — Referment
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-09-16
+
+### [Full-Stack Software Engineer (Golang/React)](https://www.linkedin.com/jobs/view/4433176517/) — Quadric
+- 📍 **Location:** Burlingame, CA
+- 💰 **Salary:** $110,000.00/yr - $270,000.00/yr
 - 🕒 **Posted:** 2026-09-16
