@@ -1,22 +1,28 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-09-18 02:18 UTC*
+*Last updated: 2026-09-18 03:17 UTC*
 
-**4 new role(s)** since last run · 13 total in last 1h
+**6 new role(s)** since last run · 12 total in last 1h
 
-### [Machine Learning Operations (MLOps) Engineer](https://www.linkedin.com/jobs/view/4466620829/) — Gallatin AI, Inc.
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $80,000.00/yr - $210,000.00/yr
+### [Machine Learning Engineer Intern (E-Commerce Recommendation Mall) - 2027 Start (PhD)](https://www.linkedin.com/jobs/view/4466644298/) — TikTok
+- 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-09-17
 
-### [Computer Vision & ML Expert](https://www.linkedin.com/jobs/view/4467417949/) — Alignerr
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $100.00/hr - $150.00/hr
+### [Visiting Research Engineer](https://www.linkedin.com/jobs/view/4466656032/) — Stevens Institute of Technology
+- 📍 **Location:** Hoboken, NJ
 - 🕒 **Posted:** 2026-09-17
 
-### [Full-Stack Software Engineer](https://www.linkedin.com/jobs/view/4467581842/) — Plug
+### [Backend Engineer, Core Technology](https://www.linkedin.com/jobs/view/4454540425/) — Stripe
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-09-17
 
-### [Software Engineer - New graduate](https://www.linkedin.com/jobs/view/4466618990/) — Meow
-- 📍 **Location:** New York, NY
+### [Software Engineer, Early Career — Immediate Start](https://www.linkedin.com/jobs/view/4468875017/) — Stripe
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-09-17
+
+### [Frontend Engineer, Payments & Risk](https://www.linkedin.com/jobs/view/4454594497/) — Stripe
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-09-17
+
+### [Full Stack Engineer, Link](https://www.linkedin.com/jobs/view/4456135062/) — Stripe
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-09-17
