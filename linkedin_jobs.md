@@ -1,90 +1,97 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-09-18 19:19 UTC*
+*Last updated: 2026-09-18 20:19 UTC*
 
-**20 new role(s)** since last run · 23 total in last 1h
+**22 new role(s)** since last run · 33 total in last 1h
 
-### [AI/ML Engineer (RAG & Conversational AI) | Full-Time W2 | No C2C](https://www.linkedin.com/jobs/view/4466926178/) — Redolent, Inc
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-09-18
-
-### [Applied Scientist, PXT Central Science](https://www.linkedin.com/jobs/view/4460135417/) — Amazon
+### [Software Engineer - Voice Platform](https://www.linkedin.com/jobs/view/4469225716/) — Sela
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-09-18
 
-### [Backend Software Engineer - Python & Pipeline Orchestration (Cloud / AI Platform)](https://www.linkedin.com/jobs/view/4467898556/) — Bayside Solutions
-- 📍 **Location:** Cupertino, CA
-- 💰 **Salary:** $60.00/hr - $70.00/hr
+### [Machine Learning Engineer](https://www.linkedin.com/jobs/view/4469183912/) — Apex Systems
+- 📍 **Location:** Pleasanton, CA
+- 💰 **Salary:** $40.00/hr - $60.00/hr
 - 🕒 **Posted:** 2026-09-18
 
-### [Applied Scientist II, Amazon Quick](https://www.linkedin.com/jobs/view/4460346260/) — Amazon Web Services (AWS)
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-09-18
-
-### [Data Scientist, Fire TV](https://www.linkedin.com/jobs/view/4460128894/) — Amazon
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-09-18
-
-### [Backend Engineer](https://www.linkedin.com/jobs/view/4469216300/) — Haystack
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $95.00/hr - $100.00/hr
-- 🕒 **Posted:** 2026-09-18
-
-### [Machine Learning Engineer](https://www.linkedin.com/jobs/view/4469212748/) — Protech Talent
-- 📍 **Location:** San Francisco Bay Area
-- 💰 **Salary:** $200,000.00/yr - $350,000.00/yr
-- 🕒 **Posted:** 2026-09-18
-
-### [Data Science Intern](https://www.linkedin.com/jobs/view/4469228069/) — KBR Careers
-- 📍 **Location:** Fremont, CA
-- 🕒 **Posted:** 2026-09-18
-
-### [Software Engineer, C/C++ SDK Performance Optimization](https://www.linkedin.com/jobs/view/4467890915/) — TikTok
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-09-18
-
-### [Full Stack Engineer](https://www.linkedin.com/jobs/view/4469212754/) — Protech Talent
-- 📍 **Location:** New York City Metropolitan Area
-- 🕒 **Posted:** 2026-09-18
-
-### [Full-Stack Software Engineer: Application Engineering (6A009ED)](https://www.linkedin.com/jobs/view/4469204712/) — Referment
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $225,000.00/yr - $300,000.00/yr
-- 🕒 **Posted:** 2026-09-18
-
-### [Site Reliability Engineer 3](https://www.linkedin.com/jobs/view/4404853191/) — MongoDB
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-09-18
-
-### [Full Stack Software Engineer - Community](https://www.linkedin.com/jobs/view/4467883952/) — Substack
-- 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-09-18
-
-### [Software Engineer](https://www.linkedin.com/jobs/view/4468012245/) — Intellectt Inc
-- 📍 **Location:** Fremont, CA
-- 🕒 **Posted:** 2026-09-18
-
-### [Software Engineer](https://www.linkedin.com/jobs/view/4467891668/) — Bayside Solutions
-- 📍 **Location:** Sunnyvale, CA
-- 💰 **Salary:** $65.00/hr - $75.00/hr
-- 🕒 **Posted:** 2026-09-18
-
-### [HPC Infrastructure Engineer](https://www.linkedin.com/jobs/view/4465841666/) — Arcadia
+### [Full Stack Engineer (FDE)](https://www.linkedin.com/jobs/view/4466915679/) — AustinWorks
 - 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $250,000.00/yr - $350,000.00/yr
+- 💰 **Salary:** $180,000.00/yr - $240,000.00/yr
 - 🕒 **Posted:** 2026-09-18
 
-### [Software Engineer](https://www.linkedin.com/jobs/view/4469219477/) — Miter
+### [Software Engineer - Agent Orchestration](https://www.linkedin.com/jobs/view/4469236433/) — Sela
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-09-18
+
+### [Software Engineer, New Grad (2027)](https://www.linkedin.com/jobs/view/4468015156/) — Together AI
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-09-18
+
+### [Software Engineer](https://www.linkedin.com/jobs/view/4469234572/) — MintMCP
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-09-18
+
+### [Software Engineer](https://www.linkedin.com/jobs/view/4469238067/) — MintMCP
+- 📍 **Location:** San Mateo, CA
+- 🕒 **Posted:** 2026-09-18
+
+### [Computational Biologist](https://www.linkedin.com/jobs/view/4469218370/) — Preventive
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-09-18
+
+### [Systems Research Engineer Intern - GPU Programming (Winter 2027)](https://www.linkedin.com/jobs/view/4468011694/) — Together AI
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-09-18
+
+### [Systems Research Engineer Intern - GPU Programming (Summer 2027)](https://www.linkedin.com/jobs/view/4468011695/) — Together AI
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-09-18
+
+### [Software Engineer Intern (Winter 2027)](https://www.linkedin.com/jobs/view/4468013528/) — Together AI
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-09-18
+
+### [Software Engineer Intern (Summer 2027)](https://www.linkedin.com/jobs/view/4468015157/) — Together AI
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-09-18
+
+### [Full Stack Software Engineer](https://www.linkedin.com/jobs/view/4435984833/) — Citadel Securities
+- 📍 **Location:** New York City Metropolitan Area
+- 💰 **Salary:** $175,000.00/yr - $350,000.00/yr
+- 🕒 **Posted:** 2026-09-18
+
+### [Systems Research Engineer Intern - GPU Programming (Summer 2027)](https://www.linkedin.com/jobs/view/4468022139/) — Teli Labs
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-09-18
+
+### [Software Engineer, Data Platform](https://www.linkedin.com/jobs/view/4468017102/) — Twitch
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-09-18
+
+### [Software Engineer, New Grad (2027)](https://www.linkedin.com/jobs/view/4468027066/) — Teli Labs
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-09-18
+
+### [Systems Research Engineer Intern - GPU Programming (Winter 2027)](https://www.linkedin.com/jobs/view/4468010873/) — Teli Labs
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-09-18
+
+### [Software Engineer Intern (Winter 2027)](https://www.linkedin.com/jobs/view/4468015372/) — Teli Labs
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-09-18
+
+### [Software Engineer C++ | Top Tier Hedge Fund | NYC](https://www.linkedin.com/jobs/view/4456305527/) — Delmar Nord
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $400,000.00/yr - $600,000.00/yr
+- 🕒 **Posted:** 2026-09-18
+
+### [Software Engineering Intern (Winter 2027)](https://www.linkedin.com/jobs/view/4468005939/) — Gemini
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-09-18
 
-### [Software Engineer, iOS, Level 3](https://www.linkedin.com/jobs/view/4450659793/) — Snap Inc.
-- 📍 **Location:** Palo Alto, CA
+### [Software Engineer Intern (Summer 2027)](https://www.linkedin.com/jobs/view/4468030040/) — Teli Labs
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-09-18
 
-### [Physical Infrastructure Engineer (any discipline)](https://www.linkedin.com/jobs/view/4461697503/) — Torus (YC S26)
-- 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-09-18
-
-### [Broadcast IP Infrastructure Engineer](https://www.linkedin.com/jobs/view/4404000815/) — Diversified
+### [Platform Engineer](https://www.linkedin.com/jobs/view/4432703830/) — Citadel Securities
 - 📍 **Location:** New York City Metropolitan Area
+- 💰 **Salary:** $175,000.00/yr - $350,000.00/yr
 - 🕒 **Posted:** 2026-09-18
