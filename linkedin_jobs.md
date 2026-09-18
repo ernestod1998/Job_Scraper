@@ -1,39 +1,42 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-09-18 00:18 UTC*
+*Last updated: 2026-09-18 01:18 UTC*
 
-**8 new role(s)** since last run · 24 total in last 1h
+**8 new role(s)** since last run · 15 total in last 1h
 
-### [Software Engineer](https://www.linkedin.com/jobs/view/4440877016/) — Ascend
+### [Software Engineering SMTS](https://www.linkedin.com/jobs/view/4468857467/) — Salesforce
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-09-17
 
-### [DVIP QA / Software Engineer in Test](https://www.linkedin.com/jobs/view/4468840939/) — Dolby Laboratories
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-09-17
-
-### [Data Scientist ll - RiskOS](https://www.linkedin.com/jobs/view/4468841773/) — Socure
+### [Software Engineering Intern, Spring](https://www.linkedin.com/jobs/view/4468851582/) — Abridge
 - 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $140,000.00/yr - $170,000.00/yr
+- 💰 **Salary:** $40.00/hr - $40.00/hr
 - 🕒 **Posted:** 2026-09-17
 
-### [Software Engineer](https://www.linkedin.com/jobs/view/4467817439/) — BayOne Solutions
-- 📍 **Location:** San Jose, CA
+### [Full Stack Engineer](https://www.linkedin.com/jobs/view/4467830302/) — Lif3away Inc.
+- 📍 **Location:** San Francisco Bay Area
 - 🕒 **Posted:** 2026-09-17
 
-### [Data Scientist ll - RiskOS](https://www.linkedin.com/jobs/view/4468849101/) — Socure
+### [Backend Developer - Data Annotation Systems](https://www.linkedin.com/jobs/view/4468852660/) — Alignerr
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $140,000.00/yr - $170,000.00/yr
+- 💰 **Salary:** $50.00/hr - $75.00/hr
 - 🕒 **Posted:** 2026-09-17
 
-### [Software Engineer 4 - tvOS](https://www.linkedin.com/jobs/view/4466639178/) — Netflix
-- 📍 **Location:** Los Gatos, CA
+### [C# Infrastructure Engineer - Data Pipelines](https://www.linkedin.com/jobs/view/4468845957/) — Alignerr
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $50.00/hr - $75.00/hr
 - 🕒 **Posted:** 2026-09-17
 
-### [Software Engineer](https://www.linkedin.com/jobs/view/4467833097/) — Sanmai
-- 📍 **Location:** Sunnyvale, CA
+### [Machine Learning Engineer](https://www.linkedin.com/jobs/view/4468848788/) — Alignerr
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $50.00/hr - $70.00/hr
 - 🕒 **Posted:** 2026-09-17
 
-### [Embedded Software Engineer - Onsite](https://www.linkedin.com/jobs/view/4436095196/) — BayOne Solutions
-- 📍 **Location:** Sunnyvale, CA
-- 💰 **Salary:** $75.00/hr - $80.00/hr
+### [Backend Developer - AI Data Services](https://www.linkedin.com/jobs/view/4468862431/) — Alignerr
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $50.00/hr - $75.00/hr
+- 🕒 **Posted:** 2026-09-17
+
+### [C++ Backend Engineer - AI Data Platforms](https://www.linkedin.com/jobs/view/4468849760/) — Alignerr
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $50.00/hr - $75.00/hr
 - 🕒 **Posted:** 2026-09-17
