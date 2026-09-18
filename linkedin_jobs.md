@@ -1,61 +1,61 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-09-18 21:18 UTC*
+*Last updated: 2026-09-18 22:18 UTC*
 
-**13 new role(s)** since last run · 35 total in last 1h
+**13 new role(s)** since last run · 28 total in last 1h
 
-### [Machine Learning Scientist II](https://www.linkedin.com/jobs/view/4468027256/) — Revolution Medicines
-- 📍 **Location:** San Francisco Bay Area
+### [Junior Data Scientist](https://www.linkedin.com/jobs/view/4469200000/) — COGENT Infotech
+- 📍 **Location:** White Plains, NY
 - 🕒 **Posted:** 2026-09-18
 
-### [Quantitative Software Engineer - Research Platform](https://www.linkedin.com/jobs/view/4466926570/) — Charles Schwab
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $175,000.00/yr - $230,000.00/yr
-- 🕒 **Posted:** 2026-09-18
-
-### [Software Engineer, Oncology Applications](https://www.linkedin.com/jobs/view/4469230912/) — Eli Lilly and Company
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-09-18
-
-### [Software Engineer, Full Stack](https://www.linkedin.com/jobs/view/4466932469/) — Natera
-- 📍 **Location:** San Carlos, CA
-- 🕒 **Posted:** 2026-09-18
-
-### [Cloud Platform Engineer](https://www.linkedin.com/jobs/view/4432718012/) — Citadel Securities
+### [Software Engineer](https://www.linkedin.com/jobs/view/4465982850/) — BeaconFire Inc.
 - 📍 **Location:** New York City Metropolitan Area
-- 💰 **Salary:** $175,000.00/yr - $350,000.00/yr
+- 💰 **Salary:** $65,000.00/yr - $80,000.00/yr
 - 🕒 **Posted:** 2026-09-18
 
-### [Software Developer, Winter 2027 (Internship) - 4 months](https://www.linkedin.com/jobs/view/4469246361/) — BMO U.S.
-- 📍 **Location:** San Ramon, CA
-- 🕒 **Posted:** 2026-09-18
-
-### [Software Engineer III (FanApp)](https://www.linkedin.com/jobs/view/4468027197/) — Fanatics
-- 📍 **Location:** Redwood City, CA
-- 🕒 **Posted:** 2026-09-18
-
-### [Full Stack Engineer](https://www.linkedin.com/jobs/view/4404858188/) — Syndesus, Inc.
-- 📍 **Location:** San Francisco Bay Area
-- 💰 **Salary:** $190,000.00/yr - $280,000.00/yr
-- 🕒 **Posted:** 2026-09-18
-
-### [Software Engineer](https://www.linkedin.com/jobs/view/4466935371/) — Atlas Search
-- 📍 **Location:** New York City Metropolitan Area
-- 🕒 **Posted:** 2026-09-18
-
-### [Software Engineer – Backend / Full Stack](https://www.linkedin.com/jobs/view/4468020248/) — A4Assist
-- 📍 **Location:** New York City Metropolitan Area
-- 🕒 **Posted:** 2026-09-18
-
-### [DevOps Engineer](https://www.linkedin.com/jobs/view/4468022314/) — Elbert Technology Pvt Ltd
-- 📍 **Location:** Jersey City, NJ
-- 🕒 **Posted:** 2026-09-18
-
-### [Software Engineer in Test (SDET)](https://www.linkedin.com/jobs/view/4348661604/) — Citadel Securities
+### [Junior Cloud Engineer](https://www.linkedin.com/jobs/view/4468014741/) — Etkin Proje Yönetim Danışmanlık
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $175,000.00/yr - $350,000.00/yr
 - 🕒 **Posted:** 2026-09-18
 
-### [C++ Software Engineer](https://www.linkedin.com/jobs/view/4281711684/) — Citadel Securities
-- 📍 **Location:** New York City Metropolitan Area
-- 💰 **Salary:** $150,000.00/yr - $300,000.00/yr
+### [Software Engineer, Telematics](https://www.linkedin.com/jobs/view/4468025378/) — Rivian and Volkswagen Group Technologies
+- 📍 **Location:** Palo Alto, CA
+- 💰 **Salary:** $116,300.00/yr - $159,950.00/yr
+- 🕒 **Posted:** 2026-09-18
+
+### [Software Engineer, Edge AI](https://www.linkedin.com/jobs/view/4468015679/) — Rivian and Volkswagen Group Technologies
+- 📍 **Location:** Palo Alto, CA
+- 💰 **Salary:** $116,300.00/yr - $159,950.00/yr
+- 🕒 **Posted:** 2026-09-18
+
+### [Full Stack Engineer](https://www.linkedin.com/jobs/view/4469257249/) — Roo
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-09-18
+
+### [Software Engineer 4](https://www.linkedin.com/jobs/view/4468024317/) — Cypress HCM
+- 📍 **Location:** San Jose, CA
+- 💰 **Salary:** $70.00/hr - $80.00/hr
+- 🕒 **Posted:** 2026-09-18
+
+### [Machine Learning Engineer, Perception](https://www.linkedin.com/jobs/view/4468025356/) — Waymo
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-09-18
+
+### [Machine Learning Engineer, Perception](https://www.linkedin.com/jobs/view/4468015664/) — Waymo
+- 📍 **Location:** Mountain View, CA
+- 🕒 **Posted:** 2026-09-18
+
+### [Student Intern, AI / Data Science](https://www.linkedin.com/jobs/view/4468015714/) — Celestica
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-09-18
+
+### [2027 Summer Intern, PhD, Data Science](https://www.linkedin.com/jobs/view/4468020415/) — Waymo
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-09-18
+
+### [Backend Engineer](https://www.linkedin.com/jobs/view/4460996728/) — BayOne Solutions
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $65.00/hr - $70.00/hr
+- 🕒 **Posted:** 2026-09-18
+
+### [Software Engineer 4](https://www.linkedin.com/jobs/view/4468016617/) — Cypress HCM
+- 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-09-18
