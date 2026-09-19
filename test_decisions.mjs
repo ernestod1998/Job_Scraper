@@ -19,8 +19,8 @@ test('merge uses newer timestamps, retains base ties and protects cleared decisi
   for(const t of [99,100]) assert.equal(mergeTriage({a:{s:null,t:100}},{a:{s:'saved',t}}).a.s,null);
   assert.deepEqual(normalizeTriage({a:'saved',b:{s:'wrong',t:0},c:{s:null,t:42},d:{s:'saved',t:'bad'}}),{a:{s:'saved',t:0},c:{s:null,t:42}});
 });
-test('retention boundaries, unknown age and recovery protection',()=>{
-  for (const [s,days,kept] of [[null,61,false],[null,59,true],['dismissed',31,false],['dismissed',29,true],['saved',900,true],['applied',900,true]]) {
+test('cleared tombstones expire while live decisions remain permanent',()=>{
+  for (const [s,days,kept] of [[null,61,false],[null,59,true],['dismissed',900,true],['saved',900,true],['applied',900,true]]) {
     const input={a:{s,t:NOW-days*DAY}};
     assert.equal(!!gcDecisions(input,NOW).a,kept);
     assert.deepEqual(gcDecisions(input,NOW,new Set(['a'])),input);

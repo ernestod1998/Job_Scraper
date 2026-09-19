@@ -5,7 +5,6 @@ export const CACHE_KEY = 'jobTriage:cache:v1';
 export const TRANSITION_CACHE_KEY = 'jobTriage:cache:v2';
 export const LEGACY_KEY = 'jobTriage:v1';
 export const TOMB_MS = 60 * 86400000;
-export const DISMISS_MS = 30 * 86400000;
 const CACHE_CAP = 3000;
 const STATUSES = new Set(['saved', 'applied', 'dismissed', null]);
 export const decide = (s, t = Date.now()) => ({ s: s || null, t });
@@ -37,7 +36,7 @@ export function gcDecisions(triage, now = Date.now(), protectedUrls = new Set())
     if (!d) return false;
     if (!d.t || protectedUrls === null || protectedUrls.has(url)) return true;
     if (!d.s && d.t < now - TOMB_MS) return false;
-    return d.s !== 'dismissed' || d.t >= now - DISMISS_MS;
+    return true;
   }));
 }
 

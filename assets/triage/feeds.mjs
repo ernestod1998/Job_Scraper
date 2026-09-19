@@ -1,4 +1,4 @@
-import { validJob } from './decisions.mjs';
+import { validJob } from './decisions.mjs?v=20260919-dismiss-date';
 
 export function validateFeed(data) {
   if (!data || typeof data !== 'object' || Array.isArray(data) || !Array.isArray(data.jobs)) throw new Error('Expected a jobs array');

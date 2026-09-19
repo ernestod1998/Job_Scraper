@@ -1,8 +1,8 @@
 import { bestScore, parseRankings, rankingDetails } from './rankings.mjs?v=20260910-pending';
 import { classifyRole, classifySeniority, jobFeeds, classifySource, parseSalary, localToday, displayDate, jobDateMs, jobFreshMs, compareByDate, EXCLUDED_TITLE_RE, EXCLUDED_SECURITY_RE, repairBiotechSourceCollision } from './model.mjs';
 import { dedupe } from './groups.mjs?v=20260908-rank3';
-import { createDecisionStore, DECIDE_KEY, TOMB_MS, decide, normalizeTriage, mergeTriage, gcDecisions, resolveDecision, reconcileAliases } from './decisions.mjs';
-import { createFeedLoader, validateFeed } from './feeds.mjs';
+import { createDecisionStore, DECIDE_KEY, TOMB_MS, decide, normalizeTriage, mergeTriage, gcDecisions, resolveDecision, reconcileAliases } from './decisions.mjs?v=20260919-dismiss-date';
+import { createFeedLoader, validateFeed } from './feeds.mjs?v=20260919-dismiss-date';
 
 // Old shared links are inert; remove the credential fragment without using it.
 if (/^#sync(?:=|$)/i.test(location.hash)) history.replaceState(null, '', location.pathname + location.search);
@@ -646,7 +646,9 @@ function pruneState() {
     if (tri(j.url)) return true;   // tri(), not truthiness — a tombstone is an object
     if (EXCLUDED_TITLE_RE.test(j.title || '')) return false;
     if (EXCLUDED_SECURITY_RE.test(j.title || '')) return false;
-    const t = jobFreshMs(j);
+    // Use the date shown on the card. A scraper rediscovering an old posting
+    // must not make it look fresh enough to survive the history cutoff.
+    const t = jobDateMs(j);
     return t == null || t >= cutoff;
   });
   if (state.jobs.length < before) {

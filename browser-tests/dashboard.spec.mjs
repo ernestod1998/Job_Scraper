@@ -67,6 +67,19 @@ test('dismiss, Undo, persistence, keyboard dialog and export omit old codes',asy
   const file=await download;const stream=await file.createReadStream();let text='';for await(const chunk of stream)text+=chunk;
   const payload=JSON.parse(text);expect(payload.code).toBeUndefined();expect(Object.values(payload.triage).some(d=>d.s==='saved')).toBe(true);
 });
+test('old dismissals stay hidden and rediscovered stale postings are pruned by posted date',async({context,page})=>{
+  const fresh=makeJobs(1)[0];
+  const stale={...makeJobs(1)[0],url:'https://jobs.test/stale',title:'Rediscovered old role',date_posted:new Date(Date.now()-45*86400000).toLocaleDateString('en-CA'),first_seen:new Date().toISOString()};
+  await fixture(context,[fresh,stale]);
+  await context.addInitScript(({key,url})=>localStorage.setItem(key,JSON.stringify({v:2,jobs:[],triage:{[url]:{s:'dismissed',t:Date.now()-365*86400000}}})),{key:KEY,url:fresh.url});
+  await page.goto('triage.html');await loaded(page);
+  await expect(page.locator('.job')).toHaveCount(0);
+  await page.locator('#filter-state button').filter({hasText:'Dismissed'}).click();
+  await expect(page.locator('.job')).toHaveCount(1);
+  await expect(page.locator('.job')).toHaveAttribute('data-state','dismissed');
+  await expect(page.locator('.job')).toHaveAttribute('data-url',fresh.url);
+  expect(await page.evaluate(({key,url})=>JSON.parse(localStorage.getItem(key)).triage[url]?.s,{key:KEY,url:fresh.url})).toBe('dismissed');
+});
 test('cached history renders before stalled refresh and survives every failed feed',async({context,page})=>{
   const jobs=makeJobs(1);
   await fixture(context,jobs,{fail:true});
