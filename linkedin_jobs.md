@@ -1,26 +1,33 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-09-19 05:00 UTC*
+*Last updated: 2026-09-19 15:17 UTC*
 
-**5 new role(s)** since last run · 5 total in last 1h
+**7 new role(s)** since last run · 7 total in last 1h
 
-### [Software Engineering Technical Leader - Cisco IQ](https://www.linkedin.com/jobs/view/4469289699/) — Cisco
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-09-18
+### [Software Engineer, Applied AI Research](https://www.linkedin.com/jobs/view/4460511942/) — Hightouch
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-09-19
 
-### [Software Engineering Technical Leader - SRE](https://www.linkedin.com/jobs/view/4469297456/) — Cisco
-- 📍 **Location:** Milpitas, CA
-- 🕒 **Posted:** 2026-09-18
+### [Data Scientist](https://www.linkedin.com/jobs/view/4423030902/) — Ramp
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-09-19
 
-### [Software Engineer III - Mobile](https://www.linkedin.com/jobs/view/4466938888/) — Walmart Global Tech
-- 📍 **Location:** Sunnyvale, CA
-- 💰 **Salary:** $117,000.00/yr - $234,000.00/yr
-- 🕒 **Posted:** 2026-09-18
-
-### [Software Engineer](https://www.linkedin.com/jobs/view/4468054774/) — Visalytics
+### [Systems Software Engineer](https://www.linkedin.com/jobs/view/4450727979/) — Picarro
 - 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-09-18
+- 🕒 **Posted:** 2026-09-19
 
-### [Software Engineer III - Mobile](https://www.linkedin.com/jobs/view/4466956591/) — Walmart Global Tech
-- 📍 **Location:** Sunnyvale, CA
-- 💰 **Salary:** $117,000.00/yr - $234,000.00/yr
-- 🕒 **Posted:** 2026-09-18
+### [AI/ML Software Engineer](https://www.linkedin.com/jobs/view/4459405120/) — Clutch
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $150,000.00/yr - $200,000.00/yr
+- 🕒 **Posted:** 2026-09-19
+
+### [PE Software Engineer](https://www.linkedin.com/jobs/view/4468094275/) — Qualcomm
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-09-19
+
+### [Full Stack Software Engineer Next.js](https://www.linkedin.com/jobs/view/4450336889/) — Fortune
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-09-19
+
+### [Software Engineer - Traffic](https://www.linkedin.com/jobs/view/4433277856/) — Figma
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-09-19
