@@ -103,7 +103,7 @@ const filters = {
   role: new Set(),
   sen: new Set(),
   state: new Set(['active', 'saved', 'applied']),
-  days: null,   // null = any time; else an integer day-window (7 = last 7 days)
+  days: 7,      // Browse opens on genuinely recent roles; null remains available as "Any time".
   salMin: 0,        // minimum annual salary (USD); 0 = no floor
   salUnknown: false, // when a floor is set, exclude roles with no listed salary
   q: '',
@@ -204,7 +204,7 @@ function renderDateFilter() {
     p.className = 'pill' + (active ? ' on' : '');
     p.setAttribute('aria-pressed', active ? 'true' : 'false');
     p.innerHTML = `${label}<span class="ct">${ct}</span>`;
-    p.onclick = () => { filters.days = (filters.days === days ? null : days); renderAll(); };
+    p.onclick = () => { filters.days = days; renderAll(); };
     el.appendChild(p);
   });
 }
@@ -801,7 +801,7 @@ $('clear-filters').onclick = () => {
   clearTimeout(searchTimer);
   filters.source.clear(); filters.role.clear(); filters.sen.clear();
   filters.state = new Set(['active', 'saved', 'applied']);
-  filters.days = null;
+  filters.days = 7;
   filters.salMin = 0; filters.salUnknown = false;
   $('sal-min').value = 0; $('sal-unknown').checked = false;
   filters.q = ''; $('search').value = '';

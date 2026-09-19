@@ -67,12 +67,20 @@ test('dismiss, Undo, persistence, keyboard dialog and export omit old codes',asy
   const file=await download;const stream=await file.createReadStream();let text='';for await(const chunk of stream)text+=chunk;
   const payload=JSON.parse(text);expect(payload.code).toBeUndefined();expect(Object.values(payload.triage).some(d=>d.s==='saved')).toBe(true);
 });
-test('old dismissals stay hidden and rediscovered stale postings are pruned by posted date',async({context,page})=>{
+test('Browse defaults to one week, old dismissals stay hidden and stale reposts are pruned',async({context,page})=>{
   const fresh=makeJobs(1)[0];
+  const older={...makeJobs(1)[0],url:'https://jobs.test/older',title:'Older role',date_posted:new Date(Date.now()-20*86400000).toLocaleDateString('en-CA')};
   const stale={...makeJobs(1)[0],url:'https://jobs.test/stale',title:'Rediscovered old role',date_posted:new Date(Date.now()-45*86400000).toLocaleDateString('en-CA'),first_seen:new Date().toISOString()};
-  await fixture(context,[fresh,stale]);
+  await fixture(context,[fresh,older,stale]);
   await context.addInitScript(({key,url})=>localStorage.setItem(key,JSON.stringify({v:2,jobs:[],triage:{[url]:{s:'dismissed',t:Date.now()-365*86400000}}})),{key:KEY,url:fresh.url});
   await page.goto('triage.html');await loaded(page);
+  await expect(page.locator('.job')).toHaveCount(0);
+  await page.locator('#advanced-filters summary').click();
+  await expect(page.locator('#filter-date button').filter({hasText:'Week'})).toHaveAttribute('aria-pressed','true');
+  await page.locator('#filter-date button').filter({hasText:'Any time'}).click();
+  await expect(page.locator('.job')).toHaveCount(1);
+  await expect(page.locator('.job')).toHaveAttribute('data-url',older.url);
+  await page.locator('#clear-filters').click();
   await expect(page.locator('.job')).toHaveCount(0);
   await page.locator('#filter-state button').filter({hasText:'Dismissed'}).click();
   await expect(page.locator('.job')).toHaveCount(1);
