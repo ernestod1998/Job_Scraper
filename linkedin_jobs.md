@@ -1,26 +1,53 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-09-20 06:55 UTC*
+*Last updated: 2026-09-20 15:18 UTC*
 
-**5 new role(s)** since last run · 5 total in last 1h
+**12 new role(s)** since last run · 12 total in last 1h
 
-### [Bioinformatics Engineer](https://www.linkedin.com/jobs/view/4462017783/) — TekWissen ®
-- 📍 **Location:** Foster City, CA
-- 🕒 **Posted:** 2026-09-19
+### [AI Cheminformatics Engineer I](https://www.linkedin.com/jobs/view/4430235297/) — Frontier Medicines
+- 📍 **Location:** South San Francisco, CA
+- 🕒 **Posted:** 2026-09-20
 
-### [Full Stack Engineer (D2C), San Francisco, CA](https://www.linkedin.com/jobs/view/4467314544/) — HomeLight
+### [Research Engineer, Machine Learning (RL Velocity)](https://www.linkedin.com/jobs/view/4405025538/) — Anthropic
 - 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-09-19
+- 🕒 **Posted:** 2026-09-20
 
-### [Systems: Cloud Engineer (55A3672)](https://www.linkedin.com/jobs/view/4469587190/) — Referment
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-09-19
+### [Applied AI Scientist, Small Language Model and AI Training](https://www.linkedin.com/jobs/view/4312322574/) — Postman
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-09-20
 
-### [Infrastructure Software Engineer: Application Engineering (CA5F502)](https://www.linkedin.com/jobs/view/4469580778/) — Referment
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $225,000.00/yr - $300,000.00/yr
-- 🕒 **Posted:** 2026-09-19
+### [Software Engineer - Data Platform](https://www.linkedin.com/jobs/view/4450384807/) — Verkada
+- 📍 **Location:** San Mateo, CA
+- 🕒 **Posted:** 2026-09-20
 
-### [Software Developer: Developer Experience (BEBB70F)](https://www.linkedin.com/jobs/view/4469575783/) — Referment
+### [Research Engineer, Machine Learning (RL Velocity)](https://www.linkedin.com/jobs/view/4405033490/) — Anthropic
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $200,000.00/yr - $275,000.00/yr
-- 🕒 **Posted:** 2026-09-19
+- 🕒 **Posted:** 2026-09-20
+
+### [Data Scientist](https://www.linkedin.com/jobs/view/4468244443/) — Amtex Systems Inc
+- 📍 **Location:** Parsippany, NJ
+- 🕒 **Posted:** 2026-09-20
+
+### [Data Scientist, Core Data -  PhD (2026)](https://www.linkedin.com/jobs/view/4404740497/) — Figma
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-09-20
+
+### [Full Stack Software Engineer](https://www.linkedin.com/jobs/view/4468467162/) — Jack
+- 📍 **Location:** Stamford, CT
+- 💰 **Salary:** $160,000.00/yr - $230,000.00/yr
+- 🕒 **Posted:** 2026-09-20
+
+### [Data Scientist, Policy](https://www.linkedin.com/jobs/view/4424007769/) — Anthropic
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-09-20
+
+### [Full Stack Engineer (C#/React)](https://www.linkedin.com/jobs/view/4414186284/) — Rockstar Games
+- 📍 **Location:** Manhattan, NY
+- 🕒 **Posted:** 2026-09-20
+
+### [Android Engineer](https://www.linkedin.com/jobs/view/4319478980/) — Wealthfront
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-09-20
+
+### [iOS Engineer](https://www.linkedin.com/jobs/view/4373022694/) — Wealthfront
+- 📍 **Location:** Palo Alto, CA
+- 🕒 **Posted:** 2026-09-20
