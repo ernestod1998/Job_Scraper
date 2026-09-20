@@ -1,24 +1,36 @@
 # 🧬 Biotech LinkedIn — MLE / DS Roles
-*Last updated: 2026-09-19 08:12 UTC*
+*Last updated: 2026-09-20 08:45 UTC*
 
-**5 new role(s)** since last run · 43 total in last 24h
+**8 new role(s)** since last run · 48 total in last 24h
 
-### [Software Engineer, Full Stack](https://job-boards.greenhouse.io/natera/jobs/5993307004) — Natera
-- 📍 **Location:** San Carlos, CA
-- 🕒 **Posted:** 2026-09-18
+### [Intern - Research - Data Sciences](https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Intern---Research---Data-Sciences_R0054572) — Gilead Sciences
+- 📍 **Location:** United States - California - Foster City
+- 🕒 **Posted:** Posted 12 Days Ago
 
-### [ Software Engineer III](https://job-boards.greenhouse.io/natera/jobs/6128466004) — Natera
-- 📍 **Location:** US Remote
-- 🕒 **Posted:** 2026-09-18
+### [Intern - Research - Drug Metabolism](https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Intern---Research---Drug-Metabolism_R0054510) — Gilead Sciences
+- 📍 **Location:** United States - California - Foster City
+- 🕒 **Posted:** Posted 5 Days Ago
 
-### [Research Scientist, AI](https://job-boards.greenhouse.io/biohub/jobs/7793644) — Chan Zuckerberg Biohub
-- 📍 **Location:** Redwood City, CA (Hybrid)
-- 🕒 **Posted:** 2026-09-17
+### [Undergrad Intern – Machine Learning Engineer – Technology, AI & Data (Summer 2027)](https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Undergrad-Intern---Machine-Learning-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255709) — Amgen
+- 📍 **Location:** United States - Remote
+- 🕒 **Posted:** Posted 6 Days Ago
 
-### [Bioinformatics & Data Scientist or Postdoctoral Researcher- Furman lab](https://www.linkedin.com/jobs/view/4427934142/) — Buck Institute for Research on Aging
-- 📍 **Location:** Novato, CA
-- 🕒 **Posted:** 2026-09-18
+### [Grad Intern – Machine Learning Engineer – Technology, AI & Data (Summer 2027)](https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Grad-Intern---Machine-Learning-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255743) — Amgen
+- 📍 **Location:** United States - Remote
+- 🕒 **Posted:** Posted 6 Days Ago
 
-### [Data Scientist](https://www.linkedin.com/jobs/view/4466919140/) — Bristol Myers Squibb
+### [Undergrad Intern – Software Engineer – Technology, AI & Data (Summer 2027)](https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Undergrad-Intern---Software-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255719) — Amgen
+- 📍 **Location:** United States - Remote
+- 🕒 **Posted:** Posted 6 Days Ago
+
+### [Grad Intern – Software Engineer – Technology, AI & Data (Summer 2027)](https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Grad-Intern---Software-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255745) — Amgen
+- 📍 **Location:** United States - Remote
+- 🕒 **Posted:** Posted 6 Days Ago
+
+### [Robotics Engineer](https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Cambridge-Massachusetts/Robotics-Engineer_R19688) — Moderna
+- 📍 **Location:** Cambridge, Massachusetts
+- 🕒 **Posted:** Posted 9 Days Ago
+
+### [Data Science, Cheminformatics & AI: Lab-in-the-Loop Hit Finding](https://www.linkedin.com/jobs/view/4429436440/) — Novartis
 - 📍 **Location:** San Diego, CA
-- 🕒 **Posted:** 2026-09-18
+- 🕒 **Posted:** 2026-09-19
