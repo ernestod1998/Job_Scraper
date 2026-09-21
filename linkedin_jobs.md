@@ -1,17 +1,28 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-09-21 01:17 UTC*
+*Last updated: 2026-09-21 02:17 UTC*
 
-**3 new role(s)** since last run · 4 total in last 1h
+**6 new role(s)** since last run · 8 total in last 1h
 
-### [Data Scientist (Masters)](https://www.linkedin.com/jobs/view/4469822802/) — Alignerr
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $40.00/hr - $80.00/hr
+### [Full Stack Engineer, AI Internal Systems](https://www.linkedin.com/jobs/view/4468495039/) — ActAI
+- 📍 **Location:** Palo Alto, CA
 - 🕒 **Posted:** 2026-09-20
 
-### [Associate Computational Scientist-Pathology, Molecular and Cell Based Medicine](https://www.linkedin.com/jobs/view/4469835142/) — Mount Sinai Morningside
+### [Associate Computational Scientist-Pathology, Molecular and Cell Based Medicine](https://www.linkedin.com/jobs/view/4468489579/) — Mount Sinai Health System
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-09-20
 
-### [Machine Learning Engineer - Inference](https://www.linkedin.com/jobs/view/4469828713/) — Jobverse.io
-- 📍 **Location:** San Francisco, CA
+### [Software Engineer](https://www.linkedin.com/jobs/view/4468488622/) — Haystack
+- 📍 **Location:** Santa Clara County, CA
+- 🕒 **Posted:** 2026-09-20
+
+### [Software Engineer](https://www.linkedin.com/jobs/view/4468478940/) — Haystack
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-09-20
+
+### [Software Engineer](https://www.linkedin.com/jobs/view/4468482860/) — Haystack
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-09-20
+
+### [Software Engineer](https://www.linkedin.com/jobs/view/4468489636/) — Haystack
+- 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-09-20
