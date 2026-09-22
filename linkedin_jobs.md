@@ -1,80 +1,38 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-09-22 02:18 UTC*
+*Last updated: 2026-09-22 03:17 UTC*
 
-**18 new role(s)** since last run · 32 total in last 1h
+**8 new role(s)** since last run · 9 total in last 1h
 
-### [Data Platform Engineer](https://www.linkedin.com/jobs/view/4468792156/) — Figma
-- 📍 **Location:** San Francisco, CA
+### [Machine Learning Engineer](https://www.linkedin.com/jobs/view/4468500205/) — Philyron (a16z SR007)
+- 📍 **Location:** San Francisco Bay Area
 - 🕒 **Posted:** 2026-09-21
 
-### [Software Engineer, Annotation Systems](https://www.linkedin.com/jobs/view/4468185776/) — Obvio
-- 📍 **Location:** San Carlos, CA
+### [Machine Learning Scientist II, Drug Discovery Analytics](https://www.linkedin.com/jobs/view/4468515020/) — Revolution Medicines
+- 📍 **Location:** San Francisco Bay Area
 - 🕒 **Posted:** 2026-09-21
 
-### [Site Reliability Engineer, AI Infrastructure (Starshield)](https://www.linkedin.com/jobs/view/4470245009/) — SpaceX
-- 📍 **Location:** Palo Alto, CA
+### [Bioinformatics Scientist III](https://www.linkedin.com/jobs/view/4470242447/) — Bio-Rad Laboratories
+- 📍 **Location:** Pleasanton, CA
 - 🕒 **Posted:** 2026-09-21
 
-### [Data Platform Engineer](https://www.linkedin.com/jobs/view/4468794123/) — Figma
+### [Summer 2027 Master's AI Research, Reinforcement Learning and LLM Post-Training Intern](https://www.linkedin.com/jobs/view/4468198297/) — AMD
+- 📍 **Location:** Santa Clara, CA
+- 💰 **Salary:** $83,200.00/yr - $124,800.00/yr
+- 🕒 **Posted:** 2026-09-21
+
+### [Summer 2027 PhD Gen AI and Reinforcement Learning Research Intern](https://www.linkedin.com/jobs/view/4468186935/) — AMD
+- 📍 **Location:** Santa Clara, CA
+- 💰 **Salary:** $91,520.00/yr - $137,280.00/yr
+- 🕒 **Posted:** 2026-09-21
+
+### [Software Engineer: Financial Data](https://www.linkedin.com/jobs/view/4470226867/) — Rogo
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-09-21
 
-### [Computer Vision & ML Expert](https://www.linkedin.com/jobs/view/4467417949/) — Alignerr
+### [Software Engineer: Backend](https://www.linkedin.com/jobs/view/4470236507/) — Rogo
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-09-21
 
-### [Software Engineer: Backend](https://www.linkedin.com/jobs/view/4470223961/) — Rogo
+### [Software Engineer: Fullstack](https://www.linkedin.com/jobs/view/4470227898/) — Rogo
 - 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-09-21
-
-### [Software Engineer: Fullstack](https://www.linkedin.com/jobs/view/4470229598/) — Rogo
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $250,000.00/yr - $315,000.00/yr
-- 🕒 **Posted:** 2026-09-21
-
-### [Associate Bioinformatician-MSH - Genetics](https://www.linkedin.com/jobs/view/4468767999/) — Mount Sinai Health System
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-09-21
-
-### [NLP / LLM Data Scientist](https://www.linkedin.com/jobs/view/4470241190/) — Dandelion Health
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $135,000.00/yr - $165,000.00/yr
-- 🕒 **Posted:** 2026-09-21
-
-### [Software Engineer, Applied Ai](https://www.linkedin.com/jobs/view/4470229618/) — Aaru
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $250,000.00/yr - $325,000.00/yr
-- 🕒 **Posted:** 2026-09-21
-
-### [Software Engineer, Simulation & Evaluation](https://www.linkedin.com/jobs/view/4470230033/) — Saildrone
-- 📍 **Location:** Alameda, CA
-- 🕒 **Posted:** 2026-09-21
-
-### [2027 Summer Intern, BS/MS, Embedded, Software Engineer](https://www.linkedin.com/jobs/view/4468781618/) — CapitalG
-- 📍 **Location:** Mountain View, CA
-- 🕒 **Posted:** 2026-09-21
-
-### [Software Engineer II - Backend Engineer](https://www.linkedin.com/jobs/view/4470228450/) — Uber
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-09-21
-
-### [Software Engineer II - Backend Engineer](https://www.linkedin.com/jobs/view/4470233210/) — Uber
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-09-21
-
-### [Data Science Expert - AI Content Specialist](https://www.linkedin.com/jobs/view/4470223512/) — Alignerr
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $40.00/hr - $80.00/hr
-- 🕒 **Posted:** 2026-09-21
-
-### [Full Stack Engineer - ML](https://www.linkedin.com/jobs/view/4470242170/) — Anori
-- 📍 **Location:** San Mateo, CA
-- 🕒 **Posted:** 2026-09-21
-
-### [Software engineer, full-stack](https://www.linkedin.com/jobs/view/4448712006/) — Watershed
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-09-21
-
-### [Full Stack Engineer - 3D Visualization](https://www.linkedin.com/jobs/view/4470234410/) — Anori
-- 📍 **Location:** San Mateo, CA
 - 🕒 **Posted:** 2026-09-21
