@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-09-22T20:59:45.676861+00:00",
+  "updated_at": "2026-09-22T21:02:55.895137+00:00",
   "day": "2026-09-22",
   "context": "3ba40bc7f768802deaea5fdb4539ae6756b2ad705c2a79069ac6f13a206750ea",
   "scores": {
@@ -171502,7 +171502,114 @@
           "cost": 6848700
         }
       },
-      "scored_at": "2026-09-22T19:43:38.580148+00:00"
+      "scored_at": "2026-09-22T19:43:38.580148+00:00",
+      "sonnet": {
+        "model": "claude-sonnet-5",
+        "scores": {
+          "BioScience_ML": 100,
+          "ML": 100,
+          "DS": 100,
+          "SWE": 100,
+          "FDE": 100,
+          "Research_Software_Engineer": 100
+        },
+        "best_resumes": [
+          "BioScience_ML",
+          "DS",
+          "FDE",
+          "ML",
+          "Research_Software_Engineer",
+          "SWE"
+        ],
+        "requirements": [
+          {
+            "text": "3+ years of building models for business application experience",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "matched",
+              "FDE": "matched",
+              "Research_Software_Engineer": "matched"
+            }
+          },
+          {
+            "text": "PhD, or Master's degree and 4+ years of CS, CE, ML or related field experience",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "matched",
+              "FDE": "matched",
+              "Research_Software_Engineer": "matched"
+            }
+          },
+          {
+            "text": "Experience programming in Java, C++, Python or related language",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "matched",
+              "FDE": "matched",
+              "Research_Software_Engineer": "matched"
+            }
+          },
+          {
+            "text": "Experience in any of the following areas: algorithms and data structures, parsing, numerical optimization, data mining, parallel and distributed computing, high-performance computing",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "matched",
+              "FDE": "matched",
+              "Research_Software_Engineer": "matched"
+            }
+          },
+          {
+            "text": "Experience using Unix/Linux",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "matched",
+              "FDE": "matched",
+              "Research_Software_Engineer": "matched"
+            }
+          },
+          {
+            "text": "Experience in professional software development",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "matched",
+              "FDE": "matched",
+              "Research_Software_Engineer": "matched"
+            }
+          }
+        ],
+        "usage": {
+          "input": 17855,
+          "output": 4773,
+          "thinking": 1232,
+          "cached": 0,
+          "cache_write": 0,
+          "cost": 83440000
+        }
+      }
     },
     "https://broadridge.wd5.myworkdayjobs.com/careers/job/Newark-NJ/AI-Prompt-Engineer-Contract-_JR1084335": {
       "status": "jd_unavailable",
@@ -186827,7 +186934,152 @@
           "cost": 8235500
         }
       },
-      "scored_at": "2026-09-22T19:43:38.580148+00:00"
+      "scored_at": "2026-09-22T19:43:38.580148+00:00",
+      "sonnet": {
+        "model": "claude-sonnet-5",
+        "scores": {
+          "BioScience_ML": 79,
+          "ML": 79,
+          "DS": 79,
+          "SWE": 79,
+          "FDE": 79,
+          "Research_Software_Engineer": 64
+        },
+        "best_resumes": [
+          "BioScience_ML",
+          "DS",
+          "FDE",
+          "ML",
+          "SWE"
+        ],
+        "requirements": [
+          {
+            "text": "Tenure: 2–4+ years of experience as a professional software engineer",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "matched",
+              "FDE": "matched",
+              "Research_Software_Engineer": "matched"
+            }
+          },
+          {
+            "text": "Engineering Fundamentals: Working knowledge of AWS or GCP, relational databases, and standard practices like version control and code review",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "matched",
+              "FDE": "matched",
+              "Research_Software_Engineer": "partial"
+            }
+          },
+          {
+            "text": "Product Instinct: You think like a product person — you want to know who the user is, what they're actually trying to do, and you have opinions about what to build",
+            "importance": "required",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial",
+              "Research_Software_Engineer": "partial"
+            }
+          },
+          {
+            "text": "Curious About the Science: You don't need a biology background, but you want to learn the domain rather than treat it as someone else's problem",
+            "importance": "required",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "matched",
+              "FDE": "matched",
+              "Research_Software_Engineer": "matched"
+            }
+          },
+          {
+            "text": "Comfortable in the Gray Area: You can reason clearly about the tradeoffs between quality and speed",
+            "importance": "required",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial",
+              "Research_Software_Engineer": "partial"
+            }
+          },
+          {
+            "text": "Fits the Team: You're up for writing design docs, having opinions in code review, and yes, goofing around on Slack.",
+            "importance": "required",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial",
+              "Research_Software_Engineer": "not_evidenced"
+            }
+          },
+          {
+            "text": "Domain Experience: Experience with LIMS, lab automation, or another life sciences domain",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "matched",
+              "FDE": "matched",
+              "Research_Software_Engineer": "matched"
+            }
+          },
+          {
+            "text": "Agent/LLM Experience: Experience building with LLMs or agent frameworks — tool and skill design, evaluation, or getting a model to behave reliably against real systems",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "matched",
+              "FDE": "matched",
+              "Research_Software_Engineer": "matched"
+            }
+          },
+          {
+            "text": "Stack Familiarity: Experience with Django, FastAPI, SQLAlchemy, React, TypeScript, PostgreSQL, Docker, or AWS",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "matched",
+              "FDE": "matched",
+              "Research_Software_Engineer": "matched"
+            }
+          }
+        ],
+        "usage": {
+          "input": 18827,
+          "output": 10415,
+          "thinking": 4730,
+          "cached": 0,
+          "cache_write": 0,
+          "cost": 141804000
+        }
+      }
     },
     "https://www.linkedin.com/jobs/view/4468508698/": {
       "url": "https://www.linkedin.com/jobs/view/4468508698/",
@@ -187233,6 +187485,10 @@
         }
       },
       "scored_at": "2026-09-22T19:43:38.580148+00:00"
+    },
+    "https://www.linkedin.com/jobs/view/4468522051/": {
+      "status": "invalid_or_unknown",
+      "context": "3ba40bc7f768802deaea5fdb4539ae6756b2ad705c2a79069ac6f13a206750ea"
     }
   },
   "limits": {
@@ -187240,7 +187496,7 @@
     "sonnet": 10
   },
   "attempts_today": {
-    "luna": 99,
-    "sonnet": 0
+    "luna": 100,
+    "sonnet": 3
   }
 }
