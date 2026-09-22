@@ -1,56 +1,93 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-09-22 22:18 UTC*
+*Last updated: 2026-09-22 23:19 UTC*
 
-**12 new role(s)** since last run · 22 total in last 1h
+**21 new role(s)** since last run · 37 total in last 1h
 
-### [2027 Summer Intern, MS/PhD, Machine Learning Engineer](https://www.linkedin.com/jobs/view/4469069027/) — Waymo
+### [AI Prompt Engineer(Contract)](https://www.linkedin.com/jobs/view/4470632656/) — Broadridge
+- 📍 **Location:** Newark, NJ
+- 🕒 **Posted:** 2026-09-22
+
+### [Software Engineer, AI Gateway](https://www.linkedin.com/jobs/view/4465333600/) — Vercel
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-09-22
 
-### [Research Engineer, Foundation Models](https://www.linkedin.com/jobs/view/4441271677/) — Brahma Consulting Group
-- 📍 **Location:** San Francisco Bay Area
-- 💰 **Salary:** $250,000.00/yr - $400,000.00/yr
-- 🕒 **Posted:** 2026-09-22
-
-### [AI/ML Engineer](https://www.linkedin.com/jobs/view/4470635272/) — Optum
+### [Software Engineer, eve](https://www.linkedin.com/jobs/view/4431344443/) — Vercel
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-09-22
 
-### [Data Scientist Intern - 2027](https://www.linkedin.com/jobs/view/4469055837/) — Hudson River Trading
+### [Software Engineer, AI SDK](https://www.linkedin.com/jobs/view/4342963837/) — Vercel
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-09-22
+
+### [junior data scientist /AI engineer/Java Developer](https://www.linkedin.com/jobs/view/4469066517/) — SynergisticIT
 - 📍 **Location:** New York, NY
+- 💰 **Salary:** $82,000.00/yr - $136,000.00/yr
 - 🕒 **Posted:** 2026-09-22
 
-### [Software Engineer, AI Infrastructure](https://www.linkedin.com/jobs/view/4448558508/) — Harell Data
-- 📍 **Location:** Palo Alto, CA
+### [Java Full stack Engineer](https://www.linkedin.com/jobs/view/4469062919/) — Tata Consultancy Services
+- 📍 **Location:** Parsippany, NJ
 - 🕒 **Posted:** 2026-09-22
 
-### [Data Scientist](https://www.linkedin.com/jobs/view/4468795734/) — Smart IT Frame LLC
-- 📍 **Location:** Berkeley Heights, NJ
+### [Data Platform Engineer](https://www.linkedin.com/jobs/view/4469076100/) — Tata Consultancy Services
+- 📍 **Location:** Parsippany, NJ
 - 🕒 **Posted:** 2026-09-22
 
-### [Java Software Engineer Only W2](https://www.linkedin.com/jobs/view/4440830811/) — Flexton Inc.
-- 📍 **Location:** Sunnyvale, CA
-- 💰 **Salary:** $45.00/hr - $50.00/hr
+### [Data Platform Engineer](https://www.linkedin.com/jobs/view/4469076099/) — Tata Consultancy Services
+- 📍 **Location:** Parsippany, NJ
 - 🕒 **Posted:** 2026-09-22
 
-### [EDA Software Engineer](https://www.linkedin.com/jobs/view/4470622536/) — QUORE IT : Talent Sourcing & Recruitment
-- 📍 **Location:** Los Altos, CA
-- 💰 **Salary:** $250,000.00/yr - $350,000.00/yr
+### [junior software developer/data scientist](https://www.linkedin.com/jobs/view/4469063935/) — SynergisticIT
+- 📍 **Location:** Santa Clara, CA
+- 💰 **Salary:** $82,000.00/yr - $136,000.00/yr
 - 🕒 **Posted:** 2026-09-22
 
-### [Software Engineer in Test](https://www.linkedin.com/jobs/view/4468932643/) — Client of Maven Companies Inc.
-- 📍 **Location:** Fremont, CA
-- 🕒 **Posted:** 2026-09-22
-
-### [Systems Architecture Software Engineer](https://www.linkedin.com/jobs/view/4412971879/) — Rivian and Volkswagen Group Technologies
-- 📍 **Location:** Palo Alto, CA
-- 💰 **Salary:** $105,100.00/yr - $144,500.00/yr
-- 🕒 **Posted:** 2026-09-22
-
-### [Software Engineer (Salesforce) (Hybrid)](https://www.linkedin.com/jobs/view/4470632373/) — Cisco
+### [Test Automation Software Engineer Intern](https://www.linkedin.com/jobs/view/4447587967/) — SK hynix memory solutions America Inc.
 - 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-09-22
 
-### [Software Engineer III, AI/ML GenAI, Search](https://www.linkedin.com/jobs/view/4469071120/) — Google
+### [Java Backend Developer](https://www.linkedin.com/jobs/view/4469068244/) — Talenzaa
+- 📍 **Location:** Jersey City, NJ
+- 🕒 **Posted:** 2026-09-22
+
+### [Back-end Engineer - Data Platforms](https://www.linkedin.com/jobs/view/4469055912/) — Morgan Stanley
 - 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-09-22
+
+### [Software Engineer, Agentic Infrastructure](https://www.linkedin.com/jobs/view/4469105025/) — Vercel
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-09-22
+
+### [Full Stack Engineer](https://www.linkedin.com/jobs/view/4470625901/) — Vynca
+- 📍 **Location:** San Mateo, CA
+- 💰 **Salary:** $160,000.00/yr - $180,000.00/yr
+- 🕒 **Posted:** 2026-09-22
+
+### [Generative AI Engineer](https://www.linkedin.com/jobs/view/4469053956/) — Insight Global
+- 📍 **Location:** Sunnyvale, CA
+- 💰 **Salary:** $60.00/hr - $85.00/hr
+- 🕒 **Posted:** 2026-09-22
+
+### [Fullstack Software Engineer, Child Safety Tools & Systems](https://www.linkedin.com/jobs/view/4469074211/) — OpenAI
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $266,000.00/yr - $385,000.00/yr
+- 🕒 **Posted:** 2026-09-22
+
+### [Full Stack Engineer](https://www.linkedin.com/jobs/view/4470641185/) — Capgemini
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-09-22
+
+### [Data Scientist I](https://www.linkedin.com/jobs/view/4470621909/) — Early Warning
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-09-22
+
+### [Applied Scientist, Amazon Ads, Forecasting, Insights and Guidance (FIG)](https://www.linkedin.com/jobs/view/4468942269/) — Amazon Science
+- 📍 **Location:** Palo Alto, CA
+- 🕒 **Posted:** 2026-09-22
+
+### [Data Scientist I](https://www.linkedin.com/jobs/view/4470628657/) — Early Warning
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-09-22
+
+### [Applied Scientist, Generative AI and Synthetic Data](https://www.linkedin.com/jobs/view/4468924881/) — Amazon Science
+- 📍 **Location:** Sunnyvale, CA
 - 🕒 **Posted:** 2026-09-22
