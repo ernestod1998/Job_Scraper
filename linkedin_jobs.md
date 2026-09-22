@@ -1,31 +1,29 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-09-22 18:19 UTC*
+*Last updated: 2026-09-22 19:05 UTC*
 
-**6 new role(s)** since last run · 16 total in last 1h
+**6 new role(s)** since last run · 22 total in last 1h
 
-### [Software Engineer, Applied AI (RCM)](https://www.linkedin.com/jobs/view/4442169621/) — Commure
-- 📍 **Location:** Mountain View, CA
-- 💰 **Salary:** $170,000.00/yr - $190,000.00/yr
+### [Machine Learning Software Engineer Intern - Summer 2027](https://www.linkedin.com/jobs/view/4470483813/) — Rippling
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-09-22
 
-### [Fullstack Engineer, Ambient AI](https://www.linkedin.com/jobs/view/4438516340/) — Commure
-- 📍 **Location:** Mountain View, CA
-- 💰 **Salary:** $130,000.00/yr - $180,000.00/yr
+### [Generative AI Engineer](https://www.linkedin.com/jobs/view/4470489806/) — Mindlance
+- 📍 **Location:** Concord, CA
+- 💰 **Salary:** $79.00/hr - $83.00/hr
 - 🕒 **Posted:** 2026-09-22
 
-### [Software Engineer, New Grad](https://www.linkedin.com/jobs/view/4460090449/) — IXL Learning
-- 📍 **Location:** San Mateo, CA
+### [Software Engineer, Systems](https://www.linkedin.com/jobs/view/4470495333/) — Chariot Defense
+- 📍 **Location:** South San Francisco, CA
 - 🕒 **Posted:** 2026-09-22
 
-### [Assurance Innovation & Technology (AIT) - Software Engineering - Associate - Summer/Fall 2027](https://www.linkedin.com/jobs/view/4461565390/) — PwC
+### [Full Stack Software Engineer Intern - Summer 2027](https://www.linkedin.com/jobs/view/4470477973/) — Rippling
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-09-22
+
+### [Full Stack Software Engineer Intern - Summer 2027](https://www.linkedin.com/jobs/view/4470474961/) — Rippling
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-09-22
 
-### [Software Engineer 1 - OS Internals](https://www.linkedin.com/jobs/view/4470490091/) — Nutanix
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-09-22
-
-### [Software Engineer, Billing Agents](https://www.linkedin.com/jobs/view/4442173513/) — Commure
-- 📍 **Location:** Mountain View, CA
-- 💰 **Salary:** $130,000.00/yr - $190,000.00/yr
+### [Clinical Research Engineer](https://www.linkedin.com/jobs/view/4452731304/) — Noctrix Health, Inc.
+- 📍 **Location:** San Francisco Bay Area
 - 🕒 **Posted:** 2026-09-22
