@@ -1,38 +1,38 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-09-22 03:17 UTC*
+*Last updated: 2026-09-22 07:55 UTC*
 
-**8 new role(s)** since last run · 9 total in last 1h
+**8 new role(s)** since last run · 8 total in last 1h
 
-### [Machine Learning Engineer](https://www.linkedin.com/jobs/view/4468500205/) — Philyron (a16z SR007)
-- 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-09-21
+### [Machine Learning Engineer](https://www.linkedin.com/jobs/view/4432863570/) — Nudge
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-09-22
 
-### [Machine Learning Scientist II, Drug Discovery Analytics](https://www.linkedin.com/jobs/view/4468515020/) — Revolution Medicines
-- 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-09-21
+### [Applied Scientist, AGI](https://www.linkedin.com/jobs/view/4468536014/) — Amazon
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-09-22
 
-### [Bioinformatics Scientist III](https://www.linkedin.com/jobs/view/4470242447/) — Bio-Rad Laboratories
-- 📍 **Location:** Pleasanton, CA
-- 🕒 **Posted:** 2026-09-21
+### [Applied Scientist, Neuron ARG, Annapurna ML](https://www.linkedin.com/jobs/view/4468515951/) — Amazon
+- 📍 **Location:** Cupertino, CA
+- 🕒 **Posted:** 2026-09-22
 
-### [Summer 2027 Master's AI Research, Reinforcement Learning and LLM Post-Training Intern](https://www.linkedin.com/jobs/view/4468198297/) — AMD
-- 📍 **Location:** Santa Clara, CA
-- 💰 **Salary:** $83,200.00/yr - $124,800.00/yr
-- 🕒 **Posted:** 2026-09-21
+### [Software Engineer](https://www.linkedin.com/jobs/view/4432873275/) — Nudge
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-09-22
 
-### [Summer 2027 PhD Gen AI and Reinforcement Learning Research Intern](https://www.linkedin.com/jobs/view/4468186935/) — AMD
-- 📍 **Location:** Santa Clara, CA
-- 💰 **Salary:** $91,520.00/yr - $137,280.00/yr
-- 🕒 **Posted:** 2026-09-21
+### [Software Engineer II - Backend](https://www.linkedin.com/jobs/view/4468524856/) — Uber
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-09-22
 
-### [Software Engineer: Financial Data](https://www.linkedin.com/jobs/view/4470226867/) — Rogo
+### [AI/ML Engineer](https://www.linkedin.com/jobs/view/4469582916/) — LaStellar Group
+- 📍 **Location:** New York City Metropolitan Area
+- 💰 **Salary:** $125,000.00/yr - $160,000.00/yr
+- 🕒 **Posted:** 2026-09-22
+
+### [Software Engineer II - Backend](https://www.linkedin.com/jobs/view/4468541409/) — Uber
 - 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-09-21
+- 🕒 **Posted:** 2026-09-22
 
-### [Software Engineer: Backend](https://www.linkedin.com/jobs/view/4470236507/) — Rogo
+### [DevOps Engineer (Cloud)](https://www.linkedin.com/jobs/view/4469800091/) — LaStellar Group
 - 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-09-21
-
-### [Software Engineer: Fullstack](https://www.linkedin.com/jobs/view/4470227898/) — Rogo
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-09-21
+- 💰 **Salary:** $170,000.00/yr - $185,000.00/yr
+- 🕒 **Posted:** 2026-09-22
