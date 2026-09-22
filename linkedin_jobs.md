@@ -1,56 +1,98 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-09-21 23:19 UTC*
+*Last updated: 2026-09-22 00:19 UTC*
 
-**11 new role(s)** since last run · 24 total in last 1h
+**22 new role(s)** since last run · 36 total in last 1h
 
-### [Software Engineer, Fullstack](https://www.linkedin.com/jobs/view/4401137275/) — Ivo
+### [Applied Scientist, Amazon Ads, Forecasting, Insights and Guidance (FIG)](https://www.linkedin.com/jobs/view/4470202776/) — Amazon
+- 📍 **Location:** Palo Alto, CA
+- 🕒 **Posted:** 2026-09-21
+
+### [Software Engineer, Localization](https://www.linkedin.com/jobs/view/4468183461/) — Mach Industries
+- 📍 **Location:** San Francisco Bay Area
+- 💰 **Salary:** $125,000.00/yr - $220,000.00/yr
+- 🕒 **Posted:** 2026-09-21
+
+### [Applied Scientist, Safe RL, Robotics, SAF Lab](https://www.linkedin.com/jobs/view/4470217315/) — Amazon
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-09-21
+
+### [Perception Engineer](https://www.linkedin.com/jobs/view/4468179490/) — Mach Industries
+- 📍 **Location:** San Francisco Bay Area
+- 💰 **Salary:** $130,000.00/yr - $220,000.00/yr
+- 🕒 **Posted:** 2026-09-21
+
+### [Backend Software Engineer (Infra Engineer)](https://www.linkedin.com/jobs/view/4372180581/) — IntelliPro
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-09-21
+
+### [Software Engineer, Applied AI/Product](https://www.linkedin.com/jobs/view/4470206448/) — Yara AI
 - 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $158,000.00/yr - $235,000.00/yr
+- 💰 **Salary:** $150,000.00/yr - $250,000.00/yr
 - 🕒 **Posted:** 2026-09-21
 
-### [Software Engineer, Plugin Ecosystem](https://www.linkedin.com/jobs/view/4468183310/) — OpenAI
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $185,000.00/yr - $490,000.00/yr
+### [Data Scientist](https://www.linkedin.com/jobs/view/4470219230/) — Inhabitr
+- 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-09-21
 
-### [Embedded Software Engineer](https://www.linkedin.com/jobs/view/4469997286/) — Kforce Inc
-- 📍 **Location:** San Mateo, CA
-- 💰 **Salary:** $84.00/hr - $88.00/hr
+### [Full Stack Engineer](https://www.linkedin.com/jobs/view/4470203672/) — Torentify
+- 📍 **Location:** Santa Clara, CA
 - 🕒 **Posted:** 2026-09-21
 
-### [Software Engineer](https://www.linkedin.com/jobs/view/4469984669/) — Kforce Inc
-- 📍 **Location:** San Mateo, CA
-- 💰 **Salary:** $90.00/hr - $100.00/hr
+### [Perception Engineer](https://www.linkedin.com/jobs/view/4468115507/) — Saildrone
+- 📍 **Location:** Alameda, CA
 - 🕒 **Posted:** 2026-09-21
 
-### [Junior Software Engineer](https://www.linkedin.com/jobs/view/4468173866/) — SoTalent
-- 📍 **Location:** San Francisco, CA
+### [Software Engineer, Geometric Computer Vision](https://www.linkedin.com/jobs/view/4468110643/) — Saildrone
+- 📍 **Location:** Alameda, CA
 - 🕒 **Posted:** 2026-09-21
 
-### [Mid-Level Software Engineer](https://www.linkedin.com/jobs/view/4468185339/) — Medilinkers LLC
+### [Software Engineer, Autonomous Systems](https://www.linkedin.com/jobs/view/4468150450/) — Saildrone
+- 📍 **Location:** Alameda, CA
+- 🕒 **Posted:** 2026-09-21
+
+### [Software Engineer, Cloud](https://www.linkedin.com/jobs/view/4468149701/) — Saildrone
+- 📍 **Location:** Alameda, CA
+- 🕒 **Posted:** 2026-09-21
+
+### [Perception Machine Learning Engineer](https://www.linkedin.com/jobs/view/4468159108/) — Saildrone
+- 📍 **Location:** Alameda, CA
+- 🕒 **Posted:** 2026-09-21
+
+### [AI/ML Engineer (RAG & Conversational AI) | Full-Time W2 | No C2C](https://www.linkedin.com/jobs/view/4466926178/) — Redolent, Inc
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-09-21
+
+### [RISE Software Engineer](https://www.linkedin.com/jobs/view/4468145531/) — Intuitive
+- 📍 **Location:** Sunnyvale, CA
+- 💰 **Salary:** $117,000.00/yr - $186,300.00/yr
+- 🕒 **Posted:** 2026-09-21
+
+### [Software Engineer - Cloud Infrastructure](https://www.linkedin.com/jobs/view/4470200477/) — Rubrik
+- 📍 **Location:** Palo Alto, CA
+- 🕒 **Posted:** 2026-09-21
+
+### [Software Engineer, Automation and Control](https://www.linkedin.com/jobs/view/4468190135/) — Culture Biosciences
+- 📍 **Location:** South San Francisco, CA
+- 🕒 **Posted:** 2026-09-21
+
+### [AI Infrastructure Engineer](https://www.linkedin.com/jobs/view/4468174571/) — Tessera Labs
+- 📍 **Location:** San Jose, CA
+- 💰 **Salary:** $200,000.00/yr - $250,000.00/yr
+- 🕒 **Posted:** 2026-09-21
+
+### [Software Engineering Intern - Design Automation (Spring 2027 Co-Op)](https://www.linkedin.com/jobs/view/4469991636/) — Rivian
+- 📍 **Location:** Palo Alto, CA
+- 🕒 **Posted:** 2026-09-21
+
+### [Software Engineer (Backend)](https://www.linkedin.com/jobs/view/4416261558/) — Lorum
 - 📍 **Location:** New York, NY
+- 💰 **Salary:** $150,000.00/yr - $200,000.00/yr
 - 🕒 **Posted:** 2026-09-21
 
-### [Machine Learning Engineer, Monetization AI/ML](https://www.linkedin.com/jobs/view/4468190167/) — OpenAI
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $381,000.00/yr - $555,000.00/yr
+### [Site Reliability Engineer](https://www.linkedin.com/jobs/view/4463125901/) — Instrumental Inc.
+- 📍 **Location:** Palo Alto, CA
 - 🕒 **Posted:** 2026-09-21
 
-### [Software Engineer](https://www.linkedin.com/jobs/view/4469999209/) — Kforce Inc
-- 📍 **Location:** San Mateo, CA
-- 💰 **Salary:** $80.00/hr - $90.00/hr
-- 🕒 **Posted:** 2026-09-21
-
-### [Cloud Engineer](https://www.linkedin.com/jobs/view/4469994451/) — Kforce Inc
-- 📍 **Location:** San Mateo, CA
-- 💰 **Salary:** $88.00/hr - $97.00/hr
-- 🕒 **Posted:** 2026-09-21
-
-### [Software Engineer, Backend](https://www.linkedin.com/jobs/view/4401128372/) — Ivo
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $158,000.00/yr - $235,000.00/yr
-- 🕒 **Posted:** 2026-09-21
-
-### [Infrastructure Engineer](https://www.linkedin.com/jobs/view/4452726877/) — Ivo
-- 📍 **Location:** San Francisco, CA
+### [Vehicle Software Engineer](https://www.linkedin.com/jobs/view/4468140969/) — Saildrone
+- 📍 **Location:** Alameda, CA
 - 🕒 **Posted:** 2026-09-21
