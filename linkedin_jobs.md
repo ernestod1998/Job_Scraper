@@ -1,67 +1,58 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-09-23 21:19 UTC*
+*Last updated: 2026-09-23 22:19 UTC*
 
-**15 new role(s)** since last run · 47 total in last 1h
+**12 new role(s)** since last run · 27 total in last 1h
 
-### [Applied Scientist, Ring AI](https://www.linkedin.com/jobs/view/4471114950/) — Ring
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-09-23
-
-### [Data Scientist, Patterns](https://www.linkedin.com/jobs/view/4469613489/) — Tellwise
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-09-23
-
-### [Backend Engineer, Data Platform](https://www.linkedin.com/jobs/view/4469613462/) — Cortix AI
+### [Software Engineer, ML Data](https://www.linkedin.com/jobs/view/4441014880/) — Liftoff Mobile
 - 📍 **Location:** San Francisco Bay Area
 - 🕒 **Posted:** 2026-09-23
 
-### [Systems Development Engineer, AWS Generative AI & ML Servers](https://www.linkedin.com/jobs/view/4471123597/) — Amazon Web Services (AWS)
-- 📍 **Location:** Cupertino, CA
+### [Full Stack Engineer / React / Node / Go](https://www.linkedin.com/jobs/view/4469342826/) — Oscar
+- 📍 **Location:** San Francisco County, CA
+- 💰 **Salary:** $150,000.00/yr - $180,000.00/yr
 - 🕒 **Posted:** 2026-09-23
 
-### [AI Infrastructure Engineer - GPU Platform](https://www.linkedin.com/jobs/view/4469052543/) — Maxonic Inc.
-- 📍 **Location:** San Jose, CA
+### [Software Engineer, Scribe AI](https://www.linkedin.com/jobs/view/4471134237/) — Commure
+- 📍 **Location:** Mountain View, CA
+- 💰 **Salary:** $130,000.00/yr - $180,000.00/yr
 - 🕒 **Posted:** 2026-09-23
 
-### [Machine Learning Engineer](https://www.linkedin.com/jobs/view/4471113657/) — Ramp
-- 📍 **Location:** New York, NY
+### [(USA) Software Engineer III](https://www.linkedin.com/jobs/view/4469359630/) — Walmart
+- 📍 **Location:** Sunnyvale, CA
+- 💰 **Salary:** $117,000.00/yr - $234,000.00/yr
 - 🕒 **Posted:** 2026-09-23
 
-### [Applied Scientist](https://www.linkedin.com/jobs/view/4471122627/) — Audible
-- 📍 **Location:** Newark, NJ
+### [Full Stack Engineer](https://www.linkedin.com/jobs/view/4469618117/) — PURVIEW
+- 📍 **Location:** Queens, NY
 - 🕒 **Posted:** 2026-09-23
 
-### [Data Scientist](https://www.linkedin.com/jobs/view/4464117913/) — Healthfirst
-- 📍 **Location:** New York, NY
+### [Social Media Analyst/Data Scientist](https://www.linkedin.com/jobs/view/4469600767/) — Catapult Solutions Group
+- 📍 **Location:** Mountain View, CA
+- 💰 **Salary:** $60.00/hr - $70.00/hr
 - 🕒 **Posted:** 2026-09-23
 
-### [Applied Scientist III, Demand Technology, Amazon Demand Side Platform, Bravo Non-endemic](https://www.linkedin.com/jobs/view/4471126548/) — Amazon
-- 📍 **Location:** New York, NY
+### [Software Engineer AV HIL Platform and Services (Early Career))](https://www.linkedin.com/jobs/view/4471134243/) — General Motors
+- 📍 **Location:** Sunnyvale, CA
 - 🕒 **Posted:** 2026-09-23
 
-### [Software Engineer, Data Platform](https://www.linkedin.com/jobs/view/4469342658/) — Block
-- 📍 **Location:** San Francisco, CA
+### [Software Engineer, Voice Agents](https://www.linkedin.com/jobs/view/4471138008/) — Commure
+- 📍 **Location:** Mountain View, CA
+- 💰 **Salary:** $130,000.00/yr - $180,000.00/yr
 - 🕒 **Posted:** 2026-09-23
 
-### [Frontend Developer](https://www.linkedin.com/jobs/view/4471108957/) — High Trail
-- 📍 **Location:** Palo Alto, CA
-- 💰 **Salary:** $160,000.00/yr - $200,000.00/yr
+### [Embedded Software Engineer, Drive-By-Wire](https://www.linkedin.com/jobs/view/4458311121/) — Gatik
+- 📍 **Location:** Santa Clara, CA
+- 💰 **Salary:** $160,000.00/yr - $260,000.00/yr
 - 🕒 **Posted:** 2026-09-23
 
-### [Software Engineer](https://www.linkedin.com/jobs/view/4469615334/) — Wise Equation Solutions Inc.
-- 📍 **Location:** Fremont, CA
+### [Automation & Robotics Engineering Spring Co-op](https://www.linkedin.com/jobs/view/4471132416/) — Johnson & Johnson
+- 📍 **Location:** Santa Clara, CA
 - 🕒 **Posted:** 2026-09-23
 
-### [Backend developer - remote](https://www.linkedin.com/jobs/view/4469497768/) — JSR Tech Consulting
-- 📍 **Location:** Newark, NJ
+### [2027 Summer Intern, MS/PhD, Road Understanding, ML Engineer](https://www.linkedin.com/jobs/view/4469496963/) — Waymo
+- 📍 **Location:** Mountain View, CA
 - 🕒 **Posted:** 2026-09-23
 
-### [Infrastructure Engineer - Advanced](https://www.linkedin.com/jobs/view/4471118554/) — Korn Ferry
-- 📍 **Location:** Jersey City, NJ
-- 💰 **Salary:** $55.00/hr - $65.00/hr
-- 🕒 **Posted:** 2026-09-23
-
-### [Middleware Infrastructure Engineer](https://www.linkedin.com/jobs/view/4469349624/) — Akkodis
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $140,000.00/yr - $170,000.00/yr
+### [2027 Summer Intern, MS/PhD, Software Engineer](https://www.linkedin.com/jobs/view/4469605654/) — Waymo
+- 📍 **Location:** Mountain View, CA
 - 🕒 **Posted:** 2026-09-23
