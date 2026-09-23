@@ -1,48 +1,52 @@
 # 🟦 Indeed — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-09-22 22:25 UTC*
+*Last updated: 2026-09-23 00:55 UTC*
 
-**9 new role(s)** since last run · 75 total in last 24h
+**10 new role(s)** since last run · 70 total in last 24h
 
-### [Android Software Developer](https://www.indeed.com/viewjob?jk=cae13cccca1996e7) — Mercedes-Benz Group
-- 📍 **Location:** San Jose, CA, US
-- 💰 **Salary:** $118k–$148k/yr
+### [Data Scientist II, Device Economics](https://www.indeed.com/viewjob?jk=7ca1f68ff61c24c3) — Amazon.com
+- 📍 **Location:** Sunnyvale, CA, US
+- 💰 **Salary:** $136k–$213k/yr
 - 🕒 **Posted:** 2026-09-22
 
-### [Fullstack Software Engineer, Child Safety Tools & Systems](https://www.indeed.com/viewjob?jk=39806f62c46e5359) — OpenAI
+### [Marketing Data Scientist](https://www.indeed.com/viewjob?jk=2c0283f7d5fb7676) — SoFi
 - 📍 **Location:** San Francisco, CA, US
-- 💰 **Salary:** $266k–$385k/yr
 - 🕒 **Posted:** 2026-09-22
 
-### [Software Engineer](https://www.indeed.com/viewjob?jk=effacccf0eace1a7) — J2B GLOBAL LLC
-- 📍 **Location:** Santa Clara, CA, US
+### [Embedded Software Engineer](https://www.indeed.com/viewjob?jk=28d3e1ee62d39930) — nuro
+- 📍 **Location:** Mountain View, CA, US
+- 💰 **Salary:** $146k–$219k/yr
 - 🕒 **Posted:** 2026-09-22
 
-### [Associate Software Engineer](https://www.indeed.com/viewjob?jk=609b734aaa232028) — Point Digital Finance
+### [Software Engineer - Defense Practice](https://www.indeed.com/viewjob?jk=d71ebac18035f77f) — Unknown
 - 📍 **Location:** San Francisco, CA, US
-- 💰 **Salary:** $139k–$153k/yr
 - 🕒 **Posted:** 2026-09-22
 
-### [Computational Biologist - Academic Graduate Appointee](https://www.indeed.com/viewjob?jk=daad33a8ef221bc6) — Lawrence Livermore National Laboratory
-- 📍 **Location:** Livermore, CA, US
-- 💰 **Salary:** $6748–$7718/mo
+### [(USA) Software Engineer III](https://www.indeed.com/viewjob?jk=e610d1a9c34a1148) — Walmart
+- 📍 **Location:** Sunnyvale, CA, US
+- 💰 **Salary:** $117k–$234k/yr
 - 🕒 **Posted:** 2026-09-22
 
-### [Software Engineer III - AI Research](https://www.indeed.com/viewjob?jk=63e71b442ecc0ca6) — JPMorganChase
-- 📍 **Location:** Jersey City, NJ, US
-- 💰 **Salary:** $138k–$185k/yr
-- 🕒 **Posted:** 2026-09-22
-
-### [Software Engineer III](https://www.indeed.com/viewjob?jk=b4af88c030f9ccd5) — JPMorganChase
+### [Applied Scientist II, Advertising Incrementality Measurement](https://www.indeed.com/viewjob?jk=808760bb524a4821) — Amazon.com
 - 📍 **Location:** New York, NY, US
-- 💰 **Salary:** $138k–$185k/yr
+- 💰 **Salary:** $172k–$223k/yr
+- 🕒 **Posted:** 2026-09-16
+
+### [Software Engineer, Applied AI](https://www.indeed.com/viewjob?jk=8a1956748a4257d6) — REBAR
+- 📍 **Location:** New York, NY, US
+- 💰 **Salary:** $150k–$250k/yr
 - 🕒 **Posted:** 2026-09-22
 
-### [Software Engineer III - AI/ML Platform Engineer](https://www.indeed.com/viewjob?jk=903dd015fa528592) — JPMorganChase
-- 📍 **Location:** Jersey City, NJ, US
-- 💰 **Salary:** $138k–$185k/yr
+### [Software Engineer– Tungsten TotalAgility (Hybrid - Newark, NJ or Edgewood, NY)](https://www.indeed.com/viewjob?jk=fc07146ac3b12655) — Broadridge
+- 📍 **Location:** Newark, NJ, US
+- 💰 **Salary:** $140k–$150k/yr
 - 🕒 **Posted:** 2026-09-22
 
-### [Software Engineer III](https://www.indeed.com/viewjob?jk=d8ecba9353ab7706) — JPMorganChase
+### [Full Stack Engineer](https://www.indeed.com/viewjob?jk=101251186a0a242a) — Capgemini
+- 📍 **Location:** New York, NY, US
+- 💰 **Salary:** $85k–$97k/yr
+- 🕒 **Posted:** 2026-09-22
+
+### [Software Developer](https://www.indeed.com/viewjob?jk=750c0d414d383dac) — Imperial Brady
 - 📍 **Location:** Jersey City, NJ, US
-- 💰 **Salary:** $138k–$185k/yr
+- 💰 **Salary:** $100k–$120k/yr
 - 🕒 **Posted:** 2026-09-22
