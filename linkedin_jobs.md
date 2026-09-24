@@ -1,56 +1,88 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-09-24 21:18 UTC*
+*Last updated: 2026-09-24 22:18 UTC*
 
-**12 new role(s)** since last run · 40 total in last 1h
+**19 new role(s)** since last run · 30 total in last 1h
 
-### [Software Engineer (CV/ML)](https://www.linkedin.com/jobs/view/4471683382/) — Tailored Management
-- 📍 **Location:** Sunnyvale, CA
-- 💰 **Salary:** $95.00/hr - $100.00/hr
+### [Backend Engineer, Applied AI](https://www.linkedin.com/jobs/view/4470047018/) — Citizen
+- 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-09-24
 
-### [AI Native Software Engineer (All Levels)](https://www.linkedin.com/jobs/view/4470029713/) — Larridin, Inc.
+### [AI Platform Architect with GCP](https://www.linkedin.com/jobs/view/4471690654/) — Envision Technology Solutions
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-09-24
+
+### [Junior Full Stack Engineer](https://www.linkedin.com/jobs/view/4470036601/) — GenNXT
 - 📍 **Location:** San Francisco Bay Area
 - 🕒 **Posted:** 2026-09-24
 
-### [Software Engineer](https://www.linkedin.com/jobs/view/4471689023/) — Aditi Consulting
-- 📍 **Location:** Sunnyvale, CA
-- 💰 **Salary:** $90.00/hr - $95.00/hr
-- 🕒 **Posted:** 2026-09-24
-
-### [AI-Native Software Engineer, Cloud (AWS)](https://www.linkedin.com/jobs/view/4470042116/) — Tekgence Inc
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-09-24
-
-### [Software Engineer (Metrology Systems)](https://www.linkedin.com/jobs/view/4469792117/) — KLA
-- 📍 **Location:** Milpitas, CA
-- 🕒 **Posted:** 2026-09-24
-
-### [Software Engineer](https://www.linkedin.com/jobs/view/4470026780/) — Applied Materials
-- 📍 **Location:** Santa Clara County, CA
-- 🕒 **Posted:** 2026-09-24
-
-### [Software Engineer](https://www.linkedin.com/jobs/view/4470037478/) — Xcede
+### [AI Research Engineer](https://www.linkedin.com/jobs/view/4471696173/) — TTN Talent
 - 📍 **Location:** San Francisco Bay Area
-- 💰 **Salary:** $160,000.00/yr - $200,000.00/yr
+- 💰 **Salary:** $200,000.00/yr - $400,000.00/yr
 - 🕒 **Posted:** 2026-09-24
 
-### [Software Engineer](https://www.linkedin.com/jobs/view/4469771893/) — NetApp
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-09-24
-
-### [Software Engineer Intern, Mobile (Winter 2027)](https://www.linkedin.com/jobs/view/4471697056/) — Notion
+### [Software Engineer](https://www.linkedin.com/jobs/view/4469679583/) — Autodesk
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-09-24
 
-### [Software Engineer III - Full Stack/Java/ React](https://www.linkedin.com/jobs/view/4471678555/) — JPMorganChase
-- 📍 **Location:** Palo Alto, CA
-- 💰 **Salary:** $137,750.00/yr - $185,000.00/yr
+### [Software Engineer, Scheduled Tasks](https://www.linkedin.com/jobs/view/4471681769/) — Vercel
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-09-24
 
-### [Software Developer, Network Software Intern (Winter 2027)](https://www.linkedin.com/jobs/view/4470029750/) — Astranis Space Technologies
+### [Simulation CV/ML Engineer](https://www.linkedin.com/jobs/view/4470047001/) — Intelliswift - An LTTS Company
+- 📍 **Location:** Sunnyvale, CA
+- 💰 **Salary:** $85.00/hr - $95.00/hr
+- 🕒 **Posted:** 2026-09-24
+
+### [Software Developer, Network Software Associate (Summer 2027)](https://www.linkedin.com/jobs/view/4470034595/) — Astranis Space Technologies
 - 📍 **Location:** San Francisco Bay Area
 - 🕒 **Posted:** 2026-09-24
 
-### [Full Stack Engineer](https://www.linkedin.com/jobs/view/4470029697/) — Turbo AI
+### [Embedded Computer Vision & Machine Learning Engineer](https://www.linkedin.com/jobs/view/4470037586/) — Intelliswift - An LTTS Company
+- 📍 **Location:** Sunnyvale, CA
+- 💰 **Salary:** $85.00/yr - $95.00/yr
+- 🕒 **Posted:** 2026-09-24
+
+### [Software Developer, Network Software Intern (Summer 2027)](https://www.linkedin.com/jobs/view/4470025733/) — Astranis Space Technologies
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-09-24
+
+### [2027 Summer Intern, PhD, Software Engineer, Simulation](https://www.linkedin.com/jobs/view/4470022954/) — Waymo
+- 📍 **Location:** Mountain View, CA
+- 🕒 **Posted:** 2026-09-24
+
+### [Computational Scientist](https://www.linkedin.com/jobs/view/4470029780/) — Aequor
+- 📍 **Location:** South San Francisco, CA
+- 💰 **Salary:** $52.00/hr - $54.00/hr
+- 🕒 **Posted:** 2026-09-24
+
+### [Computational Scientist - Human Genetics](https://www.linkedin.com/jobs/view/4470034716/) — Software Guidance & Assistance, Inc. (SGA, Inc.)
+- 📍 **Location:** South San Francisco, CA
+- 💰 **Salary:** $21.13/hr - $56.91/hr
+- 🕒 **Posted:** 2026-09-24
+
+### [Data Scientist - Client Platform](https://www.linkedin.com/jobs/view/4470035758/) — Discord
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-09-24
+
+### [Software Developer, Network Software Associate (Winter 2027)](https://www.linkedin.com/jobs/view/4470023831/) — Astranis Space Technologies
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-09-24
+
+### [iOS Engineer, Applied AI](https://www.linkedin.com/jobs/view/4470022951/) — Citizen
 - 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-09-24
+
+### [Mainframe z/OS Infrastructure Engineer II](https://www.linkedin.com/jobs/view/4471802114/) — Bank of America
+- 📍 **Location:** Jersey City, NJ
+- 💰 **Salary:** $104,200.00/yr - $155,300.00/yr
+- 🕒 **Posted:** 2026-09-24
+
+### [Infrastructure Management Platform Engineer](https://www.linkedin.com/jobs/view/4471680935/) — Bank of America
+- 📍 **Location:** Jersey City, NJ
+- 💰 **Salary:** $108,100.00/yr - $165,200.00/yr
+- 🕒 **Posted:** 2026-09-24
+
+### [Middleware Infrastructure Engineer](https://www.linkedin.com/jobs/view/4469349624/) — Akkodis
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $140,000.00/yr - $170,000.00/yr
 - 🕒 **Posted:** 2026-09-24
