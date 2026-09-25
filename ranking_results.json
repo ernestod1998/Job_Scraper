@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-09-25T20:33:51.634191+00:00",
+  "updated_at": "2026-09-25T20:39:34.190064+00:00",
   "day": "2026-09-25",
   "context": "3ba40bc7f768802deaea5fdb4539ae6756b2ad705c2a79069ac6f13a206750ea",
   "scores": {
@@ -222485,6 +222485,864 @@
         }
       },
       "scored_at": "2026-09-25T20:00:39.157596+00:00"
+    },
+    "https://www.linkedin.com/jobs/view/4453505721/": {
+      "url": "https://www.linkedin.com/jobs/view/4453505721/",
+      "context": "3ba40bc7f768802deaea5fdb4539ae6756b2ad705c2a79069ac6f13a206750ea",
+      "description_hash": "13c08059414e77e70f29acc122dfcd50c0044ebe7f58b29a6d134ceb7e2e627a",
+      "status": "valid",
+      "luna": {
+        "model": "gpt-5.6-luna",
+        "scores": {
+          "BioScience_ML": 68,
+          "ML": 68,
+          "DS": 68,
+          "SWE": 68,
+          "FDE": 68,
+          "Research_Software_Engineer": 68
+        },
+        "best_resumes": [
+          "BioScience_ML",
+          "DS",
+          "FDE",
+          "ML",
+          "Research_Software_Engineer",
+          "SWE"
+        ],
+        "requirements": [
+          {
+            "text": "A bachelor’s degree in Machine Learning, Robotics, or Computer Science. 3+ years of professional experience in Machine Learning and/or Computer Vision.",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "matched",
+              "FDE": "matched",
+              "Research_Software_Engineer": "matched"
+            }
+          },
+          {
+            "text": "A bachelor’s degree in Machine Learning, Robotics, or Computer Science. 3+ years of professional experience in Machine Learning and/or Computer Vision.",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "matched",
+              "FDE": "matched",
+              "Research_Software_Engineer": "matched"
+            }
+          },
+          {
+            "text": "Proven, hands-on experience applying active learning in production environments.",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "not_evidenced",
+              "ML": "not_evidenced",
+              "DS": "not_evidenced",
+              "SWE": "not_evidenced",
+              "FDE": "not_evidenced",
+              "Research_Software_Engineer": "not_evidenced"
+            }
+          },
+          {
+            "text": "Strong expertise in building large-scale ML data pipelines (mining, extraction, auto-labeling, ingestion).",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial",
+              "Research_Software_Engineer": "partial"
+            }
+          },
+          {
+            "text": "Deep understanding of data curation—balancing, core set selection, and sampling—to optimize model performance.",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial",
+              "Research_Software_Engineer": "partial"
+            }
+          },
+          {
+            "text": "Proficiency in Python and deep learning frameworks (PyTorch or JAX).",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "matched",
+              "FDE": "matched",
+              "Research_Software_Engineer": "matched"
+            }
+          },
+          {
+            "text": "Strong software engineering skills for writing robust, production-ready code.",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "matched",
+              "FDE": "matched",
+              "Research_Software_Engineer": "matched"
+            }
+          },
+          {
+            "text": "An advanced degree (MS or PhD) in Machine Learning, Robotics, or Computer Science.",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial",
+              "Research_Software_Engineer": "partial"
+            }
+          },
+          {
+            "text": "A record of publications at top-tier conferences (e.g., CVPR, ICCV, ECCV, ICML, ICLR, NeurIPS, IROS, RSS, AAAI, IJCV, PAMI).",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "not_evidenced",
+              "ML": "not_evidenced",
+              "DS": "not_evidenced",
+              "SWE": "not_evidenced",
+              "FDE": "not_evidenced",
+              "Research_Software_Engineer": "not_evidenced"
+            }
+          },
+          {
+            "text": "Experience with C++",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "matched",
+              "FDE": "matched",
+              "Research_Software_Engineer": "matched"
+            }
+          },
+          {
+            "text": "Experience building data-centric infrastructure from the ground up to accelerate model iteration cycles.",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial",
+              "Research_Software_Engineer": "partial"
+            }
+          }
+        ],
+        "usage": {
+          "input": 9695,
+          "output": 5452,
+          "thinking": 827,
+          "cached": 0,
+          "cache_write": 9692,
+          "cost": 8966000
+        }
+      },
+      "scored_at": "2026-09-25T20:00:39.157596+00:00"
+    },
+    "https://www.linkedin.com/jobs/view/4292594547/": {
+      "url": "https://www.linkedin.com/jobs/view/4292594547/",
+      "context": "3ba40bc7f768802deaea5fdb4539ae6756b2ad705c2a79069ac6f13a206750ea",
+      "description_hash": "4000a44036ba240ebd8fcfb7c8c2524abb99352f4d6de61cd4cef9ef763f6cb0",
+      "status": "valid",
+      "luna": {
+        "model": "gpt-5.6-luna",
+        "scores": {
+          "BioScience_ML": 50,
+          "ML": 50,
+          "DS": 50,
+          "SWE": 50,
+          "FDE": 50,
+          "Research_Software_Engineer": 50
+        },
+        "best_resumes": [
+          "BioScience_ML",
+          "DS",
+          "FDE",
+          "ML",
+          "Research_Software_Engineer",
+          "SWE"
+        ],
+        "requirements": [
+          {
+            "text": "We’re looking for an experienced backend engineer to build and scale an automated system to manage a variety of Security Analyst tasks. We aim to verify and neutralize threats in minutes using AI-driven automation. A few examples of the work we’ve done recently:",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "matched",
+              "FDE": "matched",
+              "Research_Software_Engineer": "matched"
+            }
+          },
+          {
+            "text": "As part of our SF team (in-office min 3x/week), you’ll:",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "not_evidenced",
+              "ML": "not_evidenced",
+              "DS": "not_evidenced",
+              "SWE": "not_evidenced",
+              "FDE": "not_evidenced",
+              "Research_Software_Engineer": "not_evidenced"
+            }
+          }
+        ],
+        "usage": {
+          "input": 9430,
+          "output": 1886,
+          "thinking": 1034,
+          "cached": 0,
+          "cache_write": 9427,
+          "cost": 4620550
+        }
+      },
+      "scored_at": "2026-09-25T20:00:39.157596+00:00"
+    },
+    "https://www.linkedin.com/jobs/view/4461640998/": {
+      "url": "https://www.linkedin.com/jobs/view/4461640998/",
+      "context": "3ba40bc7f768802deaea5fdb4539ae6756b2ad705c2a79069ac6f13a206750ea",
+      "description_hash": "44361e1e806d2703ec64b336ce6ee5f775226b905bd24f68200962e989bacac7",
+      "status": "valid",
+      "luna": {
+        "model": "gpt-5.6-luna",
+        "scores": {
+          "BioScience_ML": 54,
+          "ML": 54,
+          "DS": 54,
+          "SWE": 54,
+          "FDE": 54,
+          "Research_Software_Engineer": 54
+        },
+        "best_resumes": [
+          "BioScience_ML",
+          "DS",
+          "FDE",
+          "ML",
+          "Research_Software_Engineer",
+          "SWE"
+        ],
+        "requirements": [
+          {
+            "text": "Bachelor’s with 4+ years or Master’s degree with 2+ in Electrical Engineering, Computer Science, Data Science, Statistics, Artificial Intelligence, or a related field.",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "matched",
+              "FDE": "matched",
+              "Research_Software_Engineer": "matched"
+            }
+          },
+          {
+            "text": "Minimum 2 years of hands-on experience developing and deploying AI applications in semiconductors, electronics, or other engineering industries.",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial",
+              "Research_Software_Engineer": "partial"
+            }
+          },
+          {
+            "text": "Strong programming proficiency in Python.",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "matched",
+              "FDE": "matched",
+              "Research_Software_Engineer": "matched"
+            }
+          },
+          {
+            "text": "Familiarity with modern AI coding tools / agentic coding harnesses, such as Claude Code, Cursor, Gemini CLI, or similar tools.",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "not_evidenced",
+              "ML": "not_evidenced",
+              "DS": "not_evidenced",
+              "SWE": "not_evidenced",
+              "FDE": "not_evidenced",
+              "Research_Software_Engineer": "not_evidenced"
+            }
+          },
+          {
+            "text": "Practical experience building and launching AI/ML systems involving LLMs, including RAG, agentic workflows, and frameworks.",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial",
+              "Research_Software_Engineer": "partial"
+            }
+          },
+          {
+            "text": "Experience building agentic systems or AI solutions for ASIC semiconductor pre-silicon and post-silicon workflows.",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "not_evidenced",
+              "ML": "not_evidenced",
+              "DS": "not_evidenced",
+              "SWE": "not_evidenced",
+              "FDE": "not_evidenced",
+              "Research_Software_Engineer": "not_evidenced"
+            }
+          },
+          {
+            "text": "Deep understanding of semiconductor-specific AI/ML applications",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "not_evidenced",
+              "ML": "not_evidenced",
+              "DS": "not_evidenced",
+              "SWE": "not_evidenced",
+              "FDE": "not_evidenced",
+              "Research_Software_Engineer": "not_evidenced"
+            }
+          },
+          {
+            "text": "Cloud experience with GCP, AWS, or Azure, including deploying ML pipelines in production.",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "matched",
+              "FDE": "matched",
+              "Research_Software_Engineer": "matched"
+            }
+          },
+          {
+            "text": "Experience with LLM training, inference, and evaluation workflows, including prompt design, benchmarking, validation, or retrieval-augmented systems.",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial",
+              "Research_Software_Engineer": "partial"
+            }
+          },
+          {
+            "text": "Experience with data analytics and visualization to deliver actionable engineering insights using tools and libraries such as pandas, scikit-learn, matplotlib, plotly, or similar ecosystems.",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial",
+              "Research_Software_Engineer": "partial"
+            }
+          },
+          {
+            "text": "Experience with web application technologies such as JavaScript, HTML, and CSS.",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "not_evidenced",
+              "ML": "not_evidenced",
+              "DS": "not_evidenced",
+              "SWE": "not_evidenced",
+              "FDE": "not_evidenced",
+              "Research_Software_Engineer": "not_evidenced"
+            }
+          },
+          {
+            "text": "Experience designing scalable, enterprise-grade AI/ML systems with attention to reliability, traceability, and operational readiness.",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial",
+              "Research_Software_Engineer": "partial"
+            }
+          },
+          {
+            "text": "Familiarity with document-processing pipelines, technical knowledge platforms, or retrieval systems for engineering content.",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "matched",
+              "FDE": "matched",
+              "Research_Software_Engineer": "matched"
+            }
+          },
+          {
+            "text": "Experience working in cross-functional environments spanning systems architecture, engineering, data science, and IT.",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial",
+              "Research_Software_Engineer": "partial"
+            }
+          }
+        ],
+        "usage": {
+          "input": 10416,
+          "output": 6679,
+          "thinking": 1279,
+          "cached": 0,
+          "cache_write": 10413,
+          "cost": 10618650
+        }
+      },
+      "scored_at": "2026-09-25T20:00:39.157596+00:00"
+    },
+    "https://www.linkedin.com/jobs/view/4356418389/": {
+      "url": "https://www.linkedin.com/jobs/view/4356418389/",
+      "context": "3ba40bc7f768802deaea5fdb4539ae6756b2ad705c2a79069ac6f13a206750ea",
+      "description_hash": "bf6c749e10b9b60474a382f4f4d5ad58d7775138db8600062cbe632b53e8ae93",
+      "status": "valid",
+      "luna": {
+        "model": "gpt-5.6-luna",
+        "scores": {
+          "BioScience_ML": 48,
+          "ML": 48,
+          "DS": 48,
+          "SWE": 54,
+          "FDE": 54,
+          "Research_Software_Engineer": 48
+        },
+        "best_resumes": [
+          "FDE",
+          "SWE"
+        ],
+        "requirements": [
+          {
+            "text": "B.S., M.S., or PhD. in Computer Science or equivalent.",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "matched",
+              "FDE": "matched",
+              "Research_Software_Engineer": "matched"
+            }
+          },
+          {
+            "text": "2+ years of industry experience at our I4 level, 5+ years of industry experience at our I5 level",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial",
+              "Research_Software_Engineer": "partial"
+            }
+          },
+          {
+            "text": "Proficiency in using AI coding tools (e.g., Claude Code, Codex, Cursor) in the full software development lifecycle, including designing, generating code, testing, monitoring and releasing software",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "not_evidenced",
+              "ML": "not_evidenced",
+              "DS": "not_evidenced",
+              "SWE": "partial",
+              "FDE": "partial",
+              "Research_Software_Engineer": "not_evidenced"
+            }
+          },
+          {
+            "text": "Experience working on big data domains (streaming, batch, data lake OLAP) and promoting realtime insights and data analytics at scale using technologies such as Apache Kafka, Flink, Spark,, Cassandra,, Clickhouse, Iceberg etc.",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial",
+              "Research_Software_Engineer": "partial"
+            }
+          },
+          {
+            "text": "Prior technical experience in Big Data infrastructure & governance - you've built meaningful pieces of data infrastructure. Bonus if those were open-sourced technologies like DataHub, Spark, Airflow, Kafka, Flink",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial",
+              "Research_Software_Engineer": "partial"
+            }
+          },
+          {
+            "text": "Experience improving efficiency, scalability, and stability of data platforms",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "not_evidenced",
+              "ML": "not_evidenced",
+              "DS": "not_evidenced",
+              "SWE": "not_evidenced",
+              "FDE": "not_evidenced",
+              "Research_Software_Engineer": "not_evidenced"
+            }
+          },
+          {
+            "text": "You will bring your expertise in building and operating high scale systems with a focus on reliability, scalability and cost efficiency.",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial",
+              "Research_Software_Engineer": "partial"
+            }
+          },
+          {
+            "text": "Prior technical experience in Big Data infrastructure & governance - you've built meaningful pieces of data infrastructure. Bonus if those were open-sourced technologies like DataHub, Spark, Airflow, Kafka, Flink",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "not_evidenced",
+              "ML": "not_evidenced",
+              "DS": "not_evidenced",
+              "SWE": "not_evidenced",
+              "FDE": "not_evidenced",
+              "Research_Software_Engineer": "not_evidenced"
+            }
+          },
+          {
+            "text": "The Data Platform team spans data mobility frameworks, ingestion, infrastructure, tools, and governance. Together, they design and operate scalable compute and ingestion frameworks using technologies such as Spark, Flink, Kafka, Airflow, and modern lakehouse solutions, while also building abstractions and tools that simplify data workflows for engineers, analysts, and ML practitioners. In parallel, these teams establish strong data quality, cataloging, privacy, and compliance standards to ensure trust in analytics and regulatory adherence. As relatively high-impact teams, they offer engineers the opportunity to shape the roadmap, influence core platform decisions, and directly enable DoorDash’s business-critical insights and real-time personalization capabilities. You must be located in San Francisco, CA, Sunnyvale, CA, Seattle, WA, or New York, NY.",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "matched",
+              "FDE": "matched",
+              "Research_Software_Engineer": "matched"
+            }
+          }
+        ],
+        "usage": {
+          "input": 10753,
+          "output": 5473,
+          "thinking": 1118,
+          "cached": 0,
+          "cache_write": 10750,
+          "cost": 9255700
+        }
+      },
+      "scored_at": "2026-09-25T20:00:39.157596+00:00"
+    },
+    "https://www.linkedin.com/jobs/view/4470308152/": {
+      "url": "https://www.linkedin.com/jobs/view/4470308152/",
+      "context": "3ba40bc7f768802deaea5fdb4539ae6756b2ad705c2a79069ac6f13a206750ea",
+      "description_hash": "f15f854838ffe4ba5019926fe1cfde0fc32df4154007db7623c273eabedd7ce5",
+      "status": "valid",
+      "luna": {
+        "model": "gpt-5.6-luna",
+        "scores": {
+          "BioScience_ML": 35,
+          "ML": 35,
+          "DS": 35,
+          "SWE": 35,
+          "FDE": 35,
+          "Research_Software_Engineer": 35
+        },
+        "best_resumes": [
+          "BioScience_ML",
+          "DS",
+          "FDE",
+          "ML",
+          "Research_Software_Engineer",
+          "SWE"
+        ],
+        "requirements": [
+          {
+            "text": "6–14 years of full-stack and/or backend software engineering experience",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "confirmed_unmet",
+              "ML": "confirmed_unmet",
+              "DS": "confirmed_unmet",
+              "SWE": "confirmed_unmet",
+              "FDE": "confirmed_unmet",
+              "Research_Software_Engineer": "confirmed_unmet"
+            }
+          },
+          {
+            "text": "Experience at an early startup, high-growth technology company, or reputable tech company",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "not_evidenced",
+              "ML": "not_evidenced",
+              "DS": "not_evidenced",
+              "SWE": "not_evidenced",
+              "FDE": "not_evidenced",
+              "Research_Software_Engineer": "not_evidenced"
+            }
+          },
+          {
+            "text": "Computer Science degree or similar technical degree",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "matched",
+              "FDE": "matched",
+              "Research_Software_Engineer": "matched"
+            }
+          },
+          {
+            "text": "Strong proficiency in at least one of",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "matched",
+              "FDE": "matched",
+              "Research_Software_Engineer": "matched"
+            }
+          },
+          {
+            "text": "GCP, Kubernetes, Docker and/or Terraform",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "matched",
+              "FDE": "matched",
+              "Research_Software_Engineer": "matched"
+            }
+          }
+        ],
+        "usage": {
+          "input": 8916,
+          "output": 3280,
+          "thinking": 964,
+          "cached": 0,
+          "cache_write": 8913,
+          "cost": 6164850
+        }
+      },
+      "scored_at": "2026-09-25T20:00:39.157596+00:00"
+    },
+    "https://www.linkedin.com/jobs/view/4356438146/": {
+      "url": "https://www.linkedin.com/jobs/view/4356438146/",
+      "context": "3ba40bc7f768802deaea5fdb4539ae6756b2ad705c2a79069ac6f13a206750ea",
+      "description_hash": "bf6c749e10b9b60474a382f4f4d5ad58d7775138db8600062cbe632b53e8ae93",
+      "status": "valid",
+      "luna": {
+        "model": "gpt-5.6-luna",
+        "scores": {
+          "BioScience_ML": 56,
+          "ML": 56,
+          "DS": 56,
+          "SWE": 62,
+          "FDE": 62,
+          "Research_Software_Engineer": 56
+        },
+        "best_resumes": [
+          "FDE",
+          "SWE"
+        ],
+        "requirements": [
+          {
+            "text": "B.S., M.S., or PhD. in Computer Science or equivalent.",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "matched",
+              "FDE": "matched",
+              "Research_Software_Engineer": "matched"
+            }
+          },
+          {
+            "text": "2+ years of industry experience at our I4 level, 5+ years of industry experience at our I5 level",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial",
+              "Research_Software_Engineer": "partial"
+            }
+          },
+          {
+            "text": "Proficiency in using AI coding tools (e.g., Claude Code, Codex, Cursor) in the full software development lifecycle, including designing, generating code, testing, monitoring and releasing software",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "not_evidenced",
+              "ML": "not_evidenced",
+              "DS": "not_evidenced",
+              "SWE": "partial",
+              "FDE": "partial",
+              "Research_Software_Engineer": "not_evidenced"
+            }
+          },
+          {
+            "text": "You will bring your expertise in building and operating high scale systems with a focus on reliability, scalability and cost efficiency.",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial",
+              "Research_Software_Engineer": "partial"
+            }
+          },
+          {
+            "text": "Experience working on big data domains (streaming, batch, data lake OLAP) and promoting realtime insights and data analytics at scale using technologies such as Apache Kafka, Flink, Spark,, Cassandra,, Clickhouse, Iceberg etc.",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial",
+              "Research_Software_Engineer": "partial"
+            }
+          },
+          {
+            "text": "Prior technical experience in Big Data infrastructure & governance - you've built meaningful pieces of data infrastructure. Bonus if those were open-sourced technologies like DataHub, Spark, Airflow, Kafka, Flink",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial",
+              "Research_Software_Engineer": "partial"
+            }
+          },
+          {
+            "text": "Prior technical experience in Big Data infrastructure & governance - you've built meaningful pieces of data infrastructure. Bonus if those were open-sourced technologies like DataHub, Spark, Airflow, Kafka, Flink",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial",
+              "Research_Software_Engineer": "partial"
+            }
+          },
+          {
+            "text": "Experience improving efficiency, scalability, and stability of data platforms",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial",
+              "Research_Software_Engineer": "partial"
+            }
+          },
+          {
+            "text": "The Data Platform team spans data mobility frameworks, ingestion, infrastructure, tools, and governance. Together, they design and operate scalable compute and ingestion frameworks using technologies such as Spark, Flink, Kafka, Airflow, and modern lakehouse solutions, while also building abstractions and tools that simplify data workflows for engineers, analysts, and ML practitioners. In parallel, these teams establish strong data quality, cataloging, privacy, and compliance standards to ensure trust in analytics and regulatory adherence. As relatively high-impact teams, they offer engineers the opportunity to shape the roadmap, influence core platform decisions, and directly enable DoorDash’s business-critical insights and real-time personalization capabilities. You must be located in San Francisco, CA, Sunnyvale, CA, Seattle, WA, or New York, NY.",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "matched",
+              "FDE": "matched",
+              "Research_Software_Engineer": "matched"
+            }
+          }
+        ],
+        "usage": {
+          "input": 10753,
+          "output": 5237,
+          "thinking": 1434,
+          "cached": 0,
+          "cache_write": 10750,
+          "cost": 8972500
+        }
+      },
+      "scored_at": "2026-09-25T20:00:39.157596+00:00"
     }
   },
   "limits": {
@@ -222492,7 +223350,7 @@
     "sonnet": 10
   },
   "attempts_today": {
-    "luna": 42,
+    "luna": 48,
     "sonnet": 0
   }
 }
