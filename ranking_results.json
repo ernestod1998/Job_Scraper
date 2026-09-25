@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-09-25T20:00:39.850175+00:00",
+  "updated_at": "2026-09-25T20:06:12.751520+00:00",
   "day": "2026-09-25",
   "context": "3ba40bc7f768802deaea5fdb4539ae6756b2ad705c2a79069ac6f13a206750ea",
   "scores": {
@@ -215870,6 +215870,1142 @@
         }
       },
       "scored_at": "2026-09-24T19:58:30.916662+00:00"
+    },
+    "https://www.indeed.com/viewjob?jk=e4921c73022fab04": {
+      "url": "https://www.indeed.com/viewjob?jk=e4921c73022fab04",
+      "context": "3ba40bc7f768802deaea5fdb4539ae6756b2ad705c2a79069ac6f13a206750ea",
+      "description_hash": "c1f316970b1abc76ae7a9c3d4d363df01cf002e74c6da5f238f6f53d9a8ebf9d",
+      "status": "valid",
+      "luna": {
+        "model": "gpt-5.6-luna",
+        "scores": {
+          "BioScience_ML": 77,
+          "ML": 69,
+          "DS": 77,
+          "SWE": 69,
+          "FDE": 69,
+          "Research_Software_Engineer": 77
+        },
+        "best_resumes": [
+          "BioScience_ML",
+          "DS",
+          "Research_Software_Engineer"
+        ],
+        "requirements": [
+          {
+            "text": "To qualify you must have a B.S. in mathematics, biological sciences, computer science or related disciplines.",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "matched",
+              "FDE": "matched",
+              "Research_Software_Engineer": "matched"
+            }
+          },
+          {
+            "text": "Experience in Unix/Linux systems including HPC environments.",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial",
+              "Research_Software_Engineer": "partial"
+            }
+          },
+          {
+            "text": "Scripting languages: Python or Perl.",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "matched",
+              "FDE": "matched",
+              "Research_Software_Engineer": "matched"
+            }
+          },
+          {
+            "text": "Statistical packages: R (preferred) or Matlab.",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "not_evidenced",
+              "DS": "matched",
+              "SWE": "not_evidenced",
+              "FDE": "not_evidenced",
+              "Research_Software_Engineer": "matched"
+            }
+          },
+          {
+            "text": "*Qualified candidates must be able to effectively communicate with all levels of the organization.*",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial",
+              "Research_Software_Engineer": "partial"
+            }
+          }
+        ],
+        "usage": {
+          "input": 9692,
+          "output": 2196,
+          "thinking": 516,
+          "cached": 0,
+          "cache_write": 9689,
+          "cost": 5058050
+        }
+      },
+      "scored_at": "2026-09-25T20:00:39.157596+00:00"
+    },
+    "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Machine-Learning-Engineer_R172085": {
+      "status": "jd_unavailable",
+      "context": "3ba40bc7f768802deaea5fdb4539ae6756b2ad705c2a79069ac6f13a206750ea"
+    },
+    "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Francisco/Data-Scientist--Adobecom_R171757": {
+      "status": "jd_unavailable",
+      "context": "3ba40bc7f768802deaea5fdb4539ae6756b2ad705c2a79069ac6f13a206750ea"
+    },
+    "https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Jose-CA-USA/Principle-Software-Engineer---Systems-software_J-00348662": {
+      "status": "jd_unavailable",
+      "context": "3ba40bc7f768802deaea5fdb4539ae6756b2ad705c2a79069ac6f13a206750ea"
+    },
+    "https://www.linkedin.com/jobs/view/4470069781/": {
+      "url": "https://www.linkedin.com/jobs/view/4470069781/",
+      "context": "3ba40bc7f768802deaea5fdb4539ae6756b2ad705c2a79069ac6f13a206750ea",
+      "description_hash": "6d33b08200b267740e6b1cde73f62078d5b39a457221ec859704b453945c16ee",
+      "status": "valid",
+      "luna": {
+        "model": "gpt-5.6-luna",
+        "scores": {
+          "BioScience_ML": 55,
+          "ML": 55,
+          "DS": 53,
+          "SWE": 55,
+          "FDE": 61,
+          "Research_Software_Engineer": 61
+        },
+        "best_resumes": [
+          "FDE",
+          "Research_Software_Engineer"
+        ],
+        "requirements": [
+          {
+            "text": "Active US Security clearance, or eligibility and willingness to obtain a US Security clearance prior to start of internship",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "not_evidenced",
+              "ML": "not_evidenced",
+              "DS": "not_evidenced",
+              "SWE": "not_evidenced",
+              "FDE": "not_evidenced",
+              "Research_Software_Engineer": "not_evidenced"
+            }
+          },
+          {
+            "text": "Engineering background, preferred in fields such as Computer Science, Mathematics, Software Engineering, Physics, and Data Science",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "matched",
+              "FDE": "matched",
+              "Research_Software_Engineer": "matched"
+            }
+          },
+          {
+            "text": "Engineering background, preferred in fields such as Computer Science, Mathematics, Software Engineering, Physics, and Data Science",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "matched",
+              "FDE": "matched",
+              "Research_Software_Engineer": "matched"
+            }
+          },
+          {
+            "text": "Strong proficiency with one or more programming languages, such as Python, Java, Go, C++, TypeScript/JavaScript, or similar",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "matched",
+              "FDE": "matched",
+              "Research_Software_Engineer": "matched"
+            }
+          },
+          {
+            "text": "Must be planning on graduating in 2028. This should be your final internship before graduating",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "not_evidenced",
+              "ML": "not_evidenced",
+              "DS": "not_evidenced",
+              "SWE": "not_evidenced",
+              "FDE": "not_evidenced",
+              "Research_Software_Engineer": "not_evidenced"
+            }
+          },
+          {
+            "text": "Ability to continuously learn, work independently, and make decisions with minimal direction",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "not_evidenced",
+              "SWE": "partial",
+              "FDE": "matched",
+              "Research_Software_Engineer": "matched"
+            }
+          },
+          {
+            "text": "Confidence troubleshooting complex systems issues using observability tools and service logs",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial",
+              "Research_Software_Engineer": "partial"
+            }
+          },
+          {
+            "text": "Comfort with large-scale production systems and technologies — such as load balancing, monitoring, distributed systems, or configuration management",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial",
+              "Research_Software_Engineer": "partial"
+            }
+          },
+          {
+            "text": "Ability to identify and automate highly manual tasks, driving ongoing improvements within and across teams",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial",
+              "Research_Software_Engineer": "partial"
+            }
+          },
+          {
+            "text": "Eagerness to creatively solve technical problems using cloud infrastructure, storage systems, and other infrastructure tooling",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "matched",
+              "FDE": "matched",
+              "Research_Software_Engineer": "matched"
+            }
+          },
+          {
+            "text": "Ability to collaborate across teams of technical and non-technical individuals in a constantly evolving environment with dynamic objectives",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "matched",
+              "Research_Software_Engineer": "matched"
+            }
+          }
+        ],
+        "usage": {
+          "input": 10184,
+          "output": 5209,
+          "thinking": 1034,
+          "cached": 0,
+          "cache_write": 10181,
+          "cost": 8796650
+        }
+      },
+      "scored_at": "2026-09-25T20:00:39.157596+00:00"
+    },
+    "https://www.linkedin.com/jobs/view/4398460855/": {
+      "status": "invalid_or_unknown",
+      "context": "3ba40bc7f768802deaea5fdb4539ae6756b2ad705c2a79069ac6f13a206750ea"
+    },
+    "https://ancestry.wd501.myworkdayjobs.com/Careers/job/Remote/Machine-Learning-Engineer--Co-op_R003377": {
+      "status": "jd_unavailable",
+      "context": "3ba40bc7f768802deaea5fdb4539ae6756b2ad705c2a79069ac6f13a206750ea"
+    },
+    "https://www.indeed.com/viewjob?jk=947af76e2b9a213e": {
+      "url": "https://www.indeed.com/viewjob?jk=947af76e2b9a213e",
+      "context": "3ba40bc7f768802deaea5fdb4539ae6756b2ad705c2a79069ac6f13a206750ea",
+      "description_hash": "9d0337e67354afa0490ad9b2d6c80530f49a1f58c6f4107aede112bb5aed76ca",
+      "status": "valid",
+      "luna": {
+        "model": "gpt-5.6-luna",
+        "scores": {
+          "BioScience_ML": 25,
+          "ML": 25,
+          "DS": 25,
+          "SWE": 25,
+          "FDE": 25,
+          "Research_Software_Engineer": 25
+        },
+        "best_resumes": [
+          "BioScience_ML",
+          "DS",
+          "FDE",
+          "ML",
+          "Research_Software_Engineer",
+          "SWE"
+        ],
+        "requirements": [
+          {
+            "text": "* Advanced degree in computer science, mathematics, statistics, machine learning or equivalent quantitative field",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial",
+              "Research_Software_Engineer": "partial"
+            }
+          },
+          {
+            "text": "* 2\\+ years hands\\-on work experience in an applied/industry setting using Python and SQL to work efficiently at scale with large data sets, constructing empirical analysis, modeling, and compelling data visualizations",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial",
+              "Research_Software_Engineer": "partial"
+            }
+          },
+          {
+            "text": "* Experience formulating and solving loosely\\-defined optimization and/or measurement problems",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "not_evidenced",
+              "ML": "not_evidenced",
+              "DS": "not_evidenced",
+              "SWE": "not_evidenced",
+              "FDE": "not_evidenced",
+              "Research_Software_Engineer": "not_evidenced"
+            }
+          },
+          {
+            "text": "\\- Familiarity with economic methods/reasoning \\- casual thinking, incentive design, counterfactual frameworks \\- and an eagerness to continue to learn new econometric methodologies",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "not_evidenced",
+              "ML": "not_evidenced",
+              "DS": "not_evidenced",
+              "SWE": "not_evidenced",
+              "FDE": "not_evidenced",
+              "Research_Software_Engineer": "not_evidenced"
+            }
+          },
+          {
+            "text": "* Intellectual curiosity for what drives customer value and business outcomes",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "not_evidenced",
+              "ML": "not_evidenced",
+              "DS": "not_evidenced",
+              "SWE": "not_evidenced",
+              "FDE": "not_evidenced",
+              "Research_Software_Engineer": "not_evidenced"
+            }
+          },
+          {
+            "text": "* Comfort leading ambiguous projects projects from zero\\-to\\-one",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial",
+              "Research_Software_Engineer": "partial"
+            }
+          },
+          {
+            "text": "* Fluency in mathematical foundations of statistics, machine learning, and economics",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial",
+              "Research_Software_Engineer": "partial"
+            }
+          },
+          {
+            "text": "* Experience applying econometric methods at scale (structural modeling, observational causal inference techniques, etc.) to inform pricing/sales optimizations, investment decisions, experimentation science, and/or product optimizations in the digital media space",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "not_evidenced",
+              "ML": "not_evidenced",
+              "DS": "not_evidenced",
+              "SWE": "not_evidenced",
+              "FDE": "not_evidenced",
+              "Research_Software_Engineer": "not_evidenced"
+            }
+          },
+          {
+            "text": "* Experience with model monitoring, debugging, and long\\-term maintenance in production environments",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial",
+              "Research_Software_Engineer": "partial"
+            }
+          },
+          {
+            "text": "* Familiarity with financial/accounting metrics/methods",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "not_evidenced",
+              "ML": "not_evidenced",
+              "DS": "not_evidenced",
+              "SWE": "not_evidenced",
+              "FDE": "not_evidenced",
+              "Research_Software_Engineer": "not_evidenced"
+            }
+          }
+        ],
+        "usage": {
+          "input": 9878,
+          "output": 5180,
+          "thinking": 1267,
+          "cached": 0,
+          "cache_write": 9875,
+          "cost": 8685350
+        }
+      },
+      "scored_at": "2026-09-25T20:00:39.157596+00:00"
+    },
+    "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Full-Stack-Engineer-4--People-Tech--GenAI---Agentic-Systems--LangChain--LangGraph-_R1001896-1": {
+      "status": "jd_unavailable",
+      "context": "3ba40bc7f768802deaea5fdb4539ae6756b2ad705c2a79069ac6f13a206750ea"
+    },
+    "https://www.linkedin.com/jobs/view/4470088176/": {
+      "url": "https://www.linkedin.com/jobs/view/4470088176/",
+      "context": "3ba40bc7f768802deaea5fdb4539ae6756b2ad705c2a79069ac6f13a206750ea",
+      "description_hash": "6d33b08200b267740e6b1cde73f62078d5b39a457221ec859704b453945c16ee",
+      "status": "valid",
+      "luna": {
+        "model": "gpt-5.6-luna",
+        "scores": {
+          "BioScience_ML": 58,
+          "ML": 61,
+          "DS": 58,
+          "SWE": 61,
+          "FDE": 67,
+          "Research_Software_Engineer": 67
+        },
+        "best_resumes": [
+          "FDE",
+          "Research_Software_Engineer"
+        ],
+        "requirements": [
+          {
+            "text": "Active US Security clearance, or eligibility and willingness to obtain a US Security clearance prior to start of internship",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "not_evidenced",
+              "ML": "not_evidenced",
+              "DS": "not_evidenced",
+              "SWE": "not_evidenced",
+              "FDE": "not_evidenced",
+              "Research_Software_Engineer": "not_evidenced"
+            }
+          },
+          {
+            "text": "Engineering background, preferred in fields such as Computer Science, Mathematics, Software Engineering, Physics, and Data Science",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "matched",
+              "FDE": "matched",
+              "Research_Software_Engineer": "matched"
+            }
+          },
+          {
+            "text": "Strong proficiency with one or more programming languages, such as Python, Java, Go, C++, TypeScript/JavaScript, or similar",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "matched",
+              "FDE": "matched",
+              "Research_Software_Engineer": "matched"
+            }
+          },
+          {
+            "text": "Must be planning on graduating in 2028. This should be your final internship before graduating",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial",
+              "Research_Software_Engineer": "partial"
+            }
+          },
+          {
+            "text": "Ability to continuously learn, work independently, and make decisions with minimal direction",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "not_evidenced",
+              "ML": "partial",
+              "DS": "not_evidenced",
+              "SWE": "partial",
+              "FDE": "matched",
+              "Research_Software_Engineer": "matched"
+            }
+          },
+          {
+            "text": "Confidence troubleshooting complex systems issues using observability tools and service logs",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial",
+              "Research_Software_Engineer": "partial"
+            }
+          },
+          {
+            "text": "Comfort with large-scale production systems and technologies — such as load balancing, monitoring, distributed systems, or configuration management",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial",
+              "Research_Software_Engineer": "partial"
+            }
+          },
+          {
+            "text": "Ability to identify and automate highly manual tasks, driving ongoing improvements within and across teams",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial",
+              "Research_Software_Engineer": "partial"
+            }
+          },
+          {
+            "text": "Eagerness to creatively solve technical problems using cloud infrastructure, storage systems, and other infrastructure tooling",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "matched",
+              "FDE": "matched",
+              "Research_Software_Engineer": "matched"
+            }
+          },
+          {
+            "text": "Ability to collaborate across teams of technical and non-technical individuals in a constantly evolving environment with dynamic objectives",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "matched",
+              "Research_Software_Engineer": "matched"
+            }
+          }
+        ],
+        "usage": {
+          "input": 10181,
+          "output": 5067,
+          "thinking": 1180,
+          "cached": 0,
+          "cache_write": 10178,
+          "cost": 8625500
+        }
+      },
+      "scored_at": "2026-09-25T20:00:39.157596+00:00"
+    },
+    "https://www.linkedin.com/jobs/view/4470156821/": {
+      "url": "https://www.linkedin.com/jobs/view/4470156821/",
+      "context": "3ba40bc7f768802deaea5fdb4539ae6756b2ad705c2a79069ac6f13a206750ea",
+      "description_hash": "a4b664b59c30db5704720ef5c8cfae7861ef1b45258f53febbc0814fada8cad2",
+      "status": "valid",
+      "luna": {
+        "model": "gpt-5.6-luna",
+        "scores": {
+          "BioScience_ML": 43,
+          "ML": 38,
+          "DS": 38,
+          "SWE": 38,
+          "FDE": 38,
+          "Research_Software_Engineer": 43
+        },
+        "best_resumes": [
+          "BioScience_ML",
+          "Research_Software_Engineer"
+        ],
+        "requirements": [
+          {
+            "text": ", or a related quantitative field; Master's degree with significant relevant experience may also be considered.",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial",
+              "Research_Software_Engineer": "partial"
+            }
+          },
+          {
+            "text": "large-scale genetic/genomic data analysis",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "not_evidenced",
+              "ML": "not_evidenced",
+              "DS": "not_evidenced",
+              "SWE": "not_evidenced",
+              "FDE": "not_evidenced",
+              "Research_Software_Engineer": "not_evidenced"
+            }
+          },
+          {
+            "text": "using array- or sequence-based human genetic data.",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "not_evidenced",
+              "ML": "not_evidenced",
+              "DS": "not_evidenced",
+              "SWE": "not_evidenced",
+              "FDE": "not_evidenced",
+              "Research_Software_Engineer": "not_evidenced"
+            }
+          },
+          {
+            "text": "Experience analyzing molecular assay data such as",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "not_evidenced",
+              "ML": "not_evidenced",
+              "DS": "not_evidenced",
+              "SWE": "not_evidenced",
+              "FDE": "not_evidenced",
+              "Research_Software_Engineer": "not_evidenced"
+            }
+          },
+          {
+            "text": "Experience integrating genetic, genomic, molecular, and/or clinical data for multimodal analysis.",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial",
+              "Research_Software_Engineer": "partial"
+            }
+          },
+          {
+            "text": "Strong programming skills in",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial",
+              "Research_Software_Engineer": "matched"
+            }
+          },
+          {
+            "text": "Git/version control and high-performance computing environments",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial",
+              "Research_Software_Engineer": "partial"
+            }
+          },
+          {
+            "text": "Ability to work independently, make sound analytical decisions, meet deadlines, and communicate findings effectively.",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial",
+              "Research_Software_Engineer": "partial"
+            }
+          },
+          {
+            "text": "and multimodal data integration.",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "matched",
+              "FDE": "matched",
+              "Research_Software_Engineer": "matched"
+            }
+          },
+          {
+            "text": "Familiarity with",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "matched",
+              "FDE": "matched",
+              "Research_Software_Engineer": "matched"
+            }
+          },
+          {
+            "text": "Experience working with human genetics and disease biology.",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial",
+              "Research_Software_Engineer": "partial"
+            }
+          },
+          {
+            "text": "Experience in pharmaceutical, biotechnology, academic research, or other biomedical research environments.",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "matched",
+              "FDE": "matched",
+              "Research_Software_Engineer": "matched"
+            }
+          },
+          {
+            "text": "statistical genetics, genetic epidemiology, computational biology, or bioinformatics",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "not_evidenced",
+              "ML": "not_evidenced",
+              "DS": "not_evidenced",
+              "SWE": "not_evidenced",
+              "FDE": "not_evidenced",
+              "Research_Software_Engineer": "not_evidenced"
+            }
+          }
+        ],
+        "usage": {
+          "input": 9519,
+          "output": 4999,
+          "thinking": 499,
+          "cached": 0,
+          "cache_write": 9516,
+          "cost": 8378400
+        }
+      },
+      "scored_at": "2026-09-25T20:00:39.157596+00:00"
+    },
+    "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/AI-Engineer-4--Gen-AI-Platform-Services-_R1002056-1": {
+      "status": "jd_unavailable",
+      "context": "3ba40bc7f768802deaea5fdb4539ae6756b2ad705c2a79069ac6f13a206750ea"
+    },
+    "https://www.indeed.com/viewjob?jk=acdcf48b7568b4d3": {
+      "url": "https://www.indeed.com/viewjob?jk=acdcf48b7568b4d3",
+      "context": "3ba40bc7f768802deaea5fdb4539ae6756b2ad705c2a79069ac6f13a206750ea",
+      "description_hash": "3c4967de88456df78233549bc3d30e6143c48d0b8eae60f8aef29e0771ea3347",
+      "status": "valid",
+      "luna": {
+        "model": "gpt-5.6-luna",
+        "scores": {
+          "BioScience_ML": 50,
+          "ML": 50,
+          "DS": 50,
+          "SWE": 64,
+          "FDE": 64,
+          "Research_Software_Engineer": 50
+        },
+        "best_resumes": [
+          "FDE",
+          "SWE"
+        ],
+        "requirements": [
+          {
+            "text": "Minimum Qualifications: \\- Master's degree in Statistics, Mathematics, Finance, Computer Science Engineering or a similar Quantitative field, or equivalent practical experience \\- 3\\+ years of experience in data analysis, statistical modeling, machine learning , with a focus on financial crime compliance or related domains. \\- Proficiency in programming languages Python, HQL, Neo4J, Spark as well as experience with machine learning libraries (e.g., scikit\\-learn, TensorFlow, PyTorch). \\- Experience with data visualization tools and techniques for creating interactive dashboards and reports (e.g., Tableau, Power BI, matplotlib). \\- Strong analytical skills and the ability to work with large datasets to extract actionable insights. \\- Demonstrate strong critical thinking skills, with the ability to analyze complex problems, evaluate information objectively, and communicate well\\-reasoned conclusions based on evidence and logic. Preferred Qualifications: \\- Ph.D. is a plus \\- Familiarity with big data technologies and distributed computing platforms (e.g., Hadoop, Spark). \\- Experience working in financial crime compliance, including anti\\-money laundering (AML). \\- Strong communication skills and the ability to translate technical concepts into clear and concise insights for non\\-technical stakeholders.",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial",
+              "Research_Software_Engineer": "partial"
+            }
+          },
+          {
+            "text": "Minimum Qualifications: \\- Master's degree in Statistics, Mathematics, Finance, Computer Science Engineering or a similar Quantitative field, or equivalent practical experience \\- 3\\+ years of experience in data analysis, statistical modeling, machine learning , with a focus on financial crime compliance or related domains. \\- Proficiency in programming languages Python, HQL, Neo4J, Spark as well as experience with machine learning libraries (e.g., scikit\\-learn, TensorFlow, PyTorch). \\- Experience with data visualization tools and techniques for creating interactive dashboards and reports (e.g., Tableau, Power BI, matplotlib). \\- Strong analytical skills and the ability to work with large datasets to extract actionable insights. \\- Demonstrate strong critical thinking skills, with the ability to analyze complex problems, evaluate information objectively, and communicate well\\-reasoned conclusions based on evidence and logic. Preferred Qualifications: \\- Ph.D. is a plus \\- Familiarity with big data technologies and distributed computing platforms (e.g., Hadoop, Spark). \\- Experience working in financial crime compliance, including anti\\-money laundering (AML). \\- Strong communication skills and the ability to translate technical concepts into clear and concise insights for non\\-technical stakeholders.",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial",
+              "Research_Software_Engineer": "partial"
+            }
+          },
+          {
+            "text": "Minimum Qualifications: \\- Master's degree in Statistics, Mathematics, Finance, Computer Science Engineering or a similar Quantitative field, or equivalent practical experience \\- 3\\+ years of experience in data analysis, statistical modeling, machine learning , with a focus on financial crime compliance or related domains. \\- Proficiency in programming languages Python, HQL, Neo4J, Spark as well as experience with machine learning libraries (e.g., scikit\\-learn, TensorFlow, PyTorch). \\- Experience with data visualization tools and techniques for creating interactive dashboards and reports (e.g., Tableau, Power BI, matplotlib). \\- Strong analytical skills and the ability to work with large datasets to extract actionable insights. \\- Demonstrate strong critical thinking skills, with the ability to analyze complex problems, evaluate information objectively, and communicate well\\-reasoned conclusions based on evidence and logic. Preferred Qualifications: \\- Ph.D. is a plus \\- Familiarity with big data technologies and distributed computing platforms (e.g., Hadoop, Spark). \\- Experience working in financial crime compliance, including anti\\-money laundering (AML). \\- Strong communication skills and the ability to translate technical concepts into clear and concise insights for non\\-technical stakeholders.",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial",
+              "Research_Software_Engineer": "partial"
+            }
+          },
+          {
+            "text": "Minimum Qualifications: \\- Master's degree in Statistics, Mathematics, Finance, Computer Science Engineering or a similar Quantitative field, or equivalent practical experience \\- 3\\+ years of experience in data analysis, statistical modeling, machine learning , with a focus on financial crime compliance or related domains. \\- Proficiency in programming languages Python, HQL, Neo4J, Spark as well as experience with machine learning libraries (e.g., scikit\\-learn, TensorFlow, PyTorch). \\- Experience with data visualization tools and techniques for creating interactive dashboards and reports (e.g., Tableau, Power BI, matplotlib). \\- Strong analytical skills and the ability to work with large datasets to extract actionable insights. \\- Demonstrate strong critical thinking skills, with the ability to analyze complex problems, evaluate information objectively, and communicate well\\-reasoned conclusions based on evidence and logic. Preferred Qualifications: \\- Ph.D. is a plus \\- Familiarity with big data technologies and distributed computing platforms (e.g., Hadoop, Spark). \\- Experience working in financial crime compliance, including anti\\-money laundering (AML). \\- Strong communication skills and the ability to translate technical concepts into clear and concise insights for non\\-technical stakeholders.",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "not_evidenced",
+              "ML": "not_evidenced",
+              "DS": "not_evidenced",
+              "SWE": "matched",
+              "FDE": "matched",
+              "Research_Software_Engineer": "not_evidenced"
+            }
+          },
+          {
+            "text": "Minimum Qualifications: \\- Master's degree in Statistics, Mathematics, Finance, Computer Science Engineering or a similar Quantitative field, or equivalent practical experience \\- 3\\+ years of experience in data analysis, statistical modeling, machine learning , with a focus on financial crime compliance or related domains. \\- Proficiency in programming languages Python, HQL, Neo4J, Spark as well as experience with machine learning libraries (e.g., scikit\\-learn, TensorFlow, PyTorch). \\- Experience with data visualization tools and techniques for creating interactive dashboards and reports (e.g., Tableau, Power BI, matplotlib). \\- Strong analytical skills and the ability to work with large datasets to extract actionable insights. \\- Demonstrate strong critical thinking skills, with the ability to analyze complex problems, evaluate information objectively, and communicate well\\-reasoned conclusions based on evidence and logic. Preferred Qualifications: \\- Ph.D. is a plus \\- Familiarity with big data technologies and distributed computing platforms (e.g., Hadoop, Spark). \\- Experience working in financial crime compliance, including anti\\-money laundering (AML). \\- Strong communication skills and the ability to translate technical concepts into clear and concise insights for non\\-technical stakeholders.",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "matched",
+              "FDE": "matched",
+              "Research_Software_Engineer": "matched"
+            }
+          },
+          {
+            "text": "Minimum Qualifications: \\- Master's degree in Statistics, Mathematics, Finance, Computer Science Engineering or a similar Quantitative field, or equivalent practical experience \\- 3\\+ years of experience in data analysis, statistical modeling, machine learning , with a focus on financial crime compliance or related domains. \\- Proficiency in programming languages Python, HQL, Neo4J, Spark as well as experience with machine learning libraries (e.g., scikit\\-learn, TensorFlow, PyTorch). \\- Experience with data visualization tools and techniques for creating interactive dashboards and reports (e.g., Tableau, Power BI, matplotlib). \\- Strong analytical skills and the ability to work with large datasets to extract actionable insights. \\- Demonstrate strong critical thinking skills, with the ability to analyze complex problems, evaluate information objectively, and communicate well\\-reasoned conclusions based on evidence and logic. Preferred Qualifications: \\- Ph.D. is a plus \\- Familiarity with big data technologies and distributed computing platforms (e.g., Hadoop, Spark). \\- Experience working in financial crime compliance, including anti\\-money laundering (AML). \\- Strong communication skills and the ability to translate technical concepts into clear and concise insights for non\\-technical stakeholders.",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "matched",
+              "FDE": "matched",
+              "Research_Software_Engineer": "matched"
+            }
+          },
+          {
+            "text": "Minimum Qualifications: \\- Master's degree in Statistics, Mathematics, Finance, Computer Science Engineering or a similar Quantitative field, or equivalent practical experience \\- 3\\+ years of experience in data analysis, statistical modeling, machine learning , with a focus on financial crime compliance or related domains. \\- Proficiency in programming languages Python, HQL, Neo4J, Spark as well as experience with machine learning libraries (e.g., scikit\\-learn, TensorFlow, PyTorch). \\- Experience with data visualization tools and techniques for creating interactive dashboards and reports (e.g., Tableau, Power BI, matplotlib). \\- Strong analytical skills and the ability to work with large datasets to extract actionable insights. \\- Demonstrate strong critical thinking skills, with the ability to analyze complex problems, evaluate information objectively, and communicate well\\-reasoned conclusions based on evidence and logic. Preferred Qualifications: \\- Ph.D. is a plus \\- Familiarity with big data technologies and distributed computing platforms (e.g., Hadoop, Spark). \\- Experience working in financial crime compliance, including anti\\-money laundering (AML). \\- Strong communication skills and the ability to translate technical concepts into clear and concise insights for non\\-technical stakeholders.",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "not_evidenced",
+              "ML": "not_evidenced",
+              "DS": "not_evidenced",
+              "SWE": "not_evidenced",
+              "FDE": "not_evidenced",
+              "Research_Software_Engineer": "not_evidenced"
+            }
+          },
+          {
+            "text": "Minimum Qualifications: \\- Master's degree in Statistics, Mathematics, Finance, Computer Science Engineering or a similar Quantitative field, or equivalent practical experience \\- 3\\+ years of experience in data analysis, statistical modeling, machine learning , with a focus on financial crime compliance or related domains. \\- Proficiency in programming languages Python, HQL, Neo4J, Spark as well as experience with machine learning libraries (e.g., scikit\\-learn, TensorFlow, PyTorch). \\- Experience with data visualization tools and techniques for creating interactive dashboards and reports (e.g., Tableau, Power BI, matplotlib). \\- Strong analytical skills and the ability to work with large datasets to extract actionable insights. \\- Demonstrate strong critical thinking skills, with the ability to analyze complex problems, evaluate information objectively, and communicate well\\-reasoned conclusions based on evidence and logic. Preferred Qualifications: \\- Ph.D. is a plus \\- Familiarity with big data technologies and distributed computing platforms (e.g., Hadoop, Spark). \\- Experience working in financial crime compliance, including anti\\-money laundering (AML). \\- Strong communication skills and the ability to translate technical concepts into clear and concise insights for non\\-technical stakeholders.",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "not_evidenced",
+              "ML": "not_evidenced",
+              "DS": "not_evidenced",
+              "SWE": "not_evidenced",
+              "FDE": "not_evidenced",
+              "Research_Software_Engineer": "not_evidenced"
+            }
+          },
+          {
+            "text": "Minimum Qualifications: \\- Master's degree in Statistics, Mathematics, Finance, Computer Science Engineering or a similar Quantitative field, or equivalent practical experience \\- 3\\+ years of experience in data analysis, statistical modeling, machine learning , with a focus on financial crime compliance or related domains. \\- Proficiency in programming languages Python, HQL, Neo4J, Spark as well as experience with machine learning libraries (e.g., scikit\\-learn, TensorFlow, PyTorch). \\- Experience with data visualization tools and techniques for creating interactive dashboards and reports (e.g., Tableau, Power BI, matplotlib). \\- Strong analytical skills and the ability to work with large datasets to extract actionable insights. \\- Demonstrate strong critical thinking skills, with the ability to analyze complex problems, evaluate information objectively, and communicate well\\-reasoned conclusions based on evidence and logic. Preferred Qualifications: \\- Ph.D. is a plus \\- Familiarity with big data technologies and distributed computing platforms (e.g., Hadoop, Spark). \\- Experience working in financial crime compliance, including anti\\-money laundering (AML). \\- Strong communication skills and the ability to translate technical concepts into clear and concise insights for non\\-technical stakeholders.",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "not_evidenced",
+              "ML": "not_evidenced",
+              "DS": "not_evidenced",
+              "SWE": "not_evidenced",
+              "FDE": "not_evidenced",
+              "Research_Software_Engineer": "not_evidenced"
+            }
+          },
+          {
+            "text": "Minimum Qualifications: \\- Master's degree in Statistics, Mathematics, Finance, Computer Science Engineering or a similar Quantitative field, or equivalent practical experience \\- 3\\+ years of experience in data analysis, statistical modeling, machine learning , with a focus on financial crime compliance or related domains. \\- Proficiency in programming languages Python, HQL, Neo4J, Spark as well as experience with machine learning libraries (e.g., scikit\\-learn, TensorFlow, PyTorch). \\- Experience with data visualization tools and techniques for creating interactive dashboards and reports (e.g., Tableau, Power BI, matplotlib). \\- Strong analytical skills and the ability to work with large datasets to extract actionable insights. \\- Demonstrate strong critical thinking skills, with the ability to analyze complex problems, evaluate information objectively, and communicate well\\-reasoned conclusions based on evidence and logic. Preferred Qualifications: \\- Ph.D. is a plus \\- Familiarity with big data technologies and distributed computing platforms (e.g., Hadoop, Spark). \\- Experience working in financial crime compliance, including anti\\-money laundering (AML). \\- Strong communication skills and the ability to translate technical concepts into clear and concise insights for non\\-technical stakeholders.",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial",
+              "Research_Software_Engineer": "partial"
+            }
+          }
+        ],
+        "usage": {
+          "input": 9868,
+          "output": 4759,
+          "thinking": 1232,
+          "cached": 0,
+          "cache_write": 9865,
+          "cost": 8177650
+        }
+      },
+      "scored_at": "2026-09-25T20:00:39.157596+00:00"
+    },
+    "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Full-stack-Engineer-5---Shopping--Remote-Eligible-_R1002007": {
+      "status": "jd_unavailable",
+      "context": "3ba40bc7f768802deaea5fdb4539ae6756b2ad705c2a79069ac6f13a206750ea"
+    },
+    "https://www.indeed.com/viewjob?jk=a1eb7cb612e94c79": {
+      "url": "https://www.indeed.com/viewjob?jk=a1eb7cb612e94c79",
+      "context": "3ba40bc7f768802deaea5fdb4539ae6756b2ad705c2a79069ac6f13a206750ea",
+      "description_hash": "b89f5ff2ce53c92c3494f6834a5354bf746e631dd5b81b23cef438e2162d7649",
+      "status": "valid",
+      "luna": {
+        "model": "gpt-5.6-luna",
+        "scores": {
+          "BioScience_ML": 61,
+          "ML": 61,
+          "DS": 61,
+          "SWE": 61,
+          "FDE": 61,
+          "Research_Software_Engineer": 61
+        },
+        "best_resumes": [
+          "BioScience_ML",
+          "DS",
+          "FDE",
+          "ML",
+          "Research_Software_Engineer",
+          "SWE"
+        ],
+        "requirements": [
+          {
+            "text": "* Bachelor’s degree in Engineering, Computer Science, a related field, or equivalent practical experience.",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "matched",
+              "FDE": "matched",
+              "Research_Software_Engineer": "matched"
+            }
+          },
+          {
+            "text": "* 5 years of experience with software development using Python or similar coding languages.",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "matched",
+              "FDE": "matched",
+              "Research_Software_Engineer": "matched"
+            }
+          },
+          {
+            "text": "* Experience taking production\\-grade AI\\-driven solutions from conception to launch for customers.",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial",
+              "Research_Software_Engineer": "partial"
+            }
+          },
+          {
+            "text": "* Experience leading technical discovery sessions with customers.",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial",
+              "Research_Software_Engineer": "partial"
+            }
+          },
+          {
+            "text": "* Experience building pipelines for structured and unstructured data using both vector databases and Retrieval\\-Augmented Generation (RAG)\\-like architectures to power enterprise AI solutions.",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial",
+              "Research_Software_Engineer": "partial"
+            }
+          },
+          {
+            "text": "* Master’s degree or PhD in AI, Computer Science, or a related technical field.",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial",
+              "Research_Software_Engineer": "partial"
+            }
+          },
+          {
+            "text": "* Experience implementing multi\\-agent systems using frameworks (e.g., LangGraph, CrewAI, ADK) and patterns (e.g., ReAct, self\\-reflection, hierarchical delegation).",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "not_evidenced",
+              "ML": "not_evidenced",
+              "DS": "not_evidenced",
+              "SWE": "not_evidenced",
+              "FDE": "not_evidenced",
+              "Research_Software_Engineer": "not_evidenced"
+            }
+          },
+          {
+            "text": "* Knowledge of LLM\\-native metrics (e.g., tokens/sec, cost\\-per\\-request) and techniques for optimizing state management and granular tracing.",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "not_evidenced",
+              "ML": "not_evidenced",
+              "DS": "not_evidenced",
+              "SWE": "not_evidenced",
+              "FDE": "not_evidenced",
+              "Research_Software_Engineer": "not_evidenced"
+            }
+          }
+        ],
+        "usage": {
+          "input": 9915,
+          "output": 3650,
+          "thinking": 618,
+          "cached": 0,
+          "cache_write": 9912,
+          "cost": 6858600
+        }
+      },
+      "scored_at": "2026-09-25T20:00:39.157596+00:00"
     }
   },
   "limits": {
@@ -215877,7 +217013,7 @@
     "sonnet": 10
   },
   "attempts_today": {
-    "luna": 0,
+    "luna": 8,
     "sonnet": 0
   }
 }
