@@ -1,93 +1,62 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-09-25 20:18 UTC*
+*Last updated: 2026-09-25 21:19 UTC*
 
-**22 new role(s)** since last run · 22 total in last 1h
+**14 new role(s)** since last run · 36 total in last 1h
 
-### [Software Engineer III, AI/ML, Google Cloud Platforms](https://www.linkedin.com/jobs/view/4470381863/) — Google
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-09-25
-
-### [Research Scientist / Software Engineer, LLM/Agent Platform - TikTok - Content Ecology AI Innovation & Platform](https://www.linkedin.com/jobs/view/4470386679/) — TikTok
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-09-25
-
-### [Full Stack Engineer 4- People Tech- GenAI & Agentic Systems (LangChain, LangGraph)](https://www.linkedin.com/jobs/view/4472076387/) — Capital One
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-09-25
-
-### [Full Stack Engineer 4- People Tech- GenAI & Agentic Systems (LangChain, LangGraph)](https://www.linkedin.com/jobs/view/4472073432/) — Capital One
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-09-25
-
-### [Generative AI Engineer](https://www.linkedin.com/jobs/view/4459416894/) — Intelliswift - An LTTS Company
-- 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-09-25
-
-### [Data Scientist](https://www.linkedin.com/jobs/view/4470392401/) — Figma
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-09-25
-
-### [Software Engineer](https://www.linkedin.com/jobs/view/4472090196/) — MintMCP
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-09-25
-
-### [Software Engineer](https://www.linkedin.com/jobs/view/4472072698/) — MintMCP
+### [AI Research Engineer](https://www.linkedin.com/jobs/view/4470184883/) — Elio
 - 📍 **Location:** San Mateo, CA
 - 🕒 **Posted:** 2026-09-25
 
-### [Software Engineer, Data Platform, QDI](https://www.linkedin.com/jobs/view/4470702320/) — QIAGEN
-- 📍 **Location:** Redwood City, CA
+### [Embedded Software Engineer II](https://www.linkedin.com/jobs/view/4470719067/) — Experis
+- 📍 **Location:** Sunnyvale, CA
 - 🕒 **Posted:** 2026-09-25
 
-### [Software Engineer II - Engineer](https://www.linkedin.com/jobs/view/4472075402/) — Uber
+### [Full Stack Software Engineer](https://www.linkedin.com/jobs/view/4470712155/) — Crossing Hurdles
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-09-25
 
-### [Full Stack Engineer 4- People Tech- GenAI & Agentic Systems (LangChain, LangGraph)](https://www.linkedin.com/jobs/view/4472073433/) — Capital One
+### [Data Scientist](https://www.linkedin.com/jobs/view/4472082653/) — TextNow
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-09-25
 
-### [Full Stack Engineer 4- People Tech- GenAI & Agentic Systems (LangChain, LangGraph)](https://www.linkedin.com/jobs/view/4472081214/) — Capital One
-- 📍 **Location:** San Jose, CA
+### [Robotics Software Engineer](https://www.linkedin.com/jobs/view/4470714217/) — Robotgifs.com
+- 📍 **Location:** Milpitas, CA
 - 🕒 **Posted:** 2026-09-25
 
-### [Full Stack Engineer 4- People Tech- GenAI & Agentic Systems (LangChain, LangGraph)](https://www.linkedin.com/jobs/view/4472080241/) — Capital One
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-09-25
-
-### [Data Scientist](https://www.linkedin.com/jobs/view/4470392400/) — Figma
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-09-25
-
-### [Full-Time Data Science Associate](https://www.linkedin.com/jobs/view/4470704077/) — Tharp Consulting
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-09-25
-
-### [Computer Vision & ML Expert](https://www.linkedin.com/jobs/view/4470648915/) — Alignerr
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $100.00/hr - $150.00/hr
-- 🕒 **Posted:** 2026-09-25
-
-### [Custom Software Developer](https://www.linkedin.com/jobs/view/4472062946/) — MeanPug Digital
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-09-25
-
-### [Full Stack Engineer 4- People Tech- GenAI & Agentic Systems (LangChain, LangGraph)](https://www.linkedin.com/jobs/view/4472080242/) — Capital One
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-09-25
-
-### [Platform Engineer](https://www.linkedin.com/jobs/view/4472087272/) — GovSignals
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-09-25
-
-### [Software Engineer](https://www.linkedin.com/jobs/view/4470387491/) — Rob Bliss Creative
+### [Full Stack Engineer](https://www.linkedin.com/jobs/view/4404858188/) — Syndesus, Inc.
 - 📍 **Location:** San Francisco Bay Area
+- 💰 **Salary:** $190,000.00/yr - $280,000.00/yr
 - 🕒 **Posted:** 2026-09-25
 
-### [Robotics Engineer](https://www.linkedin.com/jobs/view/4470708187/) — Neuralink
+### [Full Stack Software Engineer](https://www.linkedin.com/jobs/view/4470398631/) — Crossing Hurdles
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-09-25
+
+### [Software Engineer - Simulation](https://www.linkedin.com/jobs/view/4470705640/) — Neuralink
 - 📍 **Location:** South San Francisco, CA
 - 🕒 **Posted:** 2026-09-25
 
-### [Robotics Engineer](https://www.linkedin.com/jobs/view/4470702353/) — Neuralink
+### [Backend Engineer](https://www.linkedin.com/jobs/view/4470388977/) — Premier Global Links LLC
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $220,000.00/yr - $300,000.00/yr
+- 🕒 **Posted:** 2026-09-25
+
+### [Software Engineer,  Automation and Control](https://www.linkedin.com/jobs/view/4472093094/) — Culture Biosciences
 - 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-09-25
+
+### [Software Engineer - Simulation](https://www.linkedin.com/jobs/view/4470714218/) — Neuralink
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-09-25
+
+### [Software Engineer - HIL](https://www.linkedin.com/jobs/view/4470701446/) — Neuralink
+- 📍 **Location:** South San Francisco, CA
+- 🕒 **Posted:** 2026-09-25
+
+### [Software Engineer - HIL](https://www.linkedin.com/jobs/view/4470708244/) — Neuralink
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-09-25
+
+### [Java Software Engineer](https://www.linkedin.com/jobs/view/4470186950/) — Anagh Technologies Inc
+- 📍 **Location:** Jersey City, NJ
 - 🕒 **Posted:** 2026-09-25
