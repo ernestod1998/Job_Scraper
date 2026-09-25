@@ -1,156 +1,110 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-09-25 15:19 UTC*
+*Last updated: 2026-09-25 16:20 UTC*
 
-**36 new role(s)** since last run · 36 total in last 1h
+**25 new role(s)** since last run · 29 total in last 1h
 
-### [Machine Learning Engineer: Imitation and Reinforcement Learning for Robotics](https://www.linkedin.com/jobs/view/4367558798/) — Bedrock Robotics
+### [Research Engineer](https://www.linkedin.com/jobs/view/4472028931/) — Goliath Partners
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-09-25
+
+### [Research Engineer, Computer Use](https://www.linkedin.com/jobs/view/4434341919/) — Anthropic
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-09-25
 
-### [Machine Learning Engineer: Perception](https://www.linkedin.com/jobs/view/4408940437/) — Bedrock Robotics
+### [Machine Learning Engineer](https://www.linkedin.com/jobs/view/4472041619/) — Goliath Partners
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-09-25
+
+### [Data Scientist, North Insights](https://www.linkedin.com/jobs/view/4443825598/) — Cohere
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-09-25
 
-### [Machine Learning Infrastructure Engineer, Safeguards Research](https://www.linkedin.com/jobs/view/4442930561/) — Anthropic
+### [Computational Scientist](https://www.linkedin.com/jobs/view/4472027660/) — Advanced Clinical
+- 📍 **Location:** South San Francisco, CA
+- 🕒 **Posted:** 2026-09-25
+
+### [Data Scientist, Product](https://www.linkedin.com/jobs/view/4429399199/) — Harvey
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-09-25
 
-### [Software Engineer III](https://www.linkedin.com/jobs/view/4472016904/) — EPITEC
-- 📍 **Location:** Sunnyvale, CA
+### [Data Scientist, Marketing](https://www.linkedin.com/jobs/view/4359264895/) — Harvey
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-09-25
 
-### [Robotics Engineer](https://www.linkedin.com/jobs/view/4460735865/) — EmbodyX
-- 📍 **Location:** Belmont, CA
+### [Machine Learning Research Engineer](https://www.linkedin.com/jobs/view/4446947259/) — advisorey.
+- 📍 **Location:** New York City Metropolitan Area
 - 🕒 **Posted:** 2026-09-25
 
-### [Software Engineer, AI Agent & LLM](https://www.linkedin.com/jobs/view/4444245364/) — Otter.ai
-- 📍 **Location:** Mountain View, CA
-- 💰 **Salary:** $155,000.00/yr - $185,000.00/yr
+### [Data Science](https://www.linkedin.com/jobs/view/4470166822/) — SoTalent
+- 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-09-25
 
-### [AI Research Scientist | Machine Learning | Deep Learning |Natural Language Processing | LLM | Hybrid | San Jose, CA](https://www.linkedin.com/jobs/view/4470334099/) — Enigma
+### [Data Scientist, GTM](https://www.linkedin.com/jobs/view/4434680200/) — Anthropic
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-09-25
+
+### [Fullstack Engineer - Data Platform](https://www.linkedin.com/jobs/view/4443426010/) — Medal
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $180,000.00/yr - $300,000.00/yr
+- 🕒 **Posted:** 2026-09-25
+
+### [Software Engineer, High Performance Computing (Starlink)](https://www.linkedin.com/jobs/view/4426702164/) — SpaceX
+- 📍 **Location:** Palo Alto, CA
+- 🕒 **Posted:** 2026-09-25
+
+### [Front-End Engineer, Amazon Quick](https://www.linkedin.com/jobs/view/4463152608/) — Amazon Web Services (AWS)
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-09-25
+
+### [DevOps Engineer](https://www.linkedin.com/jobs/view/4460745176/) — Rhombus Power Inc.
+- 📍 **Location:** Palo Alto, CA
+- 🕒 **Posted:** 2026-09-25
+
+### [DevOps Engineer - Terraform & Ansible](https://www.linkedin.com/jobs/view/4462043294/) — TekWissen ®
 - 📍 **Location:** San Jose, CA
+- 💰 **Salary:** $58.20/hr - $58.20/hr
 - 🕒 **Posted:** 2026-09-25
 
-### [Machine Learning Engineer: Perception Analytics](https://www.linkedin.com/jobs/view/4442604327/) — Bedrock Robotics
+### [Site Reliability / Infrastructure Engineer](https://www.linkedin.com/jobs/view/4443418070/) — Medal
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $180,000.00/yr - $275,000.00/yr
+- 🕒 **Posted:** 2026-09-25
+
+### [GPU Performance Software Engineer](https://www.linkedin.com/jobs/view/4470172782/) — CoreWeave
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-09-25
+
+### [Software Engineer](https://www.linkedin.com/jobs/view/4453601464/) — Docusign
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-09-25
 
-### [Machine Learning Engineer: Evaluation](https://www.linkedin.com/jobs/view/4367573059/) — Bedrock Robotics
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-09-25
-
-### [Data Scientist](https://www.linkedin.com/jobs/view/4425245870/) — Bedrock Robotics
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-09-25
-
-### [Software Engineer, State Estimation & Localization](https://www.linkedin.com/jobs/view/4466118026/) — Bedrock Robotics
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-09-25
-
-### [Machine Learning Engineer: Evaluation](https://www.linkedin.com/jobs/view/4380484519/) — Bedrock Robotics
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-09-25
-
-### [Software Engineer III - Agentic AI, Java/Python](https://www.linkedin.com/jobs/view/4472037073/) — JPMorganChase
-- 📍 **Location:** Jersey City, NJ
-- 💰 **Salary:** $137,750.00/yr - $185,000.00/yr
-- 🕒 **Posted:** 2026-09-25
-
-### [Data Scientist](https://www.linkedin.com/jobs/view/4425227915/) — Bedrock Robotics
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-09-25
-
-### [Software Engineer, Education](https://www.linkedin.com/jobs/view/4453254359/) — Anthropic
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-09-25
-
-### [Software Engineer III - Python, Databricks and AWS](https://www.linkedin.com/jobs/view/4472018936/) — JPMorganChase
-- 📍 **Location:** Jersey City, NJ
-- 💰 **Salary:** $137,750.00/yr - $185,000.00/yr
-- 🕒 **Posted:** 2026-09-25
-
-### [Software Engineer](https://www.linkedin.com/jobs/view/4428737862/) — Bedrock Robotics
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-09-25
-
-### [Simulation Infrastructure Engineer](https://www.linkedin.com/jobs/view/4407034860/) — Bedrock Robotics
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-09-25
-
-### [Software Engineer, Simulation](https://www.linkedin.com/jobs/view/4437947129/) — Bedrock Robotics
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-09-25
-
-### [Full Stack Software Engineer, Product Explorations](https://www.linkedin.com/jobs/view/4461931201/) — OpenAI
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $347,000.00/yr - $385,000.00/yr
-- 🕒 **Posted:** 2026-09-25
-
-### [Software Engineer, Onboarding](https://www.linkedin.com/jobs/view/4425912199/) — Ramp
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-09-25
-
-### [QML/Java Frontend Software Engineer](https://www.linkedin.com/jobs/view/4466386789/) — Interactive Brokers
-- 📍 **Location:** Greenwich, CT
-- 🕒 **Posted:** 2026-09-25
-
-### [GPU Stack Unified Build & release platform Engineer](https://www.linkedin.com/jobs/view/4470159855/) — AMD
+### [Entry level Backend Developer - San Jose, CA - 2027](https://www.linkedin.com/jobs/view/4460752391/) — IBM
 - 📍 **Location:** San Jose, CA
-- 💰 **Salary:** $240,000.00/yr - $360,000.00/yr
+- 💰 **Salary:** $120,960.00/yr - $181,440.00/yr
 - 🕒 **Posted:** 2026-09-25
 
-### [NoSQL DevOps Engineer](https://www.linkedin.com/jobs/view/4472024435/) — PTR Global
+### [Software Engineer 3, Storage Execution](https://www.linkedin.com/jobs/view/4453324714/) — MongoDB
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-09-25
+
+### [Software Engineer C++ | Top Tier Hedge Fund | NYC](https://www.linkedin.com/jobs/view/4456305527/) — Delmar Nord
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $400,000.00/yr - $600,000.00/yr
+- 🕒 **Posted:** 2026-09-25
+
+### [Fullstack Engineer](https://www.linkedin.com/jobs/view/4443416037/) — Medal
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $180,000.00/yr - $275,000.00/yr
+- 🕒 **Posted:** 2026-09-25
+
+### [Software Engineer, Serverless Networking](https://www.linkedin.com/jobs/view/4470317802/) — Google
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-09-25
+
+### [Associate Infrastructure Engineer](https://www.linkedin.com/jobs/view/4461968166/) — Metropolitan Transportation Authority
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-09-25
+
+### [Manufacturing Test Development Engineer, Google Cloud Platforms, Infrastructure Engineering](https://www.linkedin.com/jobs/view/4470328542/) — Google
 - 📍 **Location:** Sunnyvale, CA
-- 💰 **Salary:** $65.00/hr - $70.00/hr
-- 🕒 **Posted:** 2026-09-25
-
-### [Software Engineer (Ray Core)](https://www.linkedin.com/jobs/view/4460789160/) — Anyscale
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-09-25
-
-### [Software Engineer, Onboard Platform](https://www.linkedin.com/jobs/view/4367550956/) — Bedrock Robotics
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-09-25
-
-### [Software Engineer, Developer Experience (Full-Stack)](https://www.linkedin.com/jobs/view/4460766912/) — Superhuman
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $200,000.00/yr - $300,000.00/yr
-- 🕒 **Posted:** 2026-09-25
-
-### [Software Engineer, Onboard Platform](https://www.linkedin.com/jobs/view/4470030156/) — Bedrock Robotics
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-09-25
-
-### [PeopleSoft Developer – Advanced Software Engineer](https://www.linkedin.com/jobs/view/4434359923/) — Metropolitan Transportation Authority
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-09-25
-
-### [Software Engineer, Simulation](https://www.linkedin.com/jobs/view/4439948814/) — Bedrock Robotics
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-09-25
-
-### [Java Backend Engineer](https://www.linkedin.com/jobs/view/4468263949/) — Flexton Inc.
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-09-25
-
-### [Frontend Engineer](https://www.linkedin.com/jobs/view/4395922935/) — Bedrock Robotics
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-09-25
-
-### [Software Engineer - Early Career](https://www.linkedin.com/jobs/view/4453380670/) — Uniswap
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $138,000.00/yr - $200,000.00/yr
-- 🕒 **Posted:** 2026-09-25
-
-### [Clinical Data Scientist](https://www.linkedin.com/jobs/view/4443432078/) — Unlearn.AI
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-09-25
-
-### [Software Engineering Technical Leader](https://www.linkedin.com/jobs/view/4416482277/) — Cisco
-- 📍 **Location:** Milpitas, CA
-- 🕒 **Posted:** 2026-09-25
-
-### [Embedded Software Engineer, Safety-Critical Systems](https://www.linkedin.com/jobs/view/4455472654/) — Bedrock Robotics
-- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-09-25
