@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-09-25T20:55:30.679081+00:00",
+  "updated_at": "2026-09-25T21:00:42.566134+00:00",
   "day": "2026-09-25",
   "context": "3ba40bc7f768802deaea5fdb4539ae6756b2ad705c2a79069ac6f13a206750ea",
   "scores": {
@@ -226564,6 +226564,1087 @@
         }
       },
       "scored_at": "2026-09-25T20:00:39.157596+00:00"
+    },
+    "https://www.linkedin.com/jobs/view/4472041619/": {
+      "url": "https://www.linkedin.com/jobs/view/4472041619/",
+      "context": "3ba40bc7f768802deaea5fdb4539ae6756b2ad705c2a79069ac6f13a206750ea",
+      "description_hash": "5aec7a4ab76fdf7489fec5c9133611a4160c9cba9f84f65dc07c2c05713dbce8",
+      "status": "valid",
+      "luna": {
+        "model": "gpt-5.6-luna",
+        "scores": {
+          "BioScience_ML": 61,
+          "ML": 61,
+          "DS": 61,
+          "SWE": 59,
+          "FDE": 61,
+          "Research_Software_Engineer": 61
+        },
+        "best_resumes": [
+          "BioScience_ML",
+          "DS",
+          "FDE",
+          "ML",
+          "Research_Software_Engineer"
+        ],
+        "requirements": [
+          {
+            "text": "• Strong Python and software engineering fundamentals",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "matched",
+              "FDE": "matched",
+              "Research_Software_Engineer": "matched"
+            }
+          },
+          {
+            "text": "• Experience building ML infrastructure, training infrastructure, or large-scale distributed systems",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial",
+              "Research_Software_Engineer": "partial"
+            }
+          },
+          {
+            "text": "• Experience working with PyTorch and modern ML training stacks",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "matched",
+              "FDE": "matched",
+              "Research_Software_Engineer": "matched"
+            }
+          },
+          {
+            "text": "• Strong understanding of distributed computing and GPU-based workloads",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial",
+              "Research_Software_Engineer": "partial"
+            }
+          },
+          {
+            "text": "• Experience building reliable systems that support ML research or production ML",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "matched",
+              "FDE": "matched",
+              "Research_Software_Engineer": "matched"
+            }
+          },
+          {
+            "text": "• Comfortable working in a fast-moving environment with significant technical ownership",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial",
+              "Research_Software_Engineer": "partial"
+            }
+          },
+          {
+            "text": "• Distributed training and large-scale model training",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "not_evidenced",
+              "FDE": "partial",
+              "Research_Software_Engineer": "partial"
+            }
+          },
+          {
+            "text": "• ML platforms / internal training infrastructure",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial",
+              "Research_Software_Engineer": "partial"
+            }
+          },
+          {
+            "text": "• GPU infrastructure and compute orchestration",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial",
+              "Research_Software_Engineer": "partial"
+            }
+          },
+          {
+            "text": "• Large-scale data infrastructure and pipelines",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial",
+              "Research_Software_Engineer": "partial"
+            }
+          },
+          {
+            "text": "• Performance optimization for ML workloads",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial",
+              "Research_Software_Engineer": "partial"
+            }
+          },
+          {
+            "text": "• Infrastructure supporting robotics, embodied AI, computer vision, or other real-world ML systems",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial",
+              "Research_Software_Engineer": "partial"
+            }
+          },
+          {
+            "text": "• Experience taking ML systems beyond research and into production or physical-world environments",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial",
+              "Research_Software_Engineer": "partial"
+            }
+          },
+          {
+            "text": "Bay Area - in person",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "not_evidenced",
+              "ML": "not_evidenced",
+              "DS": "not_evidenced",
+              "SWE": "not_evidenced",
+              "FDE": "not_evidenced",
+              "Research_Software_Engineer": "not_evidenced"
+            }
+          }
+        ],
+        "usage": {
+          "input": 9244,
+          "output": 5833,
+          "thinking": 921,
+          "cached": 0,
+          "cache_write": 9241,
+          "cost": 9310450
+        }
+      },
+      "scored_at": "2026-09-25T20:00:39.157596+00:00"
+    },
+    "https://www.linkedin.com/jobs/view/4426196077/": {
+      "url": "https://www.linkedin.com/jobs/view/4426196077/",
+      "context": "3ba40bc7f768802deaea5fdb4539ae6756b2ad705c2a79069ac6f13a206750ea",
+      "description_hash": "85857c98cd06dfe82a435ebd7f94e098ddf0a1529481952827077d9c9ce56f4e",
+      "status": "valid",
+      "luna": {
+        "model": "gpt-5.6-luna",
+        "scores": {
+          "BioScience_ML": 100,
+          "ML": 100,
+          "DS": 100,
+          "SWE": 100,
+          "FDE": 100,
+          "Research_Software_Engineer": 100
+        },
+        "best_resumes": [
+          "BioScience_ML",
+          "DS",
+          "FDE",
+          "ML",
+          "Research_Software_Engineer",
+          "SWE"
+        ],
+        "requirements": [
+          {
+            "text": "2+ years of relevant industry experience in addition to a Bachelor’s Degree, Master’s or PhD in Computer Science, Electrical Engineering, Computer Engineering, Robotics, or related field.",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "matched",
+              "FDE": "matched",
+              "Research_Software_Engineer": "matched"
+            }
+          },
+          {
+            "text": "Must have strong C++ skills",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "matched",
+              "FDE": "matched",
+              "Research_Software_Engineer": "matched"
+            }
+          },
+          {
+            "text": "You have experience in one or more of the following areas: large-scale distributed systems; computer architecture and operating systems; advanced algorithms using C++ and Python; highly-concurrent, multi-processor, and multi-threaded environments; software performance tuning and optimization;profiling and tracing tools and infrastructure (perf, eBPF, Perfetto, pprof, NVIDIA Nsight Systems/Compute); robotics software frameworks; robotics hardware components (including sensors, embedded platforms, etc); and different compute modalities (x86, ARM, GPU, FPGA, etc)",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "matched",
+              "FDE": "matched",
+              "Research_Software_Engineer": "matched"
+            }
+          },
+          {
+            "text": "You have strong problem-solving and programming skills.",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "matched",
+              "FDE": "matched",
+              "Research_Software_Engineer": "matched"
+            }
+          }
+        ],
+        "usage": {
+          "input": 9641,
+          "output": 3107,
+          "thinking": 1077,
+          "cached": 0,
+          "cache_write": 9638,
+          "cost": 6138500
+        }
+      },
+      "scored_at": "2026-09-25T20:00:39.157596+00:00"
+    },
+    "https://www.linkedin.com/jobs/view/4444245364/": {
+      "url": "https://www.linkedin.com/jobs/view/4444245364/",
+      "context": "3ba40bc7f768802deaea5fdb4539ae6756b2ad705c2a79069ac6f13a206750ea",
+      "description_hash": "0663e2ef38cce8702d8cdc60ddf082a374f03867d2283a14f71e64e105396ece",
+      "status": "valid",
+      "luna": {
+        "model": "gpt-5.6-luna",
+        "scores": {
+          "BioScience_ML": 64,
+          "ML": 70,
+          "DS": 64,
+          "SWE": 71,
+          "FDE": 70,
+          "Research_Software_Engineer": 70
+        },
+        "best_resumes": [
+          "SWE"
+        ],
+        "requirements": [
+          {
+            "text": "Has 3+ years of AI Agent engineering, machine learning engineering, or related experience.",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "matched",
+              "FDE": "matched",
+              "Research_Software_Engineer": "matched"
+            }
+          },
+          {
+            "text": "Brings strong backend or distributed-systems engineering skills.",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "matched",
+              "FDE": "matched",
+              "Research_Software_Engineer": "matched"
+            }
+          },
+          {
+            "text": "Has hands-on experience building and shipping AI-agent or LLM-powered products.",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "matched",
+              "FDE": "matched",
+              "Research_Software_Engineer": "matched"
+            }
+          },
+          {
+            "text": "Has a strong focus on AI quality and experience evaluating nondeterministic systems.",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial",
+              "Research_Software_Engineer": "partial"
+            }
+          },
+          {
+            "text": "Can use data, traces, logs, and qualitative examples to identify and resolve complex failures.",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial",
+              "Research_Software_Engineer": "partial"
+            }
+          },
+          {
+            "text": "Works effectively across services, technical domains, and organizational boundaries.",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial",
+              "Research_Software_Engineer": "partial"
+            }
+          },
+          {
+            "text": "Combines strong product judgment with rigorous engineering and evaluation practices.",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial",
+              "Research_Software_Engineer": "partial"
+            }
+          },
+          {
+            "text": "Operates with high agency, strong ownership, and a bias toward action.",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "matched",
+              "DS": "partial",
+              "SWE": "matched",
+              "FDE": "matched",
+              "Research_Software_Engineer": "matched"
+            }
+          },
+          {
+            "text": "Can take ambiguous problems from initial exploration through production launch and continuous improvement.",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial",
+              "Research_Software_Engineer": "partial"
+            }
+          },
+          {
+            "text": "Demonstrated ability to use coding agents effectively while rigorously reviewing and controlling the quality of their output is a plus.",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "not_evidenced",
+              "ML": "not_evidenced",
+              "DS": "not_evidenced",
+              "SWE": "partial",
+              "FDE": "not_evidenced",
+              "Research_Software_Engineer": "not_evidenced"
+            }
+          }
+        ],
+        "usage": {
+          "input": 9639,
+          "output": 5538,
+          "thinking": 1345,
+          "cached": 0,
+          "cache_write": 9636,
+          "cost": 9055200
+        }
+      },
+      "scored_at": "2026-09-25T20:00:39.157596+00:00"
+    },
+    "https://www.linkedin.com/jobs/view/4426548922/": {
+      "url": "https://www.linkedin.com/jobs/view/4426548922/",
+      "context": "3ba40bc7f768802deaea5fdb4539ae6756b2ad705c2a79069ac6f13a206750ea",
+      "description_hash": "1dd1ebab71be9ba609782e44105dd67bbff6fdceb06fb3c5cc0a9a34574ef379",
+      "status": "valid",
+      "luna": {
+        "model": "gpt-5.6-luna",
+        "scores": {
+          "BioScience_ML": 33,
+          "ML": 38,
+          "DS": 33,
+          "SWE": 42,
+          "FDE": 42,
+          "Research_Software_Engineer": 38
+        },
+        "best_resumes": [
+          "FDE",
+          "SWE"
+        ],
+        "requirements": [
+          {
+            "text": "3+ years of full-time engineering experience, post-graduation with specialities in back-end systems.",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial",
+              "Research_Software_Engineer": "partial"
+            }
+          },
+          {
+            "text": "Extensive experience in software development and a deep understanding of distributed systems and public cloud platforms (AWS preferred).",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial",
+              "Research_Software_Engineer": "partial"
+            }
+          },
+          {
+            "text": "Show a track record of independent ownership of successful engineering projects.",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "matched",
+              "DS": "partial",
+              "SWE": "matched",
+              "FDE": "matched",
+              "Research_Software_Engineer": "matched"
+            }
+          },
+          {
+            "text": "Possess excellent communication and collaboration skills, and the ability to translate complex technical concepts to non-technical stakeholders.",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "matched",
+              "Research_Software_Engineer": "partial"
+            }
+          },
+          {
+            "text": "Experience working fluently with standard containerization & deployment technologies like Kubernetes, Terraform, Docker, etc.",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "matched",
+              "FDE": "matched",
+              "Research_Software_Engineer": "matched"
+            }
+          },
+          {
+            "text": "Experience with orchestration platforms, such as Temporal and AWS Step Functions.",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "not_evidenced",
+              "ML": "not_evidenced",
+              "DS": "not_evidenced",
+              "SWE": "not_evidenced",
+              "FDE": "not_evidenced",
+              "Research_Software_Engineer": "not_evidenced"
+            }
+          },
+          {
+            "text": "Experience with NoSQL document databases (MongoDB) and structured databases (Postgres).",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "not_evidenced",
+              "ML": "not_evidenced",
+              "DS": "not_evidenced",
+              "SWE": "not_evidenced",
+              "FDE": "not_evidenced",
+              "Research_Software_Engineer": "not_evidenced"
+            }
+          },
+          {
+            "text": "Strong knowledge of software engineering best practices and CI/CD tooling (CircleCI).",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "matched",
+              "FDE": "partial",
+              "Research_Software_Engineer": "partial"
+            }
+          },
+          {
+            "text": "Experience with data warehouses (Snowflake, Firebolt) and data pipeline/ETL tools (Dagster, dbt).",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial",
+              "Research_Software_Engineer": "partial"
+            }
+          },
+          {
+            "text": "Experience with authentication/authorization systems (Zanzibar, Authz, etc.)",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "not_evidenced",
+              "ML": "not_evidenced",
+              "DS": "not_evidenced",
+              "SWE": "not_evidenced",
+              "FDE": "not_evidenced",
+              "Research_Software_Engineer": "not_evidenced"
+            }
+          },
+          {
+            "text": "Experience scaling products at hyper-growth startups.",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "not_evidenced",
+              "ML": "not_evidenced",
+              "DS": "not_evidenced",
+              "SWE": "not_evidenced",
+              "FDE": "not_evidenced",
+              "Research_Software_Engineer": "not_evidenced"
+            }
+          },
+          {
+            "text": "Excitement to work with AI technologies.",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "not_evidenced",
+              "ML": "not_evidenced",
+              "DS": "not_evidenced",
+              "SWE": "not_evidenced",
+              "FDE": "not_evidenced",
+              "Research_Software_Engineer": "not_evidenced"
+            }
+          }
+        ],
+        "usage": {
+          "input": 10124,
+          "output": 5191,
+          "thinking": 794,
+          "cached": 0,
+          "cache_write": 10121,
+          "cost": 8760050
+        }
+      },
+      "scored_at": "2026-09-25T20:00:39.157596+00:00"
+    },
+    "https://www.linkedin.com/jobs/view/4472037073/": {
+      "url": "https://www.linkedin.com/jobs/view/4472037073/",
+      "context": "3ba40bc7f768802deaea5fdb4539ae6756b2ad705c2a79069ac6f13a206750ea",
+      "description_hash": "6ad2aa4741125437118a8e38f17b8d69b757363013010cffe16bedb1e8be12ec",
+      "status": "valid",
+      "luna": {
+        "model": "gpt-5.6-luna",
+        "scores": {
+          "BioScience_ML": 46,
+          "ML": 46,
+          "DS": 46,
+          "SWE": 50,
+          "FDE": 50,
+          "Research_Software_Engineer": 46
+        },
+        "best_resumes": [
+          "FDE",
+          "SWE"
+        ],
+        "requirements": [
+          {
+            "text": "Formal training or certification on software engineering concepts and 3+ years applied experience",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "matched",
+              "FDE": "matched",
+              "Research_Software_Engineer": "matched"
+            }
+          },
+          {
+            "text": "Hands-on practical experience delivering system design, application development, testing, and operational stability",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial",
+              "Research_Software_Engineer": "partial"
+            }
+          },
+          {
+            "text": "Advanced in one or more programming language(s); strong Python required",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "matched",
+              "FDE": "matched",
+              "Research_Software_Engineer": "matched"
+            }
+          },
+          {
+            "text": "Experience delivering production React (Next.js) web applications, including real-time UI (SSE/WebSocket) and working within a component/design system",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "not_evidenced",
+              "ML": "not_evidenced",
+              "DS": "not_evidenced",
+              "SWE": "not_evidenced",
+              "FDE": "not_evidenced",
+              "Research_Software_Engineer": "not_evidenced"
+            }
+          },
+          {
+            "text": "Demonstrated experience leading effective use of approved AI-assisted software development tools (e.g., for coding, code review, test acceleration, troubleshooting) with the ability to set team expectations for validating AI outputs for correctness, performance, and security",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "not_evidenced",
+              "ML": "not_evidenced",
+              "DS": "not_evidenced",
+              "SWE": "partial",
+              "FDE": "partial",
+              "Research_Software_Engineer": "not_evidenced"
+            }
+          },
+          {
+            "text": "Strong understanding of responsible AI use in engineering workflows, including data sensitivity considerations, secure handling of inputs/outputs, and adherence to resiliency and security expectations; experience coaching engineers on safe, compliant adoption within delivery practices",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "not_evidenced",
+              "ML": "not_evidenced",
+              "DS": "not_evidenced",
+              "SWE": "not_evidenced",
+              "FDE": "not_evidenced",
+              "Research_Software_Engineer": "not_evidenced"
+            }
+          },
+          {
+            "text": "Hands-on experience building LLM-power or agentic systems, including tracing, evaluations, and guardrails",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial",
+              "Research_Software_Engineer": "partial"
+            }
+          },
+          {
+            "text": "Proficient in all aspects of the Software Development Life Cycle",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial",
+              "Research_Software_Engineer": "partial"
+            }
+          },
+          {
+            "text": "Demonstrated proficiency in software applications and technical processes within a technical discipline (e.g., cloud, artificial intelligence, machine learning)",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "matched",
+              "FDE": "matched",
+              "Research_Software_Engineer": "matched"
+            }
+          },
+          {
+            "text": "Practical cloud native experience; production Kubernetes expected",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial",
+              "Research_Software_Engineer": "partial"
+            }
+          },
+          {
+            "text": "Exposure to LLMs, RAG architectures, vector databases, and embedding-based retrieval systems; Graph RAG a plus",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial",
+              "Research_Software_Engineer": "partial"
+            }
+          },
+          {
+            "text": "Experience with agent protocols (A2A, MCP) or multi-agent orchestration",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "not_evidenced",
+              "ML": "not_evidenced",
+              "DS": "not_evidenced",
+              "SWE": "not_evidenced",
+              "FDE": "not_evidenced",
+              "Research_Software_Engineer": "not_evidenced"
+            }
+          },
+          {
+            "text": "Experience with sandboxed/secure code execution (containers and micro-VMs such as Firecracker, Kata, gVisor)",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial",
+              "Research_Software_Engineer": "partial"
+            }
+          },
+          {
+            "text": "Experience with agent memory (memory nodes, episodic/semantic memory) or graph-backed retrieval",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "not_evidenced",
+              "ML": "not_evidenced",
+              "DS": "not_evidenced",
+              "SWE": "not_evidenced",
+              "FDE": "not_evidenced",
+              "Research_Software_Engineer": "not_evidenced"
+            }
+          },
+          {
+            "text": "Familiarity with building or running evals for LLM/agent systems",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "not_evidenced",
+              "ML": "not_evidenced",
+              "DS": "not_evidenced",
+              "SWE": "not_evidenced",
+              "FDE": "not_evidenced",
+              "Research_Software_Engineer": "not_evidenced"
+            }
+          },
+          {
+            "text": "Proficiency with Infrastructure as Code (Terraform) and containerized deployments (Docker, Kubernetes)",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial",
+              "Research_Software_Engineer": "partial"
+            }
+          },
+          {
+            "text": "Experience with data observability, quality, and metadata management tools",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial",
+              "Research_Software_Engineer": "partial"
+            }
+          }
+        ],
+        "usage": {
+          "input": 10208,
+          "output": 7838,
+          "thinking": 1346,
+          "cached": 0,
+          "cache_write": 10205,
+          "cost": 11957450
+        }
+      },
+      "scored_at": "2026-09-25T20:00:39.157596+00:00"
+    },
+    "https://www.linkedin.com/jobs/view/4429890562/": {
+      "url": "https://www.linkedin.com/jobs/view/4429890562/",
+      "context": "3ba40bc7f768802deaea5fdb4539ae6756b2ad705c2a79069ac6f13a206750ea",
+      "description_hash": "ab5387bfa8f811b59b9fceaf8ed2b9617142f12223e68c9ef5229780d50d2051",
+      "status": "valid",
+      "luna": {
+        "model": "gpt-5.6-luna",
+        "scores": {
+          "BioScience_ML": 23,
+          "ML": 23,
+          "DS": 23,
+          "SWE": 27,
+          "FDE": 23,
+          "Research_Software_Engineer": 18
+        },
+        "best_resumes": [
+          "SWE"
+        ],
+        "requirements": [
+          {
+            "text": "Requires a Master’s degree in Computer Science or related field or equivalent and two (2) years of experience developing client-side applications using React, JavaScript, TypeScript, and Redux for scalable UI architecture and modular design; maintaining source control and collaborative development workflows using Git, including creating, reviewing, and merging pull requests; implementing front-end performance optimization techniques including lazy loading and caching strategies to improve speed and responsiveness; participating in Agile software development methodologies, including sprint planning, daily standups, retrospectives, and iterative releases; refining technical requirements and assessing implementation feasibility; applying JavaScript best practices to ensure maintainable, testable, and efficient code across web and mobile platforms; writing and maintaining responsive CSS that complies with WCAG accessibility standards and ensuring consistent user experience across devices; utilizing GraphQL to integrate frontend components with middleware and backend services; developing backend components and server logic using Node.js, including integrating APIs and handling middleware logic; and using Docker to build, deploy, and manage containerized applications in development and integration environments.",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial",
+              "Research_Software_Engineer": "partial"
+            }
+          },
+          {
+            "text": "Requires a Master’s degree in Computer Science or related field or equivalent and two (2) years of experience developing client-side applications using React, JavaScript, TypeScript, and Redux for scalable UI architecture and modular design; maintaining source control and collaborative development workflows using Git, including creating, reviewing, and merging pull requests; implementing front-end performance optimization techniques including lazy loading and caching strategies to improve speed and responsiveness; participating in Agile software development methodologies, including sprint planning, daily standups, retrospectives, and iterative releases; refining technical requirements and assessing implementation feasibility; applying JavaScript best practices to ensure maintainable, testable, and efficient code across web and mobile platforms; writing and maintaining responsive CSS that complies with WCAG accessibility standards and ensuring consistent user experience across devices; utilizing GraphQL to integrate frontend components with middleware and backend services; developing backend components and server logic using Node.js, including integrating APIs and handling middleware logic; and using Docker to build, deploy, and manage containerized applications in development and integration environments.",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "not_evidenced",
+              "ML": "not_evidenced",
+              "DS": "not_evidenced",
+              "SWE": "not_evidenced",
+              "FDE": "not_evidenced",
+              "Research_Software_Engineer": "not_evidenced"
+            }
+          },
+          {
+            "text": "Requires a Master’s degree in Computer Science or related field or equivalent and two (2) years of experience developing client-side applications using React, JavaScript, TypeScript, and Redux for scalable UI architecture and modular design; maintaining source control and collaborative development workflows using Git, including creating, reviewing, and merging pull requests; implementing front-end performance optimization techniques including lazy loading and caching strategies to improve speed and responsiveness; participating in Agile software development methodologies, including sprint planning, daily standups, retrospectives, and iterative releases; refining technical requirements and assessing implementation feasibility; applying JavaScript best practices to ensure maintainable, testable, and efficient code across web and mobile platforms; writing and maintaining responsive CSS that complies with WCAG accessibility standards and ensuring consistent user experience across devices; utilizing GraphQL to integrate frontend components with middleware and backend services; developing backend components and server logic using Node.js, including integrating APIs and handling middleware logic; and using Docker to build, deploy, and manage containerized applications in development and integration environments.",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial",
+              "Research_Software_Engineer": "not_evidenced"
+            }
+          },
+          {
+            "text": "Requires a Master’s degree in Computer Science or related field or equivalent and two (2) years of experience developing client-side applications using React, JavaScript, TypeScript, and Redux for scalable UI architecture and modular design; maintaining source control and collaborative development workflows using Git, including creating, reviewing, and merging pull requests; implementing front-end performance optimization techniques including lazy loading and caching strategies to improve speed and responsiveness; participating in Agile software development methodologies, including sprint planning, daily standups, retrospectives, and iterative releases; refining technical requirements and assessing implementation feasibility; applying JavaScript best practices to ensure maintainable, testable, and efficient code across web and mobile platforms; writing and maintaining responsive CSS that complies with WCAG accessibility standards and ensuring consistent user experience across devices; utilizing GraphQL to integrate frontend components with middleware and backend services; developing backend components and server logic using Node.js, including integrating APIs and handling middleware logic; and using Docker to build, deploy, and manage containerized applications in development and integration environments.",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "not_evidenced",
+              "ML": "not_evidenced",
+              "DS": "not_evidenced",
+              "SWE": "not_evidenced",
+              "FDE": "not_evidenced",
+              "Research_Software_Engineer": "not_evidenced"
+            }
+          },
+          {
+            "text": "Requires a Master’s degree in Computer Science or related field or equivalent and two (2) years of experience developing client-side applications using React, JavaScript, TypeScript, and Redux for scalable UI architecture and modular design; maintaining source control and collaborative development workflows using Git, including creating, reviewing, and merging pull requests; implementing front-end performance optimization techniques including lazy loading and caching strategies to improve speed and responsiveness; participating in Agile software development methodologies, including sprint planning, daily standups, retrospectives, and iterative releases; refining technical requirements and assessing implementation feasibility; applying JavaScript best practices to ensure maintainable, testable, and efficient code across web and mobile platforms; writing and maintaining responsive CSS that complies with WCAG accessibility standards and ensuring consistent user experience across devices; utilizing GraphQL to integrate frontend components with middleware and backend services; developing backend components and server logic using Node.js, including integrating APIs and handling middleware logic; and using Docker to build, deploy, and manage containerized applications in development and integration environments.",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "not_evidenced",
+              "ML": "not_evidenced",
+              "DS": "not_evidenced",
+              "SWE": "not_evidenced",
+              "FDE": "not_evidenced",
+              "Research_Software_Engineer": "not_evidenced"
+            }
+          },
+          {
+            "text": "Requires a Master’s degree in Computer Science or related field or equivalent and two (2) years of experience developing client-side applications using React, JavaScript, TypeScript, and Redux for scalable UI architecture and modular design; maintaining source control and collaborative development workflows using Git, including creating, reviewing, and merging pull requests; implementing front-end performance optimization techniques including lazy loading and caching strategies to improve speed and responsiveness; participating in Agile software development methodologies, including sprint planning, daily standups, retrospectives, and iterative releases; refining technical requirements and assessing implementation feasibility; applying JavaScript best practices to ensure maintainable, testable, and efficient code across web and mobile platforms; writing and maintaining responsive CSS that complies with WCAG accessibility standards and ensuring consistent user experience across devices; utilizing GraphQL to integrate frontend components with middleware and backend services; developing backend components and server logic using Node.js, including integrating APIs and handling middleware logic; and using Docker to build, deploy, and manage containerized applications in development and integration environments.",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial",
+              "Research_Software_Engineer": "partial"
+            }
+          },
+          {
+            "text": "Requires a Master’s degree in Computer Science or related field or equivalent and two (2) years of experience developing client-side applications using React, JavaScript, TypeScript, and Redux for scalable UI architecture and modular design; maintaining source control and collaborative development workflows using Git, including creating, reviewing, and merging pull requests; implementing front-end performance optimization techniques including lazy loading and caching strategies to improve speed and responsiveness; participating in Agile software development methodologies, including sprint planning, daily standups, retrospectives, and iterative releases; refining technical requirements and assessing implementation feasibility; applying JavaScript best practices to ensure maintainable, testable, and efficient code across web and mobile platforms; writing and maintaining responsive CSS that complies with WCAG accessibility standards and ensuring consistent user experience across devices; utilizing GraphQL to integrate frontend components with middleware and backend services; developing backend components and server logic using Node.js, including integrating APIs and handling middleware logic; and using Docker to build, deploy, and manage containerized applications in development and integration environments.",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "not_evidenced",
+              "ML": "not_evidenced",
+              "DS": "not_evidenced",
+              "SWE": "partial",
+              "FDE": "not_evidenced",
+              "Research_Software_Engineer": "not_evidenced"
+            }
+          },
+          {
+            "text": "Requires a Master’s degree in Computer Science or related field or equivalent and two (2) years of experience developing client-side applications using React, JavaScript, TypeScript, and Redux for scalable UI architecture and modular design; maintaining source control and collaborative development workflows using Git, including creating, reviewing, and merging pull requests; implementing front-end performance optimization techniques including lazy loading and caching strategies to improve speed and responsiveness; participating in Agile software development methodologies, including sprint planning, daily standups, retrospectives, and iterative releases; refining technical requirements and assessing implementation feasibility; applying JavaScript best practices to ensure maintainable, testable, and efficient code across web and mobile platforms; writing and maintaining responsive CSS that complies with WCAG accessibility standards and ensuring consistent user experience across devices; utilizing GraphQL to integrate frontend components with middleware and backend services; developing backend components and server logic using Node.js, including integrating APIs and handling middleware logic; and using Docker to build, deploy, and manage containerized applications in development and integration environments.",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "not_evidenced",
+              "ML": "not_evidenced",
+              "DS": "not_evidenced",
+              "SWE": "not_evidenced",
+              "FDE": "not_evidenced",
+              "Research_Software_Engineer": "not_evidenced"
+            }
+          },
+          {
+            "text": "Requires a Master’s degree in Computer Science or related field or equivalent and two (2) years of experience developing client-side applications using React, JavaScript, TypeScript, and Redux for scalable UI architecture and modular design; maintaining source control and collaborative development workflows using Git, including creating, reviewing, and merging pull requests; implementing front-end performance optimization techniques including lazy loading and caching strategies to improve speed and responsiveness; participating in Agile software development methodologies, including sprint planning, daily standups, retrospectives, and iterative releases; refining technical requirements and assessing implementation feasibility; applying JavaScript best practices to ensure maintainable, testable, and efficient code across web and mobile platforms; writing and maintaining responsive CSS that complies with WCAG accessibility standards and ensuring consistent user experience across devices; utilizing GraphQL to integrate frontend components with middleware and backend services; developing backend components and server logic using Node.js, including integrating APIs and handling middleware logic; and using Docker to build, deploy, and manage containerized applications in development and integration environments.",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "not_evidenced",
+              "ML": "not_evidenced",
+              "DS": "not_evidenced",
+              "SWE": "not_evidenced",
+              "FDE": "not_evidenced",
+              "Research_Software_Engineer": "not_evidenced"
+            }
+          },
+          {
+            "text": "Requires a Master’s degree in Computer Science or related field or equivalent and two (2) years of experience developing client-side applications using React, JavaScript, TypeScript, and Redux for scalable UI architecture and modular design; maintaining source control and collaborative development workflows using Git, including creating, reviewing, and merging pull requests; implementing front-end performance optimization techniques including lazy loading and caching strategies to improve speed and responsiveness; participating in Agile software development methodologies, including sprint planning, daily standups, retrospectives, and iterative releases; refining technical requirements and assessing implementation feasibility; applying JavaScript best practices to ensure maintainable, testable, and efficient code across web and mobile platforms; writing and maintaining responsive CSS that complies with WCAG accessibility standards and ensuring consistent user experience across devices; utilizing GraphQL to integrate frontend components with middleware and backend services; developing backend components and server logic using Node.js, including integrating APIs and handling middleware logic; and using Docker to build, deploy, and manage containerized applications in development and integration environments.",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "not_evidenced",
+              "ML": "not_evidenced",
+              "DS": "not_evidenced",
+              "SWE": "not_evidenced",
+              "FDE": "not_evidenced",
+              "Research_Software_Engineer": "not_evidenced"
+            }
+          },
+          {
+            "text": "Requires a Master’s degree in Computer Science or related field or equivalent and two (2) years of experience developing client-side applications using React, JavaScript, TypeScript, and Redux for scalable UI architecture and modular design; maintaining source control and collaborative development workflows using Git, including creating, reviewing, and merging pull requests; implementing front-end performance optimization techniques including lazy loading and caching strategies to improve speed and responsiveness; participating in Agile software development methodologies, including sprint planning, daily standups, retrospectives, and iterative releases; refining technical requirements and assessing implementation feasibility; applying JavaScript best practices to ensure maintainable, testable, and efficient code across web and mobile platforms; writing and maintaining responsive CSS that complies with WCAG accessibility standards and ensuring consistent user experience across devices; utilizing GraphQL to integrate frontend components with middleware and backend services; developing backend components and server logic using Node.js, including integrating APIs and handling middleware logic; and using Docker to build, deploy, and manage containerized applications in development and integration environments.",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "matched",
+              "FDE": "matched",
+              "Research_Software_Engineer": "matched"
+            }
+          }
+        ],
+        "usage": {
+          "input": 9661,
+          "output": 4459,
+          "thinking": 775,
+          "cached": 0,
+          "cache_write": 9658,
+          "cost": 7765900
+        }
+      },
+      "scored_at": "2026-09-25T20:00:39.157596+00:00"
     }
   },
   "limits": {
@@ -226571,7 +227652,7 @@
     "sonnet": 10
   },
   "attempts_today": {
-    "luna": 68,
+    "luna": 74,
     "sonnet": 0
   }
 }
