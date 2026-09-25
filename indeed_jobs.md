@@ -1,54 +1,99 @@
 # 🟦 Indeed — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-09-25 01:52 UTC*
+*Last updated: 2026-09-25 08:10 UTC*
 
-**10 new role(s)** since last run · 84 total in last 24h
+**19 new role(s)** since last run · 76 total in last 24h
 
-### [Data Scientist, Product](https://www.indeed.com/viewjob?jk=3c0350882f5cc1d7) — Givebutter
+### [Software Engineer (Metrology Systems)](https://www.indeed.com/viewjob?jk=10c2458197a83b64) — KLA
+- 📍 **Location:** Milpitas, CA, US
+- 💰 **Salary:** $115k–$168k/yr
+- 🕒 **Posted:** 2026-09-24
+
+### [Power Systems Research Engineer, DeepMind](https://www.indeed.com/viewjob?jk=8441ada29fc3dfb8) — DeepMind
 - 📍 **Location:** San Francisco, CA, US
+- 💰 **Salary:** $207k–$300k/yr
+- 🕒 **Posted:** 2026-09-24
+
+### [Software Engineer](https://www.indeed.com/viewjob?jk=6e1c268328c60618) — Visa
+- 📍 **Location:** Foster City, CA, US
+- 💰 **Salary:** $86k–$158k/yr
+- 🕒 **Posted:** 2026-09-24
+
+### [PhD 2026 Graduate Software Engineer II (AV Labs), United States](https://www.indeed.com/viewjob?jk=60b887873b89201d) — Uber
+- 📍 **Location:** Sunnyvale, CA, US
+- 💰 **Salary:** $171k–$190k/yr
+- 🕒 **Posted:** 2026-09-24
+
+### [AI/ML Engineer](https://www.indeed.com/viewjob?jk=ee6e5849960c5981) — Unknown
+- 📍 **Location:** San Francisco, CA, US
+- 💰 **Salary:** $120k–$200k/yr
+- 🕒 **Posted:** 2026-09-25
+
+### [Forward Deployed Engineer III, Generative AI, Geo](https://www.indeed.com/viewjob?jk=c95090c5d4544159) — Google
+- 📍 **Location:** San Francisco, CA, US
+- 💰 **Salary:** $174k–$252k/yr
+- 🕒 **Posted:** 2026-09-25
+
+### [Forward Deployed Engineer III, Generative AI, Geo](https://www.indeed.com/viewjob?jk=a1eb7cb612e94c79) — Google
+- 📍 **Location:** Mountain View, CA, US
+- 💰 **Salary:** $174k–$252k/yr
+- 🕒 **Posted:** 2026-09-25
+
+### [Computational Biologist (ML) Postdoctoral Researcher](https://www.indeed.com/viewjob?jk=e092e58092aafc93) — Lawrence Livermore National Laboratory
+- 📍 **Location:** Livermore, CA, US
+- 💰 **Salary:** $122k–$143k/yr
+- 🕒 **Posted:** 2026-09-24
+
+### [Software Engineer Intern (AI / ML) - Spring 2027](https://www.indeed.com/viewjob?jk=aefb70733fd4805b) — Snowflake
+- 📍 **Location:** Menlo Park, CA, US
+- 💰 **Salary:** $42–$60/hr
+- 🕒 **Posted:** 2026-09-25
+
+### [Software Engineer, Manufacturing Test Equipment](https://www.indeed.com/viewjob?jk=c4e9d3bbf46e2d72) — Tesla
+- 📍 **Location:** Palo Alto, CA, US
+- 💰 **Salary:** $120k–$396k/yr
+- 🕒 **Posted:** 2026-09-24
+
+### [Robotics Software Engineer](https://www.indeed.com/viewjob?jk=5fa595c3a334a799) — Unknown
+- 📍 **Location:** Milpitas, CA, US
+- 💰 **Salary:** $165k–$235k/yr
+- 🕒 **Posted:** 2026-09-24
+
+### [Software Engineer, Search Infrastructure](https://www.indeed.com/viewjob?jk=632b66d0f316894b) — OpenAI
+- 📍 **Location:** San Francisco, CA, US
+- 💰 **Salary:** $266k–$445k/yr
+- 🕒 **Posted:** 2026-09-24
+
+### [Power Systems Research Engineer, DeepMind](https://www.indeed.com/viewjob?jk=34c07b25a7f3ebbb) — DeepMind
+- 📍 **Location:** New York, NY, US
+- 💰 **Salary:** $207k–$300k/yr
+- 🕒 **Posted:** 2026-09-24
+
+### [AI/ML Engineer](https://www.indeed.com/viewjob?jk=eb7f73e583679602) — ZT Systems
+- 📍 **Location:** Secaucus, NJ, US
+- 💰 **Salary:** $105k–$154k/yr
+- 🕒 **Posted:** 2026-09-24
+
+### [Forward Deployed Engineer III, Generative AI, Geo](https://www.indeed.com/viewjob?jk=d24c18172436901f) — Google
+- 📍 **Location:** New York, NY, US
+- 💰 **Salary:** $174k–$252k/yr
+- 🕒 **Posted:** 2026-09-25
+
+### [Data Science Associate](https://www.indeed.com/viewjob?jk=9aa7f0a2c480db23) — JPMorganChase
+- 📍 **Location:** New York, NY, US
+- 💰 **Salary:** $104k–$140k/yr
+- 🕒 **Posted:** 2026-09-24
+
+### [Data Scientist, Product](https://www.indeed.com/viewjob?jk=903f48e8e507e43f) — Givebutter
+- 📍 **Location:** New York, NY, US
 - 💰 **Salary:** $120k–$140k/yr
 - 🕒 **Posted:** 2026-09-24
 
-### [Data Scientist - Client Platform](https://www.indeed.com/viewjob?jk=5e849a8f55e74636) — Discord
-- 📍 **Location:** San Francisco Bay Area, CA, US
-- 💰 **Salary:** $160k–$200k/yr
+### [Software Engineer II](https://www.indeed.com/viewjob?jk=8be899450dd92744) — Deloitte
+- 📍 **Location:** Jersey City, NJ, US
+- 💰 **Salary:** $77k–$128k/yr
 - 🕒 **Posted:** 2026-09-24
 
-### [Software Engineer 3](https://www.indeed.com/viewjob?jk=c371200e7594b2f9) — eBay
-- 📍 **Location:** San Jose, CA, US
-- 💰 **Salary:** $170k–$230k/yr
-- 🕒 **Posted:** 2026-09-24
-
-### [Distributed Systems Backend Engineer, Used Cars](https://www.indeed.com/viewjob?jk=d86dd5dffc7a02b6) — Tesla
-- 📍 **Location:** Fremont, CA, US
-- 💰 **Salary:** $168k–$300k/yr
-- 🕒 **Posted:** 2026-09-24
-
-### [Software Developer Engineer, Amazon WorkSpaces Core Managed Instances](https://www.indeed.com/viewjob?jk=4a0153abe90c59e8) — Amazon Web Services
-- 📍 **Location:** Sunnyvale, CA, US
-- 💰 **Salary:** $144k–$224k/yr
-- 🕒 **Posted:** 2026-09-15
-
-### [Software Developer Engineer, Amazon WorkSpaces Core Managed Instances](https://www.indeed.com/viewjob?jk=678f2b8818bf8724) — Amazon.com
-- 📍 **Location:** Sunnyvale, CA, US
-- 💰 **Salary:** $144k–$224k/yr
-- 🕒 **Posted:** 2026-09-15
-
-### [Software Developer Engineer, Amazon WorkSpaces Core Managed Instances](https://www.indeed.com/viewjob?jk=62870635b3a618b6) — Amazon.com
-- 📍 **Location:** Sunnyvale, CA, US
-- 💰 **Salary:** $144k–$224k/yr
-- 🕒 **Posted:** 2026-09-15
-
-### [Software Developer Engineer, Amazon WorkSpaces Core Managed Instances](https://www.indeed.com/viewjob?jk=c9ea46303d00e9d4) — Amazon Web Services
-- 📍 **Location:** Sunnyvale, CA, US
-- 💰 **Salary:** $144k–$224k/yr
-- 🕒 **Posted:** 2026-09-15
-
-### [Software Engineer III (Full Stack Java)](https://www.indeed.com/viewjob?jk=d94be8326cfe1c4a) — JPMorganChase
+### [Software Engineer, Payments](https://www.indeed.com/viewjob?jk=8dbfe93020926592) — WEX Inc.
 - 📍 **Location:** New York, NY, US
-- 💰 **Salary:** $138k–$185k/yr
-- 🕒 **Posted:** 2026-09-24
-
-### [Software Engineer](https://www.indeed.com/viewjob?jk=fab2b147b7a4fdb8) — Yext
-- 📍 **Location:** New York, NY, US
-- 💰 **Salary:** $122k–$263k/yr
+- 💰 **Salary:** $96k–$116k/yr
 - 🕒 **Posted:** 2026-09-24
