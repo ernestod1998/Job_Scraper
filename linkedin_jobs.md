@@ -1,63 +1,21 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-09-24 23:18 UTC*
+*Last updated: 2026-09-25 00:17 UTC*
 
-**14 new role(s)** since last run · 35 total in last 1h
+**4 new role(s)** since last run · 18 total in last 1h
 
-### [2027 University Graduate - Machine Learning Engineer](https://www.linkedin.com/jobs/view/4470035816/) — Adobe
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-09-24
-
-### [Computational Scientist](https://www.linkedin.com/jobs/view/4471687877/) — The Fountain Group
-- 📍 **Location:** South San Francisco, CA
-- 🕒 **Posted:** 2026-09-24
-
-### [Software Engineer III](https://www.linkedin.com/jobs/view/4471802388/) — PTR Global
-- 📍 **Location:** Sunnyvale, CA
-- 💰 **Salary:** $80.00/hr - $90.00/hr
-- 🕒 **Posted:** 2026-09-24
-
-### [Software Engineer](https://www.linkedin.com/jobs/view/4471801614/) — Visa
-- 📍 **Location:** Foster City, CA
-- 🕒 **Posted:** 2026-09-24
-
-### [Software Engineering - Software Engineer III](https://www.linkedin.com/jobs/view/4471692750/) — Apex Systems
-- 📍 **Location:** Sunnyvale, CA
-- 💰 **Salary:** $80.00/hr - $90.00/hr
-- 🕒 **Posted:** 2026-09-24
-
-### [Software Engineer II](https://www.linkedin.com/jobs/view/4471801461/) — Badger Meter
-- 📍 **Location:** Los Gatos, CA
-- 🕒 **Posted:** 2026-09-24
-
-### [Research Engineer, Data Infrastructure (Language Modeling)](https://www.linkedin.com/jobs/view/4471812010/) — Cartesia
+### [Applied Scientist, Prime Video Science](https://www.linkedin.com/jobs/view/4471800967/) — Amazon
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-09-24
 
-### [Software Engineer Intern - 2027](https://www.linkedin.com/jobs/view/4470055000/) — Genesis Molecular AI
-- 📍 **Location:** New York, NY
+### [Java Full Stack Developer-Software Engineer III](https://www.linkedin.com/jobs/view/4471804884/) — Deloitte
+- 📍 **Location:** Jersey City, NJ
 - 🕒 **Posted:** 2026-09-24
 
-### [Robotics Software Engineer](https://www.linkedin.com/jobs/view/4471695624/) — RoboForce
+### [Robotics Software Engineer](https://www.linkedin.com/jobs/view/4470035950/) — RoboForce
 - 📍 **Location:** Milpitas, CA
+- 💰 **Salary:** $165,000.00/yr - $235,000.00/yr
 - 🕒 **Posted:** 2026-09-24
 
-### [2027 University Graduate - Software Engineer](https://www.linkedin.com/jobs/view/4470036822/) — Adobe
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-09-24
-
-### [Site Reliability Engineer - Remote](https://www.linkedin.com/jobs/view/4471695744/) — Russell Tobin
-- 📍 **Location:** Santa Clara, CA
-- 💰 **Salary:** $57.00/hr - $60.00/hr
-- 🕒 **Posted:** 2026-09-24
-
-### [FullStack Engineer-UI/Frontend Focus](https://www.linkedin.com/jobs/view/4470047239/) — Tata Consultancy Services
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-09-24
-
-### [Software Engineer](https://www.linkedin.com/jobs/view/4470013824/) — The Primer
-- 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-09-24
-
-### [Software Engineer II](https://www.linkedin.com/jobs/view/4471800352/) — Abbott
-- 📍 **Location:** Sunnyvale, CA
+### [Software Engineer](https://www.linkedin.com/jobs/view/4471821021/) — MeeBoss
+- 📍 **Location:** Manhattan, NY
 - 🕒 **Posted:** 2026-09-24
