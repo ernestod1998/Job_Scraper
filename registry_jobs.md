@@ -1,468 +1,315 @@
 # 🗃 Direct ATS Registry — Engineering / ML / DS Roles
-*Last updated: 2026-09-26 06:36 UTC*
+*Last updated: 2026-09-26 17:44 UTC*
 
-**116 new role(s)** since last run · 265 total in current registry shard
+**78 new role(s)** since last run · 78 total in current registry shard
 
-### [Site Reliability Engineer (Tu-Sat, night shift)](https://job-boards.greenhouse.io/a3c41b8b71eff8c4/jobs/7519836003) — Ivanti
-- 📍 **Location:** United States, Remote
-- 🕒 **Posted:** 2026-09-21
-
-### [Software Engineer, Client Experience Frameworks](https://job-boards.greenhouse.io/addepar1/jobs/8733680002) — Addepar
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-09-17
-
-### [Software Engineer II, Backend (Identity Decisioning)](https://job-boards.greenhouse.io/affirm/jobs/7985860003) — Affirm
-- 📍 **Location:** Remote US
-- 🕒 **Posted:** 2026-09-24
-
-### [Software Engineer, Manufacturing Test](https://boards.greenhouse.io/andurilindustries/jobs/5161515007?gh_jid=5161515007) — Anduril
-- 📍 **Location:** Mountain View, California, United States
-- 🕒 **Posted:** 2026-09-24
-
-### [Data Scientist – Analytics ](https://boards.greenhouse.io/applovin/jobs/4705263006?gh_jid=4705263006) — AppLovin
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-09-16
-
-### [Measurement Data Scientist](https://boards.greenhouse.io/applovin/jobs/4705264006?gh_jid=4705264006) — AppLovin
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-09-16
-
-### [ML Data Infrastructure Engineer](https://boards.greenhouse.io/applovin/jobs/4716524006?gh_jid=4716524006) — AppLovin
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-09-24
-
-### [ML Infrastructure Engineer ](https://boards.greenhouse.io/applovin/jobs/4655740006?gh_jid=4655740006) — AppLovin
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-09-16
-
-### [Software Engineer, Machine Learning](https://boards.greenhouse.io/applovin/jobs/4712559006?gh_jid=4712559006) — AppLovin
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-09-16
-
-### [Product Software Developer – Back-End - Summer 2027](https://boards.greenhouse.io/assuredguaranty/jobs/8827458002?gh_jid=8827458002) — Assured Guaranty
-- 📍 **Location:** New York, NY, United States
-- 🕒 **Posted:** 2026-09-21
-
-### [Product Software Developer – Front-End - Summer 2027](https://boards.greenhouse.io/assuredguaranty/jobs/8827460002?gh_jid=8827460002) — Assured Guaranty
-- 📍 **Location:** New York, NY, United States
-- 🕒 **Posted:** 2026-09-21
-
-### [Embedded Software Engineer - Network Software](https://job-boards.greenhouse.io/astranis/jobs/4363202006) — Astranis
-- 📍 **Location:** San Francisco
-- 🕒 **Posted:** 2026-09-25
-
-### [Flight Software Engineer ](https://job-boards.greenhouse.io/astranis/jobs/4015622006) — Astranis
-- 📍 **Location:** San Francisco
-- 🕒 **Posted:** 2026-09-25
-
-### [Hardware Test Software Engineer ](https://job-boards.greenhouse.io/astranis/jobs/4244436006) — Astranis
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-09-25
-
-### [Software Developer, Network Software Associate (Summer 2027)](https://job-boards.greenhouse.io/astranis/jobs/4705615006) — Astranis
-- 📍 **Location:** San Francisco
-- 🕒 **Posted:** 2026-09-25
-
-### [Software Developer, Network Software Associate (Winter 2027)](https://job-boards.greenhouse.io/astranis/jobs/4705617006) — Astranis
-- 📍 **Location:** San Francisco
-- 🕒 **Posted:** 2026-09-25
-
-### [Software Developer, Network Software Intern (Summer 2027)](https://job-boards.greenhouse.io/astranis/jobs/4705597006) — Astranis
-- 📍 **Location:** San Francisco
-- 🕒 **Posted:** 2026-09-25
-
-### [Software Developer, Network Software Intern (Winter 2027)](https://job-boards.greenhouse.io/astranis/jobs/4705599006) — Astranis
-- 📍 **Location:** San Francisco
-- 🕒 **Posted:** 2026-09-25
-
-### [Software Engineer Backend Intern (Summer 2027)](https://job-boards.greenhouse.io/astranis/jobs/4705214006) — Astranis
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-09-25
-
-### [Software Engineer - Enterprise Systems Intern (Summer 2027)](https://job-boards.greenhouse.io/astranis/jobs/4705610006) — Astranis
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-09-25
-
-### [Software Engineer - Hardware Test](https://job-boards.greenhouse.io/astranis/jobs/4702072006) — Astranis
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-09-25
-
-### [Software Engineer - Vehicle Test](https://job-boards.greenhouse.io/astranis/jobs/4714019006) — Astranis
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-09-25
-
-### [New Grad Software Engineer](https://job-boards.greenhouse.io/authenticinsurance/jobs/4114318009) — Authentic
-- 📍 **Location:** New York, New York, United States
-- 🕒 **Posted:** 2026-09-23
-
-### [Software Engineer](https://job-boards.greenhouse.io/axios/jobs/7818788) — Axios
-- 📍 **Location:** Remote
-- 🕒 **Posted:** 2026-09-15
-
-### [Data Science - Intern (Summer 2027)](https://job-boards.greenhouse.io/c3ascend/jobs/8738917002) — c3ascend
-- 📍 **Location:** Redwood City, CA
-- 🕒 **Posted:** 2026-09-23
-
-### [Software Engineer - Intern (Summer 2027)](https://job-boards.greenhouse.io/c3ascend/jobs/8739036002) — c3ascend
-- 📍 **Location:** Redwood City, CA 
-- 🕒 **Posted:** 2026-09-23
-
-### [Data Science - Intern (Summer 2027)](https://c3.ai/job-description/8738918002?gh_jid=8738918002) — c3iot
-- 📍 **Location:** Redwood City, California, United States
-- 🕒 **Posted:** 2026-09-23
-
-### [Platform Full-Stack Engineer, New Grad 2027](https://c3.ai/job-description/8801434002?gh_jid=8801434002) — c3iot
-- 📍 **Location:** Redwood City, California, United States
-- 🕒 **Posted:** 2026-09-23
-
-### [Software Engineer - Intern (Summer 2027)](https://c3.ai/job-description/8739037002?gh_jid=8739037002) — c3iot
-- 📍 **Location:** Redwood City, California, United States
-- 🕒 **Posted:** 2026-09-23
-
-### [Cloud Site Reliability Engineer](https://job-boards.greenhouse.io/cadwell/jobs/4398741009) — Cadwell
-- 📍 **Location:** Remote, USA
-- 🕒 **Posted:** 2026-09-21
-
-### [Software Engineer, AI Enablement](https://boards.greenhouse.io/chime/jobs/8578967002?gh_jid=8578967002) — Chime
-- 📍 **Location:** San Francisco, CA, USA
-- 🕒 **Posted:** 2026-09-23
-
-### [Software Engineer II, Frontend](https://boards.greenhouse.io/crunchyroll/jobs/7843995?gh_jid=7843995) — Crunchyroll
-- 📍 **Location:** San Francisco, CA, United States
-- 🕒 **Posted:** 2026-09-21
-
-### [Software Engineer III, Apple](https://boards.greenhouse.io/crunchyroll/jobs/7609284?gh_jid=7609284) — Crunchyroll
-- 📍 **Location:** San Francisco, CA, United States
-- 🕒 **Posted:** 2026-09-21
-
-### [Software Engineer III, Media Delivery](https://boards.greenhouse.io/crunchyroll/jobs/8221358?gh_jid=8221358) — Crunchyroll
-- 📍 **Location:** San Francisco, CA, United States
-- 🕒 **Posted:** 2026-09-23
-
-### [Software Engineer III, Playback Services](https://boards.greenhouse.io/crunchyroll/jobs/8092597?gh_jid=8092597) — Crunchyroll
-- 📍 **Location:** San Francisco, CA, United States
-- 🕒 **Posted:** 2026-09-21
-
-### [Frontend Engineer](https://job-boards.greenhouse.io/cssmerge/jobs/8583309002) — Atoms
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-09-22
-
-### [Software Engineer, Customer Lifecycle](https://job-boards.greenhouse.io/cssmerge/jobs/8767297002) — Atoms
-- 📍 **Location:** Mountain View, CA
-- 🕒 **Posted:** 2026-09-22
-
-### [Software Engineer- Money Engineering](https://job-boards.greenhouse.io/cssmerge/jobs/8457896002) — Atoms
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-09-22
-
-### [Software Engineer - Networking](https://job-boards.greenhouse.io/cssmerge/jobs/8767251002) — Atoms
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-09-22
-
-### [Platform Engineer (FedD200/ FedD201/ FedD202)](https://job-boards.greenhouse.io/defenseunicorns/jobs/5223131007) — Defense Unicorns
-- 📍 **Location:** Remote, United States
-- 🕒 **Posted:** 2026-09-25
-
-### [Software Engineer (FedD105)](https://job-boards.greenhouse.io/defenseunicorns/jobs/5101183007) — Defense Unicorns
+### [Associate Software Engineer](https://jobs.lever.co/fiscalnote/c76e748f-6e25-42cf-bf26-ebae44280ffd) — FiscalNote
 - 📍 **Location:** United States - Remote
-- 🕒 **Posted:** 2026-09-22
+- 🕒 **Posted:** 2026-09-21
 
-### [Software Engineer, Research – Cumberland Systematic](https://job-boards.greenhouse.io/drweng/jobs/7743648) — DRW
-- 📍 **Location:** New York City
-- 🕒 **Posted:** 2026-09-15
+### [Computer Vision Co-Op](https://jobs.lever.co/kitware/e76197d1-4dc3-4f7c-a30a-597713283bb3) — Kitware
+- 📍 **Location:** Clifton Park, New York
+- 🕒 **Posted:** 2026-09-24
 
-### [Energy Data Scientist](https://job-boards.greenhouse.io/energyhub/jobs/8747080002) — EnergyHub
-- 📍 **Location:** Remote - United States
-- 🕒 **Posted:** 2026-09-18
+### [OSTP Software Developer](https://jobs.lever.co/kitware/dbaac56b-26b2-43b9-8ae3-354b6662ea89) — Kitware
+- 📍 **Location:** Clifton Park, New York
+- 🕒 **Posted:** 2026-09-12
 
-### [Associate Backend Engineer](https://job-boards.greenhouse.io/eulerity/jobs/4709039006) — Eulerity
-- 📍 **Location:** New York, New York
-- 🕒 **Posted:** 2026-09-23
+### [Software Developer Internship](https://jobs.lever.co/kitware/7b6ff8f9-34c6-4338-845d-4e1bbc142906) — Kitware
+- 📍 **Location:** Clifton Park, New York
+- 🕒 **Posted:** 2026-09-16
 
-### [Associate Web Development Software Engineer (SDK)](https://job-boards.greenhouse.io/eulerity/jobs/4716146006) — Eulerity
-- 📍 **Location:** New York, New York
-- 🕒 **Posted:** 2026-09-23
+### [Software Engineer – Query Engines](https://jobs.lever.co/palantir/a576c5ef-2a51-4522-9c98-bca5ac2abbb3) — Palantir
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-09-25
 
-### [Backend Developer Intern](https://job-boards.greenhouse.io/eulerity/jobs/4709040006) — Eulerity
-- 📍 **Location:** New York, New York
-- 🕒 **Posted:** 2026-09-23
-
-### [Full Stack Engineer, Growth](https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4260584009) — Fanatics
-- 📍 **Location:** Los Angeles, CA, United States; New York, NY, United States
-- 🕒 **Posted:** 2026-09-17
-
-### [Data Science Intern — Summer 2027](https://job-boards.greenhouse.io/gallup/jobs/4395491009) — Gallup
+### [Machine Learning Engineer](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Francisco/Machine-Learning-Engineer_R170754-1) — Adobe
 - 📍 **Location:** San Francisco
-- 🕒 **Posted:** 2026-09-16
+- 🕒 **Posted:** Posted 8 Days Ago
 
-### [Site Reliability Engineer Intern — Summer 2027](https://job-boards.greenhouse.io/gallup/jobs/4393731009) — Gallup
+### [Machine Learning Engineer](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Machine-Learning-Engineer_R171719) — Adobe
+- 📍 **Location:** San Jose
+- 🕒 **Posted:** Posted 8 Days Ago
+
+### [Machine Learning Engineer](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Machine-Learning-Engineer_R171718) — Adobe
+- 📍 **Location:** San Jose
+- 🕒 **Posted:** Posted 8 Days Ago
+
+### [Machine Learning Engineer 5](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Machine-Learning-Engineer-5_R169102) — Adobe
+- 📍 **Location:** San Jose
+- 🕒 **Posted:** Posted 8 Days Ago
+
+### [2027 Intern - Machine Learning Engineer](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Machine-Learning-Engineer_R171519) — Adobe
+- 📍 **Location:** San Jose
+- 🕒 **Posted:** Posted 8 Days Ago
+
+### [Machine Learning Engineer, Express AI Foundations](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Machine-Learning-Engineer--Express-AI-Foundations_R167647) — Adobe
+- 📍 **Location:** San Jose
+- 🕒 **Posted:** Posted 8 Days Ago
+
+### [2027 University Graduate - Machine Learning Engineer](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Machine-Learning-Engineer_R172085) — Adobe
+- 📍 **Location:** San Jose
+- 🕒 **Posted:** Posted 2 Days Ago
+
+### [Data Scientist](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Lehi/Data-Scientist_R171177-1) — Adobe
+- 📍 **Location:** San Jose
+- 🕒 **Posted:** Posted 8 Days Ago
+
+### [Data Scientist - Mobile](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Data-Science-Engineer_R171517) — Adobe
+- 📍 **Location:** San Jose
+- 🕒 **Posted:** Posted 8 Days Ago
+
+### [Data Scientist, Adobe.com](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Francisco/Data-Scientist--Adobecom_R171757) — Adobe
 - 📍 **Location:** San Francisco
-- 🕒 **Posted:** 2026-09-16
+- 🕒 **Posted:** Posted Yesterday
 
-### [Software Engineer Intern — Summer 2027](https://job-boards.greenhouse.io/gallup/jobs/4395897009) — Gallup
-- 📍 **Location:** San Francisco
-- 🕒 **Posted:** 2026-09-16
+### [Applied Scientist](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Senior-Applied-Scientist_R165817) — Adobe
+- 📍 **Location:** San Jose
+- 🕒 **Posted:** Posted 8 Days Ago
 
-### [Applied Scientist III](https://job-boards.greenhouse.io/garnerhealth/jobs/6141361004) — Garner Health
-- 📍 **Location:** New York City, New York
-- 🕒 **Posted:** 2026-09-25
+### [AI Software Engineer](https://allstate.wd5.myworkdayjobs.com/allstate_careers/job/USA---IL-Remote/AI-Software-Engineer_R34190) — Allstate Insurance Company
+- 📍 **Location:** USA - IL (Remote)
+- 🕒 **Posted:** Posted 12 Days Ago
 
-### [Applied Scientist III](https://job-boards.greenhouse.io/garnerhealth/jobs/6121272004) — Garner Health
-- 📍 **Location:** New York City, New York
-- 🕒 **Posted:** 2026-09-25
-
-### [Associate Applied Scientist](https://job-boards.greenhouse.io/garnerhealth/jobs/6174213004) — Garner Health
-- 📍 **Location:** New York City, New York
-- 🕒 **Posted:** 2026-09-25
-
-### [Associate Software Engineer](https://job-boards.greenhouse.io/garnerhealth/jobs/6174210004) — Garner Health
-- 📍 **Location:** New York City, New York
-- 🕒 **Posted:** 2026-09-25
-
-### [Software Engineer II](https://job-boards.greenhouse.io/garnerhealth/jobs/6181655004) — Garner Health
-- 📍 **Location:** New York City, New York
-- 🕒 **Posted:** 2026-09-25
-
-### [Software Engineer III](https://job-boards.greenhouse.io/garnerhealth/jobs/6181736004) — Garner Health
-- 📍 **Location:** New York City, New York
-- 🕒 **Posted:** 2026-09-25
-
-### [Software Engineering Intern](https://job-boards.greenhouse.io/garnerhealth/jobs/6164698004) — Garner Health
-- 📍 **Location:** New York City, New York
-- 🕒 **Posted:** 2026-09-25
-
-### [Backend Engineer, AI Engineering: Duo Chat](https://job-boards.greenhouse.io/gitlab/jobs/8698314002) — GitLab
-- 📍 **Location:** Remote, Canada; Remote, United States
-- 🕒 **Posted:** 2026-09-14
-
-### [Fullstack Engineer (TypeScript), AI Engineering: Duo Client SDK](https://job-boards.greenhouse.io/gitlab/jobs/8698330002) — GitLab
-- 📍 **Location:** Remote, Canada; Remote, United States
-- 🕒 **Posted:** 2026-09-14
-
-### [Intermediate Backend Engineer, AMER](https://job-boards.greenhouse.io/gitlab/jobs/8773006002) — GitLab
-- 📍 **Location:** Remote, Canada; Remote, United States
-- 🕒 **Posted:** 2026-09-14
-
-### [Intermediate Backend Engineer, Platform Readiness](https://job-boards.greenhouse.io/gitlab/jobs/8644569002) — GitLab
-- 📍 **Location:** Remote, Canada; Remote, United States
-- 🕒 **Posted:** 2026-09-14
-
-### [Machine Learning Engineer, Search Quality](https://job-boards.greenhouse.io/gleanwork/jobs/4738120005) — Glean
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-09-25
-
-### [Software Engineer, Billing & Revenue Platform](https://job-boards.greenhouse.io/gleanwork/jobs/4656281005) — Glean
-- 📍 **Location:** Mountain View, CA
-- 🕒 **Posted:** 2026-09-23
-
-### [Software Engineer Intern](https://job-boards.greenhouse.io/haizelabs/jobs/4685944008) — haizelabs
-- 📍 **Location:** NYC
-- 🕒 **Posted:** 2026-09-16
-
-### [Summer 2027 - Data Scientist (New Grad) ](https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/7986505003) — ID.me
-- 📍 **Location:** Mountain View, CA 
-- 🕒 **Posted:** 2026-09-21
-
-### [Software Engineer (DevOps)](https://job-boards.greenhouse.io/impiricus/jobs/5428945008) — Impiricus
-- 📍 **Location:** Atlanta, GA, New York, NY, or Remote, USA
-- 🕒 **Posted:** 2026-09-18
-
-### [Generative AI Annotator -  Flexible Hours](https://job-boards.greenhouse.io/innodatainc/jobs/4282641009) — Innodata
-- 📍 **Location:** Remote - United States
-- 🕒 **Posted:** 2026-09-16
-
-### [Research Data Scientist](https://job-boards.greenhouse.io/innodatainc/jobs/4404732009) — Innodata
-- 📍 **Location:** Remote - United States
-- 🕒 **Posted:** 2026-09-24
-
-### [Forward Deployed Data Scientist](https://job-boards.greenhouse.io/intercom/jobs/8185627) — Fin
-- 📍 **Location:** San Francisco, California
-- 🕒 **Posted:** 2026-09-16
-
-### [Front End Software Engineer](https://www.janestreet.com/join-jane-street/apply/6184529002?gh_jid=6184529002) — Jane Street
-- 📍 **Location:** New York, New York, United States
-- 🕒 **Posted:** 2026-09-21
-
-### [Machine Learning Engineer](https://www.janestreet.com/join-jane-street/apply/8611307002?gh_jid=8611307002) — Jane Street
-- 📍 **Location:** New York, New York, United States
-- 🕒 **Posted:** 2026-09-21
-
-### [Machine Learning Research Engineer](https://www.janestreet.com/join-jane-street/apply/6485460002?gh_jid=6485460002) — Jane Street
-- 📍 **Location:** New York, New York, United States
-- 🕒 **Posted:** 2026-09-21
-
-### [Software Engineer](https://www.janestreet.com/join-jane-street/apply/4274288002?gh_jid=4274288002) — Jane Street
-- 📍 **Location:** New York, New York, United States
-- 🕒 **Posted:** 2026-09-21
-
-### [Software Engineer](https://www.janestreet.com/join-jane-street/apply/8599644002?gh_jid=8599644002) — Jane Street
-- 📍 **Location:** New York, New York, United States
-- 🕒 **Posted:** 2026-09-21
-
-### [Software Engineer](https://www.janestreet.com/join-jane-street/apply/8419303002?gh_jid=8419303002) — Jane Street
-- 📍 **Location:** New York, New York, United States
-- 🕒 **Posted:** 2026-09-21
-
-### [Software Engineer ](https://www.janestreet.com/join-jane-street/apply/8594541002?gh_jid=8594541002) — Jane Street
-- 📍 **Location:** New York, New York, United States
-- 🕒 **Posted:** 2026-09-21
-
-### [Software Engineer / Writer](https://www.janestreet.com/join-jane-street/apply/7604415002?gh_jid=7604415002) — Jane Street
-- 📍 **Location:** New York, New York, United States
-- 🕒 **Posted:** 2026-09-21
-
-### [Machine Learning Engineer Internship-Summer 2027](https://job-boards.greenhouse.io/klaviyocampus/jobs/7999274003) — Klaviyo
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-09-24
-
-### [Data Scientist - (Global)](https://job-boards.greenhouse.io/koboldmetals/jobs/4305917005) — KoBold Metals
-- 📍 **Location:** Remote
-- 🕒 **Posted:** 2026-09-14
-
-### [Frontend Software Engineer ](https://job-boards.greenhouse.io/koboldmetals/jobs/4286209005) — KoBold Metals
-- 📍 **Location:** Remote
-- 🕒 **Posted:** 2026-09-14
-
-### [Software Engineer (All Levels)](https://job-boards.greenhouse.io/koboldmetals/jobs/4510145005) — KoBold Metals
-- 📍 **Location:** Remote
-- 🕒 **Posted:** 2026-09-14
-
-### [Software Engineer, UI Tools Infrastructure](https://job-boards.greenhouse.io/kodiak/jobs/4320932009) — Kodiak Robotics
-- 📍 **Location:** Mountain View, CA
-- 🕒 **Posted:** 2026-09-18
-
-### [Machine Learning Scientist I / II, Protein Design](https://job-boards.greenhouse.io/lilasciences/jobs/4396760009) — Lila Sciences
-- 📍 **Location:** San Francisco, CA USA
-- 🕒 **Posted:** 2026-09-14
-
-### [ML Scientist I/II, AI for Protein Engineering](https://job-boards.greenhouse.io/lilasciences/jobs/4392245009) — Lila Sciences
-- 📍 **Location:** San Francisco, CA USA
-- 🕒 **Posted:** 2026-09-14
-
-### [Perception Software Engineer, Autonomous Driving](https://lucidmotors.com/careers/search/5242880007?gh_jid=5242880007) — Lucid Motors
-- 📍 **Location:** Newark, CA
-- 🕒 **Posted:** 2026-09-25
-
-### [Software Engineer I - AssureHire (Go)](https://job-boards.greenhouse.io/mitratech/jobs/8060928) — Mitratech
-- 📍 **Location:** Remote US
-- 🕒 **Posted:** 2026-09-15
-
-### [Data Scientist](https://job-boards.greenhouse.io/mrbeastyoutube/jobs/6177601004) — MrBeast
-- 📍 **Location:** San Mateo, CA
-- 🕒 **Posted:** 2026-09-24
-
-### [Full Stack Engineer](https://job-boards.greenhouse.io/mrbeastyoutube/jobs/6119092004) — MrBeast
-- 📍 **Location:** San Mateo, CA
-- 🕒 **Posted:** 2026-09-25
-
-### [​​Platform Engineer, Onboard Compute](https://job-boards.greenhouse.io/muonspace/jobs/5214205007) — Muon Space
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-09-18
-
-### [Software Engineer, Computer Vision / Image Processing](https://job-boards.greenhouse.io/muonspace/jobs/5238263007) — Muon Space
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-09-18
-
-### [Software Engineer, Computer Vision / Machine Learning](https://job-boards.greenhouse.io/muonspace/jobs/5238256007) — Muon Space
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-09-18
-
-### [Software Engineer, Customer Solutions](https://job-boards.greenhouse.io/muonspace/jobs/5222971007) — Muon Space
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-09-18
-
-### [Software Engineer, Flight Software](https://job-boards.greenhouse.io/muonspace/jobs/5023371007) — Muon Space
-- 📍 **Location:** San Jose, CA 
-- 🕒 **Posted:** 2026-09-18
-
-### [Software Engineer, Frontend](https://job-boards.greenhouse.io/muonspace/jobs/5188072007) — Muon Space
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-09-18
-
-### [Software Engineer, IR Data Products](https://job-boards.greenhouse.io/muonspace/jobs/5205516007) — Muon Space
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-09-18
-
-### [Software Engineer, Simulation Infrastructure](https://job-boards.greenhouse.io/muonspace/jobs/5204530007) — Muon Space
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-09-18
-
-### [Embedded Software Engineer, Implant Embedded Systems](https://boards.greenhouse.io/neuralink/jobs/6550259003?gh_jid=6550259003) — Neuralink
-- 📍 **Location:** Austin, Texas, United States; South San Francisco, California, United States
-- 🕒 **Posted:** 2026-09-24
-
-### [Embedded Software Engineer Intern, Implant Embedded Systems](https://boards.greenhouse.io/neuralink/jobs/6283663003?gh_jid=6283663003) — Neuralink
-- 📍 **Location:** Austin, Texas, United States; South San Francisco, California, United States
-- 🕒 **Posted:** 2026-09-24
-
-### [Machine Learning Engineer](https://boards.greenhouse.io/neuralink/jobs/5663271003?gh_jid=5663271003) — Neuralink
-- 📍 **Location:** Austin, Texas, United States; South San Francisco, California, United States
-- 🕒 **Posted:** 2026-09-24
-
-### [Machine Learning Engineer Intern](https://boards.greenhouse.io/neuralink/jobs/6594261003?gh_jid=6594261003) — Neuralink
-- 📍 **Location:** South San Francisco, California, United States
-- 🕒 **Posted:** 2026-09-24
-
-### [Robotics Engineer](https://boards.greenhouse.io/neuralink/jobs/8005705003?gh_jid=8005705003) — Neuralink
-- 📍 **Location:** Austin, Texas, United States; South San Francisco, California, United States
-- 🕒 **Posted:** 2026-09-25
-
-### [Software Engineer, ASIC](https://boards.greenhouse.io/neuralink/jobs/7743087003?gh_jid=7743087003) — Neuralink
-- 📍 **Location:** South San Francisco, California, United States
-- 🕒 **Posted:** 2026-09-24
-
-### [Software Engineer, BCI Applications](https://boards.greenhouse.io/neuralink/jobs/6596365003?gh_jid=6596365003) — Neuralink
-- 📍 **Location:** Austin, Texas, United States; South San Francisco, California, United States
-- 🕒 **Posted:** 2026-09-24
-
-### [Software Engineer, CI/CD](https://boards.greenhouse.io/neuralink/jobs/7743089003?gh_jid=7743089003) — Neuralink
-- 📍 **Location:** Austin, Texas, United States; South San Francisco, California, United States
-- 🕒 **Posted:** 2026-09-24
-
-### [Software Engineer - HIL](https://boards.greenhouse.io/neuralink/jobs/8005730003?gh_jid=8005730003) — Neuralink
-- 📍 **Location:** Austin, Texas, United States; South San Francisco, California, United States
-- 🕒 **Posted:** 2026-09-25
-
-### [Software Engineer, Implant](https://boards.greenhouse.io/neuralink/jobs/6569010003?gh_jid=6569010003) — Neuralink
-- 📍 **Location:** Austin, Texas, United States; South San Francisco, California, United States
-- 🕒 **Posted:** 2026-09-24
-
-### [Software Engineer Intern, BCI Applications](https://boards.greenhouse.io/neuralink/jobs/6594422003?gh_jid=6594422003) — Neuralink
-- 📍 **Location:** Austin, Texas, United States; South San Francisco, California, United States
-- 🕒 **Posted:** 2026-09-24
-
-### [Software Engineer Intern, Implant](https://boards.greenhouse.io/neuralink/jobs/6569018003?gh_jid=6569018003) — Neuralink
-- 📍 **Location:** Austin, Texas, United States; South San Francisco, California, United States
-- 🕒 **Posted:** 2026-09-24
-
-### [Software Engineer Intern, Infrastructure](https://boards.greenhouse.io/neuralink/jobs/5469298003?gh_jid=5469298003) — Neuralink
-- 📍 **Location:** South San Francisco, California, United States
-- 🕒 **Posted:** 2026-09-24
-
-### [Software Engineer Intern, Internal Apps](https://boards.greenhouse.io/neuralink/jobs/6083322003?gh_jid=6083322003) — Neuralink
-- 📍 **Location:** Austin, Texas, United States; South San Francisco, California, United States
-- 🕒 **Posted:** 2026-09-24
-
-### [Software Engineer Intern, Robotics](https://boards.greenhouse.io/neuralink/jobs/5469305003?gh_jid=5469305003) — Neuralink
-- 📍 **Location:** Austin, Texas, United States; South San Francisco, California, United States
-- 🕒 **Posted:** 2026-09-24
-
-### [Software Engineer, Robotics](https://boards.greenhouse.io/neuralink/jobs/4205469003?gh_jid=4205469003) — Neuralink
-- 📍 **Location:** Austin, Texas, United States; South San Francisco, California, United States
-- 🕒 **Posted:** 2026-09-24
-
-### [Software Engineer, Robot Manufacturing](https://boards.greenhouse.io/neuralink/jobs/7655221003?gh_jid=7655221003) — Neuralink
-- 📍 **Location:** South San Francisco, California, United States
-- 🕒 **Posted:** 2026-09-24
-
-### [Software Engineer - Simulation](https://boards.greenhouse.io/neuralink/jobs/8005762003?gh_jid=8005762003) — Neuralink
-- 📍 **Location:** Austin, Texas, United States; South San Francisco, California, United States
-- 🕒 **Posted:** 2026-09-25
-
-### [Software Engineer, Mobile](https://job-boards.greenhouse.io/okx/jobs/7786383003) — OKX
+### [Data Scientist](https://altera.wd1.myworkdayjobs.com/altera/job/San-Jose-California-United-States/Data-Scientist_R03098) — Altera Corporation
 - 📍 **Location:** San Jose, California, United States
-- 🕒 **Posted:** 2026-09-24
+- 🕒 **Posted:** Posted 4 Days Ago
 
-### [Robotics Engineer, Deployment & Testing - San Mateo ](https://job-boards.greenhouse.io/skildai-careers/jobs/5162584008) — Skild AI
-- 📍 **Location:** San Mateo 
-- 🕒 **Posted:** 2026-09-21
+### [Virtualization & Cloud Platform Engineer](https://altera.wd1.myworkdayjobs.com/altera/job/San-Jose-California-United-States/Virtualization---Cloud-Platform-Engineer_R03163) — Altera Corporation
+- 📍 **Location:** San Jose, California, United States
+- 🕒 **Posted:** Posted 11 Days Ago
+
+### [Data Scientist - Agentic AI / ML](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Data-Scientist---Agentic-AI---ML_R2628868) — Applied Materials
+- 📍 **Location:** Santa Clara,CA
+- 🕒 **Posted:** Posted 10 Days Ago
+
+### [C, C++ Software Engineer II](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Software-Engineer-II----E2-_R2617379) — Applied Materials
+- 📍 **Location:** Santa Clara,CA
+- 🕒 **Posted:** Posted 10 Days Ago
+
+### [Data Scientist](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Data-Scientist_R2626821) — Applied Materials
+- 📍 **Location:** Santa Clara,CA
+- 🕒 **Posted:** Posted 5 Days Ago
+
+### [AI/ML Engineer Intern](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/AI-ML-Engineer-Intern_R265579) — Analog Devices
+- 📍 **Location:** US, CA, San Jose, Rio Robles
+- 🕒 **Posted:** Posted 10 Days Ago
+
+### [Machine Learning Engineer, Co-op](https://ancestry.wd501.myworkdayjobs.com/Careers/job/Remote/Machine-Learning-Engineer--Co-op_R003377) — Ancestry
+- 📍 **Location:** Remote
+- 🕒 **Posted:** Posted 2 Days Ago
+
+### [Data Science - AI Document Understanding, Co-op](https://ancestry.wd501.myworkdayjobs.com/Careers/job/Remote/Data-Science---AI-Document-Understanding--Co-op_R003449) — Ancestry
+- 📍 **Location:** Remote
+- 🕒 **Posted:** Posted 10 Days Ago
+
+### [Principle Software Engineer – Systems software](https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Jose-CA-USA/Principle-Software-Engineer---Systems-software_J-00348662) — ASML
+- 📍 **Location:** San Jose, CA, USA
+- 🕒 **Posted:** Posted 2 Days Ago
+
+### [Product Operations Associate, Aladdin Platform Engineering](https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/job/New-York-NY/Product-Operations-Associate--Aladdin-Platform-Engineering_R266544) — BlackRock
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** Posted 4 Days Ago
+
+### [Associate, Software Engineer - Aladdin Graph](https://blackrock.wd1.myworkdayjobs.com/BlackRock_Professional/job/New-York-NY/Associate--Software-Engineer---Aladdin-Graph_R266598) — BlackRock
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** Posted 5 Days Ago
+
+### [Experienced Simulation Software Engineer - Training Systems](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Hazelwood-MO/Experienced-Simulation-Software-Engineer---Training-Systems_JR2026521191-1) — The Boeing Company
+- 📍 **Location:** USA - Berkeley, MO
+- 🕒 **Posted:** Posted 2 Days Ago
+
+### [Experienced Simulation Software Engineer - Training Systems](https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Hazelwood-MO/Experienced-Simulation-Software-Engineer---Training-Systems_JR2026521191) — Boeing
+- 📍 **Location:** USA - Berkeley, MO
+- 🕒 **Posted:** Posted 2 Days Ago
+
+### [Software Engineer - Early Career - Cloud](https://caci.wd1.myworkdayjobs.com/External/job/Hanover-MD-US/Software-Engineer---Early-Career---Cloud_330679) — CACI
+- 📍 **Location:** Hanover, MD, US; Remote (Any State)
+- 🕒 **Posted:** Posted 2 Days Ago
+
+### [SRE Platform Engineer](https://caci.wd1.myworkdayjobs.com/External/job/Washington-DC-US/SRE-Platform-Engineer_332567) — CACI
+- 📍 **Location:** Washington, DC, US; Remote (Any State)
+- 🕒 **Posted:** Posted 3 Days Ago
+
+### [Machine Learning Engineer 4 (Python, AWS, SQL, GenAI) (Enterprise Platforms Technology)](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Machine-Learning-Engineer-4--Python--AWS--SQL--GenAI---Enterprise-Platforms-Technology-_R1002037-1) — Capital One
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** Posted Yesterday
+
+### [AI Engineer 4 (Gen AI Platform Services)](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/AI-Engineer-4--Gen-AI-Platform-Services-_R1002056-1) — Capital One
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** Posted 2 Days Ago
+
+### [Machine Learning Engineer 5](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Machine-Learning-Engineer-5_R1001829-1) — Capital One
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** Posted 3 Days Ago
+
+### [AI Engineer 5 (Gen AI Platform Services)](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/AI-Engineer-5--Gen-AI-Platform-Services-_R1001173-1) — Capital One
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** Posted 3 Days Ago
+
+### [AI Engineer 5 (MLX, Agentic AI, Gen AI platform Services)](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/San-Jose-CA/AI-Engineer-5--MLX--Agentic-AI--Gen-AI-platform-Services-_R1001804-1) — Capital One
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** Posted 4 Days Ago
+
+### [AI Engineer 5 (GenAI Platform, Agentic Infrastructure)](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/San-Jose-CA/AI-Engineer-5--GenAI-Platform--Agentic-Infrastructure-_R1001418-1) — Capital One
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** Posted 4 Days Ago
+
+### [AI Engineer 5 (MLX, Agentic AI, Gen AI platform Services)](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/San-Jose-CA/AI-Engineer-5--MLX--Agentic-AI--Gen-AI-platform-Services-_R1001405-1) — Capital One
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** Posted 4 Days Ago
+
+### [AI Engineer 5 (MLX, Agentic AI, Gen AI platform Services)](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/AI-Engineer-5--MLX--Agentic-AI--Gen-AI-platform-Services-_R1001402) — Capital One
+- 📍 **Location:** San Francisco,  CA
+- 🕒 **Posted:** Posted 4 Days Ago
+
+### [AI Engineer 4 (MLX, Agentic AI, Gen AI platform Services)](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/AI-Engineer-4--MLX--Agentic-AI--Gen-AI-platform-Services-_R1001398-1) — Capital One
+- 📍 **Location:** San Francisco,  CA
+- 🕒 **Posted:** Posted 4 Days Ago
+
+### [AI Engineer 4 (MLX, Agentic AI, Gen AI platform Services)](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/San-Jose-CA/AI-Engineer-4--MLX--Agentic-AI--Gen-AI-platform-Services-_R1001413-1) — Capital One
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** Posted 4 Days Ago
+
+### [AI Engineer 5 (Gen AI Platform Services - Agentic Systems)](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/San-Francisco--CA/AI-Engineer-5--Gen-AI-Platform-Services---Agentic-Systems-_R1001196-1) — Capital One
+- 📍 **Location:** San Francisco,  CA
+- 🕒 **Posted:** Posted 8 Days Ago
+
+### [AI Engineer 5 (Gen AI Platform Services)](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/San-Francisco--CA/AI-Engineer-5--Gen-AI-Platform-Services-_R1001185-1) — Capital One
+- 📍 **Location:** San Francisco,  CA
+- 🕒 **Posted:** Posted 8 Days Ago
+
+### [AI Engineer 4  (MLX, Agentic AI, Gen AI platform Services)](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/San-Jose-CA/AI-Engineer-4---MLX--Agentic-AI--Gen-AI-platform-Services-_R1001181) — Capital One
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** Posted 8 Days Ago
+
+### [AI Engineer 4 (MLX, Agentic AI, Gen AI platform Services)](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/San-Jose-CA/AI-Engineer-4--MLX--Agentic-AI--Gen-AI-platform-Services-_R1001170-1) — Capital One
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** Posted 8 Days Ago
+
+### [AI Engineer 5 (Gen AI Platform Services - Agentic AI)](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/AI-Engineer-5--Gen-AI-Platform-Services---Agentic-AI-_R1001148-1) — Capital One
+- 📍 **Location:** San Francisco,  CA
+- 🕒 **Posted:** Posted 8 Days Ago
+
+### [AI Engineer 5 (GenAI Platform Services, Agentic Platform)](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/San-Jose-CA/AI-Engineer-5--GenAI-Platform-Services--Agentic-Platform-_R1001133-1) — Capital One
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** Posted 8 Days Ago
+
+### [Full-stack Engineer 5 (AI Platform & Knowledge Library) (Enterprise Platforms Technology)](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Full-stack-Engineer-5--AI-Platform---Knowledge-Library---Enterprise-Platforms-Technology-_R1002206-1) — Capital One
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** Posted Today
+
+### [Full-Stack Engineer 4 (Python, Java, AWS, API, UI) (Enterprise Platforms Technology)](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Full-Stack-Engineer-4--Python--Java--AWS--API--UI---Enterprise-Platforms-Technology-_R1002047-1) — Capital One
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** Posted Yesterday
+
+### [Full-stack Engineer 4 (Java, Spring Boot, AWS, CI/CD) (Enterprise Platforms Technology)](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Full-stack-Engineer-4--Java--Spring-Boot--AWS--CI-CD---Enterprise-Platforms-Technology-_R1001974-1) — Capital One
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** Posted Yesterday
+
+### [Full-stack Engineer 5 (Java, Spring Boot, AWS, CI/CD) (Enterprise Platforms Technology)](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Full-stack-Engineer-5--Java--Spring-Boot--AWS--CI-CD---Enterprise-Platforms-Technology-_R1001973-1) — Capital One
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** Posted Yesterday
+
+### [Full-stack Engineer 4](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Full-stack-Engineer-4_R1002098-1) — Capital One
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** Posted Yesterday
+
+### [Full-stack Engineer 4](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Full-stack-Engineer-4_R1002174-1) — Capital One
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** Posted Yesterday
+
+### [Full Stack Engineer 4](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Full-Stack-Engineer-4_R1002055-1) — Capital One
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** Posted Yesterday
+
+### [Full-stack Engineer 4 (Remote-Eligible)](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Full-stack-Engineer-4--Remote-Eligible-_R1002137-1) — Capital One
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** Posted Yesterday
+
+### [Full-stack Engineer 5 - Shopping (Remote-Eligible)](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Full-stack-Engineer-5---Shopping--Remote-Eligible-_R1002007) — Capital One
+- 📍 **Location:** US Remote
+- 🕒 **Posted:** Posted Yesterday
+
+### [Mobile Engineer 4 - Android (Remote-Eligible)](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Mobile-Engineer-4---Android--Remote-Eligible-_R1002009-1) — Capital One
+- 📍 **Location:** US Remote
+- 🕒 **Posted:** Posted Yesterday
+
+### [Front-end Engineer 4](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Front-end-Engineer-4_R1002096-1) — Capital One
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** Posted Yesterday
+
+### [Full Stack Engineer 4- People Tech- GenAI & Agentic Systems (LangChain, LangGraph)](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Full-Stack-Engineer-4--People-Tech--GenAI---Agentic-Systems--LangChain--LangGraph-_R1001896-1) — Capital One
+- 📍 **Location:** San Francisco,  CA
+- 🕒 **Posted:** Posted 2 Days Ago
+
+### [Full Stack Engineer 4- People Tech- GenAI & Agentic Systems (LangChain, LangGraph)](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Full-Stack-Engineer-4--People-Tech--GenAI---Agentic-Systems--LangChain--LangGraph-_R1001898) — Capital One
+- 📍 **Location:** San Francisco,  CA
+- 🕒 **Posted:** Posted 2 Days Ago
+
+### [Full Stack Engineer 4](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Richmond-VA/Full-Stack-Engineer-4_R1002073-1) — Capital One
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** Posted 2 Days Ago
+
+### [Software Engineering Technical Leader](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Heredia-Costa-Rica/Software-Engineering-Technical-Leader_2021234-1) — Cisco
+- 📍 **Location:** San Jose, Costa Rica
+- 🕒 **Posted:** Posted 2 Days Ago
+
+### [Machine Learning Engineer I (Intern) – United States](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Machine-Learning-Engineer-I--Intern----United-States_2026803) — Cisco
+- 📍 **Location:** San Jose, California, US
+- 🕒 **Posted:** Posted 2 Days Ago
+
+### [Machine Learning Engineer II (Intern) – United States](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Machine-Learning-Engineer-II--Intern----United-States_2026802) — Cisco
+- 📍 **Location:** San Jose, California, US
+- 🕒 **Posted:** Posted 2 Days Ago
+
+### [Software Engineer Data & AI II (Intern) – United States](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Software-Engineer-Data---AI-II--Intern----United-States_2026798) — Cisco
+- 📍 **Location:** San Jose, California, US
+- 🕒 **Posted:** Posted 2 Days Ago
+
+### [Software Engineering Technical Leader](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Milpitas-California-US/Software-Engineering-Technical-Leader_2004130) — Cisco
+- 📍 **Location:** Milpitas, California, US
+- 🕒 **Posted:** Posted 3 Days Ago
+
+### [Software Engineer Data & AI I (Intern) – United States](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Software-Engineer-Data---AI-I--Intern----United-States_2026306) — Cisco
+- 📍 **Location:** San Jose, California, US
+- 🕒 **Posted:** Posted 5 Days Ago
+
+### [Software Engineering Technical Leader](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Milpitas-California-US/Software-Engineering-Technical-Leader_2004009) — Cisco
+- 📍 **Location:** Milpitas, California, US
+- 🕒 **Posted:** Posted 8 Days Ago
+
+### [Leader, Software Engineering](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Milpitas-California-US/Leader--Software-Engineering_2023202) — Cisco
+- 📍 **Location:** Milpitas, California, US
+- 🕒 **Posted:** Posted 11 Days Ago
+
+### [Infrastructure Engineer, TechOps CICD Image Management (Remote)](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Infrastructure-Engineer--TechOps-CICD-Image-Management--Remote-_R30174) — Crowdstrike
+- 📍 **Location:** USA - Remote
+- 🕒 **Posted:** Posted 2 Days Ago
+
+### [Full Stack Software Engineer (.NET / Angular / Azure)](https://csiweb.wd1.myworkdayjobs.com/CSI_Careers/job/Remote-USA/Full-Stack-Software-Engineer--NET---Angular---Azure-_R-100693) — Computer Services
+- 📍 **Location:** Remote, USA
+- 🕒 **Posted:** Posted Yesterday
+
+### [Software Engineer II, AI Insights](https://disney.wd5.myworkdayjobs.com/disneycareer/job/New-York-NY-USA/Software-Engineer-II--AI-Insights_10148557) — The Walt Disney Company
+- 📍 **Location:** New York, NY, USA
+- 🕒 **Posted:** Posted 8 Days Ago
+
+### [Product Software Engineer II](https://disney.wd5.myworkdayjobs.com/disneycareer/job/New-York-NY-USA/Sr-Product-Software-Engineer_10151328-2) — The Walt Disney Company
+- 📍 **Location:** New York, NY, USA
+- 🕒 **Posted:** Posted 5 Days Ago
+
+### [Software Engineer II, AI Performance](https://disney.wd5.myworkdayjobs.com/disneycareer/job/New-York-NY-USA/Software-Engineer-II--AI-Performance_10148555) — The Walt Disney Company
+- 📍 **Location:** New York, NY, USA
+- 🕒 **Posted:** Posted 8 Days Ago
+
+### [Product Software Engineer II](https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/New-York-NY-USA/Product-Software-Engineer-II_10160173-1) — The Walt Disney Company
+- 📍 **Location:** New York, NY, USA
+- 🕒 **Posted:** Posted 4 Days Ago
+
+### [Product Software Engineer II](https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/New-York-NY-USA/Sr-Product-Software-Engineer_10151328) — The Walt Disney Company
+- 📍 **Location:** New York, NY, USA
+- 🕒 **Posted:** Posted 5 Days Ago
+
+### [Tenured Associate Professor of Data Science (Remote U.S.)](https://embryriddle.wd1.myworkdayjobs.com/External/job/Remote---United-States/Tenure-Associate-Professor-of-Computer-and-or-Data-Science--Remote-US-_R311006) — Embry-Riddle Aeronautical University
+- 📍 **Location:** Remote - United States
