@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-09-26T20:05:18.715658+00:00",
+  "updated_at": "2026-09-26T20:10:55.189909+00:00",
   "day": "2026-09-26",
   "context": "3ba40bc7f768802deaea5fdb4539ae6756b2ad705c2a79069ac6f13a206750ea",
   "scores": {
@@ -247478,6 +247478,1221 @@
         }
       },
       "scored_at": "2026-09-26T19:12:03.745044+00:00"
+    },
+    "https://www.indeed.com/viewjob?jk=267f33a6057ce93c": {
+      "url": "https://www.indeed.com/viewjob?jk=267f33a6057ce93c",
+      "context": "3ba40bc7f768802deaea5fdb4539ae6756b2ad705c2a79069ac6f13a206750ea",
+      "description_hash": "96066dd940d7aeff9c37a6ea4584d61c657e50304ddba5da5a65199f8e490b87",
+      "status": "valid",
+      "luna": {
+        "model": "gpt-5.6-luna",
+        "scores": {
+          "BioScience_ML": 32,
+          "ML": 32,
+          "DS": 24,
+          "SWE": 47,
+          "FDE": 32,
+          "Research_Software_Engineer": 39
+        },
+        "best_resumes": [
+          "SWE"
+        ],
+        "requirements": [
+          {
+            "text": "* Strong Rust skills; Python for test tooling and analysis. Comfortable close to drivers, firmware, and buses.",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial",
+              "Research_Software_Engineer": "partial"
+            }
+          },
+          {
+            "text": "* Experience with HIL, test rigs, or system\\-level verification on robots, vehicles, or similar hardware.",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "not_evidenced",
+              "ML": "not_evidenced",
+              "DS": "not_evidenced",
+              "SWE": "not_evidenced",
+              "FDE": "not_evidenced",
+              "Research_Software_Engineer": "not_evidenced"
+            }
+          },
+          {
+            "text": "* Experience debugging async and concurrent systems, RPC, telemetry, and timing failures across software and firmware.",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "not_evidenced",
+              "ML": "not_evidenced",
+              "DS": "not_evidenced",
+              "SWE": "not_evidenced",
+              "FDE": "not_evidenced",
+              "Research_Software_Engineer": "not_evidenced"
+            }
+          },
+          {
+            "text": "* Experience building automated test pipelines. Bazel experience is a plus.",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "not_evidenced",
+              "SWE": "matched",
+              "FDE": "partial",
+              "Research_Software_Engineer": "partial"
+            }
+          },
+          {
+            "text": "* Effective at using AI agents to accelerate work while maintaining quality.",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "matched",
+              "FDE": "partial",
+              "Research_Software_Engineer": "partial"
+            }
+          },
+          {
+            "text": "* Obsession with repeatability, edge cases, and traceability.",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial",
+              "Research_Software_Engineer": "matched"
+            }
+          },
+          {
+            "text": "* Experience building automated test pipelines. Bazel experience is a plus.",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "not_evidenced",
+              "ML": "not_evidenced",
+              "DS": "not_evidenced",
+              "SWE": "not_evidenced",
+              "FDE": "not_evidenced",
+              "Research_Software_Engineer": "not_evidenced"
+            }
+          }
+        ],
+        "usage": {
+          "input": 9382,
+          "output": 3366,
+          "thinking": 950,
+          "cached": 0,
+          "cache_write": 9379,
+          "cost": 6384550
+        }
+      },
+      "scored_at": "2026-09-26T19:12:03.745044+00:00"
+    },
+    "https://www.indeed.com/viewjob?jk=26dc2a89313d87ea": {
+      "url": "https://www.indeed.com/viewjob?jk=26dc2a89313d87ea",
+      "context": "3ba40bc7f768802deaea5fdb4539ae6756b2ad705c2a79069ac6f13a206750ea",
+      "description_hash": "de66672a65ab5799dcea5b1ed419a1ee59b255ffa866837cc9b3a5f92a0b61d8",
+      "status": "valid",
+      "luna": {
+        "model": "gpt-5.6-luna",
+        "scores": {
+          "BioScience_ML": 35,
+          "ML": 35,
+          "DS": 35,
+          "SWE": 35,
+          "FDE": 35,
+          "Research_Software_Engineer": 35
+        },
+        "best_resumes": [
+          "BioScience_ML",
+          "DS",
+          "FDE",
+          "ML",
+          "Research_Software_Engineer",
+          "SWE"
+        ],
+        "requirements": [
+          {
+            "text": "* You have an undergraduate/graduate degree in computer science or equivalent experience in engineering, a related technical field.",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "matched",
+              "FDE": "matched",
+              "Research_Software_Engineer": "matched"
+            }
+          },
+          {
+            "text": "* 1–3 years of experience in software engineering, distributed systems, cloud services, or a related area.",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "confirmed_unmet",
+              "ML": "confirmed_unmet",
+              "DS": "confirmed_unmet",
+              "SWE": "confirmed_unmet",
+              "FDE": "confirmed_unmet",
+              "Research_Software_Engineer": "confirmed_unmet"
+            }
+          },
+          {
+            "text": "* Experience building projects through coursework, internships, research, or personal work.",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "matched",
+              "FDE": "matched",
+              "Research_Software_Engineer": "matched"
+            }
+          },
+          {
+            "text": "* Working knowledge of one or more programming languages, such as Go, Python, or Rust, along with an interest in learning new technologies.",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial",
+              "Research_Software_Engineer": "partial"
+            }
+          },
+          {
+            "text": "* Interest in machine learning, generative AI, distributed systems, data infrastructure, or developer platforms.",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "matched",
+              "FDE": "matched",
+              "Research_Software_Engineer": "matched"
+            }
+          },
+          {
+            "text": "* Strong communication skills and a willingness to collaborate across teams and disciplines.",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "matched",
+              "FDE": "matched",
+              "Research_Software_Engineer": "matched"
+            }
+          }
+        ],
+        "usage": {
+          "input": 9570,
+          "output": 3485,
+          "thinking": 877,
+          "cached": 0,
+          "cache_write": 9567,
+          "cost": 6574350
+        }
+      },
+      "scored_at": "2026-09-26T19:12:03.745044+00:00"
+    },
+    "https://www.indeed.com/viewjob?jk=44ca885ed0f9397f": {
+      "url": "https://www.indeed.com/viewjob?jk=44ca885ed0f9397f",
+      "context": "3ba40bc7f768802deaea5fdb4539ae6756b2ad705c2a79069ac6f13a206750ea",
+      "description_hash": "177d686c8e73e1497daf86cd6920c27e4f036520b3e40ab5807fb79e8ccbba12",
+      "status": "valid",
+      "luna": {
+        "model": "gpt-5.6-luna",
+        "scores": {
+          "BioScience_ML": 55,
+          "ML": 56,
+          "DS": 55,
+          "SWE": 48,
+          "FDE": 52,
+          "Research_Software_Engineer": 55
+        },
+        "best_resumes": [
+          "ML"
+        ],
+        "requirements": [
+          {
+            "text": "* Bachelor's degree, OR 3\\+ years of relevant work experience.",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "matched",
+              "FDE": "matched",
+              "Research_Software_Engineer": "matched"
+            }
+          },
+          {
+            "text": "* Language Expertise: Expertise in one or more general development languages such as Java, Python, NodeJS, C\\#, or C\\+\\+",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial",
+              "Research_Software_Engineer": "partial"
+            }
+          },
+          {
+            "text": "* Experience building Generative AI applications, conversational AI, RAG architectures, techniques, and libraries.",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial",
+              "Research_Software_Engineer": "partial"
+            }
+          },
+          {
+            "text": "* Expertise in application security, SSDLC, and cryptography fundamentals.",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "not_evidenced",
+              "ML": "not_evidenced",
+              "DS": "not_evidenced",
+              "SWE": "not_evidenced",
+              "FDE": "not_evidenced",
+              "Research_Software_Engineer": "not_evidenced"
+            }
+          },
+          {
+            "text": "* Self\\-driven and willing to work across technologies and languages.",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial",
+              "Research_Software_Engineer": "partial"
+            }
+          },
+          {
+            "text": "* Understanding of NLP, including tokenization, word embeddings, and basic sequence models.",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "not_evidenced",
+              "FDE": "partial",
+              "Research_Software_Engineer": "not_evidenced"
+            }
+          },
+          {
+            "text": "* Experience implementing and fine\\-tuning AI models using frameworks such as TensorFlow, PyTorch, or scikit\\-learn.",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "matched",
+              "DS": "partial",
+              "SWE": "not_evidenced",
+              "FDE": "partial",
+              "Research_Software_Engineer": "matched"
+            }
+          },
+          {
+            "text": "* Understanding of model compression techniques and related trade\\-offs.",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "not_evidenced",
+              "ML": "not_evidenced",
+              "DS": "not_evidenced",
+              "SWE": "not_evidenced",
+              "FDE": "not_evidenced",
+              "Research_Software_Engineer": "not_evidenced"
+            }
+          },
+          {
+            "text": "* Awareness of transfer learning concepts and practical applications.",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "not_evidenced",
+              "ML": "not_evidenced",
+              "DS": "not_evidenced",
+              "SWE": "not_evidenced",
+              "FDE": "not_evidenced",
+              "Research_Software_Engineer": "not_evidenced"
+            }
+          },
+          {
+            "text": "* Ability to design, implement, and integrate AI components into larger systems.",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "matched",
+              "FDE": "partial",
+              "Research_Software_Engineer": "partial"
+            }
+          },
+          {
+            "text": "* Familiarity with common robustness issues in AI systems.",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "partial",
+              "FDE": "matched",
+              "Research_Software_Engineer": "matched"
+            }
+          },
+          {
+            "text": "* Familiarity with machine learning and deep learning basics, including neural network architectures and training procedures.",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "partial",
+              "FDE": "partial",
+              "Research_Software_Engineer": "matched"
+            }
+          },
+          {
+            "text": "* Exposure to machine learning operations (MLOps) and best practices for deploying AI and machine learning models.",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "matched",
+              "FDE": "matched",
+              "Research_Software_Engineer": "matched"
+            }
+          },
+          {
+            "text": "* Experience with data preprocessing, feature engineering, and model evaluation techniques.",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "partial",
+              "FDE": "matched",
+              "Research_Software_Engineer": "matched"
+            }
+          },
+          {
+            "text": "* Proficiency in front\\-end web development technologies such as ReactJS, Angular, and NodeJS.",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "not_evidenced",
+              "ML": "not_evidenced",
+              "DS": "not_evidenced",
+              "SWE": "not_evidenced",
+              "FDE": "not_evidenced",
+              "Research_Software_Engineer": "not_evidenced"
+            }
+          },
+          {
+            "text": "* Ability to work with large datasets and perform exploratory data analysis.",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "partial",
+              "FDE": "partial",
+              "Research_Software_Engineer": "partial"
+            }
+          },
+          {
+            "text": "* Expertise in multi\\-threading, concurrency, and error handling.",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "not_evidenced",
+              "ML": "not_evidenced",
+              "DS": "not_evidenced",
+              "SWE": "partial",
+              "FDE": "not_evidenced",
+              "Research_Software_Engineer": "partial"
+            }
+          },
+          {
+            "text": "* Knowledge of version control, CI/CD pipelines, and best practices for deployments.",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "matched",
+              "FDE": "matched",
+              "Research_Software_Engineer": "matched"
+            }
+          },
+          {
+            "text": "* Working knowledge of distributed in\\-memory computing technologies such as Redis.",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "not_evidenced",
+              "ML": "not_evidenced",
+              "DS": "not_evidenced",
+              "SWE": "not_evidenced",
+              "FDE": "not_evidenced",
+              "Research_Software_Engineer": "not_evidenced"
+            }
+          },
+          {
+            "text": "* Builder: Experience building and deploying modern services and web applications with quality and scalability",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial",
+              "Research_Software_Engineer": "partial"
+            }
+          },
+          {
+            "text": "* Partnership: Experience collaborating with Product, Test, DevOps, and Agile/Scrum teams",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial",
+              "Research_Software_Engineer": "partial"
+            }
+          }
+        ],
+        "usage": {
+          "input": 10011,
+          "output": 8530,
+          "thinking": 1460,
+          "cached": 0,
+          "cache_write": 10008,
+          "cost": 12738600
+        }
+      },
+      "scored_at": "2026-09-26T19:12:03.745044+00:00"
+    },
+    "https://www.indeed.com/viewjob?jk=4e70ed9d35f7ae2d": {
+      "url": "https://www.indeed.com/viewjob?jk=4e70ed9d35f7ae2d",
+      "context": "3ba40bc7f768802deaea5fdb4539ae6756b2ad705c2a79069ac6f13a206750ea",
+      "description_hash": "96066dd940d7aeff9c37a6ea4584d61c657e50304ddba5da5a65199f8e490b87",
+      "status": "valid",
+      "luna": {
+        "model": "gpt-5.6-luna",
+        "scores": {
+          "BioScience_ML": 30,
+          "ML": 30,
+          "DS": 24,
+          "SWE": 54,
+          "FDE": 36,
+          "Research_Software_Engineer": 36
+        },
+        "best_resumes": [
+          "SWE"
+        ],
+        "requirements": [
+          {
+            "text": "* Strong Rust skills; Python for test tooling and analysis. Comfortable close to drivers, firmware, and buses.",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "not_evidenced",
+              "ML": "not_evidenced",
+              "DS": "not_evidenced",
+              "SWE": "not_evidenced",
+              "FDE": "not_evidenced",
+              "Research_Software_Engineer": "not_evidenced"
+            }
+          },
+          {
+            "text": "* Strong Rust skills; Python for test tooling and analysis. Comfortable close to drivers, firmware, and buses.",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "matched",
+              "FDE": "partial",
+              "Research_Software_Engineer": "partial"
+            }
+          },
+          {
+            "text": "* Strong Rust skills; Python for test tooling and analysis. Comfortable close to drivers, firmware, and buses.",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "not_evidenced",
+              "ML": "not_evidenced",
+              "DS": "not_evidenced",
+              "SWE": "not_evidenced",
+              "FDE": "not_evidenced",
+              "Research_Software_Engineer": "not_evidenced"
+            }
+          },
+          {
+            "text": "* Experience with HIL, test rigs, or system\\-level verification on robots, vehicles, or similar hardware.",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial",
+              "Research_Software_Engineer": "partial"
+            }
+          },
+          {
+            "text": "* Experience debugging async and concurrent systems, RPC, telemetry, and timing failures across software and firmware.",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial",
+              "Research_Software_Engineer": "partial"
+            }
+          },
+          {
+            "text": "* Experience building automated test pipelines. Bazel experience is a plus.",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "not_evidenced",
+              "SWE": "matched",
+              "FDE": "partial",
+              "Research_Software_Engineer": "partial"
+            }
+          },
+          {
+            "text": "* Experience building automated test pipelines. Bazel experience is a plus.",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "not_evidenced",
+              "ML": "not_evidenced",
+              "DS": "not_evidenced",
+              "SWE": "not_evidenced",
+              "FDE": "not_evidenced",
+              "Research_Software_Engineer": "not_evidenced"
+            }
+          },
+          {
+            "text": "* Effective at using AI agents to accelerate work while maintaining quality.",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "not_evidenced",
+              "ML": "not_evidenced",
+              "DS": "not_evidenced",
+              "SWE": "matched",
+              "FDE": "partial",
+              "Research_Software_Engineer": "not_evidenced"
+            }
+          },
+          {
+            "text": "* Obsession with repeatability, edge cases, and traceability.",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial",
+              "Research_Software_Engineer": "matched"
+            }
+          }
+        ],
+        "usage": {
+          "input": 9383,
+          "output": 4006,
+          "thinking": 841,
+          "cached": 0,
+          "cache_write": 9380,
+          "cost": 7152800
+        }
+      },
+      "scored_at": "2026-09-26T19:12:03.745044+00:00"
+    },
+    "https://www.indeed.com/viewjob?jk=67806c8d7e1c4fe7": {
+      "status": "jd_unavailable",
+      "context": "3ba40bc7f768802deaea5fdb4539ae6756b2ad705c2a79069ac6f13a206750ea"
+    },
+    "https://www.indeed.com/viewjob?jk=78a9f74ca4e0a1cc": {
+      "url": "https://www.indeed.com/viewjob?jk=78a9f74ca4e0a1cc",
+      "context": "3ba40bc7f768802deaea5fdb4539ae6756b2ad705c2a79069ac6f13a206750ea",
+      "description_hash": "0590d659ce20b69d59fe5618eba90248b8865364b009c9b51e1e21e94110e6d9",
+      "status": "valid",
+      "luna": {
+        "model": "gpt-5.6-luna",
+        "scores": {
+          "BioScience_ML": 46,
+          "ML": 46,
+          "DS": 46,
+          "SWE": 64,
+          "FDE": 52,
+          "Research_Software_Engineer": 46
+        },
+        "best_resumes": [
+          "SWE"
+        ],
+        "requirements": [
+          {
+            "text": "**Minimum Qualifications:** \\- Bachelor's degree in Computer Science or a related technical field, or equivalent practical experience. \\- 3\\+ years of software development experience, with experience building scalable and reliable backend systems and working knowledge of frontend development. \\- Proficiency in one or more backend programming languages, such as Java, Python, Go, or Node.js, and familiarity with modern frontend technologies. \\- Experience with API design and development, including REST or GraphQL, microservices architecture, and frontend\\-backend integration. \\- Experience with testing infrastructure, frameworks, or automated testing systems. \\- Basic experience using AI\\-assisted development tools to improve engineering productivity and familiarity with validating AI\\-generated code or solutions. \\- Strong analytical, problem\\-solving, communication, and collaboration skills, with the ability to clearly communicate technical concepts and work effectively across functions. Preferred Qualifications: \\- Experience in user growth, E\\-commerce, monetization, advertising, or other data\\-driven consumer products. \\- Experience contributing to technical initiatives from 0 to 1 or scaling existing systems and products. \\- Experience building AI agents, agentic workflows, or AI\\-powered engineering/product solutions. \\- Experience collaborating effectively with globally distributed engineering and cross\\-functional teams across multiple time zones.",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "matched",
+              "FDE": "matched",
+              "Research_Software_Engineer": "matched"
+            }
+          },
+          {
+            "text": "**Minimum Qualifications:** \\- Bachelor's degree in Computer Science or a related technical field, or equivalent practical experience. \\- 3\\+ years of software development experience, with experience building scalable and reliable backend systems and working knowledge of frontend development. \\- Proficiency in one or more backend programming languages, such as Java, Python, Go, or Node.js, and familiarity with modern frontend technologies. \\- Experience with API design and development, including REST or GraphQL, microservices architecture, and frontend\\-backend integration. \\- Experience with testing infrastructure, frameworks, or automated testing systems. \\- Basic experience using AI\\-assisted development tools to improve engineering productivity and familiarity with validating AI\\-generated code or solutions. \\- Strong analytical, problem\\-solving, communication, and collaboration skills, with the ability to clearly communicate technical concepts and work effectively across functions. Preferred Qualifications: \\- Experience in user growth, E\\-commerce, monetization, advertising, or other data\\-driven consumer products. \\- Experience contributing to technical initiatives from 0 to 1 or scaling existing systems and products. \\- Experience building AI agents, agentic workflows, or AI\\-powered engineering/product solutions. \\- Experience collaborating effectively with globally distributed engineering and cross\\-functional teams across multiple time zones.",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial",
+              "Research_Software_Engineer": "partial"
+            }
+          },
+          {
+            "text": "**Minimum Qualifications:** \\- Bachelor's degree in Computer Science or a related technical field, or equivalent practical experience. \\- 3\\+ years of software development experience, with experience building scalable and reliable backend systems and working knowledge of frontend development. \\- Proficiency in one or more backend programming languages, such as Java, Python, Go, or Node.js, and familiarity with modern frontend technologies. \\- Experience with API design and development, including REST or GraphQL, microservices architecture, and frontend\\-backend integration. \\- Experience with testing infrastructure, frameworks, or automated testing systems. \\- Basic experience using AI\\-assisted development tools to improve engineering productivity and familiarity with validating AI\\-generated code or solutions. \\- Strong analytical, problem\\-solving, communication, and collaboration skills, with the ability to clearly communicate technical concepts and work effectively across functions. Preferred Qualifications: \\- Experience in user growth, E\\-commerce, monetization, advertising, or other data\\-driven consumer products. \\- Experience contributing to technical initiatives from 0 to 1 or scaling existing systems and products. \\- Experience building AI agents, agentic workflows, or AI\\-powered engineering/product solutions. \\- Experience collaborating effectively with globally distributed engineering and cross\\-functional teams across multiple time zones.",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial",
+              "Research_Software_Engineer": "partial"
+            }
+          },
+          {
+            "text": "**Minimum Qualifications:** \\- Bachelor's degree in Computer Science or a related technical field, or equivalent practical experience. \\- 3\\+ years of software development experience, with experience building scalable and reliable backend systems and working knowledge of frontend development. \\- Proficiency in one or more backend programming languages, such as Java, Python, Go, or Node.js, and familiarity with modern frontend technologies. \\- Experience with API design and development, including REST or GraphQL, microservices architecture, and frontend\\-backend integration. \\- Experience with testing infrastructure, frameworks, or automated testing systems. \\- Basic experience using AI\\-assisted development tools to improve engineering productivity and familiarity with validating AI\\-generated code or solutions. \\- Strong analytical, problem\\-solving, communication, and collaboration skills, with the ability to clearly communicate technical concepts and work effectively across functions. Preferred Qualifications: \\- Experience in user growth, E\\-commerce, monetization, advertising, or other data\\-driven consumer products. \\- Experience contributing to technical initiatives from 0 to 1 or scaling existing systems and products. \\- Experience building AI agents, agentic workflows, or AI\\-powered engineering/product solutions. \\- Experience collaborating effectively with globally distributed engineering and cross\\-functional teams across multiple time zones.",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial",
+              "Research_Software_Engineer": "partial"
+            }
+          },
+          {
+            "text": "**Minimum Qualifications:** \\- Bachelor's degree in Computer Science or a related technical field, or equivalent practical experience. \\- 3\\+ years of software development experience, with experience building scalable and reliable backend systems and working knowledge of frontend development. \\- Proficiency in one or more backend programming languages, such as Java, Python, Go, or Node.js, and familiarity with modern frontend technologies. \\- Experience with API design and development, including REST or GraphQL, microservices architecture, and frontend\\-backend integration. \\- Experience with testing infrastructure, frameworks, or automated testing systems. \\- Basic experience using AI\\-assisted development tools to improve engineering productivity and familiarity with validating AI\\-generated code or solutions. \\- Strong analytical, problem\\-solving, communication, and collaboration skills, with the ability to clearly communicate technical concepts and work effectively across functions. Preferred Qualifications: \\- Experience in user growth, E\\-commerce, monetization, advertising, or other data\\-driven consumer products. \\- Experience contributing to technical initiatives from 0 to 1 or scaling existing systems and products. \\- Experience building AI agents, agentic workflows, or AI\\-powered engineering/product solutions. \\- Experience collaborating effectively with globally distributed engineering and cross\\-functional teams across multiple time zones.",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "not_evidenced",
+              "ML": "not_evidenced",
+              "DS": "not_evidenced",
+              "SWE": "matched",
+              "FDE": "not_evidenced",
+              "Research_Software_Engineer": "not_evidenced"
+            }
+          },
+          {
+            "text": "**Minimum Qualifications:** \\- Bachelor's degree in Computer Science or a related technical field, or equivalent practical experience. \\- 3\\+ years of software development experience, with experience building scalable and reliable backend systems and working knowledge of frontend development. \\- Proficiency in one or more backend programming languages, such as Java, Python, Go, or Node.js, and familiarity with modern frontend technologies. \\- Experience with API design and development, including REST or GraphQL, microservices architecture, and frontend\\-backend integration. \\- Experience with testing infrastructure, frameworks, or automated testing systems. \\- Basic experience using AI\\-assisted development tools to improve engineering productivity and familiarity with validating AI\\-generated code or solutions. \\- Strong analytical, problem\\-solving, communication, and collaboration skills, with the ability to clearly communicate technical concepts and work effectively across functions. Preferred Qualifications: \\- Experience in user growth, E\\-commerce, monetization, advertising, or other data\\-driven consumer products. \\- Experience contributing to technical initiatives from 0 to 1 or scaling existing systems and products. \\- Experience building AI agents, agentic workflows, or AI\\-powered engineering/product solutions. \\- Experience collaborating effectively with globally distributed engineering and cross\\-functional teams across multiple time zones.",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "not_evidenced",
+              "ML": "not_evidenced",
+              "DS": "not_evidenced",
+              "SWE": "matched",
+              "FDE": "partial",
+              "Research_Software_Engineer": "not_evidenced"
+            }
+          },
+          {
+            "text": "**Minimum Qualifications:** \\- Bachelor's degree in Computer Science or a related technical field, or equivalent practical experience. \\- 3\\+ years of software development experience, with experience building scalable and reliable backend systems and working knowledge of frontend development. \\- Proficiency in one or more backend programming languages, such as Java, Python, Go, or Node.js, and familiarity with modern frontend technologies. \\- Experience with API design and development, including REST or GraphQL, microservices architecture, and frontend\\-backend integration. \\- Experience with testing infrastructure, frameworks, or automated testing systems. \\- Basic experience using AI\\-assisted development tools to improve engineering productivity and familiarity with validating AI\\-generated code or solutions. \\- Strong analytical, problem\\-solving, communication, and collaboration skills, with the ability to clearly communicate technical concepts and work effectively across functions. Preferred Qualifications: \\- Experience in user growth, E\\-commerce, monetization, advertising, or other data\\-driven consumer products. \\- Experience contributing to technical initiatives from 0 to 1 or scaling existing systems and products. \\- Experience building AI agents, agentic workflows, or AI\\-powered engineering/product solutions. \\- Experience collaborating effectively with globally distributed engineering and cross\\-functional teams across multiple time zones.",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "partial",
+              "FDE": "matched",
+              "Research_Software_Engineer": "matched"
+            }
+          },
+          {
+            "text": "**Minimum Qualifications:** \\- Bachelor's degree in Computer Science or a related technical field, or equivalent practical experience. \\- 3\\+ years of software development experience, with experience building scalable and reliable backend systems and working knowledge of frontend development. \\- Proficiency in one or more backend programming languages, such as Java, Python, Go, or Node.js, and familiarity with modern frontend technologies. \\- Experience with API design and development, including REST or GraphQL, microservices architecture, and frontend\\-backend integration. \\- Experience with testing infrastructure, frameworks, or automated testing systems. \\- Basic experience using AI\\-assisted development tools to improve engineering productivity and familiarity with validating AI\\-generated code or solutions. \\- Strong analytical, problem\\-solving, communication, and collaboration skills, with the ability to clearly communicate technical concepts and work effectively across functions. Preferred Qualifications: \\- Experience in user growth, E\\-commerce, monetization, advertising, or other data\\-driven consumer products. \\- Experience contributing to technical initiatives from 0 to 1 or scaling existing systems and products. \\- Experience building AI agents, agentic workflows, or AI\\-powered engineering/product solutions. \\- Experience collaborating effectively with globally distributed engineering and cross\\-functional teams across multiple time zones.",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "not_evidenced",
+              "ML": "not_evidenced",
+              "DS": "not_evidenced",
+              "SWE": "not_evidenced",
+              "FDE": "not_evidenced",
+              "Research_Software_Engineer": "not_evidenced"
+            }
+          },
+          {
+            "text": "**Minimum Qualifications:** \\- Bachelor's degree in Computer Science or a related technical field, or equivalent practical experience. \\- 3\\+ years of software development experience, with experience building scalable and reliable backend systems and working knowledge of frontend development. \\- Proficiency in one or more backend programming languages, such as Java, Python, Go, or Node.js, and familiarity with modern frontend technologies. \\- Experience with API design and development, including REST or GraphQL, microservices architecture, and frontend\\-backend integration. \\- Experience with testing infrastructure, frameworks, or automated testing systems. \\- Basic experience using AI\\-assisted development tools to improve engineering productivity and familiarity with validating AI\\-generated code or solutions. \\- Strong analytical, problem\\-solving, communication, and collaboration skills, with the ability to clearly communicate technical concepts and work effectively across functions. Preferred Qualifications: \\- Experience in user growth, E\\-commerce, monetization, advertising, or other data\\-driven consumer products. \\- Experience contributing to technical initiatives from 0 to 1 or scaling existing systems and products. \\- Experience building AI agents, agentic workflows, or AI\\-powered engineering/product solutions. \\- Experience collaborating effectively with globally distributed engineering and cross\\-functional teams across multiple time zones.",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "not_evidenced",
+              "ML": "not_evidenced",
+              "DS": "not_evidenced",
+              "SWE": "not_evidenced",
+              "FDE": "not_evidenced",
+              "Research_Software_Engineer": "not_evidenced"
+            }
+          },
+          {
+            "text": "**Minimum Qualifications:** \\- Bachelor's degree in Computer Science or a related technical field, or equivalent practical experience. \\- 3\\+ years of software development experience, with experience building scalable and reliable backend systems and working knowledge of frontend development. \\- Proficiency in one or more backend programming languages, such as Java, Python, Go, or Node.js, and familiarity with modern frontend technologies. \\- Experience with API design and development, including REST or GraphQL, microservices architecture, and frontend\\-backend integration. \\- Experience with testing infrastructure, frameworks, or automated testing systems. \\- Basic experience using AI\\-assisted development tools to improve engineering productivity and familiarity with validating AI\\-generated code or solutions. \\- Strong analytical, problem\\-solving, communication, and collaboration skills, with the ability to clearly communicate technical concepts and work effectively across functions. Preferred Qualifications: \\- Experience in user growth, E\\-commerce, monetization, advertising, or other data\\-driven consumer products. \\- Experience contributing to technical initiatives from 0 to 1 or scaling existing systems and products. \\- Experience building AI agents, agentic workflows, or AI\\-powered engineering/product solutions. \\- Experience collaborating effectively with globally distributed engineering and cross\\-functional teams across multiple time zones.",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "matched",
+              "FDE": "matched",
+              "Research_Software_Engineer": "matched"
+            }
+          },
+          {
+            "text": "**Minimum Qualifications:** \\- Bachelor's degree in Computer Science or a related technical field, or equivalent practical experience. \\- 3\\+ years of software development experience, with experience building scalable and reliable backend systems and working knowledge of frontend development. \\- Proficiency in one or more backend programming languages, such as Java, Python, Go, or Node.js, and familiarity with modern frontend technologies. \\- Experience with API design and development, including REST or GraphQL, microservices architecture, and frontend\\-backend integration. \\- Experience with testing infrastructure, frameworks, or automated testing systems. \\- Basic experience using AI\\-assisted development tools to improve engineering productivity and familiarity with validating AI\\-generated code or solutions. \\- Strong analytical, problem\\-solving, communication, and collaboration skills, with the ability to clearly communicate technical concepts and work effectively across functions. Preferred Qualifications: \\- Experience in user growth, E\\-commerce, monetization, advertising, or other data\\-driven consumer products. \\- Experience contributing to technical initiatives from 0 to 1 or scaling existing systems and products. \\- Experience building AI agents, agentic workflows, or AI\\-powered engineering/product solutions. \\- Experience collaborating effectively with globally distributed engineering and cross\\-functional teams across multiple time zones.",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "not_evidenced",
+              "ML": "not_evidenced",
+              "DS": "not_evidenced",
+              "SWE": "not_evidenced",
+              "FDE": "not_evidenced",
+              "Research_Software_Engineer": "not_evidenced"
+            }
+          }
+        ],
+        "usage": {
+          "input": 9910,
+          "output": 5346,
+          "thinking": 1034,
+          "cached": 0,
+          "cache_write": 9907,
+          "cost": 8892550
+        }
+      },
+      "scored_at": "2026-09-26T19:12:03.745044+00:00"
+    },
+    "https://www.indeed.com/viewjob?jk=9d602054a87a9347": {
+      "url": "https://www.indeed.com/viewjob?jk=9d602054a87a9347",
+      "context": "3ba40bc7f768802deaea5fdb4539ae6756b2ad705c2a79069ac6f13a206750ea",
+      "description_hash": "96f6603a386e2daccd03af689ce71769cbea2486832183dde34bca52d020cc06",
+      "status": "valid",
+      "luna": {
+        "model": "gpt-5.6-luna",
+        "scores": {
+          "BioScience_ML": 67,
+          "ML": 67,
+          "DS": 60,
+          "SWE": 64,
+          "FDE": 64,
+          "Research_Software_Engineer": 64
+        },
+        "best_resumes": [
+          "BioScience_ML",
+          "ML"
+        ],
+        "requirements": [
+          {
+            "text": "* Strong foundation in software integration, operating systems used in embedded",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial",
+              "Research_Software_Engineer": "partial"
+            }
+          },
+          {
+            "text": "* Strong theoretical foundation and practical expertise in deep\\-learning algorithms",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial",
+              "Research_Software_Engineer": "partial"
+            }
+          },
+          {
+            "text": "* Experience contributing to large, complex production codebases in a collaborative",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial",
+              "Research_Software_Engineer": "partial"
+            }
+          },
+          {
+            "text": "* Bachelor's degree in Computer Engineering, Electrical Engineering, Robotics, or a",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "matched",
+              "FDE": "matched",
+              "Research_Software_Engineer": "matched"
+            }
+          },
+          {
+            "text": "* Minimum of three years of relevant work experience. Candidates considered for a",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "matched",
+              "FDE": "matched",
+              "Research_Software_Engineer": "matched"
+            }
+          },
+          {
+            "text": "* Master's degree or Ph.D. in engineering, computer science, or a related field.",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial",
+              "Research_Software_Engineer": "partial"
+            }
+          },
+          {
+            "text": "* Deep understanding of deep learning deployment pipelines and GPU inference.",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial",
+              "Research_Software_Engineer": "partial"
+            }
+          },
+          {
+            "text": "* Experience developing BEV transformer models for perception.",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "not_evidenced",
+              "ML": "not_evidenced",
+              "DS": "not_evidenced",
+              "SWE": "not_evidenced",
+              "FDE": "not_evidenced",
+              "Research_Software_Engineer": "not_evidenced"
+            }
+          },
+          {
+            "text": "* Hands\\-on experience with embedded platforms such as NVIDIA Drive Orin/Xavier.",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "not_evidenced",
+              "ML": "not_evidenced",
+              "DS": "not_evidenced",
+              "SWE": "not_evidenced",
+              "FDE": "not_evidenced",
+              "Research_Software_Engineer": "not_evidenced"
+            }
+          },
+          {
+            "text": "* Proficiency in Bash scripting for automation and debugging.",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "not_evidenced",
+              "SWE": "matched",
+              "FDE": "matched",
+              "Research_Software_Engineer": "matched"
+            }
+          },
+          {
+            "text": "* Strong familiarity with Git and collaborative development workflows.",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "matched",
+              "FDE": "matched",
+              "Research_Software_Engineer": "matched"
+            }
+          }
+        ],
+        "usage": {
+          "input": 9984,
+          "output": 5269,
+          "thinking": 1202,
+          "cached": 0,
+          "cache_write": 9981,
+          "cost": 8818650
+        }
+      },
+      "scored_at": "2026-09-26T19:12:03.745044+00:00"
+    },
+    "https://www.indeed.com/viewjob?jk=a08e2b762a24f22f": {
+      "url": "https://www.indeed.com/viewjob?jk=a08e2b762a24f22f",
+      "context": "3ba40bc7f768802deaea5fdb4539ae6756b2ad705c2a79069ac6f13a206750ea",
+      "description_hash": "3d09bb30d53e9717b0b4155f35fc5bbd1b5ca27f3fce4d3f4c63a7bc1f62c147",
+      "status": "valid",
+      "luna": {
+        "model": "gpt-5.6-luna",
+        "scores": {
+          "BioScience_ML": 5,
+          "ML": 5,
+          "DS": 5,
+          "SWE": 19,
+          "FDE": 10,
+          "Research_Software_Engineer": 5
+        },
+        "best_resumes": [
+          "SWE"
+        ],
+        "requirements": [
+          {
+            "text": "* Strong Rust skills; Python for test tooling and analysis. Bazel experience is a plus.",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "not_evidenced",
+              "ML": "not_evidenced",
+              "DS": "not_evidenced",
+              "SWE": "not_evidenced",
+              "FDE": "not_evidenced",
+              "Research_Software_Engineer": "not_evidenced"
+            }
+          },
+          {
+            "text": "* Strong Rust skills; Python for test tooling and analysis. Bazel experience is a plus.",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "matched",
+              "FDE": "partial",
+              "Research_Software_Engineer": "partial"
+            }
+          },
+          {
+            "text": "* Real robotics / physics sim experience (MuJoCo, Isaac Sim, Gazebo, or equivalent).",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "not_evidenced",
+              "ML": "not_evidenced",
+              "DS": "not_evidenced",
+              "SWE": "not_evidenced",
+              "FDE": "not_evidenced",
+              "Research_Software_Engineer": "not_evidenced"
+            }
+          },
+          {
+            "text": "* Experience with async and concurrent systems, hardware interfaces, RPC, and telemetry.",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "not_evidenced",
+              "ML": "not_evidenced",
+              "DS": "not_evidenced",
+              "SWE": "not_evidenced",
+              "FDE": "not_evidenced",
+              "Research_Software_Engineer": "not_evidenced"
+            }
+          },
+          {
+            "text": "* Experience with async and concurrent systems, hardware interfaces, RPC, and telemetry.",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "not_evidenced",
+              "ML": "not_evidenced",
+              "DS": "not_evidenced",
+              "SWE": "not_evidenced",
+              "FDE": "not_evidenced",
+              "Research_Software_Engineer": "not_evidenced"
+            }
+          },
+          {
+            "text": "* Experience with async and concurrent systems, hardware interfaces, RPC, and telemetry.",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "not_evidenced",
+              "ML": "not_evidenced",
+              "DS": "not_evidenced",
+              "SWE": "not_evidenced",
+              "FDE": "not_evidenced",
+              "Research_Software_Engineer": "not_evidenced"
+            }
+          },
+          {
+            "text": "* Experience with async and concurrent systems, hardware interfaces, RPC, and telemetry.",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "not_evidenced",
+              "ML": "not_evidenced",
+              "DS": "not_evidenced",
+              "SWE": "not_evidenced",
+              "FDE": "not_evidenced",
+              "Research_Software_Engineer": "not_evidenced"
+            }
+          },
+          {
+            "text": "* Experience building automated integration tests and debugging failures across software and firmware.",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "not_evidenced",
+              "ML": "not_evidenced",
+              "DS": "not_evidenced",
+              "SWE": "partial",
+              "FDE": "not_evidenced",
+              "Research_Software_Engineer": "not_evidenced"
+            }
+          },
+          {
+            "text": "* Experience building automated integration tests and debugging failures across software and firmware.",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "not_evidenced",
+              "ML": "not_evidenced",
+              "DS": "not_evidenced",
+              "SWE": "not_evidenced",
+              "FDE": "not_evidenced",
+              "Research_Software_Engineer": "not_evidenced"
+            }
+          },
+          {
+            "text": "* Effective at using AI agents to accelerate work while maintaining quality.",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "not_evidenced",
+              "ML": "not_evidenced",
+              "DS": "not_evidenced",
+              "SWE": "partial",
+              "FDE": "partial",
+              "Research_Software_Engineer": "not_evidenced"
+            }
+          },
+          {
+            "text": "* Strong Rust skills; Python for test tooling and analysis. Bazel experience is a plus.",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "not_evidenced",
+              "ML": "not_evidenced",
+              "DS": "not_evidenced",
+              "SWE": "not_evidenced",
+              "FDE": "not_evidenced",
+              "Research_Software_Engineer": "not_evidenced"
+            }
+          }
+        ],
+        "usage": {
+          "input": 9321,
+          "output": 3919,
+          "thinking": 1034,
+          "cached": 0,
+          "cache_write": 9318,
+          "cost": 7032900
+        }
+      },
+      "scored_at": "2026-09-26T19:12:03.745044+00:00"
     }
   },
   "limits": {
@@ -247485,7 +248700,7 @@
     "sonnet": 10
   },
   "attempts_today": {
-    "luna": 75,
+    "luna": 82,
     "sonnet": 0
   }
 }
