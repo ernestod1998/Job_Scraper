@@ -1,59 +1,39 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-09-26 00:18 UTC*
+*Last updated: 2026-09-26 01:18 UTC*
 
-**13 new role(s)** since last run · 24 total in last 1h
+**8 new role(s)** since last run · 10 total in last 1h
 
-### [Software Engineer, Full Stack, Level 5](https://www.linkedin.com/jobs/view/4472220168/) — Snap Inc.
+### [Research Engineer](https://www.linkedin.com/jobs/view/4470748467/) — Dyna Robotics
+- 📍 **Location:** Redwood City, CA
+- 💰 **Salary:** $250,000.00/yr - $400,000.00/yr
+- 🕒 **Posted:** 2026-09-25
+
+### [Software Engineer - Onboard Maps and State Estimation](https://www.linkedin.com/jobs/view/4470749252/) — Applied Intuition
+- 📍 **Location:** Sunnyvale, CA
+- 💰 **Salary:** $190,000.00/yr - $265,000.00/yr
+- 🕒 **Posted:** 2026-09-25
+
+### [Associate Data Scientist, Fraud Strategy](https://www.linkedin.com/jobs/view/4470727763/) — Happen Bank
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-09-25
 
-### [Software Engineer, Full Stack, Level 5](https://www.linkedin.com/jobs/view/4472201992/) — Snap Inc.
-- 📍 **Location:** Palo Alto, CA
+### [Software Engineer - Onboard Maps](https://www.linkedin.com/jobs/view/4470738815/) — Applied Intuition
+- 📍 **Location:** Sunnyvale, CA
+- 💰 **Salary:** $170,000.00/yr - $265,000.00/yr
 - 🕒 **Posted:** 2026-09-25
 
-### [Software Engineer, Full Stack, Level 5](https://www.linkedin.com/jobs/view/4472217309/) — Snap Inc.
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-09-25
-
-### [Software Engineer II – AI Engineer (w/ skills in Deployment)](https://www.linkedin.com/jobs/view/4472097969/) — Robert Half
-- 📍 **Location:** San Ramon, CA
-- 🕒 **Posted:** 2026-09-25
-
-### [Machine Learning Engineer, Search Quality](https://www.linkedin.com/jobs/view/4470717961/) — Glean
+### [AI/ML Engineer](https://www.linkedin.com/jobs/view/4470713850/) — Cyrano
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-09-25
 
-### [Software Engineer III - ATI](https://www.linkedin.com/jobs/view/4472208726/) — Robert Half
-- 📍 **Location:** San Ramon, CA
+### [Software Engineer, Cloud Infrastructure and Observability](https://www.linkedin.com/jobs/view/4470744663/) — Nuro
+- 📍 **Location:** Mountain View, CA
 - 🕒 **Posted:** 2026-09-25
 
-### [DevOps Engineer](https://www.linkedin.com/jobs/view/4470736480/) — NextAxiom
+### [Software Engineer](https://www.linkedin.com/jobs/view/4472218848/) — ServiceNow
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-09-25
+
+### [Full Stack Engineer](https://www.linkedin.com/jobs/view/4472226505/) — dynamism
 - 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $120,000.00/yr - $150,000.00/yr
-- 🕒 **Posted:** 2026-09-25
-
-### [Software Engineer - Postgres](https://www.linkedin.com/jobs/view/4472207791/) — Snowflake
-- 📍 **Location:** Menlo Park, CA
-- 💰 **Salary:** $160,000.00/yr - $230,000.00/yr
-- 🕒 **Posted:** 2026-09-25
-
-### [Software Engineer I](https://www.linkedin.com/jobs/view/4472215481/) — Robert Half
-- 📍 **Location:** San Ramon, CA
-- 🕒 **Posted:** 2026-09-25
-
-### [Pre-training Research Engineer](https://www.linkedin.com/jobs/view/4459262301/) — Sciforium
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $165,000.00/yr - $225,000.00/yr
-- 🕒 **Posted:** 2026-09-25
-
-### [Machine Learning Engineer](https://www.linkedin.com/jobs/view/4472205651/) — Techsara Solutions
-- 📍 **Location:** New York City Metropolitan Area
-- 🕒 **Posted:** 2026-09-25
-
-### [DevOps Engineer III](https://www.linkedin.com/jobs/view/4472210653/) — Robert Half
-- 📍 **Location:** San Ramon, CA
-- 🕒 **Posted:** 2026-09-25
-
-### [Data Scientist II](https://www.linkedin.com/jobs/view/4472204865/) — Robert Half
-- 📍 **Location:** San Ramon, CA
 - 🕒 **Posted:** 2026-09-25
