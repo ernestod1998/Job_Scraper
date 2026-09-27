@@ -1,6 +1,6 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-09-27 21:17 UTC*
+*Last updated: 2026-09-27 22:17 UTC*
 
-**0 new role(s)** since last run · 3 total in last 1h
+**0 new role(s)** since last run · 0 total in last 1h
 
 No new roles since the last run.
