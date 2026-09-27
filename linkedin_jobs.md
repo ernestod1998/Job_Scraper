@@ -1,6 +1,8 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-09-27 22:17 UTC*
+*Last updated: 2026-09-27 23:17 UTC*
 
-**0 new role(s)** since last run · 0 total in last 1h
+**1 new role(s)** since last run · 1 total in last 1h
 
-No new roles since the last run.
+### [Software Engineer (SWIFT), Global Banking & Markets, Transaction Banking](https://www.linkedin.com/jobs/view/4471315100/) — Goldman Sachs
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-09-27
