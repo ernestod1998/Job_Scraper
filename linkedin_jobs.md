@@ -1,16 +1,16 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-09-28 03:17 UTC*
+*Last updated: 2026-09-28 07:31 UTC*
 
-**3 new role(s)** since last run · 5 total in last 1h
+**3 new role(s)** since last run · 3 total in last 1h
 
-### [Software Engineer](https://www.linkedin.com/jobs/view/4471320283/) — Haystack
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-09-27
+### [Software Engineer, Autonomy - Calibration, Mapping & Localization](https://www.linkedin.com/jobs/view/4453715569/) — Cyngn
+- 📍 **Location:** Mountain View, CA
+- 🕒 **Posted:** 2026-09-28
 
-### [Research Engineer](https://www.linkedin.com/jobs/view/4471327057/) — Digital Waffle
+### [DevOps Engineer (Neocloud and GPU)](https://www.linkedin.com/jobs/view/4471338179/) — Walter Bacon, Inc.
 - 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-09-27
+- 🕒 **Posted:** 2026-09-28
 
-### [Software Engineer](https://www.linkedin.com/jobs/view/4471309799/) — Haystack
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-09-27
+### [Backend Software Engineer - Rust](https://www.linkedin.com/jobs/view/4472490490/) — Digivance Solutions
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-09-28
