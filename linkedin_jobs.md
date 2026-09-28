@@ -1,12 +1,16 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-09-28 02:17 UTC*
+*Last updated: 2026-09-28 03:17 UTC*
 
-**2 new role(s)** since last run · 2 total in last 1h
+**3 new role(s)** since last run · 5 total in last 1h
 
-### [Full Stack Engineer](https://www.linkedin.com/jobs/view/4471325066/) — Digital Waffle
-- 📍 **Location:** Sunnyvale, CA
+### [Software Engineer](https://www.linkedin.com/jobs/view/4471320283/) — Haystack
+- 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-09-27
 
-### [Software Developer, Robotic Data & Deliveries](https://www.linkedin.com/jobs/view/4472481402/) — Mecka
-- 📍 **Location:** San Francisco, CA
+### [Research Engineer](https://www.linkedin.com/jobs/view/4471327057/) — Digital Waffle
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-09-27
+
+### [Software Engineer](https://www.linkedin.com/jobs/view/4471309799/) — Haystack
+- 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-09-27
