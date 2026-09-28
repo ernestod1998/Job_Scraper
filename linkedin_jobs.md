@@ -1,13 +1,22 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-09-28 00:17 UTC*
+*Last updated: 2026-09-28 01:09 UTC*
 
-**2 new role(s)** since last run · 2 total in last 1h
+**4 new role(s)** since last run · 5 total in last 1h
 
-### [Perception Engineer](https://www.linkedin.com/jobs/view/4450025691/) — Aurelius Systems
-- 📍 **Location:** San Francisco Bay Area
-- 💰 **Salary:** $130,000.00/yr - $170,000.00/yr
+### [Machine Learning Engineer](https://www.linkedin.com/jobs/view/4472477443/) — Alignerr
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $50.00/hr - $70.00/hr
 - 🕒 **Posted:** 2026-09-27
 
-### [Software Engineer](https://www.linkedin.com/jobs/view/4471097838/) — Boulder Connect
-- 📍 **Location:** San Francisco, CA
+### [Software Engineer/Developer](https://www.linkedin.com/jobs/view/4471099929/) — Apixis Family Company
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-09-27
+
+### [Software Engineer – Machine Learning (AI Training)](https://www.linkedin.com/jobs/view/4472485007/) — Alignerr
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $90.00/hr - $120.00/hr
+- 🕒 **Posted:** 2026-09-27
+
+### [Full Stack CAD Infrastructure Software Engineer](https://www.linkedin.com/jobs/view/4471307580/) — Hader Solutions
+- 📍 **Location:** Santa Clara, CA
 - 🕒 **Posted:** 2026-09-27
