@@ -1,122 +1,133 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-09-29 17:20 UTC*
+*Last updated: 2026-09-29 18:20 UTC*
 
-**29 new role(s)** since last run · 29 total in last 1h
+**31 new role(s)** since last run · 60 total in last 1h
 
-### [ML Engineer](https://www.linkedin.com/jobs/view/4471936221/) — Fonzi AI
-- 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-09-29
-
-### [Audio Machine Learning Engineer, Google Beam](https://www.linkedin.com/jobs/view/4471924443/) — Google
+### [Backend Engineer, Growth and Data](https://www.linkedin.com/jobs/view/4416688800/) — Hebbia
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-09-29
 
-### [Computer Vision Engineer](https://www.linkedin.com/jobs/view/4471762325/) — Lumex Talent
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $200,000.00/yr - $270,000.00/yr
-- 🕒 **Posted:** 2026-09-29
-
-### [Applied Scientist, Prime Video - Generative AI (Video)](https://www.linkedin.com/jobs/view/4464369587/) — Prime Video & Amazon MGM Studios
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-09-29
-
-### [Applied Robotics Engineer](https://www.linkedin.com/jobs/view/4469919472/) — Xaba Inc.
-- 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-09-29
-
-### [AI Research Scientist | Machine Learning | Deep Learning |Natural Language Processing | LLM | Hybrid | San Jose, CA](https://www.linkedin.com/jobs/view/4471937108/) — Enigma
+### [Machine Learning Engineer Graduate (AML-Engine-Orchestration) - 2027 Start (PhD)](https://www.linkedin.com/jobs/view/4473501565/) — ByteDance
 - 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-09-29
 
-### [Research Software Engineer, DeepMind](https://www.linkedin.com/jobs/view/4471920525/) — Google DeepMind
+### [Software Engineer Graduate (AI Infra Compute) - 2027 Start](https://www.linkedin.com/jobs/view/4473296799/) — ByteDance
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-09-29
+
+### [Software Engineer, Applied AI (RCM)](https://www.linkedin.com/jobs/view/4442169621/) — Commure
+- 📍 **Location:** Mountain View, CA
+- 💰 **Salary:** $170,000.00/yr - $190,000.00/yr
+- 🕒 **Posted:** 2026-09-29
+
+### [Fullstack Engineer, Ambient AI](https://www.linkedin.com/jobs/view/4438516340/) — Commure
+- 📍 **Location:** Mountain View, CA
+- 💰 **Salary:** $130,000.00/yr - $180,000.00/yr
+- 🕒 **Posted:** 2026-09-29
+
+### [Software Engineer Intern (AI Platform) - 2027 Summer](https://www.linkedin.com/jobs/view/4473512232/) — ByteDance
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-09-29
+
+### [Research Scientist, Efficient Deep Learning - New College Grad 2026](https://www.linkedin.com/jobs/view/4427233480/) — NVIDIA
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-09-29
+
+### [Data Lake Infrastructure & Data Analytics Research Engineer Intern (AML-Ark-US) - 2027 Summer](https://www.linkedin.com/jobs/view/4473508319/) — ByteDance
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-09-29
+
+### [Software Engineer Graduate (AI Compute) - 2027 Start (PhD)](https://www.linkedin.com/jobs/view/4473502517/) — ByteDance
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-09-29
+
+### [Research Scientist, Generative AI Graduate (Intelligent Creation) -Global Frontier Tech Recruitment Program -2027 Start (PhD)](https://www.linkedin.com/jobs/view/4473508323/) — ByteDance
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-09-29
+
+### [Software Engineer, Voice Agents](https://www.linkedin.com/jobs/view/4471138008/) — Commure
+- 📍 **Location:** Mountain View, CA
+- 💰 **Salary:** $130,000.00/yr - $180,000.00/yr
+- 🕒 **Posted:** 2026-09-29
+
+### [Multi-Cloud CDN Scheduling Platform Engineer Intern (CDN Platform) - 2027 Summer](https://www.linkedin.com/jobs/view/4473506457/) — ByteDance
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-09-29
+
+### [Software Engineer, AI Billing](https://www.linkedin.com/jobs/view/4444506847/) — Commure
+- 📍 **Location:** Mountain View, CA
+- 💰 **Salary:** $130,000.00/yr - $190,000.00/yr
+- 🕒 **Posted:** 2026-09-29
+
+### [Multi-Cloud CDN Scheduling Platform Engineer Graduate (CDN Platform) - 2027 Start](https://www.linkedin.com/jobs/view/4473505467/) — ByteDance
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-09-29
+
+### [Software Engineer Intern (Global Payment Infra and SRE) - 2027 Summer](https://www.linkedin.com/jobs/view/4473507425/) — ByteDance
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-09-29
+
+### [Backend Engineer, Agent Collaboration Platform](https://www.linkedin.com/jobs/view/4416425389/) — Hebbia
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-09-29
+
+### [Applied Research Engineer, Agents](https://www.linkedin.com/jobs/view/4416423413/) — Hebbia
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-09-29
+
+### [Backend Developer](https://www.linkedin.com/jobs/view/4462529033/) — Solomon Page
+- 📍 **Location:** Pleasanton, CA
+- 🕒 **Posted:** 2026-09-29
+
+### [Mobile Engineer (iOS / Android)](https://www.linkedin.com/jobs/view/4471928498/) — Evlo AI
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-09-29
+
+### [Software Engineer, Billing Agents](https://www.linkedin.com/jobs/view/4442173513/) — Commure
 - 📍 **Location:** Mountain View, CA
 - 🕒 **Posted:** 2026-09-29
 
-### [Backend Engineer, Agent Collaboration Platform](https://www.linkedin.com/jobs/view/4416678909/) — Hebbia
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-09-29
-
-### [AI Scientist (Model Building & Training)](https://www.linkedin.com/jobs/view/4473292519/) — BioSpace
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-09-29
-
-### [Full Stack Engineer](https://www.linkedin.com/jobs/view/4471929362/) — Fonzi AI
-- 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-09-29
-
-### [Backend Engineer](https://www.linkedin.com/jobs/view/4471921657/) — Fonzi AI
-- 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-09-29
-
-### [ML Engineer](https://www.linkedin.com/jobs/view/4471930349/) — Fonzi AI
-- 📍 **Location:** New York City Metropolitan Area
-- 🕒 **Posted:** 2026-09-29
-
-### [Research Software Engineer, DeepMind](https://www.linkedin.com/jobs/view/4471925392/) — Google DeepMind
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-09-29
-
-### [Platform Engineer, Document Intelligence](https://www.linkedin.com/jobs/view/4416420425/) — Hebbia
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-09-29
-
-### [Backend Engineer](https://www.linkedin.com/jobs/view/4471917957/) — Fonzi AI
-- 📍 **Location:** New York City Metropolitan Area
-- 🕒 **Posted:** 2026-09-29
-
-### [Full Stack Engineer](https://www.linkedin.com/jobs/view/4471924564/) — Fonzi AI
-- 📍 **Location:** New York City Metropolitan Area
-- 🕒 **Posted:** 2026-09-29
-
-### [Software Engineer, Growth](https://www.linkedin.com/jobs/view/4414851039/) — Suno
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-09-29
-
-### [Infrastructure Engineer](https://www.linkedin.com/jobs/view/4471925543/) — Fonzi AI
-- 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-09-29
-
-### [Site Reliability Engineer](https://www.linkedin.com/jobs/view/4378603988/) — F5
+### [Backend Software Engineer Graduate (Platform) - 2027 Start](https://www.linkedin.com/jobs/view/4473501571/) — ByteDance
 - 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-09-29
 
-### [Infrastructure Engineer](https://www.linkedin.com/jobs/view/4471929389/) — Fonzi AI
+### [Java Backend Engineer](https://www.linkedin.com/jobs/view/4468263949/) — Flexton Inc.
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-09-29
+
+### [Software Engineer - Full Stack](https://www.linkedin.com/jobs/view/4471920894/) — Evlo AI
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-09-29
+
+### [Machine Learning Engineer](https://www.linkedin.com/jobs/view/4471924805/) — Evlo AI
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-09-29
+
+### [Software Engineer, Site Reliability](https://www.linkedin.com/jobs/view/4416677901/) — Hebbia
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-09-29
+
+### [Site Reliability Engineer](https://www.linkedin.com/jobs/view/4471938194/) — Luma Financial Technologies
 - 📍 **Location:** New York City Metropolitan Area
 - 🕒 **Posted:** 2026-09-29
 
-### [Software Engineer II, Android](https://www.linkedin.com/jobs/view/4471938108/) — Crunchyroll
-- 📍 **Location:** San Francisco, CA
+### [DevOps Engineer](https://www.linkedin.com/jobs/view/4471930563/) — Evlo AI
+- 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-09-29
 
-### [Software Engineer, Backend](https://www.linkedin.com/jobs/view/4455376972/) — Opto Investments
-- 📍 **Location:** San Francisco Bay Area
+### [DevOps Engineer (USA)](https://www.linkedin.com/jobs/view/4454420870/) — Trexquant Investment LP
+- 📍 **Location:** Stamford, CT
 - 🕒 **Posted:** 2026-09-29
 
-### [Software Engineer](https://www.linkedin.com/jobs/view/4473299285/) — Kaleidoscope Innovation
-- 📍 **Location:** Cupertino, CA
-- 💰 **Salary:** $130,000.00/yr - $140,000.00/yr
-- 🕒 **Posted:** 2026-09-29
-
-### [Equipment Software Engineer](https://www.linkedin.com/jobs/view/4471753405/) — Veeco
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-09-29
-
-### [Software Engineer, Product](https://www.linkedin.com/jobs/view/4455397489/) — Opto Investments
-- 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-09-29
-
-### [Software Engineer, Database Infra](https://www.linkedin.com/jobs/view/4385797065/) — Harvey
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-09-29
-
-### [Frontend Software Engineer Intern (Spring '27)](https://www.linkedin.com/jobs/view/4471943055/) — Todd
-- 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-09-29
-
-### [Software Engineer](https://www.linkedin.com/jobs/view/4473274851/) — Postman
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-09-29
-
-### [Quantitative Research Engineer – PhD Intern (US)](https://www.linkedin.com/jobs/view/4439266339/) — Citadel
+### [AI Platform Engineer](https://www.linkedin.com/jobs/view/4471943281/) — Green Key Resources
 - 📍 **Location:** New York City Metropolitan Area
+- 💰 **Salary:** $160,000.00/yr - $170,000.00/yr
+- 🕒 **Posted:** 2026-09-29
+
+### [Software Engineer, Global Banking & Markets, Electronic Trading](https://www.linkedin.com/jobs/view/4454407348/) — Goldman Sachs
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-09-29
+
+### [Backend Engineer, Agents](https://www.linkedin.com/jobs/view/4416410580/) — Hebbia
+- 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-09-29
