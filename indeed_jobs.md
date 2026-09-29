@@ -1,68 +1,125 @@
 # 🟦 Indeed — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-09-29 01:14 UTC*
+*Last updated: 2026-09-29 07:29 UTC*
 
-**13 new role(s)** since last run · 39 total in last 24h
+**25 new role(s)** since last run · 57 total in last 24h
 
-### [Robotics Research Engineer](https://www.indeed.com/viewjob?jk=8155c5791bec50e6) — Unknown
-- 📍 **Location:** San Francisco, CA, US
-- 🕒 **Posted:** 2026-09-28
-
-### [Software Engineer, ML, Search Ads Creatives](https://www.indeed.com/viewjob?jk=e26e1053b432b431) — Google
-- 📍 **Location:** Mountain View, CA, US
-- 💰 **Salary:** $262k–$364k/yr
-- 🕒 **Posted:** 2026-09-28
-
-### [Applied Scientist Intern (Summer 2027)](https://www.indeed.com/viewjob?jk=7ed4eab2d81b0eee) — Lyft
-- 📍 **Location:** San Francisco, CA, US
-- 💰 **Salary:** $64–$68/hr
-- 🕒 **Posted:** 2026-09-28
-
-### [Full Stack Engineer, Consultant](https://www.indeed.com/viewjob?jk=a9993c511c47797c) — Blue Shield of California
-- 📍 **Location:** Oakland, CA, US
-- 💰 **Salary:** $123k–$185k/yr
-- 🕒 **Posted:** 2026-09-28
-
-### [Software Engineer, Consumer Revenue](https://www.indeed.com/viewjob?jk=5794399b6d8d0731) — Discord
-- 📍 **Location:** San Francisco Bay Area, CA, US
-- 💰 **Salary:** $160k–$200k/yr
-- 🕒 **Posted:** 2026-09-28
-
-### [Embedded Software Engineer, Vehicle Access](https://www.indeed.com/viewjob?jk=033493873362478b) — ALTEN
+### [Internship, Software Integration Engineer, AI Platforms (Winter/Spring 2027)](https://www.indeed.com/viewjob?jk=96b4ca5ea304f484) — Tesla
 - 📍 **Location:** Palo Alto, CA, US
-- 💰 **Salary:** $150k–$170k/yr
+- 🕒 **Posted:** 2026-09-29
+
+### [Machine Learning Engineer, Safety](https://www.indeed.com/viewjob?jk=3fff7502590fb1a2) — fal - Features & Labels
+- 📍 **Location:** San Francisco, CA, US
+- 💰 **Salary:** $180k–$250k/yr
 - 🕒 **Posted:** 2026-09-28
 
-### [Software Engineer III (AI/ML)](https://www.indeed.com/viewjob?jk=fd43da7937033d11) — Guidewire
-- 📍 **Location:** San Mateo, CA, US
-- 💰 **Salary:** $114k–$202k/yr
-- 🕒 **Posted:** 2026-09-28
-
-### [Software Engineer III, Infrastructure, Platforms and Devices](https://www.indeed.com/viewjob?jk=4cff07a6138ea986) — Google
+### [Software Engineer, YouTube Ads Machine Learning Infrastructure](https://www.indeed.com/viewjob?jk=31dc9595d9ea8218) — Youtube
 - 📍 **Location:** Mountain View, CA, US
 - 💰 **Salary:** $147k–$210k/yr
 - 🕒 **Posted:** 2026-09-28
 
-### [Site Reliability Engineer, Raxium](https://www.indeed.com/viewjob?jk=ce3079b0e178a922) — Google
-- 📍 **Location:** Fremont, CA, US
-- 💰 **Salary:** $207k–$300k/yr
+### [Machine Learning Engineer, Medical Imaging](https://www.indeed.com/viewjob?jk=2664e131ff5d96b6) — Intuitive (Intuitive Surgical)
+- 📍 **Location:** Sunnyvale, CA, US
+- 💰 **Salary:** $139k–$236k/yr
 - 🕒 **Posted:** 2026-09-28
 
-### [AI/ML Engineer](https://www.indeed.com/viewjob?jk=26129aafce008368) — EXL Service
+### [Software Engineer, Product Velocity](https://www.indeed.com/viewjob?jk=2edc7f64881e6b5e) — OpenAI
+- 📍 **Location:** San Francisco, CA, US
+- 💰 **Salary:** $347k–$445k/yr
+- 🕒 **Posted:** 2026-09-28
+
+### [Software Engineer - Planner GPU Compute](https://www.indeed.com/viewjob?jk=e5725e36b3e1b191) — Zoox
+- 📍 **Location:** Foster City, CA, US
+- 💰 **Salary:** $209k–$263k/yr
+- 🕒 **Posted:** 2026-09-28
+
+### [Software Engineer, Consumer Shopping Quality, Commerce, Recommendations, Rankings, Predictions](https://www.indeed.com/viewjob?jk=57c606f58332b92f) — Google
+- 📍 **Location:** Mountain View, CA, US
+- 💰 **Salary:** $147k–$210k/yr
+- 🕒 **Posted:** 2026-09-28
+
+### [Robot Software Engineer Internship](https://www.indeed.com/viewjob?jk=6d88a31d31459cf9) — Rhoda AI
+- 📍 **Location:** Mountain View, CA, US
+- 💰 **Salary:** $40–$50/hr
+- 🕒 **Posted:** 2026-09-28
+
+### [Simulations Software Developer](https://www.indeed.com/viewjob?jk=a5cf118cbd9abf76) — Intuitive Machines
+- 📍 **Location:** San Jose, CA, US
+- 💰 **Salary:** $82k–$156k/yr
+- 🕒 **Posted:** 2026-09-28
+
+### [Software Engineering MTS](https://www.indeed.com/viewjob?jk=8d7411924247e33a) — Salesforce
+- 📍 **Location:** San Francisco, CA, US
+- 💰 **Salary:** $117k–$194k/yr
+- 🕒 **Posted:** 2026-09-28
+
+### [Software Engineer- Infrastructure/Service Mesh](https://www.indeed.com/viewjob?jk=cf30727b83cedac8) — Salesforce
+- 📍 **Location:** San Francisco, CA, US
+- 💰 **Salary:** $148k–$224k/yr
+- 🕒 **Posted:** 2026-09-28
+
+### [Internship, Software Engineer, Data Transformations (Winter/Spring 2027)](https://www.indeed.com/viewjob?jk=48b0b3332cd37a65) — Tesla
+- 📍 **Location:** Palo Alto, CA, US
+- 💰 **Salary:** $50–$59/hr
+- 🕒 **Posted:** 2026-09-26
+
+### [Research Engineer, Robotics Data](https://www.indeed.com/viewjob?jk=56010e947cbcd539) — HUD
+- 📍 **Location:** San Francisco, CA, US
+- 🕒 **Posted:** 2026-09-28
+
+### [Research Engineer, Robotics Data](https://www.indeed.com/viewjob?jk=496568988ce6192d) — HUD
+- 📍 **Location:** San Francisco, CA, US
+- 🕒 **Posted:** 2026-09-28
+
+### [Infrastructure Engineer III](https://www.indeed.com/viewjob?jk=63f1a4031e9d21ca) — JPMorganChase
+- 📍 **Location:** San Francisco, CA, US
+- 💰 **Salary:** $119k–$160k/yr
+- 🕒 **Posted:** 2026-09-28
+
+### [Software Engineering Technical Leader](https://www.indeed.com/viewjob?jk=58327bd24363b6c0) — Cisco
+- 📍 **Location:** Milpitas, CA, US
+- 💰 **Salary:** $166k–$308k/yr
+- 🕒 **Posted:** 2026-09-28
+
+### [Software Engineer III- Java- Full Stack](https://www.indeed.com/viewjob?jk=4ca901da1bf24a9d) — JPMorganChase
 - 📍 **Location:** Jersey City, NJ, US
-- 💰 **Salary:** $110k–$120k/yr
+- 💰 **Salary:** $138k–$185k/yr
 - 🕒 **Posted:** 2026-09-28
 
-### [Applied Scientist II, Sponsored Products and Brands - Advertiser Growth and Strategies](https://www.indeed.com/viewjob?jk=dcbcaf401bb3ac5d) — Amazon.com
+### [Software Engineer III (Java/React)](https://www.indeed.com/viewjob?jk=5a855f9868376a55) — JPMorganChase
 - 📍 **Location:** New York, NY, US
-- 💰 **Salary:** $143k–$223k/yr
-- 🕒 **Posted:** 2026-09-24
-
-### [Mid-Level Software Engineer](https://www.indeed.com/viewjob?jk=ae522aa586b90be0) — United Career networks
-- 📍 **Location:** New York, NY, US
-- 💰 **Salary:** $110k–$132k/yr
+- 💰 **Salary:** $138k–$185k/yr
 - 🕒 **Posted:** 2026-09-28
 
-### [Software Engineer II](https://www.indeed.com/viewjob?jk=bfdc647f704906d0) — Citizens
-- 📍 **Location:** Short Hills, NJ, US
-- 💰 **Salary:** $112k–$135k/yr
+### [Software Engineer II (Java/React)](https://www.indeed.com/viewjob?jk=39e350359a86e4d3) — JPMorganChase
+- 📍 **Location:** New York, NY, US
+- 💰 **Salary:** $124k–$150k/yr
+- 🕒 **Posted:** 2026-09-28
+
+### [AI/ML Engineer](https://www.indeed.com/viewjob?jk=d94fb3ecd34b2c14) — ZT Systems
+- 📍 **Location:** Secaucus, NJ, US
+- 💰 **Salary:** $105k–$154k/yr
+- 🕒 **Posted:** 2026-09-28
+
+### [Software Engineer III - Trading Technology | Asset Management](https://www.indeed.com/viewjob?jk=c9c32e44bb93e7fd) — JPMorganChase
+- 📍 **Location:** New York, NY, US
+- 💰 **Salary:** $138k–$185k/yr
+- 🕒 **Posted:** 2026-09-28
+
+### [Site Reliability Engineer III- Production Management](https://www.indeed.com/viewjob?jk=00fff998f5428485) — JPMorganChase
+- 📍 **Location:** New York, NY, US
+- 💰 **Salary:** $138k–$185k/yr
+- 🕒 **Posted:** 2026-09-28
+
+### [Software Engineer III- Back End](https://www.indeed.com/viewjob?jk=d694c0de9a6fcc7c) — JPMorganChase
+- 📍 **Location:** New York, NY, US
+- 💰 **Salary:** $138k–$185k/yr
+- 🕒 **Posted:** 2026-09-28
+
+### [Software Engineer III - Production Stability & Development - Market Risk Technology](https://www.indeed.com/viewjob?jk=1d7f23985fedd1c3) — Bank of America
+- 📍 **Location:** Jersey City, NJ, US
+- 🕒 **Posted:** 2026-09-28
+
+### [Infrastructure Engineer III - Amazon Connect](https://www.indeed.com/viewjob?jk=5ceb2b10161dc7ab) — JPMorganChase
+- 📍 **Location:** New York, NY, US
+- 💰 **Salary:** $119k–$160k/yr
 - 🕒 **Posted:** 2026-09-28
