@@ -1,46 +1,66 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-09-29 21:18 UTC*
+*Last updated: 2026-09-29 22:18 UTC*
 
-**10 new role(s)** since last run · 10 total in last 1h
+**15 new role(s)** since last run · 24 total in last 1h
 
-### [Applied Research Engineer](https://www.linkedin.com/jobs/view/4471774448/) — Higharc
-- 📍 **Location:** San Francisco, CA
+### [Research Engineer](https://www.linkedin.com/jobs/view/4473560046/) — Goliath Partners
+- 📍 **Location:** San Francisco Bay Area
+- 💰 **Salary:** $1,000,000.00/yr - $1,350,000.00/yr
 - 🕒 **Posted:** 2026-09-29
 
-### [AI/ML Imaging Data Scientist - Personalized Healthcare (Medical Imaging)](https://www.linkedin.com/jobs/view/4473529512/) — Genentech
-- 📍 **Location:** South San Francisco, CA
-- 🕒 **Posted:** 2026-09-29
-
-### [Data Scientist - Flex Pay](https://www.linkedin.com/jobs/view/4471953632/) — Upgrade, Inc.
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-09-29
-
-### [Software Developer](https://www.linkedin.com/jobs/view/4471951485/) — Husch Blackwell
-- 📍 **Location:** Oakland, CA
-- 🕒 **Posted:** 2026-09-29
-
-### [Triton Compiler and Kernel Software Engineer](https://www.linkedin.com/jobs/view/4471785130/) — AMD
+### [Software Engineer](https://www.linkedin.com/jobs/view/4473561017/) — Cisco
 - 📍 **Location:** San Jose, CA
-- 💰 **Salary:** $204,000.00/yr - $306,000.00/yr
 - 🕒 **Posted:** 2026-09-29
 
-### [Applied Research Engineer](https://www.linkedin.com/jobs/view/4471768765/) — Higharc
+### [Postdoctoral Fellow - Applied & Computational Scientists](https://www.linkedin.com/jobs/view/4463914751/) — SRI
+- 📍 **Location:** Menlo Park, CA
+- 🕒 **Posted:** 2026-09-29
+
+### [Junior Software Engineer](https://www.linkedin.com/jobs/view/4471772658/) — SoTalent
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-09-29
+
+### [Software Engineer](https://www.linkedin.com/jobs/view/4471765974/) — CoreWeave
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-09-29
+
+### [Software Engineer](https://www.linkedin.com/jobs/view/4471782338/) — CoreWeave
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-09-29
+
+### [Software Engineer-Remote](https://www.linkedin.com/jobs/view/4473557125/) — Optum
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-09-29
+
+### [Software Engineer](https://www.linkedin.com/jobs/view/4471768903/) — CoreWeave
+- 📍 **Location:** Manhattan, NY
+- 🕒 **Posted:** 2026-09-29
+
+### [Software Engineer](https://www.linkedin.com/jobs/view/4471961584/) — Cerity Partners
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-09-29
 
-### [Data Scientist – Banking Customer Analytics](https://www.linkedin.com/jobs/view/4473542359/) — Analytic Recruiting Inc.
-- 📍 **Location:** New York City Metropolitan Area
+### [Maya Software Developer](https://www.linkedin.com/jobs/view/4471959565/) — Autodesk
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-09-29
 
-### [Data Platform Engineer](https://www.linkedin.com/jobs/view/4473529675/) — Interactive Brokers
-- 📍 **Location:** Greenwich, CT
+### [Software Engineer](https://www.linkedin.com/jobs/view/4471947983/) — MetAntz
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-09-29
 
-### [Hedge Fund Software Engineer](https://www.linkedin.com/jobs/view/4458013106/) — Saragossa
-- 📍 **Location:** New York City Metropolitan Area
-- 💰 **Salary:** $250,000.00/yr - $450,000.00/yr
+### [Frontend Software Developer Intern (Fall '26)](https://www.linkedin.com/jobs/view/4471968223/) — Todd
+- 📍 **Location:** San Francisco Bay Area
 - 🕒 **Posted:** 2026-09-29
 
-### [Software Engineer III](https://www.linkedin.com/jobs/view/4473536592/) — EPITEC
-- 📍 **Location:** Menlo Park, CA
+### [Java Software Engineer](https://www.linkedin.com/jobs/view/4471959547/) — Envision Technology Solutions
+- 📍 **Location:** Berkeley Heights, NJ
+- 🕒 **Posted:** 2026-09-29
+
+### [Generative AI Solution Developer](https://www.linkedin.com/jobs/view/4471967157/) — Randstad Digital Americas
+- 📍 **Location:** Jersey City, NJ
+- 💰 **Salary:** $54.62/hr - $64.62/hr
+- 🕒 **Posted:** 2026-09-29
+
+### [Software Engineer III, Infrastructure, Google Cloud NetInfra](https://www.linkedin.com/jobs/view/4471965426/) — Google
+- 📍 **Location:** Sunnyvale, CA
 - 🕒 **Posted:** 2026-09-29
