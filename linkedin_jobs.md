@@ -1,21 +1,27 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-09-30 03:18 UTC*
+*Last updated: 2026-09-30 05:53 UTC*
 
-**4 new role(s)** since last run · 12 total in last 1h
+**5 new role(s)** since last run · 5 total in last 1h
 
-### [Next Gen Robotics Engineer](https://www.linkedin.com/jobs/view/4469731547/) — Accenture
-- 📍 **Location:** New York, NY
+### [AI Engineer – Cloud Software & AI Platforms - Contract](https://www.linkedin.com/jobs/view/4473707718/) — Altera
+- 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-09-29
 
-### [Software Engineer - Embedded Linux Operating Systems](https://www.linkedin.com/jobs/view/4473593104/) — Zoox
-- 📍 **Location:** Foster City, CA
-- 🕒 **Posted:** 2026-09-29
-
-### [Full Stack Engineer (New Grad)](https://www.linkedin.com/jobs/view/4380380329/) — Monarch Recruiters
-- 📍 **Location:** San Francisco Bay Area
-- 💰 **Salary:** $130,000.00/yr - $160,000.00/yr
-- 🕒 **Posted:** 2026-09-29
-
-### [Full Stack Engineer](https://www.linkedin.com/jobs/view/4380393957/) — Monarch Recruiters
+### [Software Engineer, Implicit Signals](https://www.linkedin.com/jobs/view/4471799962/) — OpenAI
 - 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $347,000.00/yr - $445,000.00/yr
+- 🕒 **Posted:** 2026-09-29
+
+### [Data Scientist, B2B Generalist](https://www.linkedin.com/jobs/view/4472109646/) — OpenAI
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $347,000.00/yr - $445,000.00/yr
+- 🕒 **Posted:** 2026-09-29
+
+### [DevOps Engineer (Sunnyvale, CA)](https://www.linkedin.com/jobs/view/4473554430/) — Hewlett Packard Enterprise
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-09-29
+
+### [Data Scientist](https://www.linkedin.com/jobs/view/4473705492/) — Humana
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $97,900.00/yr - $133,500.00/yr
 - 🕒 **Posted:** 2026-09-29
