@@ -1,62 +1,74 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-09-30 20:17 UTC*
+*Last updated: 2026-09-30 21:18 UTC*
 
-**14 new role(s)** since last run · 31 total in last 1h
+**17 new role(s)** since last run · 18 total in last 1h
 
-### [Software Engineer, Machine Learning (All Levels / All Teams)](https://www.linkedin.com/jobs/view/4472632492/) — DoorDash
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-09-30
-
-### [AI Platform / ML Engineer](https://www.linkedin.com/jobs/view/4472348134/) — Greymatter Innovationz
-- 📍 **Location:** New York City Metropolitan Area
-- 🕒 **Posted:** 2026-09-30
-
-### [Software Engineer, Growth - 409143](https://www.linkedin.com/jobs/view/4473953603/) — Atrium
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-09-30
-
-### [Platform Engineer](https://www.linkedin.com/jobs/view/4472332833/) — Terzo
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-09-30
-
-### [Software Engineer, Machine Learning (All Levels / All Teams)](https://www.linkedin.com/jobs/view/4472636349/) — DoorDash
+### [Data Scientist](https://www.linkedin.com/jobs/view/4473961242/) — Northbeam
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-09-30
 
-### [Software Engineer, Machine Learning (All Levels / All Teams)](https://www.linkedin.com/jobs/view/4472633482/) — DoorDash
-- 📍 **Location:** Sunnyvale, CA
+### [Full Stack Engineer - AI](https://www.linkedin.com/jobs/view/4473957475/) — Incedo Inc.
+- 📍 **Location:** San Francisco Bay Area
 - 🕒 **Posted:** 2026-09-30
 
-### [Platform Engineer](https://www.linkedin.com/jobs/view/4472338807/) — Terzo
-- 📍 **Location:** San Francisco, CA
+### [Software Engineer](https://www.linkedin.com/jobs/view/4472640343/) — Oklo Inc
+- 📍 **Location:** Santa Clara, CA
 - 🕒 **Posted:** 2026-09-30
 
-### [Software Engineer - C++](https://www.linkedin.com/jobs/view/4473940324/) — TEKFORTUNE INC
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-09-30
-
-### [Applied AI Research Engineer](https://www.linkedin.com/jobs/view/4473944679/) — Anori
-- 📍 **Location:** San Mateo, CA
-- 🕒 **Posted:** 2026-09-30
-
-### [ML Research Scientist - Computational Biologist/Bioinformatics](https://www.linkedin.com/jobs/view/4472335862/) — Merge Labs
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $235,000.00/yr - $270,000.00/yr
-- 🕒 **Posted:** 2026-09-30
-
-### [Research Engineer, Field Simulation](https://www.linkedin.com/jobs/view/4473948524/) — Monarch
-- 📍 **Location:** Emeryville, CA
-- 🕒 **Posted:** 2026-09-30
-
-### [Research Scientist/Research Engineer, Midtraining](https://www.linkedin.com/jobs/view/4473950481/) — Periodic Labs
+### [Full Stack Software Engineer](https://www.linkedin.com/jobs/view/4472359131/) — Experis
 - 📍 **Location:** Menlo Park, CA
 - 🕒 **Posted:** 2026-09-30
 
-### [Data Scientist, Handshake AI](https://www.linkedin.com/jobs/view/4473940922/) — Handshake
+### [Software Engineer, Program Engineering](https://www.linkedin.com/jobs/view/4472637506/) — Block
 - 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $135,000.00/yr - $180,000.00/yr
 - 🕒 **Posted:** 2026-09-30
 
-### [Applied Robotics Engineer](https://www.linkedin.com/jobs/view/4469919472/) — Xaba Inc.
-- 📍 **Location:** San Francisco Bay Area
+### [Data Scientist (Contract | Hybrid | Growth & Campaign Analytics)](https://www.linkedin.com/jobs/view/4472343799/) — Catapult Solutions Group
+- 📍 **Location:** Mountain View, CA
+- 💰 **Salary:** $73.00/hr - $83.00/hr
+- 🕒 **Posted:** 2026-09-30
+
+### [Applied Scientist Intern](https://www.linkedin.com/jobs/view/4473943811/) — Ramp
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-09-30
+
+### [Software Engineer](https://www.linkedin.com/jobs/view/4472634496/) — Submittd Talent
+- 📍 **Location:** New York City Metropolitan Area
+- 💰 **Salary:** $200,000.00/yr - $240,000.00/yr
+- 🕒 **Posted:** 2026-09-30
+
+### [Associate Backend Engineer](https://www.linkedin.com/jobs/view/4473965083/) — Eulerity
+- 📍 **Location:** New York City Metropolitan Area
+- 🕒 **Posted:** 2026-09-30
+
+### [Machine Learning Engineer](https://www.linkedin.com/jobs/view/4473952910/) — Saicon
+- 📍 **Location:** Pleasanton, CA
+- 🕒 **Posted:** 2026-09-30
+
+### [Software Engineer, Data Loading Infrastructure](https://www.linkedin.com/jobs/view/4472640208/) — Asana
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-09-30
+
+### [Data Platform DevOps/SRE Engineer](https://www.linkedin.com/jobs/view/4473947892/) — Envision Technology Solutions
+- 📍 **Location:** Jersey City, NJ
+- 🕒 **Posted:** 2026-09-30
+
+### [Software Engineer, Mission Systems](https://www.linkedin.com/jobs/view/4473941861/) — Reliable Robotics Corporation
+- 📍 **Location:** Mountain View, CA
+- 🕒 **Posted:** 2026-09-30
+
+### [Software Engineering Intern](https://www.linkedin.com/jobs/view/4472649009/) — KLA
+- 📍 **Location:** Milpitas, CA
+- 🕒 **Posted:** 2026-09-30
+
+### [High School Fellowship, Software Engineering](https://www.linkedin.com/jobs/view/4473957512/) — Stripe
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-09-30
+
+### [Systems Engineer / Site Reliability Engineer](https://www.linkedin.com/jobs/view/4472349405/) — SharpAtoms
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-09-30
+
+### [Data Science Intern](https://www.linkedin.com/jobs/view/4473969080/) — Coinbase
+- 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-09-30
