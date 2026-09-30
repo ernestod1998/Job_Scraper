@@ -1,115 +1,112 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-09-30 15:19 UTC*
+*Last updated: 2026-09-30 16:19 UTC*
 
-**25 new role(s)** since last run · 25 total in last 1h
+**25 new role(s)** since last run · 27 total in last 1h
 
-### [Applied Scientist -- Foundation Models, SSO](https://www.linkedin.com/jobs/view/4455906121/) — Amazon Web Services (AWS)
+### [Machine Learning Engineer, Amazon Ads Identity](https://www.linkedin.com/jobs/view/4464910870/) — Amazon
+- 📍 **Location:** Palo Alto, CA
+- 🕒 **Posted:** 2026-09-30
+
+### [Applied Scientist II, Foundation Model, Industrial Robotics Group](https://www.linkedin.com/jobs/view/4455901676/) — Amazon
+- 📍 **Location:** San Francisco County, CA
+- 🕒 **Posted:** 2026-09-30
+
+### [Applied Scientist, AWS Quick](https://www.linkedin.com/jobs/view/4455915572/) — Amazon Web Services (AWS)
 - 📍 **Location:** Santa Clara, CA
 - 🕒 **Posted:** 2026-09-30
 
-### [Research Engineer, Machine Learning (Reinforcement Learning)](https://www.linkedin.com/jobs/view/4322390079/) — Anthropic
+### [Research Engineer, Privacy Evals - Meta Superintelligence Labs](https://www.linkedin.com/jobs/view/4472604150/) — Meta
+- 📍 **Location:** Menlo Park, CA
+- 💰 **Salary:** $154,003.00/yr - $217,000.00/yr
+- 🕒 **Posted:** 2026-09-30
+
+### [AI Research Scientist | Machine Learning | Deep Learning |Natural Language Processing | LLM | Hybrid | San Jose, CA](https://www.linkedin.com/jobs/view/4472326185/) — Enigma
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-09-30
+
+### [Robotics Software Engineer - Grasping](https://www.linkedin.com/jobs/view/4375581668/) — Intrinsic
+- 📍 **Location:** Mountain View, CA
+- 🕒 **Posted:** 2026-09-30
+
+### [Full Stack Engineer](https://www.linkedin.com/jobs/view/4473912362/) — Fonzi AI
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-09-30
+
+### [Data Science, Finance & Strategy](https://www.linkedin.com/jobs/view/4440608847/) — Anthropic
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-09-30
 
-### [Software Engineer- AI/ML, Amazon Neuron Training](https://www.linkedin.com/jobs/view/4455906626/) — Amazon Web Services (AWS)
-- 📍 **Location:** Cupertino, CA
-- 🕒 **Posted:** 2026-09-30
-
-### [Applied Scientist II, Data Intelligence and Governance](https://www.linkedin.com/jobs/view/4455901258/) — Amazon
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-09-30
-
-### [Neuron Collectives Software Engineer, Trainium Collectives](https://www.linkedin.com/jobs/view/4455794889/) — Amazon Web Services (AWS)
-- 📍 **Location:** Cupertino, CA
-- 🕒 **Posted:** 2026-09-30
-
-### [Machine Learning Research Engineer](https://www.linkedin.com/jobs/view/4472300811/) — Fintal Partners
+### [Machine Learning Engineer, Discovery](https://www.linkedin.com/jobs/view/4463580305/) — Whatnot
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $500,000.00/yr - $1,500,000.00/yr
+- 💰 **Salary:** $180,000.00/yr - $245,000.00/yr
 - 🕒 **Posted:** 2026-09-30
 
-### [Software Engineer, Research Data Platform](https://www.linkedin.com/jobs/view/4454413458/) — Anthropic
+### [Data Scientist](https://www.linkedin.com/jobs/view/4473914093/) — SPECTRAFORCE
+- 📍 **Location:** Newark, NJ
+- 🕒 **Posted:** 2026-09-30
+
+### [Software Engineer, AI Kernels & Performance Optimization — MTIA Software](https://www.linkedin.com/jobs/view/4472195486/) — Meta
 - 📍 **Location:** New York, NY
+- 💰 **Salary:** $183,997.00/yr - $257,000.00/yr
 - 🕒 **Posted:** 2026-09-30
 
-### [AI/ML Engineer](https://www.linkedin.com/jobs/view/4473905429/) — SRM Digital
-- 📍 **Location:** New York, NY
+### [DevOps Engineer (AI Infrastructure)](https://www.linkedin.com/jobs/view/4468013806/) — Walter Bacon, Inc.
+- 📍 **Location:** San Francisco Bay Area
+- 💰 **Salary:** $225,000.00/yr - $350,000.00/yr
 - 🕒 **Posted:** 2026-09-30
 
-### [Advanced Software Engineer - Power Apps](https://www.linkedin.com/jobs/view/4378202966/) — Metropolitan Transportation Authority
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-09-30
-
-### [Software Engineer](https://www.linkedin.com/jobs/view/4472603036/) — Albert Bow
-- 📍 **Location:** New York City Metropolitan Area
-- 🕒 **Posted:** 2026-09-30
-
-### [Infrastructure Developer, Platform Engineering](https://www.linkedin.com/jobs/view/4463530022/) — MaintainX
+### [Site Reliability Engineer](https://www.linkedin.com/jobs/view/4463509979/) — MaintainX
 - 📍 **Location:** San Francisco, CA
 - 💰 **Salary:** $120,000.00/yr - $249,260.00/yr
 - 🕒 **Posted:** 2026-09-30
 
-### [Infrastructure Engineer](https://www.linkedin.com/jobs/view/4472311505/) — Green Key Resources
+### [Software Engineer, Kubernetes Core Interfaces](https://www.linkedin.com/jobs/view/4462573116/) — CoreWeave
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-09-30
+
+### [Software Engineer, XR Experiences](https://www.linkedin.com/jobs/view/4472604146/) — Meta
+- 📍 **Location:** Burlingame, CA
+- 💰 **Salary:** $154,003.00/yr - $217,000.00/yr
+- 🕒 **Posted:** 2026-09-30
+
+### [Software Engineer - Host Networking](https://www.linkedin.com/jobs/view/4472196370/) — Meta
+- 📍 **Location:** Menlo Park, CA
+- 💰 **Salary:** $183,997.00/yr - $257,000.00/yr
+- 🕒 **Posted:** 2026-09-30
+
+### [Software Engineer, New Grad - Defense](https://www.linkedin.com/jobs/view/4434142462/) — Palantir Technologies
+- 📍 **Location:** Palo Alto, CA
+- 🕒 **Posted:** 2026-09-30
+
+### [Java Software Engineer](https://www.linkedin.com/jobs/view/4465838337/) — Flexton Inc.
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-09-30
+
+### [Multimedia Software Engineer](https://www.linkedin.com/jobs/view/4472308835/) — XChange Software Inc
+- 📍 **Location:** Palo Alto, CA
+- 🕒 **Posted:** 2026-09-30
+
+### [Software Engineering Intern - Winter '27](https://www.linkedin.com/jobs/view/4464621862/) — Vercel
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-09-30
+
+### [Software Engineering Intern - Summer '27](https://www.linkedin.com/jobs/view/4464618861/) — Vercel
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-09-30
+
+### [Software Engineer - Host Networking](https://www.linkedin.com/jobs/view/4472605091/) — Meta
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $183,997.00/yr - $257,000.00/yr
+- 🕒 **Posted:** 2026-09-30
+
+### [Full Stack Engineer](https://www.linkedin.com/jobs/view/4472304817/) — BizTech Staffing
 - 📍 **Location:** New York City Metropolitan Area
-- 💰 **Salary:** $120,000.00/yr - $140,000.00/yr
 - 🕒 **Posted:** 2026-09-30
 
-### [Wireless Software Engineer](https://www.linkedin.com/jobs/view/4471994929/) — Qualcomm
-- 📍 **Location:** Santa Clara, CA
+### [Full Stack Engineer](https://www.linkedin.com/jobs/view/4473911391/) — Fonzi AI
+- 📍 **Location:** New York City Metropolitan Area
 - 🕒 **Posted:** 2026-09-30
 
-### [Site Reliability Engineer](https://www.linkedin.com/jobs/view/4472301943/) — Ateeca Inc
-- 📍 **Location:** Berkeley, CA
-- 💰 **Salary:** $70.00/hr - $80.00/hr
-- 🕒 **Posted:** 2026-09-30
-
-### [Software Engineering Intern](https://www.linkedin.com/jobs/view/4472193473/) — KLA
-- 📍 **Location:** Milpitas, CA
-- 🕒 **Posted:** 2026-09-30
-
-### [Java Software Engineer : :  New Castle, DE / Jersey City, NJ / Tampa, FL](https://www.linkedin.com/jobs/view/4472308563/) — AceStack
-- 📍 **Location:** Jersey City, NJ
-- 🕒 **Posted:** 2026-09-30
-
-### [Software Engineer Intern](https://www.linkedin.com/jobs/view/4471968849/) — CampusMesh Inc
+### [Software Engineer Intern](https://www.linkedin.com/jobs/view/4462573802/) — Cboe Global Markets
 - 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-09-30
-
-### [Advanced Infrastructure Engineer](https://www.linkedin.com/jobs/view/4445414059/) — Metropolitan Transportation Authority
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-09-30
-
-### [Software Engineer - Data Aquisition (systems)](https://www.linkedin.com/jobs/view/4445409163/) — OpenAI
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $295,000.00/yr - $536,000.00/yr
-- 🕒 **Posted:** 2026-09-30
-
-### [Software Engineer, Fleet Management](https://www.linkedin.com/jobs/view/4417165182/) — OpenAI
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $230,000.00/yr - $490,000.00/yr
-- 🕒 **Posted:** 2026-09-30
-
-### [Software Engineer, Build Systems / CI](https://www.linkedin.com/jobs/view/4418217379/) — OpenAI
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $185,000.00/yr - $490,000.00/yr
-- 🕒 **Posted:** 2026-09-30
-
-### [Software Engineer,  ML Systems & Training Architecture](https://www.linkedin.com/jobs/view/4417501802/) — OpenAI
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $295,000.00/yr - $380,000.00/yr
-- 🕒 **Posted:** 2026-09-30
-
-### [Full Stack Engineer, Intelligence Systems](https://www.linkedin.com/jobs/view/4417173106/) — OpenAI
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $266,000.00/yr - $385,000.00/yr
-- 🕒 **Posted:** 2026-09-30
-
-### [Software Engineer, Enterprise Verticals](https://www.linkedin.com/jobs/view/4445790397/) — OpenAI
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $293,000.00/yr - $325,000.00/yr
-- 🕒 **Posted:** 2026-09-30
-
-### [Full Stack Software Engineer, Education](https://www.linkedin.com/jobs/view/4417162340/) — OpenAI
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $266,000.00/yr - $385,000.00/yr
 - 🕒 **Posted:** 2026-09-30
