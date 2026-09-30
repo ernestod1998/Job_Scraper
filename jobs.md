@@ -1,27 +1,27 @@
 # 🧬 Biotech LinkedIn — MLE / DS Roles
-*Last updated: 2026-09-29 09:54 UTC*
+*Last updated: 2026-09-30 09:49 UTC*
 
-**6 new role(s)** since last run · 38 total in last 24h
+**6 new role(s)** since last run · 43 total in last 24h
 
-### [Software Engineer, Full Stack (Process Execution)](https://jobs.ashbyhq.com/benchling/9b850e1f-1ba8-47e3-9057-0562e0739e6f) — Benchling
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-09-28
+### [Computational Chemistry Research Scientist (Computational Drug Design)](https://vrtx.wd501.myworkdayjobs.com/Vertex_Careers/job/Boston-MA/Computational-Chemistry-Research-Scientist---Computational-Drug-Design--_REQ-30307) — Vertex Pharmaceuticals
+- 📍 **Location:** Boston, MA
 
-### [Site Reliability Engineer](https://jobs.ashbyhq.com/latent/bbd1a8e3-b943-4c8c-b239-e87951504f71) — Latent
+### [Co-Op, Research Engineering and AI Integration](https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Cambridge-Massachusetts/Co-Op--Research-Engineering-and-AI-Integration_R19893) — Moderna
+- 📍 **Location:** Cambridge, Massachusetts
+- 🕒 **Posted:** Posted Yesterday
+
+### [Software Engineer (Frontend)](https://jobs.ashbyhq.com/latent/c54c96d7-2776-41be-b74c-b2beaad99634) — Latent
 - 📍 **Location:** San Francisco
 - 🕒 **Posted:** 2026-09-29
 
-### [Machine Learning Engineer](https://jobs.ashbyhq.com/latent/233bbaac-d589-49f4-a8eb-6bb16673b060) — Latent
-- 📍 **Location:** San Francisco
-- 🕒 **Posted:** 2026-09-28
+### [AI/ML Imaging Data Scientist - Personalized Healthcare (Medical Imaging)](https://www.linkedin.com/jobs/view/4473529512/) — Genentech
+- 📍 **Location:** South San Francisco, CA
+- 🕒 **Posted:** 2026-09-29
 
-### [Computer Vision & Biosensing](https://www.mobiointeractive.com/careers#computer-vision-biosensing) — Mobio Interactive
-- 📍 **Location:** Richmond, CA
-
-### [Research Associate II, Bioanalytical/In Vitro ADME/DMPK](https://job-boards.greenhouse.io/nurix/jobs/8582171002) — Nurix Therapeutics
-- 📍 **Location:** Brisbane, CA 
-- 🕒 **Posted:** 2026-09-28
-
-### [AI Data Scientist-Furman lab](https://www.linkedin.com/jobs/view/4427938237/) — Buck Institute for Research on Aging
+### [Bioinformatics & Data Scientist or Postdoctoral Researcher- Furman lab](https://www.linkedin.com/jobs/view/4427934142/) — Buck Institute for Research on Aging
 - 📍 **Location:** Novato, CA
-- 🕒 **Posted:** 2026-09-28
+- 🕒 **Posted:** 2026-09-29
+
+### [Data Scientist](https://www.linkedin.com/jobs/view/4471756626/) — Bristol Myers Squibb
+- 📍 **Location:** San Diego, CA
+- 🕒 **Posted:** 2026-09-29
