@@ -1,117 +1,93 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-09-30 17:19 UTC*
+*Last updated: 2026-09-30 18:19 UTC*
 
-**27 new role(s)** since last run · 53 total in last 1h
+**21 new role(s)** since last run · 45 total in last 1h
 
-### [ML Engineer](https://www.linkedin.com/jobs/view/4473904916/) — Fonzi AI
+### [Research Engineer, Tactile Sensing](https://www.linkedin.com/jobs/view/4472319978/) — Orbifold AI
+- 📍 **Location:** Palo Alto, CA
+- 🕒 **Posted:** 2026-09-30
+
+### [Full Stack Engineer](https://www.linkedin.com/jobs/view/4470050845/) — Lif3away Inc.
 - 📍 **Location:** San Francisco Bay Area
 - 🕒 **Posted:** 2026-09-30
 
-### [Perception Engineer](https://www.linkedin.com/jobs/view/4473907958/) — Brahma Consulting Group
+### [Robotics Engineer - Controls](https://www.linkedin.com/jobs/view/4473929325/) — TTN Talent
 - 📍 **Location:** San Francisco Bay Area
+- 💰 **Salary:** $180,000.00/yr - $300,000.00/yr
 - 🕒 **Posted:** 2026-09-30
 
-### [Applied Scientist, AWS Quick](https://www.linkedin.com/jobs/view/4455982826/) — Amazon Web Services (AWS)
+### [Software Engineer — Full Stack & AI Infrastructure](https://www.linkedin.com/jobs/view/4472341056/) — The Law Offices of Juliet Cohen, P.C.
+- 📍 **Location:** Queens, NY
+- 🕒 **Posted:** 2026-09-30
+
+### [Machine Learning Engineer | Python | Pytorch | Distributed Training | Optimisation | GPU | Hybrid, San Jose, CA](https://www.linkedin.com/jobs/view/4472336230/) — Enigma
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-09-30
+
+### [Software Engineer](https://www.linkedin.com/jobs/view/4472218848/) — ServiceNow
 - 📍 **Location:** Santa Clara, CA
 - 🕒 **Posted:** 2026-09-30
 
-### [Delivery Consultant- GenAI/ML & Data Science, AWS Industries](https://www.linkedin.com/jobs/view/4455930031/) — Amazon Web Services (AWS)
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-09-30
-
-### [Data Scientist](https://www.linkedin.com/jobs/view/4452827505/) — Molex
-- 📍 **Location:** Fremont, CA
-- 🕒 **Posted:** 2026-09-30
-
-### [Software Engineer, Backend](https://www.linkedin.com/jobs/view/4401128372/) — Ivo
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $158,000.00/yr - $235,000.00/yr
-- 🕒 **Posted:** 2026-09-30
-
-### [Machine Learning Engineer Intern](https://www.linkedin.com/jobs/view/4464904405/) — Coinbase
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-09-30
-
-### [Data Scientist II, Real World Evidence, Life Sciences R&D](https://www.linkedin.com/jobs/view/4472318876/) — Tempus AI
-- 📍 **Location:** Redwood City, CA
-- 🕒 **Posted:** 2026-09-30
-
-### [Data Science Intern](https://www.linkedin.com/jobs/view/4464900528/) — Coinbase
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-09-30
-
-### [Backend Engineer, Agents](https://www.linkedin.com/jobs/view/4416696837/) — Hebbia
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-09-30
-
-### [Platform Engineer, Document Intelligence](https://www.linkedin.com/jobs/view/4416698446/) — Hebbia
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-09-30
-
-### [Software Engineer, Fullstack](https://www.linkedin.com/jobs/view/4401137275/) — Ivo
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $158,000.00/yr - $235,000.00/yr
-- 🕒 **Posted:** 2026-09-30
-
-### [Backend Engineer](https://www.linkedin.com/jobs/view/4473918075/) — Fonzi AI
-- 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-09-30
-
-### [ML Engineer](https://www.linkedin.com/jobs/view/4473911465/) — Fonzi AI
-- 📍 **Location:** New York City Metropolitan Area
-- 🕒 **Posted:** 2026-09-30
-
-### [Applied Scientist, Amazon Connect](https://www.linkedin.com/jobs/view/4455927155/) — Amazon Web Services (AWS)
+### [Associate, Software Engineer](https://www.linkedin.com/jobs/view/4461919761/) — Morgan Stanley
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-09-30
 
-### [Machine Learning Research Scientist](https://www.linkedin.com/jobs/view/4473902927/) — Point One - Hedge Fund Talent
-- 📍 **Location:** New York, NY
+### [Machine Learning Engineer, Level 4](https://www.linkedin.com/jobs/view/4437449022/) — Snap Inc.
+- 📍 **Location:** Palo Alto, CA
 - 🕒 **Posted:** 2026-09-30
 
-### [Data Scientist](https://www.linkedin.com/jobs/view/4473914277/) — Strategic Employment Partners (SEP)
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-09-30
-
-### [Junior Data Scientist](https://www.linkedin.com/jobs/view/4472215091/) — COGENT Infotech
-- 📍 **Location:** White Plains, NY
-- 🕒 **Posted:** 2026-09-30
-
-### [Backend Engineer, Growth and Data](https://www.linkedin.com/jobs/view/4416430090/) — Hebbia
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-09-30
-
-### [Data Scientist II, Real World Evidence, Life Sciences R&D](https://www.linkedin.com/jobs/view/4472318875/) — Tempus AI
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-09-30
-
-### [Backend Engineer](https://www.linkedin.com/jobs/view/4473916173/) — Fonzi AI
-- 📍 **Location:** New York City Metropolitan Area
-- 🕒 **Posted:** 2026-09-30
-
-### [Infrastructure Engineer](https://www.linkedin.com/jobs/view/4473915206/) — Fonzi AI
-- 📍 **Location:** New York City Metropolitan Area
-- 🕒 **Posted:** 2026-09-30
-
-### [Infrastructure Engineer](https://www.linkedin.com/jobs/view/4452726877/) — Ivo
+### [Site Reliability Engineer](https://www.linkedin.com/jobs/view/4416413369/) — VantageScore®
 - 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $158,000.00/yr - $235,000.00/yr
 - 🕒 **Posted:** 2026-09-30
 
-### [Infrastructure Engineer](https://www.linkedin.com/jobs/view/4473911400/) — Fonzi AI
-- 📍 **Location:** San Francisco Bay Area
+### [Software Engineer 3](https://www.linkedin.com/jobs/view/4432892572/) — Berkshire Hathaway Homestate Companies - Workers Compensation Division
+- 📍 **Location:** Walnut Creek, CA
 - 🕒 **Posted:** 2026-09-30
 
-### [IT Architect – DevOps Applications & Developer Platforms](https://www.linkedin.com/jobs/view/4455541698/) — ASML
+### [Software and Infrastructure Engineer](https://www.linkedin.com/jobs/view/4473932253/) — Simons Foundation
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-09-30
+
+### [Software Engineer II](https://www.linkedin.com/jobs/view/4462575306/) — Dataminr
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-09-30
+
+### [Technology, DevOps/Site Reliability Engineer](https://www.linkedin.com/jobs/view/4437403673/) — BTIG
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-09-30
+
+### [Software Engineer, Emerging Product - USDS](https://www.linkedin.com/jobs/view/4473937055/) — TikTok USDS Joint Venture
 - 📍 **Location:** San Jose, CA
-- 💰 **Salary:** $130,500.00/yr - $217,500.00/yr
 - 🕒 **Posted:** 2026-09-30
 
-### [Software Engineer](https://www.linkedin.com/jobs/view/4472607950/) — Haystack
+### [Frontend Developer](https://www.linkedin.com/jobs/view/4472333302/) — HiredBuddy
 - 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $101.00/hr - $101.00/hr
 - 🕒 **Posted:** 2026-09-30
 
-### [Software Engineer Intern](https://www.linkedin.com/jobs/view/4464902436/) — Coinbase
-- 📍 **Location:** San Francisco, CA
+### [Software Engineer - Salesforce Sales/Health Cloud](https://www.linkedin.com/jobs/view/4459984070/) — Humana
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $80,900.00/yr - $110,300.00/yr
+- 🕒 **Posted:** 2026-09-30
+
+### [Appian Software Developer](https://www.linkedin.com/jobs/view/4472619518/) — NYC Department of Finance
+- 📍 **Location:** Manhattan, NY
+- 🕒 **Posted:** 2026-09-30
+
+### [Full Stack Engineer](https://www.linkedin.com/jobs/view/4472612859/) — The Custom Group of Companies
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $50.00/hr - $90.00/hr
+- 🕒 **Posted:** 2026-09-30
+
+### [Middleware Infrastructure Engineer](https://www.linkedin.com/jobs/view/4469349624/) — Akkodis
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $140,000.00/yr - $170,000.00/yr
+- 🕒 **Posted:** 2026-09-30
+
+### [Braid Frontend Engineer](https://www.linkedin.com/jobs/view/4449769911/) — Brown Brothers Harriman
+- 📍 **Location:** Jersey City, NJ
+- 💰 **Salary:** $85,000.00/yr - $130,000.00/yr
+- 🕒 **Posted:** 2026-09-30
+
+### [IT Infrastructure Engineer](https://www.linkedin.com/jobs/view/4473922526/) — GDH
+- 📍 **Location:** Santa Clara, CA
 - 🕒 **Posted:** 2026-09-30
