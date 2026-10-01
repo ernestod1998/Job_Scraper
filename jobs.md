@@ -1,27 +1,36 @@
 # 🧬 Biotech LinkedIn — MLE / DS Roles
-*Last updated: 2026-09-30 09:49 UTC*
+*Last updated: 2026-10-01 10:19 UTC*
 
-**6 new role(s)** since last run · 43 total in last 24h
+**8 new role(s)** since last run · 46 total in last 24h
 
-### [Computational Chemistry Research Scientist (Computational Drug Design)](https://vrtx.wd501.myworkdayjobs.com/Vertex_Careers/job/Boston-MA/Computational-Chemistry-Research-Scientist---Computational-Drug-Design--_REQ-30307) — Vertex Pharmaceuticals
-- 📍 **Location:** Boston, MA
-
-### [Co-Op, Research Engineering and AI Integration](https://modernatx.wd1.myworkdayjobs.com/M_tx/job/Cambridge-Massachusetts/Co-Op--Research-Engineering-and-AI-Integration_R19893) — Moderna
-- 📍 **Location:** Cambridge, Massachusetts
+### [Software Engineer, AI Engineering and Enablement](https://bristolmyerssquibb.wd5.myworkdayjobs.com/BMS/job/Seattle-400-Dexter---WA/Software-Engineer--AI-Engineering-and-Enablement_R1604359-1) — Bristol Myers Squibb
+- 📍 **Location:** Seattle 400 Dexter - WA
 - 🕒 **Posted:** Posted Yesterday
 
-### [Software Engineer (Frontend)](https://jobs.ashbyhq.com/latent/c54c96d7-2776-41be-b74c-b2beaad99634) — Latent
-- 📍 **Location:** San Francisco
-- 🕒 **Posted:** 2026-09-29
+### [Scientist, Drug Metabolism and Pharmacokinetics (DMPK)](https://job-boards.greenhouse.io/kardigan/jobs/5409487008) — Kardigan
+- 📍 **Location:** South San Francisco, California, United States
+- 🕒 **Posted:** 2026-09-30
 
-### [AI/ML Imaging Data Scientist - Personalized Healthcare (Medical Imaging)](https://www.linkedin.com/jobs/view/4473529512/) — Genentech
-- 📍 **Location:** South San Francisco, CA
-- 🕒 **Posted:** 2026-09-29
+### [Scientific Machine Learning Engineer](https://job-boards.greenhouse.io/schrdinger/jobs/8008663003) — Schrödinger
+- 📍 **Location:** New York
+- 🕒 **Posted:** 2026-09-30
 
-### [Bioinformatics & Data Scientist or Postdoctoral Researcher- Furman lab](https://www.linkedin.com/jobs/view/4427934142/) — Buck Institute for Research on Aging
-- 📍 **Location:** Novato, CA
-- 🕒 **Posted:** 2026-09-29
+### [Data Scientist II, Real World Evidence, Life Sciences R&D](https://www.linkedin.com/jobs/view/4472318876/) — Tempus AI
+- 📍 **Location:** Redwood City, CA
+- 🕒 **Posted:** 2026-09-30
 
-### [Data Scientist](https://www.linkedin.com/jobs/view/4471756626/) — Bristol Myers Squibb
+### [ML Scientist, Nucleic Acid Design](https://www.linkedin.com/jobs/view/4446144681/) — Lila Sciences
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-09-30
+
+### [Yeast Display and Machine Learning Scientist I/II – Antibody Discovery](https://www.linkedin.com/jobs/view/4446649800/) — Dana-Farber Cancer Institute
+- 📍 **Location:** Boston, MA
+- 🕒 **Posted:** 2026-10-01
+
+### [ML Engineer, Applied AI](https://www.linkedin.com/jobs/view/4464639739/) — Lila Sciences
+- 📍 **Location:** Cambridge, MA
+- 🕒 **Posted:** 2026-09-30
+
+### [Data Scientist](https://www.linkedin.com/jobs/view/4472634048/) — Bristol Myers Squibb
 - 📍 **Location:** San Diego, CA
-- 🕒 **Posted:** 2026-09-29
+- 🕒 **Posted:** 2026-09-30
