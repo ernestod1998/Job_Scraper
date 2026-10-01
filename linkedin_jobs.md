@@ -1,49 +1,34 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-10-01 22:18 UTC*
+*Last updated: 2026-10-01 23:18 UTC*
 
-**11 new role(s)** since last run · 20 total in last 1h
+**7 new role(s)** since last run · 20 total in last 1h
 
-### [Early Career Software Engineer](https://www.linkedin.com/jobs/view/4472828368/) — Clay
+### [Associate Value Engineer (AI-Driven Data Science & Analytics) - Orbit Program](https://www.linkedin.com/jobs/view/4472985379/) — Celonis
 - 📍 **Location:** New York City Metropolitan Area
 - 🕒 **Posted:** 2026-10-01
 
-### [Software Engineer III - Equities Technology](https://www.linkedin.com/jobs/view/4474537398/) — Bank of America
-- 📍 **Location:** Jersey City, NJ
-- 💰 **Salary:** $102,900.00/yr - $179,900.00/yr
+### [Associate, Software Engineer](https://www.linkedin.com/jobs/view/4472823806/) — Morgan Stanley
+- 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-10-01
 
-### [Software Engineering Technical Leader](https://www.linkedin.com/jobs/view/4474522969/) — Cisco
+### [Full-Stack Software Engineer - IDE, Web APIs, Infrastructure](https://www.linkedin.com/jobs/view/4472822800/) — Cadence
 - 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-10-01
 
-### [Search Platform Engineer (Elasticsearch/OpenSearch)](https://www.linkedin.com/jobs/view/4472817745/) — IPolarity
+### [Software Engineer II](https://www.linkedin.com/jobs/view/4474530925/) — Yugabyte
 - 📍 **Location:** Sunnyvale, CA
 - 🕒 **Posted:** 2026-10-01
 
-### [Computational Biologist (ML) Postdoctoral Researcher](https://www.linkedin.com/jobs/view/4474533390/) — Lawrence Livermore National Laboratory
-- 📍 **Location:** Livermore, CA
+### [Software Engineer, Sales Platform](https://www.linkedin.com/jobs/view/4472838258/) — OpenAI
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $266,000.00/yr - $455,000.00/yr
 - 🕒 **Posted:** 2026-10-01
 
-### [Solution Architect – GCP & AI Platforms](https://www.linkedin.com/jobs/view/4472981442/) — Galent
-- 📍 **Location:** Newark, CA
-- 🕒 **Posted:** 2026-10-01
-
-### [Data Scientist II, Applied ML](https://www.linkedin.com/jobs/view/4474541246/) — Brex
+### [ML Engineer, Product](https://www.linkedin.com/jobs/view/4472827594/) — Mach9
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-10-01
 
-### [Lab Infrastructure Engineer](https://www.linkedin.com/jobs/view/4474527743/) — Pentangle Tech Services | P5 Group
-- 📍 **Location:** Burlingame, CA
-- 🕒 **Posted:** 2026-10-01
-
-### [Software Engineering Technical Leader - Backend](https://www.linkedin.com/jobs/view/4474526676/) — Cisco
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-10-01
-
-### [Computing Undergraduate Student Intern: DevOps Internship Program - Summer 2027](https://www.linkedin.com/jobs/view/4469292625/) — Lawrence Livermore National Laboratory
-- 📍 **Location:** Livermore, CA
-- 🕒 **Posted:** 2026-10-01
-
-### [Full Stack Engineer](https://www.linkedin.com/jobs/view/4472823565/) — ZeinCrew
-- 📍 **Location:** New York, NY
+### [Frontend Software Engineer, Codex App](https://www.linkedin.com/jobs/view/4472843078/) — OpenAI
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $230,000.00/yr - $385,000.00/yr
 - 🕒 **Posted:** 2026-10-01
