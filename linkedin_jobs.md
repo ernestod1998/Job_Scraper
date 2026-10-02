@@ -1,40 +1,37 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-10-02 02:18 UTC*
+*Last updated: 2026-10-02 03:18 UTC*
 
-**9 new role(s)** since last run · 22 total in last 1h
+**8 new role(s)** since last run · 17 total in last 1h
 
-### [Research Engineer, Post-training](https://www.linkedin.com/jobs/view/4474567633/) — Medra
+### [Software Developer](https://www.linkedin.com/jobs/view/4473102131/) — IBM
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-10-01
+
+### [Machine Learning Scientist](https://www.linkedin.com/jobs/view/4444403052/) — Tacit
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-10-01
 
-### [Software Engineer, See & Spray](https://www.linkedin.com/jobs/view/4474574068/) — Blue River Technology
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-10-01
-
-### [Software Engineer, AI Infrastructure (Starshield)](https://www.linkedin.com/jobs/view/4474564738/) — SpaceX
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-10-01
-
-### [Data Scientist](https://www.linkedin.com/jobs/view/4472852663/) — Thomson Reuters
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-10-01
-
-### [Software Engineer III, Engineering Productivity, Google Cloud Platforms](https://www.linkedin.com/jobs/view/4472858251/) — Google
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-10-01
-
-### [Software Engineer II (Fullstack), Growth Platform](https://www.linkedin.com/jobs/view/4472844842/) — Scribd, Inc.
+### [Entry-Level Software Engineer](https://www.linkedin.com/jobs/view/4446265806/) — Pariveda
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-10-01
 
-### [Software Engineer, Full Stack](https://www.linkedin.com/jobs/view/4474560840/) — Convex
+### [Machine Learning Engineer Intern (Recommendations and Search) - 2027 Summer](https://www.linkedin.com/jobs/view/4472985733/) — TikTok USDS Joint Venture
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-10-01
+
+### [Machine Learning Engineer Intern (Risk & Integrity) - 2027 Start (PhD)](https://www.linkedin.com/jobs/view/4472991448/) — TikTok USDS Joint Venture
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-10-01
+
+### [Software Engineer, Data Loading Infrastructure](https://www.linkedin.com/jobs/view/4472980945/) — Asana
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-10-01
 
-### [Software Engineer](https://www.linkedin.com/jobs/view/4472865132/) — Why Join
+### [Software Engineer III (Java/Agentic)](https://www.linkedin.com/jobs/view/4474587123/) — JPMorganChase
 - 📍 **Location:** New York, NY
+- 💰 **Salary:** $137,750.00/yr - $185,000.00/yr
 - 🕒 **Posted:** 2026-10-01
 
-### [Software Engineer II (Fullstack), Growth Platform](https://www.linkedin.com/jobs/view/4472851504/) — Scribd, Inc.
-- 📍 **Location:** New York, NY
+### [Software Engineer, Fullstack](https://www.linkedin.com/jobs/view/4472857620/) — Amperos
+- 📍 **Location:** New York City Metropolitan Area
 - 🕒 **Posted:** 2026-10-01
