@@ -1,37 +1,34 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-10-02 03:18 UTC*
+*Last updated: 2026-10-02 06:06 UTC*
 
-**8 new role(s)** since last run · 17 total in last 1h
+**7 new role(s)** since last run · 7 total in last 1h
 
-### [Software Developer](https://www.linkedin.com/jobs/view/4473102131/) — IBM
+### [Pre-training Research Engineer](https://www.linkedin.com/jobs/view/4459262301/) — Sciforium
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $165,000.00/yr - $225,000.00/yr
+- 🕒 **Posted:** 2026-10-01
+
+### [Software Engineer - SnowConvert AI](https://www.linkedin.com/jobs/view/4474587893/) — Snowflake
+- 📍 **Location:** Menlo Park, CA
+- 💰 **Salary:** $160,000.00/yr - $230,000.00/yr
+- 🕒 **Posted:** 2026-10-01
+
+### [VMS Software Engineer](https://www.linkedin.com/jobs/view/4472870499/) — Archer
 - 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-10-01
 
-### [Machine Learning Scientist](https://www.linkedin.com/jobs/view/4444403052/) — Tacit
-- 📍 **Location:** San Francisco, CA
+### [Java Backend Developer](https://www.linkedin.com/jobs/view/4474706043/) — AppLab Systems, Inc
+- 📍 **Location:** Sunnyvale, CA
 - 🕒 **Posted:** 2026-10-01
 
-### [Entry-Level Software Engineer](https://www.linkedin.com/jobs/view/4446265806/) — Pariveda
-- 📍 **Location:** San Francisco, CA
+### [Robotics Engineer](https://www.linkedin.com/jobs/view/4474595476/) — AppLab Systems, Inc
+- 📍 **Location:** Sunnyvale, CA
 - 🕒 **Posted:** 2026-10-01
 
-### [Machine Learning Engineer Intern (Recommendations and Search) - 2027 Summer](https://www.linkedin.com/jobs/view/4472985733/) — TikTok USDS Joint Venture
-- 📍 **Location:** San Jose, CA
+### [Test software engineer(LabVIEW, Matlab, Python, and C#)](https://www.linkedin.com/jobs/view/4474585929/) — AppLab Systems, Inc
+- 📍 **Location:** Sunnyvale, CA
 - 🕒 **Posted:** 2026-10-01
 
-### [Machine Learning Engineer Intern (Risk & Integrity) - 2027 Start (PhD)](https://www.linkedin.com/jobs/view/4472991448/) — TikTok USDS Joint Venture
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-10-01
-
-### [Software Engineer, Data Loading Infrastructure](https://www.linkedin.com/jobs/view/4472980945/) — Asana
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-10-01
-
-### [Software Engineer III (Java/Agentic)](https://www.linkedin.com/jobs/view/4474587123/) — JPMorganChase
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $137,750.00/yr - $185,000.00/yr
-- 🕒 **Posted:** 2026-10-01
-
-### [Software Engineer, Fullstack](https://www.linkedin.com/jobs/view/4472857620/) — Amperos
-- 📍 **Location:** New York City Metropolitan Area
+### [Test software engineer(LabVIEW, Matlab, Python, and C#)](https://www.linkedin.com/jobs/view/4474591710/) — AppLab Systems, Inc
+- 📍 **Location:** Sunnyvale, CA
 - 🕒 **Posted:** 2026-10-01
