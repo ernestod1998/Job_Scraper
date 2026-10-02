@@ -1,303 +1,191 @@
 # 🗃 Direct ATS Registry — Engineering / ML / DS Roles
-*Last updated: 2026-10-01 19:17 UTC*
+*Last updated: 2026-10-02 07:49 UTC*
 
-**75 new role(s)** since last run · 75 total in current registry shard
+**47 new role(s)** since last run · 47 total in current registry shard
 
-### [Applied AI Data Scientist](https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/New-York-NY/Applied-AI-Data-Scientist_R97390) — LexisNexis Risk Solutions
+### [Azure Integration & DevOps Engineer](https://caci.wd1.myworkdayjobs.com/External/job/Arlington-VA-US/Azure-Integration---DevOps-Engineer_331014-1) — CACI
+- 📍 **Location:** Arlington, VA, US; Remote (Any State)
+- 🕒 **Posted:** Posted 3 Days Ago
+
+### [Software Engineer II](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/SAN-JOSE/Software-Engineer-II_R51635-1) — Cadence Design Systems
+- 📍 **Location:** SAN JOSE
+- 🕒 **Posted:** Posted Yesterday
+
+### [Software Engineer II](https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/SAN-JOSE/Software-Engineer-II_R51635) — Cadence Design Systems
+- 📍 **Location:** SAN JOSE
+- 🕒 **Posted:** Posted Yesterday
+
+### [Full-stack Engineer 4 (Claude, Node JS, Typescript, Python)](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Full-stack-Engineer-4--Claude--Node-JS--Typescript--Python-_R1002402-1) — Capital One
 - 📍 **Location:** New York, NY
-- 🕒 **Posted:** Posted 10 Days Ago
+- 🕒 **Posted:** Posted 3 Days Ago
 
-### [Applied AI Data Scientist](https://relx.wd3.myworkdayjobs.com/relx/job/New-York-NY/Applied-AI-Data-Scientist_R97390-1) — RELX
+### [Machine Learning Engineer 4 (IC)](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/San-Jose-CA/Machine-Learning-Engineer-4--IC-_R1001506-1) — Capital One
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** Posted 3 Days Ago
+
+### [Full-stack Engineer 5 (Java, Spring, Kafka, CI/CD, AI tools, Glue, RDS, DynamoDB) (Enterprise Platforms Technology )](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Full-stack-Engineer-5--Java--Spring--Kafka--CI-CD--AI-tools--Glue--RDS--DynamoDB---Enterprise-Platforms-Technology--_R1002416-1) — Capital One
 - 📍 **Location:** New York, NY
+- 🕒 **Posted:** Posted 3 Days Ago
+
+### [AI Engineer 5 (Gen AI Platform Services)](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/San-Jose-CA/AI-Engineer-5--Gen-AI-Platform-Services-_R1002288-1) — Capital One
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** Posted 4 Days Ago
+
+### [AI Engineer 4 (Gen AI Platform Services)](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/AI-Engineer-4--Gen-AI-Platform-Services-_R1002056-1) — Capital One
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** Posted 8 Days Ago
+
+### [AI Engineer 5 (Gen AI Platform Services)](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/AI-Engineer-5--Gen-AI-Platform-Services-_R1001173-1) — Capital One
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** Posted 9 Days Ago
+
+### [AI Engineer 5 (MLX, Agentic AI, Gen AI platform Services)](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/San-Jose-CA/AI-Engineer-5--MLX--Agentic-AI--Gen-AI-platform-Services-_R1001804-1) — Capital One
+- 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** Posted 10 Days Ago
 
-### [Software Engineer II - Slack Developer Experience AI](https://salesforce.wd12.myworkdayjobs.com/Slack/job/California---San-Francisco/Software-Engineer-II--Machine-Learning---Slack_JR358348) — Slack
-- 📍 **Location:** California - San Francisco
+### [AI Engineer 5 (GenAI Platform, Agentic Infrastructure)](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/San-Jose-CA/AI-Engineer-5--GenAI-Platform--Agentic-Infrastructure-_R1001418-1) — Capital One
+- 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** Posted 10 Days Ago
 
-### [Data Scientist III (US)](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/Data-Scientist-III--US-_R_1508667) — TD Bank
-- 📍 **Location:** New York, New York
-- 🕒 **Posted:** Posted 6 Days Ago
+### [AI Engineer 5 (MLX, Agentic AI, Gen AI platform Services)](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/San-Jose-CA/AI-Engineer-5--MLX--Agentic-AI--Gen-AI-platform-Services-_R1001405-1) — Capital One
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** Posted 10 Days Ago
 
-### [AI Software Engineer](https://zoom.wd5.myworkdayjobs.com/zoom/job/San-Jose-CA/AI-Software-Engineer_R19341) — Zoom
-- 📍 **Location:** San Jose (CA)
+### [AI Engineer 5 (MLX, Agentic AI, Gen AI platform Services)](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/AI-Engineer-5--MLX--Agentic-AI--Gen-AI-platform-Services-_R1001402) — Capital One
+- 📍 **Location:** San Francisco,  CA
+- 🕒 **Posted:** Posted 10 Days Ago
 
-### [Full-Stack Software Engineer -  Command & Control](https://jobs.ashbyhq.com/applied/f4c0ee25-b4d4-4f3d-b054-e9c1aeb56104) — Applied Intuition
-- 📍 **Location:** Sunnyvale
-- 🕒 **Posted:** 2026-09-21
+### [AI Engineer 4 (MLX, Agentic AI, Gen AI platform Services)](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/AI-Engineer-4--MLX--Agentic-AI--Gen-AI-platform-Services-_R1001398-1) — Capital One
+- 📍 **Location:** San Francisco,  CA
+- 🕒 **Posted:** Posted 10 Days Ago
 
-### [Software Engineer - Real-Time Vehicle Telemetry & Visualization](https://jobs.ashbyhq.com/applied/99e36fcf-c027-403b-a926-8b73b6b9e2a6) — Applied Intuition
-- 📍 **Location:** Sunnyvale
-- 🕒 **Posted:** 2026-09-21
+### [AI Engineer 4 (MLX, Agentic AI, Gen AI platform Services)](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/San-Jose-CA/AI-Engineer-4--MLX--Agentic-AI--Gen-AI-platform-Services-_R1001413-1) — Capital One
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** Posted 10 Days Ago
 
-### [Software Engineer - Data Pipeline ](https://jobs.ashbyhq.com/applied/d6582737-8d9d-4747-a7a2-92df0b3eda91) — Applied Intuition
-- 📍 **Location:** Sunnyvale
-- 🕒 **Posted:** 2026-09-21
+### [Full-stack Engineer 4](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Full-stack-Engineer-4_R1001455-1) — Capital One
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** Posted Yesterday
 
-### [Robot Infrastructure Engineer - Collection Tooling](https://jobs.ashbyhq.com/applied/932de549-2882-4c0d-aeca-b4a8ef5f1f41) — Applied Intuition
-- 📍 **Location:** Sunnyvale
-- 🕒 **Posted:** 2026-09-21
+### [Full-stack Engineer 4](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Full-stack-Engineer-4_R1002785-1) — Capital One
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** Posted Yesterday
 
-### [Software Engineer - Control Center](https://jobs.ashbyhq.com/applied/f55422c0-c807-4f35-935e-4ce089d926d7) — Applied Intuition
-- 📍 **Location:** Sunnyvale
-- 🕒 **Posted:** 2026-09-22
+### [Full Stack Engineer 4](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Full-Stack-Engineer-4_R1002498-1) — Capital One
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** Posted 2 Days Ago
 
-### [Software Engineer - Onboard Maps and State Estimation](https://jobs.ashbyhq.com/applied/6b7aacaa-32e3-4d58-93e6-7d7068f44617) — Applied Intuition
-- 📍 **Location:** Sunnyvale
-- 🕒 **Posted:** 2026-09-25
+### [Full-stack Engineer 5](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Full-stack-Engineer-5_R1002661-1) — Capital One
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** Posted 2 Days Ago
 
-### [Software Engineer - Onboard Maps](https://jobs.ashbyhq.com/applied/ccee2574-f12a-4a0c-bc57-427a34d6d59b) — Applied Intuition
-- 📍 **Location:** Sunnyvale
-- 🕒 **Posted:** 2026-09-25
+### [Full-stack Engineer 4](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Full-stack-Engineer-4_R1002664) — Capital One
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** Posted 2 Days Ago
 
-### [Software Engineer - Partner Platform](https://jobs.ashbyhq.com/baseten/57204e3c-1431-49c5-919c-4fff65f5c3a5) — Baseten
-- 📍 **Location:** San Francisco
-- 🕒 **Posted:** 2026-09-29
-
-### [Software Engineer, iOS/Mobile](https://jobs.ashbyhq.com/beaconai/57f209e6-d555-4d2f-9cea-82195796acd3) — Beacon AI
-- 📍 **Location:** San Carlos  - Hybrid
-- 🕒 **Posted:** 2026-09-23
-
-### [Software Engineer, Frontend/Web App](https://jobs.ashbyhq.com/beaconai/952e9b77-d6ec-4877-89d5-69462e76a444) — Beacon AI
-- 📍 **Location:** San Carlos  - Hybrid
-- 🕒 **Posted:** 2026-09-29
-
-### [Machine Learning Engineer, Platform](https://jobs.ashbyhq.com/brainco/61b10a68-9cf6-47d9-b19b-ca9b817fc264) — Brain Co.
+### [Software Engineer](https://ceritypartners.wd12.myworkdayjobs.com/ceritypartnerscareers/job/New-York-City-NY/Software-Engineer_R948) — Cerity Partners
 - 📍 **Location:** New York City, NY
-- 🕒 **Posted:** 2026-09-30
+- 🕒 **Posted:** Posted 3 Days Ago
 
-### [Machine Learning Engineer, Applied AI](https://jobs.ashbyhq.com/brainco/0d74048b-e0e7-4f2d-bc9f-3660f3545ac2) — Brain Co.
-- 📍 **Location:** New York City, NY
-- 🕒 **Posted:** 2026-09-30
+### [Software Engineering Technical Leader](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Heredia-Costa-Rica/Software-Engineering-Technical-Leader_2021234-1) — Cisco
+- 📍 **Location:** San Jose, Costa Rica
+- 🕒 **Posted:** Posted 8 Days Ago
 
-### [Full Stack Engineer - Evergreen Posting](https://jobs.ashbyhq.com/clasp-group/82dbc317-1cb1-4e2a-ad0e-ae6e0578202d) — Clasp
-- 📍 **Location:** Remote
-- 🕒 **Posted:** 2026-09-21
+### [Machine Learning Engineer I (Intern) – United States](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Machine-Learning-Engineer-I--Intern----United-States_2026803) — Cisco
+- 📍 **Location:** San Jose, California, US
+- 🕒 **Posted:** Posted 8 Days Ago
 
-### [Machine Learning Engineer](https://jobs.ashbyhq.com/clera/4e176114-dc4a-455c-99e8-30e77a353b32) — Clera
-- 📍 **Location:** San Francisco
-- 🕒 **Posted:** 2026-09-23
+### [Machine Learning Engineer II (Intern) – United States](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Machine-Learning-Engineer-II--Intern----United-States_2026802) — Cisco
+- 📍 **Location:** San Jose, California, US
+- 🕒 **Posted:** Posted 8 Days Ago
 
-### [Software Engineer](https://jobs.ashbyhq.com/clera/ca57134d-0995-4398-b234-88669a48912a) — Clera
-- 📍 **Location:** remote
-- 🕒 **Posted:** 2026-09-22
+### [Software Engineer Data & AI II (Intern) – United States](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Software-Engineer-Data---AI-II--Intern----United-States_2026798) — Cisco
+- 📍 **Location:** San Jose, California, US
+- 🕒 **Posted:** Posted 8 Days Ago
 
-### [Full-Stack Software Engineer, Reinforcement Learning](https://jobs.ashbyhq.com/clera/aa945093-8315-4166-a5d5-f39a47fc1bba) — Clera
-- 📍 **Location:** San Francisco
-- 🕒 **Posted:** 2026-09-26
+### [Software Engineering Technical Leader](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Milpitas-California-US/Software-Engineering-Technical-Leader_2004130) — Cisco
+- 📍 **Location:** Milpitas, California, US
+- 🕒 **Posted:** Posted 9 Days Ago
 
-### [Platform Engineer (Kubernetes)](https://jobs.ashbyhq.com/clera/3847113c-e342-406d-8c30-7a39a8c1cdec) — Clera
-- 📍 **Location:** San Francisco
-- 🕒 **Posted:** 2026-09-26
+### [Software Engineer Data & AI I (Intern) – United States](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Software-Engineer-Data---AI-I--Intern----United-States_2026306) — Cisco
+- 📍 **Location:** San Jose, California, US
+- 🕒 **Posted:** Posted 11 Days Ago
 
-### [Software Engineer](https://jobs.ashbyhq.com/clera/fc948467-fdd3-48e3-b558-36a24a034dd2) — Clera
-- 📍 **Location:** San Francisco
-- 🕒 **Posted:** 2026-09-27
+### [AI/ML Engineer](https://connect.wd1.myworkdayjobs.com/ztsystemscareers/job/Secaucus-NJ/AI-ML-Engineer_R-105439) — ZT Systems
+- 📍 **Location:** Secaucus, NJ
+- 🕒 **Posted:** Posted 3 Days Ago
 
-### [Software Engineer](https://jobs.ashbyhq.com/clera/fb394591-0d62-4ee8-91c0-cbefe98b9ea5) — Clera
-- 📍 **Location:** San Francisco
-- 🕒 **Posted:** 2026-09-29
+### [AI/ML Engineer](https://connect.wd1.myworkdayjobs.com/ztsystemscareers/job/Secaucus-NJ/AI-ML-Engineer_R-105418) — ZT Systems
+- 📍 **Location:** Secaucus, NJ
+- 🕒 **Posted:** Posted 8 Days Ago
 
-### [Backend Engineer](https://jobs.ashbyhq.com/clera/99303149-578f-4c10-b87c-0e23cfc15d58) — Clera
-- 📍 **Location:** remote
-- 🕒 **Posted:** 2026-09-28
+### [Machine Learning Engineer](https://crowe.wd12.myworkdayjobs.com/external_careers/job/Chicago-IL-USA/Machine-Learning-Engineer_R-71014) — Crowe
+- 📍 **Location:** San Jose CA USA
+- 🕒 **Posted:** Posted 2 Days Ago
 
-### [Product Engineer (Software Engineer)](https://jobs.ashbyhq.com/clera/248a3a60-609b-46fe-908a-0f7c242b729b) — Clera
-- 📍 **Location:** San Francisco
-- 🕒 **Posted:** 2026-10-01
+### [Machine Learning Software Engineer 1](https://crowe.wd12.myworkdayjobs.com/external_careers/job/Chicago-IL-USA/Machine-Learning-Software-Engineer-1_R-71006) — Crowe
+- 📍 **Location:** San Jose CA USA
+- 🕒 **Posted:** Posted 2 Days Ago
 
-### [Research Engineer, Privacy and Anonymization](https://jobs.ashbyhq.com/clera/62229089-2559-447c-83c5-55ad18a502bb) — Clera
-- 📍 **Location:** San Francisco
-- 🕒 **Posted:** 2026-10-01
+### [Product Software Engineer I](https://disney.wd5.myworkdayjobs.com/disneycareer/job/New-York-NY-USA/Product-Software-Engineer-I_10157015) — The Walt Disney Company
+- 📍 **Location:** New York, NY, USA
+- 🕒 **Posted:** Posted 2 Days Ago
 
-### [Software Engineer, Scribe AI](https://jobs.ashbyhq.com/Commure/259988fe-0389-461f-823c-36d81840d465) — Commure
-- 📍 **Location:** Mountain View, CA
-- 🕒 **Posted:** 2026-09-23
+### [Product Software Engineer II](https://disney.wd5.myworkdayjobs.com/disneycareer/job/New-York-NY-USA/Sr-Product-Software-Engineer_10151328-2) — The Walt Disney Company
+- 📍 **Location:** New York, NY, USA
+- 🕒 **Posted:** Posted 11 Days Ago
 
-### [Software Engineer, Voice Agents](https://jobs.ashbyhq.com/Commure/0e3440aa-4ddc-4a43-b4c3-804e60a1b2ff) — Commure
-- 📍 **Location:** Mountain View, CA
-- 🕒 **Posted:** 2026-09-23
+### [Product Software Engineer II](https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/New-York-NY-USA/Product-Software-Engineer-II_10160173-1) — The Walt Disney Company
+- 📍 **Location:** New York, NY, USA
+- 🕒 **Posted:** Posted 10 Days Ago
 
-### [Data Scientist, Handshake AI](https://jobs.ashbyhq.com/handshake/f911a2db-f80c-478c-b0d8-e62e9a6f1627) — Handshake
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-09-30
+### [Product Software Engineer II](https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/New-York-NY-USA/Sr-Product-Software-Engineer_10151328) — The Walt Disney Company
+- 📍 **Location:** New York, NY, USA
+- 🕒 **Posted:** Posted 11 Days Ago
 
-### [Data and ML Infrastructure Engineer](https://jobs.ashbyhq.com/havocai/e1c6e4e6-c1fb-41d4-99fd-9d9acb557b03) — HavocAI
-- 📍 **Location:** Remote 
-- 🕒 **Posted:** 2026-09-23
-
-### [Associate Data Scientist](https://jobs.ashbyhq.com/jerry.ai/f621d767-f3aa-4cdb-9b73-816467624c95) — Jerry
-- 📍 **Location:** New York, New York
-- 🕒 **Posted:** 2026-09-29
-
-### [Data Scientist](https://jobs.ashbyhq.com/jerry.ai/7721c791-bffd-4c46-acae-a64540886565) — Jerry
-- 📍 **Location:** Remote
-- 🕒 **Posted:** 2026-09-29
-
-### [Data Scientist](https://jobs.ashbyhq.com/jerry.ai/1859e4e3-10f4-4ef0-a244-4a6665f9dbea) — Jerry
-- 📍 **Location:** New York, New York
-- 🕒 **Posted:** 2026-09-29
-
-### [Software Engineer - December 2026 Graduates](https://jobs.ashbyhq.com/meow/56e3b840-11a0-4e98-baca-44e8e26b5218) — Meow
-- 📍 **Location:** New York City
-- 🕒 **Posted:** 2026-09-17
-
-### [Software Engineer, Systems & Platform Applied AI](https://jobs.ashbyhq.com/mercor/374cd009-516f-4a1f-abbf-bcca5287daae) — Mercor
-- 📍 **Location:** San Francisco
-- 🕒 **Posted:** 2026-09-24
-
-### [Software Engineer, Robotics ](https://jobs.ashbyhq.com/mercor/a217f1a6-c63c-4dfb-81c3-ecc0c5d44f98) — Mercor
-- 📍 **Location:** San Francisco
-- 🕒 **Posted:** 2026-09-22
-
-### [Research Engineer - Environments, Data and Post-Training](https://jobs.ashbyhq.com/mercor/1dcab154-b92d-4a5f-aed5-b1b8c049cdbc) — Mercor
-- 📍 **Location:** San Francisco
-- 🕒 **Posted:** 2026-09-18
-
-### [AI Engineer II – Trust & Explainability (AI Platform)](https://jobs.ashbyhq.com/meridianlink/e6f8bdc7-0859-45b9-bbc6-fdacfe402319) — Meridian Link
-- 📍 **Location:** US Remote
-- 🕒 **Posted:** 2026-09-28
-
-### [Data Scientist, Product](https://jobs.ashbyhq.com/mirage/52050007-3817-4151-9e68-41ec0dd03e42) — Mirage
-- 📍 **Location:** Union Square, New York City
-- 🕒 **Posted:** 2026-09-29
-
-### [Software Engineer, Backend ](https://jobs.ashbyhq.com/mirage/3535195f-3da0-462d-a21e-8abf1728a8eb) — Mirage
-- 📍 **Location:** Union Square, New York City
-- 🕒 **Posted:** 2026-09-28
-
-### [Software Engineer, iOS](https://jobs.ashbyhq.com/mirage/30c4b86d-b44c-4f31-87bf-5647a489b37d) — Mirage
-- 📍 **Location:** Union Square, New York City
-- 🕒 **Posted:** 2026-09-28
-
-### [Research Engineer, Generative Video](https://jobs.ashbyhq.com/mirage/14583d79-d421-4e1f-a2fe-e5a0b3573574) — Mirage
-- 📍 **Location:** Union Square, New York City
-- 🕒 **Posted:** 2026-09-28
-
-### [Research Engineer, Agentic Systems](https://jobs.ashbyhq.com/mirage/6969c030-b1e2-417a-9008-c7e523e38efc) — Mirage
-- 📍 **Location:** Union Square, New York City
-- 🕒 **Posted:** 2026-09-28
-
-### [Data Scientist](https://jobs.ashbyhq.com/nexxen/0240fa9a-f638-4870-9566-e3d0c812bbe1) — Nexxen
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-10-01
-
-### [Research Engineer, Agentic EDA](https://jobs.ashbyhq.com/normalcomputing/f891ec6b-9d1c-4477-a643-08d1accfd3a3) — Normal Computing
-- 📍 **Location:** New York City
-- 🕒 **Posted:** 2026-09-29
-
-### [Data Scientist](https://jobs.ashbyhq.com/oden-technologies/48f58ffb-7cfc-49f3-8017-0d38b1774ca6) — oden-technologies
-- 📍 **Location:** Remote
-- 🕒 **Posted:** 2026-09-30
-
-### [Machine Learning Engineer, Monetization AI/ML](https://jobs.ashbyhq.com/openai/80f9f564-d789-47bc-91c3-3babf5a1a33d) — OpenAI
-- 📍 **Location:** San Francisco
-- 🕒 **Posted:** 2026-09-21
-
-### [Frontend Software Engineer, Codex App](https://jobs.ashbyhq.com/openai/5f6685ad-2fba-4e60-8982-fa142b33e194) — OpenAI
-- 📍 **Location:** San Francisco
-- 🕒 **Posted:** 2026-10-01
-
-### [Data Scientist, B2B Generalist ](https://jobs.ashbyhq.com/openai/756d8c20-649a-47f2-8012-553b5f6cb0c5) — OpenAI
-- 📍 **Location:** San Francisco
-- 🕒 **Posted:** 2026-09-29
-
-### [Software Engineer, Plugin Ecosystem](https://jobs.ashbyhq.com/openai/e42305bf-2266-4dff-82ad-42be7ddac495) — OpenAI
-- 📍 **Location:** San Francisco
-- 🕒 **Posted:** 2026-09-21
-
-### [Fullstack Software Engineer, Child Safety Tools & Systems](https://jobs.ashbyhq.com/openai/ac442f1f-c0d2-4608-a155-bfc89190e01c) — OpenAI
-- 📍 **Location:** San Francisco
-- 🕒 **Posted:** 2026-09-22
-
-### [Software Engineer, Search Infrastructure](https://jobs.ashbyhq.com/openai/7caed1e8-c6f6-4569-9d45-2d7a7a56a025) — OpenAI
-- 📍 **Location:** San Francisco
-- 🕒 **Posted:** 2026-09-24
-
-### [Software Engineer, DevOps](https://jobs.ashbyhq.com/openai/a5dd77a2-9ab1-4165-98aa-c7bb0260985b) — OpenAI
-- 📍 **Location:** San Francisco
-- 🕒 **Posted:** 2026-10-01
-
-### [Software Engineer, Product Velocity](https://jobs.ashbyhq.com/openai/9909555b-3dc4-4ba2-859e-43eae7c97a34) — OpenAI
-- 📍 **Location:** San Francisco
-- 🕒 **Posted:** 2026-09-28
-
-### [Software Engineer, Implicit Signals](https://jobs.ashbyhq.com/openai/c7bcdaec-9714-44b0-8ba8-adc824594b54) — OpenAI
-- 📍 **Location:** San Francisco
-- 🕒 **Posted:** 2026-09-29
-
-### [Software Engineer II, Cloud Platform](https://jobs.ashbyhq.com/poshmark/22fe890a-5c2c-4133-a91c-2e82348bc5d8) — Poshmark
-- 📍 **Location:** US California (Redwood City) - Office
-- 🕒 **Posted:** 2026-09-18
-
-### [Software Engineer II, Machine Learning](https://jobs.ashbyhq.com/poshmark/1bdf7b14-1a68-4c3b-ab64-4a3a2793b937) — Poshmark
-- 📍 **Location:** US California (Redwood City) - Office
-- 🕒 **Posted:** 2026-09-18
-
-### [Software Engineer](https://jobs.ashbyhq.com/rubie/47f9b4b3-d403-4242-9875-f4e32a1e7f22) — Rubie
-- 📍 **Location:** New York City
-- 🕒 **Posted:** 2026-09-27
-
-### [Software Engineer, Agent - Healthcare](https://jobs.ashbyhq.com/Sierra/f3308520-6d7d-45ac-b96d-3f5a5012e6c9) — Sierra
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-09-23
-
-### [Software Engineer, Agent - Financial Services](https://jobs.ashbyhq.com/Sierra/33dbd62f-8212-4ea8-9b59-74370c1f2803) — Sierra
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-09-23
-
-### [Software Engineer, Agent - Public Sector](https://jobs.ashbyhq.com/Sierra/7dae2e7c-6556-438c-bf60-509931d8188c) — Sierra
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-09-23
-
-### [Software Engineer, Agent - Retail](https://jobs.ashbyhq.com/Sierra/c729c633-0376-436e-8f2b-1501088b85b0) — Sierra
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-09-23
-
-### [Software Engineer, Agent - Travel & Hospitality](https://jobs.ashbyhq.com/Sierra/d2dc9baf-30d4-4708-9227-62a946b4b37e) — Sierra
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-09-23
-
-### [Software Engineer, Agent - Insurance](https://jobs.ashbyhq.com/Sierra/b9b9b5e0-7304-4265-aa71-d71d80d29402) — Sierra
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-09-23
-
-### [Software Engineer, Agent - Tech, Media & Telecom](https://jobs.ashbyhq.com/Sierra/fd5df98a-e2c8-4d47-a803-daee5cccb36f) — Sierra
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-09-23
-
-### [Software Engineer, Horizon](https://jobs.ashbyhq.com/Sierra/87f2a303-c2a1-484e-9e4b-efdcaafa440e) — Sierra
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-09-24
-
-### [Software Engineer - Embedded](https://jobs.ashbyhq.com/skydio/d415cf2b-616c-459e-9c5f-58a1b2c4a1bb) — Skydio
-- 📍 **Location:** San Mateo, California, United States
-- 🕒 **Posted:** 2026-09-25
-
-### [Software Engineer - SnowConvert AI](https://jobs.ashbyhq.com/snowflake/2a928b93-a5d4-4285-a92c-032fb389faa2) — Snowflake
-- 📍 **Location:** US-CA-Menlo Park
-- 🕒 **Posted:** 2026-09-29
-
-### [Software Engineer - Postgres](https://jobs.ashbyhq.com/snowflake/6e96b818-2350-4601-8bdd-7ddd6c4a5f6d) — Snowflake
-- 📍 **Location:** US-CA-Menlo Park
-- 🕒 **Posted:** 2026-09-25
-
-### [Frontend Software Engineer– Cortex AI Apps  ](https://jobs.ashbyhq.com/snowflake/b3fab313-f31f-44b6-8c32-222084f93259) — Snowflake
-- 📍 **Location:** US-CA-Menlo Park
-- 🕒 **Posted:** 2026-09-29
-
-### [Software Engineer – Mobile Team ](https://jobs.ashbyhq.com/snowflake/16d130a1-4014-4458-829f-ea2ba48d366d) — Snowflake
-- 📍 **Location:** US-CA-Menlo Park
-- 🕒 **Posted:** 2026-09-30
-
-### [Data Scientist, Mail (US)](https://jobs.ashbyhq.com/Superhuman%20Platform%20Inc/05d1a089-1b49-40ba-a261-4eb157209838) — Superhuman
+### [Tenured Associate Professor of Data Science (Remote U.S.)](https://embryriddle.wd1.myworkdayjobs.com/External/job/Remote---United-States/Tenure-Associate-Professor-of-Computer-and-or-Data-Science--Remote-US-_R311006) — Embry-Riddle Aeronautical University
 - 📍 **Location:** Remote - United States
-- 🕒 **Posted:** 2026-09-23
 
-### [Data Scientist](https://jobs.ashbyhq.com/surge-ai/ed9a34be-a3f7-4c09-8602-9932edb47939) — Surge AI
-- 📍 **Location:** United States - Remote
-- 🕒 **Posted:** 2026-09-30
+### [Software Engineer (m/f/d)](https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Remote/Software-Engineer--m-f-d-_R5040926-1) — GE Aerospace
+- 📍 **Location:** Remote
+- 🕒 **Posted:** Posted Yesterday
 
-### [Full-Stack Engineer, AI Platform](https://jobs.ashbyhq.com/thumbtack/f8e13e37-c559-49e1-9b52-5871ce5cf2ae) — Thumbtack
-- 📍 **Location:** Remote, United States
-- 🕒 **Posted:** 2026-09-18
+### [ML / AI Software Engineer - C++ Metrics Frameworks](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Cruise-Automation---San-Francisco-HQ---Cruise-San-Francisco-1201-Bryant-Street-and-530-10th-Street/AI-ML-Engineer_JR-202517415) — General Motors
+- 📍 **Location:** Cruise Automation - San Francisco HQ - Cruise-San Francisco-1201 Bryant Street and 530 10th Street
+- 🕒 **Posted:** Posted 2 Days Ago
+
+### [2027 Summer Intern - AI/ML Engineer, Autonomous Vehicle: Simulation](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---AI-ML-Engineer--Autonomous-Vehicle--Simulation_JR-202621508) — General Motors
+- 📍 **Location:** Sunnyvale, California, United States of America
+- 🕒 **Posted:** Posted Yesterday
+
+### [2027 Summer Intern – AI/ML Engineer, Autonomous Vehicles: Simulation (PhD)](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---AI-ML-Engineer--Autonomous-Vehicles--Simulation--PhD-_JR-202621511) — General Motors
+- 📍 **Location:** Sunnyvale, California, United States of America
+- 🕒 **Posted:** Posted Yesterday
+
+### [Software Engineer – Golang, System Design, Kubernetes Platform Development & AI Automation](https://ghr.wd1.myworkdayjobs.com/us-emplsv/job/Chandler/Software-Engineer---Golang--System-Design--Kubernetes-Platform-Development---AI-Automation_26024269-1) — Bank of America
+- 📍 **Location:** Chandler; Jersey City; Plano
+- 🕒 **Posted:** Posted 3 Days Ago
+
+### [AI Platform Engineer (Hybrid)](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-FARMINGTON-0004--4-Farm-Springs-Rd--4-FARM-SPRINGS/AI-Platform-Engineer--Hybrid-_01874138) — RTX
+- 📍 **Location:** US-CA-SAN JOSE-826 ~ 200 Holger Way ~ BLDG 826
+- 🕒 **Posted:** Posted 11 Days Ago
+
+### [AI Software Engineer - HP IQ](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/San-Francisco-California-United-States-of-America/AI-Software-Engineer---HP-IQ_3163597-2) — Hewlett Packard (HP)
+- 📍 **Location:** San Francisco, California, United States of America
+- 🕒 **Posted:** Posted 7 Days Ago
+
+### [AI Software Engineer - HP IQ](https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/San-Francisco-California-United-States-of-America/AI-Software-Engineer---HP-IQ_3163597-1) — Hewlett Packard (HP)
+- 📍 **Location:** San Francisco, California, United States of America
+- 🕒 **Posted:** Posted 7 Days Ago
+
+### [Software Engineer - Embedded System (Sunnyvale, CA.)](https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Sunnyvale-California-United-States-of-America/SW-Engineering--Systems----Software-Engineer-I--Embedded-System_1200169) — Hewlett Packard Enterprise
+- 📍 **Location:** Sunnyvale, California, United States of America
+- 🕒 **Posted:** Posted 9 Days Ago
+
+### [Data scientist - Agentic AI](https://hpe.wd5.myworkdayjobs.com/acjobsite/job/San-Jose-California-United-States-of-America/Data-scientist---Agentic-AI_1208011) — Hewlett Packard Enterprise
+- 📍 **Location:** San Jose, California, United States of America
+- 🕒 **Posted:** Posted 7 Days Ago
+
+### [Data scientist - Agentic AI](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/San-Jose-California-United-States-of-America/Data-scientist---Agentic-AI_1208011-2) — Hewlett Packard Enterprise
+- 📍 **Location:** San Jose, California, United States of America
+- 🕒 **Posted:** Posted 7 Days Ago
