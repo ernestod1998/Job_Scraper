@@ -1,20 +1,48 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-10-03 18:18 UTC*
+*Last updated: 2026-10-03 19:18 UTC*
 
-**4 new role(s)** since last run · 23 total in last 1h
+**11 new role(s)** since last run · 19 total in last 1h
 
-### [Software Engineer II](https://www.linkedin.com/jobs/view/4428091527/) — Cadence
-- 📍 **Location:** San Jose, CA
+### [Full Stack Engineer](https://www.linkedin.com/jobs/view/4473881181/) — Fonzi AI
+- 📍 **Location:** San Francisco Bay Area
 - 🕒 **Posted:** 2026-10-03
 
-### [Software Engineer Intern, Backend (Summer 2027 - SF)](https://www.linkedin.com/jobs/view/4466352454/) — Lyft
-- 📍 **Location:** San Francisco County, CA
+### [Backend Engineer](https://www.linkedin.com/jobs/view/4473886010/) — Fonzi AI
+- 📍 **Location:** San Francisco Bay Area
 - 🕒 **Posted:** 2026-10-03
 
-### [Software Engineer, Notifications](https://www.linkedin.com/jobs/view/4475342155/) — Discord
-- 📍 **Location:** San Francisco, CA
+### [Backend Engineer](https://www.linkedin.com/jobs/view/4473869581/) — Fonzi AI
+- 📍 **Location:** New York City Metropolitan Area
 - 🕒 **Posted:** 2026-10-03
 
-### [Software Engineer, Safety Processing](https://www.linkedin.com/jobs/view/4475332724/) — Discord
-- 📍 **Location:** San Francisco, CA
+### [Full Stack Engineer](https://www.linkedin.com/jobs/view/4473872517/) — Fonzi AI
+- 📍 **Location:** New York City Metropolitan Area
+- 🕒 **Posted:** 2026-10-03
+
+### [Infrastructure Engineer](https://www.linkedin.com/jobs/view/4473883176/) — Fonzi AI
+- 📍 **Location:** New York City Metropolitan Area
+- 🕒 **Posted:** 2026-10-03
+
+### [Software Engineer 3, Atlas Clusters Platform](https://www.linkedin.com/jobs/view/4457389217/) — MongoDB
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-10-03
+
+### [Machine Learning Engineer](https://www.linkedin.com/jobs/view/4473867573/) — Evlo AI
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-10-03
+
+### [Site Reliability Engineer](https://www.linkedin.com/jobs/view/4464243247/) — Piper Sandler
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-10-03
+
+### [Software Engineer II](https://www.linkedin.com/jobs/view/4475331972/) — Compass
+- 📍 **Location:** Manhattan, NY
+- 🕒 **Posted:** 2026-10-03
+
+### [Infrastructure Engineer](https://www.linkedin.com/jobs/view/4473881183/) — Fonzi AI
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-10-03
+
+### [ML Engineer](https://www.linkedin.com/jobs/view/4473882172/) — Fonzi AI
+- 📍 **Location:** San Francisco Bay Area
 - 🕒 **Posted:** 2026-10-03
