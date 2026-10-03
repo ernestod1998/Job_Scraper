@@ -1,66 +1,54 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-10-03 02:18 UTC*
+*Last updated: 2026-10-03 03:18 UTC*
 
-**14 new role(s)** since last run · 24 total in last 1h
+**12 new role(s)** since last run · 17 total in last 1h
 
-### [Software Engineer III, App Ads Horizontal Modeling](https://www.linkedin.com/jobs/view/4473818754/) — Google
-- 📍 **Location:** Mountain View, CA
-- 🕒 **Posted:** 2026-10-02
-
-### [Research Engineer, Robotics Evals](https://www.linkedin.com/jobs/view/4473836043/) — HUD
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $80,000.00/yr - $230,000.00/yr
-- 🕒 **Posted:** 2026-10-02
-
-### [Software Engineer, New Grad (2027)](https://www.linkedin.com/jobs/view/4473819499/) — Harvey
+### [Software Engineer, AI](https://www.linkedin.com/jobs/view/4475073770/) — Factory
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-10-02
 
-### [Software Engineer (Machine Learning) Intern (Summer 2027)](https://www.linkedin.com/jobs/view/4473833047/) — Affirm
+### [Research Engineer](https://www.linkedin.com/jobs/view/4475090068/) — Factory
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-10-02
 
-### [Software Engineer, Core Infrastructure - Moveworks (New Grad)](https://www.linkedin.com/jobs/view/4475076076/) — ServiceNow
-- 📍 **Location:** Mountain View, CA
-- 🕒 **Posted:** 2026-10-02
-
-### [Research Engineer, Robotics Evals](https://www.linkedin.com/jobs/view/4473816797/) — HUD
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $80,000.00/yr - $230,000.00/yr
-- 🕒 **Posted:** 2026-10-02
-
-### [Research Engineer, Robotics Evals](https://www.linkedin.com/jobs/view/4473836045/) — HUD
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $80,000.00/yr - $230,000.00/yr
-- 🕒 **Posted:** 2026-10-02
-
-### [Research Engineer, Robotics Evals](https://www.linkedin.com/jobs/view/4473814957/) — HUD
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $80,000.00/yr - $230,000.00/yr
-- 🕒 **Posted:** 2026-10-02
-
-### [Research Engineer, Robotics Evals](https://www.linkedin.com/jobs/view/4473837016/) — HUD
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $80,000.00/yr - $230,000.00/yr
-- 🕒 **Posted:** 2026-10-02
-
-### [Research Engineer, Robotics Evals](https://www.linkedin.com/jobs/view/4473828396/) — HUD
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $80,000.00/yr - $230,000.00/yr
-- 🕒 **Posted:** 2026-10-02
-
-### [Data Scientist](https://www.linkedin.com/jobs/view/4475067880/) — Philip Morris International U.S.
-- 📍 **Location:** Stamford, CT
-- 🕒 **Posted:** 2026-10-02
-
-### [Software Engineering MTS](https://www.linkedin.com/jobs/view/4475070279/) — Salesforce
+### [Software Engineer, Deployed](https://www.linkedin.com/jobs/view/4475085280/) — Factory
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-10-02
 
-### [Platform Engineer](https://www.linkedin.com/jobs/view/4473824668/) — Veeam Software
+### [Software Engineer, Data](https://www.linkedin.com/jobs/view/4475078598/) — Factory
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-10-02
+
+### [Software Engineer, Platform](https://www.linkedin.com/jobs/view/4475070814/) — Factory
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-10-02
+
+### [Software Engineer, Product](https://www.linkedin.com/jobs/view/4475079563/) — Factory
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-10-02
+
+### [Software Engineer, Frontend](https://www.linkedin.com/jobs/view/4475083348/) — Factory
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-10-02
+
+### [Software Engineer, Fullstack](https://www.linkedin.com/jobs/view/4475076631/) — Factory
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-10-02
+
+### [Platform Engineer](https://www.linkedin.com/jobs/view/4473197769/) — AMD
 - 📍 **Location:** San Jose, CA
+- 💰 **Salary:** $145,600.00/yr - $218,400.00/yr
 - 🕒 **Posted:** 2026-10-02
 
-### [Software Engineer, Forward Deploy -- New Graduate '27](https://www.linkedin.com/jobs/view/4475072563/) — Parasail
-- 📍 **Location:** San Mateo, CA
+### [Software Engineer, Revenue and Financial Automation](https://www.linkedin.com/jobs/view/4475067949/) — Stripe
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-10-02
+
+### [Research Engineer](https://www.linkedin.com/jobs/view/4464821915/) — Thomson Reuters
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-10-02
+
+### [Software Engineer II (Java Full-Stack)](https://www.linkedin.com/jobs/view/4475076659/) — JPMorganChase
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $123,500.00/yr - $150,000.00/yr
 - 🕒 **Posted:** 2026-10-02
