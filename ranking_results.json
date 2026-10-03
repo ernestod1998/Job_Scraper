@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-03T20:26:33.413343+00:00",
+  "updated_at": "2026-10-03T20:28:53.337611+00:00",
   "day": "2026-10-03",
   "context": "3ba40bc7f768802deaea5fdb4539ae6756b2ad705c2a79069ac6f13a206750ea",
   "scores": {
@@ -275534,7 +275534,101 @@
           "cost": 7013100
         }
       },
-      "scored_at": "2026-09-28T21:57:12.489467+00:00"
+      "scored_at": "2026-09-28T21:57:12.489467+00:00",
+      "sonnet": {
+        "model": "claude-sonnet-5",
+        "scores": {
+          "BioScience_ML": 77,
+          "ML": 77,
+          "DS": 77,
+          "SWE": 77,
+          "FDE": 77,
+          "Research_Software_Engineer": 77
+        },
+        "best_resumes": [
+          "BioScience_ML",
+          "DS",
+          "FDE",
+          "ML",
+          "Research_Software_Engineer",
+          "SWE"
+        ],
+        "requirements": [
+          {
+            "text": "Significant experience building and scaling deep learning systems, ideally in research-driven environments",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial",
+              "Research_Software_Engineer": "partial"
+            }
+          },
+          {
+            "text": "Significant experience building and scaling deep learning systems, ideally in research-driven environments",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "matched",
+              "FDE": "matched",
+              "Research_Software_Engineer": "matched"
+            }
+          },
+          {
+            "text": "Strong engineering and scientific fundamentals",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "matched",
+              "FDE": "matched",
+              "Research_Software_Engineer": "matched"
+            }
+          },
+          {
+            "text": "Comfort with ambiguity, rapid iteration, and loosely-defined research problems",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial",
+              "Research_Software_Engineer": "partial"
+            }
+          },
+          {
+            "text": "Strong communication skills across technical and scientific audiences",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "matched",
+              "FDE": "matched",
+              "Research_Software_Engineer": "matched"
+            }
+          }
+        ],
+        "usage": {
+          "input": 16990,
+          "output": 4271,
+          "thinking": 1023,
+          "cached": 0,
+          "cache_write": 0,
+          "cost": 76690000
+        }
+      }
     },
     "https://www.linkedin.com/jobs/view/4449696355/": {
       "url": "https://www.linkedin.com/jobs/view/4449696355/",
@@ -303179,7 +303273,75 @@
           "cost": 5429000
         }
       },
-      "scored_at": "2026-10-01T21:00:21.057883+00:00"
+      "scored_at": "2026-10-01T21:00:21.057883+00:00",
+      "sonnet": {
+        "model": "claude-sonnet-5",
+        "scores": {
+          "BioScience_ML": 83,
+          "ML": 83,
+          "DS": 83,
+          "SWE": 83,
+          "FDE": 83,
+          "Research_Software_Engineer": 83
+        },
+        "best_resumes": [
+          "BioScience_ML",
+          "DS",
+          "FDE",
+          "ML",
+          "Research_Software_Engineer",
+          "SWE"
+        ],
+        "requirements": [
+          {
+            "text": "You are a current Bachelor’s Degree or Master’s Degree candidate in Computer Science, Electrical Engineering, Robotics, or related field, graduating before December 2026.",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial",
+              "Research_Software_Engineer": "partial"
+            }
+          },
+          {
+            "text": "You have experience in one or more of the following areas: large-scale distributed systems; data storage and processing systems; advanced algorithms using C++ and Python; machine learning, multithreading; x86 architecture; and software performance tuning and optimization, robotics software frameworks, different compute modalities (CPU, GPU, FPGA) etc.",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "matched",
+              "FDE": "matched",
+              "Research_Software_Engineer": "matched"
+            }
+          },
+          {
+            "text": "You have strong problem-solving and programming skills.",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "matched",
+              "FDE": "matched",
+              "Research_Software_Engineer": "matched"
+            }
+          }
+        ],
+        "usage": {
+          "input": 16847,
+          "output": 1988,
+          "thinking": 0,
+          "cached": 0,
+          "cache_write": 0,
+          "cost": 53574000
+        }
+      }
     },
     "https://www.linkedin.com/jobs/view/4474352883/": {
       "url": "https://www.linkedin.com/jobs/view/4474352883/",
@@ -303340,7 +303502,148 @@
           "cost": 7601450
         }
       },
-      "scored_at": "2026-10-01T21:00:21.057883+00:00"
+      "scored_at": "2026-10-01T21:00:21.057883+00:00",
+      "sonnet": {
+        "model": "claude-sonnet-5",
+        "scores": {
+          "BioScience_ML": 70,
+          "ML": 70,
+          "DS": 70,
+          "SWE": 82,
+          "FDE": 76,
+          "Research_Software_Engineer": 70
+        },
+        "best_resumes": [
+          "SWE"
+        ],
+        "requirements": [
+          {
+            "text": "Currently pursuing a Master’s degree in statistics, mathematics, economics, applied sciences, computer science or related field.",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial",
+              "Research_Software_Engineer": "partial"
+            }
+          },
+          {
+            "text": "Ability to manipulate large data sets with high dimensionality and complexity; fluency in SQL and a scripting language (Python or R)",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "matched",
+              "FDE": "matched",
+              "Research_Software_Engineer": "matched"
+            }
+          },
+          {
+            "text": "Experience solving analytical problems using quantitative approaches including in the fields of Machine Learning, Statistical Modeling, Forecasting, Econometrics or other related fields",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "matched",
+              "FDE": "matched",
+              "Research_Software_Engineer": "matched"
+            }
+          },
+          {
+            "text": "Excellent communication skills and the ability to explain learnings to both technical and non-technical partners",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "matched",
+              "FDE": "matched",
+              "Research_Software_Engineer": "matched"
+            }
+          },
+          {
+            "text": "Ability to connect data analysis to real business problems, in order to impact business performance.",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "matched",
+              "FDE": "matched",
+              "Research_Software_Engineer": "matched"
+            }
+          },
+          {
+            "text": "Strong critical thinking when working with AI-generated suggestions, with a clear approach to validating correctness, performance, security, and maintainability.",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "not_evidenced",
+              "ML": "not_evidenced",
+              "DS": "not_evidenced",
+              "SWE": "partial",
+              "FDE": "not_evidenced",
+              "Research_Software_Engineer": "not_evidenced"
+            }
+          },
+          {
+            "text": "Comfort iterating on prompts, refining workflows, and adapting AI-assisted approaches based on the problem, context, and constraints.",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "not_evidenced",
+              "ML": "not_evidenced",
+              "DS": "not_evidenced",
+              "SWE": "partial",
+              "FDE": "partial",
+              "Research_Software_Engineer": "not_evidenced"
+            }
+          },
+          {
+            "text": "US based applicants only",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "matched",
+              "FDE": "matched",
+              "Research_Software_Engineer": "matched"
+            }
+          },
+          {
+            "text": "This role may require you to be located near an office for in-person collaboration, and therefore may need to be located a commutable distance from one of our Pinterest offices.",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "matched",
+              "FDE": "matched",
+              "Research_Software_Engineer": "matched"
+            }
+          }
+        ],
+        "usage": {
+          "input": 18343,
+          "output": 5843,
+          "thinking": 917,
+          "cached": 0,
+          "cache_write": 0,
+          "cost": 95116000
+        }
+      }
     },
     "https://www.linkedin.com/jobs/view/4435916615/": {
       "url": "https://www.linkedin.com/jobs/view/4435916615/",
@@ -309665,7 +309968,75 @@
           "cost": 5713750
         }
       },
-      "scored_at": "2026-10-03T19:11:52.136613+00:00"
+      "scored_at": "2026-10-03T19:11:52.136613+00:00",
+      "sonnet": {
+        "model": "claude-sonnet-5",
+        "scores": {
+          "BioScience_ML": 83,
+          "ML": 83,
+          "DS": 83,
+          "SWE": 83,
+          "FDE": 83,
+          "Research_Software_Engineer": 83
+        },
+        "best_resumes": [
+          "BioScience_ML",
+          "DS",
+          "FDE",
+          "ML",
+          "Research_Software_Engineer",
+          "SWE"
+        ],
+        "requirements": [
+          {
+            "text": "You are a current BS or MS candidate in Computer Science, Electrical Engineering, Robotics, or a related field graduating in December 2026 or later",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial",
+              "Research_Software_Engineer": "partial"
+            }
+          },
+          {
+            "text": "You have experience in one or more of the following areas: backend API design, applications development, large-scale distributed systems; data storage and processing systems; advanced algorithms using C++ and Python; machine learning, multithreading; x86 architecture; and software performance tuning and optimization, robotics software frameworks, different compute modalities (CPU, GPU, FPGA) etc.",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "matched",
+              "FDE": "matched",
+              "Research_Software_Engineer": "matched"
+            }
+          },
+          {
+            "text": "You have strong problem solving and programming skills.",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "matched",
+              "FDE": "matched",
+              "Research_Software_Engineer": "matched"
+            }
+          }
+        ],
+        "usage": {
+          "input": 16984,
+          "output": 2748,
+          "thinking": 403,
+          "cached": 0,
+          "cache_write": 0,
+          "cost": 61448000
+        }
+      }
     },
     "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/New-York-New-York/Data-Scientist-II--US--FCRM-Modeling_R_1514377": {
       "status": "jd_unavailable",
@@ -327141,6 +327512,6 @@
   },
   "attempts_today": {
     "luna": 100,
-    "sonnet": 5
+    "sonnet": 9
   }
 }
