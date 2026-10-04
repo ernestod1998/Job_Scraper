@@ -1,34 +1,33 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-10-04 16:18 UTC*
+*Last updated: 2026-10-04 17:18 UTC*
 
-**7 new role(s)** since last run · 23 total in last 1h
+**7 new role(s)** since last run · 11 total in last 1h
 
-### [Research Engineer, Knowledge Team](https://www.linkedin.com/jobs/view/4409981292/) — Anthropic
+### [Research Engineer/Scientist](https://www.linkedin.com/jobs/view/4475511089/) — Center for AI Safety
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-10-04
 
-### [Generative AI CAD Engineer](https://www.linkedin.com/jobs/view/4435942476/) — Atomic Machines
-- 📍 **Location:** Emeryville, CA
+### [Software Engineer](https://www.linkedin.com/jobs/view/4474727186/) — Storm3
+- 📍 **Location:** San Francisco Bay Area
+- 💰 **Salary:** $220,000.00/yr - $260,000.00/yr
 - 🕒 **Posted:** 2026-10-04
 
-### [Software Engineer - Autonomous Systems](https://www.linkedin.com/jobs/view/4473489463/) — Reach Velocity - Emerging Technology 🇺🇸 🇵🇹
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $200,000.00/yr - $250,000.00/yr
-- 🕒 **Posted:** 2026-10-04
-
-### [Software Engineer](https://www.linkedin.com/jobs/view/4447737852/) — Roche
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-10-04
-
-### [Research Engineer, Knowledge Team](https://www.linkedin.com/jobs/view/4409984163/) — Anthropic
+### [Machine Learning Engineer, Infra, AI for Drug Discovery](https://www.linkedin.com/jobs/view/4447580885/) — Genentech
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-10-04
 
-### [FTSE Software Engineering & Data Engineering Opportunities](https://www.linkedin.com/jobs/view/4437922789/) — LSEG
-- 📍 **Location:** New York, NY
+### [Software Engineer, Developer Productivity](https://www.linkedin.com/jobs/view/4308502697/) — Glean
+- 📍 **Location:** Mountain View, CA
 - 🕒 **Posted:** 2026-10-04
 
-### [Software Engineer, Safety Experience](https://www.linkedin.com/jobs/view/4447627291/) — Whatnot
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $170,000.00/yr - $230,000.00/yr
+### [Software Engineer](https://www.linkedin.com/jobs/view/4474224175/) — Haystack
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-10-04
+
+### [Software Engineer](https://www.linkedin.com/jobs/view/4474215505/) — Haystack
+- 📍 **Location:** New York City Metropolitan Area
+- 🕒 **Posted:** 2026-10-04
+
+### [Software Engineer](https://www.linkedin.com/jobs/view/4474227069/) — Haystack
+- 📍 **Location:** New York City Metropolitan Area
 - 🕒 **Posted:** 2026-10-04
