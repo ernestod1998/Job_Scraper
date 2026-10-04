@@ -1,14 +1,14 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-10-04 00:17 UTC*
+*Last updated: 2026-10-04 01:17 UTC*
 
-**2 new role(s)** since last run · 3 total in last 1h
+**2 new role(s)** since last run · 4 total in last 1h
 
-### [junior software developer/Data Scientist](https://www.linkedin.com/jobs/view/4473892242/) — SynergisticIT
-- 📍 **Location:** San Jose, CA
-- 💰 **Salary:** $82,000.00/yr - $136,000.00/yr
+### [Full-Stack Software Engineer: Application Engineering (ED0EE55)](https://www.linkedin.com/jobs/view/4475347638/) — Referment
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $225,000.00/yr - $300,000.00/yr
 - 🕒 **Posted:** 2026-10-03
 
-### [Pre-training Research Engineer](https://www.linkedin.com/jobs/view/4459262301/) — Sciforium
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $165,000.00/yr - $225,000.00/yr
+### [Junior Java Spring boot developer/Data Scientist](https://www.linkedin.com/jobs/view/4473890392/) — SynergisticIT
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $82,000.00/yr - $136,000.00/yr
 - 🕒 **Posted:** 2026-10-03
