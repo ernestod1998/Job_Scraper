@@ -1,24 +1,29 @@
 # 🟦 Indeed — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-10-04 08:45 UTC*
+*Last updated: 2026-10-04 18:47 UTC*
 
-**4 new role(s)** since last run · 6 total in last 24h
+**5 new role(s)** since last run · 9 total in last 24h
 
-### [AI & Data Science Engineer II](https://www.indeed.com/viewjob?jk=2432c53bda0a85e5) — Deloitte
+### [AI Engineer 5 (MLX, Agentic AI, Gen AI platform Services)](https://www.indeed.com/viewjob?jk=8878d76c16c8c9ea) — Capital One
 - 📍 **Location:** San Jose, CA, US
-- 💰 **Salary:** $91k–$180k/yr
-- 🕒 **Posted:** 2026-10-03
+- 💰 **Salary:** $230k–$262k/yr
+- 🕒 **Posted:** 2026-10-04
 
-### [AI & Data Science Engineer II](https://www.indeed.com/viewjob?jk=9852894c488cfb1f) — Deloitte
-- 📍 **Location:** San Francisco, CA, US
-- 💰 **Salary:** $91k–$180k/yr
-- 🕒 **Posted:** 2026-10-03
+### [Applied Machine Learning Scientist](https://www.indeed.com/viewjob?jk=9c3575f8c60bb628) — Apple
+- 📍 **Location:** Cupertino, CA, US
+- 💰 **Salary:** $150k–$278k/yr
+- 🕒 **Posted:** 2026-09-30
 
-### [AI & Data Science Engineer II](https://www.indeed.com/viewjob?jk=738af91e03315957) — Deloitte
-- 📍 **Location:** New York, NY, US
-- 💰 **Salary:** $91k–$180k/yr
-- 🕒 **Posted:** 2026-10-03
+### [AI Software Engineer, App Intelligence](https://www.indeed.com/viewjob?jk=ad96844e726b1033) — Apple
+- 📍 **Location:** Cupertino, CA, US
+- 💰 **Salary:** $185k–$325k/yr
+- 🕒 **Posted:** 2026-09-30
 
-### [AI & Data Science Engineer II](https://www.indeed.com/viewjob?jk=2b73ce063a503140) — Deloitte
-- 📍 **Location:** Stamford, CT, US
-- 💰 **Salary:** $91k–$180k/yr
-- 🕒 **Posted:** 2026-10-03
+### [System Software Engineer - Headphone & Accessories, Sensing & Connectivity](https://www.indeed.com/viewjob?jk=25cbe65e8a42254f) — Apple
+- 📍 **Location:** Cupertino, CA, US
+- 💰 **Salary:** $129k–$225k/yr
+- 🕒 **Posted:** 2026-09-30
+
+### [Core OS Software Engineer - USB4/Thunderbolt](https://www.indeed.com/viewjob?jk=d38c63bf41747f65) — Apple
+- 📍 **Location:** Cupertino, CA, US
+- 💰 **Salary:** $150k–$278k/yr
+- 🕒 **Posted:** 2026-09-30
