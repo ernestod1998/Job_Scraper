@@ -1,9 +1,9 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-10-05 01:11 UTC*
+*Last updated: 2026-10-05 01:17 UTC*
 
-**1 new role(s)** since last run · 12 total in last 1h
+**1 new role(s)** since last run · 13 total in last 1h
 
-### [Software Engineer - YAML Experience](https://www.linkedin.com/jobs/view/4475511947/) — Alignerr
+### [New Grad Software Engineer](https://www.linkedin.com/jobs/view/4474223646/) — Confido
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $40.00/hr - $55.00/hr
+- 💰 **Salary:** $170,000.00/yr - $170,000.00/yr
 - 🕒 **Posted:** 2026-10-04
