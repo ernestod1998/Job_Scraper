@@ -1,67 +1,62 @@
 # 🟦 Indeed — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-10-06 02:29 UTC*
+*Last updated: 2026-10-06 09:21 UTC*
 
-**13 new role(s)** since last run · 48 total in last 24h
+**12 new role(s)** since last run · 51 total in last 24h
 
-### [ML Engineer - API Platform](https://www.indeed.com/viewjob?jk=d2ee1e047bd06b24) — Physical Intelligence
+### [Research Intern, Efficient Deep Learning - 2027](https://www.indeed.com/viewjob?jk=f46f86bbc4abdf56) — NVIDIA
+- 📍 **Location:** Santa Clara, CA, US
+- 💰 **Salary:** $38–$94/hr
+- 🕒 **Posted:** 2026-10-06
+
+### [Machine Learning Engineer](https://www.indeed.com/viewjob?jk=bb1d738eb2126f6c) — reddit
 - 📍 **Location:** San Francisco, CA, US
+- 💰 **Salary:** $230k–$322k/yr
+- 🕒 **Posted:** 2026-10-01
+
+### [Software Engineer](https://www.indeed.com/viewjob?jk=e6c8768c5ebdd22b) — flai
+- 📍 **Location:** San Francisco, CA, US
+- 🕒 **Posted:** 2026-10-06
+
+### [Performance Engineer - Deep Learning](https://www.indeed.com/viewjob?jk=9f7fd0acf6107721) — NVIDIA
+- 📍 **Location:** Santa Clara, CA, US
+- 💰 **Salary:** $124k–$242k/yr
+- 🕒 **Posted:** 2026-10-06
+
+### [Software Engineer - Networking, firmware and C++](https://www.indeed.com/viewjob?jk=7af8ac0993ef7a83) — AMD
+- 📍 **Location:** Santa Clara, CA, US
 - 🕒 **Posted:** 2026-10-05
 
-### [ML engineer - API Platform](https://www.indeed.com/viewjob?jk=ed79f56f85b47a96) — Physical Intelligence
-- 📍 **Location:** San Francisco, CA, US
-- 🕒 **Posted:** 2026-10-05
-
-### [Machine Learning Engineer](https://www.indeed.com/viewjob?jk=eadde137de7c0beb) — WPP
-- 📍 **Location:** San Francisco, CA, US
-- 💰 **Salary:** $130k–$180k/yr
-- 🕒 **Posted:** 2026-10-05
-
-### [Machine Learning Engineer I (MLE I), Fraud Risk Modeling](https://www.indeed.com/viewjob?jk=a2dd387b27ead207) — GEICO
+### [Software Engineer, Infotainment Platforms Validation](https://www.indeed.com/viewjob?jk=9a1bf02f0bcfa893) — Tesla
 - 📍 **Location:** Palo Alto, CA, US
-- 💰 **Salary:** $90k–$185k/yr
+- 💰 **Salary:** $140k–$252k/yr
 - 🕒 **Posted:** 2026-10-05
 
-### [Android Engineer, Plugin Developer Platform](https://www.indeed.com/viewjob?jk=c70ed1a5502e7c93) — OpenAI
+### [Software Engineer III, Google Cloud Storage, Infrastructure](https://www.indeed.com/viewjob?jk=d10b8c8cbbfb63c0) — Google
+- 📍 **Location:** Sunnyvale, CA, US
+- 💰 **Salary:** $147k–$210k/yr
+- 🕒 **Posted:** 2026-10-05
+
+### [Rapid Prototyping Software Engineer, Pixel](https://www.indeed.com/viewjob?jk=62551f9e43817e98) — Google
 - 📍 **Location:** San Francisco, CA, US
-- 💰 **Salary:** $185k–$385k/yr
+- 💰 **Salary:** $207k–$300k/yr
 - 🕒 **Posted:** 2026-10-05
 
-### [Software Engineer](https://www.indeed.com/viewjob?jk=f60a91cb8cb3987c) — Super Micro Computer, Inc.
-- 📍 **Location:** San Jose, CA, US
-- 💰 **Salary:** $110k–$140k/yr
-- 🕒 **Posted:** 2026-10-05
-
-### [Software Engineer II](https://www.indeed.com/viewjob?jk=fc96b80da3065d5e) — Ampex Data Systems Corporation
-- 📍 **Location:** Hayward, CA, US
-- 💰 **Salary:** $123k–$130k/yr
-- 🕒 **Posted:** 2026-10-05
-
-### [Internship, Embedded Software Engineer, Thermal Systems (Winter/Spring 2027)](https://www.indeed.com/viewjob?jk=dfe76499932b05eb) — Tesla
-- 📍 **Location:** Palo Alto, CA, US
-- 💰 **Salary:** $36.06–$59/hr
-- 🕒 **Posted:** 2026-10-05
-
-### [Software Engineer III - AI/ML Platform Engineer](https://www.indeed.com/viewjob?jk=4ef9beb26685f1a6) — JPMorganChase
+### [Software Engineer III (Java Full Stack)](https://www.indeed.com/viewjob?jk=a2a92057da60d757) — JPMorganChase
 - 📍 **Location:** Jersey City, NJ, US
 - 💰 **Salary:** $138k–$185k/yr
-- 🕒 **Posted:** 2026-10-05
+- 🕒 **Posted:** 2026-10-06
 
-### [Applied Scientist, Advertiser Growth Engine](https://www.indeed.com/viewjob?jk=afdd4e1bddffa2d0) — Amazon.com
+### [Full-stack Engineer 4](https://www.indeed.com/viewjob?jk=727d755000763cf2) — Capital One
 - 📍 **Location:** New York, NY, US
-- 💰 **Salary:** $172k–$223k/yr
+- 💰 **Salary:** $215k–$246k/yr
 - 🕒 **Posted:** 2026-10-05
 
-### [Applied Scientist, Fauna](https://www.indeed.com/viewjob?jk=482d78c9a8377abd) — Amazon.com
+### [DevOps Engineer](https://www.indeed.com/viewjob?jk=fc975b57f02c4296) — DXC Technology
 - 📍 **Location:** New York, NY, US
-- 💰 **Salary:** $172k–$223k/yr
+- 💰 **Salary:** $73k–$136k/yr
 - 🕒 **Posted:** 2026-10-05
 
-### [Software Engineer III (Full Stack Java)](https://www.indeed.com/viewjob?jk=2c30a1742bc6097d) — JPMorganChase
+### [Cloud/Data Center Infrastructure Engineer](https://www.indeed.com/viewjob?jk=5534203b77bee55b) — DXC Technology
 - 📍 **Location:** New York, NY, US
-- 💰 **Salary:** $138k–$185k/yr
-- 🕒 **Posted:** 2026-10-05
-
-### [Backend Engineer, High-Volume Data Processing](https://www.indeed.com/viewjob?jk=729fae523f118b96) — Unknown
-- 📍 **Location:** Brooklyn, NY, US
-- 💰 **Salary:** $220k–$300k/yr
+- 💰 **Salary:** $73k–$136k/yr
 - 🕒 **Posted:** 2026-10-05
