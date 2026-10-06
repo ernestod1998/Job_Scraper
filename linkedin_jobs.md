@@ -1,113 +1,70 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-10-06 18:19 UTC*
+*Last updated: 2026-10-06 19:19 UTC*
 
-**26 new role(s)** since last run · 27 total in last 1h
+**16 new role(s)** since last run · 42 total in last 1h
 
-### [Machine Learning Engineer — Reinforcement Learning](https://www.linkedin.com/jobs/view/4476334732/) — Institute of Foundation Models
-- 📍 **Location:** Sunnyvale, CA
-- 💰 **Salary:** $150,000.00/yr - $450,000.00/yr
+### [Software Engineer III with TS/SCI Polygraph](https://www.linkedin.com/jobs/view/4476350386/) — Deloitte
+- 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-10-06
 
-### [Machine Learning Engineer — Pre-training (LLM)](https://www.linkedin.com/jobs/view/4476335679/) — Institute of Foundation Models
-- 📍 **Location:** Sunnyvale, CA
-- 💰 **Salary:** $150,000.00/yr - $450,000.00/yr
-- 🕒 **Posted:** 2026-10-06
-
-### [Research Engineer](https://www.linkedin.com/jobs/view/4476341736/) — Goliath Partners
-- 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-10-06
-
-### [Applied Scientist II, AWS Neuron Science - Core Algorithm](https://www.linkedin.com/jobs/view/4476357056/) — Amazon Web Services (AWS)
-- 📍 **Location:** Cupertino, CA
-- 🕒 **Posted:** 2026-10-06
-
-### [Applied Scientist- Pricing, Dynamic Pricing & Offer Selection](https://www.linkedin.com/jobs/view/4474993320/) — CHEManager International
+### [Software Engineer III with TS/SCI Polygraph](https://www.linkedin.com/jobs/view/4476351524/) — Deloitte
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-10-06
 
-### [Machine Learning Infrastructure Engineer](https://www.linkedin.com/jobs/view/4438965686/) — Genesis Molecular AI
-- 📍 **Location:** San Mateo, CA
-- 🕒 **Posted:** 2026-10-06
-
-### [Machine Learning Engineer — GPU Kernel](https://www.linkedin.com/jobs/view/4476339579/) — Institute of Foundation Models
+### [Software Engineer - Neural Simulation](https://www.linkedin.com/jobs/view/4475106160/) — Applied Intuition
 - 📍 **Location:** Sunnyvale, CA
-- 💰 **Salary:** $150,000.00/yr - $450,000.00/yr
+- 💰 **Salary:** $160,000.00/yr - $185,000.00/yr
 - 🕒 **Posted:** 2026-10-06
 
-### [Systems Development Engineer (AWS Generative AI & ML Servers), AWS HW Engineering](https://www.linkedin.com/jobs/view/4476343722/) — Amazon Web Services (AWS)
-- 📍 **Location:** Cupertino, CA
+### [Research Engineer/Scientist (all levels), World Models](https://www.linkedin.com/jobs/view/4474994644/) — TikTok
+- 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-10-06
 
-### [Software Engineer, Data Ingestion Systems](https://www.linkedin.com/jobs/view/4474087736/) — Wayve
-- 📍 **Location:** Sunnyvale, CA
+### [Software Engineer, Data Governance Team](https://www.linkedin.com/jobs/view/4476354944/) — TikTok USDS Joint Venture
+- 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-10-06
 
-### [Research Engineer](https://www.linkedin.com/jobs/view/4476340715/) — Goliath Partners
-- 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-10-06
-
-### [Junior Data Scientist](https://www.linkedin.com/jobs/view/4475829110/) — COGENT Infotech
-- 📍 **Location:** White Plains, NY
-- 🕒 **Posted:** 2026-10-06
-
-### [Full Stack Software Engineer (96223)](https://www.linkedin.com/jobs/view/4465515059/) — Weill Cornell Medicine
+### [Data Scientist](https://www.linkedin.com/jobs/view/4474986865/) — Optomi
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-10-06
 
-### [Cloud Engineer (1042) – Department of Technology](https://www.linkedin.com/jobs/view/4476113634/) — San Francisco Department of Technology (DT)
+### [Software Engineer III with TS/SCI Polygraph](https://www.linkedin.com/jobs/view/4476358149/) — Deloitte
+- 📍 **Location:** Stamford, CT
+- 🕒 **Posted:** 2026-10-06
+
+### [Machine Learning Engineer, AI Coding Tools](https://www.linkedin.com/jobs/view/4474986809/) — ByteDance
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-10-06
+
+### [Software Engineering Intern (Summer 2027)](https://www.linkedin.com/jobs/view/4476367050/) — Niantic Spatial, Inc.
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-10-06
 
-### [Site Reliability Engineer, Compute Platform](https://www.linkedin.com/jobs/view/4474989685/) — TikTok
-- 📍 **Location:** San Jose, CA
+### [Software Engineer II, Backend (Decisions Orchestration)](https://www.linkedin.com/jobs/view/4474987897/) — Affirm
+- 📍 **Location:** Palo Alto, CA
 - 🕒 **Posted:** 2026-10-06
 
-### [DevOps Engineer -- DONDC5957257](https://www.linkedin.com/jobs/view/4476341676/) — Compunnel Inc.
-- 📍 **Location:** San Jose, CA
-- 💰 **Salary:** $70.00/hr - $70.00/hr
+### [Software Engineer - Payment Team](https://www.linkedin.com/jobs/view/4474097391/) — Confidential
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-10-06
 
-### [AI Infrastructure Engineer](https://www.linkedin.com/jobs/view/4475105054/) — AMAX
-- 📍 **Location:** Fremont, CA
-- 💰 **Salary:** $145,000.00/yr - $170,000.00/yr
-- 🕒 **Posted:** 2026-10-06
-
-### [Platform Engineer, SDO](https://www.linkedin.com/jobs/view/4474086785/) — Wayve
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-10-06
-
-### [Software Engineer, Core Infrastructure](https://www.linkedin.com/jobs/view/4474985652/) — Radical AI
+### [Frontend Engineer, Agents](https://www.linkedin.com/jobs/view/4476365232/) — HireAlice
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-10-06
 
-### [Software Engineer, Infrastructure](https://www.linkedin.com/jobs/view/4458251192/) — Hebbia
-- 📍 **Location:** New York, NY
+### [Site Reliability Engineer](https://www.linkedin.com/jobs/view/4476367304/) — FDM Group
+- 📍 **Location:** Jersey City, NJ
 - 🕒 **Posted:** 2026-10-06
 
-### [Software Engineer, Fleet Management](https://www.linkedin.com/jobs/view/4474085820/) — Wayve
-- 📍 **Location:** Sunnyvale, CA
+### [Azure Cloud Engineer - W2 Contracting](https://www.linkedin.com/jobs/view/4476347998/) — Silverlink Technologies
+- 📍 **Location:** New York City Metropolitan Area
 - 🕒 **Posted:** 2026-10-06
 
-### [Software Engineer (L5) - Traffic Engineering](https://www.linkedin.com/jobs/view/4474093418/) — Netflix
-- 📍 **Location:** Los Gatos, CA
+### [Software Engineer II, Backend (Decisions Orchestration)](https://www.linkedin.com/jobs/view/4475107217/) — Affirm
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-10-06
 
-### [Embedded Software Engineer Intern](https://www.linkedin.com/jobs/view/4466548445/) — Analog Devices
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-10-06
-
-### [Software Engineer](https://www.linkedin.com/jobs/view/4465931031/) — TBG | The Bachrach Group
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-10-06
-
-### [Site Reliability Engineer, Vehicle Software](https://www.linkedin.com/jobs/view/4474085815/) — Wayve
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-10-06
-
-### [Cloud Engineer](https://www.linkedin.com/jobs/view/4474995443/) — Oliver James
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-10-06
-
-### [Software Engineer III, AI/ML, Search Ads Bidding](https://www.linkedin.com/jobs/view/4476342895/) — Openbound
-- 📍 **Location:** Mountain View, CA
+### [Bioinformatician II - Tisch Cancer Institute BiNGS CORE (Multiple Openings)](https://www.linkedin.com/jobs/view/4428887153/) — Icahn School of Medicine at Mount Sinai
+- 📍 **Location:** New York City Metropolitan Area
+- 💰 **Salary:** $65,885.00/yr - $100,000.00/yr
 - 🕒 **Posted:** 2026-10-06
