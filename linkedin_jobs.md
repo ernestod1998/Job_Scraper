@@ -1,96 +1,68 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-10-06 15:19 UTC*
+*Last updated: 2026-10-06 16:19 UTC*
 
-**22 new role(s)** since last run · 22 total in last 1h
+**15 new role(s)** since last run · 33 total in last 1h
 
-### [Machine Learning Engineer, Monetization Engineering](https://www.linkedin.com/jobs/view/3981027173/) — Pinterest
-- 📍 **Location:** Palo Alto, CA
+### [Machine Learning Engineer](https://www.linkedin.com/jobs/view/4452853940/) — Molex
+- 📍 **Location:** Fremont, CA
 - 🕒 **Posted:** 2026-10-06
 
-### [ML Infrastructure Engineer](https://www.linkedin.com/jobs/view/4476305958/) — Harrison Clarke
-- 📍 **Location:** San Francisco Bay Area
+### [Research Engineer - Meta Superintelligence Labs](https://www.linkedin.com/jobs/view/4474091018/) — Meta
+- 📍 **Location:** Menlo Park, CA
+- 💰 **Salary:** $183,997.00/yr - $257,000.00/yr
 - 🕒 **Posted:** 2026-10-06
 
-### [Software Engineer](https://www.linkedin.com/jobs/view/4474066793/) — Acceler8 Talent
-- 📍 **Location:** San Francisco Bay Area
+### [Machine Learning Engineer Intern, BS/MS - Summer 2027](https://www.linkedin.com/jobs/view/4474080408/) — Marvell Technology
+- 📍 **Location:** Santa Clara, CA
 - 🕒 **Posted:** 2026-10-06
 
-### [Full Stack Engineer, Builder Experience](https://www.linkedin.com/jobs/view/4476317334/) — Stripe
-- 📍 **Location:** San Francisco, CA
+### [Full-Stack Engineer, CX & Safety Tooling and Automation](https://www.linkedin.com/jobs/view/4476332276/) — MrBeast
+- 📍 **Location:** San Mateo, CA
 - 🕒 **Posted:** 2026-10-06
 
-### [Robotics Software Engineer](https://www.linkedin.com/jobs/view/4474076238/) — OpenArc, LLC.
-- 📍 **Location:** Belmont, CA
+### [Software Engineer, Growth Infrastructure](https://www.linkedin.com/jobs/view/4411243159/) — Replit
+- 📍 **Location:** Foster City, CA
+- 💰 **Salary:** $180,000.00/yr - $290,000.00/yr
 - 🕒 **Posted:** 2026-10-06
 
-### [Software Engineer - Investment Systems](https://www.linkedin.com/jobs/view/4446603019/) — KKR
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-10-06
-
-### [Software Engineer](https://www.linkedin.com/jobs/view/4474086108/) — Acceler8 Talent
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-10-06
-
-### [Software Engineer](https://www.linkedin.com/jobs/view/4476319668/) — Expo Experts
-- 📍 **Location:** New York City Metropolitan Area
-- 🕒 **Posted:** 2026-10-06
-
-### [Data Science Analyst](https://www.linkedin.com/jobs/view/4468660697/) — TheGuarantors
+### [Associate, Software Developer - Fixed Income Technology (NY Repo, Python)](https://www.linkedin.com/jobs/view/4458527742/) — Jefferies
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-10-06
 
-### [Junior Data Scientist](https://www.linkedin.com/jobs/view/4471111737/) — Mindlance
-- 📍 **Location:** Cupertino, CA
-- 💰 **Salary:** $30.00/hr - $35.00/hr
-- 🕒 **Posted:** 2026-10-06
-
-### [Software Developer](https://www.linkedin.com/jobs/view/4474076375/) — Mitchell Martin Inc.
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $34.00/hr - $44.00/hr
-- 🕒 **Posted:** 2026-10-06
-
-### [Software Engineer III (Java Full Stack)](https://www.linkedin.com/jobs/view/4476313634/) — JPMorganChase
-- 📍 **Location:** Jersey City, NJ
-- 💰 **Salary:** $137,750.00/yr - $185,000.00/yr
-- 🕒 **Posted:** 2026-10-06
-
-### [Software Engineer Intern (Summer 2027)](https://www.linkedin.com/jobs/view/4466134044/) — Figma
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-10-06
-
-### [DevOps Team Leader](https://www.linkedin.com/jobs/view/4474972294/) — Cellebrite
+### [Software Engineer, Business Technology](https://www.linkedin.com/jobs/view/4457199721/) — Anthropic
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-10-06
 
-### [Site Reliability Engineer](https://www.linkedin.com/jobs/view/4474980113/) — Cellebrite
+### [Machine Learning Engineer](https://www.linkedin.com/jobs/view/4476334038/) — James Search Group
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $135,000.00/yr - $175,000.00/yr
+- 🕒 **Posted:** 2026-10-06
+
+### [Artificial Intelligence / Machine Learning Engineer - Associate](https://www.linkedin.com/jobs/view/4476316761/) — iCapital
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-10-06
 
-### [Backend Engineer](https://www.linkedin.com/jobs/view/4296093604/) — Wealthfront
-- 📍 **Location:** Palo Alto, CA
+### [Machine Learning Research Engineer](https://www.linkedin.com/jobs/view/4472300811/) — Fintal Partners
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $500,000.00/yr - $1,500,000.00/yr
 - 🕒 **Posted:** 2026-10-06
 
-### [Software Engineer, Developer Platform](https://www.linkedin.com/jobs/view/4458232149/) — Notion
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-10-06
-
-### [Software Engineer - Renter Experience](https://www.linkedin.com/jobs/view/4438260516/) — TheGuarantors
+### [Seniors Azure DevOps Architect (remote)](https://www.linkedin.com/jobs/view/4476314948/) — Donnelly & Moore Corporation
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-10-06
 
-### [Software Developer - Swaps Platform (Corporate Actions)](https://www.linkedin.com/jobs/view/4431362485/) — Jefferies
-- 📍 **Location:** New York, NY
+### [Software Engineer](https://www.linkedin.com/jobs/view/4474978479/) — AceStack
+- 📍 **Location:** Sunnyvale, CA
 - 🕒 **Posted:** 2026-10-06
 
-### [Software Engineering Intern - Summer 2027](https://www.linkedin.com/jobs/view/4465280022/) — Superhuman
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $50.00/hr - $50.00/hr
+### [Software Engineer](https://www.linkedin.com/jobs/view/4476316989/) — Programming.com
+- 📍 **Location:** San Carlos, CA
 - 🕒 **Posted:** 2026-10-06
 
-### [IT Systems Engineer, Mobile Client Platform Engineer](https://www.linkedin.com/jobs/view/4457414507/) — Anthropic
-- 📍 **Location:** New York, NY
+### [Software Engineer - Build & Release](https://www.linkedin.com/jobs/view/4365251001/) — Xona
+- 📍 **Location:** Burlingame, CA
 - 🕒 **Posted:** 2026-10-06
 
-### [Advanced Software Engineer - PeopleSoft](https://www.linkedin.com/jobs/view/4379471087/) — Metropolitan Transportation Authority
-- 📍 **Location:** New York, NY
+### [IT Infrastructure Engineer](https://www.linkedin.com/jobs/view/4424205699/) — Cypress HCM
+- 📍 **Location:** Redwood City, CA
 - 🕒 **Posted:** 2026-10-06
