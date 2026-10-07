@@ -1,61 +1,70 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-10-07 17:19 UTC*
+*Last updated: 2026-10-07 18:19 UTC*
 
-**13 new role(s)** since last run · 43 total in last 1h
+**16 new role(s)** since last run · 19 total in last 1h
 
-### [Research Engineer](https://www.linkedin.com/jobs/view/4475462311/) — Fonzi AI
-- 📍 **Location:** New York City Metropolitan Area
+### [Machine Learning Engineer, GAI Search Platform - Moveworks](https://www.linkedin.com/jobs/view/4411693179/) — ServiceNow
+- 📍 **Location:** Mountain View, CA
 - 🕒 **Posted:** 2026-10-07
 
-### [Software Engineer, Data Platform](https://www.linkedin.com/jobs/view/4475458833/) — Mind Robotics
-- 📍 **Location:** Palo Alto, CA
+### [Entry Level Software Engineer - Computer Vision](https://www.linkedin.com/jobs/view/4476398783/) — Trinzic
+- 📍 **Location:** Mountain View, CA
 - 🕒 **Posted:** 2026-10-07
 
-### [Data Infrastructure Engineer](https://www.linkedin.com/jobs/view/4475469352/) — Mind Robotics
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-10-07
-
-### [Fullstack Engineer, App Platform](https://www.linkedin.com/jobs/view/4457410463/) — Whatnot
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $207,000.00/yr - $230,000.00/yr
-- 🕒 **Posted:** 2026-10-07
-
-### [C++ Software Developer](https://www.linkedin.com/jobs/view/4474452799/) — ColJob
-- 📍 **Location:** New York City Metropolitan Area
-- 💰 **Salary:** $200,000.00/yr - $300,000.00/yr
-- 🕒 **Posted:** 2026-10-07
-
-### [Software Engineer](https://www.linkedin.com/jobs/view/4448251427/) — Cantor Fitzgerald
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-10-07
-
-### [C++ Software Engineer](https://www.linkedin.com/jobs/view/4475466228/) — Fintal Partners
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $300,000.00/yr - $1,000,000.00/yr
-- 🕒 **Posted:** 2026-10-07
-
-### [iOS Engineer](https://www.linkedin.com/jobs/view/4475452748/) — Wealthfront
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-10-07
-
-### [DevOps Architect](https://www.linkedin.com/jobs/view/4476786255/) — Aneka Talent Solutions
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $65.00/hr - $69.00/hr
-- 🕒 **Posted:** 2026-10-07
-
-### [Frontend Engineer](https://www.linkedin.com/jobs/view/4475451749/) — Fonzi AI
-- 📍 **Location:** New York City Metropolitan Area
-- 🕒 **Posted:** 2026-10-07
-
-### [Full Stack Engineer](https://www.linkedin.com/jobs/view/4476768992/) — Blaze Talent
-- 📍 **Location:** New York City Metropolitan Area
-- 💰 **Salary:** $200,000.00/yr - $240,000.00/yr
-- 🕒 **Posted:** 2026-10-07
-
-### [Software Engineer, Trading Product](https://www.linkedin.com/jobs/view/4446245617/) — Aptos Labs
+### [Machine Learning Infrastructure Engineer](https://www.linkedin.com/jobs/view/4467780700/) — Cognizant
 - 📍 **Location:** San Francisco Bay Area
 - 🕒 **Posted:** 2026-10-07
 
-### [Software Engineer, Edge & Field Systems](https://www.linkedin.com/jobs/view/4475468409/) — Mind Robotics
+### [Jr. Software Engineer - AI & Prompt Engineering (Contract to Perm)](https://www.linkedin.com/jobs/view/4465839527/) — Locality
+- 📍 **Location:** New York City Metropolitan Area
+- 🕒 **Posted:** 2026-10-07
+
+### [Robotics Software Engineer, Fauna](https://www.linkedin.com/jobs/view/4476796434/) — Amazon
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-10-07
+
+### [Software Engineer, Full Stack, Level 4](https://www.linkedin.com/jobs/view/4476905036/) — Snap Inc.
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-10-07
+
+### [Software Engineer, Full Stack, Level 4](https://www.linkedin.com/jobs/view/4476791654/) — Snap Inc.
 - 📍 **Location:** Palo Alto, CA
+- 🕒 **Posted:** 2026-10-07
+
+### [Full Stack Engineer](https://www.linkedin.com/jobs/view/4474459883/) — Rise Technical
+- 📍 **Location:** San Francisco Bay Area
+- 💰 **Salary:** $150,000.00/yr - $200,000.00/yr
+- 🕒 **Posted:** 2026-10-07
+
+### [IT Infrastructure Engineer](https://www.linkedin.com/jobs/view/4466585474/) — Tanium
+- 📍 **Location:** Emeryville, CA
+- 🕒 **Posted:** 2026-10-07
+
+### [Software Engineer, Full Stack, Level 4](https://www.linkedin.com/jobs/view/4476792517/) — Snap Inc.
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-10-07
+
+### [Software Engineer 3, Commerce](https://www.linkedin.com/jobs/view/4466817106/) — Condé Nast
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-10-07
+
+### [Software Engineer](https://www.linkedin.com/jobs/view/4476758623/) — High-Priority Jobs Directory - CyOpsPath
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-10-07
+
+### [Infrastructure Engineer](https://www.linkedin.com/jobs/view/4474476049/) — Atlas Search
+- 📍 **Location:** New York City Metropolitan Area
+- 💰 **Salary:** $150,000.00/yr - $170,000.00/yr
+- 🕒 **Posted:** 2026-10-07
+
+### [DevOps Engineer](https://www.linkedin.com/jobs/view/4475459775/) — Mind Robotics
+- 📍 **Location:** Palo Alto, CA
+- 🕒 **Posted:** 2026-10-07
+
+### [Machine Learning Infrastructure Engineer, Recommendations and Search](https://www.linkedin.com/jobs/view/4476796132/) — TikTok USDS Joint Venture
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-10-07
+
+### [Software Engineer (Integrated System Test, Sunnyvale)](https://www.linkedin.com/jobs/view/4476793612/) — Openbound
+- 📍 **Location:** Sunnyvale, CA
 - 🕒 **Posted:** 2026-10-07
