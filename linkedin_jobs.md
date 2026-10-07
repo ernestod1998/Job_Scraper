@@ -1,48 +1,60 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-10-07 01:17 UTC*
+*Last updated: 2026-10-07 02:18 UTC*
 
-**10 new role(s)** since last run · 11 total in last 1h
+**13 new role(s)** since last run · 24 total in last 1h
 
-### [ML Engineer, LLM's](https://www.linkedin.com/jobs/view/4475134756/) — Knowtex
+### [Software Engineer III, AI/ML GenAI, Google Cloud](https://www.linkedin.com/jobs/view/4475140645/) — Google
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-10-06
+
+### [Software Engineer III, AI/ML, Google Cloud Platforms](https://www.linkedin.com/jobs/view/4475147350/) — Google
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-10-06
+
+### [Platform Engineer, Data](https://www.linkedin.com/jobs/view/4476524541/) — Modular, a Qualcomm company
+- 📍 **Location:** Los Altos, CA
+- 🕒 **Posted:** 2026-10-06
+
+### [Fullstack Software Engineer](https://www.linkedin.com/jobs/view/4475139608/) — Forage
 - 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $200,000.00/yr - $300,000.00/yr
+- 💰 **Salary:** $145,000.00/yr - $195,000.00/yr
 - 🕒 **Posted:** 2026-10-06
 
-### [Software Engineer- AI/ML, Amazon Neuron Training](https://www.linkedin.com/jobs/view/4476523420/) — Jobverse.io
-- 📍 **Location:** Cupertino, CA
+### [Software Engineer](https://www.linkedin.com/jobs/view/4475143556/) — HireLogic
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $165,000.00/yr - $290,000.00/yr
 - 🕒 **Posted:** 2026-10-06
 
-### [Software Engineer](https://www.linkedin.com/jobs/view/4475136708/) — Haystack
-- 📍 **Location:** San Jose, CA
+### [Forward Deployed Software Engineer](https://www.linkedin.com/jobs/view/4476528560/) — Encord
+- 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-10-06
 
-### [Software Engineer - Internal Operations and Tools](https://www.linkedin.com/jobs/view/4474417585/) — Confidential
+### [Software Engineering Intern (Summer 2027)](https://www.linkedin.com/jobs/view/4476525612/) — Sigma
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-10-06
+
+### [Software Engineer, AI Integrations](https://www.linkedin.com/jobs/view/4476533364/) — Athelas
+- 📍 **Location:** Mountain View, CA
+- 💰 **Salary:** $130,000.00/yr - $190,000.00/yr
+- 🕒 **Posted:** 2026-10-06
+
+### [Software Engineer - Market Intelligence](https://www.linkedin.com/jobs/view/4476535330/) — Patch
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $170,000.00/yr - $220,000.00/yr
+- 🕒 **Posted:** 2026-10-06
+
+### [Forward Deployed Software Engineer](https://www.linkedin.com/jobs/view/4476531483/) — Encord
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-10-06
 
-### [AI Platform / ML Engineer](https://www.linkedin.com/jobs/view/4475131975/) — Greymatter Innovationz
-- 📍 **Location:** New York City Metropolitan Area
+### [AI Software Engineer](https://www.linkedin.com/jobs/view/4476539259/) — ShiftLabs
+- 📍 **Location:** San Francisco Bay Area
 - 🕒 **Posted:** 2026-10-06
 
-### [Backend Developer - Data Annotation Systems](https://www.linkedin.com/jobs/view/4476512986/) — Alignerr
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $50.00/hr - $75.00/hr
+### [ML Engineer, LLM's](https://www.linkedin.com/jobs/view/4476540183/) — Knowtex
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-10-06
 
-### [C# Infrastructure Engineer - Data Pipelines](https://www.linkedin.com/jobs/view/4476520492/) — Alignerr
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-10-06
-
-### [Data Scientist (Masters)](https://www.linkedin.com/jobs/view/4476533000/) — Alignerr
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $40.00/hr - $80.00/hr
-- 🕒 **Posted:** 2026-10-06
-
-### [Backend Developer - AI Data Services](https://www.linkedin.com/jobs/view/4476514874/) — Alignerr
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $50.00/hr - $75.00/hr
-- 🕒 **Posted:** 2026-10-06
-
-### [C++ Backend Engineer - AI Data Platforms](https://www.linkedin.com/jobs/view/4476525404/) — Alignerr
-- 📍 **Location:** New York, NY
+### [Software Engineering Intern (Summer 2027)](https://www.linkedin.com/jobs/view/4476523702/) — Sigma
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-10-06
