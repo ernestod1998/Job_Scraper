@@ -1,12 +1,8 @@
 # 🧬 Biotech LinkedIn — MLE / DS Roles
-*Last updated: 2026-10-06 10:27 UTC*
+*Last updated: 2026-10-07 10:19 UTC*
 
-**2 new role(s)** since last run · 46 total in last 24h
+**1 new role(s)** since last run · 44 total in last 24h
 
-### [Machine Learning Engineer, Infra, AI for Drug Discovery](https://www.linkedin.com/jobs/view/4447583143/) — Genentech
-- 📍 **Location:** South San Francisco, CA
-- 🕒 **Posted:** 2026-10-05
-
-### [Data Scientist](https://www.linkedin.com/jobs/view/4473666476/) — Bristol Myers Squibb
-- 📍 **Location:** San Diego, CA
-- 🕒 **Posted:** 2026-10-05
+### [Research Engineer, AI](https://job-boards.greenhouse.io/biohub/jobs/7793665) — Chan Zuckerberg Biohub
+- 📍 **Location:** Redwood City, CA (Hybrid)
+- 🕒 **Posted:** 2026-09-29
