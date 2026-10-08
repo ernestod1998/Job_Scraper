@@ -1,52 +1,56 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-10-08 22:18 UTC*
+*Last updated: 2026-10-08 23:18 UTC*
 
-**12 new role(s)** since last run · 15 total in last 1h
+**12 new role(s)** since last run · 13 total in last 1h
 
-### [Machine Learning Engineer Graduate (E-Commerce User Growth) - 2027 Start (PhD)](https://www.linkedin.com/jobs/view/4476206567/) — TikTok
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-10-08
-
-### [Software Engineer](https://www.linkedin.com/jobs/view/4475998869/) — xLight Inc.
-- 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-10-08
-
-### [Software Engineer, Marketplace Logistic](https://www.linkedin.com/jobs/view/4454914163/) — Waymo
+### [Machine Learning Engineer 2, Business Platform](https://www.linkedin.com/jobs/view/4477490162/) — Intuit
 - 📍 **Location:** Mountain View, CA
 - 🕒 **Posted:** 2026-10-08
 
-### [Platform / DevOps Engineer(USC only)](https://www.linkedin.com/jobs/view/4477462916/) — Programming.com
-- 📍 **Location:** San Jose, CA
+### [Research Engineer, Post-Training](https://www.linkedin.com/jobs/view/4455714605/) — Vizcom
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-10-08
 
-### [Software Engineer | Early Careers, 2027 Start](https://www.linkedin.com/jobs/view/4474840946/) — Arch
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-10-08
-
-### [Software Engineer - Platform Services](https://www.linkedin.com/jobs/view/4474855330/) — Nokia
+### [Applied Scientist, Amazon Robotics](https://www.linkedin.com/jobs/view/4474862305/) — Amazon Science
 - 📍 **Location:** Sunnyvale, CA
 - 🕒 **Posted:** 2026-10-08
 
-### [Software Engineer](https://www.linkedin.com/jobs/view/4474837974/) — NetApp
+### [Computational Biologist, Contractor/Consultant](https://www.linkedin.com/jobs/view/4476216517/) — Preventive
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-10-08
+
+### [Inference Software Engineer](https://www.linkedin.com/jobs/view/4385399158/) — Etched
+- 📍 **Location:** San Jose, CA
+- 💰 **Salary:** $175,000.00/yr - $275,000.00/yr
+- 🕒 **Posted:** 2026-10-08
+
+### [Infrastructure Software Engineer](https://www.linkedin.com/jobs/view/4385391706/) — Etched
+- 📍 **Location:** San Jose, CA
+- 💰 **Salary:** $150,000.00/yr - $250,000.00/yr
+- 🕒 **Posted:** 2026-10-08
+
+### [Associate Site Reliability Engineer/Site Reliability Engineer](https://www.linkedin.com/jobs/view/4474859533/) — C3 AI
+- 📍 **Location:** Redwood City, CA
+- 🕒 **Posted:** 2026-10-08
+
+### [Infrastructure / Cloud Engineer](https://www.linkedin.com/jobs/view/4476218387/) — Bayside Solutions
+- 📍 **Location:** Cupertino, CA
+- 💰 **Salary:** $75.00/hr - $85.00/hr
+- 🕒 **Posted:** 2026-10-08
+
+### [Software Engineer II - Core Infrastructure](https://www.linkedin.com/jobs/view/4474865286/) — Poshmark
+- 📍 **Location:** Redwood City, CA
+- 🕒 **Posted:** 2026-10-08
+
+### [Embedded Linux / Bare Metal Software Engineer](https://www.linkedin.com/jobs/view/4477469826/) — Infobahn Softworld Inc
 - 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-10-08
 
-### [Frontend Developer](https://www.linkedin.com/jobs/view/4476214072/) — TSR Consulting
-- 📍 **Location:** Rutherford, NJ
+### [Embedded Software Engineer](https://www.linkedin.com/jobs/view/4464597607/) — Dinan & Associates Technical Recruiting
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $200,000.00/yr - $230,000.00/yr
 - 🕒 **Posted:** 2026-10-08
 
-### [Software Engineer](https://www.linkedin.com/jobs/view/4477472564/) — Cisco
-- 📍 **Location:** Milpitas, CA
-- 🕒 **Posted:** 2026-10-08
-
-### [Backend Engineer](https://www.linkedin.com/jobs/view/4477471712/) — MeeBoss
-- 📍 **Location:** Brooklyn, NY
-- 🕒 **Posted:** 2026-10-08
-
-### [AI/ML Computational Biologist - Postdoctoral Researcher](https://www.linkedin.com/jobs/view/4477471699/) — Lawrence Livermore National Laboratory
-- 📍 **Location:** Livermore, CA
-- 🕒 **Posted:** 2026-10-08
-
-### [Software Engineer in Test](https://www.linkedin.com/jobs/view/4477481150/) — MeeBoss
-- 📍 **Location:** Fremont, CA
+### [Java Software Engineer (W2 only)](https://www.linkedin.com/jobs/view/4468269863/) — Flexton Inc.
+- 📍 **Location:** Sunnyvale, CA
 - 🕒 **Posted:** 2026-10-08
