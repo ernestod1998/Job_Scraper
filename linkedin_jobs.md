@@ -1,165 +1,109 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-10-08 16:20 UTC*
+*Last updated: 2026-10-08 17:19 UTC*
 
-**38 new role(s)** since last run · 39 total in last 1h
+**25 new role(s)** since last run · 63 total in last 1h
 
-### [ML Research Engineer](https://www.linkedin.com/jobs/view/4471142111/) — kadence
+### [ML Engineer](https://www.linkedin.com/jobs/view/4475983302/) — Fonzi AI
 - 📍 **Location:** San Francisco Bay Area
 - 🕒 **Posted:** 2026-10-08
 
-### [Software Engineer, Marketplace Logistic](https://www.linkedin.com/jobs/view/4454914163/) — Waymo
-- 📍 **Location:** Mountain View, CA
-- 🕒 **Posted:** 2026-10-08
-
-### [ML Infrastructure Engineer](https://www.linkedin.com/jobs/view/4349692925/) — Gridware
-- 📍 **Location:** San Francisco Bay Area
-- 💰 **Salary:** $190,000.00/yr - $250,000.00/yr
-- 🕒 **Posted:** 2026-10-08
-
-### [Software Engineer](https://www.linkedin.com/jobs/view/4477403540/) — Raydar
+### [Machine Learning Engineer](https://www.linkedin.com/jobs/view/4477404937/) — SPECTRAFORCE
 - 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $200,000.00/yr - $350,000.00/yr
-- 🕒 **Posted:** 2026-10-08
-
-### [Software Engineer, Tokens and Prompt Structures](https://www.linkedin.com/jobs/view/4467110558/) — Anthropic
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-10-08
-
-### [Machine Learning Engineer, Customer Engineering](https://www.linkedin.com/jobs/view/4419207847/) — Anyscale
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-10-08
-
-### [Platform Engineer](https://www.linkedin.com/jobs/view/4477199742/) — Nxt Level
-- 📍 **Location:** San Francisco Bay Area
-- 💰 **Salary:** $250,000.00/yr - $310,000.00/yr
-- 🕒 **Posted:** 2026-10-08
-
-### [Software Engineer, HW/SW Co-Design](https://www.linkedin.com/jobs/view/4474826507/) — Meta
-- 📍 **Location:** Menlo Park, CA
-- 💰 **Salary:** $154,003.00/yr - $217,000.00/yr
-- 🕒 **Posted:** 2026-10-08
-
-### [Applied Deep Learning PhD Research Intern, Reinforcement Learning for LLMs - Fall 2026](https://www.linkedin.com/jobs/view/4410874474/) — NVIDIA
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-10-08
-
-### [Machine Learning Engineer](https://www.linkedin.com/jobs/view/4474822731/) — SoTalent
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-10-08
-
-### [Applied AI Data Scientist](https://www.linkedin.com/jobs/view/4473192491/) — Haystack
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-10-08
-
-### [Associate Data Scientist](https://www.linkedin.com/jobs/view/4477419013/) — Moody's Corporation
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-10-08
-
-### [Machine Learning Engineer (Consumer Marketing)](https://www.linkedin.com/jobs/view/4477401688/) — Tek Leaders Inc
-- 📍 **Location:** Parsippany, NJ
-- 🕒 **Posted:** 2026-10-08
-
-### [Agent Platform Engineer](https://www.linkedin.com/jobs/view/4474837158/) — Cavendish Professionals
-- 📍 **Location:** New York City Metropolitan Area
-- 🕒 **Posted:** 2026-10-08
-
-### [Software Engineer, HW/SW Co-Design](https://www.linkedin.com/jobs/view/4474830424/) — Meta
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $154,003.00/yr - $217,000.00/yr
-- 🕒 **Posted:** 2026-10-08
-
-### [2027 Summer Intern – Autonomous Driving Software Engineer (Bachelor's & Master's)](https://www.linkedin.com/jobs/view/4477418054/) — General Motors
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-10-08
-
-### [AI/ML Engineer (Computer Vision)](https://www.linkedin.com/jobs/view/4417076875/) — Blue Signal Search
-- 📍 **Location:** San Francisco Bay Area
 - 💰 **Salary:** $180,000.00/yr - $230,000.00/yr
 - 🕒 **Posted:** 2026-10-08
 
-### [Platform/DevOps Engineer](https://www.linkedin.com/jobs/view/4477197922/) — Programming.com
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-10-08
-
-### [Platform / DevOps Engineer(USC only)](https://www.linkedin.com/jobs/view/4477416254/) — Programming.com
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-10-08
-
-### [Software Engineer – OpenSearch / Elasticsearch](https://www.linkedin.com/jobs/view/4475961991/) — Programmers.io
+### [Research Engineer](https://www.linkedin.com/jobs/view/4475971700/) — Fonzi AI
 - 📍 **Location:** San Francisco Bay Area
 - 🕒 **Posted:** 2026-10-08
 
-### [Software Engineer, Data Governance](https://www.linkedin.com/jobs/view/4457298929/) — Superhuman
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $220,000.00/yr - $290,000.00/yr
-- 🕒 **Posted:** 2026-10-08
-
-### [Software Engineer - Hardware Abstraction Layer, AWS Machine Learning Accelerators](https://www.linkedin.com/jobs/view/4468622492/) — Amazon Web Services (AWS)
-- 📍 **Location:** Cupertino, CA
-- 🕒 **Posted:** 2026-10-08
-
-### [Software Engineer, Design Systems](https://www.linkedin.com/jobs/view/4457622315/) — Whatnot
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $207,000.00/yr - $230,000.00/yr
-- 🕒 **Posted:** 2026-10-08
-
-### [Full Stack Engineer with Veeva RIM](https://www.linkedin.com/jobs/view/4477403864/) — Falcon Smart IT (FalconSmartIT)
+### [[2027] Applied Scientist - PhD Intern](https://www.linkedin.com/jobs/view/4475995042/) — Roblox
 - 📍 **Location:** San Mateo, CA
 - 🕒 **Posted:** 2026-10-08
 
-### [Java Backend Developer(Coder)](https://www.linkedin.com/jobs/view/4477401667/) — K&K Global Talent Solutions INC.
-- 📍 **Location:** Mountain View, CA
+### [New College Grad Software Engineer I (Bachelors - Santa Clara, CA)](https://www.linkedin.com/jobs/view/4474845011/) — Applied Materials
+- 📍 **Location:** Santa Clara, CA
 - 🕒 **Posted:** 2026-10-08
 
-### [Backend Developer (Java & Golang)](https://www.linkedin.com/jobs/view/4474836291/) — Galent
-- 📍 **Location:** Sunnyvale, CA
+### [[2027] Data Scientist - PhD Intern](https://www.linkedin.com/jobs/view/4475979703/) — Roblox
+- 📍 **Location:** San Mateo, CA
 - 🕒 **Posted:** 2026-10-08
 
-### [Software Engineer, Design Systems](https://www.linkedin.com/jobs/view/4457619436/) — Whatnot
+### [Full Stack Engineer](https://www.linkedin.com/jobs/view/4475981350/) — Fonzi AI
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-10-08
+
+### [Backend Engineer](https://www.linkedin.com/jobs/view/4475972576/) — Fonzi AI
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-10-08
+
+### [ML Engineer](https://www.linkedin.com/jobs/view/4475973576/) — Fonzi AI
+- 📍 **Location:** New York City Metropolitan Area
+- 🕒 **Posted:** 2026-10-08
+
+### [Machine Learning Research Engineer](https://www.linkedin.com/jobs/view/4472300811/) — Fintal Partners
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $207,000.00/yr - $230,000.00/yr
+- 💰 **Salary:** $500,000.00/yr - $1,500,000.00/yr
 - 🕒 **Posted:** 2026-10-08
 
-### [Software Engineer, ML Networking](https://www.linkedin.com/jobs/view/4448909527/) — Anthropic
-- 📍 **Location:** New York, NY
+### [Research Engineer](https://www.linkedin.com/jobs/view/4475989141/) — Fonzi AI
+- 📍 **Location:** New York City Metropolitan Area
 - 🕒 **Posted:** 2026-10-08
 
-### [Android Software Engineer](https://www.linkedin.com/jobs/view/4466247329/) — InfraTech Solutions
-- 📍 **Location:** New York, NY
+### [Junior Data Scientist](https://www.linkedin.com/jobs/view/4475829110/) — COGENT Infotech
+- 📍 **Location:** White Plains, NY
 - 🕒 **Posted:** 2026-10-08
 
-### [Software Engineer III, Site Reliability Engineering](https://www.linkedin.com/jobs/view/4475988008/) — Google
-- 📍 **Location:** Sunnyvale, CA
+### [Full Stack Engineer](https://www.linkedin.com/jobs/view/4475984208/) — Fonzi AI
+- 📍 **Location:** New York City Metropolitan Area
 - 🕒 **Posted:** 2026-10-08
 
-### [Software Engineer III, Site Reliability Engineering](https://www.linkedin.com/jobs/view/4475977405/) — Google
-- 📍 **Location:** San Bruno, CA
+### [Backend Engineer](https://www.linkedin.com/jobs/view/4475980412/) — Fonzi AI
+- 📍 **Location:** New York City Metropolitan Area
 - 🕒 **Posted:** 2026-10-08
 
-### [Software Engineer III, Site Reliability Engineering](https://www.linkedin.com/jobs/view/4475972513/) — Google
-- 📍 **Location:** Fremont, CA
+### [Infrastructure Engineer](https://www.linkedin.com/jobs/view/4475987170/) — Fonzi AI
+- 📍 **Location:** San Francisco Bay Area
 - 🕒 **Posted:** 2026-10-08
 
-### [Software Engineer III, Site Reliability Engineering](https://www.linkedin.com/jobs/view/4475985128/) — Google
+### [Software Engineer, Developer Infrastructure](https://www.linkedin.com/jobs/view/4467295457/) — Numeric
 - 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $125,000.00/yr - $250,000.00/yr
 - 🕒 **Posted:** 2026-10-08
 
-### [Software Engineer III, Site Reliability Engineering](https://www.linkedin.com/jobs/view/4475985126/) — Google
-- 📍 **Location:** Mountain View, CA
-- 🕒 **Posted:** 2026-10-08
-
-### [Software Engineer III, Site Reliability Engineering](https://www.linkedin.com/jobs/view/4475980351/) — Google
+### [Platform / DevOps Engineer](https://www.linkedin.com/jobs/view/4477413771/) — Programming.com
 - 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-10-08
 
-### [Computational Biologist, DeepMind](https://www.linkedin.com/jobs/view/4475977407/) — Google DeepMind
+### [Infrastructure Engineer](https://www.linkedin.com/jobs/view/4475980399/) — Fonzi AI
+- 📍 **Location:** New York City Metropolitan Area
+- 🕒 **Posted:** 2026-10-08
+
+### [Software Engineer, Developer Infrastructure](https://www.linkedin.com/jobs/view/4467290607/) — Numeric
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $125,000.00/yr - $250,000.00/yr
+- 🕒 **Posted:** 2026-10-08
+
+### [Murex DevOps](https://www.linkedin.com/jobs/view/4477423464/) — Luxoft
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-10-08
+
+### [Software Engineer – Space Systems](https://www.linkedin.com/jobs/view/4422689167/) — Xona
+- 📍 **Location:** Burlingame, CA
+- 🕒 **Posted:** 2026-10-08
+
+### [Embedded Software Engineer](https://www.linkedin.com/jobs/view/4475969827/) — ATR International
+- 📍 **Location:** Santa Clara County, CA
+- 💰 **Salary:** $130,000.00/yr - $190,000.00/yr
+- 🕒 **Posted:** 2026-10-08
+
+### [Full Stack Engineer with Veeva RIM](https://www.linkedin.com/jobs/view/4475989292/) — Falcon Smart IT (FalconSmartIT)
+- 📍 **Location:** Foster City, CA
+- 🕒 **Posted:** 2026-10-08
+
+### [OpenSource MTV - AI & Platform Engineering Developer Meetup - Fall 2026](https://www.linkedin.com/jobs/view/4477415532/) — Intuit
 - 📍 **Location:** Mountain View, CA
 - 🕒 **Posted:** 2026-10-08
 
-### [Data Scientist, Strategic Insights & Analytics](https://www.linkedin.com/jobs/view/4475971526/) — 10x Genomics
-- 📍 **Location:** Pleasanton, CA
-- 🕒 **Posted:** 2026-10-08
-
-### [Computational Biologist, DeepMind](https://www.linkedin.com/jobs/view/4475978376/) — Google DeepMind
-- 📍 **Location:** New York, NY
+### [Software Engineer I, Network](https://www.linkedin.com/jobs/view/4456466179/) — Crusoe
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-10-08
