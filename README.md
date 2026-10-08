@@ -10,6 +10,9 @@ Sweeps curated/discovered company boards through their direct ATS endpoints and 
 The LinkedIn supplement also runs a biotech-heavy long-tail sweep across the Bay
 Area, NYC, Boston, San Diego, Los Angeles, Seattle, and Research Triangle. Its
 queries include research engineering, machine-learning scientist, computational
+biology ML scientist, scientific machine learning engineer, research software
+engineer in life sciences, biomedical imaging ML engineer, applied ML scientist
+for scientific data, ML infrastructure engineer in biotech, computational
 science/chemistry/toxicology, drug metabolism, DMPK, ADMET, QSAR, and medical
 imaging titles. The company allowlist and normal role/seniority filters still
 apply, so this expands discovery without reopening the generic AI-title lane.

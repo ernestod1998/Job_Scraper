@@ -30,6 +30,22 @@ def role(url="https://example.com/job/1", **overrides):
 
 
 class RoleAndLocationPolicy(unittest.TestCase):
+    def test_scientific_ml_targets_pass_role_filter_and_are_searched(self):
+        titles = (
+            "Scientific Machine Learning Engineer",
+            "Research Software Engineer, Life Sciences",
+            "Biomedical Imaging ML Engineer",
+            "Applied ML Scientist, scientific data",
+            "ML Infrastructure Engineer, biotech",
+            "Computational Biology ML Scientist",
+        )
+        searches = {term.lower() for term in sj.BIOTECH_SPECIALTY_SEARCH_TERMS}
+        for title in titles:
+            with self.subTest(title=title):
+                self.assertTrue(sj.is_mle_role(title))
+                self.assertIn(title.replace(",", "").lower(), searches)
+                self.assertFalse(sj.is_mle_role("Senior " + title))
+
     def test_biotech_company_matching_is_exact_not_substring_based(self):
         self.assertFalse(sj._is_biotech_company("Meta"))
         self.assertFalse(sj._is_biotech_company("Meta Platforms, Inc."))

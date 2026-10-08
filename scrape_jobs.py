@@ -1139,6 +1139,12 @@ LINKEDIN_SEARCH_TERMS = [
 BIOTECH_SPECIALTY_SEARCH_TERMS = [
     # Daily long-tail sweep. These phrases are intentionally biotech/research
     # weighted rather than reopening the noisy generic "AI engineer" lane.
+    "scientific machine learning engineer",
+    "research software engineer life sciences",
+    "biomedical imaging ML engineer",
+    "applied ML scientist scientific data",
+    "ML infrastructure engineer biotech",
+    "computational biology ML scientist",
     "research engineer",
     "machine learning scientist",
     "computational scientist",
