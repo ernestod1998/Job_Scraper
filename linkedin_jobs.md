@@ -1,56 +1,51 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-10-08 23:18 UTC*
+*Last updated: 2026-10-09 00:18 UTC*
 
-**12 new role(s)** since last run · 13 total in last 1h
+**11 new role(s)** since last run · 23 total in last 1h
 
-### [Machine Learning Engineer 2, Business Platform](https://www.linkedin.com/jobs/view/4477490162/) — Intuit
-- 📍 **Location:** Mountain View, CA
-- 🕒 **Posted:** 2026-10-08
-
-### [Research Engineer, Post-Training](https://www.linkedin.com/jobs/view/4455714605/) — Vizcom
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-10-08
-
-### [Applied Scientist, Amazon Robotics](https://www.linkedin.com/jobs/view/4474862305/) — Amazon Science
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-10-08
-
-### [Computational Biologist, Contractor/Consultant](https://www.linkedin.com/jobs/view/4476216517/) — Preventive
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-10-08
-
-### [Inference Software Engineer](https://www.linkedin.com/jobs/view/4385399158/) — Etched
-- 📍 **Location:** San Jose, CA
-- 💰 **Salary:** $175,000.00/yr - $275,000.00/yr
-- 🕒 **Posted:** 2026-10-08
-
-### [Infrastructure Software Engineer](https://www.linkedin.com/jobs/view/4385391706/) — Etched
-- 📍 **Location:** San Jose, CA
-- 💰 **Salary:** $150,000.00/yr - $250,000.00/yr
-- 🕒 **Posted:** 2026-10-08
-
-### [Associate Site Reliability Engineer/Site Reliability Engineer](https://www.linkedin.com/jobs/view/4474859533/) — C3 AI
-- 📍 **Location:** Redwood City, CA
-- 🕒 **Posted:** 2026-10-08
-
-### [Infrastructure / Cloud Engineer](https://www.linkedin.com/jobs/view/4476218387/) — Bayside Solutions
+### [Applied Scientist, Machine Learning Accelerator - Annapurna Labs](https://www.linkedin.com/jobs/view/4477600118/) — Amazon
 - 📍 **Location:** Cupertino, CA
-- 💰 **Salary:** $75.00/hr - $85.00/hr
 - 🕒 **Posted:** 2026-10-08
 
-### [Software Engineer II - Core Infrastructure](https://www.linkedin.com/jobs/view/4474865286/) — Poshmark
+### [Software Engineer, Backend, Level 4](https://www.linkedin.com/jobs/view/4477482791/) — Snap Inc.
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-10-08
+
+### [Software Engineer, Backend, Level 4](https://www.linkedin.com/jobs/view/4477483754/) — Snap Inc.
+- 📍 **Location:** Palo Alto, CA
+- 🕒 **Posted:** 2026-10-08
+
+### [Software Engineer, Backend, Level 4](https://www.linkedin.com/jobs/view/4477495346/) — Snap Inc.
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-10-08
+
+### [Backend Software Engineer, TypeScript / Node.js](https://www.linkedin.com/jobs/view/4474868215/) — Jobot
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $185,000.00/yr - $225,000.00/yr
+- 🕒 **Posted:** 2026-10-08
+
+### [Join Our Talent Network - Robotics Software Engineer, Robot Math](https://www.linkedin.com/jobs/view/4477490427/) — Dexterity, Inc.
 - 📍 **Location:** Redwood City, CA
 - 🕒 **Posted:** 2026-10-08
 
-### [Embedded Linux / Bare Metal Software Engineer](https://www.linkedin.com/jobs/view/4477469826/) — Infobahn Softworld Inc
+### [Software Engineer, Engine Systems](https://www.linkedin.com/jobs/view/4476218972/) — Roblox
+- 📍 **Location:** San Mateo, CA
+- 🕒 **Posted:** 2026-10-08
+
+### [Join Our Talent Network - Robotics Engineer](https://www.linkedin.com/jobs/view/4477496141/) — Dexterity, Inc.
+- 📍 **Location:** Redwood City, CA
+- 🕒 **Posted:** 2026-10-08
+
+### [DevOps Engineer III](https://www.linkedin.com/jobs/view/4477497057/) — Verisk
+- 📍 **Location:** Jersey City, NJ
+- 💰 **Salary:** $110,000.00/yr - $135,000.00/yr
+- 🕒 **Posted:** 2026-10-08
+
+### [Braid Frontend Engineer](https://www.linkedin.com/jobs/view/4449769911/) — Brown Brothers Harriman
+- 📍 **Location:** Jersey City, NJ
+- 💰 **Salary:** $85,000.00/yr - $130,000.00/yr
+- 🕒 **Posted:** 2026-10-08
+
+### [Embedded Software Engineer](https://www.linkedin.com/jobs/view/4477483635/) — Trilyon, Inc.
 - 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-10-08
-
-### [Embedded Software Engineer](https://www.linkedin.com/jobs/view/4464597607/) — Dinan & Associates Technical Recruiting
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $200,000.00/yr - $230,000.00/yr
-- 🕒 **Posted:** 2026-10-08
-
-### [Java Software Engineer (W2 only)](https://www.linkedin.com/jobs/view/4468269863/) — Flexton Inc.
-- 📍 **Location:** Sunnyvale, CA
 - 🕒 **Posted:** 2026-10-08
