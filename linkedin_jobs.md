@@ -1,89 +1,108 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-10-09 15:18 UTC*
+*Last updated: 2026-10-09 16:19 UTC*
 
-**21 new role(s)** since last run · 21 total in last 1h
+**24 new role(s)** since last run · 31 total in last 1h
 
-### [MLOps Engineer](https://www.linkedin.com/jobs/view/4458012182/) — Atomic Machines
-- 📍 **Location:** Emeryville, CA
-- 🕒 **Posted:** 2026-10-09
-
-### [Infrastructure Engineer](https://www.linkedin.com/jobs/view/4464342942/) — Harrison Clarke
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $280,000.00/yr - $350,000.00/yr
-- 🕒 **Posted:** 2026-10-09
-
-### [[Summer 2027] Software Engineer Intern](https://www.linkedin.com/jobs/view/4449149254/) — Roblox
-- 📍 **Location:** San Mateo, CA
-- 🕒 **Posted:** 2026-10-09
-
-### [Software Engineer](https://www.linkedin.com/jobs/view/4476297779/) — LanceSoft, Inc.
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-10-09
-
-### [Software Engineer, Data Infrastructure](https://www.linkedin.com/jobs/view/4422341090/) — Otter.ai
-- 📍 **Location:** Mountain View, CA
-- 🕒 **Posted:** 2026-10-09
-
-### [GenAI Engineer](https://www.linkedin.com/jobs/view/4477809536/) — VBeyond Corporation
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-10-09
-
-### [Data Scientist](https://www.linkedin.com/jobs/view/4448033792/) — Deluxe
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-10-09
-
-### [Software Engineer (AWS, Python, DevOps)](https://www.linkedin.com/jobs/view/4476298739/) — Gartner
-- 📍 **Location:** Stamford, CT
-- 🕒 **Posted:** 2026-10-09
-
-### [Software Engineer, Creator](https://www.linkedin.com/jobs/view/4457994899/) — Roblox
-- 📍 **Location:** San Mateo, CA
-- 🕒 **Posted:** 2026-10-09
-
-### [Backend Engineer](https://www.linkedin.com/jobs/view/4324478525/) — Wealthfront
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-10-09
-
-### [Software Engineer, Early Career — Immediate Start](https://www.linkedin.com/jobs/view/4468875017/) — Stripe
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-10-09
-
-### [Software Engineer, Airspace Platform](https://www.linkedin.com/jobs/view/4459388972/) — Zipline
-- 📍 **Location:** South San Francisco, CA
-- 🕒 **Posted:** 2026-10-09
-
-### [Android Engineer](https://www.linkedin.com/jobs/view/4319518949/) — Wealthfront
+### [Full Stack Engineer, Back-end/Edge Development](https://www.linkedin.com/jobs/view/4477821393/) — Ford Motor Company
 - 📍 **Location:** Palo Alto, CA
 - 🕒 **Posted:** 2026-10-09
 
-### [Embedded Software Engineering Intern (Summer 2027)](https://www.linkedin.com/jobs/view/4457723859/) — Zipline
-- 📍 **Location:** South San Francisco, CA
+### [Software Engineer - Infrastructure (Technical Leadership)](https://www.linkedin.com/jobs/view/4475224938/) — Meta
+- 📍 **Location:** Menlo Park, CA
+- 💰 **Salary:** $271,000.00/yr - $347,000.00/yr
 - 🕒 **Posted:** 2026-10-09
 
-### [Software Engineer](https://www.linkedin.com/jobs/view/4476820139/) — Haystack
+### [Postdoctoral Fellow - Applied & Computational Scientists](https://www.linkedin.com/jobs/view/4463914751/) — SRI
+- 📍 **Location:** Menlo Park, CA
+- 🕒 **Posted:** 2026-10-09
+
+### [Software Engineer, Systems Machine Learning](https://www.linkedin.com/jobs/view/4475231633/) — Meta
+- 📍 **Location:** Menlo Park, CA
+- 💰 **Salary:** $121,992.00/yr - $181,000.00/yr
+- 🕒 **Posted:** 2026-10-09
+
+### [Data Scientist](https://www.linkedin.com/jobs/view/4456020468/) — AssistRx
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-10-09
+
+### [Software Engineer, Product](https://www.linkedin.com/jobs/view/4468686303/) — Sixfold
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-10-09
+
+### [Research Engineer, Chip Design RL (Reinforcement Learning)](https://www.linkedin.com/jobs/view/4439494668/) — Anthropic
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-10-09
+
+### [Software Engineer, ML Developer Experience](https://www.linkedin.com/jobs/view/4457711947/) — Anyscale
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-10-09
+
+### [Software Engineer – Satellite Modeling and Tasking](https://www.linkedin.com/jobs/view/4329385765/) — Array Labs
 - 📍 **Location:** San Francisco Bay Area
+- 💰 **Salary:** $150,000.00/yr - $300,000.00/yr
 - 🕒 **Posted:** 2026-10-09
 
-### [PeopleSoft Advanced Software Engineer](https://www.linkedin.com/jobs/view/4404240051/) — Metropolitan Transportation Authority
+### [Research Engineer, RL Engineering](https://www.linkedin.com/jobs/view/4448560442/) — Anthropic
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-10-09
+
+### [Machine Learning Engineer, Applied Research](https://www.linkedin.com/jobs/view/4467571929/) — Whatnot
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $210,000.00/yr - $300,000.00/yr
+- 🕒 **Posted:** 2026-10-09
+
+### [Research Engineer, RL Engineering](https://www.linkedin.com/jobs/view/4448572376/) — Anthropic
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-10-09
 
-### [Android Software Engineer](https://www.linkedin.com/jobs/view/4465594225/) — Objective Partners
+### [Software Engineer - Consumer Medical Testing](https://www.linkedin.com/jobs/view/4417994398/) — UL Solutions
+- 📍 **Location:** Fremont, CA
+- 🕒 **Posted:** 2026-10-09
+
+### [Site Reliability Engineer, Platform Infrastructure (Foundations)](https://www.linkedin.com/jobs/view/4427805755/) — Anyscale
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-10-09
+
+### [Infrastructure Engineer](https://www.linkedin.com/jobs/view/4477828076/) — Oriental Recruitment
+- 📍 **Location:** San Francisco Bay Area
+- 💰 **Salary:** $150,000.00/yr - $200,000.00/yr
+- 🕒 **Posted:** 2026-10-09
+
+### [Software Engineer - Infrastructure](https://www.linkedin.com/jobs/view/4476814765/) — Greylock Partners
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-10-09
+
+### [DevOps Engineering Associate (Digital Assets)](https://www.linkedin.com/jobs/view/4459894851/) — The Depository Trust & Clearing Corporation (DTCC)
+- 📍 **Location:** Jersey City, NJ
+- 🕒 **Posted:** 2026-10-09
+
+### [Embedded Linux / Bare Metal Software Engineer](https://www.linkedin.com/jobs/view/4477821525/) — Infobahn Softworld Inc
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-10-09
+
+### [Software Engineer - Build & Release](https://www.linkedin.com/jobs/view/4422685268/) — Xona
+- 📍 **Location:** Burlingame, CA
+- 🕒 **Posted:** 2026-10-09
+
+### [Java Software Engineer (W2 only)](https://www.linkedin.com/jobs/view/4468269863/) — Flexton Inc.
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-10-09
+
+### [2027 Associate Software Engineer Intern - Sophomore Only](https://www.linkedin.com/jobs/view/4475245021/) — RRS Group & Co
+- 📍 **Location:** San Francisco Bay Area
+- 💰 **Salary:** $39.75/hr - $49.50/hr
+- 🕒 **Posted:** 2026-10-09
+
+### [Software Developer - Testing Tools/Automation/Performance](https://www.linkedin.com/jobs/view/4475231756/) — Mitchell Martin Inc.
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $44.00/hr - $54.00/hr
+- 🕒 **Posted:** 2026-10-09
+
+### [Infrastructure Engineer](https://www.linkedin.com/jobs/view/4448541903/) — Orveon Global
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-10-09
 
-### [Adobe EDS Software Engineer](https://www.linkedin.com/jobs/view/4476801800/) — Avance Consulting
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-10-09
-
-### [Data Center Technician / Infrastructure Engineer-W2](https://www.linkedin.com/jobs/view/4476808438/) — Prudent Technologies and Consulting, Inc.
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-10-09
-
-### [Specialist Infrastructure Engineer - Bus Command Center - Operations Support](https://www.linkedin.com/jobs/view/4457661130/) — Metropolitan Transportation Authority
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-10-09
-
-### [Data Scientist](https://www.linkedin.com/jobs/view/4457737871/) — Picarro
-- 📍 **Location:** Santa Clara, CA
+### [Site Reliability Engineer](https://www.linkedin.com/jobs/view/4475240314/) — Mitchell Martin Inc.
+- 📍 **Location:** Jersey City, NJ
+- 💰 **Salary:** $73.00/hr - $78.00/hr
 - 🕒 **Posted:** 2026-10-09
