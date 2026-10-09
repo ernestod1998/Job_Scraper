@@ -2,6 +2,10 @@ name: Daily Resume Ranking
 on:
   workflow_dispatch:
     inputs:
+      check_only:
+        description: 'Check provider access with one synthetic request; do not rank jobs'
+        type: boolean
+        default: false
       luna:
         description: 'Maximum Luna attempts this run (daily cap 100)'
         default: '100'
@@ -40,9 +44,10 @@ jobs:
           GITHUB_TOKEN: ${{ github.token }}
           RUN_LUNA: ${{ inputs.luna }}
           RUN_SONNET: ${{ inputs.sonnet }}
+          RUN_CHECK_ONLY: ${{ inputs.check_only }}
         run: python -B daily_rankings.py
       - name: Publish sanitized rankings
-        if: always()
+        if: always() && inputs.check_only != true
         env:
           GH_TOKEN: ${{ github.token }}
         run: |

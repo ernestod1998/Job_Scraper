@@ -74,9 +74,14 @@ def reservation(policy, counted_input):
 
 class APIError(Exception):
     """Only safe categorical details; never include a URL, header, or response body."""
-    def __init__(self, kind, code=None):
+    def __init__(self, kind, code=None, provider_code=None):
         self.kind, self.code = kind, code
-        super().__init__(kind + (f"_{code}" if code else ""))
+        allowed = {'credit_balance_exhausted', 'insufficient_quota', 'invalid_api_key',
+                   'model_not_found', 'rate_limit_exceeded', 'invalid_json_schema',
+                   'unsupported_parameter', 'invalid_request_error'}
+        self.provider_code = provider_code if provider_code in allowed else None
+        super().__init__(kind + (f"_{code}" if code else "")
+                         + (':' + self.provider_code if self.provider_code else ''))
 
     @property
     def retryable(self):
@@ -95,7 +100,14 @@ def http_json(url, headers, body=None, timeout=600):
         with urllib.request.build_opener(NoRedirect).open(request, timeout=timeout) as response:
             return json.loads(response.read(8_000_000))
     except urllib.error.HTTPError as exc:
-        raise APIError("http", exc.code) from None
+        provider_code = None
+        try:
+            error = json.loads(exc.read(65536)).get('error', {})
+            if isinstance(error, dict):
+                provider_code = error.get('code') or error.get('type')
+        except (ValueError, OSError, AttributeError):
+            pass
+        raise APIError("http", exc.code, provider_code) from None
     except (socket.timeout, TimeoutError):
         raise APIError("timeout_unknown_usage") from None
     except urllib.error.URLError:

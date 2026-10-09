@@ -65,6 +65,7 @@ class Runner:
         self.context = digest({'inputs': inputs, 'system': DAILY_SYSTEM, 'version': VERSION,
                                'models': {n: POLICIES[n].model for n in LIMITS}})
         self.adapters = adapters or {n: DailyAdapter(n, os.environ) for n in LIMITS}
+        self.invalid_streak = 0
         self.state, self.sha = store.get('daily-state.json')
         self.initial = self.state is None
         self.state = self.state or {'attempts': {}, 'days': {}}
@@ -116,11 +117,21 @@ class Runner:
                 public['usage'] = adapter.usage(raw)
             except ValueError:
                 public['usage'] = None
-        except (APIError, ValueError):
+        except APIError as exc:
+            self.state['attempts'][identity]['status'] = 'invalid_or_unknown'
+            self.state['attempts'][identity]['error'] = str(exc)
+            self.checkpoint()
+            print(name + ': provider error ' + str(exc) + '; stopping run', flush=True)
+            raise
+        except ValueError:
             self.state['attempts'][identity]['status'] = 'invalid_or_unknown'
             self.checkpoint()
-            print(name + ': response unavailable or invalid; no automatic retry', flush=True)
+            self.invalid_streak += 1
+            print(name + ': response validation failed; no automatic retry', flush=True)
+            if self.invalid_streak >= 3:
+                raise RuntimeError('three_consecutive_invalid_scores') from None
             return None
+        self.invalid_streak = 0
         self.store.put(path, public)
         self.state['attempts'][identity]['status'] = 'valid'
         self.checkpoint()
@@ -230,6 +241,17 @@ def progress_publisher():
 
 
 def main():
+    if os.environ.get('RUN_CHECK_ONLY') == 'true':
+        # One synthetic request tests the actual CI key without touching job
+        # attempts, private resume inputs, ranking state, or published results.
+        adapter = DailyAdapter('luna', os.environ)
+        adapter.metadata()
+        raw = adapter.generate('Synthetic connectivity check. Return {"requirements": []}. '
+                               'There are no candidate qualifications to assess.')
+        if adapter.decode(raw) != {'requirements': []}:
+            raise RuntimeError('provider_check_invalid_response')
+        print('Luna provider check succeeded', flush=True)
+        return
     now = datetime.now(timezone.utc)
     if os.environ.get('GITHUB_EVENT_NAME') == 'schedule' and not schedule_due(now):
         return

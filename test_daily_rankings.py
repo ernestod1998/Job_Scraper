@@ -3,12 +3,16 @@ import json
 import os
 import tempfile
 import unittest
+import io
+from unittest.mock import patch
+from urllib.error import HTTPError
 from datetime import datetime, timezone, timedelta
 from types import SimpleNamespace
 
 from benchmark.core import RESUMES, scores, validate_result
 from daily_rankings import Runner, schedule_due
 from ranking.core import projection, queue, shortlist
+from benchmark.providers import APIError, http_json
 
 NOW = datetime(2026, 9, 8, 17, tzinfo=timezone.utc)
 INPUTS = {'resumes': {r: {'evidence': {r + ':1': 'PRIVATE_RESUME_CANARY'}} for r in RESUMES},
@@ -29,6 +33,19 @@ def result(status='matched'):
 
 
 class ResumeCoverageTests(unittest.TestCase):
+    def test_http_error_preserves_safe_billing_code_only(self):
+        body = json.dumps({'error': {'code': 'credit_balance_exhausted',
+                                    'message': 'PRIVATE_API_CANARY'}}).encode()
+        error = HTTPError('https://example.test', 429, 'error', {}, io.BytesIO(body))
+        with patch('benchmark.providers.urllib.request.build_opener') as opener:
+            opener.return_value.open.side_effect = error
+            with self.assertRaises(APIError) as caught:
+                http_json('https://example.test', {})
+        self.assertEqual(str(caught.exception), 'http_429:credit_balance_exhausted')
+        self.assertNotIn('PRIVATE', str(caught.exception))
+    def test_unknown_provider_code_is_not_exposed(self):
+        error = APIError('http', 400, 'PRIVATE_API_CANARY')
+        self.assertEqual(str(error), 'http_400')
     def test_six_resume_assessments_required(self):
         self.assertEqual(len(RESUMES), 6)
         self.assertIn('Research_Software_Engineer', RESUMES)
@@ -112,6 +129,24 @@ class Tests(unittest.TestCase):
         with self.assertRaises(RuntimeError):
             self.runner().score(job(), 'luna')
         self.assertEqual(self.adapter.calls, 0)
+    def test_provider_error_stops_before_more_paid_requests(self):
+        def fail(user):
+            self.adapter.calls += 1
+            raise APIError('http', 429, 'credit_balance_exhausted')
+        self.adapter.generate = fail
+        r = self.runner()
+        with self.assertRaisesRegex(APIError, 'credit_balance_exhausted'):
+            r.run([job(i) for i in range(5)], fetcher=lambda j: j)
+        self.assertEqual(self.adapter.calls, 1)
+        attempt = next(iter(self.store.data['daily-state.json']['attempts'].values()))
+        self.assertEqual(attempt['error'], 'http_429:credit_balance_exhausted')
+        self.assertEqual(r.remaining('luna'), 99)
+    def test_consecutive_invalid_responses_stop_run(self):
+        self.adapter.invalid = True
+        r = self.runner()
+        with self.assertRaisesRegex(RuntimeError, 'three_consecutive_invalid_scores'):
+            r.run([job(i) for i in range(5)], fetcher=lambda j: j)
+        self.assertEqual(self.adapter.calls, 3)
     def test_missing_evidence_does_not_trigger_cap(self):
         self.assertEqual(scores(result('not_evidenced'))['ML'], 0)
         self.assertEqual(scores(result('partial'))['ML'], 50)
