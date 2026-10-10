@@ -1,28 +1,40 @@
 # 🧬 Biotech LinkedIn — MLE / DS Roles
-*Last updated: 2026-10-09 10:42 UTC*
+*Last updated: 2026-10-10 09:56 UTC*
 
-**6 new role(s)** since last run · 44 total in last 24h
+**9 new role(s)** since last run · 47 total in last 24h
 
-### [Data Scientist, Strategic Insights & Analytics](https://www.linkedin.com/jobs/view/4475971526/) — 10x Genomics
-- 📍 **Location:** Pleasanton, CA
-- 🕒 **Posted:** 2026-10-08
+### [Machine Learning Scientist, Multimodal AI ](https://job-boards.greenhouse.io/natera/jobs/6004385004) — Natera
+- 📍 **Location:** US Remote
+- 🕒 **Posted:** 2026-10-09
 
-### [2027 Business Technology Solutions Intern - Data & Software Engineering (Undergraduate)](https://www.linkedin.com/jobs/view/4457681530/) — AbbVie
-- 📍 **Location:** South San Francisco, CA
-- 🕒 **Posted:** 2026-10-08
+### [Research Engineer, AI](https://job-boards.greenhouse.io/biohub/jobs/7747517) — Chan Zuckerberg Biohub
+- 📍 **Location:** New York, NY (Hybrid)
+- 🕒 **Posted:** 2026-09-29
 
-### [AI Scientist – AI-Driven Target Identification](https://www.linkedin.com/jobs/view/4446468778/) — Novartis
-- 📍 **Location:** Cambridge, MA
-- 🕒 **Posted:** 2026-10-08
+### [AI Scientist, BioMedical AI](https://job-boards.greenhouse.io/xairatherapeutics/jobs/4987432007) — Xaira Therapeutics
+- 📍 **Location:** South San Francisco, California, United States
+- 🕒 **Posted:** 2026-10-09
 
-### [Data Scientist](https://www.linkedin.com/jobs/view/4474830619/) — Bristol Myers Squibb
-- 📍 **Location:** San Diego, CA
-- 🕒 **Posted:** 2026-10-08
+### [AI Scientist - Biomedical Multimodal Modeling](https://job-boards.greenhouse.io/xairatherapeutics/jobs/5036777007) — Xaira Therapeutics
+- 📍 **Location:** South San Francisco, California, United States
+- 🕒 **Posted:** 2026-10-09
 
-### [Software Engineer III - Data Infrastructure](https://www.linkedin.com/jobs/view/4474859540/) — Allen Institute
-- 📍 **Location:** Seattle, WA
-- 🕒 **Posted:** 2026-10-08
+### [AI Scientist, Computational Protein Design](https://job-boards.greenhouse.io/xairatherapeutics/jobs/4957313007) — Xaira Therapeutics
+- 📍 **Location:** South San Francisco, California, United States
+- 🕒 **Posted:** 2026-10-09
 
-### [2027 Business Technology Solutions Intern - Cloud Engineering (Undergraduate)](https://www.linkedin.com/jobs/view/4457683532/) — AbbVie
-- 📍 **Location:** Irvine, CA
-- 🕒 **Posted:** 2026-10-08
+### [AI Scientist Intern, Computational Protein Design](https://job-boards.greenhouse.io/xairatherapeutics/jobs/5225658007) — Xaira Therapeutics
+- 📍 **Location:** Seattle, Washington, United States; South San Francisco, California, United States
+- 🕒 **Posted:** 2026-10-09
+
+### [BioMedical AI Research Engineer](https://job-boards.greenhouse.io/xairatherapeutics/jobs/5005200007) — Xaira Therapeutics
+- 📍 **Location:** South San Francisco, California, United States
+- 🕒 **Posted:** 2026-10-09
+
+### [Lab Automation - Robotics Engineer](https://job-boards.greenhouse.io/xairatherapeutics/jobs/5212689007) — Xaira Therapeutics
+- 📍 **Location:** South San Francisco, California, United States
+- 🕒 **Posted:** 2026-10-09
+
+### [Lab Software Engineer](https://job-boards.greenhouse.io/xairatherapeutics/jobs/5230698007) — Xaira Therapeutics
+- 📍 **Location:** South San Francisco, California, United States
+- 🕒 **Posted:** 2026-10-09
