@@ -1,87 +1,54 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-10-09 23:18 UTC*
+*Last updated: 2026-10-10 00:18 UTC*
 
-**20 new role(s)** since last run · 26 total in last 1h
+**11 new role(s)** since last run · 31 total in last 1h
 
-### [Machine Learning Engineer](https://www.linkedin.com/jobs/view/4477872932/) — Tala Health
+### [Data Scientist V](https://www.linkedin.com/jobs/view/4477896180/) — TEKsystems
+- 📍 **Location:** Menlo Park, CA
+- 💰 **Salary:** $90.00/hr - $110.00/hr
+- 🕒 **Posted:** 2026-10-09
+
+### [Full Stack Software Engineer](https://www.linkedin.com/jobs/view/4475260915/) — Chalk
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $170,000.00/yr - $280,000.00/yr
+- 🕒 **Posted:** 2026-10-09
+
+### [Full Stack Software Engineer](https://www.linkedin.com/jobs/view/4475274331/) — Chalk
+- 📍 **Location:** New York City Metropolitan Area
+- 💰 **Salary:** $170,000.00/yr - $280,000.00/yr
+- 🕒 **Posted:** 2026-10-09
+
+### [Product Engineer / Full Stack Software Engineer - Health & Longevity Startup](https://www.linkedin.com/jobs/view/4476881144/) — Skyrocket Ventures
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $220,000.00/yr - $250,000.00/yr
+- 🕒 **Posted:** 2026-10-09
+
+### [Data Scientist II, Fraud & Risk](https://www.linkedin.com/jobs/view/4477891364/) — Socure
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $140,000.00/yr - $170,000.00/yr
+- 🕒 **Posted:** 2026-10-09
+
+### [Robotics Engineer- Generalist](https://www.linkedin.com/jobs/view/4476849917/) — HYFIX
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-10-09
+
+### [Software Engineer, Streaming Platform](https://www.linkedin.com/jobs/view/4477884808/) — Sentry
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-10-09
 
-### [Applied ML Engineer, EDA & Physical AI](https://www.linkedin.com/jobs/view/4475270364/) — Trace
-- 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-10-09
-
-### [Applied Scientist](https://www.linkedin.com/jobs/view/4475277127/) — Amazon Science
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-10-09
-
-### [Computer Vision Software - Summer 2027 Internships](https://www.linkedin.com/jobs/view/4476862532/) — Rivian
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-10-09
-
-### [Computational Biologist, Spatial Transcriptomics](https://www.linkedin.com/jobs/view/4476864334/) — Origin
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-10-09
-
-### [MLOps / AI Platform Engineer](https://www.linkedin.com/jobs/view/4477890186/) — Tala Health
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-10-09
-
-### [Software Engineer III, Performance, AI and Infrastructure](https://www.linkedin.com/jobs/view/4476857442/) — Google
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-10-09
-
-### [Data Scientist II](https://www.linkedin.com/jobs/view/4477875823/) — Kforce Inc
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $55.00/hr - $62.00/hr
-- 🕒 **Posted:** 2026-10-09
-
-### [Controls Software Engineer, Pointing & Tracking](https://www.linkedin.com/jobs/view/4477895035/) — Cowboy Space Corporation
-- 📍 **Location:** San Carlos, CA
-- 🕒 **Posted:** 2026-10-09
-
-### [Software Engineer](https://www.linkedin.com/jobs/view/4475276213/) — Quotient
+### [Software Engineer II, Backend - IT Product](https://www.linkedin.com/jobs/view/4477899057/) — Rippling
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-10-09
 
-### [Software Engineer, API Agents](https://www.linkedin.com/jobs/view/4476855640/) — OpenAI
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $266,000.00/yr - $445,000.00/yr
-- 🕒 **Posted:** 2026-10-09
-
-### [DevOps Engineer - HPE Networking (Hybrid - California)](https://www.linkedin.com/jobs/view/4477875829/) — Hewlett Packard Enterprise
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-10-09
-
-### [DevOps Engineer - HPE Networking (Hybrid - California)](https://www.linkedin.com/jobs/view/4477872901/) — Hewlett Packard Enterprise
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-10-09
-
-### [Site Reliability Engineer (SRE)](https://www.linkedin.com/jobs/view/4477883638/) — Tala Health
+### [Software Engineer II, Backend - IT Product](https://www.linkedin.com/jobs/view/4477899059/) — Rippling
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-10-09
 
-### [Software Engineer, ROS](https://www.linkedin.com/jobs/view/4476861689/) — Roblox
-- 📍 **Location:** San Mateo, CA
+### [System Software Engineer, Linux Kernel and Device Drivers](https://www.linkedin.com/jobs/view/4477882923/) — MatX
+- 📍 **Location:** Mountain View, CA
 - 🕒 **Posted:** 2026-10-09
 
-### [Software Engineer, C++ Frontend](https://www.linkedin.com/jobs/view/4475269375/) — Trace
-- 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-10-09
-
-### [Software Engineering - Summer 2027 Internships](https://www.linkedin.com/jobs/view/4476865430/) — Rivian
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-10-09
-
-### [Data Scientist](https://www.linkedin.com/jobs/view/4477876786/) — Tala Health
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-10-09
-
-### [Software Engineer (Backend)](https://www.linkedin.com/jobs/view/4416261558/) — Lorum
+### [Data Scientist II, Fraud & Risk](https://www.linkedin.com/jobs/view/4477880938/) — Socure
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $150,000.00/yr - $200,000.00/yr
-- 🕒 **Posted:** 2026-10-09
-
-### [Software Engineer, Grok Connectors](https://www.linkedin.com/jobs/view/4477879530/) — Cursor
-- 📍 **Location:** Palo Alto, CA
+- 💰 **Salary:** $140,000.00/yr - $170,000.00/yr
 - 🕒 **Posted:** 2026-10-09
