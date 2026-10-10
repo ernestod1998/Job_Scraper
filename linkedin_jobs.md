@@ -1,45 +1,64 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-10-10 17:18 UTC*
+*Last updated: 2026-10-10 18:18 UTC*
 
-**10 new role(s)** since last run · 10 total in last 1h
+**15 new role(s)** since last run · 25 total in last 1h
 
-### [AI Engineer 5 (MLX, Agentic AI, Gen AI platform Services)](https://www.linkedin.com/jobs/view/4469531993/) — Capital One
+### [Full Stack Engineer](https://www.linkedin.com/jobs/view/4477236058/) — Fonzi AI
+- 📍 **Location:** New York City Metropolitan Area
+- 🕒 **Posted:** 2026-10-10
+
+### [AI Engineer 4 (MLX, Agentic AI, Gen AI platform Services)](https://www.linkedin.com/jobs/view/4469541325/) — Capital One
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-10-10
+
+### [Infrastructure Engineer](https://www.linkedin.com/jobs/view/4477222528/) — Fonzi AI
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-10-10
+
+### [Site Reliability Engineer - Video Platform - USDS](https://www.linkedin.com/jobs/view/4478078377/) — TikTok USDS Joint Venture
 - 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-10-10
 
-### [Applied Scientist, PXT Central Science](https://www.linkedin.com/jobs/view/4460135417/) — Amazon
+### [AI Engineer 4 (MLX, Agentic AI, Gen AI platform Services)](https://www.linkedin.com/jobs/view/4469545145/) — Capital One
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-10-10
+
+### [AI Engineer 5 (Gen AI Platform Services - Agentic Systems)](https://www.linkedin.com/jobs/view/4469538382/) — Capital One
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-10-10
 
-### [Software Engineer, Core Systems](https://www.linkedin.com/jobs/view/4478060841/) — EngRadar
-- 📍 **Location:** Sunnyvale, CA
+### [AI Engineer 5 (Gen AI Platform Services - Agentic Systems)](https://www.linkedin.com/jobs/view/4469537406/) — Capital One
+- 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-10-10
 
-### [Software Engineer, Production Inference (Distributed Inference)](https://www.linkedin.com/jobs/view/4478063700/) — EngRadar
+### [AI Engineer 4 (AI Foundations: LLM Customization, Finetuning, Reinforcement Learning)](https://www.linkedin.com/jobs/view/4469548072/) — Capital One
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-10-10
+
+### [AI Engineer 5 (MLX, Agentic AI, Gen AI platform Services)](https://www.linkedin.com/jobs/view/4469542280/) — Capital One
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-10-10
 
-### [AI Engineer 5 (MLX, Agentic AI, Gen AI platform Services)](https://www.linkedin.com/jobs/view/4469537412/) — Capital One
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-10-10
-
-### [Data Scientist, Experimentation](https://www.linkedin.com/jobs/view/4430261118/) — FanDuel
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-10-10
-
-### [Software Engineer - Solutions](https://www.linkedin.com/jobs/view/4404542500/) — Alchemy
+### [AI Engineer 5 (AI Foundations: LLM Customization, Finetuning, Reinforcement Learning)](https://www.linkedin.com/jobs/view/4469545148/) — Capital One
 - 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $150,000.00/yr - $225,000.00/yr
 - 🕒 **Posted:** 2026-10-10
 
-### [Software Engineering Summer Intern (Masters - Santa Clara, CA)](https://www.linkedin.com/jobs/view/4475623549/) — Applied Materials
-- 📍 **Location:** Santa Clara, CA
+### [Backend Software Engineer, Airports](https://www.linkedin.com/jobs/view/4469277150/) — Lyft
+- 📍 **Location:** San Francisco County, CA
 - 🕒 **Posted:** 2026-10-10
 
-### [Software Engineer – Distributed Systems](https://www.linkedin.com/jobs/view/4478059923/) — EngRadar
-- 📍 **Location:** Foster City, CA
+### [AI Engineer 4  (MLX, Agentic AI, Gen AI platform Services)](https://www.linkedin.com/jobs/view/4469537411/) — Capital One
+- 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-10-10
 
-### [Software Engineer, CDP - Payment Acceptance](https://www.linkedin.com/jobs/view/4460519185/) — Coinbase
-- 📍 **Location:** New York, NY
+### [Software Engineer - Dashboards & Workflow Automation](https://www.linkedin.com/jobs/view/4458433707/) — HireArt
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-10-10
+
+### [Applied Scientist Intern, PhD (Summer 2027)](https://www.linkedin.com/jobs/view/4477236009/) — CHEManager International
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-10-10
+
+### [Full Stack Engineer](https://www.linkedin.com/jobs/view/4477218741/) — Fonzi AI
+- 📍 **Location:** San Francisco Bay Area
 - 🕒 **Posted:** 2026-10-10
