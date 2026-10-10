@@ -1,13 +1,21 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-10-10 20:17 UTC*
+*Last updated: 2026-10-10 21:17 UTC*
 
-**2 new role(s)** since last run · 9 total in last 1h
+**4 new role(s)** since last run · 6 total in last 1h
 
-### [Generative AI Engineer](https://www.linkedin.com/jobs/view/4475621825/) — The Phoenix Group®
+### [Data Scientist, Next Gen Recommendation Systems](https://www.linkedin.com/jobs/view/4405164991/) — impact.com
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-10-10
+
+### [AI Software Engineer](https://www.linkedin.com/jobs/view/4477231248/) — Boardy
 - 📍 **Location:** New York City Metropolitan Area
 - 🕒 **Posted:** 2026-10-10
 
-### [Software Developer — Get Paid to Build Your Own Project with an AI Coding Assistant](https://www.linkedin.com/jobs/view/4477840834/) — Alignerr
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $60.00/hr - $120.00/hr
+### [Ai Software Engineer](https://www.linkedin.com/jobs/view/4477238083/) — Boardy
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-10-10
+
+### [Research Engineer/Scientist - R&D Internship – 2027 SVL](https://www.linkedin.com/jobs/view/4475627522/) — IBM
+- 📍 **Location:** San Jose, CA
+- 💰 **Salary:** $89,280.00/yr - $163,680.00/yr
 - 🕒 **Posted:** 2026-10-10
