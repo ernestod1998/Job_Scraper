@@ -1,9 +1,13 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-10-11 02:17 UTC*
+*Last updated: 2026-10-11 03:17 UTC*
 
-**1 new role(s)** since last run · 4 total in last 1h
+**2 new role(s)** since last run · 2 total in last 1h
 
-### [Software Developer — Get Paid to Build Your Own Project with an AI Coding Assistant](https://www.linkedin.com/jobs/view/4477840834/) — Alignerr
+### [Abuse Research Engineer](https://www.linkedin.com/jobs/view/4465645131/) — Stripe
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-10-10
+
+### [Full Stack Engineer](https://www.linkedin.com/jobs/view/4477236812/) — Love Freedom Solution
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $60.00/hr - $120.00/hr
+- 💰 **Salary:** $175,000.00/yr - $250,000.00/yr
 - 🕒 **Posted:** 2026-10-10
