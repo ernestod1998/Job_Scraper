@@ -1,13 +1,12 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-10-11 03:17 UTC*
+*Last updated: 2026-10-11 09:14 UTC*
 
-**2 new role(s)** since last run · 2 total in last 1h
+**2 new role(s)** since last run · 3 total in last 1h
 
-### [Abuse Research Engineer](https://www.linkedin.com/jobs/view/4465645131/) — Stripe
+### [Machine Learning Engineer, Drive](https://www.linkedin.com/jobs/view/4450009896/) — DoorDash
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-10-11
+
+### [Machine Learning Engineer, Drive](https://www.linkedin.com/jobs/view/4450029336/) — DoorDash
 - 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-10-10
-
-### [Full Stack Engineer](https://www.linkedin.com/jobs/view/4477236812/) — Love Freedom Solution
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $175,000.00/yr - $250,000.00/yr
-- 🕒 **Posted:** 2026-10-10
+- 🕒 **Posted:** 2026-10-11
