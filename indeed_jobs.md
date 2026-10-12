@@ -1,6 +1,9 @@
 # 🟦 Indeed — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-10-11 23:55 UTC*
+*Last updated: 2026-10-12 06:27 UTC*
 
-**0 new role(s)** since last run · 7 total in last 24h
+**1 new role(s)** since last run · 8 total in last 24h
 
-No new roles since the last run.
+### [Software Engineer](https://www.indeed.com/viewjob?jk=424842f005abf1ff) — Nestmed
+- 📍 **Location:** San Francisco, CA, USA
+- 💰 **Salary:** $150k–$280k/yr
+- 🕒 **Posted:** 2026-10-11
