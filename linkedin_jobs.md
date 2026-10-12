@@ -1,18 +1,20 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-10-12 03:17 UTC*
+*Last updated: 2026-10-12 06:25 UTC*
 
-**3 new role(s)** since last run · 5 total in last 1h
+**4 new role(s)** since last run · 4 total in last 1h
 
-### [Software Engineer](https://www.linkedin.com/jobs/view/4477294080/) — Nestmed
+### [Remote Software Engineer - Python/Typescript](https://www.linkedin.com/jobs/view/4477289849/) — Turing
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-10-11
+
+### [Remote Software Engineer](https://www.linkedin.com/jobs/view/4477503127/) — Turing
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-10-11
+
+### [Remote Software Developer](https://www.linkedin.com/jobs/view/4477281949/) — Turing
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-10-11
+
+### [Software Engineer (SWE)](https://www.linkedin.com/jobs/view/4477507021/) — Glasslake (Formerly Luzid)
 - 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $150,000.00/yr - $280,000.00/yr
-- 🕒 **Posted:** 2026-10-11
-
-### [Associate Software Engineer - Consumer Application](https://www.linkedin.com/jobs/view/4478378313/) — Sandisk
-- 📍 **Location:** Milpitas, CA
-- 🕒 **Posted:** 2026-10-11
-
-### [Reference Data Software Engineer](https://www.linkedin.com/jobs/view/4466923856/) — BIP US
-- 📍 **Location:** New York City Metropolitan Area
-- 💰 **Salary:** $120,000.00/yr - $160,000.00/yr
 - 🕒 **Posted:** 2026-10-11
