@@ -1,24 +1,26 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-10-12 01:17 UTC*
+*Last updated: 2026-10-12 02:17 UTC*
 
-**4 new role(s)** since last run · 5 total in last 1h
+**5 new role(s)** since last run · 7 total in last 1h
 
-### [Computer Vision & ML Expert](https://www.linkedin.com/jobs/view/4478370437/) — Alignerr
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $100.00/hr - $150.00/hr
-- 🕒 **Posted:** 2026-10-11
-
-### [RL Environment Software Engineer - AfterQuery](https://www.linkedin.com/jobs/view/4478374369/) — talentpluto
+### [Research Engineer - Hud](https://www.linkedin.com/jobs/view/4478382046/) — talentpluto
 - 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $180,000.00/yr - $400,000.00/yr
 - 🕒 **Posted:** 2026-10-11
 
-### [Software Engineer](https://www.linkedin.com/jobs/view/4475662107/) — Haystack
+### [Mid-Level Software Engineer - Gryps](https://www.linkedin.com/jobs/view/4478382045/) — talentpluto
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $110,000.00/yr - $130,000.00/yr
 - 🕒 **Posted:** 2026-10-11
 
-### [Full Stack Engineer, Mobile](https://www.linkedin.com/jobs/view/4466817387/) — Wanderboat AI
-- 📍 **Location:** Sunnyvale, CA
-- 💰 **Salary:** $150.00/yr - $200,000.00/yr
+### [Forward Deployed Software Engineer](https://www.linkedin.com/jobs/view/4477292075/) — TriSearch
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-10-11
+
+### [Software Engineer - Strala](https://www.linkedin.com/jobs/view/4478378260/) — talentpluto
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $165,000.00/yr - $250,000.00/yr
+- 🕒 **Posted:** 2026-10-11
+
+### [Software Developer — Get Paid to Build Your Own Project with an AI Coding Assistant](https://www.linkedin.com/jobs/view/4477840834/) — Alignerr
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $60.00/hr - $120.00/hr
 - 🕒 **Posted:** 2026-10-11
