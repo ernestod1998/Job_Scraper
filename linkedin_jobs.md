@@ -1,28 +1,26 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-10-13 02:17 UTC*
+*Last updated: 2026-10-13 03:17 UTC*
 
-**6 new role(s)** since last run · 13 total in last 1h
+**5 new role(s)** since last run · 10 total in last 1h
 
-### [Machine Learning Engineer II, Pricing](https://www.linkedin.com/jobs/view/4478743203/) — Uber
+### [LLM Platform Engineer](https://www.linkedin.com/jobs/view/4478736803/) — AllSpice.io
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $160,000.00/yr - $190,000.00/yr
+- 🕒 **Posted:** 2026-10-12
+
+### [Software Engineer](https://www.linkedin.com/jobs/view/4478739821/) — Intuitive Machines
+- 📍 **Location:** Palo Alto, CA
+- 🕒 **Posted:** 2026-10-12
+
+### [Backend Software Engineer](https://www.linkedin.com/jobs/view/4478554932/) — STAAC Professional E-Learning LTD
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-10-12
 
-### [Machine Learning Engineer - 3D Sensor Simulation](https://www.linkedin.com/jobs/view/4478749097/) — Zoox
-- 📍 **Location:** Foster City, CA
+### [Linux Embedded Software Engineer](https://www.linkedin.com/jobs/view/4476095032/) — Science
+- 📍 **Location:** Alameda, CA
 - 🕒 **Posted:** 2026-10-12
 
-### [Software Engineering LMTS - Data (Remote)](https://www.linkedin.com/jobs/view/4478720933/) — Salesforce
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-10-12
-
-### [Simulation and Software Engineer](https://www.linkedin.com/jobs/view/4478728931/) — Root Access
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-10-12
-
-### [Software Engineering LMTS](https://www.linkedin.com/jobs/view/4478737223/) — Salesforce
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-10-12
-
-### [Software Engineer II (Backend) - Fulfillment Shopping](https://www.linkedin.com/jobs/view/4478743207/) — Uber
-- 📍 **Location:** New York, NY
+### [Software Engineer III - AWM Technology](https://www.linkedin.com/jobs/view/4478747415/) — JPMorganChase
+- 📍 **Location:** Jersey City, NJ
+- 💰 **Salary:** $137,750.00/yr - $185,000.00/yr
 - 🕒 **Posted:** 2026-10-12
