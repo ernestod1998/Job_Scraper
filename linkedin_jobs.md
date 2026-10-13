@@ -1,32 +1,28 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-10-13 01:17 UTC*
+*Last updated: 2026-10-13 02:17 UTC*
 
-**6 new role(s)** since last run · 8 total in last 1h
+**6 new role(s)** since last run · 13 total in last 1h
 
-### [Research Engineer - New Grad (2027)](https://www.linkedin.com/jobs/view/4453756652/) — Applied Intuition
-- 📍 **Location:** Sunnyvale, CA
-- 💰 **Salary:** $140,000.00/yr - $200,000.00/yr
-- 🕒 **Posted:** 2026-10-12
-
-### [Backend Engineer (AI-Native) — Risk Infrastructure & Integrations](https://www.linkedin.com/jobs/view/4477952265/) — Coris
-- 📍 **Location:** Palo Alto, CA
-- 💰 **Salary:** $160.00/yr - $175.00/yr
-- 🕒 **Posted:** 2026-10-12
-
-### [Computational Biologist, Spatial Transcriptomics](https://www.linkedin.com/jobs/view/4476864334/) — Origin
+### [Machine Learning Engineer II, Pricing](https://www.linkedin.com/jobs/view/4478743203/) — Uber
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-10-12
 
-### [Data Scientist - Customer Banking Analytics](https://www.linkedin.com/jobs/view/4473542359/) — Analytic Recruiting Inc.
-- 📍 **Location:** New York City Metropolitan Area
+### [Machine Learning Engineer - 3D Sensor Simulation](https://www.linkedin.com/jobs/view/4478749097/) — Zoox
+- 📍 **Location:** Foster City, CA
 - 🕒 **Posted:** 2026-10-12
 
-### [Software Engineer](https://www.linkedin.com/jobs/view/4477946614/) — Method
+### [Software Engineering LMTS - Data (Remote)](https://www.linkedin.com/jobs/view/4478720933/) — Salesforce
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-10-12
+
+### [Simulation and Software Engineer](https://www.linkedin.com/jobs/view/4478728931/) — Root Access
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $175,000.00/yr - $215,000.00/yr
 - 🕒 **Posted:** 2026-10-12
 
-### [Mobile Engineer](https://www.linkedin.com/jobs/view/4477940624/) — LinkTech
-- 📍 **Location:** Palo Alto, CA
-- 💰 **Salary:** $200,000.00/yr - $400,000.00/yr
+### [Software Engineering LMTS](https://www.linkedin.com/jobs/view/4478737223/) — Salesforce
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-10-12
+
+### [Software Engineer II (Backend) - Fulfillment Shopping](https://www.linkedin.com/jobs/view/4478743207/) — Uber
+- 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-10-12
