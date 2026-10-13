@@ -1,20 +1,32 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-10-13 00:17 UTC*
+*Last updated: 2026-10-13 01:17 UTC*
 
-**4 new role(s)** since last run · 6 total in last 1h
+**6 new role(s)** since last run · 8 total in last 1h
 
-### [Applied Scientist, Fauna Robotics](https://www.linkedin.com/jobs/view/4478723193/) — Amazon
+### [Research Engineer - New Grad (2027)](https://www.linkedin.com/jobs/view/4453756652/) — Applied Intuition
 - 📍 **Location:** Sunnyvale, CA
+- 💰 **Salary:** $140,000.00/yr - $200,000.00/yr
 - 🕒 **Posted:** 2026-10-12
 
-### [Research Engineer](https://www.linkedin.com/jobs/view/4478703750/) — Goliath Partners
-- 📍 **Location:** San Francisco Bay Area
+### [Backend Engineer (AI-Native) — Risk Infrastructure & Integrations](https://www.linkedin.com/jobs/view/4477952265/) — Coris
+- 📍 **Location:** Palo Alto, CA
+- 💰 **Salary:** $160.00/yr - $175.00/yr
 - 🕒 **Posted:** 2026-10-12
 
-### [Machine Learning Engineer, Visual Generative Models (Post-Training & Evaluation)](https://www.linkedin.com/jobs/view/4476079387/) — Nunchux AI
+### [Computational Biologist, Spatial Transcriptomics](https://www.linkedin.com/jobs/view/4476864334/) — Origin
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-10-12
 
-### [Deep Learning Software Engineer, TensorRT Performance - New College Grad 2027](https://www.linkedin.com/jobs/view/4477947314/) — NVIDIA
-- 📍 **Location:** Santa Clara, CA
+### [Data Scientist - Customer Banking Analytics](https://www.linkedin.com/jobs/view/4473542359/) — Analytic Recruiting Inc.
+- 📍 **Location:** New York City Metropolitan Area
+- 🕒 **Posted:** 2026-10-12
+
+### [Software Engineer](https://www.linkedin.com/jobs/view/4477946614/) — Method
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $175,000.00/yr - $215,000.00/yr
+- 🕒 **Posted:** 2026-10-12
+
+### [Mobile Engineer](https://www.linkedin.com/jobs/view/4477940624/) — LinkTech
+- 📍 **Location:** Palo Alto, CA
+- 💰 **Salary:** $200,000.00/yr - $400,000.00/yr
 - 🕒 **Posted:** 2026-10-12
