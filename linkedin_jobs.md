@@ -1,37 +1,52 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-10-14 21:18 UTC*
+*Last updated: 2026-10-14 22:18 UTC*
 
-**8 new role(s)** since last run · 26 total in last 1h
+**12 new role(s)** since last run · 16 total in last 1h
 
-### [Software Engineer](https://www.linkedin.com/jobs/view/4477905553/) — Harvey Nash
-- 📍 **Location:** Fremont, CA
+### [Machine Learning Engineer, AI Agent Platform](https://www.linkedin.com/jobs/view/4399394635/) — Arta Finance
+- 📍 **Location:** Mountain View, CA
 - 🕒 **Posted:** 2026-10-14
 
-### [Software Engineer, Backend, Growth](https://www.linkedin.com/jobs/view/4479590770/) — Ramp
-- 📍 **Location:** San Francisco, CA
+### [Perception Algorithms Software Engineer — Radar and Sensor Fusion](https://www.linkedin.com/jobs/view/4478816199/) — Zadar Labs
+- 📍 **Location:** San Francisco Bay Area
 - 🕒 **Posted:** 2026-10-14
 
-### [Lab Software Engineer](https://www.linkedin.com/jobs/view/4467131141/) — Xaira Therapeutics
-- 📍 **Location:** South San Francisco, CA
+### [2027 Intern - AI/ML Engineer, Autonomous Vehicle ML Infrastructure](https://www.linkedin.com/jobs/view/4479702745/) — General Motors
+- 📍 **Location:** Sunnyvale, CA
 - 🕒 **Posted:** 2026-10-14
 
-### [Software Engineer — AI Infrastructure](https://www.linkedin.com/jobs/view/4479705565/) — Elantis
-- 📍 **Location:** Pleasanton, CA
+### [2027 Intern - AI/ML Engineer - Capacity & Performance Engineering, Autonomous Vehicles](https://www.linkedin.com/jobs/view/4479706643/) — General Motors
+- 📍 **Location:** Sunnyvale, CA
 - 🕒 **Posted:** 2026-10-14
 
-### [Junior Software Engineer](https://www.linkedin.com/jobs/view/4479590740/) — FDM Group
+### [Data Science Institute Graduate Student Intern - Summer 2027](https://www.linkedin.com/jobs/view/4473026412/) — Lawrence Livermore National Laboratory
+- 📍 **Location:** Livermore, CA
+- 🕒 **Posted:** 2026-10-14
+
+### [Software Engineer, Data Infrastructure and Performance Metrics](https://www.linkedin.com/jobs/view/4456533286/) — Arta Finance
+- 📍 **Location:** Mountain View, CA
+- 🕒 **Posted:** 2026-10-14
+
+### [Junior Full-Stack Engineer](https://www.linkedin.com/jobs/view/4477019179/) — ECLARO
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-10-14
 
-### [Software Engineer, Full-Stack](https://www.linkedin.com/jobs/view/4469916443/) — Onyx Odds
-- 📍 **Location:** New York City Metropolitan Area
-- 💰 **Salary:** $150,000.00/yr - $200,000.00/yr
-- 🕒 **Posted:** 2026-10-14
-
-### [Back-End Engineer](https://www.linkedin.com/jobs/view/4477009610/) — Averity
-- 📍 **Location:** New York City Metropolitan Area
-- 🕒 **Posted:** 2026-10-14
-
-### [Software Engineer, Backend, Growth](https://www.linkedin.com/jobs/view/4479700510/) — Ramp
+### [Prompt Engineer](https://www.linkedin.com/jobs/view/4479719111/) — Virtusa
 - 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-10-14
+
+### [Research Engineer](https://www.linkedin.com/jobs/view/4479715063/) — Goliath Partners
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-10-14
+
+### [Java Software Engineer, Data Platform](https://www.linkedin.com/jobs/view/4478803588/) — Citi
+- 📍 **Location:** Jersey City, NJ
+- 🕒 **Posted:** 2026-10-14
+
+### [Software Engineer Graduate (Data Ecosystem) - 2027 Start](https://www.linkedin.com/jobs/view/4478497721/) — TikTok
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-10-14
+
+### [Software Engineer, GUI](https://www.linkedin.com/jobs/view/4479707636/) — Johnson & Johnson MedTech
+- 📍 **Location:** Santa Clara, CA
 - 🕒 **Posted:** 2026-10-14
