@@ -1,42 +1,24 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-10-14 03:17 UTC*
+*Last updated: 2026-10-14 05:20 UTC*
 
-**9 new role(s)** since last run · 12 total in last 1h
+**5 new role(s)** since last run · 5 total in last 1h
 
-### [Product Data Scientist (Growth)](https://www.linkedin.com/jobs/view/4479260202/) — OpenArt AI
-- 📍 **Location:** San Carlos, CA
-- 🕒 **Posted:** 2026-10-13
-
-### [Machine Learning Engineer](https://www.linkedin.com/jobs/view/4468834423/) — PTR Global
-- 📍 **Location:** Cupertino, CA
-- 💰 **Salary:** $65.00/hr - $70.00/hr
-- 🕒 **Posted:** 2026-10-13
-
-### [Computer Vision/Machine Learning Intern](https://www.linkedin.com/jobs/view/4476620682/) — KLA
-- 📍 **Location:** Milpitas, CA
-- 🕒 **Posted:** 2026-10-13
-
-### [Software Engineer (High Performance/Distributed Computing)](https://www.linkedin.com/jobs/view/4476617784/) — KLA
-- 📍 **Location:** Milpitas, CA
-- 🕒 **Posted:** 2026-10-13
-
-### [Scientist I, DMPK](https://www.linkedin.com/jobs/view/4478401408/) — Revolution Medicines
+### [AI Prompt Engineer / Agentic AI Engineer](https://www.linkedin.com/jobs/view/4478407462/) — Bestinfo Systems LLC
 - 📍 **Location:** San Francisco Bay Area
 - 🕒 **Posted:** 2026-10-13
 
-### [Data Scientist [Multiple Positions Available]](https://www.linkedin.com/jobs/view/4479259456/) — JPMorganChase
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $150,433.00/yr - $170,000.00/yr
-- 🕒 **Posted:** 2026-10-13
-
-### [DevOps Engineer](https://www.linkedin.com/jobs/view/4479255428/) — Mark43
+### [DevOps Engineer (Cloud)](https://www.linkedin.com/jobs/view/4469800091/) — LaStellar Group
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-10-13
 
-### [Software Engineer (Travel Heavy)](https://www.linkedin.com/jobs/view/4478194677/) — Column
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-10-13
-
-### [Java Backend Developer](https://www.linkedin.com/jobs/view/4478193722/) — Cognizant
+### [Software Engineer II - Network Test Engineer](https://www.linkedin.com/jobs/view/4479220250/) — Hewlett Packard Enterprise
 - 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-10-13
+
+### [Agent Platform Engineer ($150K - $230K + Equity) for Healthcare AI Automation](https://www.linkedin.com/jobs/view/4479268258/) — CoffeeSpace
+- 📍 **Location:** New York City Metropolitan Area
+- 🕒 **Posted:** 2026-10-13
+
+### [Software Engineer (Backend / Full Stack) | Fintech Infrastructure | NYC Hybrid](https://www.linkedin.com/jobs/view/4476460732/) — Adeyemi Talent Recruiting
+- 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-10-13
