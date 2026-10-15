@@ -1,149 +1,81 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-10-15 18:19 UTC*
+*Last updated: 2026-10-15 19:19 UTC*
 
-**36 new role(s)** since last run · 62 total in last 1h
+**18 new role(s)** since last run · 53 total in last 1h
 
-### [Machine Learning Engineer 5 (IC)](https://www.linkedin.com/jobs/view/4471116092/) — Capital One
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-10-15
-
-### [Machine Learning Engineer 5](https://www.linkedin.com/jobs/view/4471481588/) — Capital One
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-10-15
-
-### [Research Engineer](https://www.linkedin.com/jobs/view/4479148605/) — Fonzi AI
-- 📍 **Location:** New York City Metropolitan Area
-- 🕒 **Posted:** 2026-10-15
-
-### [Applied Scientist III, Demand Technology, Amazon Demand Side Platform, Bravo Non-endemic](https://www.linkedin.com/jobs/view/4471126548/) — Amazon
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-10-15
-
-### [Associate, Data Science](https://www.linkedin.com/jobs/view/4460437095/) — Horizon Media
-- 📍 **Location:** New York City Metropolitan Area
-- 🕒 **Posted:** 2026-10-15
-
-### [Backend Engineer](https://www.linkedin.com/jobs/view/4479142716/) — Evlo AI
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-10-15
-
-### [Full Stack Engineer 4 (Python, AWS, AI, Snowflake, Databricks)](https://www.linkedin.com/jobs/view/4471117047/) — Capital One
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-10-15
-
-### [Applied Scientist, Amazon Ads](https://www.linkedin.com/jobs/view/4480114441/) — Amazon
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-10-15
-
-### [Software Engineer, Applied AI](https://www.linkedin.com/jobs/view/4451914917/) — CHAOS Industries
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-10-15
-
-### [Machine Learning Engineer 5 (IC)](https://www.linkedin.com/jobs/view/4471100892/) — Capital One
+### [AI Engineer 5 (MLX, Agentic AI, Gen AI platform Services)](https://www.linkedin.com/jobs/view/4471111421/) — Capital One
 - 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-10-15
 
-### [Research Engineer](https://www.linkedin.com/jobs/view/4479138936/) — Fonzi AI
-- 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-10-15
-
-### [AI Robotics Engineer, Vision-Language-Action (VLA)](https://www.linkedin.com/jobs/view/4479150397/) — Confidential
-- 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-10-15
-
-### [Software Engineer, ML infrastructure, Core Inference, Level 4](https://www.linkedin.com/jobs/view/4480121171/) — Snap Inc.
+### [Generative AI Engineer – DevEx](https://www.linkedin.com/jobs/view/4479163130/) — Modern Football Technology
 - 📍 **Location:** Palo Alto, CA
 - 🕒 **Posted:** 2026-10-15
 
-### [Software Engineer, ML Infrastructure, ML Platform Level 5](https://www.linkedin.com/jobs/view/4480102845/) — Snap Inc.
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-10-15
-
-### [Digital Signal Processing Software Engineer](https://www.linkedin.com/jobs/view/4475010273/) — Bright Silicon Technologies
-- 📍 **Location:** Pleasanton, CA
-- 🕒 **Posted:** 2026-10-15
-
-### [Full-stack Engineer 4 (IC)](https://www.linkedin.com/jobs/view/4471114177/) — Capital One
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-10-15
-
-### [Software Engineer, Full-Stack](https://www.linkedin.com/jobs/view/4479137951/) — Roger Healthcare
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-10-15
-
-### [Software Engineer](https://www.linkedin.com/jobs/view/4479159005/) — TableIQ
-- 📍 **Location:** Fremont, CA
-- 🕒 **Posted:** 2026-10-15
-
-### [Frontend Engineer](https://www.linkedin.com/jobs/view/4479161023/) — Fonzi AI
-- 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-10-15
-
-### [AI Engineer 5 (MLX, Agentic AI, Gen AI platform Services)](https://www.linkedin.com/jobs/view/4471103790/) — Capital One
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-10-15
-
-### [Backend Engineer II](https://www.linkedin.com/jobs/view/4471960493/) — Hatch
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-10-15
-
-### [Ground Software Engineering Intern (Summer 2027)](https://www.linkedin.com/jobs/view/4480108756/) — Muon Space
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-10-15
-
-### [Software Engineer, Platform Infrastructure](https://www.linkedin.com/jobs/view/4480114374/) — Verkada
-- 📍 **Location:** San Mateo, CA
-- 🕒 **Posted:** 2026-10-15
-
-### [Full-stack Engineer 4 (IC)](https://www.linkedin.com/jobs/view/4471100886/) — Capital One
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-10-15
-
-### [Software Developer](https://www.linkedin.com/jobs/view/4477099925/) — Weitz & Luxenberg PC
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-10-15
-
-### [Frontend Engineer](https://www.linkedin.com/jobs/view/4479136921/) — Fonzi AI
+### [Generative AI Engineer](https://www.linkedin.com/jobs/view/4480127253/) — Atlantic Partners Corporation
 - 📍 **Location:** New York City Metropolitan Area
+- 💰 **Salary:** $200,000.00/yr - $300,000.00/yr
 - 🕒 **Posted:** 2026-10-15
 
-### [Full-stack Engineer 4](https://www.linkedin.com/jobs/view/4471497109/) — Capital One
+### [Data Scientist Intern - February 2027 | NYC](https://www.linkedin.com/jobs/view/4480129294/) — Ardian
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $75,000.00/yr - $85,000.00/yr
+- 🕒 **Posted:** 2026-10-15
+
+### [Full-Stack Engineer 4  (Java, Spring, DynamoDB, S3, GraphQL, GenAI)](https://www.linkedin.com/jobs/view/4471113244/) — Capital One
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-10-15
 
-### [Full-stack Engineer 5 (Python, Typescript, React, AWS)](https://www.linkedin.com/jobs/view/4471474968/) — Capital One
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-10-15
-
-### [Mobile Engineer (iOS / Android)](https://www.linkedin.com/jobs/view/4479155108/) — Evlo AI
+### [Software Engineer, Data Platform](https://www.linkedin.com/jobs/view/4469342658/) — Block
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-10-15
 
-### [Multi-Cloud Engineer](https://www.linkedin.com/jobs/view/4479152187/) — Mphasis
-- 📍 **Location:** Berkeley Heights, NJ
-- 💰 **Salary:** $110,000.00/yr - $120,000.00/yr
+### [Software Engineer, Backend](https://www.linkedin.com/jobs/view/4479040716/) — Ivo
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-10-15
 
-### [IT Infrastructure Engineer | Hudson Tunnel Project](https://www.linkedin.com/jobs/view/4476265266/) — NPAworldwide
-- 📍 **Location:** Newark, NJ
+### [Full-stack Engineer 4 (IC)](https://www.linkedin.com/jobs/view/4471115102/) — Capital One
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-10-15
 
-### [IT Infrastructure Engineer | Hudson Tunnel Project](https://www.linkedin.com/jobs/view/4476254633/) — NPAworldwide
+### [Full-stack Engineer 4](https://www.linkedin.com/jobs/view/4471486350/) — Capital One
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-10-15
 
-### [Cloud Infrastructure – Site Reliability Engineer (SRE)-Sunnyvale](https://www.linkedin.com/jobs/view/4471420799/) — Alibaba Cloud
-- 📍 **Location:** Sunnyvale, CA
+### [Software Engineer (Party Cell)](https://www.linkedin.com/jobs/view/4480123455/) — Nex
+- 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-10-15
 
-### [Site Reliability Engineer-Sunnyvale](https://www.linkedin.com/jobs/view/4460439106/) — Alibaba Cloud
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-10-15
-
-### [Systems Software Engineer](https://www.linkedin.com/jobs/view/4480122000/) — Quadric
-- 📍 **Location:** Burlingame, CA
-- 🕒 **Posted:** 2026-10-15
-
-### [Machine Learning Engineer 5 (IC)](https://www.linkedin.com/jobs/view/4471106648/) — Capital One
+### [Software Engineering SMTS / LMTS - AI Core (REMOTE)](https://www.linkedin.com/jobs/view/4480120719/) — Salesforce
 - 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-10-15
+
+### [Software Engineering SMTS - Brain Team (REMOTE)](https://www.linkedin.com/jobs/view/4480131223/) — Salesforce
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-10-15
+
+### [Embedded Software Engineer](https://www.linkedin.com/jobs/view/4479552807/) — Strativ Group
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $200,000.00/yr - $300,000.00/yr
+- 🕒 **Posted:** 2026-10-15
+
+### [Forward Deployed Engineer (AI Platforms & Browser Agents)](https://www.linkedin.com/jobs/view/4480116722/) — Ikuto
+- 📍 **Location:** San Francisco Bay Area
+- 💰 **Salary:** $170,000.00/yr - $210,000.00/yr
+- 🕒 **Posted:** 2026-10-15
+
+### [Software Engineer 4](https://www.linkedin.com/jobs/view/4479161101/) — Cypress HCM
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-10-15
+
+### [Robotics Engineer](https://www.linkedin.com/jobs/view/4479160205/) — Gatik
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-10-15
+
+### [Nutanix & VMware Infrastructure Engineer](https://www.linkedin.com/jobs/view/4476881172/) — Seneca Resources
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-10-15
+
+### [Software Engineer, Robotics](https://www.linkedin.com/jobs/view/4479137880/) — Lawrence Harvey
+- 📍 **Location:** San Francisco Bay Area
+- 💰 **Salary:** $200,000.00/yr - $425,000.00/yr
 - 🕒 **Posted:** 2026-10-15
