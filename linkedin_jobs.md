@@ -1,33 +1,38 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-10-15 21:18 UTC*
+*Last updated: 2026-10-15 22:18 UTC*
 
-**7 new role(s)** since last run · 16 total in last 1h
+**8 new role(s)** since last run · 14 total in last 1h
 
-### [Python Software Engineer III](https://www.linkedin.com/jobs/view/4480148371/) — JPMorganChase
-- 📍 **Location:** Jersey City, NJ
-- 💰 **Salary:** $137,750.00/yr - $185,000.00/yr
+### [Machine Learning Engineer](https://www.linkedin.com/jobs/view/4480173147/) — Reddit, Inc.
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-10-15
 
-### [Software Engineer - Data](https://www.linkedin.com/jobs/view/4446409843/) — Authentic
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-10-15
-
-### [New Grad Software Engineer](https://www.linkedin.com/jobs/view/4470483355/) — Authentic
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-10-15
-
-### [Software Engineer - Product](https://www.linkedin.com/jobs/view/4446411913/) — Authentic
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-10-15
-
-### [Software Engineer - Platform](https://www.linkedin.com/jobs/view/4446403872/) — Authentic
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-10-15
-
-### [Software Engineer](https://www.linkedin.com/jobs/view/4477334079/) — Nokia
+### [Software Engineer](https://www.linkedin.com/jobs/view/4480168363/) — Aditi Consulting
 - 📍 **Location:** Sunnyvale, CA
+- 💰 **Salary:** $90.00/hr - $95.00/hr
 - 🕒 **Posted:** 2026-10-15
 
-### [Infrastructure Engineer / GCP / Kubernetes / Load Testing](https://www.linkedin.com/jobs/view/4480141651/) — Motion Recruitment
+### [Software Engineer, Frontier Data Products](https://www.linkedin.com/jobs/view/4479162919/) — Recruiting from Scratch
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $130,000.00/yr - $400,000.00/yr
+- 🕒 **Posted:** 2026-10-15
+
+### [Quantitative Software Engineer (DV Commodities)](https://www.linkedin.com/jobs/view/4479185051/) — DV Trading LLC
 - 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-10-15
+
+### [Software Engineer, Growth](https://www.linkedin.com/jobs/view/4477342010/) — Gamma
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-10-15
+
+### [Software Engineer, Frontend](https://www.linkedin.com/jobs/view/4477336277/) — Gamma
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-10-15
+
+### [Software Engineer, IT Risk Management](https://www.linkedin.com/jobs/view/4480162721/) — Cisco
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-10-15
+
+### [GNSS Software Engineer](https://www.linkedin.com/jobs/view/4480162309/) — Spanidea
+- 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-10-15
