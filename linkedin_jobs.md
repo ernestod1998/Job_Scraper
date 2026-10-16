@@ -1,168 +1,129 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-10-16 15:18 UTC*
+*Last updated: 2026-10-16 16:19 UTC*
 
-**39 new role(s)** since last run · 39 total in last 1h
+**30 new role(s)** since last run · 40 total in last 1h
 
-### [Machine Learning Engineer II, Responsible AI](https://www.linkedin.com/jobs/view/4459868910/) — Pinterest
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-10-16
-
-### [Software Engineer II, AI Platform](https://www.linkedin.com/jobs/view/4426008052/) — Cadence
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-10-16
-
-### [Machine Learning Infrastructure Engineer, Safeguards Research](https://www.linkedin.com/jobs/view/4442930561/) — Anthropic
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-10-16
-
-### [Pre-training Data Infrastructure Engineer](https://www.linkedin.com/jobs/view/4461959006/) — Anthropic
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-10-16
-
-### [Applied Scientist, Prime Video - Generative AI (Video)](https://www.linkedin.com/jobs/view/4462720080/) — Prime Video & Amazon MGM Studios
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-10-16
-
-### [Machine Learning Engineer II (Intern) – United States](https://www.linkedin.com/jobs/view/4471607796/) — Cisco
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-10-16
-
-### [AI Research Scientist | Machine Learning | Deep Learning |Natural Language Processing | LLM | Hybrid | San Jose, CA](https://www.linkedin.com/jobs/view/4479366734/) — Enigma
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-10-16
-
-### [Data Science Leader, Domain Models](https://www.linkedin.com/jobs/view/4470066567/) — SAP
+### [DevOps Engineer](https://www.linkedin.com/jobs/view/4480393594/) — Mind Robotics
 - 📍 **Location:** Palo Alto, CA
 - 🕒 **Posted:** 2026-10-16
 
-### [Remote Software Engineer - Python/Typescript](https://www.linkedin.com/jobs/view/4479360792/) — Turing
-- 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-10-16
-
-### [Software Engineer](https://www.linkedin.com/jobs/view/4479369473/) — Digital Waffle
-- 📍 **Location:** San Francisco Bay Area
-- 💰 **Salary:** $200,000.00/yr - $300,000.00/yr
-- 🕒 **Posted:** 2026-10-16
-
-### [Software Engineer Data & AI II (Intern) – United States](https://www.linkedin.com/jobs/view/4471627124/) — Cisco
+### [Research Engineer - Inference](https://www.linkedin.com/jobs/view/4480394475/) — Prime Intellect
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-10-16
 
-### [Full Stack Engineer](https://www.linkedin.com/jobs/view/4479377053/) — Digital Waffle
-- 📍 **Location:** San Francisco Bay Area
-- 💰 **Salary:** $200,000.00/yr - $300,000.00/yr
+### [Research Engineer - Data and Evaluation](https://www.linkedin.com/jobs/view/4480391720/) — Prime Intellect
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-10-16
 
-### [Data Scientist](https://www.linkedin.com/jobs/view/4479358741/) — Digital Waffle
-- 📍 **Location:** San Francisco Bay Area
+### [Research Engineer - RL Infrastructure](https://www.linkedin.com/jobs/view/4480390728/) — Prime Intellect
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-10-16
 
-### [Aeronautics Project Support Software Engineer](https://www.linkedin.com/jobs/view/4459967949/) — Metis Technology Solutions, Inc.
-- 📍 **Location:** Mountain View, CA
-- 💰 **Salary:** $120,000.00/yr - $220,000.00/yr
+### [Research Engineer - Pretraining Data](https://www.linkedin.com/jobs/view/4480508098/) — Prime Intellect
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-10-16
 
-### [Machine Learning Engineer – NLP / Production ML](https://www.linkedin.com/jobs/view/4477380157/) — RedTech Recruitment
-- 📍 **Location:** Brooklyn, NY
-- 🕒 **Posted:** 2026-10-16
-
-### [AI/ML Engineer](https://www.linkedin.com/jobs/view/4470078086/) — ZT Systems
-- 📍 **Location:** Secaucus, NJ
-- 🕒 **Posted:** 2026-10-16
-
-### [Hiring Jr. Full-Stack Engineer  Manhattan, N.Y.  Hybrid](https://www.linkedin.com/jobs/view/4480385873/) — GTECH LLC
-- 📍 **Location:** Manhattan, NY
-- 🕒 **Posted:** 2026-10-16
-
-### [Software Engineer](https://www.linkedin.com/jobs/view/3811924406/) — StreetID
-- 📍 **Location:** New York City Metropolitan Area
-- 🕒 **Posted:** 2026-10-16
-
-### [Generative AI Engineer](https://www.linkedin.com/jobs/view/4479370608/) — Vaspire Technologies Inc.
-- 📍 **Location:** New York City Metropolitan Area
-- 🕒 **Posted:** 2026-10-16
-
-### [Full Stack Software Engineer](https://www.linkedin.com/jobs/view/4435984833/) — Citadel Securities
-- 📍 **Location:** New York City Metropolitan Area
-- 💰 **Salary:** $175,000.00/yr - $350,000.00/yr
-- 🕒 **Posted:** 2026-10-16
-
-### [Full Stack Engineer 4 (Python, React, Networking)](https://www.linkedin.com/jobs/view/4480501068/) — Capital One
+### [ML Research Scientist -Deep Learning & Transformer Architectures](https://www.linkedin.com/jobs/view/4425289010/) — Millennium
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-10-16
 
-### [Site Reliability Engineer Spring Co-op 2027](https://www.linkedin.com/jobs/view/4450440050/) — IBM
+### [Software Engineer, Education](https://www.linkedin.com/jobs/view/4453254359/) — Anthropic
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-10-16
+
+### [Data Scientist, Product](https://www.linkedin.com/jobs/view/4429399199/) — Harvey
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-10-16
+
+### [Research Engineer / Scientist - Reinforcement Learning](https://www.linkedin.com/jobs/view/4480390707/) — Prime Intellect
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-10-16
+
+### [AI/ML Engineer](https://www.linkedin.com/jobs/view/4478478001/) — NextGenPros Inc
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-10-16
+
+### [AI Software Engineer Spring Co-op 2027](https://www.linkedin.com/jobs/view/4477706549/) — IBM
+- 📍 **Location:** San Jose, CA
+- 💰 **Salary:** $7,560,000.00/yr - $16,632,000.00/yr
+- 🕒 **Posted:** 2026-10-16
+
+### [Software Engineer](https://www.linkedin.com/jobs/view/4480511019/) — Mintive
+- 📍 **Location:** San Mateo, CA
+- 🕒 **Posted:** 2026-10-16
+
+### [Software Engineer](https://www.linkedin.com/jobs/view/4480395495/) — Mintive
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-10-16
+
+### [Research Engineer - Pretraining](https://www.linkedin.com/jobs/view/4480395513/) — Prime Intellect
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-10-16
+
+### [Product Software Engineer | San Francisco | $450k + meaningful equity](https://www.linkedin.com/jobs/view/4480510128/) — Harrison Clarke
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-10-16
+
+### [Software Engineer, Low Latency Computing (Starlink)](https://www.linkedin.com/jobs/view/4426702162/) — SpaceX
+- 📍 **Location:** Palo Alto, CA
+- 🕒 **Posted:** 2026-10-16
+
+### [DevOps Engineer](https://www.linkedin.com/jobs/view/4460745176/) — Rhombus Power Inc.
+- 📍 **Location:** Palo Alto, CA
+- 🕒 **Posted:** 2026-10-16
+
+### [Site Reliability Engineer Intern 2027](https://www.linkedin.com/jobs/view/4453044487/) — IBM
 - 📍 **Location:** San Jose, CA
 - 💰 **Salary:** $75,600.00/yr - $166,320.00/yr
 - 🕒 **Posted:** 2026-10-16
 
-### [Site Reliability Engineer](https://www.linkedin.com/jobs/view/4480380911/) — Nscale
+### [GCP Cloud Engineer](https://www.linkedin.com/jobs/view/4477702490/) — PineQ Lab Technology
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-10-16
+
+### [Software Engineer - Next.js](https://www.linkedin.com/jobs/view/4462492057/) — Vercel
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-10-16
 
-### [Software Engineer, Infrastructure, AI Labs](https://www.linkedin.com/jobs/view/4452779442/) — Epiq
-- 📍 **Location:** New York City Metropolitan Area
+### [Software Engineer III](https://www.linkedin.com/jobs/view/4471651052/) — Lead
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-10-16
 
-### [Full-stack Engineer 4](https://www.linkedin.com/jobs/view/4480399068/) — Capital One
+### [Software Engineer III, Network Platform](https://www.linkedin.com/jobs/view/4480399177/) — Box
+- 📍 **Location:** Redwood City, CA
+- 🕒 **Posted:** 2026-10-16
+
+### [C++ Devops/Java System Engineer - Rust](https://www.linkedin.com/jobs/view/4479369914/) — Excelon Solutions
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-10-16
+
+### [Software Engineer](https://www.linkedin.com/jobs/view/4480394661/) — Trilyon, Inc.
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-10-16
+
+### [Embedded Software Engineer - Onsite](https://www.linkedin.com/jobs/view/4436095196/) — BayOne Solutions
+- 📍 **Location:** Sunnyvale, CA
+- 💰 **Salary:** $75.00/hr - $80.00/hr
+- 🕒 **Posted:** 2026-10-16
+
+### [Full Stack Software Engineer (96223)](https://www.linkedin.com/jobs/view/4477359472/) — Weill Cornell Medicine
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-10-16
 
-### [Full Stack Engineer 4](https://www.linkedin.com/jobs/view/4480396298/) — Capital One
+### [Software Engineer - Game Integrations](https://www.linkedin.com/jobs/view/4443418068/) — Medal
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $180,000.00/yr - $275,000.00/yr
+- 🕒 **Posted:** 2026-10-16
+
+### [Fullstack Engineer](https://www.linkedin.com/jobs/view/4443416037/) — Medal
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-10-16
 
-### [Software Engineer](https://www.linkedin.com/jobs/view/3819719843/) — StreetID
-- 📍 **Location:** New York City Metropolitan Area
-- 🕒 **Posted:** 2026-10-16
-
-### [Software Engineer III](https://www.linkedin.com/jobs/view/4471629847/) — Lead
+### [Site Reliability Engineer](https://www.linkedin.com/jobs/view/4480390706/) — EngFlow
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-10-16
 
-### [Software Developer](https://www.linkedin.com/jobs/view/4480393145/) — Talon Professional Services
-- 📍 **Location:** New York City Metropolitan Area
-- 🕒 **Posted:** 2026-10-16
-
-### [Software Engineer - Credit Trading - HFT Prop Fund](https://www.linkedin.com/jobs/view/4394399733/) — Radley James
-- 📍 **Location:** New York City Metropolitan Area
-- 🕒 **Posted:** 2026-10-16
-
-### [Software Engineer, Developer Experience (Full-Stack)](https://www.linkedin.com/jobs/view/4460766912/) — Superhuman
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $200,000.00/yr - $300,000.00/yr
-- 🕒 **Posted:** 2026-10-16
-
-### [Software Engineer Intern, Mobile (Winter 2027)](https://www.linkedin.com/jobs/view/4471688313/) — Notion
+### [Software Developer](https://www.linkedin.com/jobs/view/4477707471/) — Mitchell Martin Inc.
 - 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-10-16
-
-### [Software Engineer IV](https://www.linkedin.com/jobs/view/4471649164/) — Lead
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-10-16
-
-### [Software Engineer, Developer Relations](https://www.linkedin.com/jobs/view/4471617799/) — PTR Global
-- 📍 **Location:** Cupertino, CA
-- 🕒 **Posted:** 2026-10-16
-
-### [Software Engineer Intern, Mobile (Winter 2027)](https://www.linkedin.com/jobs/view/4471697056/) — Notion
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-10-16
-
-### [Software Engineer, Scheduled Tasks](https://www.linkedin.com/jobs/view/4471681769/) — Vercel
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-10-16
-
-### [Infrastructure Engineer, On-Prem Systems](https://www.linkedin.com/jobs/view/4471527317/) — Lumafield
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $125,000.00/yr - $150,000.00/yr
-- 🕒 **Posted:** 2026-10-16
-
-### [Software Engineer in Test (SDET)](https://www.linkedin.com/jobs/view/4348661604/) — Citadel Securities
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-10-16
-
-### [Infrastructure Engineer](https://www.linkedin.com/jobs/view/4478497234/) — CDW
-- 📍 **Location:** Manhattan, NY
-- 💰 **Salary:** $70.00/hr - $80.00/hr
+- 💰 **Salary:** $44.00/hr - $54.00/hr
 - 🕒 **Posted:** 2026-10-16
