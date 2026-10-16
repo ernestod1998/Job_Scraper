@@ -1,54 +1,62 @@
 # 🟦 Indeed — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-10-15 22:40 UTC*
+*Last updated: 2026-10-16 01:38 UTC*
 
-**10 new role(s)** since last run · 51 total in last 24h
+**12 new role(s)** since last run · 54 total in last 24h
 
-### [Software Engineer (Technical Leadership) - Central Growth](https://www.indeed.com/viewjob?jk=4883d3f03e2a3a04) — Meta
-- 📍 **Location:** Menlo Park, CA, USA
-- 💰 **Salary:** $271k–$347k/yr
-- 🕒 **Posted:** 2026-10-15
-
-### [Computer Vision Engineer, Reality Labs](https://www.indeed.com/viewjob?jk=024787109b00854b) — Meta
-- 📍 **Location:** Burlingame, CA, USA
-- 💰 **Salary:** $154k–$217k/yr
-- 🕒 **Posted:** 2026-10-15
-
-### [Applied Scientist, Center for Quantum Computing, Physical Design and Simulation](https://www.indeed.com/viewjob?jk=f0cd89bd73b38f49) — Amazon Web Services
+### [Machine Learning Systems Administrator / DevOps Engineer: Training Clusters & Inference Cloud](https://www.indeed.com/viewjob?jk=7cb7b0b50c2ceae7) — Zyphra
 - 📍 **Location:** San Francisco, CA, USA
-- 💰 **Salary:** $172k–$222k/yr
 - 🕒 **Posted:** 2026-10-15
 
-### [Software Engineer - Ingestion Execution Platform](https://www.indeed.com/viewjob?jk=5c4fa683f4716b0e) — Snowflake
-- 📍 **Location:** Menlo Park, CA, USA
-- 💰 **Salary:** $264k–$380k/yr
+### [Software Engineer I - BizBuySell - San Francisco, CA](https://www.indeed.com/viewjob?jk=2699ec84e5b99277) — CoStar Group
+- 📍 **Location:** San Francisco, CA, USA
+- 💰 **Salary:** $125k–$172k/yr
 - 🕒 **Posted:** 2026-10-15
 
-### [EMC Test Engineer, Platforms Infrastructure Engineering](https://www.indeed.com/viewjob?jk=26f83a6ae0dc7a5b) — Google
-- 📍 **Location:** Sunnyvale, CA, USA
-- 💰 **Salary:** $132k–$189k/yr
+### [Fullstack Engineer](https://www.indeed.com/viewjob?jk=3d8edd182679e2ae) — Gallatin
+- 📍 **Location:** Palo Alto, CA, USA
+- 💰 **Salary:** $80k–$210k/yr
 - 🕒 **Posted:** 2026-10-15
 
-### [Applied Scientist, Advertising Trust](https://www.indeed.com/viewjob?jk=8d552b8f05407e83) — Amazon.com
+### [Internal Acceleration, Research Engineer (Hardware)](https://www.indeed.com/viewjob?jk=5c58551214fc92da) — Etched
+- 📍 **Location:** San Jose, CA, USA
+- 💰 **Salary:** $150k–$400k/yr
+- 🕒 **Posted:** 2026-10-15
+
+### [Internal Acceleration, Research Engineer (Production)](https://www.indeed.com/viewjob?jk=8802f96377d9c8ad) — Etched
+- 📍 **Location:** San Jose, CA, USA
+- 💰 **Salary:** $150k–$400k/yr
+- 🕒 **Posted:** 2026-10-15
+
+### [Software engineer, cloud infrastructure](https://www.indeed.com/viewjob?jk=853de49989e02853) — Watershed Technology
+- 📍 **Location:** San Francisco, CA, USA
+- 💰 **Salary:** $166k–$185k/yr
+- 🕒 **Posted:** 2026-10-15
+
+### [Internal Acceleration, Research Engineer (ASIC)](https://www.indeed.com/viewjob?jk=d8f1852690ee641c) — Etched
+- 📍 **Location:** San Jose, CA, USA
+- 💰 **Salary:** $150k–$400k/yr
+- 🕒 **Posted:** 2026-10-15
+
+### [Internal Acceleration, Research Engineer (Kernels)](https://www.indeed.com/viewjob?jk=a472e11c9a64c533) — Etched
+- 📍 **Location:** San Jose, CA, USA
+- 💰 **Salary:** $150k–$400k/yr
+- 🕒 **Posted:** 2026-10-15
+
+### [Robotics Software Engineer](https://www.indeed.com/viewjob?jk=66b066098e61ee43) — Relling
+- 📍 **Location:** San Francisco, CA, USA
+- 🕒 **Posted:** 2026-10-15
+
+### [Junior R&D Software Engineer](https://www.indeed.com/viewjob?jk=e8c599457f233c15) — Odoo
+- 📍 **Location:** Brisbane, CA, USA
+- 💰 **Salary:** $120k–$140k/yr
+- 🕒 **Posted:** 2026-10-15
+
+### [Data Scientist, Consultant (Utilities)](https://www.indeed.com/viewjob?jk=3759d09567fb329b) — Guidehouse
 - 📍 **Location:** New York, NY, USA
-- 💰 **Salary:** $143k–$223k/yr
+- 💰 **Salary:** $89k–$148k/yr
 - 🕒 **Posted:** 2026-10-15
 
-### [3DEXPERIENCE Platform Research Engineer](https://www.indeed.com/viewjob?jk=b9c19a22c60e3f2e) — Long Island University
-- 📍 **Location:** Brooklyn, NY, USA
-- 💰 **Salary:** $85k–$90k/yr
-- 🕒 **Posted:** 2026-10-15
-
-### [Software Engineer (Technical Leadership) - Central Growth](https://www.indeed.com/viewjob?jk=bb950711295b383e) — Meta
+### [Fullstack Engineer](https://www.indeed.com/viewjob?jk=05b2a07b789f42a1) — Gallatin
 - 📍 **Location:** New York, NY, USA
-- 💰 **Salary:** $271k–$347k/yr
-- 🕒 **Posted:** 2026-10-15
-
-### [Software Developer](https://www.indeed.com/viewjob?jk=a118cd35755a8693) — AM Specialty
-- 📍 **Location:** New York, NY, USA
-- 💰 **Salary:** $55–$74.50/hr
-- 🕒 **Posted:** 2026-10-15
-
-### [Quantitative Software Engineer (DV Commodities)](https://www.indeed.com/viewjob?jk=a3c88c8af28e4613) — DV Trading Inc.
-- 📍 **Location:** New York, NY, USA
-- 💰 **Salary:** $160k–$190k/yr
+- 💰 **Salary:** $80k–$210k/yr
 - 🕒 **Posted:** 2026-10-15
