@@ -1,67 +1,113 @@
 # 🟦 Indeed — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-10-16 07:30 UTC*
+*Last updated: 2026-10-16 18:59 UTC*
 
-**13 new role(s)** since last run · 50 total in last 24h
+**22 new role(s)** since last run · 55 total in last 24h
 
-### [Software Engineer, Computer Vision (Technical Leadership)](https://www.indeed.com/viewjob?jk=41dd0e5aff666e70) — Meta
-- 📍 **Location:** Burlingame, CA, USA
-- 💰 **Salary:** $219k–$301k/yr
+### [Machine Learning Engineer, Data for Foundation Models](https://www.indeed.com/viewjob?jk=f864a9560cb0558d) — Apple
+- 📍 **Location:** Cupertino, CA, USA
+- 💰 **Salary:** $150k–$278k/yr
 - 🕒 **Posted:** 2026-10-16
 
-### [Software Engineer](https://www.indeed.com/viewjob?jk=03e1ac5e19b4c623) — Applied Materials
-- 📍 **Location:** Santa Clara, CA, USA
-- 💰 **Salary:** $124k–$171k/yr
+### [Research Engineer / Scientist - Reinforcement Learning](https://www.indeed.com/viewjob?jk=93cf7b5c1d8b6c19) — Prime Intellect
+- 📍 **Location:** San Francisco, CA, USA
+- 💰 **Salary:** $150k–$350k/yr
 - 🕒 **Posted:** 2026-10-16
 
-### [Research Scientist, AI Language](https://www.indeed.com/viewjob?jk=4672ae0ec2da915e) — Meta
-- 📍 **Location:** Menlo Park, CA, USA
-- 💰 **Salary:** $184k–$257k/yr
+### [Machine Learning Engineer](https://www.indeed.com/viewjob?jk=3eec9ce241b74d23) — Accenture Federal Services
+- 📍 **Location:** San Francisco, CA, USA
+- 💰 **Salary:** $108k–$203k/yr
 - 🕒 **Posted:** 2026-10-16
 
-### [Wholepage Optimization Software Engineer, Google Ads](https://www.indeed.com/viewjob?jk=b5d08d1f5c7bda8f) — Google
+### [AI Research Engineer](https://www.indeed.com/viewjob?jk=7ff916b510cd6566) — Panasonic
 - 📍 **Location:** Mountain View, CA, USA
-- 💰 **Salary:** $147k–$210k/yr
+- 💰 **Salary:** $130k–$145k/yr
 - 🕒 **Posted:** 2026-10-16
 
-### [Software Engineer (Technical Leadership)](https://www.indeed.com/viewjob?jk=3678fd99a6079a0f) — Meta
+### [Research Engineer - Pretraining Data](https://www.indeed.com/viewjob?jk=0705c8c739e6c19e) — Prime Intellect
+- 📍 **Location:** San Francisco, CA, USA
+- 💰 **Salary:** $150k–$350k/yr
+- 🕒 **Posted:** 2026-10-16
+
+### [Research Engineer - Data and Evaluation](https://www.indeed.com/viewjob?jk=6181d8805a23855d) — Prime Intellect
+- 📍 **Location:** San Francisco, CA, USA
+- 💰 **Salary:** $150k–$350k/yr
+- 🕒 **Posted:** 2026-10-16
+
+### [Research Engineer - Inference](https://www.indeed.com/viewjob?jk=873c2107c81a97ca) — Prime Intellect
+- 📍 **Location:** San Francisco, CA, USA
+- 💰 **Salary:** $150k–$350k/yr
+- 🕒 **Posted:** 2026-10-16
+
+### [Research Engineer - Pretraining](https://www.indeed.com/viewjob?jk=a02bdb202a650029) — Prime Intellect
+- 📍 **Location:** San Francisco, CA, USA
+- 💰 **Salary:** $150k–$350k/yr
+- 🕒 **Posted:** 2026-10-16
+
+### [Software Engineer (Technical Leadership) - Central Growth](https://www.indeed.com/viewjob?jk=4883d3f03e2a3a04) — Meta
 - 📍 **Location:** Menlo Park, CA, USA
 - 💰 **Salary:** $271k–$347k/yr
+- 🕒 **Posted:** 2026-10-15
+
+### [Product Data Scientist, YouTube Search and Viewer AI](https://www.indeed.com/viewjob?jk=f23eb3251121465b) — Youtube
+- 📍 **Location:** San Bruno, CA, USA
+- 💰 **Salary:** $138k–$197k/yr
 - 🕒 **Posted:** 2026-10-16
 
-### [Optical Communications Software Engineer - Modem Integration](https://www.indeed.com/viewjob?jk=2687352694575271) — Bright Silicon Technologies
-- 📍 **Location:** Pleasanton, CA, USA
-- 💰 **Salary:** $120k–$220k/yr
+### [Data Scientist - Trial Surveillance & Analytics (Hybrid)](https://www.indeed.com/viewjob?jk=17918d2a8156c1cb) — AbbVie
+- 📍 **Location:** South San Francisco, CA, USA
+- 💰 **Salary:** $110k–$208k/yr
 - 🕒 **Posted:** 2026-10-16
 
-### [Java Full Stack Engineer](https://www.indeed.com/viewjob?jk=96ed61fbb4cf30f4) — Cognizant
+### [Applied Scientist III, AWS Account Management and Governance](https://www.indeed.com/viewjob?jk=239a5570b08b36e3) — Amazon Web Services
+- 📍 **Location:** Santa Clara, CA, USA
+- 💰 **Salary:** $192k–$260k/yr
+- 🕒 **Posted:** 2026-10-16
+
+### [Backend Engineer](https://www.indeed.com/viewjob?jk=75b871bffaa5722b) — Matternet
+- 📍 **Location:** Mountain View, CA, USA
+- 💰 **Salary:** $160k–$205k/yr
+- 🕒 **Posted:** 2026-10-16
+
+### [Software Engineer](https://www.indeed.com/viewjob?jk=a081642898b507c2) — mLabs
+- 📍 **Location:** San Francisco, CA, USA
+- 🕒 **Posted:** 2026-10-16
+
+### [Software Engineer - E2](https://www.indeed.com/viewjob?jk=912e2f97a541bd04) — Lockheed Martin
 - 📍 **Location:** Sunnyvale, CA, USA
-- 💰 **Salary:** $113k–$132k/yr
+- 💰 **Salary:** $101k–$188k/yr
 - 🕒 **Posted:** 2026-10-16
 
-### [Software Engineer, Mobile, Optimus](https://www.indeed.com/viewjob?jk=8f454add11105224) — Tesla
-- 📍 **Location:** Palo Alto, CA, USA
-- 💰 **Salary:** $118k–$390k/yr
+### [Onboard Software Engineer](https://www.indeed.com/viewjob?jk=4b0950fa53257bb7) — Matternet
+- 📍 **Location:** Mountain View, CA, USA
+- 💰 **Salary:** $160k–$205k/yr
 - 🕒 **Posted:** 2026-10-16
 
-### [Software Engineering - MTS, Trust Intelligence Platform](https://www.indeed.com/viewjob?jk=d3c899c503e1ea64) — Salesforce
-- 📍 **Location:** San Francisco, CA, USA
-- 💰 **Salary:** $117k–$194k/yr
-- 🕒 **Posted:** 2026-10-16
-
-### [Mobile Engineer](https://www.indeed.com/viewjob?jk=d25b0dbb87a84a61) — Deloitte
+### [Software Developer](https://www.indeed.com/viewjob?jk=1db2d45919418c3d) — Sikka Software
 - 📍 **Location:** San Jose, CA, USA
+- 💰 **Salary:** $85k–$125k/yr
 - 🕒 **Posted:** 2026-10-16
 
-### [Advisor - Cheminformatics & Computational Chemistry](https://www.indeed.com/viewjob?jk=130abee31c21935a) — Eli Lilly
+### [Software Developer](https://www.indeed.com/viewjob?jk=904f1ac212271519) — E8 Labs
+- 📍 **Location:** San Jose, CA, USA
+- 💰 **Salary:** $85k–$125k/yr
+- 🕒 **Posted:** 2026-10-16
+
+### [Site Reliability Engineer](https://www.indeed.com/viewjob?jk=f436e483d3399da1) — Matternet
+- 📍 **Location:** Mountain View, CA, USA
+- 💰 **Salary:** $160k–$205k/yr
+- 🕒 **Posted:** 2026-10-16
+
+### [Platform / Infrastructure Engineer – AI Training Data](https://www.indeed.com/viewjob?jk=c3b26b9ce7118e17) — RNB Consultancy
 - 📍 **Location:** San Francisco, CA, USA
-- 💰 **Salary:** $168k–$246k/yr
+- 💰 **Salary:** $250k–$300k/yr
 - 🕒 **Posted:** 2026-10-16
 
-### [Software Engineer III - AI/ML Engineer](https://www.indeed.com/viewjob?jk=0b65be523df52965) — JPMorganChase
-- 📍 **Location:** Jersey City, NJ, USA
-- 💰 **Salary:** $138k–$185k/yr
+### [Software Engineering Architect](https://www.indeed.com/viewjob?jk=b554823da4b6ee3d) — Salesforce
+- 📍 **Location:** San Francisco, CA, USA
+- 💰 **Salary:** $263k–$401k/yr
 - 🕒 **Posted:** 2026-10-16
 
-### [Mobile Engineer](https://www.indeed.com/viewjob?jk=2b4edaa454db2f48) — Deloitte
-- 📍 **Location:** Stamford, CT, USA
+### [Software Engineer - Simulation, Fauna](https://www.indeed.com/viewjob?jk=a73162d9b994084b) — Amazon.com
+- 📍 **Location:** New York, NY, USA
+- 💰 **Salary:** $158k–$214k/yr
 - 🕒 **Posted:** 2026-10-16
