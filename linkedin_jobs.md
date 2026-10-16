@@ -1,28 +1,36 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-10-16 03:18 UTC*
+*Last updated: 2026-10-16 07:29 UTC*
 
-**6 new role(s)** since last run · 17 total in last 1h
+**8 new role(s)** since last run · 8 total in last 1h
 
-### [Software Engineer Intern (Recommendation Performance Efficiency) - 2027 Summer](https://www.linkedin.com/jobs/view/4479199937/) — TikTok
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-10-15
-
-### [Advisor - Cheminformatics & Computational Chemistry](https://www.linkedin.com/jobs/view/4480312353/) — Eli Lilly and Company
+### [Software Engineering Architect](https://www.linkedin.com/jobs/view/4480339220/) — Salesforce
 - 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-10-15
+- 🕒 **Posted:** 2026-10-16
 
-### [Data Science Specialist](https://www.linkedin.com/jobs/view/4480316330/) — IZAR Associates, Inc.
+### [Remote Software Engineer ($300/hr)](https://www.linkedin.com/jobs/view/4479332485/) — Turing
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-10-16
+
+### [Remote Software Engineer](https://www.linkedin.com/jobs/view/4479339178/) — Turing
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-10-16
+
+### [Remote Software Developer](https://www.linkedin.com/jobs/view/4479327520/) — Turing
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-10-16
+
+### [Software Engineer II, Mobile (Card Acquisition)](https://www.linkedin.com/jobs/view/4479330422/) — Affirm
 - 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-10-15
+- 🕒 **Posted:** 2026-10-16
 
-### [Software engineer, cloud infrastructure](https://www.linkedin.com/jobs/view/4479306723/) — Watershed
+### [Software Engineer II, Mobile (Card Acquisition)](https://www.linkedin.com/jobs/view/4479320947/) — Affirm
 - 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-10-15
+- 🕒 **Posted:** 2026-10-16
 
-### [Software Engineer (Cloud Platforms)](https://www.linkedin.com/jobs/view/4477354271/) — AI Talent Hope
-- 📍 **Location:** San Mateo, CA
-- 🕒 **Posted:** 2026-10-15
+### [Software Engineer II, Mobile (Card Acquisition)](https://www.linkedin.com/jobs/view/4479337137/) — Affirm
+- 📍 **Location:** Palo Alto, CA
+- 🕒 **Posted:** 2026-10-16
 
-### [Java Full Stack Engineer](https://www.linkedin.com/jobs/view/4479303560/) — Cognizant
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-10-15
+### [Software Engineer II, Mobile (Card Acquisition)](https://www.linkedin.com/jobs/view/4479339143/) — Affirm
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-10-16
