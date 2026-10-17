@@ -1,62 +1,39 @@
 # 🟦 Indeed — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-10-17 06:05 UTC*
+*Last updated: 2026-10-17 17:57 UTC*
 
-**12 new role(s)** since last run · 59 total in last 24h
+**7 new role(s)** since last run · 45 total in last 24h
 
-### [Machine Learning Engineer, Enterprise Brain](https://www.indeed.com/viewjob?jk=cd7b6f3314d04ae2) — Glean Technologies
-- 📍 **Location:** Mountain View, CA, USA
-- 💰 **Salary:** $200k–$280k/yr
-- 🕒 **Posted:** 2026-10-16
-
-### [Software Engineer, Machine Learning RecSys](https://www.indeed.com/viewjob?jk=dc9844c73ead64a3) — Meta
-- 📍 **Location:** Fremont, CA, USA
-- 💰 **Salary:** $154k–$217k/yr
-- 🕒 **Posted:** 2026-10-16
-
-### [Generative AI Engineer - Graphics](https://www.indeed.com/viewjob?jk=025fafb2ecdf259c) — AMD
-- 📍 **Location:** San Jose, CA, USA
-- 🕒 **Posted:** 2026-10-16
-
-### [Software Engineer](https://www.indeed.com/viewjob?jk=9f7f913d4f480afe) — Hewlett Packard Enterprise | HPE
-- 📍 **Location:** San Jose, CA, USA
-- 💰 **Salary:** $108k–$218k/yr
-- 🕒 **Posted:** 2026-10-16
-
-### [Android AOSP Device Software Engineer](https://www.indeed.com/viewjob?jk=a4a170e386c57e62) — Fiserv
-- 📍 **Location:** Sunnyvale, CA, USA
-- 💰 **Salary:** $160k–$240k/yr
-- 🕒 **Posted:** 2026-10-16
-
-### [Software Engineer II - Engineer](https://www.indeed.com/viewjob?jk=dd12db539e3b8d49) — Uber
+### [Applied AI Scientist](https://www.indeed.com/viewjob?jk=c456d13bbf2051bb) — David Joseph & Company
 - 📍 **Location:** San Francisco, CA, USA
-- 💰 **Salary:** $171k–$190k/yr
-- 🕒 **Posted:** 2026-10-16
+- 💰 **Salary:** $170k–$300k/yr
+- 🕒 **Posted:** 2026-10-17
 
-### [Software Engineer, Mobile Web — Dots](https://www.indeed.com/viewjob?jk=d22f3095078cf6ce) — OpenAI
+### [Research Scientist, Machine Learning & Signal Processing [Technical Leadership]](https://www.indeed.com/viewjob?jk=41d953d3e21469d5) — Meta
+- 📍 **Location:** Burlingame, CA, USA
+- 💰 **Salary:** $219k–$301k/yr
+- 🕒 **Posted:** 2026-10-17
+
+### [Software Engineer, WebKit Accessibility](https://www.indeed.com/viewjob?jk=b11477faa9779e74) — Apple
+- 📍 **Location:** Cupertino, CA, USA
+- 💰 **Salary:** $150k–$278k/yr
+- 🕒 **Posted:** 2026-10-17
+
+### [Applied Scientist II, Sponsored Products Bidding](https://www.indeed.com/viewjob?jk=aed9c7f625f43a0e) — Amazon.com
 - 📍 **Location:** New York, NY, USA
-- 💰 **Salary:** $347k–$385k/yr
-- 🕒 **Posted:** 2026-10-16
+- 💰 **Salary:** $143k–$223k/yr
+- 🕒 **Posted:** 2026-10-17
 
-### [Software Engineer, Full Stack — Dots](https://www.indeed.com/viewjob?jk=96f309350b107610) — OpenAI
+### [Software Engineer, Wearables Interfaces Engineering](https://www.indeed.com/viewjob?jk=7ef08b7f5cbb704e) — Meta
 - 📍 **Location:** New York, NY, USA
-- 💰 **Salary:** $347k–$385k/yr
-- 🕒 **Posted:** 2026-10-16
+- 💰 **Salary:** $184k–$257k/yr
+- 🕒 **Posted:** 2026-10-17
 
-### [Software Engineer, Machine Learning RecSys](https://www.indeed.com/viewjob?jk=e51a12dbe1174fd0) — Meta
+### [Applied Scientist, Personalization, DTx Science](https://www.indeed.com/viewjob?jk=35e15eca5f10c0db) — Amazon.com
 - 📍 **Location:** New York, NY, USA
-- 💰 **Salary:** $154k–$217k/yr
-- 🕒 **Posted:** 2026-10-16
+- 💰 **Salary:** $143k–$223k/yr
+- 🕒 **Posted:** 2026-10-17
 
-### [Software Development Engineer II, Generative AI](https://www.indeed.com/viewjob?jk=f4d13594e1336679) — Ignite Insurance Systems
-- 📍 **Location:** Jersey City, NJ, USA
-- 🕒 **Posted:** 2026-10-16
-
-### [Software Engineer](https://www.indeed.com/viewjob?jk=14cf27428677bce3) — Creeda
+### [Software Engineer, ASE Commerce Engineering](https://www.indeed.com/viewjob?jk=a03529d75bc2456e) — Apple
 - 📍 **Location:** New York, NY, USA
-- 💰 **Salary:** $100k–$140k/yr
-- 🕒 **Posted:** 2026-10-16
-
-### [Associate - Full-Stack Software Engineer](https://www.indeed.com/viewjob?jk=3dca5a9875177819) — New York Life
-- 📍 **Location:** New York, NY, USA
-- 💰 **Salary:** $81k–$116k/yr
-- 🕒 **Posted:** 2026-10-16
+- 💰 **Salary:** $150k–$278k/yr
+- 🕒 **Posted:** 2026-10-17
