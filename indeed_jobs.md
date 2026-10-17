@@ -1,43 +1,62 @@
 # 🟦 Indeed — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-10-17 00:46 UTC*
+*Last updated: 2026-10-17 06:05 UTC*
 
-**8 new role(s)** since last run · 58 total in last 24h
+**12 new role(s)** since last run · 59 total in last 24h
 
-### [Software Engineer, ML Training Performance](https://www.indeed.com/viewjob?jk=694fccc9287c0530) — Zoox
-- 📍 **Location:** Foster City, CA, USA
-- 💰 **Salary:** $177k–$270k/yr
+### [Machine Learning Engineer, Enterprise Brain](https://www.indeed.com/viewjob?jk=cd7b6f3314d04ae2) — Glean Technologies
+- 📍 **Location:** Mountain View, CA, USA
+- 💰 **Salary:** $200k–$280k/yr
 - 🕒 **Posted:** 2026-10-16
 
-### [Software Engineer, Embedded Systems](https://www.indeed.com/viewjob?jk=695242f8d5f7c6e2) — Meta
-- 📍 **Location:** Burlingame, CA, USA
+### [Software Engineer, Machine Learning RecSys](https://www.indeed.com/viewjob?jk=dc9844c73ead64a3) — Meta
+- 📍 **Location:** Fremont, CA, USA
 - 💰 **Salary:** $154k–$217k/yr
 - 🕒 **Posted:** 2026-10-16
 
-### [Software Engineer II, Backend - HR Product](https://www.indeed.com/viewjob?jk=42cc01a8f0d319ef) — Rippling
+### [Generative AI Engineer - Graphics](https://www.indeed.com/viewjob?jk=025fafb2ecdf259c) — AMD
+- 📍 **Location:** San Jose, CA, USA
+- 🕒 **Posted:** 2026-10-16
+
+### [Software Engineer](https://www.indeed.com/viewjob?jk=9f7f913d4f480afe) — Hewlett Packard Enterprise | HPE
+- 📍 **Location:** San Jose, CA, USA
+- 💰 **Salary:** $108k–$218k/yr
+- 🕒 **Posted:** 2026-10-16
+
+### [Android AOSP Device Software Engineer](https://www.indeed.com/viewjob?jk=a4a170e386c57e62) — Fiserv
+- 📍 **Location:** Sunnyvale, CA, USA
+- 💰 **Salary:** $160k–$240k/yr
+- 🕒 **Posted:** 2026-10-16
+
+### [Software Engineer II - Engineer](https://www.indeed.com/viewjob?jk=dd12db539e3b8d49) — Uber
 - 📍 **Location:** San Francisco, CA, USA
-- 💰 **Salary:** $152k–$225k/yr
+- 💰 **Salary:** $171k–$190k/yr
 - 🕒 **Posted:** 2026-10-16
 
-### [Network Site Reliability Engineer, AI Solutions Lab](https://www.indeed.com/viewjob?jk=ba0359210efb08ba) — Marvell Technology
-- 📍 **Location:** Santa Clara, CA, USA
-- 💰 **Salary:** $131k–$196k/yr
-- 🕒 **Posted:** 2026-10-16
-
-### [Asst Dir-Data Scientist](https://www.indeed.com/viewjob?jk=3e2320f35a99e0e9) — Moody's
+### [Software Engineer, Mobile Web — Dots](https://www.indeed.com/viewjob?jk=d22f3095078cf6ce) — OpenAI
 - 📍 **Location:** New York, NY, USA
-- 💰 **Salary:** $116k–$169k/yr
+- 💰 **Salary:** $347k–$385k/yr
 - 🕒 **Posted:** 2026-10-16
 
-### [Software Development Engineer II, Generative AI](https://www.indeed.com/viewjob?jk=de8fd5c25acb0b06) — Verisk
+### [Software Engineer, Full Stack — Dots](https://www.indeed.com/viewjob?jk=96f309350b107610) — OpenAI
+- 📍 **Location:** New York, NY, USA
+- 💰 **Salary:** $347k–$385k/yr
+- 🕒 **Posted:** 2026-10-16
+
+### [Software Engineer, Machine Learning RecSys](https://www.indeed.com/viewjob?jk=e51a12dbe1174fd0) — Meta
+- 📍 **Location:** New York, NY, USA
+- 💰 **Salary:** $154k–$217k/yr
+- 🕒 **Posted:** 2026-10-16
+
+### [Software Development Engineer II, Generative AI](https://www.indeed.com/viewjob?jk=f4d13594e1336679) — Ignite Insurance Systems
 - 📍 **Location:** Jersey City, NJ, USA
 - 🕒 **Posted:** 2026-10-16
 
-### [Software Engineer II, Backend - HR Product](https://www.indeed.com/viewjob?jk=16a1e86d6c63cd2a) — Rippling
+### [Software Engineer](https://www.indeed.com/viewjob?jk=14cf27428677bce3) — Creeda
 - 📍 **Location:** New York, NY, USA
-- 💰 **Salary:** $152k–$225k/yr
+- 💰 **Salary:** $100k–$140k/yr
 - 🕒 **Posted:** 2026-10-16
 
-### [Software Engineering III - AWS, GCP, Terraform](https://www.indeed.com/viewjob?jk=f8af66e2b857b882) — JPMorganChase
-- 📍 **Location:** Jersey City, NJ, USA
-- 💰 **Salary:** $138k–$185k/yr
+### [Associate - Full-Stack Software Engineer](https://www.indeed.com/viewjob?jk=3dca5a9875177819) — New York Life
+- 📍 **Location:** New York, NY, USA
+- 💰 **Salary:** $81k–$116k/yr
 - 🕒 **Posted:** 2026-10-16
