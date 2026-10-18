@@ -1,6 +1,8 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-10-18 02:17 UTC*
+*Last updated: 2026-10-18 03:17 UTC*
 
-**0 new role(s)** since last run · 2 total in last 1h
+**1 new role(s)** since last run · 1 total in last 1h
 
-No new roles since the last run.
+### [Machine Learning Engineer, GeForce G-Assist](https://www.linkedin.com/jobs/view/4479916110/) — NVIDIA
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-10-17
