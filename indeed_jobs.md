@@ -1,29 +1,14 @@
 # 🟦 Indeed — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-10-18 06:32 UTC*
+*Last updated: 2026-10-18 18:17 UTC*
 
-**5 new role(s)** since last run · 11 total in last 24h
+**2 new role(s)** since last run · 8 total in last 24h
 
-### [Software Engineer, Edge](https://www.indeed.com/viewjob?jk=a1023ce8ee068678) — Kargo
-- 📍 **Location:** San Francisco, CA, USA
-- 💰 **Salary:** $130k–$150k/yr
-- 🕒 **Posted:** 2026-10-17
+### [Software Developer](https://www.indeed.com/viewjob?jk=613763cb0cfc45dd) — NumeriX Capital
+- 📍 **Location:** Long Island City, NY, USA
+- 💰 **Salary:** $126k–$152k/yr
+- 🕒 **Posted:** 2026-10-18
 
-### [.NET Software Engineer](https://www.indeed.com/viewjob?jk=3e72e3354580f150) — Deloitte
-- 📍 **Location:** San Jose, CA, USA
-- 💰 **Salary:** $80k–$115k/yr
-- 🕒 **Posted:** 2026-10-17
-
-### [Software Engineer 2, Mid Market Intelligence](https://www.indeed.com/viewjob?jk=7cd311eefa28d1b0) — Intuit
-- 📍 **Location:** Mountain View, CA, USA
-- 💰 **Salary:** $140k–$190k/yr
-- 🕒 **Posted:** 2026-10-17
-
-### [Research Scientist, Machine Learning & Signal Processing [Technical Leadership]](https://www.indeed.com/viewjob?jk=b0e1d0761fdf799d) — Meta
+### [.NET Software Engineer](https://www.indeed.com/viewjob?jk=9e98918011087f5b) — Deloitte
 - 📍 **Location:** New York, NY, USA
-- 💰 **Salary:** $219k–$301k/yr
-- 🕒 **Posted:** 2026-10-17
-
-### [.NET Software Engineer](https://www.indeed.com/viewjob?jk=cbdf8f1e45a19e8d) — Deloitte
-- 📍 **Location:** Stamford, CT, USA
 - 💰 **Salary:** $80k–$115k/yr
-- 🕒 **Posted:** 2026-10-17
+- 🕒 **Posted:** 2026-10-18
