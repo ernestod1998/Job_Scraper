@@ -1,52 +1,82 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-10-19 18:17 UTC*
+*Last updated: 2026-10-19 19:18 UTC*
 
-**11 new role(s)** since last run · 17 total in last 1h
+**19 new role(s)** since last run · 31 total in last 1h
 
-### [Software Engineer, ML Infrastructure, Core Inference, Level 4](https://www.linkedin.com/jobs/view/4481243229/) — Snap Inc.
-- 📍 **Location:** Palo Alto, CA
+### [Software Engineer](https://www.linkedin.com/jobs/view/4481205989/) — EnTech
+- 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-10-19
 
-### [Reinforcement Learning Engineer](https://www.linkedin.com/jobs/view/4478296998/) — Platform Recruitment
+### [Software Engineer, C/C++ SDK Performance Optimization](https://www.linkedin.com/jobs/view/4480268151/) — TikTok
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-10-19
+
+### [AI Infrastructure Engineer](https://www.linkedin.com/jobs/view/4480248960/) — AMAX
+- 📍 **Location:** Fremont, CA
+- 🕒 **Posted:** 2026-10-19
+
+### [Software Engineering Intern (2027)](https://www.linkedin.com/jobs/view/4478613266/) — Databricks
+- 📍 **Location:** Mountain View, CA
+- 🕒 **Posted:** 2026-10-19
+
+### [Software Engineering Intern (2027)](https://www.linkedin.com/jobs/view/4478600875/) — Databricks
 - 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $125,000.00/yr - $225,000.00/yr
 - 🕒 **Posted:** 2026-10-19
 
-### [AI TRAINER – DATA SCIENCE](https://www.linkedin.com/jobs/view/4474014666/) — Planet Pharma
+### [Software Engineering Intern (2027 Start) - Winter](https://www.linkedin.com/jobs/view/4478617137/) — Databricks
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-10-19
 
-### [Software Engineer - Full Stack](https://www.linkedin.com/jobs/view/4480267035/) — Evlo AI
+### [Software Engineering Intern (2027 Start) - Winter](https://www.linkedin.com/jobs/view/4478602797/) — Databricks
+- 📍 **Location:** Mountain View, CA
+- 🕒 **Posted:** 2026-10-19
+
+### [Software Engineer, Applied AI](https://www.linkedin.com/jobs/view/4480255839/) — AKASA
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-10-19
+
+### [Cloud Engineer – AWS Infrastructure & DevOps](https://www.linkedin.com/jobs/view/4481244680/) — METRIX IT SOLUTIONS INC
+- 📍 **Location:** Jersey City, NJ
+- 🕒 **Posted:** 2026-10-19
+
+### [Java Backend Engineer](https://www.linkedin.com/jobs/view/4478623013/) — Dew Software
+- 📍 **Location:** Fremont, CA
+- 💰 **Salary:** $50.00/hr - $70.00/hr
+- 🕒 **Posted:** 2026-10-19
+
+### [Software Engineer, Applied AI](https://www.linkedin.com/jobs/view/4480269290/) — AKASA
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-10-19
 
-### [AI/ML Engineer](https://www.linkedin.com/jobs/view/4480261407/) — Harnham
-- 📍 **Location:** San Mateo County, CA
-- 💰 **Salary:** $250,000.00/yr - $350,000.00/yr
+### [Software Engineer (Go, k8s, AWS/GCP)](https://www.linkedin.com/jobs/view/4480256865/) — Colossus Technologies Group
+- 📍 **Location:** Sunnyvale, CA
 - 🕒 **Posted:** 2026-10-19
 
-### [AI/ML Engineer](https://www.linkedin.com/jobs/view/4481232530/) — Harnham
+### [Full Stack Engineer](https://www.linkedin.com/jobs/view/4471658902/) — Unit21
 - 📍 **Location:** San Francisco Bay Area
 - 🕒 **Posted:** 2026-10-19
 
-### [Research Scientist, ML Systems - PhD New College Grad 2026](https://www.linkedin.com/jobs/view/4395482499/) — NVIDIA
-- 📍 **Location:** Santa Clara, CA
+### [Full Stack Engineer](https://www.linkedin.com/jobs/view/4478617246/) — Client of Maven Companies Inc.
+- 📍 **Location:** Dublin, CA
 - 🕒 **Posted:** 2026-10-19
 
-### [Machine Learning Engineer](https://www.linkedin.com/jobs/view/4481245357/) — CVS Health
-- 📍 **Location:** New York, NY
+### [Java Software Engineer](https://www.linkedin.com/jobs/view/4470650702/) — Flexton Inc.
+- 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-10-19
 
-### [Software Engineer](https://www.linkedin.com/jobs/view/4481233946/) — eClerx
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-10-19
-
-### [Junior Software Engineer](https://www.linkedin.com/jobs/view/4481233601/) — Kastel Group
-- 📍 **Location:** New York City Metropolitan Area
-- 💰 **Salary:** $125,000.00/yr - $175,000.00/yr
-- 🕒 **Posted:** 2026-10-19
-
-### [Software Engineer III- #26-24196](https://www.linkedin.com/jobs/view/4469693111/) — US Tech Solutions
+### [Python Full Stack Engineer](https://www.linkedin.com/jobs/view/4481235980/) — Futran Solutions
 - 📍 **Location:** Menlo Park, CA
-- 💰 **Salary:** $75.00/hr - $110.00/hr
+- 🕒 **Posted:** 2026-10-19
+
+### [GPU Infrastructure Engineer](https://www.linkedin.com/jobs/view/4480258842/) — Centraprise
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-10-19
+
+### [Portfolio Software Engineer](https://www.linkedin.com/jobs/view/4479958332/) — Beacon Holdings
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-10-19
+
+### [Java Full Stack Engineer](https://www.linkedin.com/jobs/view/4481258278/) — Pyramid Consulting, Inc
+- 📍 **Location:** Jersey City, NJ
+- 💰 **Salary:** $65.00/hr - $75.00/hr
 - 🕒 **Posted:** 2026-10-19
