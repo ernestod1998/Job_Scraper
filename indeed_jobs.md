@@ -1,70 +1,153 @@
 # 🟦 Indeed — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-10-20 06:32 UTC*
+*Last updated: 2026-10-20 19:34 UTC*
 
-**14 new role(s)** since last run · 50 total in last 24h
+**30 new role(s)** since last run · 60 total in last 24h
 
-### [Software Engineer, ML Infrastructure, Core Inference, Level 4](https://www.indeed.com/viewjob?jk=e73f6c8bdb951b06) — Snap Inc.
-- 📍 **Location:** Palo Alto, CA, USA
-- 💰 **Salary:** $133k–$235k/yr
-- 🕒 **Posted:** 2026-10-19
+### [Site Reliability Engineer, Applied Machine Learning](https://www.indeed.com/viewjob?jk=48ed21226bde67e0) — TikTok USDS JV
+- 📍 **Location:** San Jose, CA, USA
+- 💰 **Salary:** $123k–$259k/yr
+- 🕒 **Posted:** 2026-10-20
 
-### [Backend Engineer](https://www.indeed.com/viewjob?jk=cd758416af618799) — Known
+### [Machine Learning Engineering Technical Leader](https://www.indeed.com/viewjob?jk=2d116b0a3127d531) — Cisco
+- 📍 **Location:** San Jose, CA, USA
+- 💰 **Salary:** $234k–$384k/yr
+- 🕒 **Posted:** 2026-10-20
+
+### [Machine Learning Engineer](https://www.indeed.com/viewjob?jk=2e238e4c1780fb6e) — Witness AI
+- 📍 **Location:** San Francisco Bay Area, CA, USA
+- 💰 **Salary:** $36k–$60k/yr
+- 🕒 **Posted:** 2026-10-20
+
+### [Research Scientist, Machine Learning](https://www.indeed.com/viewjob?jk=014ac71ddbf75854) — Meta
+- 📍 **Location:** Menlo Park, CA, USA
+- 💰 **Salary:** $154k–$217k/yr
+- 🕒 **Posted:** 2026-10-20
+
+### [Software Engineer, Accelerators Software/Hardware Co design, DeepMind](https://www.indeed.com/viewjob?jk=2725512ded45b712) — DeepMind
 - 📍 **Location:** San Francisco, CA, USA
-- 💰 **Salary:** $200k–$350k/yr
-- 🕒 **Posted:** 2026-10-19
+- 💰 **Salary:** $174k–$252k/yr
+- 🕒 **Posted:** 2026-10-20
 
-### [Software Engineer - Realtime Pipeline](https://www.indeed.com/viewjob?jk=a4c1a6dc7837e98d) — Bridge Neurotech, Inc.
-- 📍 **Location:** Redwood City, CA, USA
-- 🕒 **Posted:** 2026-10-19
-
-### [Full Stack Engineer](https://www.indeed.com/viewjob?jk=1c99bd92eff259b4) — Efference
-- 📍 **Location:** San Francisco, CA, USA
-- 🕒 **Posted:** 2026-10-19
-
-### [Software Engineer, iOS/Mobile](https://www.indeed.com/viewjob?jk=0589ef79f5cb8d40) — Beacon AI
-- 📍 **Location:** San Carlos, CA, USA
-- 💰 **Salary:** $135k–$168k/yr
-- 🕒 **Posted:** 2026-10-19
-
-### [Backend Software Engineer, Cooperative AI (Evals)](https://www.indeed.com/viewjob?jk=27db016cf8107d68) — OpenAI
-- 📍 **Location:** San Francisco, CA, USA
-- 💰 **Salary:** $266k–$445k/yr
-- 🕒 **Posted:** 2026-10-19
-
-### [Software Engineer, Research Tooling](https://www.indeed.com/viewjob?jk=322ad4440fb53f23) — CURSOR
-- 📍 **Location:** Palo Alto, CA, USA
-- 🕒 **Posted:** 2026-10-19
-
-### [Junior Software Engineer - Client Services](https://www.indeed.com/viewjob?jk=31c96fa098242f95) — Centrl
+### [Software Engineer, Accelerators Software/Hardware Co design, DeepMind](https://www.indeed.com/viewjob?jk=ba7a08f066222cd7) — DeepMind
 - 📍 **Location:** Mountain View, CA, USA
-- 🕒 **Posted:** 2026-10-19
+- 💰 **Salary:** $174k–$252k/yr
+- 🕒 **Posted:** 2026-10-20
 
-### [Research Engineer](https://www.indeed.com/viewjob?jk=b803e918ff537a4c) — Storm3
+### [Data Scientist 2](https://www.indeed.com/viewjob?jk=f9a360d8fc8204af) — Gap Inc.
 - 📍 **Location:** San Francisco, CA, USA
-- 💰 **Salary:** $250k–$400k/yr
-- 🕒 **Posted:** 2026-10-19
+- 💰 **Salary:** $207k–$217k/yr
+- 🕒 **Posted:** 2026-10-20
 
-### [Machine Learning Engineer](https://www.indeed.com/viewjob?jk=1c2610479e81843b) — CVS Health
+### [Software Engineer - Federal](https://www.indeed.com/viewjob?jk=608cdfd29ab105a1) — ServiceNow
+- 📍 **Location:** Santa Clara, CA, USA
+- 💰 **Salary:** $126k–$195k/yr
+- 🕒 **Posted:** 2026-10-20
+
+### [AI Backend Engineer](https://www.indeed.com/viewjob?jk=1e8818ff979f702a) — Marki River City
+- 📍 **Location:** San Francisco, CA, USA
+- 💰 **Salary:** $201k–$240k/yr
+- 🕒 **Posted:** 2026-10-20
+
+### [Software Engineer](https://www.indeed.com/viewjob?jk=b9736d50ab40d1eb) — Lawrence Livermore National Laboratory
+- 📍 **Location:** Livermore, CA, USA
+- 💰 **Salary:** $146k–$223k/yr
+- 🕒 **Posted:** 2026-10-20
+
+### [Compiler Backend Engineer](https://www.indeed.com/viewjob?jk=be015d149bf6a452) — Normal Computing Corporation
+- 📍 **Location:** Palo Alto, CA, USA
+- 💰 **Salary:** $200k–$300k/yr
+- 🕒 **Posted:** 2026-10-20
+
+### [Software Engineer, Gemini App Skills Platform, DeepMind](https://www.indeed.com/viewjob?jk=4eec41a1a7e39057) — DeepMind
+- 📍 **Location:** Mountain View, CA, USA
+- 💰 **Salary:** $174k–$252k/yr
+- 🕒 **Posted:** 2026-10-20
+
+### [Software Engineer (Backend)](https://www.indeed.com/viewjob?jk=5ed31834c05ae212) — Cisco
+- 📍 **Location:** San Jose, CA, USA
+- 💰 **Salary:** $138k–$256k/yr
+- 🕒 **Posted:** 2026-10-20
+
+### [Software Engineer III, AI/ML, Search](https://www.indeed.com/viewjob?jk=47853e0645bc0561) — Google
+- 📍 **Location:** Mountain View, CA, USA
+- 💰 **Salary:** $147k–$210k/yr
+- 🕒 **Posted:** 2026-10-20
+
+### [DEVOPS ENGINEER L4](https://www.indeed.com/viewjob?jk=cbd0f24158bef02e) — Wipro
+- 📍 **Location:** Santa Clara, CA, USA
+- 💰 **Salary:** $80k–$160k/yr
+- 🕒 **Posted:** 2026-10-20
+
+### [Software Products and Platform Engineering Specialist](https://www.indeed.com/viewjob?jk=907e9799a9cdfacb) — Accenture
+- 📍 **Location:** Walnut Creek, CA, USA
+- 💰 **Salary:** $59k–$206k/yr
+- 🕒 **Posted:** 2026-10-20
+
+### [Embedded Software Engineer](https://www.indeed.com/viewjob?jk=af2424657ae2dddc) — Vistance Networks
+- 📍 **Location:** Santa Clara, CA, USA
+- 🕒 **Posted:** 2026-10-20
+
+### [Network & Infrastructure Engineer](https://www.indeed.com/viewjob?jk=823ed36114ccd8a2) — Rigetti Computing
+- 📍 **Location:** Fremont, CA, USA
+- 💰 **Salary:** $190k–$240k/yr
+- 🕒 **Posted:** 2026-10-20
+
+### [Production Support Engineering - Cloud DevOps Engineer SMTS](https://www.indeed.com/viewjob?jk=f6c6dd47d6716d4b) — Salesforce
+- 📍 **Location:** San Francisco, CA, USA
+- 💰 **Salary:** $148k–$224k/yr
+- 🕒 **Posted:** 2026-10-20
+
+### [Software Engineering SMTS](https://www.indeed.com/viewjob?jk=b1dfade22df79c83) — Salesforce
+- 📍 **Location:** San Francisco, CA, USA
+- 💰 **Salary:** $148k–$224k/yr
+- 🕒 **Posted:** 2026-10-20
+
+### [Software Engineer, Generative AI for Image/Video, 3D/4D](https://www.indeed.com/viewjob?jk=7383c64b5125336d) — Google
 - 📍 **Location:** New York, NY, USA
-- 💰 **Salary:** $87k–$173k/yr
-- 🕒 **Posted:** 2026-10-19
+- 💰 **Salary:** $174k–$252k/yr
+- 🕒 **Posted:** 2026-10-20
 
-### [Analyst, Data Science - Burson](https://www.indeed.com/viewjob?jk=7bfe64988b35de53) — Burson Global
+### [Research Scientist, Machine Learning](https://www.indeed.com/viewjob?jk=6ecd7a2fe6e4d424) — Meta
 - 📍 **Location:** New York, NY, USA
-- 💰 **Salary:** $35k–$75k/yr
-- 🕒 **Posted:** 2026-10-19
+- 💰 **Salary:** $154k–$217k/yr
+- 🕒 **Posted:** 2026-10-20
 
-### [Advanced Software Engineer](https://www.indeed.com/viewjob?jk=954fd3c4de367c0e) — Metropolitan Transportation Authority
+### [Applied Scientist, CreativeX](https://www.indeed.com/viewjob?jk=6003d5633411bf2d) — Amazon.com
+- 📍 **Location:** New York, NY, USA
+- 💰 **Salary:** $143k–$223k/yr
+- 🕒 **Posted:** 2026-10-20
+
+### [Software Engineer - Applied AI / Product Engineering](https://www.indeed.com/viewjob?jk=2518025421adba5f) — mLabs
+- 📍 **Location:** New York, NY, USA
+- 💰 **Salary:** $160k–$250k/yr
+- 🕒 **Posted:** 2026-10-20
+
+### [Data Scientist](https://www.indeed.com/viewjob?jk=60b3e3c6758b29a8) — police department
+- 📍 **Location:** New York, NY, USA
+- 💰 **Salary:** $110k–$142k/yr
+- 🕒 **Posted:** 2026-10-20
+
+### [Advanced Software Engineer](https://www.indeed.com/viewjob?jk=491e2f3b68d466ca) — Metropolitan Transportation Authority
 - 📍 **Location:** New York, NY, USA
 - 💰 **Salary:** $141k–$166k/yr
-- 🕒 **Posted:** 2026-10-19
+- 🕒 **Posted:** 2026-10-20
 
-### [Full-Stack Software Engineer III (Python, React, Playwright)](https://www.indeed.com/viewjob?jk=f6ba8db3afbc714a) — JPMorganChase
-- 📍 **Location:** Jersey City, NJ, USA
-- 💰 **Salary:** $138k–$185k/yr
-- 🕒 **Posted:** 2026-10-19
-
-### [Systems Software Engineer, Hardware Validation](https://www.indeed.com/viewjob?jk=72fbf0a468811fe1) — Voyant Photonics
+### [Software Engineer II, Backend Full Stack - IT Product](https://www.indeed.com/viewjob?jk=72c98e94db3a94a9) — Rippling
 - 📍 **Location:** New York, NY, USA
-- 💰 **Salary:** $110k–$170k/yr
-- 🕒 **Posted:** 2026-10-19
+- 💰 **Salary:** $135k–$236k/yr
+- 🕒 **Posted:** 2026-10-20
+
+### [Authorized Officer, Software Engineer](https://www.indeed.com/viewjob?jk=f03715d830d2548e) — UBS
+- 📍 **Location:** New York, NY, USA
+- 💰 **Salary:** $138k–$143k/yr
+- 🕒 **Posted:** 2026-10-20
+
+### [Software Products and Platform Engineering Specialist](https://www.indeed.com/viewjob?jk=00c85b10df0efbaa) — Logic, Inc.
+- 📍 **Location:** New York, NY, USA
+- 💰 **Salary:** $59k–$206k/yr
+- 🕒 **Posted:** 2026-10-20
+
+### [Software Products and Platform Engineering Specialist](https://www.indeed.com/viewjob?jk=f954578bfb444c52) — Accenture
+- 📍 **Location:** New York, NY, USA
+- 💰 **Salary:** $59k–$206k/yr
+- 🕒 **Posted:** 2026-10-20
