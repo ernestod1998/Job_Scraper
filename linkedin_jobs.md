@@ -1,75 +1,69 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-10-20 22:18 UTC*
+*Last updated: 2026-10-20 23:18 UTC*
 
-**17 new role(s)** since last run · 21 total in last 1h
+**15 new role(s)** since last run · 30 total in last 1h
 
-### [Machine Learning Engineer, Foundational AI (FAI)](https://www.linkedin.com/jobs/view/4481788431/) — Amazon
-- 📍 **Location:** Sunnyvale, CA
+### [Data & AI Platform Engineer II](https://www.linkedin.com/jobs/view/4482005115/) — Exelixis
+- 📍 **Location:** Alameda, CA
 - 🕒 **Posted:** 2026-10-20
 
-### [Product Data Scientist - Marketplace Logistics](https://www.linkedin.com/jobs/view/4480734173/) — Waymo
+### [Infra DevOps and Backend Engineer](https://www.linkedin.com/jobs/view/4481784847/) — GMI Cloud
 - 📍 **Location:** Mountain View, CA
 - 🕒 **Posted:** 2026-10-20
 
-### [Vision Software Engineer](https://www.linkedin.com/jobs/view/4480720807/) — Vaspire Technologies Inc.
+### [AI/ML Scientist, Agent Platform](https://www.linkedin.com/jobs/view/4480731426/) — Bayside Solutions
+- 📍 **Location:** San Mateo County, CA
+- 💰 **Salary:** $85.00/hr - $105.00/hr
+- 🕒 **Posted:** 2026-10-20
+
+### [AI/ML Engineer](https://www.linkedin.com/jobs/view/4481791730/) — Info Way Solutions
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-10-20
+
+### [Software Engineer, Backend](https://www.linkedin.com/jobs/view/4481786855/) — Justworks
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-10-20
+
+### [Asset & Wealth Management - Software Engineering - Associate - New York](https://www.linkedin.com/jobs/view/4480740098/) — Goldman Sachs
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-10-20
+
+### [Site Reliability Engineering Strategy & Governance](https://www.linkedin.com/jobs/view/4481789941/) — Broadridge
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-10-20
+
+### [Data Scientist, Amazon Connect](https://www.linkedin.com/jobs/view/4481755233/) — Amazon Web Services (AWS)
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-10-20
+
+### [Software Engineer Intern](https://www.linkedin.com/jobs/view/4481789878/) — Semgrep
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-10-20
+
+### [Test Engineer - Software Developer in Test](https://www.linkedin.com/jobs/view/4481784785/) — Apex Systems
+- 📍 **Location:** Foster City, CA
+- 💰 **Salary:** $67.00/hr - $71.00/hr
+- 🕒 **Posted:** 2026-10-20
+
+### [Software Engineer, TPU Compilers](https://www.linkedin.com/jobs/view/4480718936/) — OpenAI
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $380,000.00/yr - $500,000.00/yr
+- 🕒 **Posted:** 2026-10-20
+
+### [Software Engineering - Software Engineer V](https://www.linkedin.com/jobs/view/4482000055/) — Apex Systems
+- 📍 **Location:** Burlingame, CA
+- 💰 **Salary:** $78.00/hr - $88.00/hr
+- 🕒 **Posted:** 2026-10-20
+
+### [Product Data Scientist - Youth, Families and Learning](https://www.linkedin.com/jobs/view/4480724952/) — OpenAI
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $401,000.00/yr - $510,000.00/yr
+- 🕒 **Posted:** 2026-10-20
+
+### [Vision Software Engineer](https://www.linkedin.com/jobs/view/4480736497/) — RAPSYS TECHNOLOGIES PTE LTD
 - 📍 **Location:** Fremont, CA
 - 🕒 **Posted:** 2026-10-20
 
-### [Software Engineer — AI Infrastructure](https://www.linkedin.com/jobs/view/4481776794/) — Elantis
-- 📍 **Location:** Pleasanton, CA
-- 🕒 **Posted:** 2026-10-20
-
-### [Platform Engineer](https://www.linkedin.com/jobs/view/4480728352/) — DTEX
-- 📍 **Location:** Fremont, CA
-- 🕒 **Posted:** 2026-10-20
-
-### [Computational Scientist - Modelling & Inference](https://www.linkedin.com/jobs/view/4478947082/) — Discover International
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $125,000.00/yr - $170,000.00/yr
-- 🕒 **Posted:** 2026-10-20
-
-### [Applied Scientist, Fauna](https://www.linkedin.com/jobs/view/4481781734/) — Amazon
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-10-20
-
-### [Human-Robot Interaction Applied Scientist , Fauna](https://www.linkedin.com/jobs/view/4481782536/) — Amazon
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-10-20
-
-### [Software Engineering Intern (Summer 2027)](https://www.linkedin.com/jobs/view/4481793220/) — Collins Aerospace
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-10-20
-
-### [Software Engineer II,  Vehicle Platform Integrations](https://www.linkedin.com/jobs/view/4481780932/) — Aurora
-- 📍 **Location:** Mountain View, CA
-- 🕒 **Posted:** 2026-10-20
-
-### [Software Engineer (Backend)](https://www.linkedin.com/jobs/view/4481797126/) — Cisco
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-10-20
-
-### [Frontend Developer](https://www.linkedin.com/jobs/view/4478942451/) — Akkodis
-- 📍 **Location:** Santa Clara County, CA
-- 💰 **Salary:** $55.00/hr - $65.00/hr
-- 🕒 **Posted:** 2026-10-20
-
-### [Site Reliability Engineer: 26-02856](https://www.linkedin.com/jobs/view/4470463669/) — Akraya, Inc.
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-10-20
-
-### [Jr. Site Reliability Engineer: 26-02857](https://www.linkedin.com/jobs/view/4470944593/) — Akraya, Inc.
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-10-20
-
-### [Leader, Software Engineering](https://www.linkedin.com/jobs/view/4481794155/) — Cisco
-- 📍 **Location:** Milpitas, CA
-- 🕒 **Posted:** 2026-10-20
-
-### [Software Engineer, Full-Stack](https://www.linkedin.com/jobs/view/4475814241/) — Onyx Odds
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-10-20
-
-### [Cloud Engineer](https://www.linkedin.com/jobs/view/4481791075/) — Matlen Silver
-- 📍 **Location:** Jersey City, NJ
-- 💰 **Salary:** $65.00/hr - $73.00/hr
+### [Applied Scientist, AWS Neuron Science - Core Algorithm, AWS Neuron Science - Core Algorithm](https://www.linkedin.com/jobs/view/4478947273/) — Amazon Science
+- 📍 **Location:** Cupertino, CA
 - 🕒 **Posted:** 2026-10-20
