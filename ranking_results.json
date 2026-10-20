@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-20T19:59:00.779920+00:00",
+  "updated_at": "2026-10-20T20:04:37.493399+00:00",
   "day": "2026-10-20",
   "context": "a4bda70334149a6faa4ad7bde4901c9f1269e7177f0ea3c75e578f743c461d27",
   "scores": {
@@ -504635,6 +504635,1236 @@
           "cost": 57098000
         }
       }
+    },
+    "https://www.indeed.com/viewjob?jk=014ac71ddbf75854": {
+      "url": "https://www.indeed.com/viewjob?jk=014ac71ddbf75854",
+      "context": "a4bda70334149a6faa4ad7bde4901c9f1269e7177f0ea3c75e578f743c461d27",
+      "description_hash": "462fb87dcb52b65a72fcda05d5e1db960ef1ebbe5bedf82e807e161ed77ba2e2",
+      "status": "valid",
+      "luna": {
+        "model": "gpt-5.6-luna",
+        "scores": {
+          "BioScience_ML": 52,
+          "ML": 52,
+          "DS": 52,
+          "SWE": 52,
+          "FDE": 52,
+          "Research_Software_Engineer": 52
+        },
+        "best_resumes": [
+          "BioScience_ML",
+          "DS",
+          "FDE",
+          "ML",
+          "Research_Software_Engineer",
+          "SWE"
+        ],
+        "requirements": [
+          {
+            "text": "* Bachelor's degree in Computer Science, Computer Engineering, relevant technical field, or equivalent practical experience",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "matched",
+              "FDE": "matched",
+              "Research_Software_Engineer": "matched"
+            }
+          },
+          {
+            "text": "* 2+ years of experience conducting machine learning research, including developing and evaluating novel models, algorithms, or training methodologies",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial",
+              "Research_Software_Engineer": "partial"
+            }
+          },
+          {
+            "text": "* Experience publishing original research in peer-reviewed machine learning venues such as NeurIPS, ICML, ICLR, CVPR, ACL, or equivalent",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial",
+              "Research_Software_Engineer": "partial"
+            }
+          },
+          {
+            "text": "* Experience implementing and training large-scale machine learning models using frameworks such as PyTorch or TensorFlow",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial",
+              "Research_Software_Engineer": "partial"
+            }
+          },
+          {
+            "text": "* Experience designing experiments, selecting appropriate metrics, and drawing statistically sound conclusions from empirical results",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "matched",
+              "FDE": "matched",
+              "Research_Software_Engineer": "matched"
+            }
+          },
+          {
+            "text": "* Experience communicating complex research findings in writing to both technical and non-technical stakeholders through papers, design documents, or technical reports",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial",
+              "Research_Software_Engineer": "partial"
+            }
+          },
+          {
+            "text": "* Has obtained a PhD in Computer Science, Computer Engineering, Artificial Intelligence, Machine Learning, or relevant technical field",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "not_evidenced",
+              "ML": "not_evidenced",
+              "DS": "not_evidenced",
+              "SWE": "not_evidenced",
+              "FDE": "not_evidenced",
+              "Research_Software_Engineer": "not_evidenced"
+            }
+          },
+          {
+            "text": "* Research experience in one or more specialized areas such as operations research, optimization, forecasting, multimodal learning, reinforcement learning, or generative modeling",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial",
+              "Research_Software_Engineer": "partial"
+            }
+          },
+          {
+            "text": "* Demonstrated ability to identify high-impact research directions that align with long-term product or platform goals",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "not_evidenced",
+              "ML": "not_evidenced",
+              "DS": "not_evidenced",
+              "SWE": "not_evidenced",
+              "FDE": "not_evidenced",
+              "Research_Software_Engineer": "not_evidenced"
+            }
+          },
+          {
+            "text": "* Experience mentoring other researchers and contributing to the technical growth of a research organization",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "not_evidenced",
+              "ML": "not_evidenced",
+              "DS": "not_evidenced",
+              "SWE": "not_evidenced",
+              "FDE": "not_evidenced",
+              "Research_Software_Engineer": "not_evidenced"
+            }
+          },
+          {
+            "text": "* Track record of driving research from initial hypothesis through production deployment at scale, including collaboration with applied engineering teams",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial",
+              "Research_Software_Engineer": "partial"
+            }
+          }
+        ],
+        "usage": {
+          "input": 9907,
+          "output": 5228,
+          "thinking": 865,
+          "cached": 0,
+          "cache_write": 9904,
+          "cost": 8750200
+        }
+      },
+      "scored_at": "2026-10-20T19:58:59.508984+00:00"
+    },
+    "https://guidehouse.wd1.myworkdayjobs.com/external/job/US---Remote-Any-location/Fraud-AI-ML-Data-Scientist_45164": {
+      "status": "jd_unavailable",
+      "context": "a4bda70334149a6faa4ad7bde4901c9f1269e7177f0ea3c75e578f743c461d27"
+    },
+    "https://dealertire.wd5.myworkdayjobs.com/DealerTireLLC-Careers/job/Remote-California/Associate-Data-Scientist_R13774": {
+      "status": "jd_unavailable",
+      "context": "a4bda70334149a6faa4ad7bde4901c9f1269e7177f0ea3c75e578f743c461d27"
+    },
+    "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-SAN-JOSE-826--200-Holger-Way--BLDG-826/Software-Engineering-Intern--Summer-2027-_01883026": {
+      "status": "jd_unavailable",
+      "context": "a4bda70334149a6faa4ad7bde4901c9f1269e7177f0ea3c75e578f743c461d27"
+    },
+    "https://www.linkedin.com/jobs/view/4407531220/": {
+      "url": "https://www.linkedin.com/jobs/view/4407531220/",
+      "context": "a4bda70334149a6faa4ad7bde4901c9f1269e7177f0ea3c75e578f743c461d27",
+      "description_hash": "b964b5277cb12d1d6f0673cb4d5eca86e955c33cdf1d7a1894b14fbec1037316",
+      "status": "valid",
+      "luna": {
+        "model": "gpt-5.6-luna",
+        "scores": {
+          "BioScience_ML": 45,
+          "ML": 38,
+          "DS": 38,
+          "SWE": 38,
+          "FDE": 45,
+          "Research_Software_Engineer": 38
+        },
+        "best_resumes": [
+          "BioScience_ML",
+          "FDE"
+        ],
+        "requirements": [
+          {
+            "text": "4+ years in engineering, technical product/program management, applied AI, or a similar technical role, with a track record of shipping AI/automation systems to production.",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial",
+              "Research_Software_Engineer": "partial"
+            }
+          },
+          {
+            "text": "Hands-on experience building with LLMs, agent frameworks, and tool-use patterns (e.g., MCP, function calling, RAG) across the full stack (data, APIs, orchestration, product).",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial",
+              "Research_Software_Engineer": "partial"
+            }
+          },
+          {
+            "text": "Experience designing and optimizing SQL and/or NoSQL databases, including data modeling, query performance tuning, and schema design.",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial",
+              "Research_Software_Engineer": "partial"
+            }
+          },
+          {
+            "text": "Strong ability to decompose human workflows into scalable, agentic systems, grounded in a deep curiosity for how people work.",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial",
+              "Research_Software_Engineer": "partial"
+            }
+          },
+          {
+            "text": "High ownership and cross-functional influence, with the ability to quickly build trust across teams and seniority levels.",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "matched",
+              "Research_Software_Engineer": "partial"
+            }
+          },
+          {
+            "text": "Experience automating back-office functions rather than just customer-facing AI features.",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "not_evidenced",
+              "ML": "not_evidenced",
+              "DS": "not_evidenced",
+              "SWE": "not_evidenced",
+              "FDE": "not_evidenced",
+              "Research_Software_Engineer": "not_evidenced"
+            }
+          },
+          {
+            "text": "Experience with OpenClaw, Hermes, or other general-purpose agent harnesses.",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "not_evidenced",
+              "ML": "not_evidenced",
+              "DS": "not_evidenced",
+              "SWE": "not_evidenced",
+              "FDE": "not_evidenced",
+              "Research_Software_Engineer": "not_evidenced"
+            }
+          },
+          {
+            "text": "This role will be based in our New York City office. We are a hybrid environment that combines the energy and connections of being in the office with the benefits and flexibility of working from home. We currently require a minimum of three coordinated days in the office per week, Monday, Wednesday, and Thursday. As a perk, we also have up to four weeks per year of fully remote work!",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "not_evidenced",
+              "ML": "not_evidenced",
+              "DS": "not_evidenced",
+              "SWE": "not_evidenced",
+              "FDE": "not_evidenced",
+              "Research_Software_Engineer": "not_evidenced"
+            }
+          }
+        ],
+        "usage": {
+          "input": 9819,
+          "output": 4352,
+          "thinking": 1034,
+          "cached": 0,
+          "cache_write": 9816,
+          "cost": 7677000
+        }
+      },
+      "scored_at": "2026-10-20T19:58:59.508984+00:00"
+    },
+    "https://www.indeed.com/viewjob?jk=6003d5633411bf2d": {
+      "url": "https://www.indeed.com/viewjob?jk=6003d5633411bf2d",
+      "context": "a4bda70334149a6faa4ad7bde4901c9f1269e7177f0ea3c75e578f743c461d27",
+      "description_hash": "5f24442f1cc8eff81642c2d5ed21f3bc7e47e7ccf0bb6a1e3db7e2f69992c688",
+      "status": "valid",
+      "luna": {
+        "model": "gpt-5.6-luna",
+        "scores": {
+          "BioScience_ML": 64,
+          "ML": 74,
+          "DS": 64,
+          "SWE": 74,
+          "FDE": 74,
+          "Research_Software_Engineer": 64
+        },
+        "best_resumes": [
+          "FDE",
+          "ML",
+          "SWE"
+        ],
+        "requirements": [
+          {
+            "text": "* PhD, or a Master's degree and experience in CS, CE, ML or related field",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial",
+              "Research_Software_Engineer": "partial"
+            }
+          },
+          {
+            "text": "* Experience in patents or publications at top-tier peer-reviewed conferences or journals",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial",
+              "Research_Software_Engineer": "partial"
+            }
+          },
+          {
+            "text": "* Experience programming in Java, C++, Python or related language",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "matched",
+              "FDE": "matched",
+              "Research_Software_Engineer": "matched"
+            }
+          },
+          {
+            "text": "* Experience in any of the following areas: algorithms and data structures, parsing, numerical optimization, data mining, parallel and distributed computing, high-performance computing",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "not_evidenced",
+              "ML": "matched",
+              "DS": "not_evidenced",
+              "SWE": "matched",
+              "FDE": "matched",
+              "Research_Software_Engineer": "not_evidenced"
+            }
+          },
+          {
+            "text": "* Experience in building machine learning models for business application",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "matched",
+              "FDE": "matched",
+              "Research_Software_Engineer": "matched"
+            }
+          },
+          {
+            "text": "* Experience with experimental design",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "not_evidenced",
+              "ML": "not_evidenced",
+              "DS": "not_evidenced",
+              "SWE": "not_evidenced",
+              "FDE": "not_evidenced",
+              "Research_Software_Engineer": "not_evidenced"
+            }
+          },
+          {
+            "text": "* Experience with researching, publishing and or developing human-in-the-loop systems",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "matched",
+              "FDE": "matched",
+              "Research_Software_Engineer": "matched"
+            }
+          },
+          {
+            "text": "We are looking for talented Applied Scientists who are adept at a variety of skills, especially at the interface of how users can use state-of-the-art generative music and audio, computer vision, latent diffusion or related foundational models that will accelerate our plans to generate high-quality creatives on behalf of advertisers. Every member of the team is expected to build customer (advertiser) facing features, contribute to the collaborative spirit within the team, publish, patent, and bring innovative research to raise the bar within the team.",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "matched",
+              "FDE": "matched",
+              "Research_Software_Engineer": "matched"
+            }
+          },
+          {
+            "text": "* Experience using Unix/Linux",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "matched",
+              "FDE": "matched",
+              "Research_Software_Engineer": "matched"
+            }
+          },
+          {
+            "text": "* Experience in professional software development",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "matched",
+              "FDE": "matched",
+              "Research_Software_Engineer": "matched"
+            }
+          },
+          {
+            "text": "* Willingness to publish research at internal and external top scientific venues.",
+            "importance": "required",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial",
+              "Research_Software_Engineer": "partial"
+            }
+          }
+        ],
+        "usage": {
+          "input": 10070,
+          "output": 5455,
+          "thinking": 1551,
+          "cached": 0,
+          "cache_write": 10067,
+          "cost": 9063350
+        }
+      },
+      "scored_at": "2026-10-20T19:58:59.508984+00:00"
+    },
+    "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/AI-Engineer-5--MLX--Agentic-AI--Gen-AI-platform-Services-_R1004098": {
+      "status": "jd_unavailable",
+      "context": "a4bda70334149a6faa4ad7bde4901c9f1269e7177f0ea3c75e578f743c461d27"
+    },
+    "https://www.indeed.com/viewjob?jk=60b3e3c6758b29a8": {
+      "url": "https://www.indeed.com/viewjob?jk=60b3e3c6758b29a8",
+      "context": "a4bda70334149a6faa4ad7bde4901c9f1269e7177f0ea3c75e578f743c461d27",
+      "description_hash": "c810163b5822d60f1e98bbb85805da7b6d42b90ea40447bfc119d5574968f500",
+      "status": "valid",
+      "luna": {
+        "model": "gpt-5.6-luna",
+        "scores": {
+          "BioScience_ML": 42,
+          "ML": 42,
+          "DS": 42,
+          "SWE": 42,
+          "FDE": 48,
+          "Research_Software_Engineer": 48
+        },
+        "best_resumes": [
+          "FDE",
+          "Research_Software_Engineer"
+        ],
+        "requirements": [
+          {
+            "text": "1. For Assignment Level I (only physical, biological and environmental sciences and public health) A master's degree from an accredited college or university with a specialization in an appropriate field of physical, biological or environmental science or in public health.",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial",
+              "Research_Software_Engineer": "partial"
+            }
+          },
+          {
+            "text": "3. Education and/or experience which is equivalent to \"1\" or \"2\" above. However, all candidates must have at least a master's degree in an appropriate field of specialization and at least two years of experience described in \"2\" above. Two years as a City Research Scientist Level I can be substituted for the experience required in \"1\" and \"2\" above.",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial",
+              "Research_Software_Engineer": "partial"
+            }
+          },
+          {
+            "text": "The Police Commissioner’s Office is seeking a skilled and highly motivated data scientist to join the Chief Analytic Officer’s team. You will conduct quantitative analyses, build automated reports, and interpret complex data for Department leadership. Skills in requirements gathering and decision support are essential. Analysts on our team deliver fast, reliable answers to operational and executive questions. Day to day, you’ll pull and analyze data on tight timelines, build clear visualizations, and explain results to non-technical audiences in plain language. We’re looking for people who are curious, ask good questions, communicate clearly, and take accuracy seriously, because our work informs real decisions.",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "matched",
+              "Research_Software_Engineer": "matched"
+            }
+          },
+          {
+            "text": "- Experience coding in Python and SQL - Ability to develop metrics to measure business objectives and improve the operational effectiveness of the Department - Ability to develop data visualizations and business communications for department leadership to improve organizational decision making (e.g. Pandas, NumPy, Matplotlib) - Ability to work with unstructured data, such as text, geospatial, and network data is preferred (e.g. NLTK, GeoPy, networkx) - Ability to develop statistical and machine learning models (e.g. scikit-learn, statsmodels, PyTorch) is preferred - Excellent oral, written, analytic, organizational, and interpersonal skills and attention to detail are required - Ability to manage multiple projects simultaneously and meet tight deadlines - Ability to work both independently and on a team - Ability to work cross-functionally to strengthen relationships with internal stakeholders, agencies, and academic institutions",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "matched",
+              "FDE": "matched",
+              "Research_Software_Engineer": "matched"
+            }
+          },
+          {
+            "text": "- Experience coding in Python and SQL - Ability to develop metrics to measure business objectives and improve the operational effectiveness of the Department - Ability to develop data visualizations and business communications for department leadership to improve organizational decision making (e.g. Pandas, NumPy, Matplotlib) - Ability to work with unstructured data, such as text, geospatial, and network data is preferred (e.g. NLTK, GeoPy, networkx) - Ability to develop statistical and machine learning models (e.g. scikit-learn, statsmodels, PyTorch) is preferred - Excellent oral, written, analytic, organizational, and interpersonal skills and attention to detail are required - Ability to manage multiple projects simultaneously and meet tight deadlines - Ability to work both independently and on a team - Ability to work cross-functionally to strengthen relationships with internal stakeholders, agencies, and academic institutions",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "not_evidenced",
+              "ML": "not_evidenced",
+              "DS": "not_evidenced",
+              "SWE": "not_evidenced",
+              "FDE": "not_evidenced",
+              "Research_Software_Engineer": "not_evidenced"
+            }
+          },
+          {
+            "text": "- Experience coding in Python and SQL - Ability to develop metrics to measure business objectives and improve the operational effectiveness of the Department - Ability to develop data visualizations and business communications for department leadership to improve organizational decision making (e.g. Pandas, NumPy, Matplotlib) - Ability to work with unstructured data, such as text, geospatial, and network data is preferred (e.g. NLTK, GeoPy, networkx) - Ability to develop statistical and machine learning models (e.g. scikit-learn, statsmodels, PyTorch) is preferred - Excellent oral, written, analytic, organizational, and interpersonal skills and attention to detail are required - Ability to manage multiple projects simultaneously and meet tight deadlines - Ability to work both independently and on a team - Ability to work cross-functionally to strengthen relationships with internal stakeholders, agencies, and academic institutions",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial",
+              "Research_Software_Engineer": "partial"
+            }
+          },
+          {
+            "text": "- Experience coding in Python and SQL - Ability to develop metrics to measure business objectives and improve the operational effectiveness of the Department - Ability to develop data visualizations and business communications for department leadership to improve organizational decision making (e.g. Pandas, NumPy, Matplotlib) - Ability to work with unstructured data, such as text, geospatial, and network data is preferred (e.g. NLTK, GeoPy, networkx) - Ability to develop statistical and machine learning models (e.g. scikit-learn, statsmodels, PyTorch) is preferred - Excellent oral, written, analytic, organizational, and interpersonal skills and attention to detail are required - Ability to manage multiple projects simultaneously and meet tight deadlines - Ability to work both independently and on a team - Ability to work cross-functionally to strengthen relationships with internal stakeholders, agencies, and academic institutions",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "matched",
+              "FDE": "matched",
+              "Research_Software_Engineer": "matched"
+            }
+          },
+          {
+            "text": "- Experience coding in Python and SQL - Ability to develop metrics to measure business objectives and improve the operational effectiveness of the Department - Ability to develop data visualizations and business communications for department leadership to improve organizational decision making (e.g. Pandas, NumPy, Matplotlib) - Ability to work with unstructured data, such as text, geospatial, and network data is preferred (e.g. NLTK, GeoPy, networkx) - Ability to develop statistical and machine learning models (e.g. scikit-learn, statsmodels, PyTorch) is preferred - Excellent oral, written, analytic, organizational, and interpersonal skills and attention to detail are required - Ability to manage multiple projects simultaneously and meet tight deadlines - Ability to work both independently and on a team - Ability to work cross-functionally to strengthen relationships with internal stakeholders, agencies, and academic institutions",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "matched",
+              "FDE": "matched",
+              "Research_Software_Engineer": "matched"
+            }
+          },
+          {
+            "text": "- Experience coding in Python and SQL - Ability to develop metrics to measure business objectives and improve the operational effectiveness of the Department - Ability to develop data visualizations and business communications for department leadership to improve organizational decision making (e.g. Pandas, NumPy, Matplotlib) - Ability to work with unstructured data, such as text, geospatial, and network data is preferred (e.g. NLTK, GeoPy, networkx) - Ability to develop statistical and machine learning models (e.g. scikit-learn, statsmodels, PyTorch) is preferred - Excellent oral, written, analytic, organizational, and interpersonal skills and attention to detail are required - Ability to manage multiple projects simultaneously and meet tight deadlines - Ability to work both independently and on a team - Ability to work cross-functionally to strengthen relationships with internal stakeholders, agencies, and academic institutions",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial",
+              "Research_Software_Engineer": "partial"
+            }
+          },
+          {
+            "text": "- Experience coding in Python and SQL - Ability to develop metrics to measure business objectives and improve the operational effectiveness of the Department - Ability to develop data visualizations and business communications for department leadership to improve organizational decision making (e.g. Pandas, NumPy, Matplotlib) - Ability to work with unstructured data, such as text, geospatial, and network data is preferred (e.g. NLTK, GeoPy, networkx) - Ability to develop statistical and machine learning models (e.g. scikit-learn, statsmodels, PyTorch) is preferred - Excellent oral, written, analytic, organizational, and interpersonal skills and attention to detail are required - Ability to manage multiple projects simultaneously and meet tight deadlines - Ability to work both independently and on a team - Ability to work cross-functionally to strengthen relationships with internal stakeholders, agencies, and academic institutions",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "not_evidenced",
+              "ML": "not_evidenced",
+              "DS": "not_evidenced",
+              "SWE": "not_evidenced",
+              "FDE": "not_evidenced",
+              "Research_Software_Engineer": "not_evidenced"
+            }
+          },
+          {
+            "text": "- Experience coding in Python and SQL - Ability to develop metrics to measure business objectives and improve the operational effectiveness of the Department - Ability to develop data visualizations and business communications for department leadership to improve organizational decision making (e.g. Pandas, NumPy, Matplotlib) - Ability to work with unstructured data, such as text, geospatial, and network data is preferred (e.g. NLTK, GeoPy, networkx) - Ability to develop statistical and machine learning models (e.g. scikit-learn, statsmodels, PyTorch) is preferred - Excellent oral, written, analytic, organizational, and interpersonal skills and attention to detail are required - Ability to manage multiple projects simultaneously and meet tight deadlines - Ability to work both independently and on a team - Ability to work cross-functionally to strengthen relationships with internal stakeholders, agencies, and academic institutions",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "matched",
+              "FDE": "matched",
+              "Research_Software_Engineer": "matched"
+            }
+          },
+          {
+            "text": "- Experience coding in Python and SQL - Ability to develop metrics to measure business objectives and improve the operational effectiveness of the Department - Ability to develop data visualizations and business communications for department leadership to improve organizational decision making (e.g. Pandas, NumPy, Matplotlib) - Ability to work with unstructured data, such as text, geospatial, and network data is preferred (e.g. NLTK, GeoPy, networkx) - Ability to develop statistical and machine learning models (e.g. scikit-learn, statsmodels, PyTorch) is preferred - Excellent oral, written, analytic, organizational, and interpersonal skills and attention to detail are required - Ability to manage multiple projects simultaneously and meet tight deadlines - Ability to work both independently and on a team - Ability to work cross-functionally to strengthen relationships with internal stakeholders, agencies, and academic institutions",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial",
+              "Research_Software_Engineer": "partial"
+            }
+          },
+          {
+            "text": "In compliance with Federal Law, all persons hired will be required to verify identity and eligibility to work in the United States and to complete the required employment eligibility verification document form upon hire.",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "not_evidenced",
+              "ML": "not_evidenced",
+              "DS": "not_evidenced",
+              "SWE": "not_evidenced",
+              "FDE": "not_evidenced",
+              "Research_Software_Engineer": "not_evidenced"
+            }
+          },
+          {
+            "text": "New York City residency is generally required within 90 days of appointment. However, City Employees in certain titles who have worked for the City for 2 continuous years may also be eligible to reside in Nassau, Suffolk, Putnam, Westchester, Rockland, or Orange County. To determine if the residency requirement applies to you, please discuss with the agency representative at the time of interview.",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "not_evidenced",
+              "ML": "not_evidenced",
+              "DS": "not_evidenced",
+              "SWE": "not_evidenced",
+              "FDE": "not_evidenced",
+              "Research_Software_Engineer": "not_evidenced"
+            }
+          }
+        ],
+        "usage": {
+          "input": 10195,
+          "output": 6951,
+          "thinking": 1307,
+          "cached": 0,
+          "cache_write": 10192,
+          "cost": 10889800
+        }
+      },
+      "scored_at": "2026-10-20T19:58:59.508984+00:00"
+    },
+    "https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-OH-Columbus/Specialist--Software-Engineering_JR0155598-1": {
+      "status": "jd_unavailable",
+      "context": "a4bda70334149a6faa4ad7bde4901c9f1269e7177f0ea3c75e578f743c461d27"
+    },
+    "https://www.indeed.com/viewjob?jk=6ecd7a2fe6e4d424": {
+      "url": "https://www.indeed.com/viewjob?jk=6ecd7a2fe6e4d424",
+      "context": "a4bda70334149a6faa4ad7bde4901c9f1269e7177f0ea3c75e578f743c461d27",
+      "description_hash": "462fb87dcb52b65a72fcda05d5e1db960ef1ebbe5bedf82e807e161ed77ba2e2",
+      "status": "valid",
+      "luna": {
+        "model": "gpt-5.6-luna",
+        "scores": {
+          "BioScience_ML": 62,
+          "ML": 62,
+          "DS": 62,
+          "SWE": 62,
+          "FDE": 56,
+          "Research_Software_Engineer": 62
+        },
+        "best_resumes": [
+          "BioScience_ML",
+          "DS",
+          "ML",
+          "Research_Software_Engineer",
+          "SWE"
+        ],
+        "requirements": [
+          {
+            "text": "* Bachelor's degree in Computer Science, Computer Engineering, relevant technical field, or equivalent practical experience",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "matched",
+              "FDE": "matched",
+              "Research_Software_Engineer": "matched"
+            }
+          },
+          {
+            "text": "* 2+ years of experience conducting machine learning research, including developing and evaluating novel models, algorithms, or training methodologies",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial",
+              "Research_Software_Engineer": "partial"
+            }
+          },
+          {
+            "text": "* Experience publishing original research in peer-reviewed machine learning venues such as NeurIPS, ICML, ICLR, CVPR, ACL, or equivalent",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "matched",
+              "FDE": "partial",
+              "Research_Software_Engineer": "matched"
+            }
+          },
+          {
+            "text": "* Experience implementing and training large-scale machine learning models using frameworks such as PyTorch or TensorFlow",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial",
+              "Research_Software_Engineer": "partial"
+            }
+          },
+          {
+            "text": "* Experience designing experiments, selecting appropriate metrics, and drawing statistically sound conclusions from empirical results",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "matched",
+              "FDE": "matched",
+              "Research_Software_Engineer": "matched"
+            }
+          },
+          {
+            "text": "* Experience communicating complex research findings in writing to both technical and non-technical stakeholders through papers, design documents, or technical reports",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "matched",
+              "FDE": "matched",
+              "Research_Software_Engineer": "matched"
+            }
+          },
+          {
+            "text": "* Has obtained a PhD in Computer Science, Computer Engineering, Artificial Intelligence, Machine Learning, or relevant technical field",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "not_evidenced",
+              "ML": "not_evidenced",
+              "DS": "not_evidenced",
+              "SWE": "not_evidenced",
+              "FDE": "not_evidenced",
+              "Research_Software_Engineer": "not_evidenced"
+            }
+          },
+          {
+            "text": "* Research experience in one or more specialized areas such as operations research, optimization, forecasting, multimodal learning, reinforcement learning, or generative modeling",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "not_evidenced",
+              "ML": "not_evidenced",
+              "DS": "not_evidenced",
+              "SWE": "not_evidenced",
+              "FDE": "not_evidenced",
+              "Research_Software_Engineer": "not_evidenced"
+            }
+          },
+          {
+            "text": "* Demonstrated ability to identify high-impact research directions that align with long-term product or platform goals",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "not_evidenced",
+              "ML": "not_evidenced",
+              "DS": "not_evidenced",
+              "SWE": "not_evidenced",
+              "FDE": "not_evidenced",
+              "Research_Software_Engineer": "not_evidenced"
+            }
+          },
+          {
+            "text": "* Experience mentoring other researchers and contributing to the technical growth of a research organization",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "not_evidenced",
+              "ML": "not_evidenced",
+              "DS": "not_evidenced",
+              "SWE": "not_evidenced",
+              "FDE": "not_evidenced",
+              "Research_Software_Engineer": "not_evidenced"
+            }
+          },
+          {
+            "text": "* Track record of driving research from initial hypothesis through production deployment at scale, including collaboration with applied engineering teams",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial",
+              "Research_Software_Engineer": "partial"
+            }
+          }
+        ],
+        "usage": {
+          "input": 9907,
+          "output": 5848,
+          "thinking": 1524,
+          "cached": 0,
+          "cache_write": 9904,
+          "cost": 9494200
+        }
+      },
+      "scored_at": "2026-10-20T19:58:59.508984+00:00"
+    },
+    "https://www.indeed.com/viewjob?jk=1e8818ff979f702a": {
+      "url": "https://www.indeed.com/viewjob?jk=1e8818ff979f702a",
+      "context": "a4bda70334149a6faa4ad7bde4901c9f1269e7177f0ea3c75e578f743c461d27",
+      "description_hash": "33fa308b59905a99ecb940c1f26084c65f64eb254d53f8e84f2b92c4b04ae05f",
+      "status": "valid",
+      "luna": {
+        "model": "gpt-5.6-luna",
+        "scores": {
+          "BioScience_ML": 48,
+          "ML": 48,
+          "DS": 48,
+          "SWE": 48,
+          "FDE": 48,
+          "Research_Software_Engineer": 48
+        },
+        "best_resumes": [
+          "BioScience_ML",
+          "DS",
+          "FDE",
+          "ML",
+          "Research_Software_Engineer",
+          "SWE"
+        ],
+        "requirements": [
+          {
+            "text": "1 to 3 years shipping production backend systems, or a new graduate with a strong portfolio of real execution",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "matched",
+              "FDE": "matched",
+              "Research_Software_Engineer": "matched"
+            }
+          },
+          {
+            "text": "Solid backend fundamentals: services, APIs, data models, reliability, observability, and security",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial",
+              "Research_Software_Engineer": "partial"
+            }
+          },
+          {
+            "text": "At least one meaningful AI powered project shipped (production, open source, or a serious side project)",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "matched",
+              "FDE": "matched",
+              "Research_Software_Engineer": "matched"
+            }
+          },
+          {
+            "text": "Willingness to contribute across the stack, backend leaning",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "not_evidenced",
+              "ML": "not_evidenced",
+              "DS": "not_evidenced",
+              "SWE": "not_evidenced",
+              "FDE": "not_evidenced",
+              "Research_Software_Engineer": "not_evidenced"
+            }
+          },
+          {
+            "text": "Ability to work in the San Francisco office 4 days per week (relocation support available)",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial",
+              "Research_Software_Engineer": "partial"
+            }
+          },
+          {
+            "text": "Work authorization: the client accepts H-1B transfer, O-1, and OPT.",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "not_evidenced",
+              "ML": "not_evidenced",
+              "DS": "not_evidenced",
+              "SWE": "not_evidenced",
+              "FDE": "not_evidenced",
+              "Research_Software_Engineer": "not_evidenced"
+            }
+          },
+          {
+            "text": "LLM pipelines, evals, or agentic workflows in production",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial",
+              "Research_Software_Engineer": "partial"
+            }
+          },
+          {
+            "text": "Enterprise security experience",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "not_evidenced",
+              "ML": "not_evidenced",
+              "DS": "not_evidenced",
+              "SWE": "not_evidenced",
+              "FDE": "not_evidenced",
+              "Research_Software_Engineer": "not_evidenced"
+            }
+          }
+        ],
+        "usage": {
+          "input": 9310,
+          "output": 4111,
+          "thinking": 965,
+          "cached": 0,
+          "cache_write": 9307,
+          "cost": 7260550
+        }
+      },
+      "scored_at": "2026-10-20T19:58:59.508984+00:00"
+    },
+    "https://www.indeed.com/viewjob?jk=f9a360d8fc8204af": {
+      "url": "https://www.indeed.com/viewjob?jk=f9a360d8fc8204af",
+      "context": "a4bda70334149a6faa4ad7bde4901c9f1269e7177f0ea3c75e578f743c461d27",
+      "description_hash": "3b22ac0a438a5cea1c87d1ca3378abe85f15669f1dc049d9f0598c6366893b83",
+      "status": "valid",
+      "luna": {
+        "model": "gpt-5.6-luna",
+        "scores": {
+          "BioScience_ML": 54,
+          "ML": 54,
+          "DS": 42,
+          "SWE": 54,
+          "FDE": 58,
+          "Research_Software_Engineer": 54
+        },
+        "best_resumes": [
+          "FDE"
+        ],
+        "requirements": [
+          {
+            "text": "Designs, develops, and maintains production-scale distributed machine learning pipelines using PySpark, Databricks, Delta Lake, MLflow, and Unity Catalog to support e-commerce recommendation systems across multiple brands and markets. Implements advanced machine learning and deep learning models, including neural collaborative filtering and transformer-based sequential recommendation systems, and integrates them into end-to-end production workflows. Owns complete machine learning workflows, including data ingestion, feature engineering, model training, inference, versioning, and automated refresh processes, operating with minimal technical supervision. Develops advanced feature engineering frameworks that combine multi-modal product attributes, customer behavioral signals, and temporal weighting logic to enable large-scale personalization. Collaborates directly with Product Managers and cross-functional partners to translate business requirements into technical system designs, define success metrics, and document implementation constraints. Builds and maintains CI/CD workflows and deployment automation using GitHub Actions and Databricks workflows to support testing, validation, and production releases of machine learning systems. Designs and implements data governance, validation, and monitoring mechanisms to ensure data quality, lineage, reliability, and compliance of production ML assets. Optimizes distributed processing performance and cloud resource utilization to balance model accuracy, processing latency, and infrastructure cost constraints. Telecommuting permissible from any location in the US.Salary Range: $206,565 - $216,565Employee pay will vary based on factors such as qualifications, experience, skill level, competencies and work location. We will meet minimum wage or minimum of the pay range (whichever is higher) based on city, county and state requirements.",
+            "importance": "required",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "not_evidenced",
+              "SWE": "partial",
+              "FDE": "partial",
+              "Research_Software_Engineer": "partial"
+            }
+          },
+          {
+            "text": "Designs, develops, and maintains production-scale distributed machine learning pipelines using PySpark, Databricks, Delta Lake, MLflow, and Unity Catalog to support e-commerce recommendation systems across multiple brands and markets. Implements advanced machine learning and deep learning models, including neural collaborative filtering and transformer-based sequential recommendation systems, and integrates them into end-to-end production workflows. Owns complete machine learning workflows, including data ingestion, feature engineering, model training, inference, versioning, and automated refresh processes, operating with minimal technical supervision. Develops advanced feature engineering frameworks that combine multi-modal product attributes, customer behavioral signals, and temporal weighting logic to enable large-scale personalization. Collaborates directly with Product Managers and cross-functional partners to translate business requirements into technical system designs, define success metrics, and document implementation constraints. Builds and maintains CI/CD workflows and deployment automation using GitHub Actions and Databricks workflows to support testing, validation, and production releases of machine learning systems. Designs and implements data governance, validation, and monitoring mechanisms to ensure data quality, lineage, reliability, and compliance of production ML assets. Optimizes distributed processing performance and cloud resource utilization to balance model accuracy, processing latency, and infrastructure cost constraints. Telecommuting permissible from any location in the US.Salary Range: $206,565 - $216,565Employee pay will vary based on factors such as qualifications, experience, skill level, competencies and work location. We will meet minimum wage or minimum of the pay range (whichever is higher) based on city, county and state requirements.",
+            "importance": "required",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial",
+              "Research_Software_Engineer": "partial"
+            }
+          },
+          {
+            "text": "Designs, develops, and maintains production-scale distributed machine learning pipelines using PySpark, Databricks, Delta Lake, MLflow, and Unity Catalog to support e-commerce recommendation systems across multiple brands and markets. Implements advanced machine learning and deep learning models, including neural collaborative filtering and transformer-based sequential recommendation systems, and integrates them into end-to-end production workflows. Owns complete machine learning workflows, including data ingestion, feature engineering, model training, inference, versioning, and automated refresh processes, operating with minimal technical supervision. Develops advanced feature engineering frameworks that combine multi-modal product attributes, customer behavioral signals, and temporal weighting logic to enable large-scale personalization. Collaborates directly with Product Managers and cross-functional partners to translate business requirements into technical system designs, define success metrics, and document implementation constraints. Builds and maintains CI/CD workflows and deployment automation using GitHub Actions and Databricks workflows to support testing, validation, and production releases of machine learning systems. Designs and implements data governance, validation, and monitoring mechanisms to ensure data quality, lineage, reliability, and compliance of production ML assets. Optimizes distributed processing performance and cloud resource utilization to balance model accuracy, processing latency, and infrastructure cost constraints. Telecommuting permissible from any location in the US.Salary Range: $206,565 - $216,565Employee pay will vary based on factors such as qualifications, experience, skill level, competencies and work location. We will meet minimum wage or minimum of the pay range (whichever is higher) based on city, county and state requirements.",
+            "importance": "required",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "matched",
+              "Research_Software_Engineer": "partial"
+            }
+          },
+          {
+            "text": "Designs, develops, and maintains production-scale distributed machine learning pipelines using PySpark, Databricks, Delta Lake, MLflow, and Unity Catalog to support e-commerce recommendation systems across multiple brands and markets. Implements advanced machine learning and deep learning models, including neural collaborative filtering and transformer-based sequential recommendation systems, and integrates them into end-to-end production workflows. Owns complete machine learning workflows, including data ingestion, feature engineering, model training, inference, versioning, and automated refresh processes, operating with minimal technical supervision. Develops advanced feature engineering frameworks that combine multi-modal product attributes, customer behavioral signals, and temporal weighting logic to enable large-scale personalization. Collaborates directly with Product Managers and cross-functional partners to translate business requirements into technical system designs, define success metrics, and document implementation constraints. Builds and maintains CI/CD workflows and deployment automation using GitHub Actions and Databricks workflows to support testing, validation, and production releases of machine learning systems. Designs and implements data governance, validation, and monitoring mechanisms to ensure data quality, lineage, reliability, and compliance of production ML assets. Optimizes distributed processing performance and cloud resource utilization to balance model accuracy, processing latency, and infrastructure cost constraints. Telecommuting permissible from any location in the US.Salary Range: $206,565 - $216,565Employee pay will vary based on factors such as qualifications, experience, skill level, competencies and work location. We will meet minimum wage or minimum of the pay range (whichever is higher) based on city, county and state requirements.",
+            "importance": "required",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial",
+              "Research_Software_Engineer": "partial"
+            }
+          },
+          {
+            "text": "Designs, develops, and maintains production-scale distributed machine learning pipelines using PySpark, Databricks, Delta Lake, MLflow, and Unity Catalog to support e-commerce recommendation systems across multiple brands and markets. Implements advanced machine learning and deep learning models, including neural collaborative filtering and transformer-based sequential recommendation systems, and integrates them into end-to-end production workflows. Owns complete machine learning workflows, including data ingestion, feature engineering, model training, inference, versioning, and automated refresh processes, operating with minimal technical supervision. Develops advanced feature engineering frameworks that combine multi-modal product attributes, customer behavioral signals, and temporal weighting logic to enable large-scale personalization. Collaborates directly with Product Managers and cross-functional partners to translate business requirements into technical system designs, define success metrics, and document implementation constraints. Builds and maintains CI/CD workflows and deployment automation using GitHub Actions and Databricks workflows to support testing, validation, and production releases of machine learning systems. Designs and implements data governance, validation, and monitoring mechanisms to ensure data quality, lineage, reliability, and compliance of production ML assets. Optimizes distributed processing performance and cloud resource utilization to balance model accuracy, processing latency, and infrastructure cost constraints. Telecommuting permissible from any location in the US.Salary Range: $206,565 - $216,565Employee pay will vary based on factors such as qualifications, experience, skill level, competencies and work location. We will meet minimum wage or minimum of the pay range (whichever is higher) based on city, county and state requirements.",
+            "importance": "required",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial",
+              "Research_Software_Engineer": "partial"
+            }
+          },
+          {
+            "text": "Designs, develops, and maintains production-scale distributed machine learning pipelines using PySpark, Databricks, Delta Lake, MLflow, and Unity Catalog to support e-commerce recommendation systems across multiple brands and markets. Implements advanced machine learning and deep learning models, including neural collaborative filtering and transformer-based sequential recommendation systems, and integrates them into end-to-end production workflows. Owns complete machine learning workflows, including data ingestion, feature engineering, model training, inference, versioning, and automated refresh processes, operating with minimal technical supervision. Develops advanced feature engineering frameworks that combine multi-modal product attributes, customer behavioral signals, and temporal weighting logic to enable large-scale personalization. Collaborates directly with Product Managers and cross-functional partners to translate business requirements into technical system designs, define success metrics, and document implementation constraints. Builds and maintains CI/CD workflows and deployment automation using GitHub Actions and Databricks workflows to support testing, validation, and production releases of machine learning systems. Designs and implements data governance, validation, and monitoring mechanisms to ensure data quality, lineage, reliability, and compliance of production ML assets. Optimizes distributed processing performance and cloud resource utilization to balance model accuracy, processing latency, and infrastructure cost constraints. Telecommuting permissible from any location in the US.Salary Range: $206,565 - $216,565Employee pay will vary based on factors such as qualifications, experience, skill level, competencies and work location. We will meet minimum wage or minimum of the pay range (whichever is higher) based on city, county and state requirements.",
+            "importance": "required",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "not_evidenced",
+              "SWE": "matched",
+              "FDE": "matched",
+              "Research_Software_Engineer": "matched"
+            }
+          },
+          {
+            "text": "Designs, develops, and maintains production-scale distributed machine learning pipelines using PySpark, Databricks, Delta Lake, MLflow, and Unity Catalog to support e-commerce recommendation systems across multiple brands and markets. Implements advanced machine learning and deep learning models, including neural collaborative filtering and transformer-based sequential recommendation systems, and integrates them into end-to-end production workflows. Owns complete machine learning workflows, including data ingestion, feature engineering, model training, inference, versioning, and automated refresh processes, operating with minimal technical supervision. Develops advanced feature engineering frameworks that combine multi-modal product attributes, customer behavioral signals, and temporal weighting logic to enable large-scale personalization. Collaborates directly with Product Managers and cross-functional partners to translate business requirements into technical system designs, define success metrics, and document implementation constraints. Builds and maintains CI/CD workflows and deployment automation using GitHub Actions and Databricks workflows to support testing, validation, and production releases of machine learning systems. Designs and implements data governance, validation, and monitoring mechanisms to ensure data quality, lineage, reliability, and compliance of production ML assets. Optimizes distributed processing performance and cloud resource utilization to balance model accuracy, processing latency, and infrastructure cost constraints. Telecommuting permissible from any location in the US.Salary Range: $206,565 - $216,565Employee pay will vary based on factors such as qualifications, experience, skill level, competencies and work location. We will meet minimum wage or minimum of the pay range (whichever is higher) based on city, county and state requirements.",
+            "importance": "required",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial",
+              "Research_Software_Engineer": "partial"
+            }
+          },
+          {
+            "text": "Designs, develops, and maintains production-scale distributed machine learning pipelines using PySpark, Databricks, Delta Lake, MLflow, and Unity Catalog to support e-commerce recommendation systems across multiple brands and markets. Implements advanced machine learning and deep learning models, including neural collaborative filtering and transformer-based sequential recommendation systems, and integrates them into end-to-end production workflows. Owns complete machine learning workflows, including data ingestion, feature engineering, model training, inference, versioning, and automated refresh processes, operating with minimal technical supervision. Develops advanced feature engineering frameworks that combine multi-modal product attributes, customer behavioral signals, and temporal weighting logic to enable large-scale personalization. Collaborates directly with Product Managers and cross-functional partners to translate business requirements into technical system designs, define success metrics, and document implementation constraints. Builds and maintains CI/CD workflows and deployment automation using GitHub Actions and Databricks workflows to support testing, validation, and production releases of machine learning systems. Designs and implements data governance, validation, and monitoring mechanisms to ensure data quality, lineage, reliability, and compliance of production ML assets. Optimizes distributed processing performance and cloud resource utilization to balance model accuracy, processing latency, and infrastructure cost constraints. Telecommuting permissible from any location in the US.Salary Range: $206,565 - $216,565Employee pay will vary based on factors such as qualifications, experience, skill level, competencies and work location. We will meet minimum wage or minimum of the pay range (whichever is higher) based on city, county and state requirements.",
+            "importance": "required",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "not_evidenced",
+              "ML": "not_evidenced",
+              "DS": "not_evidenced",
+              "SWE": "not_evidenced",
+              "FDE": "not_evidenced",
+              "Research_Software_Engineer": "not_evidenced"
+            }
+          },
+          {
+            "text": "4. Cloud-based machine learning platforms, eCommerce analytics, clickstream data analysis, customer behavior analytics, and large-scale data integration and cleansing;",
+            "importance": "required",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial",
+              "Research_Software_Engineer": "partial"
+            }
+          },
+          {
+            "text": "5. A/B testing methodologies, KPI analysis, advanced feature engineering, supervised learning, unsupervised learning; and",
+            "importance": "required",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial",
+              "Research_Software_Engineer": "partial"
+            }
+          },
+          {
+            "text": "6. Python, SQL, production-grade code development, cross-functional collaboration.",
+            "importance": "required",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "matched",
+              "FDE": "matched",
+              "Research_Software_Engineer": "matched"
+            }
+          },
+          {
+            "text": "Master’s degree in Data Science, Computer Science, Computer Information Systems or related field and 4 years of work experience in the job offered or a related role.",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial",
+              "Research_Software_Engineer": "partial"
+            }
+          }
+        ],
+        "usage": {
+          "input": 9936,
+          "output": 6104,
+          "thinking": 722,
+          "cached": 0,
+          "cache_write": 9933,
+          "cost": 9808650
+        }
+      },
+      "scored_at": "2026-10-20T19:58:59.508984+00:00"
     }
   },
   "limits": {
@@ -504642,7 +505872,7 @@
     "sonnet": 10
   },
   "attempts_today": {
-    "luna": 0,
+    "luna": 7,
     "sonnet": 0
   }
 }
