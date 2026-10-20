@@ -1,123 +1,74 @@
 # 🟦 Indeed — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-10-19 20:43 UTC*
+*Last updated: 2026-10-20 00:36 UTC*
 
-**24 new role(s)** since last run · 27 total in last 24h
+**14 new role(s)** since last run · 39 total in last 24h
 
-### [DevOps Machine Learning Infrastructure](https://www.indeed.com/viewjob?jk=f9b6d2e723c537f7) — Syntiant Corp
-- 📍 **Location:** Redwood City, CA, USA
-- 💰 **Salary:** $185k–$215k/yr
-- 🕒 **Posted:** 2026-10-19
-
-### [Software Engineer](https://www.indeed.com/viewjob?jk=f24939d94a8a28c1) — Dream Labs
-- 📍 **Location:** San Francisco, CA, USA
-- 💰 **Salary:** $45–$85/hr
-- 🕒 **Posted:** 2026-10-19
-
-### [Research Scientist / Research Engineer - Foundations, Search](https://www.indeed.com/viewjob?jk=3163c77805c2247a) — OpenAI
-- 📍 **Location:** San Francisco, CA, USA
-- 💰 **Salary:** $380k–$850k/yr
-- 🕒 **Posted:** 2026-10-19
-
-### [Machine Learning Engineer, Creative Intelligence Systems](https://www.indeed.com/viewjob?jk=bdd4ece255ff1657) — Apple
-- 📍 **Location:** Cupertino, CA, USA
-- 💰 **Salary:** $129k–$225k/yr
-- 🕒 **Posted:** 2026-10-19
-
-### [Software Engineer ML Platform](https://www.indeed.com/viewjob?jk=ecb62b181fb4436d) — Intuitive (Intuitive Surgical)
-- 📍 **Location:** San Francisco, CA, USA
-- 💰 **Salary:** $135k–$228k/yr
-- 🕒 **Posted:** 2026-10-19
-
-### [Software Engineer III, AI/ML, Google Cloud Platforms](https://www.indeed.com/viewjob?jk=76fc48d1d58380ad) — Google
+### [Software Engineer, Backend](https://www.indeed.com/viewjob?jk=23f8cfba71069e21) — Crazy Maple Studio
 - 📍 **Location:** Sunnyvale, CA, USA
-- 💰 **Salary:** $147k–$210k/yr
-- 🕒 **Posted:** 2026-10-19
-
-### [ML Engineer, Generative Video – AI Video Startup](https://www.indeed.com/viewjob?jk=d9a6aaefc4076012) — RNB Consultancy
-- 📍 **Location:** San Francisco, CA, USA
-- 💰 **Salary:** $200k–$350k/yr
-- 🕒 **Posted:** 2026-10-19
-
-### [Multimodal AI Applied Scientist, SIML - ISE](https://www.indeed.com/viewjob?jk=a007f7e2ae93fe85) — Apple
-- 📍 **Location:** Cupertino, CA, USA
-- 💰 **Salary:** $185k–$325k/yr
-- 🕒 **Posted:** 2026-10-19
-
-### [Research Scientist, AI for Graphics and Gaming - New College Grad 2026](https://www.indeed.com/viewjob?jk=5ef52520ff755a0e) — NVIDIA
-- 📍 **Location:** Santa Clara, CA, USA
-- 💰 **Salary:** $168k–$264k/yr
-- 🕒 **Posted:** 2026-10-19
-
-### [Software Engineer](https://www.indeed.com/viewjob?jk=8843b425aab3c705) — Rivian
-- 📍 **Location:** Palo Alto, CA, USA
-- 🕒 **Posted:** 2026-10-19
-
-### [Software Engineer, IT Infrastructure](https://www.indeed.com/viewjob?jk=e6ff6052fd495f01) — Google
-- 📍 **Location:** Fremont, CA, USA
-- 💰 **Salary:** $174k–$252k/yr
-- 🕒 **Posted:** 2026-10-19
-
-### [Software Engineer, CI/CD & ML Infrastructure](https://www.indeed.com/viewjob?jk=9a93e5cec5c7d58f) — OpenAI
-- 📍 **Location:** San Francisco, CA, USA
-- 💰 **Salary:** $318k–$485k/yr
-- 🕒 **Posted:** 2026-10-19
-
-### [Software Engineer, Watch Software, Sensing & Connectivity](https://www.indeed.com/viewjob?jk=ecbf5ffe76294a30) — Apple
-- 📍 **Location:** Cupertino, CA, USA
-- 💰 **Salary:** $129k–$225k/yr
-- 🕒 **Posted:** 2026-10-19
-
-### [Software Engineer, Knowledge Catalog For AI](https://www.indeed.com/viewjob?jk=1371d92ca8d90781) — Google
-- 📍 **Location:** Sunnyvale, CA, USA
-- 💰 **Salary:** $147k–$210k/yr
-- 🕒 **Posted:** 2026-10-19
-
-### [Software Engineer, Full Stack, Learning and Education](https://www.indeed.com/viewjob?jk=fe0e59692fad0584) — Google
-- 📍 **Location:** Mountain View, CA, USA
-- 💰 **Salary:** $207k–$300k/yr
-- 🕒 **Posted:** 2026-10-19
-
-### [AVP, Backend Software Engineer - Python/AWS](https://www.indeed.com/viewjob?jk=95031deb1e2de46c) — LPL Financial
-- 📍 **Location:** New York, NY, USA
-- 💰 **Salary:** $127k–$212k/yr
-- 🕒 **Posted:** 2026-10-19
-
-### [Machine Learning Engineer - Evals](https://www.indeed.com/viewjob?jk=bf2f1f9b39182cfc) — PLASTIC LAB
-- 📍 **Location:** New York, NY, USA
-- 💰 **Salary:** $220k–$300k/yr
-- 🕒 **Posted:** 2026-10-19
-
-### [AI/ML Engineer, Global Banking & Markets, RIA Engineering](https://www.indeed.com/viewjob?jk=662b603972838718) — Goldman Sachs
-- 📍 **Location:** New York, NY, USA
-- 💰 **Salary:** $130k–$300k/yr
-- 🕒 **Posted:** 2026-10-19
-
-### [Software Engineer, Memory & Search](https://www.indeed.com/viewjob?jk=140cc336a7407d70) — Anthropic
-- 📍 **Location:** New York, NY, USA
-- 💰 **Salary:** $320k–$485k/yr
-- 🕒 **Posted:** 2026-10-19
-
-### [Software Engineer, Backend — Dots](https://www.indeed.com/viewjob?jk=368a510cefe1e177) — OpenAI
-- 📍 **Location:** New York, NY, USA
-- 💰 **Salary:** $347k–$385k/yr
-- 🕒 **Posted:** 2026-10-19
-
-### [Software Engineer II, Backend Full Stack - IT Product](https://www.indeed.com/viewjob?jk=e84764e60472e291) — Rippling
-- 📍 **Location:** New York, NY, USA
-- 💰 **Salary:** $135k–$236k/yr
-- 🕒 **Posted:** 2026-10-19
-
-### [Software Engineer](https://www.indeed.com/viewjob?jk=56f9e86ff8967668) — eClerx
-- 📍 **Location:** New York, NY, USA
-- 💰 **Salary:** $75k–$115k/yr
-- 🕒 **Posted:** 2026-10-19
-
-### [Infrastructure Engineer](https://www.indeed.com/viewjob?jk=bcd2f3696b13d109) — Momentum Labs
-- 📍 **Location:** New York, NY, USA
 - 💰 **Salary:** $120k–$150k/yr
 - 🕒 **Posted:** 2026-10-19
 
-### [AI Platform Engineer](https://www.indeed.com/viewjob?jk=1099ce80b806f3a9) — International Rescue Committee
+### [Machine Learning Engineer (AI Enablement)](https://www.indeed.com/viewjob?jk=4559f8f5bd993ad9) — Genentech
+- 📍 **Location:** San Francisco, CA, USA
+- 💰 **Salary:** $148k–$274k/yr
+- 🕒 **Posted:** 2026-10-19
+
+### [Software Engineer, Bachelors Degree, New College Grad (Santa Clara)](https://www.indeed.com/viewjob?jk=dc2898e0ef1606a9) — Applied Materials
+- 📍 **Location:** Santa Clara, CA, USA
+- 💰 **Salary:** $104k–$143k/yr
+- 🕒 **Posted:** 2026-10-19
+
+### [Associate Data Scientist, Fraud Strategy](https://www.indeed.com/viewjob?jk=231c67d01c6b555b) — Happen Bank
+- 📍 **Location:** San Francisco, CA, USA
+- 💰 **Salary:** $125k–$145k/yr
+- 🕒 **Posted:** 2026-10-19
+
+### [Software Engineer, Full Stack](https://www.indeed.com/viewjob?jk=a0d3871ad7cc7d5d) — Crazy Maple Studio
+- 📍 **Location:** Sunnyvale, CA, USA
+- 💰 **Salary:** $120k–$150k/yr
+- 🕒 **Posted:** 2026-10-19
+
+### [Software Engineer](https://www.indeed.com/viewjob?jk=9847db1d41a577fa) — IXL Learning
+- 📍 **Location:** San Mateo, CA, USA
+- 💰 **Salary:** $116k–$150k/yr
+- 🕒 **Posted:** 2026-10-19
+
+### [T-Ads Engineer, Data Science](https://www.indeed.com/viewjob?jk=60c3438b2e80700b) — T-Mobile
 - 📍 **Location:** New York, NY, USA
-- 💰 **Salary:** $88k–$102k/yr
+- 💰 **Salary:** $98k–$226k/yr
+- 🕒 **Posted:** 2026-10-19
+
+### [Analyst, Data Science - Burson](https://www.indeed.com/viewjob?jk=e2d0005b802c1d51) — Burson
+- 📍 **Location:** New York, NY, USA
+- 💰 **Salary:** $35k–$75k/yr
+- 🕒 **Posted:** 2026-10-19
+
+### [Biomedical Data Scientist](https://www.indeed.com/viewjob?jk=01d278fa9d8c2731) — Children's Tumor Foundation
+- 📍 **Location:** New York, NY, USA
+- 💰 **Salary:** $65k–$80k/yr
+- 🕒 **Posted:** 2026-10-19
+
+### [Data Scientist: Use Data to Develop Legal Hypotheses (6463)](https://www.indeed.com/viewjob?jk=ac974d017952593b) — State of New York - Attorney General, Office of the
+- 📍 **Location:** New York, NY, USA
+- 💰 **Salary:** $116k–$120k/yr
+- 🕒 **Posted:** 2026-10-19
+
+### [DEVOPS ENGINEER](https://www.indeed.com/viewjob?jk=4dca18806b9650a8) — Wipro
+- 📍 **Location:** Jersey City, NJ, USA
+- 💰 **Salary:** $60k–$135k/yr
+- 🕒 **Posted:** 2026-10-19
+
+### [Software Engineer II Python](https://www.indeed.com/viewjob?jk=98f7418a87f1cb5d) — JPMorganChase
+- 📍 **Location:** Jersey City, NJ, USA
+- 💰 **Salary:** $124k–$150k/yr
+- 🕒 **Posted:** 2026-10-19
+
+### [Software Engineer III (Full Stack)](https://www.indeed.com/viewjob?jk=b68180576a4ffa6f) — JPMorganChase
+- 📍 **Location:** Jersey City, NJ, USA
+- 💰 **Salary:** $138k–$185k/yr
+- 🕒 **Posted:** 2026-10-19
+
+### [Software Engineer III (Full Stack)](https://www.indeed.com/viewjob?jk=936fcf1fbb63a5aa) — JPMorganChase
+- 📍 **Location:** Jersey City, NJ, USA
+- 💰 **Salary:** $138k–$185k/yr
 - 🕒 **Posted:** 2026-10-19
