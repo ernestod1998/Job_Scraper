@@ -1,16 +1,11 @@
 # 🧬 Biotech LinkedIn — MLE / DS Roles
-*Last updated: 2026-10-20 08:39 UTC*
+*Last updated: 2026-10-21 08:36 UTC*
 
-**3 new role(s)** since last run · 35 total in last 24h
+**2 new role(s)** since last run · 34 total in last 24h
 
-### [Computational Biologist, Immune Cell Repolarization](https://job-boards.greenhouse.io/biohub/jobs/8140482) — Chan Zuckerberg Biohub
-- 📍 **Location:** New York, NY (Hybrid)
-- 🕒 **Posted:** 2026-10-19
+### [Bioinformatics Scientist](https://job-boards.greenhouse.io/natera/jobs/6226520004) — Natera
+- 📍 **Location:** San Carlos, CA
+- 🕒 **Posted:** 2026-10-20
 
-### [Machine Learning Engineer (AI Enablement)](https://www.linkedin.com/jobs/view/4481261465/) — Genentech
-- 📍 **Location:** South San Francisco, CA
-- 🕒 **Posted:** 2026-10-19
-
-### [Data Scientist](https://www.linkedin.com/jobs/view/4478616017/) — Bristol Myers Squibb
-- 📍 **Location:** San Diego, CA
-- 🕒 **Posted:** 2026-10-19
+### [Azure DevOps Engineer](https://vrtx.wd501.myworkdayjobs.com/Vertex_Careers/job/Boston-MA/Azure-DevOps-Engineer_REQ-30436) — Vertex Pharmaceuticals
+- 📍 **Location:** Boston, MA
