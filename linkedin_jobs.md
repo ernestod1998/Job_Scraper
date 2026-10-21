@@ -1,67 +1,69 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-10-21 21:18 UTC*
+*Last updated: 2026-10-21 22:18 UTC*
 
-**15 new role(s)** since last run · 22 total in last 1h
+**15 new role(s)** since last run · 29 total in last 1h
 
-### [Machine Learning Engineer II, Fulfillment](https://www.linkedin.com/jobs/view/4465390163/) — Etsy
-- 📍 **Location:** Brooklyn, NY
+### [AI/ML Scientist, Agent Platform (P4021)](https://www.linkedin.com/jobs/view/4479462152/) — Planet Pharma
+- 📍 **Location:** Redwood City, CA
 - 🕒 **Posted:** 2026-10-21
 
-### [Data Scientist](https://www.linkedin.com/jobs/view/4482164478/) — KEDPLASMA
-- 📍 **Location:** Fort Lee, NJ
+### [AI/ML Scientist, Computational Biologist](https://www.linkedin.com/jobs/view/4481151886/) — Bayside Solutions
+- 📍 **Location:** San Mateo County, CA
+- 💰 **Salary:** $85.00/hr - $105.00/hr
 - 🕒 **Posted:** 2026-10-21
 
-### [Data Scientist, Product to Market (P2M) Optimization](https://www.linkedin.com/jobs/view/4482107360/) — Gap Inc.
+### [Software Engineer](https://www.linkedin.com/jobs/view/4482175563/) — Lawrence Livermore National Laboratory
+- 📍 **Location:** Livermore, CA
+- 🕒 **Posted:** 2026-10-21
+
+### [2027 Summer Intern, BS/MS, Software Engineering, Maneuvering Tech](https://www.linkedin.com/jobs/view/4481153874/) — Waymo
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-10-21
 
-### [Research Engineer, Gemini Large Scale Pretraining, DeepMind](https://www.linkedin.com/jobs/view/4481152728/) — Google DeepMind
-- 📍 **Location:** Mountain View, CA
-- 🕒 **Posted:** 2026-10-21
-
-### [Entry Level Software Developer 2027](https://www.linkedin.com/jobs/view/4479440821/) — IBM
-- 📍 **Location:** San Jose, CA
-- 💰 **Salary:** $120,960.00/yr - $181,440.00/yr
-- 🕒 **Posted:** 2026-10-21
-
-### [Software Engineer - Compliance Tech](https://www.linkedin.com/jobs/view/4482179010/) — Interactive Brokers
-- 📍 **Location:** Greenwich, CT
-- 🕒 **Posted:** 2026-10-21
-
-### [Full Stack Engineer](https://www.linkedin.com/jobs/view/4479438995/) — The Phoenix Group
+### [Quantitative Software Engineer, Market Risk Initiatives](https://www.linkedin.com/jobs/view/4475680443/) — BIP US
 - 📍 **Location:** New York City Metropolitan Area
-- 💰 **Salary:** $180,000.00/yr - $250,000.00/yr
+- 💰 **Salary:** $140,000.00/yr - $180,000.00/yr
 - 🕒 **Posted:** 2026-10-21
 
-### [Cloud Infrastructure Engineer](https://www.linkedin.com/jobs/view/4482160821/) — 42dot
-- 📍 **Location:** Sunnyvale, CA
+### [Software Engineer](https://www.linkedin.com/jobs/view/4477294080/) — Nestmed
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $150,000.00/yr - $280,000.00/yr
 - 🕒 **Posted:** 2026-10-21
 
-### [DevOps Engineer](https://www.linkedin.com/jobs/view/4482174262/) — Clinisoltech
-- 📍 **Location:** New York City Metropolitan Area
-- 💰 **Salary:** $65,000.00/yr - $90,000.00/yr
+### [Research Engineer](https://www.linkedin.com/jobs/view/4482167677/) — Goliath Partners
+- 📍 **Location:** San Francisco Bay Area
 - 🕒 **Posted:** 2026-10-21
 
-### [Site Reliability Engineer](https://www.linkedin.com/jobs/view/4481263530/) — Interactive Brokers
-- 📍 **Location:** Greenwich, CT
+### [DevOps Engineer](https://www.linkedin.com/jobs/view/4482162896/) — Themesoft Inc.
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-10-21
 
-### [Site Reliability Engineer II](https://www.linkedin.com/jobs/view/4481146932/) — Experis
-- 📍 **Location:** Jersey City, NJ
+### [Research Engineer, Electrical Sensing](https://www.linkedin.com/jobs/view/4479462153/) — Gridware
+- 📍 **Location:** San Francisco Bay Area
+- 💰 **Salary:** $145,000.00/yr - $160,000.00/yr
 - 🕒 **Posted:** 2026-10-21
 
-### [Software Engineer - Core Systems and Storage Roles (Multiple Individual Contributor Levels)](https://www.linkedin.com/jobs/view/4461135842/) — NetApp
-- 📍 **Location:** San Jose, CA
+### [DevOps Engineer](https://www.linkedin.com/jobs/view/4481150923/) — Fiserv
+- 📍 **Location:** Berkeley Heights, NJ
 - 🕒 **Posted:** 2026-10-21
 
-### [Rust Engineer/Rust Software Developer](https://www.linkedin.com/jobs/view/4482166477/) — 1ST-RECRUIT LLC, An E-Verified Company
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-10-21
-
-### [Robotics Engineer – Hardware & Software Debugging](https://www.linkedin.com/jobs/view/4482171331/) — VMC Soft Technologies, Inc
-- 📍 **Location:** Cupertino, CA
-- 🕒 **Posted:** 2026-10-21
-
-### [Backend Developer Intern (Restaurant OS) — Fully Remote](https://www.linkedin.com/jobs/view/4481157444/) — ZOVU
+### [Full-Stack Software Engineer, Experience](https://www.linkedin.com/jobs/view/4482178406/) — Pinecone
 - 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-10-21
+
+### [Backend Developer](https://www.linkedin.com/jobs/view/4481153841/) — Fiserv
+- 📍 **Location:** Berkeley Heights, NJ
+- 🕒 **Posted:** 2026-10-21
+
+### [Software Engineer](https://www.linkedin.com/jobs/view/4481168203/) — Recurring Decimal
+- 📍 **Location:** New York City Metropolitan Area
+- 🕒 **Posted:** 2026-10-21
+
+### [Full Stack Engineer](https://www.linkedin.com/jobs/view/4482183398/) — Goliath Partners
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-10-21
+
+### [AI/ML Engineer](https://www.linkedin.com/jobs/view/4482188006/) — TTN Talent
+- 📍 **Location:** San Francisco Bay Area
+- 💰 **Salary:** $200,000.00/yr - $350,000.00/yr
 - 🕒 **Posted:** 2026-10-21
