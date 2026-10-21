@@ -1,69 +1,64 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-10-21 22:18 UTC*
+*Last updated: 2026-10-21 23:18 UTC*
 
-**15 new role(s)** since last run · 29 total in last 1h
+**13 new role(s)** since last run · 22 total in last 1h
 
-### [AI/ML Scientist, Agent Platform (P4021)](https://www.linkedin.com/jobs/view/4479462152/) — Planet Pharma
-- 📍 **Location:** Redwood City, CA
+### [Software Engineer](https://www.linkedin.com/jobs/view/4479463343/) — Applied Materials
+- 📍 **Location:** Santa Clara, CA
 - 🕒 **Posted:** 2026-10-21
 
-### [AI/ML Scientist, Computational Biologist](https://www.linkedin.com/jobs/view/4481151886/) — Bayside Solutions
-- 📍 **Location:** San Mateo County, CA
-- 💰 **Salary:** $85.00/hr - $105.00/hr
-- 🕒 **Posted:** 2026-10-21
-
-### [Software Engineer](https://www.linkedin.com/jobs/view/4482175563/) — Lawrence Livermore National Laboratory
-- 📍 **Location:** Livermore, CA
-- 🕒 **Posted:** 2026-10-21
-
-### [2027 Summer Intern, BS/MS, Software Engineering, Maneuvering Tech](https://www.linkedin.com/jobs/view/4481153874/) — Waymo
+### [Applied Scientist, Product Policy](https://www.linkedin.com/jobs/view/4481163720/) — OpenAI
 - 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $207,000.00/yr - $230,000.00/yr
 - 🕒 **Posted:** 2026-10-21
 
-### [Quantitative Software Engineer, Market Risk Initiatives](https://www.linkedin.com/jobs/view/4475680443/) — BIP US
-- 📍 **Location:** New York City Metropolitan Area
-- 💰 **Salary:** $140,000.00/yr - $180,000.00/yr
+### [Software Engineer IV - (E4)](https://www.linkedin.com/jobs/view/4469324910/) — Applied Materials
+- 📍 **Location:** Santa Clara, CA
 - 🕒 **Posted:** 2026-10-21
 
-### [Software Engineer](https://www.linkedin.com/jobs/view/4477294080/) — Nestmed
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $150,000.00/yr - $280,000.00/yr
+### [Software Engineer](https://www.linkedin.com/jobs/view/4482177743/) — Blossom
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $150,000.00/yr - $220,000.00/yr
 - 🕒 **Posted:** 2026-10-21
 
-### [Research Engineer](https://www.linkedin.com/jobs/view/4482167677/) — Goliath Partners
-- 📍 **Location:** San Francisco Bay Area
+### [Software Engineer I, AI](https://www.linkedin.com/jobs/view/4479449809/) — BDO USA
+- 📍 **Location:** Stamford, CT
 - 🕒 **Posted:** 2026-10-21
 
-### [DevOps Engineer](https://www.linkedin.com/jobs/view/4482162896/) — Themesoft Inc.
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-10-21
-
-### [Research Engineer, Electrical Sensing](https://www.linkedin.com/jobs/view/4479462153/) — Gridware
-- 📍 **Location:** San Francisco Bay Area
-- 💰 **Salary:** $145,000.00/yr - $160,000.00/yr
-- 🕒 **Posted:** 2026-10-21
-
-### [DevOps Engineer](https://www.linkedin.com/jobs/view/4481150923/) — Fiserv
-- 📍 **Location:** Berkeley Heights, NJ
-- 🕒 **Posted:** 2026-10-21
-
-### [Full-Stack Software Engineer, Experience](https://www.linkedin.com/jobs/view/4482178406/) — Pinecone
+### [Software Engineer I, AI](https://www.linkedin.com/jobs/view/4479458431/) — BDO USA
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-10-21
 
-### [Backend Developer](https://www.linkedin.com/jobs/view/4481153841/) — Fiserv
-- 📍 **Location:** Berkeley Heights, NJ
+### [Research Scientist / Research Engineer, Search Integrity](https://www.linkedin.com/jobs/view/4481164635/) — OpenAI
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $380,000.00/yr - $850,000.00/yr
 - 🕒 **Posted:** 2026-10-21
 
-### [Software Engineer](https://www.linkedin.com/jobs/view/4481168203/) — Recurring Decimal
-- 📍 **Location:** New York City Metropolitan Area
+### [Software Engineer](https://www.linkedin.com/jobs/view/4479455461/) — Russell Tobin
+- 📍 **Location:** South San Francisco, CA
+- 💰 **Salary:** $62.21/yr - $78.72/yr
 - 🕒 **Posted:** 2026-10-21
 
-### [Full Stack Engineer](https://www.linkedin.com/jobs/view/4482183398/) — Goliath Partners
-- 📍 **Location:** San Francisco Bay Area
+### [Research Scientist / Research Engineer, Search - Knowledge Graphs](https://www.linkedin.com/jobs/view/4481179095/) — OpenAI
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $380,000.00/yr - $850,000.00/yr
 - 🕒 **Posted:** 2026-10-21
 
-### [AI/ML Engineer](https://www.linkedin.com/jobs/view/4482188006/) — TTN Talent
-- 📍 **Location:** San Francisco Bay Area
-- 💰 **Salary:** $200,000.00/yr - $350,000.00/yr
+### [Full Stack Engineer (Java)](https://www.linkedin.com/jobs/view/4482183546/) — Kforce Inc
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $45.00/hr - $50.00/hr
+- 🕒 **Posted:** 2026-10-21
+
+### [Full Stack Engineer (.NET)](https://www.linkedin.com/jobs/view/4482182667/) — Kforce Inc
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $45.00/hr - $50.00/hr
+- 🕒 **Posted:** 2026-10-21
+
+### [Software Developer in Test](https://www.linkedin.com/jobs/view/4482179649/) — Kforce Inc
+- 📍 **Location:** San Mateo, CA
+- 💰 **Salary:** $50.00/hr - $55.00/hr
+- 🕒 **Posted:** 2026-10-21
+
+### [2027 Summer Intern, Software Engineer, Bachelors Degree (Santa Clara)](https://www.linkedin.com/jobs/view/4479467037/) — Applied Materials
+- 📍 **Location:** Santa Clara, CA
 - 🕒 **Posted:** 2026-10-21
