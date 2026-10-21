@@ -1,162 +1,88 @@
 # 🗃 Direct ATS Registry — Engineering / ML / DS Roles
-*Last updated: 2026-10-21 06:51 UTC*
+*Last updated: 2026-10-21 18:35 UTC*
 
-**40 new role(s)** since last run · 42 total in current registry shard
+**21 new role(s)** since last run · 25 total in current registry shard
 
-### [Software Engineer - UI](https://bcbst.wd1.myworkdayjobs.com/External/job/USA-TN-Chattanooga-Remote/Software-Engineer---UI_R-51057) — BCBST
-- 📍 **Location:** USA, TN, Chattanooga, Remote
-- 🕒 **Posted:** Posted 4 Days Ago
+### [Software Developer - Simulation Platform (Galileo)](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/Software-Developer---Simulation-Platform--Galileo-_JR-202611524) — General Motors
+- 📍 **Location:** Sunnyvale, California, United States of America
+- 🕒 **Posted:** Posted 8 Days Ago
 
-### [2027 Blackstone Technology & Innovation Software Engineer Analyst (London)](https://blackstone.wd1.myworkdayjobs.com/Blackstone_Campus_Careers/job/Berkeley-Square-House-London/XMLNAME-2027-Blackstone-Technology---Innovation-Software-Engineer-Analyst--London-_45667) — Blackstone
-- 📍 **Location:** Berkeley Square House London
-
-### [Associate Flight Test Data Processing Software Engineer](https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Berkeley-MO/Associate-Flight-Test-Data-Processing-Software-Engineer_JR2026524420) — Boeing
-- 📍 **Location:** USA - Berkeley, MO
-- 🕒 **Posted:** Posted Yesterday
-
-### [Infrastructure AI/ML Engineer for Memory Design, Characterization, and Yield Optimization](https://broadcom.wd1.myworkdayjobs.com/external_career/job/USA-TX-Austin---River-Place-B7/Infrastructure-AI-ML-Engineer-for-Memory-Design--Characterization--and-Yield-Optimization_R027297) — Broadcom Limited
-- 📍 **Location:** USA-California-San Jose-1320 Ridder Park Drive
-- 🕒 **Posted:** Posted 6 Days Ago
-
-### [Site Reliability Engineering Strategy & Governance](https://broadridge.wd5.myworkdayjobs.com/careers/job/New-York-NY/Site-Reliability-Engineering-Strategy---Governance_JR1086206) — Broadridge
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** Posted Today
-
-### [Machine Learning Engineer 4](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Machine-Learning-Engineer-4_R1003405-1) — Capital One
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** Posted Today
-
-### [AI Engineer 5 (MLX, Agentic AI, Gen AI platform Services)](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/San-Jose-CA/AI-Engineer-5--MLX--Agentic-AI--Gen-AI-platform-Services-_R1004181-1) — Capital One
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** Posted Today
-
-### [AI Engineer 4 (MLX, Agentic AI, Gen AI platform Services)](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/San-Jose-CA/AI-Engineer-4--MLX--Agentic-AI--Gen-AI-platform-Services-_R1004179-1) — Capital One
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** Posted Today
-
-### [AI Engineer 5 (MLX, Agentic AI, Gen AI platform Services)](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/AI-Engineer-5--MLX--Agentic-AI--Gen-AI-platform-Services-_R1004098) — Capital One
-- 📍 **Location:** San Francisco,  CA
-- 🕒 **Posted:** Posted Yesterday
-
-### [AI Engineer 5 (MLX, Agentic AI, Gen AI platform Services)](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/San-Jose-CA/AI-Engineer-5--MLX--Agentic-AI--Gen-AI-platform-Services-_R1003970-1) — Capital One
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** Posted 4 Days Ago
-
-### [Machine Learning Engineer 3](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Machine-Learning-Engineer-3_R1001541-2) — Capital One
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** Posted 4 Days Ago
-
-### [AI Engineer 4 (Gen AI Platform Services)](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/San-Francisco--CA/AI-Engineer-4--Gen-AI-Platform-Services-_R1003498-1) — Capital One
-- 📍 **Location:** San Francisco,  CA
+### [2027 Intern - AI/ML Engineer, Autonomous Vehicle ML Infrastructure](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Intern---AI-ML-Engineer--Autonomous-Vehicle-ML-Infrastructure_JR-202622410) — General Motors
+- 📍 **Location:** Sunnyvale, California, United States of America
 - 🕒 **Posted:** Posted 7 Days Ago
 
-### [AI Engineer 4 (MLX, Agentic AI, Gen AI platform Services)](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/San-Jose-CA/AI-Engineer-4--MLX--Agentic-AI--Gen-AI-platform-Services-_R1003291-1) — Capital One
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** Posted 13 Days Ago
+### [2027 Intern - AI/ML Engineer - Capacity & Performance Engineering, Autonomous Vehicles](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Intern---AI-ML-Engineer---Capacity---Performance-Engineering--Autonomous-Vehicles_JR-202622406) — General Motors
+- 📍 **Location:** Sunnyvale, California, United States of America
+- 🕒 **Posted:** Posted 7 Days Ago
 
-### [AI Engineer 5 (Gen AI Platform Services: Agentic AI, Guardrails, Evaluation)](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/San-Francisco--CA/AI-Engineer-5--Gen-AI-Platform-Services--Agentic-AI--Guardrails--Evaluation-_R1003168-1) — Capital One
-- 📍 **Location:** San Francisco,  CA
-- 🕒 **Posted:** Posted 13 Days Ago
+### [Platform Engineer (Remote)](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-REMOTE/Platform-Engineer--Remote-_01882296) — RTX
+- 📍 **Location:** US-CT-REMOTE
+- 🕒 **Posted:** Posted 7 Days Ago
 
-### [AI Engineer 5 (Gen AI Platform Services: Agentic AI)](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/San-Jose-CA/AI-Engineer-5--Gen-AI-Platform-Services--Agentic-AI-_R1003179-1) — Capital One
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** Posted 13 Days Ago
+### [Fraud AI/ML Data Scientist](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---Remote-Any-location/Fraud-AI-ML-Data-Scientist_45164) — Guidehouse
+- 📍 **Location:** US - Remote (Any location)
+- 🕒 **Posted:** Posted 5 Days Ago
 
-### [AI Engineer 5 (Gen AI Platform Services: Agentic Systems)](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/AI-Engineer-5--Gen-AI-Platform-Services--Agentic-Systems-_R1003178-1) — Capital One
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** Posted 13 Days Ago
-
-### [AI Engineer 5 (Gen AI Platform Services: Agentic AI, Guardrails, Evaluations)](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/AI-Engineer-5--Gen-AI-Platform-Services--Agentic-AI--Guardrails--Evaluations-_R1003163-1) — Capital One
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** Posted 13 Days Ago
-
-### [Full-stack Engineer 4 (Java, Scala, AWS)](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Full-stack-Engineer-4--Java--Scala--AWS-_R1001263-1) — Capital One
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** Posted Today
-
-### [Full Stack Engineer 4](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Full-Stack-Engineer-4_R1001195-1) — Capital One
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** Posted Yesterday
-
-### [Full Stack Engineer 4](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/New-York-NY/Full-Stack-Engineer-4_R1001188-1) — Capital One
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** Posted Yesterday
-
-### [Program Integrity Data Scientist III -  Experience supporting fraud detection, program integrity initiatives preferred](https://caresource.wd1.myworkdayjobs.com/caresource/job/Remote/Program-Integrity-Data-Scientist-III_R13780) — CareSource
-- 📍 **Location:** Remote
-- 🕒 **Posted:** Posted 8 Days Ago
-
-### [Machine Learning Engineering Technical Leader](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Machine-Learning-Engineering-Technical-Leader_2026440) — Cisco
-- 📍 **Location:** San Jose, California, US
-- 🕒 **Posted:** Posted Today
-
-### [Software Engineer Data & AI PhD (Intern) - United States](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Software-Engineer-Data---AI-PhD--Intern----United-States_2025611) — Cisco
-- 📍 **Location:** San Jose, California, US
-- 🕒 **Posted:** Posted 4 Days Ago
-
-### [Leader, Software Engineering](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Milpitas-California-US/Leader--Software-Engineering_2023202) — Cisco
-- 📍 **Location:** Milpitas, California, US
-- 🕒 **Posted:** Posted Today
-
-### [Software Engineer Technical Leader – Network Data Plane – Hypershield](https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/San-Jose-California-US/Software-Engineer-Technical-Leader---Network-Data-Plane---Hypershield_2025874) — Cisco
-- 📍 **Location:** San Jose, California, US
-- 🕒 **Posted:** Posted 8 Days Ago
-
-### [Software Engineer II (C#/.NET) - BizBuySell - San Francisco, CA](https://costar.wd1.myworkdayjobs.com/CoStarCareers/job/US-CA-San-Francisco/Senior-Full-Stack-Engineer---BizBuySell---San-Francisco--CA_R40055) — CoStar Group
-- 📍 **Location:** US-CA San Francisco
-- 🕒 **Posted:** Posted Yesterday
-
-### [Software Engineer II](https://dataminr.wd12.myworkdayjobs.com/Dataminr/job/New-York-NY/Software-Engineer-II_JR2100) — Dataminr
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** Posted 4 Days Ago
-
-### [Software Engineer II - AI Insights](https://disney.wd5.myworkdayjobs.com/disneycareer/job/New-York-NY-USA/Software-Engineer-II--AI-Insights_10148557) — The Walt Disney Company
-- 📍 **Location:** New York, NY, USA
-- 🕒 **Posted:** Posted Today
-
-### [Software Engineer II - AI Performance](https://disney.wd5.myworkdayjobs.com/disneycareer/job/New-York-NY-USA/Software-Engineer-II--AI-Performance_10148555) — The Walt Disney Company
-- 📍 **Location:** New York, NY, USA
-- 🕒 **Posted:** Posted Today
-
-### [Product Software Engineer II](https://disney.wd5.myworkdayjobs.com/disneycareer/job/New-York-NY-USA/Sr-Product-Software-Engineer_10151328-2) — The Walt Disney Company
-- 📍 **Location:** New York, NY, USA
-- 🕒 **Posted:** Posted 9 Days Ago
-
-### [Software Engineer II - AI Insights](https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/New-York-NY-USA/Software-Engineer-II_10148557) — The Walt Disney Company
-- 📍 **Location:** New York, NY, USA
-- 🕒 **Posted:** Posted Today
-
-### [Software Engineer II - ML and Observability](https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Glendale-CA-USA/Software-Engineer-II_10148553-1) — The Walt Disney Company
-- 📍 **Location:** New York, NY, USA
-- 🕒 **Posted:** Posted 9 Days Ago
-
-### [Software Engineer II - AI Performance](https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/New-York-NY-USA/Software-Engineer-II_10148555) — The Walt Disney Company
-- 📍 **Location:** New York, NY, USA
-- 🕒 **Posted:** Posted Today
-
-### [Product Software Engineer II](https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/New-York-NY-USA/Sr-Product-Software-Engineer_10151328) — The Walt Disney Company
-- 📍 **Location:** New York, NY, USA
-- 🕒 **Posted:** Posted 9 Days Ago
-
-### [MTS 2, Software Engineer](https://ebay.wd5.myworkdayjobs.com/apply/job/San-Jose/MTS-2--Software-Engineer_R0077231) — eBay
-- 📍 **Location:** San Jose
-- 🕒 **Posted:** Posted Today
-
-### [Tenured Associate Professor of Data Science (Remote U.S.)](https://embryriddle.wd1.myworkdayjobs.com/External/job/Remote---United-States/Tenure-Associate-Professor-of-Computer-and-or-Data-Science--Remote-US-_R311006) — Embry-Riddle Aeronautical University
-- 📍 **Location:** Remote - United States
-
-### [Software Engineer](https://equifax.wd5.myworkdayjobs.com/external/job/USA---Georgia---Atlanta---Remote/Software-Engineer_J00178454) — Equifax
-- 📍 **Location:** USA - Georgia - Atlanta - Remote
+### [Databricks Data Scientist](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---Remote-Any-location/Databricks-Data-Scientist_42293) — Guidehouse
+- 📍 **Location:** US - Remote (Any location)
 - 🕒 **Posted:** Posted 6 Days Ago
 
-### [Android AOSP Device Software Engineer](https://fiserv.wd5.myworkdayjobs.com/ext/job/Sunnyvale-California/Android-AOSP-Device-Software-Engineer_R-10403888) — Fiserv
-- 📍 **Location:** Sunnyvale, California
-- 🕒 **Posted:** Posted 4 Days Ago
+### [ML Platform Engineer](https://guidewire.wd5.myworkdayjobs.com/external/job/United-States---San-Mateo-CA/Senior-Machine-Learning-Engineer---AI-ML_JR_14811) — Guidewire
+- 📍 **Location:** United States - San Mateo, CA
+- 🕒 **Posted:** Posted 13 Days Ago
 
-### [2026 Undergraduate - Leap: Software Engineer, Jersey City, NJ](https://fmr.wd1.myworkdayjobs.com/targeted/job/Jersey-City-NJ/XMLNAME-2026-Undergraduate---Leap--Software-Engineer--Jersey-City--NJ_2130181) — Fidelity Investments
-- 📍 **Location:** Jersey City, NJ
-- 🕒 **Posted:** Posted 8 Days Ago
+### [Software Engineer III (AI/ML)](https://guidewire.wd5.myworkdayjobs.com/external/job/San-Mateo-HQ/Software-Engineer-III--AI-ML-_JR_15242-1) — Guidewire
+- 📍 **Location:** San Mateo HQ
+- 🕒 **Posted:** Posted 13 Days Ago
 
-### [Data Scientist, Product to Market (P2M) Optimization](https://gapinc.wd1.myworkdayjobs.com/GAPINC/job/SF---2-Folsom/Data-Scientist--Product-to-Market--P2M--Optimization_R223710) — GAP
-- 📍 **Location:** SF - 2 Folsom
+### [Software Engineer II, Application Platform - AI Services](https://guidewire.wd5.myworkdayjobs.com/external/job/United-States---San-Mateo-CA/Software-Engineer-II--Application-Platform---AI-Services_JR_15302) — Guidewire
+- 📍 **Location:** United States - San Mateo, CA
+- 🕒 **Posted:** Posted 7 Days Ago
+
+### [Computer Vision/Machine Learning Intern](https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/Computer-Vision-Machine-Learning-Intern_2641921-1) — KLA Corporation
+- 📍 **Location:** Milpitas, CA
+- 🕒 **Posted:** Posted Yesterday
+
+### [Systems Software Engineer - AI Infrastructure](https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/AI-Platform-Engineer_2638542) — KLA Corporation
+- 📍 **Location:** Milpitas, CA
+- 🕒 **Posted:** Posted 9 Days Ago
+
+### [AI Engineer (Computer Vision/Signal Processing)](https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/AI-Engineer--Computer-Vision-Signal-Processing_2638582) — KLA Corporation
+- 📍 **Location:** Milpitas, CA
 - 🕒 **Posted:** Posted Today
+
+### [Computer Vision/Machine Learning Intern](https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Computer-Vision-Machine-Learning-Intern_2641921) — KLA
+- 📍 **Location:** Milpitas, CA
+- 🕒 **Posted:** Posted Yesterday
+
+### [AI/ML Data Scientist](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/AI-ML-Data-Scientist_R-00191932) — Leidos
+- 📍 **Location:** 6314 Remote/Teleworker US
+- 🕒 **Posted:** Posted 6 Days Ago
+
+### [Applied Data Scientist – Performance Management & AI Solutions](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Applied-Data-Scientist---Performance-Management---AI-Solutions_R-00194542) — Leidos
+- 📍 **Location:** 6314 Remote/Teleworker US
+- 🕒 **Posted:** Posted 7 Days Ago
+
+### [Data Scientist, Sensors](https://lyten.wd503.myworkdayjobs.com/Lyten_External_Career_Site/job/San-Jose-CA/Data-Scientist--Sensors_JR100751) — Lyten
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** Posted 6 Days Ago
+
+### [AI Data Science Intern, MS - Summer 2027](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/AI-Data-Science-Intern--MS---Summer-2027_2603846-1) — Marvell
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** Posted 2 Days Ago
+
+### [Network Site Reliability Engineer, AI Solutions Lab](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Network-Site-Reliability-Engineer--AI-Solutions-Lab_2604942) — Marvell
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** Posted 5 Days Ago
+
+### [AI Data Science Intern, MS - Summer 2027](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/AI-Data-Science-Intern--MS---Summer-2027_2603846) — Marvell
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** Posted 2 Days Ago
+
+### [Machine Learning Engineer](https://maxar.wd1.myworkdayjobs.com/Vantor/job/Remote-United-States/Machine-Learning-Engineer_R24766) — Vantor
+- 📍 **Location:** Remote (United States)
+- 🕒 **Posted:** Posted 13 Days Ago
+
+### [Specialist, Software Engineering](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-OH-Columbus/Specialist--Software-Engineering_JR0155598-1) — McKesson
+- 📍 **Location:** USA, Remote
+- 🕒 **Posted:** Posted 2 Days Ago
