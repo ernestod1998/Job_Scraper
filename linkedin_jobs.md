@@ -1,65 +1,67 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-10-21 20:17 UTC*
+*Last updated: 2026-10-21 21:18 UTC*
 
-**15 new role(s)** since last run · 27 total in last 1h
+**15 new role(s)** since last run · 22 total in last 1h
 
-### [Machine Learning Engineer](https://www.linkedin.com/jobs/view/4481152600/) — EvenUp
+### [Machine Learning Engineer II, Fulfillment](https://www.linkedin.com/jobs/view/4465390163/) — Etsy
+- 📍 **Location:** Brooklyn, NY
+- 🕒 **Posted:** 2026-10-21
+
+### [Data Scientist](https://www.linkedin.com/jobs/view/4482164478/) — KEDPLASMA
+- 📍 **Location:** Fort Lee, NJ
+- 🕒 **Posted:** 2026-10-21
+
+### [Data Scientist, Product to Market (P2M) Optimization](https://www.linkedin.com/jobs/view/4482107360/) — Gap Inc.
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-10-21
 
-### [AI Platform Engineer](https://www.linkedin.com/jobs/view/4479442611/) — HED
-- 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-10-21
-
-### [Data Scientist, Fleet Orchestration Algorithms](https://www.linkedin.com/jobs/view/4482151958/) — Zoox
-- 📍 **Location:** Foster City, CA
-- 🕒 **Posted:** 2026-10-21
-
-### [Software Engineer, AI Solutions](https://www.linkedin.com/jobs/view/4481155236/) — DataVisor
+### [Research Engineer, Gemini Large Scale Pretraining, DeepMind](https://www.linkedin.com/jobs/view/4481152728/) — Google DeepMind
 - 📍 **Location:** Mountain View, CA
 - 🕒 **Posted:** 2026-10-21
 
-### [Data Scientist - TikTok Local Services (San Jose)](https://www.linkedin.com/jobs/view/4481145703/) — TikTok
+### [Entry Level Software Developer 2027](https://www.linkedin.com/jobs/view/4479440821/) — IBM
+- 📍 **Location:** San Jose, CA
+- 💰 **Salary:** $120,960.00/yr - $181,440.00/yr
+- 🕒 **Posted:** 2026-10-21
+
+### [Software Engineer - Compliance Tech](https://www.linkedin.com/jobs/view/4482179010/) — Interactive Brokers
+- 📍 **Location:** Greenwich, CT
+- 🕒 **Posted:** 2026-10-21
+
+### [Full Stack Engineer](https://www.linkedin.com/jobs/view/4479438995/) — The Phoenix Group
+- 📍 **Location:** New York City Metropolitan Area
+- 💰 **Salary:** $180,000.00/yr - $250,000.00/yr
+- 🕒 **Posted:** 2026-10-21
+
+### [Cloud Infrastructure Engineer](https://www.linkedin.com/jobs/view/4482160821/) — 42dot
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-10-21
+
+### [DevOps Engineer](https://www.linkedin.com/jobs/view/4482174262/) — Clinisoltech
+- 📍 **Location:** New York City Metropolitan Area
+- 💰 **Salary:** $65,000.00/yr - $90,000.00/yr
+- 🕒 **Posted:** 2026-10-21
+
+### [Site Reliability Engineer](https://www.linkedin.com/jobs/view/4481263530/) — Interactive Brokers
+- 📍 **Location:** Greenwich, CT
+- 🕒 **Posted:** 2026-10-21
+
+### [Site Reliability Engineer II](https://www.linkedin.com/jobs/view/4481146932/) — Experis
+- 📍 **Location:** Jersey City, NJ
+- 🕒 **Posted:** 2026-10-21
+
+### [Software Engineer - Core Systems and Storage Roles (Multiple Individual Contributor Levels)](https://www.linkedin.com/jobs/view/4461135842/) — NetApp
 - 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-10-21
 
-### [Software Engineer](https://www.linkedin.com/jobs/view/4482159749/) — Mintive
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-10-21
-
-### [Software Engineer](https://www.linkedin.com/jobs/view/4482173069/) — Mintive
-- 📍 **Location:** San Mateo, CA
-- 🕒 **Posted:** 2026-10-21
-
-### [Summer 2027 Software Engineering Internship/Co-op](https://www.linkedin.com/jobs/view/4482171089/) — SpaceX Super Intelligence
+### [Rust Engineer/Rust Software Developer](https://www.linkedin.com/jobs/view/4482166477/) — 1ST-RECRUIT LLC, An E-Verified Company
 - 📍 **Location:** Palo Alto, CA
 - 🕒 **Posted:** 2026-10-21
 
-### [Research Engineer, Chip Design RL](https://www.linkedin.com/jobs/view/4481145681/) — Anthropic
-- 📍 **Location:** San Francisco, CA
+### [Robotics Engineer – Hardware & Software Debugging](https://www.linkedin.com/jobs/view/4482171331/) — VMC Soft Technologies, Inc
+- 📍 **Location:** Cupertino, CA
 - 🕒 **Posted:** 2026-10-21
 
-### [Robotics Software Engineer – Mobile Robotics (ROS2 / Navigation)](https://www.linkedin.com/jobs/view/4436057914/) — Trubot Technology
-- 📍 **Location:** Fremont, CA
-- 💰 **Salary:** $100,000.00/yr - $185,000.00/yr
-- 🕒 **Posted:** 2026-10-21
-
-### [Forward Deployed Data Scientist](https://www.linkedin.com/jobs/view/4479433989/) — FDE Times
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-10-21
-
-### [Software Engineer, Forward Deployed](https://www.linkedin.com/jobs/view/4479435807/) — FDE Times
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-10-21
-
-### [Forward Deployed Infrastructure Engineer, Internship - US Government](https://www.linkedin.com/jobs/view/4479437850/) — FDE Times
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-10-21
-
-### [Associate Data Platform Engineer](https://www.linkedin.com/jobs/view/4481144807/) — Madison Square Garden Entertainment Corp.
-- 📍 **Location:** New York City Metropolitan Area
-- 🕒 **Posted:** 2026-10-21
-
-### [Full Stack Engineer](https://www.linkedin.com/jobs/view/4479454054/) — Ampcus Inc
-- 📍 **Location:** Jersey City, NJ
+### [Backend Developer Intern (Restaurant OS) — Fully Remote](https://www.linkedin.com/jobs/view/4481157444/) — ZOVU
+- 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-10-21
