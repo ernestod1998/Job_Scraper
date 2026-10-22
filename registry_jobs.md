@@ -1,33 +1,32 @@
 # 🗃 Direct ATS Registry — Engineering / ML / DS Roles
-*Last updated: 2026-10-22 06:53 UTC*
+*Last updated: 2026-10-22 18:30 UTC*
 
-**8 new role(s)** since last run · 20 total in current registry shard
+**7 new role(s)** since last run · 10 total in current registry shard
 
-### [2027 Future Talent Program – Drug Metabolism and Pharmacokinetics – Co-op](https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---California---South-San-Francisco-Grand-Ave/XMLNAME-2027-Future-Talent-Program---Drug-Metabolism-and-Pharmacokinetics---Co-op_R412928) — Merck
-- 📍 **Location:** USA - California - South San Francisco (Grand Ave)
-- 🕒 **Posted:** Posted 9 Days Ago
+### [Risk Data Scientist](https://regions.wd5.myworkdayjobs.com/regions_careers/job/Hoover-AL---Riverchase-North-Building-Birmingham-AL/Risk-Data-Scientist_R102594) — Regions Bank
+- 📍 **Location:** Remote
+- 🕒 **Posted:** Posted 6 Days Ago
 
-### [Machine Learning Engineer, GeForce G-Assist](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Machine-Learning-Engineer--GeForce-G-Assist_JR2027676-1) — NVIDIA
-- 📍 **Location:** US, CA, Santa Clara
-- 🕒 **Posted:** Posted 5 Days Ago
-
-### [Applied Machine Learning Engineer - AI for VLSI Design](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Machine-Learning-Engineer---AI-for-VLSI-Design_JR2025689) — NVIDIA
-- 📍 **Location:** US, CA, Santa Clara
+### [Machine Learning Engineer (AI Enablement)](https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/Machine-Learning-Engineer--Data-and-Digital-Catalyst-_202610-125840) — Genentech
+- 📍 **Location:** South San Francisco
 - 🕒 **Posted:** Posted 2 Days Ago
 
-### [PhD Research Intern, Efficient Deep Learning - 2027](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Intern--Efficient-Deep-Learning---2027_JR2025478) — NVIDIA
-- 📍 **Location:** US, CA, Santa Clara
-- 🕒 **Posted:** Posted 9 Days Ago
+### [Software Engineering MTS](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Software-Engineering-MTS_JR364718) — Salesforce
+- 📍 **Location:** California - San Francisco
+- 🕒 **Posted:** Posted Today
 
-### [PhD Research Intern, Fundamental Generative AI - 2027](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Intern--Fundamental-Generative-AI---2027_JR2025406) — NVIDIA
-- 📍 **Location:** US, CA, Santa Clara
-- 🕒 **Posted:** Posted 9 Days Ago
+### [Solutions Engineer - Cloud & DevOps](https://shi.wd12.myworkdayjobs.com/shicareers/job/US---Remote/Solutions-Engineer---Cloud---DevOps_JR3909-1) — SHI International
+- 📍 **Location:** US - Remote
+- 🕒 **Posted:** Posted 3 Days Ago
 
-### [Data Scientist- Secret](https://parsons.wd5.myworkdayjobs.com/search/job/US---Remote-Any-Location/Data-Scientist_R185988) — Parsons
-- 📍 **Location:** US - Remote (Any Location)
+### [Data Integration Software Engineer](https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---Remote-OH/Data-Integration-Software-Engineer_R58031-1) — Trimble
+- 📍 **Location:** US - Remote, OH
+- 🕒 **Posted:** Posted 3 Days Ago
 
-### [Frontend Engineer - Top Secret](https://parsons.wd5.myworkdayjobs.com/search/job/US---Remote-Any-Location/Frontend-Engineer---Top-Secret_R187072) — Parsons
-- 📍 **Location:** US - Remote (Any Location)
+### [Software Engineering Intern](https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---CO-Westminster/Software-Engineering-Intern_R57676) — Trimble
+- 📍 **Location:** US - CA, Sunnyvale
+- 🕒 **Posted:** Posted 3 Days Ago
 
-### [Full Stack Software Engineer - Secret](https://parsons.wd5.myworkdayjobs.com/search/job/US---Remote-Any-Location/Full-Stack-Software-Engineer---Secret_R187011) — Parsons
-- 📍 **Location:** US - Remote (Any Location)
+### [Tools and Automation Software Engineer](https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---CA-Sunnyvale/Software-Engineer_R53329) — Trimble
+- 📍 **Location:** US - CA, Sunnyvale
+- 🕒 **Posted:** Posted 3 Days Ago
