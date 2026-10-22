@@ -1,25 +1,29 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-10-22 03:18 UTC*
+*Last updated: 2026-10-22 07:53 UTC*
 
-**5 new role(s)** since last run · 13 total in last 1h
+**6 new role(s)** since last run · 6 total in last 1h
 
-### [Remote Software Developer](https://www.linkedin.com/jobs/view/4481172877/) — Turing
+### [Data Scientist](https://www.linkedin.com/jobs/view/4479493604/) — Stealth Startup
 - 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-10-21
+- 🕒 **Posted:** 2026-10-22
 
-### [Remote Software Engineer](https://www.linkedin.com/jobs/view/4481174824/) — Turing
+### [DevOps / SRE / AI Infrastructure Engineers](https://www.linkedin.com/jobs/view/4482433966/) — CELOTTI TECH TALENT
+- 📍 **Location:** Palo Alto, CA
+- 💰 **Salary:** $150,000.00/yr - $230,000.00/yr
+- 🕒 **Posted:** 2026-10-22
+
+### [Data Scientist](https://www.linkedin.com/jobs/view/4480014216/) — Stealth Startup
 - 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-10-21
+- 🕒 **Posted:** 2026-10-22
 
-### [Software Engineering Intern, Cloud Platform (Summer 2027)](https://www.linkedin.com/jobs/view/4481185474/) — GlobalFoundries
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-10-21
+### [Data Scientist](https://www.linkedin.com/jobs/view/4479490918/) — Stealth Startup
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-10-22
 
-### [Jr. Software Engineer - AI & Prompt Engineering (Contract to Perm)](https://www.linkedin.com/jobs/view/4465839527/) — Locality
-- 📍 **Location:** New York City Metropolitan Area
-- 🕒 **Posted:** 2026-10-21
+### [Junior Data Scientist](https://www.linkedin.com/jobs/view/4481311221/) — Emonics LLC
+- 📍 **Location:** Brooklyn, NY
+- 🕒 **Posted:** 2026-10-22
 
-### [Software Engineer II - Full Stack Development | Asset Management Technology](https://www.linkedin.com/jobs/view/4482404908/) — JPMorganChase
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $123,500.00/yr - $150,000.00/yr
-- 🕒 **Posted:** 2026-10-21
+### [Field Infrastructure Engineer](https://www.linkedin.com/jobs/view/4482444525/) — Overland AI
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-10-22
