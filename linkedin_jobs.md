@@ -1,32 +1,25 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-10-22 02:19 UTC*
+*Last updated: 2026-10-22 03:18 UTC*
 
-**7 new role(s)** since last run · 8 total in last 1h
+**5 new role(s)** since last run · 13 total in last 1h
 
-### [Generative AI Consultant](https://www.linkedin.com/jobs/view/4481181477/) — PPT Consulting
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-10-21
-
-### [Software Engineer, Agentic](https://www.linkedin.com/jobs/view/4482405562/) — Uber
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-10-21
-
-### [Remote Software Engineer - Python/Typescript](https://www.linkedin.com/jobs/view/4481182401/) — Turing
+### [Remote Software Developer](https://www.linkedin.com/jobs/view/4481172877/) — Turing
 - 📍 **Location:** San Francisco Bay Area
 - 🕒 **Posted:** 2026-10-21
 
-### [Remote Software Engineer ($300/hr)](https://www.linkedin.com/jobs/view/4481173789/) — Turing
+### [Remote Software Engineer](https://www.linkedin.com/jobs/view/4481174824/) — Turing
 - 📍 **Location:** San Francisco Bay Area
 - 🕒 **Posted:** 2026-10-21
 
-### [Data Scientist](https://www.linkedin.com/jobs/view/4482402793/) — Melotech
-- 📍 **Location:** New York, NY
+### [Software Engineering Intern, Cloud Platform (Summer 2027)](https://www.linkedin.com/jobs/view/4481185474/) — GlobalFoundries
+- 📍 **Location:** Santa Clara, CA
 - 🕒 **Posted:** 2026-10-21
 
-### [Software Engineer](https://www.linkedin.com/jobs/view/4482190842/) — Clusia
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-10-21
-
-### [Remote Software Engineer ($300/hr)](https://www.linkedin.com/jobs/view/4481181577/) — Turing
+### [Jr. Software Engineer - AI & Prompt Engineering (Contract to Perm)](https://www.linkedin.com/jobs/view/4465839527/) — Locality
 - 📍 **Location:** New York City Metropolitan Area
+- 🕒 **Posted:** 2026-10-21
+
+### [Software Engineer II - Full Stack Development | Asset Management Technology](https://www.linkedin.com/jobs/view/4482404908/) — JPMorganChase
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $123,500.00/yr - $150,000.00/yr
 - 🕒 **Posted:** 2026-10-21
