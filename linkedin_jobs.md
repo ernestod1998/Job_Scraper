@@ -1,41 +1,47 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-10-23 21:18 UTC*
+*Last updated: 2026-10-23 22:18 UTC*
 
-**9 new role(s)** since last run · 15 total in last 1h
+**10 new role(s)** since last run · 17 total in last 1h
 
-### [Software Engineering Intern – AI/ML for Diagnostics & Calibration](https://www.linkedin.com/jobs/view/4480695499/) — KLA
-- 📍 **Location:** Milpitas, CA
+### [Software Engineer, Cloud](https://www.linkedin.com/jobs/view/4480693873/) — AI Talent Hope
+- 📍 **Location:** Alameda, CA
 - 🕒 **Posted:** 2026-10-23
 
-### [Software Engineer, Early Career — Immediate Start](https://www.linkedin.com/jobs/view/4468875017/) — Stripe
+### [Data Scientist V](https://www.linkedin.com/jobs/view/4481950922/) — Intelliswift - An LTTS Company
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-10-23
+
+### [Software Engineer, Data Platform](https://www.linkedin.com/jobs/view/4467280718/) — Numeric
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $125,000.00/yr - $225,000.00/yr
+- 🕒 **Posted:** 2026-10-23
+
+### [AI Engineer - Data Science](https://www.linkedin.com/jobs/view/4480689980/) — Applied Underwriters
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $100,000.00/yr - $120,000.00/yr
+- 🕒 **Posted:** 2026-10-23
+
+### [Biostatistician II](https://www.linkedin.com/jobs/view/4480690915/) — Public Health Institute
+- 📍 **Location:** Berkeley, CA
+- 🕒 **Posted:** 2026-10-23
+
+### [Software Engineer](https://www.linkedin.com/jobs/view/4483159581/) — Cisco
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-10-23
 
-### [Embedded Software Engineer 5 - Newark, CA - Onsite](https://www.linkedin.com/jobs/view/4481002252/) — Dew Software
-- 📍 **Location:** Newark, CA
-- 💰 **Salary:** $80.00/hr - $90.00/hr
+### [2027 Summer Intern, MS/PhD, Software Engineer, ML Frameworks and Efficiency](https://www.linkedin.com/jobs/view/4481949923/) — Waymo
+- 📍 **Location:** Mountain View, CA
 - 🕒 **Posted:** 2026-10-23
 
-### [Backend Engineer- Node.js](https://www.linkedin.com/jobs/view/4480684836/) — Dale WorkForce Solutions
+### [(USA) Software Engineer III](https://www.linkedin.com/jobs/view/4481012052/) — Walmart
+- 📍 **Location:** Sunnyvale, CA
+- 💰 **Salary:** $117,000.00/yr - $234,000.00/yr
+- 🕒 **Posted:** 2026-10-23
+
+### [DevOps Engineer](https://www.linkedin.com/jobs/view/4483169026/) — Wall Street Consulting Services LLC
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-10-23
 
-### [2026 Embedded Linux platform engineer (Freelance)](https://www.linkedin.com/jobs/view/4481961272/) — Smart Design
-- 📍 **Location:** Brooklyn, NY
-- 🕒 **Posted:** 2026-10-23
-
-### [DevOps / Platform Engineering Intern (Kubernetes)](https://www.linkedin.com/jobs/view/4483153036/) — Kubernetix.AI
-- 📍 **Location:** New York City Metropolitan Area
-- 🕒 **Posted:** 2026-10-23
-
-### [Software Engineering Intern](https://www.linkedin.com/jobs/view/4481000389/) — KLA
-- 📍 **Location:** Milpitas, CA
-- 🕒 **Posted:** 2026-10-23
-
-### [DevOps Engineer](https://www.linkedin.com/jobs/view/4483161165/) — Confido
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-10-23
-
-### [Robotics Engineer](https://www.linkedin.com/jobs/view/4481951780/) — Infi Robotics
-- 📍 **Location:** San Francisco, CA
+### [Software Engineer (Go, Python, AWS and Kubernetes)](https://www.linkedin.com/jobs/view/4483148766/) — Cisco
+- 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-10-23
