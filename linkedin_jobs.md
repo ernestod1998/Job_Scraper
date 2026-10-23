@@ -1,53 +1,41 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-10-23 20:18 UTC*
+*Last updated: 2026-10-23 21:18 UTC*
 
-**12 new role(s)** since last run · 51 total in last 1h
+**9 new role(s)** since last run · 15 total in last 1h
 
-### [AI Research Engineer](https://www.linkedin.com/jobs/view/4483143244/) — Cerebro
-- 📍 **Location:** San Francisco Bay Area
+### [Software Engineering Intern – AI/ML for Diagnostics & Calibration](https://www.linkedin.com/jobs/view/4480695499/) — KLA
+- 📍 **Location:** Milpitas, CA
 - 🕒 **Posted:** 2026-10-23
 
-### [Software Engineer](https://www.linkedin.com/jobs/view/4481958039/) — Autonomous Production
-- 📍 **Location:** San Rafael, CA
-- 🕒 **Posted:** 2026-10-23
-
-### [Data Scientist](https://www.linkedin.com/jobs/view/4480693311/) — Jerry
-- 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-10-23
-
-### [Associate Data Scientist](https://www.linkedin.com/jobs/view/4481000012/) — Jerry
-- 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-10-23
-
-### [Software Engineer - Mercury Command](https://www.linkedin.com/jobs/view/4480699030/) — Mercury
+### [Software Engineer, Early Career — Immediate Start](https://www.linkedin.com/jobs/view/4468875017/) — Stripe
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-10-23
 
-### [Associate Data Scientist](https://www.linkedin.com/jobs/view/4480689481/) — Jerry
+### [Embedded Software Engineer 5 - Newark, CA - Onsite](https://www.linkedin.com/jobs/view/4481002252/) — Dew Software
+- 📍 **Location:** Newark, CA
+- 💰 **Salary:** $80.00/hr - $90.00/hr
+- 🕒 **Posted:** 2026-10-23
+
+### [Backend Engineer- Node.js](https://www.linkedin.com/jobs/view/4480684836/) — Dale WorkForce Solutions
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-10-23
 
-### [Data Scientist](https://www.linkedin.com/jobs/view/4480696140/) — Jerry
+### [2026 Embedded Linux platform engineer (Freelance)](https://www.linkedin.com/jobs/view/4481961272/) — Smart Design
+- 📍 **Location:** Brooklyn, NY
+- 🕒 **Posted:** 2026-10-23
+
+### [DevOps / Platform Engineering Intern (Kubernetes)](https://www.linkedin.com/jobs/view/4483153036/) — Kubernetix.AI
+- 📍 **Location:** New York City Metropolitan Area
+- 🕒 **Posted:** 2026-10-23
+
+### [Software Engineering Intern](https://www.linkedin.com/jobs/view/4481000389/) — KLA
+- 📍 **Location:** Milpitas, CA
+- 🕒 **Posted:** 2026-10-23
+
+### [DevOps Engineer](https://www.linkedin.com/jobs/view/4483161165/) — Confido
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-10-23
 
-### [Backend Engineer, Data](https://www.linkedin.com/jobs/view/4483141699/) — Minerva
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $150,000.00/yr - $236,000.00/yr
-- 🕒 **Posted:** 2026-10-23
-
-### [Software Engineer - AI Platform](https://www.linkedin.com/jobs/view/4483125973/) — Mission Staffing
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-10-23
-
-### [Software Engineer, AI](https://www.linkedin.com/jobs/view/4483134957/) — Clark
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-10-23
-
-### [Software Engineer, Platform](https://www.linkedin.com/jobs/view/4483149114/) — Clark
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-10-23
-
-### [Software Engineer - Mercury Command](https://www.linkedin.com/jobs/view/4480681792/) — Mercury
-- 📍 **Location:** New York, NY
+### [Robotics Engineer](https://www.linkedin.com/jobs/view/4481951780/) — Infi Robotics
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-10-23
