@@ -1,37 +1,32 @@
 # 🧬 Biotech LinkedIn — MLE / DS Roles
-*Last updated: 2026-10-22 08:51 UTC*
+*Last updated: 2026-10-23 08:42 UTC*
 
-**9 new role(s)** since last run · 41 total in last 24h
+**7 new role(s)** since last run · 37 total in last 24h
 
-### [Data Scientist, Medical Imaging (Open Level)](https://job-boards.greenhouse.io/formationbio/jobs/8310673) — Formation Bio
-- 📍 **Location:** Boston, MA; New York, NY
-- 🕒 **Posted:** 2026-10-21
+### [2027 Spring Intern - Data Science & Machine Learning](https://www.linkedin.com/jobs/view/4482815361/) — Genentech
+- 📍 **Location:** South San Francisco, CA
+- 🕒 **Posted:** 2026-10-23
 
-### [Data Scientist (Open Level)](https://job-boards.greenhouse.io/formationbio/jobs/8306480) — Formation Bio
-- 📍 **Location:** Boston, MA; New York, NY
-- 🕒 **Posted:** 2026-10-21
+### [Data Scientist II, Real World Evidence, Life Sciences R&D](https://www.linkedin.com/jobs/view/4472318876/) — Tempus AI
+- 📍 **Location:** Redwood City, CA
+- 🕒 **Posted:** 2026-10-22
 
-### [Software Engineering (4)](https://www.immunai.com/careers/#software-engineering-4) — Immunai
-- 📍 **Location:** New York, NY
+### [Data Scientist/Postdoctoral Researcher - Zhou & Gao Labs](https://www.linkedin.com/jobs/view/4465381452/) — Buck Institute for Research on Aging
+- 📍 **Location:** Novato, CA
+- 🕒 **Posted:** 2026-10-22
 
-### [AI Infrastructure Engineer](https://www.immunai.com/careers/#ai-infrastructure-engineer) — Immunai
-- 📍 **Location:** New York, NY
-
-### [Postdoctoral Research Fellow - Computational Biologist - Gillani Lab](https://careers.dana-farber.org/#postdoctoral-research-fellow-computational-biologist-gillani) — Dana-Farber Cancer Institute
+### [Yeast Display and Machine Learning Scientist I/II – Antibody Discovery](https://www.linkedin.com/jobs/view/4446649800/) — Dana-Farber Cancer Institute
 - 📍 **Location:** Boston, MA
+- 🕒 **Posted:** 2026-10-22
 
-### [ML Scientist, Nucleic Acid Design](https://www.linkedin.com/jobs/view/4446144681/) — Lila Sciences
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-10-21
-
-### [Biostatistician I](https://www.linkedin.com/jobs/view/4482128587/) — Foundation Medicine
-- 📍 **Location:** Boston, MA
-- 🕒 **Posted:** 2026-10-21
-
-### [Research Scientist / Research Engineer, Automated Safety](https://www.linkedin.com/jobs/view/4482142260/) — Lila Sciences
-- 📍 **Location:** Cambridge, MA
-- 🕒 **Posted:** 2026-10-21
-
-### [Data Scientist](https://www.linkedin.com/jobs/view/4479440409/) — Bristol Myers Squibb
+### [Data Scientist](https://www.linkedin.com/jobs/view/4480070123/) — Bristol Myers Squibb
 - 📍 **Location:** San Diego, CA
-- 🕒 **Posted:** 2026-10-21
+- 🕒 **Posted:** 2026-10-22
+
+### [USA - Software Developer - II - USD (contract)](https://www.linkedin.com/jobs/view/4482789163/) — Pfizer
+- 📍 **Location:** Bothell, WA
+- 🕒 **Posted:** 2026-10-22
+
+### [ViiV Healthcare (GSK) Scientific Leader, Pre-clinical DMPK Drug Discovery Modeling](https://www.linkedin.com/jobs/view/4464241067/) — GSK
+- 📍 **Location:** Durham, NC
+- 🕒 **Posted:** 2026-10-22
