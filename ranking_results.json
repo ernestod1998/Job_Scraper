@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-23T21:01:28.888876+00:00",
+  "updated_at": "2026-10-23T21:06:26.502693+00:00",
   "day": "2026-10-23",
   "context": "a4bda70334149a6faa4ad7bde4901c9f1269e7177f0ea3c75e578f743c461d27",
   "scores": {
@@ -508678,7 +508678,122 @@
           "cost": 7943400
         }
       },
-      "scored_at": "2026-10-20T19:58:59.508984+00:00"
+      "scored_at": "2026-10-20T19:58:59.508984+00:00",
+      "sonnet": {
+        "model": "claude-sonnet-5",
+        "scores": {
+          "BioScience_ML": 57,
+          "ML": 64,
+          "DS": 57,
+          "SWE": 64,
+          "FDE": 79,
+          "Research_Software_Engineer": 57
+        },
+        "best_resumes": [
+          "FDE"
+        ],
+        "requirements": [
+          {
+            "text": "is only able to hire full-time salaried employees who currently reside in AZ, CA, CO, FL, GA, IL, MA, NC, NJ, NV, NY, OR, TN, TX, UT, VA, or Ontario, Canada, and full-time hourly employees who currently reside in AZ, FL, GA, NV, NY, NC, TN, TX, UT, or VA. Unfortunately, we cannot accept applications from candidates residing elsewhere at this time.",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "matched",
+              "FDE": "matched",
+              "Research_Software_Engineer": "matched"
+            }
+          },
+          {
+            "text": "1+ years of experience at a consulting firm, investment bank, or high-growth technology company.",
+            "importance": "required",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "not_evidenced",
+              "ML": "partial",
+              "DS": "not_evidenced",
+              "SWE": "partial",
+              "FDE": "partial",
+              "Research_Software_Engineer": "not_evidenced"
+            }
+          },
+          {
+            "text": "Strong analytical skills; ability to pull, structure, and interpret data independently.",
+            "importance": "required",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "matched",
+              "FDE": "matched",
+              "Research_Software_Engineer": "matched"
+            }
+          },
+          {
+            "text": "First principles thinker: You break ambiguous problems into clear hypotheses before touching data. You're analytically strong (comfortable with SQL or Python) but your instinct is to ask \"what are we trying to solve here?\" before jumping to \"what should I build?\"",
+            "importance": "required",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial",
+              "Research_Software_Engineer": "partial"
+            }
+          },
+          {
+            "text": "Track record of owning ambiguous problems and delivering impact.",
+            "importance": "required",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "matched",
+              "Research_Software_Engineer": "partial"
+            }
+          },
+          {
+            "text": "Clear, persuasive communicator who can influence decisions at the leadership level.",
+            "importance": "required",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial",
+              "Research_Software_Engineer": "partial"
+            }
+          },
+          {
+            "text": "Owner: You act like your name is on the door. If something is broken, you feel responsible for fixing it, even if it’s outside of your swim lane.",
+            "importance": "required",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "matched",
+              "Research_Software_Engineer": "partial"
+            }
+          }
+        ],
+        "usage": {
+          "input": 19595,
+          "output": 6576,
+          "thinking": 2226,
+          "cached": 0,
+          "cache_write": 0,
+          "cost": 104950000
+        }
+      }
     },
     "https://www.indeed.com/viewjob?jk=2725512ded45b712": {
       "url": "https://www.indeed.com/viewjob?jk=2725512ded45b712",
@@ -520681,7 +520796,101 @@
           "cost": 5892300
         }
       },
-      "scored_at": "2026-10-20T19:58:59.508984+00:00"
+      "scored_at": "2026-10-20T19:58:59.508984+00:00",
+      "sonnet": {
+        "model": "claude-sonnet-5",
+        "scores": {
+          "BioScience_ML": 81,
+          "ML": 81,
+          "DS": 81,
+          "SWE": 81,
+          "FDE": 81,
+          "Research_Software_Engineer": 81
+        },
+        "best_resumes": [
+          "BioScience_ML",
+          "DS",
+          "FDE",
+          "ML",
+          "Research_Software_Engineer",
+          "SWE"
+        ],
+        "requirements": [
+          {
+            "text": "Strong coding skills with demonstrated proficiency in programming languages, such as Javascript, C++, Python, Rust, or similar languages.",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "matched",
+              "FDE": "matched",
+              "Research_Software_Engineer": "matched"
+            }
+          },
+          {
+            "text": "Strong engineering prowess, ideally developed at start-ups.",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "matched",
+              "FDE": "matched",
+              "Research_Software_Engineer": "matched"
+            }
+          },
+          {
+            "text": "Strong engineering prowess, ideally developed at start-ups.",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "not_evidenced",
+              "ML": "not_evidenced",
+              "DS": "not_evidenced",
+              "SWE": "not_evidenced",
+              "FDE": "not_evidenced",
+              "Research_Software_Engineer": "not_evidenced"
+            }
+          },
+          {
+            "text": "Familiarity with storage and data processing systems, cloud infrastructure, and other technical tools.",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "matched",
+              "FDE": "matched",
+              "Research_Software_Engineer": "matched"
+            }
+          },
+          {
+            "text": "Strong written and verbal communication skills and ability to iterate quickly with teammates, incorporating feedback and holding a high bar for quality.",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial",
+              "Research_Software_Engineer": "partial"
+            }
+          }
+        ],
+        "usage": {
+          "input": 17651,
+          "output": 4474,
+          "thinking": 1502,
+          "cached": 0,
+          "cache_write": 0,
+          "cost": 80042000
+        }
+      }
     },
     "https://www.linkedin.com/jobs/view/4464067343/": {
       "url": "https://www.linkedin.com/jobs/view/4464067343/",
@@ -539515,7 +539724,101 @@
           "cost": 6412200
         }
       },
-      "scored_at": "2026-10-21T20:07:04.352151+00:00"
+      "scored_at": "2026-10-21T20:07:04.352151+00:00",
+      "sonnet": {
+        "model": "claude-sonnet-5",
+        "scores": {
+          "BioScience_ML": 80,
+          "ML": 80,
+          "DS": 80,
+          "SWE": 80,
+          "FDE": 80,
+          "Research_Software_Engineer": 80
+        },
+        "best_resumes": [
+          "BioScience_ML",
+          "DS",
+          "FDE",
+          "ML",
+          "Research_Software_Engineer",
+          "SWE"
+        ],
+        "requirements": [
+          {
+            "text": "Bachelor’s, Master’s, or PhD in Computer Science, Software Engineering, Computer Engineering, or a related field.",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "matched",
+              "FDE": "matched",
+              "Research_Software_Engineer": "matched"
+            }
+          },
+          {
+            "text": "2+ years of experience in backend development, infrastructure, cloud platforms, distributed systems, or a related discipline.",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "matched",
+              "FDE": "matched",
+              "Research_Software_Engineer": "matched"
+            }
+          },
+          {
+            "text": "Experience building and supporting production software, with knowledge of scalability, security, performance, and reliability.",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial",
+              "Research_Software_Engineer": "partial"
+            }
+          },
+          {
+            "text": "Ability to drive engineering projects from technical planning through deployment and production support.",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial",
+              "Research_Software_Engineer": "partial"
+            }
+          },
+          {
+            "text": "Strong analytical, troubleshooting, and technical decision-making skills.",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "matched",
+              "FDE": "matched",
+              "Research_Software_Engineer": "matched"
+            }
+          }
+        ],
+        "usage": {
+          "input": 16750,
+          "output": 4911,
+          "thinking": 1098,
+          "cached": 0,
+          "cache_write": 0,
+          "cost": 82610000
+        }
+      }
     },
     "https://www.linkedin.com/jobs/view/4482135187/": {
       "url": "https://www.linkedin.com/jobs/view/4482135187/",
@@ -572183,7 +572486,190 @@
           "cost": 8667850
         }
       },
-      "scored_at": "2026-10-23T19:56:23.380721+00:00"
+      "scored_at": "2026-10-23T19:56:23.380721+00:00",
+      "sonnet": {
+        "model": "claude-sonnet-5",
+        "scores": {
+          "BioScience_ML": 76,
+          "ML": 81,
+          "DS": 81,
+          "SWE": 59,
+          "FDE": 81,
+          "Research_Software_Engineer": 81
+        },
+        "best_resumes": [
+          "DS",
+          "FDE",
+          "ML",
+          "Research_Software_Engineer"
+        ],
+        "requirements": [
+          {
+            "text": "* You have a Master's degree in Computer Science, Computer Engineering, Engineering, or a closely related field. Any suitable combination of education, training and experience is acceptable.",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial",
+              "Research_Software_Engineer": "partial"
+            }
+          },
+          {
+            "text": "* You have experience with Machine Learning/Deep Learning.",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "matched",
+              "FDE": "matched",
+              "Research_Software_Engineer": "matched"
+            }
+          },
+          {
+            "text": "* You have experience with Machine Learning Operations (MLOps).",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "matched",
+              "FDE": "matched",
+              "Research_Software_Engineer": "matched"
+            }
+          },
+          {
+            "text": "* You have experience with Python.",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "matched",
+              "FDE": "matched",
+              "Research_Software_Engineer": "matched"
+            }
+          },
+          {
+            "text": "* You have experience with PyTorch.",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "not_evidenced",
+              "FDE": "matched",
+              "Research_Software_Engineer": "matched"
+            }
+          },
+          {
+            "text": "* You have experience with TensorFlow.",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "not_evidenced",
+              "ML": "not_evidenced",
+              "DS": "not_evidenced",
+              "SWE": "not_evidenced",
+              "FDE": "not_evidenced",
+              "Research_Software_Engineer": "not_evidenced"
+            }
+          },
+          {
+            "text": "* You have experience with Anomaly Detection.",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "matched",
+              "FDE": "matched",
+              "Research_Software_Engineer": "matched"
+            }
+          },
+          {
+            "text": "* You have experience with Scikit-learn.",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "not_evidenced",
+              "FDE": "matched",
+              "Research_Software_Engineer": "matched"
+            }
+          },
+          {
+            "text": "* You have experience with AWS.",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "matched",
+              "FDE": "matched",
+              "Research_Software_Engineer": "matched"
+            }
+          },
+          {
+            "text": "* You have experience with NLP.",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "partial",
+              "FDE": "matched",
+              "Research_Software_Engineer": "matched"
+            }
+          },
+          {
+            "text": "* You have experience with Security and data engineering.",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial",
+              "Research_Software_Engineer": "partial"
+            }
+          },
+          {
+            "text": "* Build large-scale, fault-tolerant distributed systems, preferably with knowledge of performance benchmarking tools and performance tuning on Linux-based systems.",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial",
+              "Research_Software_Engineer": "partial"
+            }
+          }
+        ],
+        "usage": {
+          "input": 18834,
+          "output": 7902,
+          "thinking": 1631,
+          "cached": 0,
+          "cache_write": 0,
+          "cost": 116688000
+        }
+      }
     },
     "https://www.indeed.com/viewjob?jk=68b6eb0433462391": {
       "url": "https://www.indeed.com/viewjob?jk=68b6eb0433462391",
@@ -576592,7 +577078,127 @@
           "cost": 8810000
         }
       },
-      "scored_at": "2026-10-23T19:56:23.380721+00:00"
+      "scored_at": "2026-10-23T19:56:23.380721+00:00",
+      "sonnet": {
+        "model": "claude-sonnet-5",
+        "scores": {
+          "BioScience_ML": 87,
+          "ML": 87,
+          "DS": 87,
+          "SWE": 87,
+          "FDE": 87,
+          "Research_Software_Engineer": 87
+        },
+        "best_resumes": [
+          "BioScience_ML",
+          "DS",
+          "FDE",
+          "ML",
+          "Research_Software_Engineer",
+          "SWE"
+        ],
+        "requirements": [
+          {
+            "text": "Strong empirical judgment, practical programming ability and experience working with modern AI systems.",
+            "importance": "required",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "matched",
+              "FDE": "matched",
+              "Research_Software_Engineer": "matched"
+            }
+          },
+          {
+            "text": "The ability to investigate ambiguous failures, design informative comparisons and communicate limitations clearly.",
+            "importance": "required",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "matched",
+              "FDE": "matched",
+              "Research_Software_Engineer": "matched"
+            }
+          },
+          {
+            "text": "An interest in scientific misuse risks and the ability to collaborate productively with domain specialists.",
+            "importance": "required",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial",
+              "Research_Software_Engineer": "partial"
+            }
+          },
+          {
+            "text": "For the Research Engineer profile: evidence of building reliable research software, evaluation infrastructure or agent systems that enable reproducible experiments and efficient iteration. You should be able to contribute to experimental design and interpretation.",
+            "importance": "required",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "matched",
+              "FDE": "matched",
+              "Research_Software_Engineer": "matched"
+            }
+          },
+          {
+            "text": "Automated red teaming, adversarial testing or evaluation-method research.",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial",
+              "Research_Software_Engineer": "partial"
+            }
+          },
+          {
+            "text": "Scientific AI, tool-using agents, laboratory automation or other complex environments.",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "matched",
+              "FDE": "matched",
+              "Research_Software_Engineer": "matched"
+            }
+          },
+          {
+            "text": "Experience with safety monitoring, model-based evaluators or scalable experimental infrastructure.",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "matched",
+              "FDE": "matched",
+              "Research_Software_Engineer": "matched"
+            }
+          }
+        ],
+        "usage": {
+          "input": 19801,
+          "output": 7597,
+          "thinking": 2989,
+          "cached": 0,
+          "cache_write": 0,
+          "cost": 115572000
+        }
+      }
     },
     "https://www.indeed.com/viewjob?jk=0c83b3fe153dba05": {
       "url": "https://www.indeed.com/viewjob?jk=0c83b3fe153dba05",
@@ -579214,6 +579820,6 @@
   },
   "attempts_today": {
     "luna": 100,
-    "sonnet": 2
+    "sonnet": 7
   }
 }
