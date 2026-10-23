@@ -1,47 +1,36 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-10-23 22:18 UTC*
+*Last updated: 2026-10-23 23:18 UTC*
 
-**10 new role(s)** since last run · 17 total in last 1h
+**7 new role(s)** since last run · 20 total in last 1h
 
-### [Software Engineer, Cloud](https://www.linkedin.com/jobs/view/4480693873/) — AI Talent Hope
-- 📍 **Location:** Alameda, CA
+### [Software Engineer, Notifications](https://www.linkedin.com/jobs/view/4481975804/) — Roblox
+- 📍 **Location:** San Mateo, CA
 - 🕒 **Posted:** 2026-10-23
 
-### [Data Scientist V](https://www.linkedin.com/jobs/view/4481950922/) — Intelliswift - An LTTS Company
-- 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-10-23
-
-### [Software Engineer, Data Platform](https://www.linkedin.com/jobs/view/4467280718/) — Numeric
+### [Full Stack Software Engineer, Monetization Platform](https://www.linkedin.com/jobs/view/4481977381/) — OpenAI
 - 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $125,000.00/yr - $225,000.00/yr
+- 💰 **Salary:** $266,000.00/yr - $445,000.00/yr
 - 🕒 **Posted:** 2026-10-23
 
-### [AI Engineer - Data Science](https://www.linkedin.com/jobs/view/4480689980/) — Applied Underwriters
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $100,000.00/yr - $120,000.00/yr
-- 🕒 **Posted:** 2026-10-23
-
-### [Biostatistician II](https://www.linkedin.com/jobs/view/4480690915/) — Public Health Institute
-- 📍 **Location:** Berkeley, CA
-- 🕒 **Posted:** 2026-10-23
-
-### [Software Engineer](https://www.linkedin.com/jobs/view/4483159581/) — Cisco
+### [Software Engineer](https://www.linkedin.com/jobs/view/4481964991/) — OpenAI
 - 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $347,000.00/yr - $385,000.00/yr
 - 🕒 **Posted:** 2026-10-23
 
-### [2027 Summer Intern, MS/PhD, Software Engineer, ML Frameworks and Efficiency](https://www.linkedin.com/jobs/view/4481949923/) — Waymo
-- 📍 **Location:** Mountain View, CA
+### [Software Engineer, Cloud Infrastructure](https://www.linkedin.com/jobs/view/4483172007/) — Benchling
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $195,000.00/yr - $265,000.00/yr
 - 🕒 **Posted:** 2026-10-23
 
-### [(USA) Software Engineer III](https://www.linkedin.com/jobs/view/4481012052/) — Walmart
+### [AI/ML Engineering Intern](https://www.linkedin.com/jobs/view/4481984608/) — Amperesand
 - 📍 **Location:** Sunnyvale, CA
-- 💰 **Salary:** $117,000.00/yr - $234,000.00/yr
 - 🕒 **Posted:** 2026-10-23
 
-### [DevOps Engineer](https://www.linkedin.com/jobs/view/4483169026/) — Wall Street Consulting Services LLC
+### [Full Stack Software Engineer, Monetization Platform](https://www.linkedin.com/jobs/view/4481984205/) — OpenAI
 - 📍 **Location:** New York, NY
+- 💰 **Salary:** $266,000.00/yr - $445,000.00/yr
 - 🕒 **Posted:** 2026-10-23
 
-### [Software Engineer (Go, Python, AWS and Kubernetes)](https://www.linkedin.com/jobs/view/4483148766/) — Cisco
-- 📍 **Location:** San Jose, CA
+### [Storage Platform Engineer](https://www.linkedin.com/jobs/view/4483169131/) — Pacific Gas and Electric Company
+- 📍 **Location:** Oakland, CA
 - 🕒 **Posted:** 2026-10-23
