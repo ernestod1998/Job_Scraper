@@ -1,37 +1,35 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-10-24 01:18 UTC*
+*Last updated: 2026-10-24 02:18 UTC*
 
-**8 new role(s)** since last run · 12 total in last 1h
+**7 new role(s)** since last run · 15 total in last 1h
 
-### [Software Engineer](https://www.linkedin.com/jobs/view/4482330038/) — Juicebox
+### [Research Engineer](https://www.linkedin.com/jobs/view/4481011564/) — David AI
 - 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $160,000.00/yr - $250,000.00/yr
+- 💰 **Salary:** $210,000.00/yr - $360,000.00/yr
 - 🕒 **Posted:** 2026-10-23
 
-### [Kubernetes Platform Engineer, Infrastructure (GroqMetal)](https://www.linkedin.com/jobs/view/4483174637/) — Groq
-- 📍 **Location:** New York City Metropolitan Area
+### [Research Engineer, Robot Learning](https://www.linkedin.com/jobs/view/4483199125/) — 1X
+- 📍 **Location:** San Carlos, CA
+- 💰 **Salary:** $130,146.00/yr - $300,000.00/yr
 - 🕒 **Posted:** 2026-10-23
 
-### [Summer Internship Program 2027 - Software Engineering Intern](https://www.linkedin.com/jobs/view/4483172497/) — ICE
+### [Robotics Engineering Intern — Hardware & Software](https://www.linkedin.com/jobs/view/4483187798/) — Trace
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-10-23
 
-### [Summer Internship Program 2027 - Data Science Intern](https://www.linkedin.com/jobs/view/4483166967/) — ICE
+### [Data Platform Engineer, Ingestion](https://www.linkedin.com/jobs/view/4483194329/) — Minerva
 - 📍 **Location:** New York, NY
+- 💰 **Salary:** $150,000.00/yr - $236,000.00/yr
 - 🕒 **Posted:** 2026-10-23
 
-### [Software Engineer, Systems (Partner 16, Partner 18)](https://www.linkedin.com/jobs/view/4483173836/) — Andreessen Horowitz
+### [Platform Engineer](https://www.linkedin.com/jobs/view/4483196171/) — Quindar
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-10-23
 
-### [Software Engineering SMTS](https://www.linkedin.com/jobs/view/4483188499/) — Salesforce
+### [Frontend Engineer - Design Systems](https://www.linkedin.com/jobs/view/4481021055/) — Mercury
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-10-23
 
-### [Associate Software Engineer](https://www.linkedin.com/jobs/view/4483186582/) — ServiceNow
+### [Deep Learning Hardware Engineer](https://www.linkedin.com/jobs/view/4482328132/) — Intel
 - 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-10-23
-
-### [Platform Software Engineer In Test ( Internship)](https://www.linkedin.com/jobs/view/4483188122/) — ASML
-- 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-10-23
