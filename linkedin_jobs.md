@@ -1,24 +1,13 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-10-24 20:18 UTC*
+*Last updated: 2026-10-24 21:07 UTC*
 
-**5 new role(s)** since last run · 11 total in last 1h
+**2 new role(s)** since last run · 7 total in last 1h
 
-### [AI Infrastructure Engineer - Recommendation & LLM](https://www.linkedin.com/jobs/view/4482661430/) — TikTok
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-10-24
-
-### [Software Engineer - TikTok Search Engine](https://www.linkedin.com/jobs/view/4482653602/) — TikTok
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-10-24
-
-### [Placement Role - Azure Cloud Engineer Hybrid - New York- No Optz Honz](https://www.linkedin.com/jobs/view/4482648753/) — Infinity Tech Group Inc
+### [ON-SITE - Google Cloud Platform Platform Engineer - HBITS-08-15062](https://www.linkedin.com/jobs/view/4482665098/) — Greycell Labs Inc
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-10-24
 
-### [NIOS Engineer with Genesys contact center platforms](https://www.linkedin.com/jobs/view/4482646751/) — I Link Communications Inc
-- 📍 **Location:** Menlo Park, CA
-- 🕒 **Posted:** 2026-10-24
-
-### [Software Engineer, Tech & Product](https://www.linkedin.com/jobs/view/4483347343/) — TikTok USDS Joint Venture
-- 📍 **Location:** San Jose, CA
+### [Full Stack Engineer](https://www.linkedin.com/jobs/view/4483355328/) — Nxt Level
+- 📍 **Location:** San Francisco Bay Area
+- 💰 **Salary:** $200,000.00/yr - $350,000.00/yr
 - 🕒 **Posted:** 2026-10-24
