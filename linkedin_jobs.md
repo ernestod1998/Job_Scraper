@@ -1,27 +1,28 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-10-24 16:18 UTC*
+*Last updated: 2026-10-24 17:18 UTC*
 
-**5 new role(s)** since last run · 19 total in last 1h
+**6 new role(s)** since last run · 6 total in last 1h
 
-### [Data Scientist, Product Analytics](https://www.linkedin.com/jobs/view/4481043694/) — Meta
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $147,000.00/yr - $208,000.00/yr
-- 🕒 **Posted:** 2026-10-24
-
-### [Data Scientist](https://www.linkedin.com/jobs/view/4465804511/) — Structure Therapeutics
-- 📍 **Location:** South San Francisco, CA
-- 💰 **Salary:** $148,000.00/yr - $182,000.00/yr
-- 🕒 **Posted:** 2026-10-24
-
-### [Software Engineering Intern (Summer 2027)](https://www.linkedin.com/jobs/view/4473385051/) — Harvey
+### [Software Engineer, New Grad (2027)](https://www.linkedin.com/jobs/view/4473819499/) — Harvey
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-10-24
 
-### [Software Engineer, Systems Machine Learning](https://www.linkedin.com/jobs/view/4481043693/) — Meta
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $121,992.00/yr - $181,000.00/yr
+### [Data Platform Engineer](https://www.linkedin.com/jobs/view/4483335731/) — Pacific Gas and Electric Company
+- 📍 **Location:** Oakland, CA
 - 🕒 **Posted:** 2026-10-24
 
-### [Software Developer Intern - Summer 2027 (DV Equities)](https://www.linkedin.com/jobs/view/4464888656/) — DV Trading LLC
+### [Software Engineer - Reliability (US Citizen)](https://www.linkedin.com/jobs/view/4466344221/) — Rubrik
+- 📍 **Location:** Palo Alto, CA
+- 🕒 **Posted:** 2026-10-24
+
+### [Software Engineer, Systems (Partner 16, Partner 18)](https://www.linkedin.com/jobs/view/4483336631/) — EngRadar
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-10-24
+
+### [Software Engineer, Revenue and Financial Automation](https://www.linkedin.com/jobs/view/4475067949/) — Stripe
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-10-24
+
+### [Software Engineer, Android](https://www.linkedin.com/jobs/view/4317479429/) — Cape
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-10-24
