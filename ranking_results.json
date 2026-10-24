@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-24T19:56:36.879084+00:00",
+  "updated_at": "2026-10-24T20:01:47.296451+00:00",
   "day": "2026-10-24",
   "context": "a4bda70334149a6faa4ad7bde4901c9f1269e7177f0ea3c75e578f743c461d27",
   "scores": {
@@ -595426,6 +595426,897 @@
         }
       },
       "scored_at": "2026-10-24T18:46:00.040644+00:00"
+    },
+    "https://job-boards.greenhouse.io/formationbio/jobs/8310673": {
+      "url": "https://job-boards.greenhouse.io/formationbio/jobs/8310673",
+      "context": "a4bda70334149a6faa4ad7bde4901c9f1269e7177f0ea3c75e578f743c461d27",
+      "description_hash": "102456bdefc50448be51b2652fe1398bc795db0bccac03e2bd003d51423df3a2",
+      "status": "valid",
+      "luna": {
+        "model": "gpt-5.6-luna",
+        "scores": {
+          "BioScience_ML": 43,
+          "ML": 37,
+          "DS": 32,
+          "SWE": 32,
+          "FDE": 37,
+          "Research_Software_Engineer": 43
+        },
+        "best_resumes": [
+          "BioScience_ML",
+          "Research_Software_Engineer"
+        ],
+        "requirements": [
+          {
+            "text": "PhD in Computer Science, Biomedical Engineering, Medical Physics, or related field with focus on medical imaging",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "not_evidenced",
+              "ML": "not_evidenced",
+              "DS": "not_evidenced",
+              "SWE": "not_evidenced",
+              "FDE": "not_evidenced",
+              "Research_Software_Engineer": "not_evidenced"
+            }
+          },
+          {
+            "text": "5+ years of post-PhD industry experience developing production-grade AI models for medical imaging applications",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "not_evidenced",
+              "ML": "not_evidenced",
+              "DS": "not_evidenced",
+              "SWE": "not_evidenced",
+              "FDE": "not_evidenced",
+              "Research_Software_Engineer": "not_evidenced"
+            }
+          },
+          {
+            "text": "Deep expertise in computer vision and deep learning architectures (CNNs, U-Net, Vision Transformers) for medical image analysis",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial",
+              "Research_Software_Engineer": "partial"
+            }
+          },
+          {
+            "text": "Proven track record with MRI and X-ray image analysis, including hands-on experience with DICOM standards and medical imaging software",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial",
+              "Research_Software_Engineer": "partial"
+            }
+          },
+          {
+            "text": "Strong programming skills in Python with expertise in PyTorch/TensorFlow and medical imaging libraries",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "matched",
+              "Research_Software_Engineer": "matched"
+            }
+          },
+          {
+            "text": "Demonstrated ability to collaborate with radiologists and clinical teams to translate medical insights into technical solutions",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial",
+              "Research_Software_Engineer": "partial"
+            }
+          },
+          {
+            "text": "Strong communication skills with proven ability to present complex imaging analytics to diverse stakeholders",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "not_evidenced",
+              "DS": "not_evidenced",
+              "SWE": "not_evidenced",
+              "FDE": "not_evidenced",
+              "Research_Software_Engineer": "partial"
+            }
+          },
+          {
+            "text": "Experience with regulatory submissions involving imaging endpoints or AI-based image analysis tools",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "not_evidenced",
+              "ML": "not_evidenced",
+              "DS": "not_evidenced",
+              "SWE": "not_evidenced",
+              "FDE": "not_evidenced",
+              "Research_Software_Engineer": "not_evidenced"
+            }
+          },
+          {
+            "text": "Experience with multi-modal imaging fusion and analysis (combining MRI, CT, PET data)",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial",
+              "Research_Software_Engineer": "partial"
+            }
+          },
+          {
+            "text": "Knowledge of clinical trial design and experience with imaging core lab operations",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "not_evidenced",
+              "ML": "not_evidenced",
+              "DS": "not_evidenced",
+              "SWE": "not_evidenced",
+              "FDE": "not_evidenced",
+              "Research_Software_Engineer": "not_evidenced"
+            }
+          },
+          {
+            "text": "Experience with federated learning or privacy-preserving techniques for medical imaging",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "not_evidenced",
+              "ML": "not_evidenced",
+              "DS": "not_evidenced",
+              "SWE": "not_evidenced",
+              "FDE": "not_evidenced",
+              "Research_Software_Engineer": "not_evidenced"
+            }
+          },
+          {
+            "text": "Understanding of radiomics and quantitative imaging biomarker development",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "not_evidenced",
+              "ML": "not_evidenced",
+              "DS": "not_evidenced",
+              "SWE": "not_evidenced",
+              "FDE": "not_evidenced",
+              "Research_Software_Engineer": "not_evidenced"
+            }
+          },
+          {
+            "text": "Experience with 3D image reconstruction and volumetric analysis",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "not_evidenced",
+              "DS": "not_evidenced",
+              "SWE": "not_evidenced",
+              "FDE": "not_evidenced",
+              "Research_Software_Engineer": "partial"
+            }
+          },
+          {
+            "text": "Formation Bio is prioritizing hiring in key hubs, primarily the New York City and Boston metro areas, with a hybrid model requiring 3 days per week in office. Applicants from the Research Triangle (NC) and San Francisco Bay Area may also be considered.",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "matched",
+              "FDE": "matched",
+              "Research_Software_Engineer": "matched"
+            }
+          }
+        ],
+        "usage": {
+          "input": 10254,
+          "output": 5737,
+          "thinking": 1025,
+          "cached": 0,
+          "cache_write": 10251,
+          "cost": 9447750
+        }
+      },
+      "scored_at": "2026-10-24T18:46:00.040644+00:00"
+    },
+    "https://www.linkedin.com/jobs/view/4481977381/": {
+      "url": "https://www.linkedin.com/jobs/view/4481977381/",
+      "context": "a4bda70334149a6faa4ad7bde4901c9f1269e7177f0ea3c75e578f743c461d27",
+      "description_hash": "befab17eea786bc1bbda060b9d48c0afa3d2043b268eb42df09d1b71592bb585",
+      "status": "valid",
+      "luna": {
+        "model": "gpt-5.6-luna",
+        "scores": {
+          "BioScience_ML": 45,
+          "ML": 45,
+          "DS": 36,
+          "SWE": 50,
+          "FDE": 50,
+          "Research_Software_Engineer": 45
+        },
+        "best_resumes": [
+          "FDE",
+          "SWE"
+        ],
+        "requirements": [
+          {
+            "text": "We’re looking for experienced Staff+ and Senior engineers who combine full-stack product instincts with strong backend and systems depth. You’ll help decide what to build, establish the architecture, and carry ideas through to working products—from a customer’s first interaction with a plan to the services that determine what they can access and use.",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "not_evidenced",
+              "ML": "not_evidenced",
+              "DS": "not_evidenced",
+              "SWE": "not_evidenced",
+              "FDE": "not_evidenced",
+              "Research_Software_Engineer": "not_evidenced"
+            }
+          },
+          {
+            "text": "Have set architectural direction and delivered significant projects involving multiple teams, while remaining an active contributor to the code.",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial",
+              "Research_Software_Engineer": "partial"
+            }
+          },
+          {
+            "text": "Bring depth in backend or distributed systems and can work across the APIs and interfaces that turn those systems into useful products.",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "matched",
+              "FDE": "partial",
+              "Research_Software_Engineer": "partial"
+            }
+          },
+          {
+            "text": "Reason rigorously about data models, lifecycle transitions, consistency, concurrency, and what happens when an operation fails or runs twice.",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial",
+              "Research_Software_Engineer": "partial"
+            }
+          },
+          {
+            "text": "Have taken loosely defined customer or business problems through discovery, implementation, and production operation.",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "matched",
+              "Research_Software_Engineer": "partial"
+            }
+          },
+          {
+            "text": "Combine product intuition with experimentation and analysis, and care about whether customers understand and benefit from what you build.",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial",
+              "Research_Software_Engineer": "partial"
+            }
+          },
+          {
+            "text": "Enjoy establishing new capabilities: choosing an initial design, shipping something useful, and improving it as the problem becomes clearer.",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "partial",
+              "SWE": "matched",
+              "FDE": "matched",
+              "Research_Software_Engineer": "matched"
+            }
+          },
+          {
+            "text": "Build alignment across disciplines, explain technical choices clearly, and help teammates take on greater responsibility.",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial",
+              "Research_Software_Engineer": "partial"
+            }
+          },
+          {
+            "text": "Experience with pricing, subscriptions, entitlements, usage-based products, billing integrations, or growth platforms would be especially valuable. We also welcome engineers whose experience building demanding product or platform systems prepares them to learn this domain.",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "partial",
+              "SWE": "matched",
+              "FDE": "matched",
+              "Research_Software_Engineer": "matched"
+            }
+          }
+        ],
+        "usage": {
+          "input": 10188,
+          "output": 4574,
+          "thinking": 810,
+          "cached": 0,
+          "cache_write": 10185,
+          "cost": 8035650
+        }
+      },
+      "scored_at": "2026-10-24T18:46:00.040644+00:00"
+    },
+    "https://www.linkedin.com/jobs/view/4481984205/": {
+      "url": "https://www.linkedin.com/jobs/view/4481984205/",
+      "context": "a4bda70334149a6faa4ad7bde4901c9f1269e7177f0ea3c75e578f743c461d27",
+      "description_hash": "befab17eea786bc1bbda060b9d48c0afa3d2043b268eb42df09d1b71592bb585",
+      "status": "valid",
+      "luna": {
+        "model": "gpt-5.6-luna",
+        "scores": {
+          "BioScience_ML": 36,
+          "ML": 36,
+          "DS": 36,
+          "SWE": 39,
+          "FDE": 39,
+          "Research_Software_Engineer": 39
+        },
+        "best_resumes": [
+          "FDE",
+          "Research_Software_Engineer",
+          "SWE"
+        ],
+        "requirements": [
+          {
+            "text": "We’re looking for experienced Staff+ and Senior engineers who combine full-stack product instincts with strong backend and systems depth. You’ll help decide what to build, establish the architecture, and carry ideas through to working products—from a customer’s first interaction with a plan to the services that determine what they can access and use.",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "not_evidenced",
+              "ML": "not_evidenced",
+              "DS": "not_evidenced",
+              "SWE": "not_evidenced",
+              "FDE": "not_evidenced",
+              "Research_Software_Engineer": "not_evidenced"
+            }
+          },
+          {
+            "text": "We’re looking for experienced Staff+ and Senior engineers who combine full-stack product instincts with strong backend and systems depth. You’ll help decide what to build, establish the architecture, and carry ideas through to working products—from a customer’s first interaction with a plan to the services that determine what they can access and use.",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial",
+              "Research_Software_Engineer": "partial"
+            }
+          },
+          {
+            "text": "Have set architectural direction and delivered significant projects involving multiple teams, while remaining an active contributor to the code.",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "not_evidenced",
+              "ML": "not_evidenced",
+              "DS": "not_evidenced",
+              "SWE": "not_evidenced",
+              "FDE": "not_evidenced",
+              "Research_Software_Engineer": "not_evidenced"
+            }
+          },
+          {
+            "text": "Bring depth in backend or distributed systems and can work across the APIs and interfaces that turn those systems into useful products.",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial",
+              "Research_Software_Engineer": "partial"
+            }
+          },
+          {
+            "text": "Reason rigorously about data models, lifecycle transitions, consistency, concurrency, and what happens when an operation fails or runs twice.",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "not_evidenced",
+              "ML": "not_evidenced",
+              "DS": "not_evidenced",
+              "SWE": "partial",
+              "FDE": "partial",
+              "Research_Software_Engineer": "partial"
+            }
+          },
+          {
+            "text": "Have taken loosely defined customer or business problems through discovery, implementation, and production operation.",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial",
+              "Research_Software_Engineer": "partial"
+            }
+          },
+          {
+            "text": "Combine product intuition with experimentation and analysis, and care about whether customers understand and benefit from what you build.",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial",
+              "Research_Software_Engineer": "partial"
+            }
+          },
+          {
+            "text": "Enjoy establishing new capabilities: choosing an initial design, shipping something useful, and improving it as the problem becomes clearer.",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial",
+              "Research_Software_Engineer": "partial"
+            }
+          },
+          {
+            "text": "Build alignment across disciplines, explain technical choices clearly, and help teammates take on greater responsibility.",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial",
+              "Research_Software_Engineer": "partial"
+            }
+          },
+          {
+            "text": "Experience with pricing, subscriptions, entitlements, usage-based products, billing integrations, or growth platforms would be especially valuable. We also welcome engineers whose experience building demanding product or platform systems prepares them to learn this domain.",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "matched",
+              "FDE": "matched",
+              "Research_Software_Engineer": "matched"
+            }
+          }
+        ],
+        "usage": {
+          "input": 10185,
+          "output": 5168,
+          "thinking": 1034,
+          "cached": 0,
+          "cache_write": 10182,
+          "cost": 8747700
+        }
+      },
+      "scored_at": "2026-10-24T18:46:00.040644+00:00"
+    },
+    "https://www.indeed.com/viewjob?jk=3e4e8232fd6e9a56": {
+      "url": "https://www.indeed.com/viewjob?jk=3e4e8232fd6e9a56",
+      "context": "a4bda70334149a6faa4ad7bde4901c9f1269e7177f0ea3c75e578f743c461d27",
+      "description_hash": "4937899bbd2d235ca42843a97a0409c5bb91768c25fa520cbcd1dd9b2e1dfa42",
+      "status": "valid",
+      "luna": {
+        "model": "gpt-5.6-luna",
+        "scores": {
+          "BioScience_ML": 18,
+          "ML": 18,
+          "DS": 18,
+          "SWE": 9,
+          "FDE": 14,
+          "Research_Software_Engineer": 18
+        },
+        "best_resumes": [
+          "BioScience_ML",
+          "DS",
+          "ML",
+          "Research_Software_Engineer"
+        ],
+        "requirements": [
+          {
+            "text": "* Deep experience building physically based renderers in production: film or offline renderers, path tracers, or game engines with ray-traced or hybrid lighting.",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "not_evidenced",
+              "ML": "not_evidenced",
+              "DS": "not_evidenced",
+              "SWE": "not_evidenced",
+              "FDE": "not_evidenced",
+              "Research_Software_Engineer": "not_evidenced"
+            }
+          },
+          {
+            "text": "* Strong command of light transport: the rendering equation, Monte Carlo integration, importance sampling, material models and denoising.",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "not_evidenced",
+              "ML": "not_evidenced",
+              "DS": "not_evidenced",
+              "SWE": "not_evidenced",
+              "FDE": "not_evidenced",
+              "Research_Software_Engineer": "not_evidenced"
+            }
+          },
+          {
+            "text": "* Hands-on GPU ray tracing: building and traversing acceleration structures (BVHs), hardware ray-tracing APIs such as Metal ray tracing, Vulkan ray tracing or DXR, and compute-based fallbacks.",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "not_evidenced",
+              "ML": "not_evidenced",
+              "DS": "not_evidenced",
+              "SWE": "not_evidenced",
+              "FDE": "not_evidenced",
+              "Research_Software_Engineer": "not_evidenced"
+            }
+          },
+          {
+            "text": "* A solid understanding of modern rasterization pipelines, and of how hybrid renderers combine rasterization with ray tracing.",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "not_evidenced",
+              "ML": "not_evidenced",
+              "DS": "not_evidenced",
+              "SWE": "not_evidenced",
+              "FDE": "not_evidenced",
+              "Research_Software_Engineer": "not_evidenced"
+            }
+          },
+          {
+            "text": "* Hands-on experience with Metal, Vulkan, Direct3D or WebGPU, including compute shaders, GPU profiling and GPU debugging.",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "not_evidenced",
+              "FDE": "not_evidenced",
+              "Research_Software_Engineer": "partial"
+            }
+          },
+          {
+            "text": "* Proficiency in Rust or C++, with strong reasoning about memory, concurrency and performance.",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial",
+              "Research_Software_Engineer": "partial"
+            }
+          },
+          {
+            "text": "* Strong foundations in the mathematics of graphics: linear algebra, geometry, probability and sampling.",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "not_evidenced",
+              "FDE": "partial",
+              "Research_Software_Engineer": "partial"
+            }
+          },
+          {
+            "text": "* An eye for realism: you can look at a frame, say why it doesn't read as real, and fix the cause.",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "not_evidenced",
+              "ML": "not_evidenced",
+              "DS": "not_evidenced",
+              "SWE": "not_evidenced",
+              "FDE": "not_evidenced",
+              "Research_Software_Engineer": "not_evidenced"
+            }
+          },
+          {
+            "text": "* Experience owning complex technical projects and making architectural decisions in ambiguous problem spaces.",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial",
+              "Research_Software_Engineer": "partial"
+            }
+          },
+          {
+            "text": "* You've worked on the internals of a production renderer or engine such as Cycles, Arnold, RenderMan, V-Ray, Karma, Unreal Engine (Lumen or its path tracer) or Unity HDRP.",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "not_evidenced",
+              "ML": "not_evidenced",
+              "DS": "not_evidenced",
+              "SWE": "not_evidenced",
+              "FDE": "not_evidenced",
+              "Research_Software_Engineer": "not_evidenced"
+            }
+          },
+          {
+            "text": "* You've built or integrated ML denoisers, or worked on neural rendering.",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "not_evidenced",
+              "ML": "not_evidenced",
+              "DS": "not_evidenced",
+              "SWE": "not_evidenced",
+              "FDE": "not_evidenced",
+              "Research_Software_Engineer": "not_evidenced"
+            }
+          },
+          {
+            "text": "* You've worked with color management (ACES, OpenColorIO), HDR output or film-look pipelines.",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "not_evidenced",
+              "ML": "not_evidenced",
+              "DS": "not_evidenced",
+              "SWE": "not_evidenced",
+              "FDE": "not_evidenced",
+              "Research_Software_Engineer": "not_evidenced"
+            }
+          },
+          {
+            "text": "* You've built on cross-platform graphics abstractions such as wgpu, including extending them where they lack features such as ray tracing.",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "not_evidenced",
+              "ML": "not_evidenced",
+              "DS": "not_evidenced",
+              "SWE": "not_evidenced",
+              "FDE": "not_evidenced",
+              "Research_Software_Engineer": "not_evidenced"
+            }
+          },
+          {
+            "text": "* You've optimized rendering for Apple silicon or mobile GPUs.",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "not_evidenced",
+              "ML": "not_evidenced",
+              "DS": "not_evidenced",
+              "SWE": "not_evidenced",
+              "FDE": "not_evidenced",
+              "Research_Software_Engineer": "not_evidenced"
+            }
+          },
+          {
+            "text": "* You have experience with Rust, video compositing, or integrating 2D and 3D rendering in creative tools.",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "not_evidenced",
+              "ML": "not_evidenced",
+              "DS": "not_evidenced",
+              "SWE": "not_evidenced",
+              "FDE": "not_evidenced",
+              "Research_Software_Engineer": "not_evidenced"
+            }
+          }
+        ],
+        "usage": {
+          "input": 10291,
+          "output": 5237,
+          "thinking": 607,
+          "cached": 0,
+          "cache_write": 10288,
+          "cost": 8857000
+        }
+      },
+      "scored_at": "2026-10-24T18:46:00.040644+00:00"
+    },
+    "https://www.indeed.com/viewjob?jk=4013dd013943c179": {
+      "url": "https://www.indeed.com/viewjob?jk=4013dd013943c179",
+      "context": "a4bda70334149a6faa4ad7bde4901c9f1269e7177f0ea3c75e578f743c461d27",
+      "description_hash": "60f7a0c0d6bc14ba4848e1d0fc11639303a993c769a76fd373892abac045cf16",
+      "status": "valid",
+      "luna": {
+        "model": "gpt-5.6-luna",
+        "scores": {
+          "BioScience_ML": 62,
+          "ML": 56,
+          "DS": 56,
+          "SWE": 56,
+          "FDE": 69,
+          "Research_Software_Engineer": 69
+        },
+        "best_resumes": [
+          "FDE",
+          "Research_Software_Engineer"
+        ],
+        "requirements": [
+          {
+            "text": "* Have strong software engineering fundamentals and experience building, shipping, and maintaining production software.",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial",
+              "Research_Software_Engineer": "partial"
+            }
+          },
+          {
+            "text": "* Are proficient in a general-purpose programming language and comfortable learning unfamiliar tools and systems.",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial",
+              "Research_Software_Engineer": "partial"
+            }
+          },
+          {
+            "text": "* Have experience in one or more areas such as backend development, full-stack applications, infrastructure, or data systems.",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "matched",
+              "FDE": "matched",
+              "Research_Software_Engineer": "matched"
+            }
+          },
+          {
+            "text": "* Can take an open-ended problem, clarify what matters, and deliver a useful solution.",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "matched",
+              "Research_Software_Engineer": "matched"
+            }
+          },
+          {
+            "text": "* Balance rapid iteration with maintainable design and operational reliability.",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial",
+              "Research_Software_Engineer": "partial"
+            }
+          },
+          {
+            "text": "* Communicate clearly and enjoy working with people across technical disciplines.",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "matched",
+              "Research_Software_Engineer": "matched"
+            }
+          },
+          {
+            "text": "* Are interested in understanding advanced AI systems and helping address their risks.",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "not_evidenced",
+              "ML": "not_evidenced",
+              "DS": "not_evidenced",
+              "SWE": "not_evidenced",
+              "FDE": "not_evidenced",
+              "Research_Software_Engineer": "not_evidenced"
+            }
+          },
+          {
+            "text": "* Experience with securitys, distributed systems, or AI applications would be valuable. Prior AI research or cybersecurity experience is helpful but not required.",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "matched",
+              "FDE": "matched",
+              "Research_Software_Engineer": "matched"
+            }
+          }
+        ],
+        "usage": {
+          "input": 10042,
+          "output": 4954,
+          "thinking": 1278,
+          "cached": 0,
+          "cache_write": 10039,
+          "cost": 8455150
+        }
+      },
+      "scored_at": "2026-10-24T18:46:00.040644+00:00"
     }
   },
   "limits": {
@@ -595433,7 +596324,7 @@
     "sonnet": 10
   },
   "attempts_today": {
-    "luna": 85,
+    "luna": 90,
     "sonnet": 0
   }
 }
