@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-25T20:10:40.339088+00:00",
+  "updated_at": "2026-10-25T20:12:25.570006+00:00",
   "day": "2026-10-25",
   "context": "a4bda70334149a6faa4ad7bde4901c9f1269e7177f0ea3c75e578f743c461d27",
   "scores": {
@@ -614766,7 +614766,201 @@
           "cost": 10581350
         }
       },
-      "scored_at": "2026-10-25T19:00:06.066477+00:00"
+      "scored_at": "2026-10-25T19:00:06.066477+00:00",
+      "sonnet": {
+        "model": "claude-sonnet-5",
+        "scores": {
+          "BioScience_ML": 74,
+          "ML": 74,
+          "DS": 74,
+          "SWE": 74,
+          "FDE": 76,
+          "Research_Software_Engineer": 76
+        },
+        "best_resumes": [
+          "FDE",
+          "Research_Software_Engineer"
+        ],
+        "requirements": [
+          {
+            "text": "Note: The 1-year total of specialized software engineering experience may have been gained through education and full-time work experience, additional training, coursework, research, or similar (or some combination of these). The year of specialized experience is not necessarily in addition to the years of education and full-time work experience indicated.",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "matched",
+              "FDE": "matched",
+              "Research_Software_Engineer": "matched"
+            }
+          },
+          {
+            "text": "Strong experience designing and building production backend or distributed systems, including agentic applications, AI-enabled workflows, orchestration systems, developer platforms, APIs, asynchronous workflows, and system integrations.",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "matched",
+              "FDE": "matched",
+              "Research_Software_Engineer": "matched"
+            }
+          },
+          {
+            "text": "Experience owning and improving production systems, including monitoring, alerting, incident response, failure recovery, and debugging across application, infrastructure, and data dependencies.",
+            "importance": "required",
+            "hard_eligibility": true,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial",
+              "Research_Software_Engineer": "partial"
+            }
+          },
+          {
+            "text": "Experience integrating LLMs with tools, APIs, enterprise data, and permissioned systems.",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial",
+              "Research_Software_Engineer": "partial"
+            }
+          },
+          {
+            "text": "Familiarity with agent evaluation, retrieval, context management, model routing, and safety controls.",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial",
+              "Research_Software_Engineer": "partial"
+            }
+          },
+          {
+            "text": "Experience in SRE, infrastructure, platform, production engineering, or a forward-deployed/embedded engineering model.",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "matched",
+              "FDE": "matched",
+              "Research_Software_Engineer": "matched"
+            }
+          },
+          {
+            "text": "Experience designing systems for sensitive or operationally consequential workflows.",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "matched",
+              "FDE": "matched",
+              "Research_Software_Engineer": "matched"
+            }
+          },
+          {
+            "text": "Ability to lead technical design, drive key architectural decisions, and influence technical direction across teams.",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial",
+              "Research_Software_Engineer": "partial"
+            }
+          },
+          {
+            "text": "Adaptable communicator: You learn unfamiliar domains quickly, build trust, and communicate effectively with technical and non-technical partners.",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "matched",
+              "Research_Software_Engineer": "matched"
+            }
+          },
+          {
+            "text": "0→1 builder: You move quickly from ambiguous problems to working software.",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "matched",
+              "FDE": "matched",
+              "Research_Software_Engineer": "matched"
+            }
+          },
+          {
+            "text": "Product-minded: You have strong judgment about what is useful and worth building, not just what is technically possible.",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "partial",
+              "ML": "partial",
+              "DS": "partial",
+              "SWE": "partial",
+              "FDE": "partial",
+              "Research_Software_Engineer": "partial"
+            }
+          },
+          {
+            "text": "Systems thinker: You recognize when individual solutions should become reusable capabilities or standards.",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "matched",
+              "ML": "matched",
+              "DS": "matched",
+              "SWE": "matched",
+              "FDE": "matched",
+              "Research_Software_Engineer": "matched"
+            }
+          },
+          {
+            "text": "Agentic-first thinker: You naturally look for opportunities to redesign workflows around what's newly possible.",
+            "importance": "preferred",
+            "hard_eligibility": false,
+            "statuses": {
+              "BioScience_ML": "not_evidenced",
+              "ML": "not_evidenced",
+              "DS": "not_evidenced",
+              "SWE": "not_evidenced",
+              "FDE": "not_evidenced",
+              "Research_Software_Engineer": "not_evidenced"
+            }
+          }
+        ],
+        "usage": {
+          "input": 19398,
+          "output": 10956,
+          "thinking": 2656,
+          "cached": 0,
+          "cache_write": 0,
+          "cost": 148356000
+        }
+      }
     },
     "https://www.indeed.com/viewjob?jk=ce0a8351c10b0a48": {
       "status": "jd_unavailable",
@@ -617432,6 +617626,6 @@
   },
   "attempts_today": {
     "luna": 100,
-    "sonnet": 7
+    "sonnet": 8
   }
 }
