@@ -1,16 +1,22 @@
 # 🧬 Biotech LinkedIn — MLE / DS Roles
-*Last updated: 2026-10-24 08:13 UTC*
+*Last updated: 2026-10-25 08:36 UTC*
 
-**3 new role(s)** since last run · 31 total in last 24h
+**5 new role(s)** since last run · 34 total in last 24h
 
-### [Software Engineer, Cloud Infrastructure](https://jobs.ashbyhq.com/benchling/7c32ac1e-3de3-462b-aa17-7618317f0da0) — Benchling
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-10-23
+### [Computational Chemistry Research Scientist (Computational Drug Design)](https://vrtx.wd501.myworkdayjobs.com/Vertex_Careers/job/Boston-MA/Computational-Chemistry-Research-Scientist---Computational-Drug-Design--_REQ-30307) — Vertex Pharmaceuticals
+- 📍 **Location:** Boston, MA
 
-### [Data Science & AI Innovation Postdoctoral Fellow](https://www.linkedin.com/jobs/view/4443681939/) — Novartis
-- 📍 **Location:** Cambridge, MA
-- 🕒 **Posted:** 2026-10-23
+### [Azure DevOps Engineer](https://vrtx.wd501.myworkdayjobs.com/Vertex_Careers/job/Boston-MA/Azure-DevOps-Engineer_REQ-30436) — Vertex Pharmaceuticals
+- 📍 **Location:** Boston, MA
 
-### [Data Scientist](https://www.linkedin.com/jobs/view/4481007104/) — Bristol Myers Squibb
-- 📍 **Location:** San Diego, CA
-- 🕒 **Posted:** 2026-10-23
+### [Data Scientist II, Outcomes Research](https://www.linkedin.com/jobs/view/4473809341/) — Tempus AI
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-10-24
+
+### [Full Stack Engineer](https://www.linkedin.com/jobs/view/4437075801/) — Melio
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-10-24
+
+### [2027 Co-op Laboratory Automation & Robotics Engineering](https://www.linkedin.com/jobs/view/4473342967/) — Regeneron
+- 📍 **Location:** Tarrytown, NY
+- 🕒 **Posted:** 2026-10-24
