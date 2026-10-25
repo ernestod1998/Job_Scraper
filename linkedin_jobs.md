@@ -1,52 +1,36 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-10-25 15:18 UTC*
+*Last updated: 2026-10-25 16:18 UTC*
 
-**11 new role(s)** since last run · 11 total in last 1h
+**7 new role(s)** since last run · 11 total in last 1h
 
-### [GPU MLOps Engineer](https://www.linkedin.com/jobs/view/4454112628/) — Molex
-- 📍 **Location:** Fremont, CA
+### [Software Engineer, Core Machine Learning](https://www.linkedin.com/jobs/view/4437900105/) — Whatnot
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $180,000.00/yr - $300,000.00/yr
 - 🕒 **Posted:** 2026-10-25
 
-### [Automation Software Engineer (Machine Control)](https://www.linkedin.com/jobs/view/4414498923/) — FormFactor Inc.
-- 📍 **Location:** Livermore, CA
+### [Machine Learning Platform Engineer](https://www.linkedin.com/jobs/view/4437578948/) — Whatnot
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $210,000.00/yr - $300,000.00/yr
 - 🕒 **Posted:** 2026-10-25
 
-### [Data Science Intern, Algorithms (Summer 2027 - SF/NYC)](https://www.linkedin.com/jobs/view/4466341405/) — Lyft
+### [Machine Learning Engineer, Growth](https://www.linkedin.com/jobs/view/4437585730/) — Whatnot
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $190,000.00/yr - $300,000.00/yr
+- 🕒 **Posted:** 2026-10-25
+
+### [AI-Native Data Platform Engineer](https://www.linkedin.com/jobs/view/4402011169/) — Farther
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-10-25
 
-### [Full Stack Engineer - Credit Hedge Fund](https://www.linkedin.com/jobs/view/4481610721/) — Double Down Group
+### [Software Engineer, Safety Experience](https://www.linkedin.com/jobs/view/4447627291/) — Whatnot
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $175,000.00/yr - $225,000.00/yr
+- 💰 **Salary:** $170,000.00/yr - $230,000.00/yr
 - 🕒 **Posted:** 2026-10-25
 
-### [Data Scientist, Real Estate & Workplace](https://www.linkedin.com/jobs/view/4456065209/) — OpenAI
-- 📍 **Location:** Mountain View, CA
-- 💰 **Salary:** $266,000.00/yr - $385,000.00/yr
-- 🕒 **Posted:** 2026-10-25
-
-### [Research Engineer / Research Scientist, Health](https://www.linkedin.com/jobs/view/4456288716/) — OpenAI
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $380,000.00/yr - $500,000.00/yr
-- 🕒 **Posted:** 2026-10-25
-
-### [Research Engineer, AI for Chip Design](https://www.linkedin.com/jobs/view/4465188954/) — OpenAI
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $380,000.00/yr - $500,000.00/yr
-- 🕒 **Posted:** 2026-10-25
-
-### [Software Engineer](https://www.linkedin.com/jobs/view/4378347944/) — GEM
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-10-25
-
-### [Frontend Engineer - UI/UX Focus](https://www.linkedin.com/jobs/view/4318493938/) — Zettabyte
+### [Software Engineer, Internship - Defense Tech](https://www.linkedin.com/jobs/view/4434140507/) — Palantir Technologies
 - 📍 **Location:** Palo Alto, CA
 - 🕒 **Posted:** 2026-10-25
 
-### [Junior Software Engineer](https://www.linkedin.com/jobs/view/4482674816/) — Haystack
-- 📍 **Location:** New York City Metropolitan Area
-- 🕒 **Posted:** 2026-10-25
-
-### [Machine Learning Engineer, Core Engineering](https://www.linkedin.com/jobs/view/4182357321/) — Pinterest
-- 📍 **Location:** Palo Alto, CA
+### [Flight Software Engineer - Spacecraft & Laser Payload](https://www.linkedin.com/jobs/view/4474572053/) — Approach Venture
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-10-25
