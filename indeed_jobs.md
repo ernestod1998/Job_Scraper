@@ -1,9 +1,19 @@
 # 🟦 Indeed — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-10-25 05:12 UTC*
+*Last updated: 2026-10-25 18:33 UTC*
 
-**1 new role(s)** since last run · 10 total in last 24h
+**3 new role(s)** since last run · 5 total in last 24h
 
-### [Agentic Software Engineer II](https://www.indeed.com/viewjob?jk=eae669b4f12cda7b) — Deloitte
+### [Software Engineer, Find My](https://www.indeed.com/viewjob?jk=1e674ab0648cf927) — Apple
+- 📍 **Location:** Cupertino, CA, USA
+- 💰 **Salary:** $150k–$278k/yr
+- 🕒 **Posted:** 2026-10-25
+
+### [Computer Vision/Deep Learning Engineer](https://www.indeed.com/viewjob?jk=7baa0ffa82db491a) — Apple
+- 📍 **Location:** Sunnyvale, CA, USA
+- 💰 **Salary:** $129k–$225k/yr
+- 🕒 **Posted:** 2026-10-25
+
+### [Bioinformatics Software Engineer III, OncoKB](https://www.indeed.com/viewjob?jk=86d6886e23789fe4) — Memorial Sloan Kettering Cancer Center
 - 📍 **Location:** New York, NY, USA
-- 💰 **Salary:** $83k–$163k/yr
-- 🕒 **Posted:** 2026-10-24
+- 💰 **Salary:** $124k–$205k/yr
+- 🕒 **Posted:** 2026-10-25
