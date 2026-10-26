@@ -1,22 +1,20 @@
 # 🧬 Biotech LinkedIn — MLE / DS Roles
-*Last updated: 2026-10-25 08:36 UTC*
+*Last updated: 2026-10-26 09:04 UTC*
 
-**5 new role(s)** since last run · 34 total in last 24h
+**4 new role(s)** since last run · 30 total in last 24h
 
-### [Computational Chemistry Research Scientist (Computational Drug Design)](https://vrtx.wd501.myworkdayjobs.com/Vertex_Careers/job/Boston-MA/Computational-Chemistry-Research-Scientist---Computational-Drug-Design--_REQ-30307) — Vertex Pharmaceuticals
-- 📍 **Location:** Boston, MA
-
-### [Azure DevOps Engineer](https://vrtx.wd501.myworkdayjobs.com/Vertex_Careers/job/Boston-MA/Azure-DevOps-Engineer_REQ-30436) — Vertex Pharmaceuticals
-- 📍 **Location:** Boston, MA
-
-### [Data Scientist II, Outcomes Research](https://www.linkedin.com/jobs/view/4473809341/) — Tempus AI
+### [Machine Learning Engineer, Infra, AI for Drug Discovery](https://www.linkedin.com/jobs/view/4447580885/) — Genentech
 - 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-10-24
+- 🕒 **Posted:** 2026-10-25
 
-### [Full Stack Engineer](https://www.linkedin.com/jobs/view/4437075801/) — Melio
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-10-24
+### [Software Engineer](https://www.linkedin.com/jobs/view/4447737852/) — Roche
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-10-25
 
-### [2027 Co-op Laboratory Automation & Robotics Engineering](https://www.linkedin.com/jobs/view/4473342967/) — Regeneron
-- 📍 **Location:** Tarrytown, NY
-- 🕒 **Posted:** 2026-10-24
+### [Scientific AI Platform Expert, Disease Area X](https://www.linkedin.com/jobs/view/4481401280/) — Novartis
+- 📍 **Location:** Cambridge, MA
+- 🕒 **Posted:** 2026-10-25
+
+### [Data Scientist, AI for Biomedical Imaging](https://www.linkedin.com/jobs/view/4436643409/) — Novartis
+- 📍 **Location:** Cambridge, MA
+- 🕒 **Posted:** 2026-10-25
