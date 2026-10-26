@@ -1,159 +1,116 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-10-26 17:18 UTC*
+*Last updated: 2026-10-26 18:18 UTC*
 
-**37 new role(s)** since last run · 38 total in last 1h
+**27 new role(s)** since last run · 59 total in last 1h
 
-### [Machine Learning Engineer](https://www.linkedin.com/jobs/view/4481457913/) — Superhuman
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $250,000.00/yr - $385,000.00/yr
+### [Junior Software Engineer](https://www.linkedin.com/jobs/view/4483234551/) — Tata Consultancy Services
+- 📍 **Location:** Santa Clara, CA
 - 🕒 **Posted:** 2026-10-26
 
-### [ML Engineer](https://www.linkedin.com/jobs/view/4483708139/) — Fonzi AI
-- 📍 **Location:** San Francisco Bay Area
+### [Data Scientist, Enterprise](https://www.linkedin.com/jobs/view/4411253059/) — Replit
+- 📍 **Location:** Foster City, CA
 - 🕒 **Posted:** 2026-10-26
 
-### [Software Engineer III, AI/ML GenAI, Google Ads](https://www.linkedin.com/jobs/view/4483215592/) — Google
-- 📍 **Location:** Mountain View, CA
+### [Research Engineer](https://www.linkedin.com/jobs/view/4483707595/) — Fonzi AI
+- 📍 **Location:** New York City Metropolitan Area
 - 🕒 **Posted:** 2026-10-26
 
-### [Software Engineer III, AI/ML, AI and Infrastructure](https://www.linkedin.com/jobs/view/4483225167/) — Google
-- 📍 **Location:** Sunnyvale, CA
+### [2027 BNY Summer Internship Program - Engineering (Data Science) - New York, NY](https://www.linkedin.com/jobs/view/4458208162/) — BNY
+- 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-10-26
 
-### [AI/ML Software Engineer](https://www.linkedin.com/jobs/view/4449758340/) — iTradeNetwork, Inc.
-- 📍 **Location:** San Francisco Bay Area
+### [AI Engineer 5 (MLX, Agentic AI, Gen AI platform Services)](https://www.linkedin.com/jobs/view/4475510554/) — Capital One
+- 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-10-26
 
-### [Software Engineer](https://www.linkedin.com/jobs/view/4483583741/) — Harnham
-- 📍 **Location:** San Francisco Bay Area
+### [Analyst-Data Science](https://www.linkedin.com/jobs/view/4483227961/) — American Express
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $78,000.00/yr - $124,750.00/yr
 - 🕒 **Posted:** 2026-10-26
 
-### [Software Engineer](https://www.linkedin.com/jobs/view/4483705030/) — Mintive
-- 📍 **Location:** San Francisco, CA
+### [Full Stack Engineer](https://www.linkedin.com/jobs/view/4483709417/) — Talentsearch
+- 📍 **Location:** New York City Metropolitan Area
 - 🕒 **Posted:** 2026-10-26
 
-### [Software Engineer](https://www.linkedin.com/jobs/view/4483590421/) — Mintive
-- 📍 **Location:** San Mateo, CA
+### [Software Engineer](https://www.linkedin.com/jobs/view/4477234354/) — Binary, Inc.
+- 📍 **Location:** New York City Metropolitan Area
 - 🕒 **Posted:** 2026-10-26
 
-### [Software Engineer](https://www.linkedin.com/jobs/view/4483227449/) — AlloHire
+### [Associate, Software Engineer](https://www.linkedin.com/jobs/view/4470318905/) — Morgan Stanley
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-10-26
+
+### [Full Stack Engineer](https://www.linkedin.com/jobs/view/4483589997/) — The Windsor Consulting
+- 📍 **Location:** New York City Metropolitan Area
+- 🕒 **Posted:** 2026-10-26
+
+### [Frontend Engineer](https://www.linkedin.com/jobs/view/4483701911/) — Fonzi AI
+- 📍 **Location:** New York City Metropolitan Area
+- 🕒 **Posted:** 2026-10-26
+
+### [Software Engineer 1](https://www.linkedin.com/jobs/view/4483714460/) — Onto Innovation
+- 📍 **Location:** Milpitas, CA
+- 🕒 **Posted:** 2026-10-26
+
+### [AI Engineer 5 (MLX, Agentic AI, Gen AI platform Services)](https://www.linkedin.com/jobs/view/4475516109/) — Capital One
 - 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-10-26
 
-### [Software Engineer](https://www.linkedin.com/jobs/view/4465255234/) — Chalk
+### [Software Engineer in Test - Contractor](https://www.linkedin.com/jobs/view/4483224612/) — Align Technology
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-10-26
+
+### [Machine Learning Engineer](https://www.linkedin.com/jobs/view/4483700893/) — University of California, San Francisco
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-10-26
 
-### [ML Engineer](https://www.linkedin.com/jobs/view/4483707325/) — Fonzi AI
-- 📍 **Location:** New York City Metropolitan Area
-- 🕒 **Posted:** 2026-10-26
-
-### [Research Engineer](https://www.linkedin.com/jobs/view/4474091548/) — Mentor Talent Acquisition
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $130,000.00/yr - $200,000.00/yr
-- 🕒 **Posted:** 2026-10-26
-
-### [DevOps Engineer](https://www.linkedin.com/jobs/view/4481476350/) — Merge
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-10-26
-
-### [Software Engineer(Stripe)](https://www.linkedin.com/jobs/view/4483587731/) — ScoutBetter
-- 📍 **Location:** South San Francisco, CA
-- 💰 **Salary:** $157,000.00/yr - $235,000.00/yr
-- 🕒 **Posted:** 2026-10-26
-
-### [Infrastructure Engineer](https://www.linkedin.com/jobs/view/4483703384/) — Fonzi AI
+### [Frontend Engineer](https://www.linkedin.com/jobs/view/4483707634/) — Fonzi AI
 - 📍 **Location:** San Francisco Bay Area
 - 🕒 **Posted:** 2026-10-26
 
-### [Infrastructure Engineer](https://www.linkedin.com/jobs/view/4483597582/) — Fonzi AI
-- 📍 **Location:** New York City Metropolitan Area
+### [Software Engineer, Frontend - Economy](https://www.linkedin.com/jobs/view/4483224852/) — Roblox
+- 📍 **Location:** San Mateo, CA
 - 🕒 **Posted:** 2026-10-26
 
-### [DevOps Developer](https://www.linkedin.com/jobs/view/4473175916/) — Ralph Lauren
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-10-26
-
-### [Full Stack Engineer](https://www.linkedin.com/jobs/view/4483706391/) — Protech Talent
-- 📍 **Location:** New York City Metropolitan Area
-- 🕒 **Posted:** 2026-10-26
-
-### [Software Engineer](https://www.linkedin.com/jobs/view/4465241386/) — Chalk
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-10-26
-
-### [Software Engineer - New Grad](https://www.linkedin.com/jobs/view/4474488373/) — Chalk
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $170,000.00/yr - $180,000.00/yr
-- 🕒 **Posted:** 2026-10-26
-
-### [Junior Full-Stack Software Engineer (Bilingual Mandarin/English)](https://www.linkedin.com/jobs/view/4481344993/) — TalentXM
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-10-26
-
-### [Software Engineer - New Grad](https://www.linkedin.com/jobs/view/4475740088/) — Chalk
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $170,000.00/yr - $180,000.00/yr
-- 🕒 **Posted:** 2026-10-26
-
-### [Backend Engineer](https://www.linkedin.com/jobs/view/4483599636/) — Fonzi AI
+### [Full Stack Engineer](https://www.linkedin.com/jobs/view/4483599955/) — arcadia
 - 📍 **Location:** San Francisco Bay Area
 - 🕒 **Posted:** 2026-10-26
 
-### [Java Backend Engineer](https://www.linkedin.com/jobs/view/4483593488/) — Cognizant
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-10-26
-
-### [Software Engineer, Billing & Monetization](https://www.linkedin.com/jobs/view/4466392000/) — DataSnipper
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-10-26
-
-### [Backend Engineer](https://www.linkedin.com/jobs/view/4483704394/) — Fonzi AI
-- 📍 **Location:** New York City Metropolitan Area
-- 🕒 **Posted:** 2026-10-26
-
-### [[W2] Python Fullstack Engineer](https://www.linkedin.com/jobs/view/4482706647/) — AMISEQ
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-10-26
-
-### [Frontend Platform Engineer](https://www.linkedin.com/jobs/view/4447183071/) — Harvey
+### [DevOps Engineer Mobile](https://www.linkedin.com/jobs/view/4481680365/) — Air Apps
 - 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $109,000.00/yr - $194,000.00/yr
 - 🕒 **Posted:** 2026-10-26
 
-### [Full Stack Software Engineer](https://www.linkedin.com/jobs/view/4475260915/) — Chalk
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-10-26
-
-### [Full Stack Engineer](https://www.linkedin.com/jobs/view/4483704324/) — Fonzi AI
+### [Software Engineer](https://www.linkedin.com/jobs/view/4483222227/) — Pulsewave
 - 📍 **Location:** San Francisco Bay Area
 - 🕒 **Posted:** 2026-10-26
 
-### [Full Stack Software Engineer](https://www.linkedin.com/jobs/view/4475274331/) — Chalk
-- 📍 **Location:** New York City Metropolitan Area
+### [AWS Devops architect with medical/pharma domain](https://www.linkedin.com/jobs/view/4483705852/) — Continental Technology Solutions,Inc
+- 📍 **Location:** Alameda, CA
 - 🕒 **Posted:** 2026-10-26
 
-### [Full Stack Software Engineer](https://www.linkedin.com/jobs/view/4476880652/) — Chalk
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $170,000.00/yr - $280,000.00/yr
+### [Backend Engineer – Payments & Infrastructure](https://www.linkedin.com/jobs/view/4483708562/) — arcadia
+- 📍 **Location:** San Francisco Bay Area
+- 💰 **Salary:** $175,000.00/yr - $225,000.00/yr
 - 🕒 **Posted:** 2026-10-26
 
-### [Full Stack Engineer](https://www.linkedin.com/jobs/view/4483594522/) — Fonzi AI
-- 📍 **Location:** New York City Metropolitan Area
+### [AI Platform Support Engineer (1042) –Department of Technology](https://www.linkedin.com/jobs/view/4483704796/) — City and County of San Francisco
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-10-26
 
-### [Software Engineer, Financial Systems](https://www.linkedin.com/jobs/view/4483237215/) — Madhive
-- 📍 **Location:** New York, NY
+### [Fullstack Software Engineer, Global E-commerce User Growth](https://www.linkedin.com/jobs/view/4483239414/) — TikTok
+- 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-10-26
 
-### [Software Engineer, Developer Productivity](https://www.linkedin.com/jobs/view/4308502697/) — Glean
-- 📍 **Location:** Mountain View, CA
+### [Machine Learning Engineer | Python | Pytorch | Distributed Training | Optimisation | GPU | Hybrid, San Jose, CA](https://www.linkedin.com/jobs/view/4483236406/) — Enigma
+- 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-10-26
 
-### [Software Engineer - New Grad](https://www.linkedin.com/jobs/view/4474479777/) — Chalk
-- 📍 **Location:** New York City Metropolitan Area
-- 💰 **Salary:** $170,000.00/yr - $180,000.00/yr
+### [Data Scientist, Personalization & Machine Learning](https://www.linkedin.com/jobs/view/4483233661/) — OpenAI
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $347,000.00/yr - $445,000.00/yr
 - 🕒 **Posted:** 2026-10-26
 
-### [Software Engineer, Developer Productivity](https://www.linkedin.com/jobs/view/4450841412/) — Chalk
-- 📍 **Location:** New York, NY
+### [Research Engineer](https://www.linkedin.com/jobs/view/4483703698/) — Fonzi AI
+- 📍 **Location:** San Francisco Bay Area
 - 🕒 **Posted:** 2026-10-26
