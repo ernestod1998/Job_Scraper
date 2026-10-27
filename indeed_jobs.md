@@ -1,97 +1,73 @@
 # 🟦 Indeed — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-10-26 20:44 UTC*
+*Last updated: 2026-10-27 00:45 UTC*
 
-**19 new role(s)** since last run · 24 total in last 24h
+**14 new role(s)** since last run · 37 total in last 24h
 
-### [Software Engineer Graduate (AI/ML) - Moveworks](https://www.indeed.com/viewjob?jk=d11681ea4349334b) — ServiceNow
+### [Splunk Infrastructure Engineer](https://www.indeed.com/viewjob?jk=93d1a150c0823e5d) — Okta
+- 📍 **Location:** San Francisco, CA, USA
+- 💰 **Salary:** $194k–$267k/yr
+- 🕒 **Posted:** 2026-10-26
+
+### [Software Engineer III, AI/ML GenAI, Google Ads](https://www.indeed.com/viewjob?jk=5d9f6bc16d81d4cc) — Google
 - 📍 **Location:** Mountain View, CA, USA
+- 💰 **Salary:** $147k–$210k/yr
 - 🕒 **Posted:** 2026-10-26
 
-### [Machine Learning Engineer](https://www.indeed.com/viewjob?jk=d47c2d67538de8f7) — University of California - San Francisco
-- 📍 **Location:** San Francisco, CA, USA
-- 💰 **Salary:** $101k–$216k/yr
+### [Robotics Applied Scientist](https://www.indeed.com/viewjob?jk=7374508d56fa8e85) — Amazon.com
+- 📍 **Location:** Sunnyvale, CA, USA
+- 💰 **Salary:** $172k–$222k/yr
 - 🕒 **Posted:** 2026-10-26
 
-### [Applied Research Engineer/Scientist](https://www.indeed.com/viewjob?jk=0649fe03f5d95e27) — Apple
-- 📍 **Location:** Cupertino, CA, USA
-- 💰 **Salary:** $185k–$325k/yr
-- 🕒 **Posted:** 2026-10-26
-
-### [Data Scientist, Personalization & Machine Learning](https://www.indeed.com/viewjob?jk=bb50adb7020aa95d) — OpenAI
-- 📍 **Location:** San Francisco, CA, USA
-- 💰 **Salary:** $347k–$445k/yr
-- 🕒 **Posted:** 2026-10-26
-
-### [Software Engineer, Evaluation](https://www.indeed.com/viewjob?jk=fe5d232a5ecd610d) — Apple
-- 📍 **Location:** Cupertino, CA, USA
-- 💰 **Salary:** $150k–$278k/yr
-- 🕒 **Posted:** 2026-10-26
-
-### [Software Engineer](https://www.indeed.com/viewjob?jk=37c390c2dfa36e3a) — ServiceNow
+### [Software Engineer - Federal](https://www.indeed.com/viewjob?jk=4b055f4fd6448ca4) — ServiceNow
 - 📍 **Location:** Santa Clara, CA, USA
-- 💰 **Salary:** $126k–$195k/yr
+- 💰 **Salary:** $126k–$160k/yr
 - 🕒 **Posted:** 2026-10-26
 
-### [Software Engineer in Test - Contractor](https://www.indeed.com/viewjob?jk=c51b25fa9d2561d8) — Align Technology
+### [Software Engineer](https://www.indeed.com/viewjob?jk=78d26c4135e35f09) — ServiceNow
+- 📍 **Location:** Santa Clara, CA, USA
+- 💰 **Salary:** $126k–$160k/yr
+- 🕒 **Posted:** 2026-10-26
+
+### [Site Reliability Engineer, CapCut](https://www.indeed.com/viewjob?jk=48fa5506ba1ccc07) — TikTok USDS JV
 - 📍 **Location:** San Jose, CA, USA
+- 💰 **Salary:** $137k–$360k/yr
 - 🕒 **Posted:** 2026-10-26
 
-### [Software Engineer - Generative UI, Input Experience](https://www.indeed.com/viewjob?jk=6c8981021c7eaaae) — Apple
-- 📍 **Location:** Cupertino, CA, USA
-- 💰 **Salary:** $185k–$325k/yr
+### [Software Engineer III, Device Driver, Platforms and Devices](https://www.indeed.com/viewjob?jk=3cbe8ea23e1f5bff) — Google
+- 📍 **Location:** San Jose, CA, USA
+- 💰 **Salary:** $147k–$210k/yr
 - 🕒 **Posted:** 2026-10-26
 
-### [Software Engineer III, Device Driver, Platforms and Devices](https://www.indeed.com/viewjob?jk=d9c0c6c579464b2e) — Google
+### [Software Engineer - Frontend](https://www.indeed.com/viewjob?jk=b56a4115c7b0a43d) — Hive
 - 📍 **Location:** San Francisco, CA, USA
-- 💰 **Salary:** $147k–$210k/yr
 - 🕒 **Posted:** 2026-10-26
 
-### [Software Engineer, Frontend - Economy](https://www.indeed.com/viewjob?jk=05943039f5627d72) — Roblox
-- 📍 **Location:** San Mateo, CA, USA
-- 💰 **Salary:** $153k–$197k/yr
+### [Software Engineer](https://www.indeed.com/viewjob?jk=51b057c8b64df140) — PayPal
+- 📍 **Location:** San Jose, CA, USA
+- 💰 **Salary:** $116k–$173k/yr
 - 🕒 **Posted:** 2026-10-26
 
-### [Software Engineer 1](https://www.indeed.com/viewjob?jk=a61f2a9524e209b4) — Onto Innovation
-- 📍 **Location:** Milpitas, CA, USA
-- 💰 **Salary:** $66k–$100k/yr
-- 🕒 **Posted:** 2026-10-26
-
-### [AI Platform Support Engineer (1042) –Department of Technology](https://www.indeed.com/viewjob?jk=208c693034724f6d) — City and County of San Francisco
+### [AI Site Reliability Engineer, AI.x](https://www.indeed.com/viewjob?jk=70d77cbca271e48d) — Charles Schwab
 - 📍 **Location:** San Francisco, CA, USA
-- 💰 **Salary:** $144k–$181k/yr
+- 💰 **Salary:** $60.10–$84.13/hr
 - 🕒 **Posted:** 2026-10-26
 
-### [Data Scientist, Amazon Ads Marketing Decision Science](https://www.indeed.com/viewjob?jk=fe30b45b548a64a2) — Amazon.com
+### [Splunk Infrastructure Engineer](https://www.indeed.com/viewjob?jk=5a893e05c2074e5a) — Okta
 - 📍 **Location:** New York, NY, USA
-- 💰 **Salary:** $153k–$208k/yr
+- 💰 **Salary:** $194k–$267k/yr
 - 🕒 **Posted:** 2026-10-26
 
-### [Software Engineer III, Infrastructure, Google Ads](https://www.indeed.com/viewjob?jk=e1bca6443f7a08c5) — Google
+### [Applied Scientist, AWS Neuron Science - Core Algorithm, AWS Neuron Science - Core Algorithm](https://www.indeed.com/viewjob?jk=eab3ba069da09174) — Amazon Web Services
 - 📍 **Location:** New York, NY, USA
-- 💰 **Salary:** $147k–$210k/yr
+- 💰 **Salary:** $172k–$222k/yr
 - 🕒 **Posted:** 2026-10-26
 
-### [Software Engineer III, Device Driver, Platforms and Devices](https://www.indeed.com/viewjob?jk=39bd1518a19f7d3d) — Google
-- 📍 **Location:** New York, NY, USA
-- 💰 **Salary:** $147k–$210k/yr
+### [Cloud Engineer](https://www.indeed.com/viewjob?jk=8ba8404eaee29009) — JSR Tech Consulting
+- 📍 **Location:** Newark, NJ, USA
+- 💰 **Salary:** $60–$65/hr
 - 🕒 **Posted:** 2026-10-26
 
-### [Associate Software Engineer (Seasonal)](https://www.indeed.com/viewjob?jk=ad3aca721684c6f5) — MLB (Job Board Only)
+### [Blockchain Engineer - Software Engineering](https://www.indeed.com/viewjob?jk=79477d858f670d0d) — Morgan Stanley
 - 📍 **Location:** New York, NY, USA
-- 💰 **Salary:** $40–$55/hr
-- 🕒 **Posted:** 2026-10-26
-
-### [Software Engineer, Financial Systems](https://www.indeed.com/viewjob?jk=76b9393708b41396) — MadHive
-- 📍 **Location:** New York, NY, USA
-- 💰 **Salary:** $120k–$130k/yr
-- 🕒 **Posted:** 2026-10-26
-
-### [AI Platform Engineer](https://www.indeed.com/viewjob?jk=4518ea9b40ab6810) — International Rescue Committee
-- 📍 **Location:** New York, NY, USA
-- 💰 **Salary:** $88k–$102k/yr
-- 🕒 **Posted:** 2026-10-26
-
-### [Cloud DevOps Engineer](https://www.indeed.com/viewjob?jk=2765961bc309bf2a) — Tech Valley Talent
-- 📍 **Location:** New York, NY, USA
-- 💰 **Salary:** $60–$70/hr
+- 💰 **Salary:** $120k–$215k/yr
 - 🕒 **Posted:** 2026-10-26
