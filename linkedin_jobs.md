@@ -1,76 +1,138 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-10-27 15:17 UTC*
+*Last updated: 2026-10-27 16:19 UTC*
 
-**18 new role(s)** since last run · 18 total in last 1h
+**32 new role(s)** since last run · 43 total in last 1h
 
-### [Machine Learning Engineer, EPD Ads](https://www.linkedin.com/jobs/view/3981027173/) — Pinterest
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-10-27
-
-### [ML Engineer](https://www.linkedin.com/jobs/view/4484073830/) — Fonzi AI
-- 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-10-27
-
-### [Research Engineer](https://www.linkedin.com/jobs/view/4484072866/) — Fonzi AI
-- 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-10-27
-
-### [Machine Learning Engineer, Infra, AI for Drug Discovery](https://www.linkedin.com/jobs/view/4447583143/) — Genentech
-- 📍 **Location:** South San Francisco, CA
-- 🕒 **Posted:** 2026-10-27
-
-### [Full-Stack Engineer - Agentic AI - Bay Area, California](https://www.linkedin.com/jobs/view/4484067995/) — SIDRAM TECHNOLOGIES
+### [Software Engineer, Backend](https://www.linkedin.com/jobs/view/4479040716/) — Ivo
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-10-27
 
-### [Software Engineer](https://www.linkedin.com/jobs/view/4481891706/) — Corellia Talent
+### [AI/ML Engineer Intern 2027 - SAN JOSE](https://www.linkedin.com/jobs/view/4473678725/) — IBM
+- 📍 **Location:** San Jose, CA
+- 💰 **Salary:** $90,720.00/yr - $166,320.00/yr
+- 🕒 **Posted:** 2026-10-27
+
+### [Software Engineer, Fullstack](https://www.linkedin.com/jobs/view/4482135187/) — Ivo
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-10-27
 
-### [AI Focused Software Developer - Python](https://www.linkedin.com/jobs/view/4483664094/) — Univedge Consulting LLC
-- 📍 **Location:** Palo Alto, CA
+### [Full Stack Engineer](https://www.linkedin.com/jobs/view/4481891876/) — The Phoenix Group
+- 📍 **Location:** New York City Metropolitan Area
+- 💰 **Salary:** $200,000.00/yr - $240,000.00/yr
 - 🕒 **Posted:** 2026-10-27
 
-### [Full-Stack Engineers](https://www.linkedin.com/jobs/view/4484071897/) — SIDRAM TECHNOLOGIES
+### [Software Engineer, Applied AI Research](https://www.linkedin.com/jobs/view/4475872679/) — Hightouch
 - 📍 **Location:** San Francisco Bay Area
 - 🕒 **Posted:** 2026-10-27
 
-### [Software Engineer II, EPD Ads](https://www.linkedin.com/jobs/view/4475894745/) — Pinterest
+### [Software Engineer, AI Agents](https://www.linkedin.com/jobs/view/4475863892/) — Hightouch
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-10-27
+
+### [Hiring for Software Engineers | $420K - $580K](https://www.linkedin.com/jobs/view/4481899376/) — Round1 Jobs
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-10-27
 
-### [Machine Learning Engineer III](https://www.linkedin.com/jobs/view/4481884946/) — Peloton Interactive
+### [Associate Data Scientist](https://www.linkedin.com/jobs/view/4483646899/) — Corebridge Financial
+- 📍 **Location:** Jersey City, NJ
+- 🕒 **Posted:** 2026-10-27
+
+### [2027 BNY Summer Internship Program - Engineering (Data Science) - Jersey City, NJ](https://www.linkedin.com/jobs/view/4458209129/) — BNY
+- 📍 **Location:** Jersey City, NJ
+- 🕒 **Posted:** 2026-10-27
+
+### [Full Stack Engineer (AI)](https://www.linkedin.com/jobs/view/4471734445/) — BAMM Staffing
+- 📍 **Location:** Jersey City, NJ
+- 💰 **Salary:** $150,000.00/yr - $215,000.00/yr
+- 🕒 **Posted:** 2026-10-27
+
+### [Applied AI/ML Engineer](https://www.linkedin.com/jobs/view/4446510435/) — OP Recruiting
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-10-27
 
-### [ML Engineer](https://www.linkedin.com/jobs/view/4484079307/) — Fonzi AI
-- 📍 **Location:** New York City Metropolitan Area
+### [Research Engineer](https://www.linkedin.com/jobs/view/4474091548/) — Mentor Talent Acquisition
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $130,000.00/yr - $200,000.00/yr
 - 🕒 **Posted:** 2026-10-27
 
-### [Research Engineer](https://www.linkedin.com/jobs/view/4484065956/) — Fonzi AI
-- 📍 **Location:** New York City Metropolitan Area
+### [Kubernetes, Linux, Infra, DevOps](https://www.linkedin.com/jobs/view/4484076635/) — Raas Infotek
+- 📍 **Location:** Milpitas, CA
 - 🕒 **Posted:** 2026-10-27
 
-### [Applied Scientist, Advertiser Growth Engine](https://www.linkedin.com/jobs/view/4475898659/) — Amazon
+### [Software Engineer III, GTOC](https://www.linkedin.com/jobs/view/4484092292/) — Box
+- 📍 **Location:** Redwood City, CA
+- 🕒 **Posted:** 2026-10-27
+
+### [Site Reliability Engineer (SRE) – II](https://www.linkedin.com/jobs/view/4475879972/) — F5
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-10-27
+
+### [Site Reliability Engineer : 26-02904](https://www.linkedin.com/jobs/view/4471632704/) — Akraya, Inc.
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-10-27
+
+### [Site Reliability Engineer (SRE)](https://www.linkedin.com/jobs/view/4483650810/) — Intellibus
+- 📍 **Location:** Manhattan, NY
+- 🕒 **Posted:** 2026-10-27
+
+### [Software Engineer](https://www.linkedin.com/jobs/view/4484075873/) — Microsoft
+- 📍 **Location:** Mountain View, CA
+- 🕒 **Posted:** 2026-10-27
+
+### [Embedded Software Engineer 5 - Newark, CA - Onsite](https://www.linkedin.com/jobs/view/4481002252/) — Dew Software
+- 📍 **Location:** Newark, CA
+- 💰 **Salary:** $80.00/hr - $90.00/hr
+- 🕒 **Posted:** 2026-10-27
+
+### [Software Engineer - Renter Experience](https://www.linkedin.com/jobs/view/4438260516/) — TheGuarantors
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-10-27
 
-### [AI Cloud Engineer- W2 Onsite Role](https://www.linkedin.com/jobs/view/4482995442/) — Iris Software Inc.
-- 📍 **Location:** Newark, NJ
+### [Full Stack Engineer (Rails/React)](https://www.linkedin.com/jobs/view/4482206062/) — Alldus
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $120,000.00/yr - $180,000.00/yr
 - 🕒 **Posted:** 2026-10-27
 
-### [Forward Deployed Software Engineer](https://www.linkedin.com/jobs/view/4483648587/) — Global Technology Partners
+### [Software Developer - Swaps Platform (Corporate Actions)](https://www.linkedin.com/jobs/view/4431362485/) — Jefferies
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-10-27
 
-### [Software Engineer - Risk Solutions](https://www.linkedin.com/jobs/view/4454040760/) — TheGuarantors
+### [Full-stack Engineer 4](https://www.linkedin.com/jobs/view/4476307347/) — Capital One
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-10-27
 
-### [Full Stack Engineer](https://www.linkedin.com/jobs/view/4484068958/) — Fonzi AI
+### [Frontend Engineer](https://www.linkedin.com/jobs/view/4484084152/) — Fonzi AI
 - 📍 **Location:** New York City Metropolitan Area
 - 🕒 **Posted:** 2026-10-27
 
-### [Backend Engineer](https://www.linkedin.com/jobs/view/4484084131/) — Fonzi AI
-- 📍 **Location:** New York City Metropolitan Area
+### [Software Engineer II](https://www.linkedin.com/jobs/view/4483669075/) — Yugabyte
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-10-27
+
+### [Software Engineer](https://www.linkedin.com/jobs/view/4483664473/) — Ignition Growth
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-10-27
+
+### [AI Engineer 4 (Gen AI Platform Services: Agentic AI)](https://www.linkedin.com/jobs/view/4484076958/) — Capital One
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-10-27
+
+### [WINDOWS SITE RELIABILITY ENGINEER](https://www.linkedin.com/jobs/view/4482204375/) — VeriiPro
+- 📍 **Location:** Jersey City, NJ
+- 🕒 **Posted:** 2026-10-27
+
+### [Software Engineer - Build & Release](https://www.linkedin.com/jobs/view/4365251001/) — Xona
+- 📍 **Location:** Burlingame, CA
+- 🕒 **Posted:** 2026-10-27
+
+### [Full-stack Engineer 4, Agentic Technology](https://www.linkedin.com/jobs/view/4484076956/) — Capital One
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-10-27
+
+### [AI Engineer 4 (Gen AI Platform Services: Agentic AI)](https://www.linkedin.com/jobs/view/4484091437/) — Capital One
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-10-27
+
+### [Software Engineer III (FanApp)](https://www.linkedin.com/jobs/view/4483660689/) — Fanatics
+- 📍 **Location:** Redwood City, CA
 - 🕒 **Posted:** 2026-10-27
