@@ -1,24 +1,22 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-10-27 20:13 UTC*
+*Last updated: 2026-10-27 20:19 UTC*
 
-**5 new role(s)** since last run · 21 total in last 1h
+**4 new role(s)** since last run · 24 total in last 1h
 
-### [PhD Research Intern, Generative AI - 2026](https://www.linkedin.com/jobs/view/4419334985/) — NVIDIA
-- 📍 **Location:** Santa Clara, CA
+### [Software Engineer III - Backend](https://www.linkedin.com/jobs/view/4484007250/) — JPMorganChase
+- 📍 **Location:** Palo Alto, CA
+- 💰 **Salary:** $137,750.00/yr - $185,000.00/yr
 - 🕒 **Posted:** 2026-10-27
 
-### [Full Stack Engineer](https://www.linkedin.com/jobs/view/4482216937/) — The Phoenix Group®
-- 📍 **Location:** New York City Metropolitan Area
+### [Software Engineer [Multiple Positions Available]](https://www.linkedin.com/jobs/view/4483765188/) — JPMorganChase
+- 📍 **Location:** Palo Alto, CA
+- 💰 **Salary:** $186,000.00/yr - $186,000.00/yr
 - 🕒 **Posted:** 2026-10-27
 
-### [Rust Architect / Backend Developer](https://www.linkedin.com/jobs/view/4484225830/) — Pro Integrate
-- 📍 **Location:** New York, NY
+### [Full Stack Engineer](https://www.linkedin.com/jobs/view/4477721887/) — Meet Life Sciences
+- 📍 **Location:** San Francisco Bay Area
 - 🕒 **Posted:** 2026-10-27
 
-### [Mid-Level GCP Cloud Engineer (37.5 hrs/Week)](https://www.linkedin.com/jobs/view/4484238365/) — Sligo Software Solutions Inc.
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-10-27
-
-### [Volunteer Robotics Engineer](https://www.linkedin.com/jobs/view/4483677862/) — PathOnAI.org
-- 📍 **Location:** Millbrae, CA
+### [Azure Devops Engineer](https://www.linkedin.com/jobs/view/4482231216/) — Envision Technology Solutions
+- 📍 **Location:** Berkeley Heights, NJ
 - 🕒 **Posted:** 2026-10-27
