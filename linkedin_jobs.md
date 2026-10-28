@@ -1,23 +1,12 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-10-28 01:19 UTC*
+*Last updated: 2026-10-28 02:17 UTC*
 
-**4 new role(s)** since last run · 29 total in last 1h
+**2 new role(s)** since last run · 8 total in last 1h
 
-### [Software Engineer, Privacy & Data Governance](https://www.linkedin.com/jobs/view/4484403099/) — Thinking Machines Lab
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $300,000.00/yr - $350,000.00/yr
+### [Software Engineer — Reverse Engineering & Legacy Integrations](https://www.linkedin.com/jobs/view/4483830315/) — Psyrin
+- 📍 **Location:** San Francisco Bay Area
 - 🕒 **Posted:** 2026-10-27
 
-### [Software Engineer - Customer Experience Engineering](https://www.linkedin.com/jobs/view/4484401040/) — Snowflake
-- 📍 **Location:** Menlo Park, CA
-- 💰 **Salary:** $128,000.00/yr - $184,000.00/yr
-- 🕒 **Posted:** 2026-10-27
-
-### [Deep Learning Performance Architect - New College Grad 2027](https://www.linkedin.com/jobs/view/4483816659/) — NVIDIA
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-10-27
-
-### [Software Engineer, Infrastructure](https://www.linkedin.com/jobs/view/4474564316/) — Thinking Machines Lab
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $300,000.00/yr - $400,000.00/yr
+### [Internship - Frontend Developer](https://www.linkedin.com/jobs/view/4484294812/) — ASML
+- 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-10-27
