@@ -1,48 +1,17 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-10-28 20:17 UTC*
+*Last updated: 2026-10-28 21:17 UTC*
 
-**11 new role(s)** since last run · 17 total in last 1h
+**3 new role(s)** since last run · 3 total in last 1h
 
-### [AI Engineer 5 (Gen AI Platform Services: Agentic AI)](https://www.linkedin.com/jobs/view/4476757118/) — Capital One
-- 📍 **Location:** San Jose, CA
+### [Robotics Software Engineer, Autonomy & Behavior](https://www.linkedin.com/jobs/view/4484742066/) — Anyware Robotics
+- 📍 **Location:** Fremont, CA
 - 🕒 **Posted:** 2026-10-28
 
-### [AI Engineer 5 (Gen AI Platform Services: Agentic Systems)](https://www.linkedin.com/jobs/view/4476739800/) — Capital One
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-10-28
-
-### [Machine Learning Infrastructure Engineer](https://www.linkedin.com/jobs/view/4467783679/) — Cognizant
-- 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-10-28
-
-### [AI Engineer 5 (Gen AI Platform Services: Agentic AI, Guardrails, Evaluation)](https://www.linkedin.com/jobs/view/4476760007/) — Capital One
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-10-28
-
-### [AI Engineer 5 (Gen AI Platform Services: Agentic AI, Guardrails, Evaluation)](https://www.linkedin.com/jobs/view/4476740760/) — Capital One
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-10-28
-
-### [AI Engineer 5 (Gen AI Platform Services: Agentic AI)](https://www.linkedin.com/jobs/view/4476735995/) — Capital One
+### [Software Engineer - Investment Technology](https://www.linkedin.com/jobs/view/4484727660/) — Investment Management Firm
 - 📍 **Location:** New York, NY
+- 💰 **Salary:** $200,000.00/yr - $260,000.00/yr
 - 🕒 **Posted:** 2026-10-28
 
-### [Quantitative Software Engineer - Systematic Hedge Fund](https://www.linkedin.com/jobs/view/4350574697/) — Acquire Me
-- 📍 **Location:** New York City Metropolitan Area
-- 🕒 **Posted:** 2026-10-28
-
-### [Frontend Engineer](https://www.linkedin.com/jobs/view/4484723652/) — Verneek
+### [Full-Stack Software Engineer | Hedge Fund (362FFC5)](https://www.linkedin.com/jobs/view/4484718618/) — Referment
 - 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-10-28
-
-### [Backend Engineer](https://www.linkedin.com/jobs/view/4482561160/) — Vserv Infosystems Private Limited
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-10-28
-
-### [Infrastructure Engineer](https://www.linkedin.com/jobs/view/4479899114/) — Atto Trading
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-10-28
-
-### [Site Reliability Engineer - Quantitative Trading](https://www.linkedin.com/jobs/view/4429410207/) — Acquire Me
-- 📍 **Location:** New York City Metropolitan Area
 - 🕒 **Posted:** 2026-10-28
