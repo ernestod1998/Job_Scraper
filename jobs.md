@@ -1,28 +1,28 @@
 # 🧬 Biotech LinkedIn — MLE / DS Roles
-*Last updated: 2026-10-29 10:12 UTC*
+*Last updated: 2026-10-30 10:14 UTC*
 
-**6 new role(s)** since last run · 35 total in last 24h
+**6 new role(s)** since last run · 36 total in last 24h
 
-### [Software Engineer, Machine Learning Platform](https://job-boards.greenhouse.io/profluent/jobs/5290271008) — Profluent
-- 📍 **Location:** Emeryville, California, United States; Hybrid (2-3 days on-site)
-- 🕒 **Posted:** 2026-10-28
+### [Software Engineer III, Service AI Transformation](https://job-boards.greenhouse.io/natera/jobs/6198781004) — Natera
+- 📍 **Location:** US Remote
+- 🕒 **Posted:** 2026-10-29
 
-### [2027 Summer Intern Genomics, Computational Biology & Translational Data Science](https://regeneron.wd1.myworkdayjobs.com/careers/job/TARRYTOWN/XMLNAME-2027-Summer-Intern-Genomics--Computational-Biology---Translational-Data-Science_R52557-1) — Regeneron
-- 📍 **Location:** TARRYTOWN
+### [Intern - Research - Data Sciences - AI](https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Intern---Research---Data-Sciences_R0054572) — Gilead Sciences
+- 📍 **Location:** United States - California - Foster City
 - 🕒 **Posted:** Posted Yesterday
 
-### [Machine Learning Engineer (AI Enablement)](https://www.linkedin.com/jobs/view/4484754235/) — Genentech
-- 📍 **Location:** South San Francisco, CA
-- 🕒 **Posted:** 2026-10-28
+### [Intern - Research - Drug Metabolism - AI](https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Intern---Research---Drug-Metabolism---AI_R0055519) — Gilead Sciences
+- 📍 **Location:** United States - California - Foster City
+- 🕒 **Posted:** Posted Yesterday
 
-### [AI/ML Engineer](https://www.linkedin.com/jobs/view/4482560645/) — GSK
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-10-28
+### [Intern - Research - Data Sciences - AI](https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Intern---Research---Data-Sciences---AI_R0055524) — Gilead Sciences
+- 📍 **Location:** United States - California - Foster City
+- 🕒 **Posted:** Posted Yesterday
 
-### [Bioinformatics Scientist I](https://www.linkedin.com/jobs/view/4476322689/) — Foundation Medicine
-- 📍 **Location:** Boston, MA
-- 🕒 **Posted:** 2026-10-28
+### [Full Stack Engineer](https://www.linkedin.com/jobs/view/4485238920/) — Melio
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-10-29
 
-### [Data Scientist](https://www.linkedin.com/jobs/view/4482550351/) — Bristol Myers Squibb
+### [Data Scientist](https://www.linkedin.com/jobs/view/4483087021/) — Bristol Myers Squibb
 - 📍 **Location:** San Diego, CA
-- 🕒 **Posted:** 2026-10-28
+- 🕒 **Posted:** 2026-10-29
