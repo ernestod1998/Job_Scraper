@@ -1,66 +1,81 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-10-30 22:18 UTC*
+*Last updated: 2026-10-30 23:19 UTC*
 
-**15 new role(s)** since last run · 20 total in last 1h
+**19 new role(s)** since last run · 27 total in last 1h
 
-### [Machine Learning Engineer, Applied AI Intern (Summer 2027)](https://www.linkedin.com/jobs/view/4485608815/) — Brain Co.
-- 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-10-30
-
-### [Software Engineer, Evals](https://www.linkedin.com/jobs/view/4485626127/) — SpaceX Super Intelligence
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-10-30
-
-### [Cloud Infrastructure Engineer](https://www.linkedin.com/jobs/view/4485614763/) — COGENT Infotech
-- 📍 **Location:** White Plains, NY
-- 💰 **Salary:** $60.00/hr - $65.00/hr
-- 🕒 **Posted:** 2026-10-30
-
-### [Platform Site Reliability Engineer](https://www.linkedin.com/jobs/view/4485614565/) — Tradeweb
-- 📍 **Location:** Jersey City, NJ
-- 🕒 **Posted:** 2026-10-30
-
-### [Software Engineer, Infrastructure](https://www.linkedin.com/jobs/view/4485611586/) — Niantic Spatial, Inc.
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-10-30
-
-### [Computational Scientist](https://www.linkedin.com/jobs/view/4483491923/) — TALENT Software Services
-- 📍 **Location:** South San Francisco, CA
-- 🕒 **Posted:** 2026-10-30
-
-### [Software Engineer in Test](https://www.linkedin.com/jobs/view/4472825340/) — GlobalLogic
+### [Applied Scientist, AWS Agentic AI](https://www.linkedin.com/jobs/view/4483913114/) — Amazon Science
 - 📍 **Location:** Santa Clara, CA
 - 🕒 **Posted:** 2026-10-30
 
-### [Computational Scientist](https://www.linkedin.com/jobs/view/4485104087/) — Sharp Decisions
-- 📍 **Location:** San Francisco, CA
+### [AI Platform Engineer Intern (Summer 2027)](https://www.linkedin.com/jobs/view/4485605894/) — Brain Co.
+- 📍 **Location:** San Francisco Bay Area
 - 🕒 **Posted:** 2026-10-30
 
-### [Computational Scientist](https://www.linkedin.com/jobs/view/4485609589/) — The Fountain Group
-- 📍 **Location:** South San Francisco, CA
+### [Applied Scientist, AWS Agentic AI](https://www.linkedin.com/jobs/view/4483906482/) — Amazon Science
+- 📍 **Location:** Santa Clara, CA
 - 🕒 **Posted:** 2026-10-30
 
-### [Computational Scientist (CRISPR perturbation, Single Cell, Image analysis)](https://www.linkedin.com/jobs/view/4485105087/) — Aequor
-- 📍 **Location:** South San Francisco, CA
+### [Applied Scientist, AWS Agentic AI](https://www.linkedin.com/jobs/view/4483912125/) — Amazon Science
+- 📍 **Location:** Santa Clara, CA
 - 🕒 **Posted:** 2026-10-30
 
-### [Full-stack Engineer 4](https://www.linkedin.com/jobs/view/4485622582/) — Capital One
+### [Software Engineer, FTT Investment Tech Solutions](https://www.linkedin.com/jobs/view/4485611848/) — Franklin Templeton
+- 📍 **Location:** Stamford, CT
+- 🕒 **Posted:** 2026-10-30
+
+### [Software Engineer, Growth](https://www.linkedin.com/jobs/view/4414851039/) — Suno
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-10-30
 
-### [Quant Developer AKA Quantitative Software Engineer - Crypto Trading Firm](https://www.linkedin.com/jobs/view/4481635047/) — Skyrocket Ventures
-- 📍 **Location:** New York City Metropolitan Area
+### [Software Engineer, Platform Team](https://www.linkedin.com/jobs/view/4485606974/) — The Voleon Group
+- 📍 **Location:** Berkeley, CA
+- 💰 **Salary:** $235,000.00/yr - $300,000.00/yr
 - 🕒 **Posted:** 2026-10-30
 
-### [Junior Software Engineer](https://www.linkedin.com/jobs/view/4483471858/) — BeaconFire Inc.
-- 📍 **Location:** New York City Metropolitan Area
-- 💰 **Salary:** $62,000.00/yr - $80,000.00/yr
+### [Full Stack Engineer, Enterprise Engineering](https://www.linkedin.com/jobs/view/4473205605/) — Stripe
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-10-30
 
-### [Quant Developer / Quantitative Software Engineer - DeFi WealthTech Startup](https://www.linkedin.com/jobs/view/4462669108/) — Skyrocket Ventures
-- 📍 **Location:** New York City Metropolitan Area
+### [Software Engineer, Fullstack, Pro-Create](https://www.linkedin.com/jobs/view/4350607939/) — Suno
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-10-30
 
-### [AI/ML Engineer](https://www.linkedin.com/jobs/view/4483495787/) — Triunity Software, Inc.
+### [Java Software Engineer](https://www.linkedin.com/jobs/view/4483905507/) — Triunity Software, Inc.
 - 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-10-30
+
+### [Full-Stack Software Engineer - Ruby on Rails : 26-02584](https://www.linkedin.com/jobs/view/4484064166/) — Akraya, Inc.
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-10-30
+
+### [Wi-Fi Software engineer](https://www.linkedin.com/jobs/view/4485638217/) — 1ST-RECRUIT LLC, An E-Verified Company
+- 📍 **Location:** Palo Alto, CA
+- 🕒 **Posted:** 2026-10-30
+
+### [Machine Learning Engineer, Growth Platform](https://www.linkedin.com/jobs/view/4473017051/) — Stripe
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-10-30
+
+### [Test Infrastructure Engineer](https://www.linkedin.com/jobs/view/4485622755/) — Zoox
+- 📍 **Location:** Foster City, CA
+- 🕒 **Posted:** 2026-10-30
+
+### [Summer 2027 Internship Program – Software Engineering Intern](https://www.linkedin.com/jobs/view/4485631470/) — Dow Jones
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-10-30
+
+### [iOS Engineer](https://www.linkedin.com/jobs/view/4357589453/) — Suno
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-10-30
+
+### [Software Developer](https://www.linkedin.com/jobs/view/4485109427/) — S&P Global
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-10-30
+
+### [Software Engineer, Integrations](https://www.linkedin.com/jobs/view/4429709690/) — Scan.com
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-10-30
+
+### [Machine Learning Scientist](https://www.linkedin.com/jobs/view/4359826138/) — Suno
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-10-30
