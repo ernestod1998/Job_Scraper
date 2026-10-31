@@ -1,25 +1,68 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-10-31 17:19 UTC*
+*Last updated: 2026-10-31 18:19 UTC*
 
-**5 new role(s)** since last run · 26 total in last 1h
+**16 new role(s)** since last run · 17 total in last 1h
 
-### [Research Scientist Intern, Computer Vision - Video Intelligence (PhD)](https://www.linkedin.com/jobs/view/4483945724/) — Meta
-- 📍 **Location:** Menlo Park, CA
-- 🕒 **Posted:** 2026-10-31
-
-### [Software Engineer, Product](https://www.linkedin.com/jobs/view/4468686303/) — Sixfold
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-10-31
-
-### [AI Research Scientist, Language - Generative AI](https://www.linkedin.com/jobs/view/4483960055/) — Meta
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $154,000.00/yr - $217,000.00/yr
-- 🕒 **Posted:** 2026-10-31
-
-### [Data Scientist, Experimentation](https://www.linkedin.com/jobs/view/4430261118/) — FanDuel
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-10-31
-
-### [Backend Engineer - onsite](https://www.linkedin.com/jobs/view/4485154657/) — EliteGen Enterprise LLC
+### [AI Engineer 5 (AI Foundations: LLM Customization, Finetuning, Reinforcement Learning)](https://www.linkedin.com/jobs/view/4469545148/) — Capital One
 - 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-10-31
+
+### [AI Engineer 5 (AI Foundations: LLM Customization, Finetuning, Reinforcement Learning)](https://www.linkedin.com/jobs/view/4469540319/) — Capital One
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-10-31
+
+### [Data Scientist](https://www.linkedin.com/jobs/view/4483959140/) — Applied Materials
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-10-31
+
+### [Applied Scientist Intern, PhD (Summer 2027)](https://www.linkedin.com/jobs/view/4485157689/) — CHEManager International
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-10-31
+
+### [Software Engineer - Dashboards & Workflow Automation](https://www.linkedin.com/jobs/view/4458433707/) — HireArt
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-10-31
+
+### [AI Engineer 5 (MLX, Agentic AI, Gen AI platform Services)](https://www.linkedin.com/jobs/view/4469531997/) — Capital One
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-10-31
+
+### [AI Engineer 4 (MLX, Agentic AI, Gen AI platform Services)](https://www.linkedin.com/jobs/view/4469545145/) — Capital One
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-10-31
+
+### [AI Engineer 4 (MLX, Agentic AI, Gen AI platform Services)](https://www.linkedin.com/jobs/view/4469541325/) — Capital One
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-10-31
+
+### [AI Engineer 5 (Gen AI Platform Services - Agentic Systems)](https://www.linkedin.com/jobs/view/4469537406/) — Capital One
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-10-31
+
+### [Machine Learning Engineer, Search, Ads & Recommendations](https://www.linkedin.com/jobs/view/4477855686/) — Etsy
+- 📍 **Location:** Brooklyn, NY
+- 🕒 **Posted:** 2026-10-31
+
+### [AI Engineer 5 (MLX, Agentic AI, Gen AI platform Services)](https://www.linkedin.com/jobs/view/4469545149/) — Capital One
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-10-31
+
+### [Platform Engineer, Cloud Infrastructure](https://www.linkedin.com/jobs/view/4474086785/) — Wayve
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-10-31
+
+### [Backend Software Engineer, Airports](https://www.linkedin.com/jobs/view/4469277150/) — Lyft
+- 📍 **Location:** San Francisco County, CA
+- 🕒 **Posted:** 2026-10-31
+
+### [Software Engineer, Payment Interfaces](https://www.linkedin.com/jobs/view/4466931552/) — Square
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-10-31
+
+### [Software Engineer, CDP - Payment Acceptance](https://www.linkedin.com/jobs/view/4460519185/) — Coinbase
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-10-31
+
+### [2027 Summer Intern, Software Engineer, Bachelors Degree (Santa Clara)](https://www.linkedin.com/jobs/view/4483946734/) — Applied Materials
+- 📍 **Location:** Santa Clara, CA
 - 🕒 **Posted:** 2026-10-31
