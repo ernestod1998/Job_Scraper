@@ -1,71 +1,91 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-10-31 15:18 UTC*
+*Last updated: 2026-10-31 16:19 UTC*
 
-**16 new role(s)** since last run · 16 total in last 1h
+**21 new role(s)** since last run · 21 total in last 1h
 
-### [Machine Learning Software Engineer](https://www.linkedin.com/jobs/view/4474079954/) — Wayve
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-10-31
-
-### [Software Engineer, ML Developer Experience](https://www.linkedin.com/jobs/view/4457711947/) — Anyscale
+### [Research Engineer / Scientist, Reinforcement Learning](https://www.linkedin.com/jobs/view/4485153577/) — Harvey
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-10-31
 
-### [Robotics Engineer](https://www.linkedin.com/jobs/view/4449986205/) — Ludo Robotics
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-10-31
-
-### [[Summer 2027] Software Engineer Intern](https://www.linkedin.com/jobs/view/4449149254/) — Roblox
-- 📍 **Location:** San Mateo, CA
-- 🕒 **Posted:** 2026-10-31
-
-### [Software Engineer, Data Infrastructure](https://www.linkedin.com/jobs/view/4422341090/) — Otter.ai
-- 📍 **Location:** Mountain View, CA
-- 💰 **Salary:** $155,000.00/yr - $185,000.00/yr
-- 🕒 **Posted:** 2026-10-31
-
-### [Junior Software Engineer](https://www.linkedin.com/jobs/view/4483471858/) — BeaconFire Inc.
-- 📍 **Location:** New York City Metropolitan Area
-- 💰 **Salary:** $62,000.00/yr - $80,000.00/yr
-- 🕒 **Posted:** 2026-10-31
-
-### [Data Scientist, B2B Demand Generation, Growth & Measurement](https://www.linkedin.com/jobs/view/4450009091/) — OpenAI
+### [Research Engineer, Infrastructure](https://www.linkedin.com/jobs/view/4485161529/) — Harvey
 - 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $293,000.00/yr - $385,000.00/yr
 - 🕒 **Posted:** 2026-10-31
 
-### [Student Intern, AI / Data Science](https://www.linkedin.com/jobs/view/4468015714/) — Celestica
-- 📍 **Location:** San Jose, CA
+### [Computational Scientist](https://www.linkedin.com/jobs/view/4485698821/) — BEPC Inc. - Business Excellence Professional Consulting
+- 📍 **Location:** South San Francisco, CA
+- 💰 **Salary:** $48.00/hr - $52.88/hr
 - 🕒 **Posted:** 2026-10-31
 
-### [Software Engineer, ROS](https://www.linkedin.com/jobs/view/4476861689/) — Roblox
-- 📍 **Location:** San Mateo, CA
+### [Data Scientist](https://www.linkedin.com/jobs/view/4457737871/) — Picarro
+- 📍 **Location:** Santa Clara, CA
 - 🕒 **Posted:** 2026-10-31
 
-### [Digital Assets DevOps Engineering Associate](https://www.linkedin.com/jobs/view/4459894851/) — The Depository Trust & Clearing Corporation (DTCC)
+### [Software Engineer II, Data Analytics & Engineering](https://www.linkedin.com/jobs/view/4469512067/) — Pinterest
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-10-31
+
+### [Research Engineer / Scientist, Data & Evals](https://www.linkedin.com/jobs/view/4485160512/) — Harvey
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-10-31
+
+### [Software Engineer, New Grad (2027)](https://www.linkedin.com/jobs/view/4485151618/) — Harvey
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-10-31
+
+### [Data Scientist, Product](https://www.linkedin.com/jobs/view/4485174285/) — Harvey
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-10-31
+
+### [Data Science Intern](https://www.linkedin.com/jobs/view/4477887931/) — SageSure
 - 📍 **Location:** Jersey City, NJ
 - 🕒 **Posted:** 2026-10-31
 
-### [Software Engineer – Compliance Technology](https://www.linkedin.com/jobs/view/4468838051/) — TD
+### [Data Scientist Intern](https://www.linkedin.com/jobs/view/4478000251/) — SageSure
+- 📍 **Location:** Jersey City, NJ
+- 🕒 **Posted:** 2026-10-31
+
+### [Software Engineer](https://www.linkedin.com/jobs/view/4466622175/) — ECLARO
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $150,000.00/yr - $230,000.00/yr
+- 🕒 **Posted:** 2026-10-31
+
+### [Data Science Intern - Summer 2027](https://www.linkedin.com/jobs/view/4478000945/) — Greater New York Insurance Companies
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-10-31
 
-### [Backend Engineer](https://www.linkedin.com/jobs/view/4324478525/) — Wealthfront
+### [Full Stack Engineer 4 (AI Operations/MLX Group)](https://www.linkedin.com/jobs/view/4485915269/) — Capital One
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-10-31
+
+### [Site Reliability Engineer, Platform Infrastructure (Foundations)](https://www.linkedin.com/jobs/view/4427805755/) — Anyscale
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-10-31
 
-### [Software Engineer, Airspace Platform](https://www.linkedin.com/jobs/view/4459388972/) — Zipline
-- 📍 **Location:** South San Francisco, CA
+### [Software Engineer II, Developer Productivity](https://www.linkedin.com/jobs/view/4477890759/) — Ironclad
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-10-31
 
-### [Software Engineer II, Data Enablement Platform](https://www.linkedin.com/jobs/view/4432502990/) — Brex
+### [Software Engineer, Data Governance](https://www.linkedin.com/jobs/view/4457715277/) — Superhuman
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $220,000.00/yr - $290,000.00/yr
+- 🕒 **Posted:** 2026-10-31
+
+### [Full Stack Engineer 4](https://www.linkedin.com/jobs/view/4477895998/) — Capital One
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-10-31
 
-### [Software Engineer - Machine Learning](https://www.linkedin.com/jobs/view/4239984019/) — Figma
+### [Software Engineer Intern](https://www.linkedin.com/jobs/view/4477897342/) — SageSure
+- 📍 **Location:** Mountain View, CA
+- 🕒 **Posted:** 2026-10-31
+
+### [Software Engineer, Database Infra](https://www.linkedin.com/jobs/view/4485152585/) — Harvey
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-10-31
+
+### [Software Engineer II, Backend - Platform Team](https://www.linkedin.com/jobs/view/4485696426/) — Rippling
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-10-31
 
-### [Machine Learning Research Scientist, Evaluations](https://www.linkedin.com/jobs/view/4459634229/) — Scale
-- 📍 **Location:** New York City Metropolitan Area
+### [Software Engineer Intern](https://www.linkedin.com/jobs/view/4478004159/) — SageSure
+- 📍 **Location:** Jersey City, NJ
 - 🕒 **Posted:** 2026-10-31
