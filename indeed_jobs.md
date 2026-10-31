@@ -1,39 +1,48 @@
 # 🟦 Indeed — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-10-31 06:13 UTC*
+*Last updated: 2026-10-31 19:31 UTC*
 
-**7 new role(s)** since last run · 39 total in last 24h
+**9 new role(s)** since last run · 33 total in last 24h
 
-### [Data Scientist, Full Stack](https://www.indeed.com/viewjob?jk=d2a5605835fcd2ae) — IREN
+### [Machine Learning Engineer, Computer Vision](https://www.indeed.com/viewjob?jk=2326a0d9e3f72736) — Apple
+- 📍 **Location:** Cupertino, CA, USA
+- 💰 **Salary:** $150k–$278k/yr
+- 🕒 **Posted:** 2026-10-31
+
+### [Data Scientist , Music DISCO](https://www.indeed.com/viewjob?jk=404b28130b418cff) — Amazon.com
 - 📍 **Location:** San Francisco, CA, USA
-- 💰 **Salary:** $190k–$240k/yr
-- 🕒 **Posted:** 2026-10-30
+- 💰 **Salary:** $108k–$185k/yr
+- 🕒 **Posted:** 2026-10-31
 
-### [Software Engineer Embedded Firmware](https://www.indeed.com/viewjob?jk=e190de9721a54bd5) — Teradyne
+### [Applied Scientist II, AWS Quick](https://www.indeed.com/viewjob?jk=ca93f318f16d1eed) — Amazon Web Services
+- 📍 **Location:** Santa Clara, CA, USA
+- 💰 **Salary:** $172k–$222k/yr
+- 🕒 **Posted:** 2026-10-31
+
+### [Software Engineer III - Full Stack](https://www.indeed.com/viewjob?jk=13cf7d7236c16ca6) — JPMorganChase
+- 📍 **Location:** San Francisco, CA, USA
+- 💰 **Salary:** $138k–$185k/yr
+- 🕒 **Posted:** 2026-10-31
+
+### [Software Engineer III-ServiceNow](https://www.indeed.com/viewjob?jk=d2922d9f2833908c) — JPMorganChase
+- 📍 **Location:** San Francisco, CA, USA
+- 💰 **Salary:** $138k–$185k/yr
+- 🕒 **Posted:** 2026-10-31
+
+### [Cloud Software Engineer (San Jose, California)](https://www.indeed.com/viewjob?jk=80f7233b2de1c78a) — Hewlett Packard Enterprise | HPE
 - 📍 **Location:** San Jose, CA, USA
-- 💰 **Salary:** $146k–$234k/yr
-- 🕒 **Posted:** 2026-10-30
+- 💰 **Salary:** $143k–$290k/yr
+- 🕒 **Posted:** 2026-10-31
 
-### [Embedded Software Engineer, Leo Payload Radio](https://www.indeed.com/viewjob?jk=629cab3ed1dbfd18) — Amazon.com
-- 📍 **Location:** Sunnyvale, CA, USA
-- 💰 **Salary:** $144k–$194k/yr
-- 🕒 **Posted:** 2026-10-30
+### [System Software Engineer - Trusted Firmware](https://www.indeed.com/viewjob?jk=7d16738b0c1a42c8) — NVIDIA
+- 📍 **Location:** Santa Clara, CA, USA
+- 🕒 **Posted:** 2026-10-31
 
-### [Test Infrastructure Engineer](https://www.indeed.com/viewjob?jk=b7e592531da70e8d) — Zoox
-- 📍 **Location:** Foster City, CA, USA
-- 💰 **Salary:** $183k–$220k/yr
-- 🕒 **Posted:** 2026-10-30
-
-### [Software Engineer, AI/ML, Ads Quality](https://www.indeed.com/viewjob?jk=d38de7918f23f940) — Google
+### [Applied Scientist II, AWS Quick](https://www.indeed.com/viewjob?jk=5f5fb801ee85c344) — Amazon Web Services
 - 📍 **Location:** New York, NY, USA
-- 💰 **Salary:** $147k–$210k/yr
-- 🕒 **Posted:** 2026-10-30
+- 💰 **Salary:** $172k–$223k/yr
+- 🕒 **Posted:** 2026-10-31
 
-### [Java Developer, Software Engineering, Associate– Regulatory Reporting](https://www.indeed.com/viewjob?jk=de614240643581a4) — BlackRock
+### [AI Research Scientist, Language - Generative AI](https://www.indeed.com/viewjob?jk=7a03c309c9adedec) — Meta
 - 📍 **Location:** New York, NY, USA
-- 💰 **Salary:** $132k–$162k/yr
-- 🕒 **Posted:** 2026-10-30
-
-### [Machine Learning Engineer](https://www.indeed.com/viewjob?jk=b557dc7c3952458c) — S&P Global
-- 📍 **Location:** New York, NY, USA
-- 💰 **Salary:** $209k–$250k/yr
-- 🕒 **Posted:** 2026-10-30
+- 💰 **Salary:** $154k–$217k/yr
+- 🕒 **Posted:** 2026-10-31
