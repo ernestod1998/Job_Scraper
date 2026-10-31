@@ -1,6 +1,12 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-10-31 03:17 UTC*
+*Last updated: 2026-10-31 06:12 UTC*
 
-**0 new role(s)** since last run · 4 total in last 1h
+**2 new role(s)** since last run · 2 total in last 1h
 
-No new roles since the last run.
+### [Machine Learning Engineer, Maneuvering Tech](https://www.linkedin.com/jobs/view/4464598882/) — Waymo
+- 📍 **Location:** Mountain View, CA
+- 🕒 **Posted:** 2026-10-30
+
+### [Software Engineer, Fleet Mapping](https://www.linkedin.com/jobs/view/4485687003/) — ManpowerGroup
+- 📍 **Location:** Foster City, CA
+- 🕒 **Posted:** 2026-10-30
