@@ -1,12 +1,12 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-10-31 23:17 UTC*
+*Last updated: 2026-11-01 00:17 UTC*
 
-**2 new role(s)** since last run · 2 total in last 1h
+**2 new role(s)** since last run · 4 total in last 1h
 
-### [Applied Scientist II, AWS Quick](https://www.linkedin.com/jobs/view/4483954523/) — Amazon Science
-- 📍 **Location:** Santa Clara, CA
+### [Software Engineer, Workforce Operations](https://www.linkedin.com/jobs/view/4485167798/) — Assembled
+- 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-10-31
 
-### [Perception Engineering Intern](https://www.linkedin.com/jobs/view/4485173678/) — Cavalla
-- 📍 **Location:** San Francisco Bay Area
+### [Software Engineer, Workforce Operations](https://www.linkedin.com/jobs/view/4485170781/) — Assembled
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-10-31
