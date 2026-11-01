@@ -1,16 +1,28 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-11-01 09:38 UTC*
+*Last updated: 2026-11-01 16:17 UTC*
 
-**3 new role(s)** since last run · 3 total in last 1h
+**6 new role(s)** since last run · 6 total in last 1h
 
-### [Software Engineering AMTS (College Grad)](https://www.linkedin.com/jobs/view/4450623260/) — Salesforce
+### [AI Engineer 5 (MLX, Agentic AI, Gen AI platform Services)](https://www.linkedin.com/jobs/view/4469542280/) — Capital One
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-11-01
 
-### [Software Engineer, Visualization Tools | DoorDash Labs](https://www.linkedin.com/jobs/view/4466903202/) — DoorDash
-- 📍 **Location:** San Francisco, CA
+### [Machine Learning Engineer, Causal Inference, Level 5](https://www.linkedin.com/jobs/view/4460545141/) — Snap Inc.
+- 📍 **Location:** Palo Alto, CA
 - 🕒 **Posted:** 2026-11-01
 
-### [Associate, Digital Finance Transformation - Data Scientist - Private Equity Performance Improvement (OPEN TO ALL US LOCATIONS)](https://www.linkedin.com/jobs/view/4440991416/) — Alvarez & Marsal
+### [AI/Machine Learning Engineer](https://www.linkedin.com/jobs/view/4449774021/) — Fordham University
 - 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-11-01
+
+### [Software Engineer, Seller Growth](https://www.linkedin.com/jobs/view/4441158691/) — Whatnot
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-11-01
+
+### [Applied Scientist, PXT Central Science](https://www.linkedin.com/jobs/view/4460135417/) — Amazon
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-11-01
+
+### [Software Engineer, Data Infrastructure](https://www.linkedin.com/jobs/view/4414757872/) — Cohere
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-11-01
