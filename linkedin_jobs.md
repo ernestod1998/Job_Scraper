@@ -1,158 +1,85 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-11-02 18:19 UTC*
+*Last updated: 2026-11-02 19:19 UTC*
 
-**36 new role(s)** since last run · 48 total in last 1h
+**19 new role(s)** since last run · 44 total in last 1h
 
-### [Software Engineer](https://www.linkedin.com/jobs/view/4484857394/) — Aquent
-- 📍 **Location:** San Francisco Bay Area
-- 💰 **Salary:** $91.89/hr - $102.10/hr
+### [Full-Stack Engineer](https://www.linkedin.com/jobs/view/4486424736/) — MeeBoss
+- 📍 **Location:** Redwood City, CA
 - 🕒 **Posted:** 2026-11-02
 
-### [AI Research Scientist | Machine Learning | Deep Learning |Natural Language Processing | LLM | Hybrid | San Jose, CA](https://www.linkedin.com/jobs/view/4485751485/) — Enigma
+### [Machine Learning Engineer](https://www.linkedin.com/jobs/view/4484381813/) — Rise Technical
+- 📍 **Location:** Berkeley, CA
+- 💰 **Salary:** $150,000.00/yr - $200,000.00/yr
+- 🕒 **Posted:** 2026-11-02
+
+### [Software Engineer - Fleet Mapping](https://www.linkedin.com/jobs/view/4486427311/) — Kforce Inc
+- 📍 **Location:** San Mateo, CA
+- 💰 **Salary:** $80.00/hr - $85.00/hr
+- 🕒 **Posted:** 2026-11-02
+
+### [Systems Engineer / Site Reliability Engineer (SRE)](https://www.linkedin.com/jobs/view/4485767503/) — Bellatrix Systems LLC
 - 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-11-02
 
-### [Data Scientist - Agentic AI / ML](https://www.linkedin.com/jobs/view/4484384357/) — Applied Materials
-- 📍 **Location:** Santa Clara, CA
+### [Software Engineer - Data Agent & Agentic Search](https://www.linkedin.com/jobs/view/4485755757/) — ByteDance
+- 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-11-02
 
-### [AI Materials Research Engineer](https://www.linkedin.com/jobs/view/4484383415/) — Applied Materials
-- 📍 **Location:** Santa Clara, CA
+### [Data Scientist V-6355](https://www.linkedin.com/jobs/view/4483130550/) — itD
+- 📍 **Location:** Menlo Park, CA
 - 🕒 **Posted:** 2026-11-02
 
-### [Physics AI Scientist III](https://www.linkedin.com/jobs/view/4484391146/) — Applied Materials
-- 📍 **Location:** Santa Clara, CA
+### [Prompt Engineer / Enterprise AI Context Engineer](https://www.linkedin.com/jobs/view/4485763554/) — Appzlogic
+- 📍 **Location:** Mountain View, CA
 - 🕒 **Posted:** 2026-11-02
 
-### [Data Scientist](https://www.linkedin.com/jobs/view/4484386326/) — Applied Materials
-- 📍 **Location:** Santa Clara, CA
+### [Backend Engineer](https://www.linkedin.com/jobs/view/4486443018/) — Silo Markets
+- 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-11-02
 
-### [Software Engineer](https://www.linkedin.com/jobs/view/4484382419/) — Applied Materials
-- 📍 **Location:** Santa Clara, CA
+### [Java Software Engineer](https://www.linkedin.com/jobs/view/4486432608/) — BCforward
+- 📍 **Location:** Manhattan, NY
 - 🕒 **Posted:** 2026-11-02
 
-### [Summer 2027 Data Scientist Intern - Master's (Santa Clara, CA)](https://www.linkedin.com/jobs/view/4484385343/) — Applied Materials
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-11-02
-
-### [Software Engineer](https://www.linkedin.com/jobs/view/4484377653/) — Applied Materials
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-11-02
-
-### [Software Engineer](https://www.linkedin.com/jobs/view/4486411779/) — Expo Experts
+### [Software Engineer](https://www.linkedin.com/jobs/view/3811924406/) — StreetID
 - 📍 **Location:** New York City Metropolitan Area
 - 🕒 **Posted:** 2026-11-02
 
-### [Junior Software Engineer](https://www.linkedin.com/jobs/view/4483471858/) — BeaconFire Inc.
+### [Software Engineer, Developer Experience](https://www.linkedin.com/jobs/view/4485752724/) — Recruiting from Scratch
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-11-02
+
+### [Machine Learning Engineer Internship — Generative Modeling](https://www.linkedin.com/jobs/view/4485763430/) — BehaviorAI
 - 📍 **Location:** New York City Metropolitan Area
-- 💰 **Salary:** $62,000.00/yr - $80,000.00/yr
 - 🕒 **Posted:** 2026-11-02
 
-### [Software Engineer, Infranomics](https://www.linkedin.com/jobs/view/4485755287/) — OpenAI
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $385,000.00/yr - $445,000.00/yr
-- 🕒 **Posted:** 2026-11-02
-
-### [Summer 2027 Data Science Intern- Bachelor's/Master's (Santa Clara, CA)](https://www.linkedin.com/jobs/view/4484381502/) — Applied Materials
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-11-02
-
-### [Site Reliability Engineer I - Paze](https://www.linkedin.com/jobs/view/4486415469/) — Early Warning
+### [Associate, Full Stack Engineer - SMA Solutions](https://www.linkedin.com/jobs/view/4460899357/) — BlackRock
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-11-02
 
-### [Cloud Infrastructure Engineer](https://www.linkedin.com/jobs/view/4485614763/) — COGENT Infotech
-- 📍 **Location:** White Plains, NY
-- 💰 **Salary:** $60.00/hr - $65.00/hr
+### [Software Engineer - Search & Vector Database Infrastructure](https://www.linkedin.com/jobs/view/4485762623/) — ByteDance
+- 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-11-02
 
-### [Software Engineer, Resilience Engineering](https://www.linkedin.com/jobs/view/4485748855/) — OpenAI
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $230,000.00/yr - $490,000.00/yr
-- 🕒 **Posted:** 2026-11-02
-
-### [Software Engineer](https://www.linkedin.com/jobs/view/4486401925/) — Cisco
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-11-02
-
-### [Software Engineer](https://www.linkedin.com/jobs/view/4486413742/) — Kaleidoscope Innovation
-- 📍 **Location:** Cupertino, CA
-- 💰 **Salary:** $120,000.00/yr - $140,000.00/yr
-- 🕒 **Posted:** 2026-11-02
-
-### [C++ Software Engineer](https://www.linkedin.com/jobs/view/4484380653/) — Avinyaa Technologies, LLC.
+### [Software Engineer – Emulation and Automated Test](https://www.linkedin.com/jobs/view/4486429386/) — Intuitive
 - 📍 **Location:** Sunnyvale, CA
-- 💰 **Salary:** $140.00/yr - $170.00/yr
+- 💰 **Salary:** $134,600.00/yr - $227,700.00/yr
 - 🕒 **Posted:** 2026-11-02
 
-### [Infrastructure Engineer Developer (Linux, Hardware Automation & GPU Platforms)](https://www.linkedin.com/jobs/view/4485772089/) — Centraprise
-- 📍 **Location:** San Jose, CA
+### [Data Science Intern](https://www.linkedin.com/jobs/view/4486444041/) — Intuitive
+- 📍 **Location:** Sunnyvale, CA
 - 🕒 **Posted:** 2026-11-02
 
-### [C, C++ Software Engineer II](https://www.linkedin.com/jobs/view/4484377656/) — Applied Materials
-- 📍 **Location:** Santa Clara, CA
+### [Computer Vision Engineer](https://www.linkedin.com/jobs/view/4473516968/) — Brahma Consulting Group
+- 📍 **Location:** San Francisco Bay Area
+- 💰 **Salary:** $200,000.00/yr - $250,000.00/yr
 - 🕒 **Posted:** 2026-11-02
 
-### [Software Engineer III](https://www.linkedin.com/jobs/view/4484382427/) — Applied Materials
-- 📍 **Location:** Santa Clara, CA
+### [Early Careers: Embedded Software Developer](https://www.linkedin.com/jobs/view/4486421611/) — Fortinet
+- 📍 **Location:** Sunnyvale, CA
 - 🕒 **Posted:** 2026-11-02
 
-### [Software Engineering Summer Intern (Masters - Santa Clara, CA)](https://www.linkedin.com/jobs/view/4484370992/) — Applied Materials
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-11-02
-
-### [2027 Software Engineering Intern (Masters - Santa Clara, CA)](https://www.linkedin.com/jobs/view/4484380544/) — Applied Materials
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-11-02
-
-### [2027 Summer Intern, Software Engineer, Bachelors Degree (Santa Clara)](https://www.linkedin.com/jobs/view/4484371925/) — Applied Materials
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-11-02
-
-### [Software Engineer - New Grad](https://www.linkedin.com/jobs/view/4475740088/) — Chalk
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-11-02
-
-### [Full Stack Software Engineer](https://www.linkedin.com/jobs/view/4371575959/) — Cape
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-11-02
-
-### [Software Engineer](https://www.linkedin.com/jobs/view/4465241386/) — Chalk
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $170,000.00/yr - $280,000.00/yr
-- 🕒 **Posted:** 2026-11-02
-
-### [Full Stack Software Engineer](https://www.linkedin.com/jobs/view/4484373624/) — Alldus
-- 📍 **Location:** New York City Metropolitan Area
-- 💰 **Salary:** $180,000.00/yr - $230,000.00/yr
-- 🕒 **Posted:** 2026-11-02
-
-### [C++ Software Engineer](https://www.linkedin.com/jobs/view/4485746712/) — Fintal Partners
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $400,000.00/yr - $1,000,000.00/yr
-- 🕒 **Posted:** 2026-11-02
-
-### [Software Developer](https://www.linkedin.com/jobs/view/4486406531/) — IDR, Inc.
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-11-02
-
-### [Quantitative Research Engineer – PhD Graduate (US)](https://www.linkedin.com/jobs/view/4439270353/) — Citadel Securities
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-11-02
-
-### [Quantitative Research Engineer – PhD Graduate (US)](https://www.linkedin.com/jobs/view/4439279059/) — Citadel
-- 📍 **Location:** New York City Metropolitan Area
-- 🕒 **Posted:** 2026-11-02
-
-### [Quantitative Research Engineer – PhD Intern (US)](https://www.linkedin.com/jobs/view/4439266339/) — Citadel
-- 📍 **Location:** New York City Metropolitan Area
-- 🕒 **Posted:** 2026-11-02
-
-### [Windows Site Reliability Engineer Only W2](https://www.linkedin.com/jobs/view/4486408512/) — Saransh Inc
-- 📍 **Location:** Jersey City, NJ
-- 🕒 **Posted:** 2026-11-02
-
-### [Data Science Intern - Summer 2027](https://www.linkedin.com/jobs/view/4478000945/) — Greater New York Insurance Companies
-- 📍 **Location:** New York, NY
+### [Embedded Software Engineer](https://www.linkedin.com/jobs/view/4479552807/) — Strativ Group
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $200,000.00/yr - $300,000.00/yr
 - 🕒 **Posted:** 2026-11-02
