@@ -1,80 +1,68 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-11-02 16:19 UTC*
+*Last updated: 2026-11-02 17:19 UTC*
 
-**18 new role(s)** since last run · 18 total in last 1h
+**15 new role(s)** since last run · 33 total in last 1h
 
-### [Computational Scientist](https://www.linkedin.com/jobs/view/4486194241/) — Russell Tobin
-- 📍 **Location:** South San Francisco, CA
-- 💰 **Salary:** $50.00/hr - $54.50/hr
-- 🕒 **Posted:** 2026-11-02
-
-### [Computational Scientist - Deep Learning & Computational Biology](https://www.linkedin.com/jobs/view/4484360908/) — Rose International
+### [Computational Scientist](https://www.linkedin.com/jobs/view/4484377283/) — Planet Pharma
 - 📍 **Location:** South San Francisco, CA
 - 🕒 **Posted:** 2026-11-02
 
-### [MLOps Developer / Engineer](https://www.linkedin.com/jobs/view/4485746226/) — COVET IT INC
+### [Computational Scientist](https://www.linkedin.com/jobs/view/4486199813/) — Sharp Decisions
+- 📍 **Location:** South San Francisco, CA
+- 🕒 **Posted:** 2026-11-02
+
+### [Machine Learning Engineer](https://www.linkedin.com/jobs/view/4486410380/) — SPECTRAFORCE
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-11-02
 
-### [Data Scientist](https://www.linkedin.com/jobs/view/4484367749/) — Jerry
+### [Machine Learning Engineer, Speech LLMs](https://www.linkedin.com/jobs/view/4486412225/) — DeepRec.ai
 - 📍 **Location:** San Francisco Bay Area
+- 💰 **Salary:** $200,000.00/yr - $300,000.00/yr
 - 🕒 **Posted:** 2026-11-02
 
-### [Associate Data Scientist](https://www.linkedin.com/jobs/view/4484361867/) — Jerry
+### [Full Stack Engineer](https://www.linkedin.com/jobs/view/4486198488/) — Ciridae
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-11-02
+
+### [Software Developer - JAVA 4](https://www.linkedin.com/jobs/view/4485733975/) — Cypress HCM
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-11-02
+
+### [Full Stack Engineer](https://www.linkedin.com/jobs/view/4486198487/) — Ciridae
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-11-02
+
+### [Full Stack Engineer](https://www.linkedin.com/jobs/view/4484113148/) — Mainz Brady Group
 - 📍 **Location:** San Francisco Bay Area
+- 💰 **Salary:** $70.00/hr - $80.00/hr
 - 🕒 **Posted:** 2026-11-02
 
-### [AI/LLM Engineer  : NYC , United States (Hybrid) :  FTE](https://www.linkedin.com/jobs/view/4485732409/) — AceStack
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $120.00/yr - $135.00/yr
+### [Full Stack Software Engineer](https://www.linkedin.com/jobs/view/4475260915/) — Chalk
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $170,000.00/yr - $280,000.00/yr
 - 🕒 **Posted:** 2026-11-02
 
-### [Data Scientist](https://www.linkedin.com/jobs/view/4484382038/) — Jerry
-- 📍 **Location:** New York, NY
+### [Software Engineer](https://www.linkedin.com/jobs/view/4486199568/) — Mintive
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-11-02
 
-### [Associate Data Scientist](https://www.linkedin.com/jobs/view/4484367726/) — Jerry
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-11-02
-
-### [Software Engineer, Data Infrastructure](https://www.linkedin.com/jobs/view/4414761530/) — Cohere
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-11-02
-
-### [Software Engineer](https://www.linkedin.com/jobs/view/4482210559/) — Albert Bow
-- 📍 **Location:** New York City Metropolitan Area
-- 🕒 **Posted:** 2026-11-02
-
-### [Software Engineer, Data Developer Platform](https://www.linkedin.com/jobs/view/4441139292/) — Whatnot
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $200,000.00/yr - $275,000.00/yr
-- 🕒 **Posted:** 2026-11-02
-
-### [Java Software Engineer](https://www.linkedin.com/jobs/view/4485741280/) — Marlabs
-- 📍 **Location:** Englewood Cliffs, NJ
-- 🕒 **Posted:** 2026-11-02
-
-### [Software Engineer, Core Product](https://www.linkedin.com/jobs/view/4310532920/) — Character.ai
-- 📍 **Location:** Redwood City, CA
-- 🕒 **Posted:** 2026-11-02
-
-### [Software Engineer (Cloud Platforms)](https://www.linkedin.com/jobs/view/4484378066/) — Medilinkers LLC
+### [Software Engineer](https://www.linkedin.com/jobs/view/4486401535/) — Mintive
 - 📍 **Location:** San Mateo, CA
 - 🕒 **Posted:** 2026-11-02
 
-### [Full Stack Engineer](https://www.linkedin.com/jobs/view/4483662078/) — Photon
-- 📍 **Location:** Sunnyvale, CA
+### [Software Engineer](https://www.linkedin.com/jobs/view/4476507072/) — Hedge Fund
+- 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-11-02
 
-### [Embedded Software Engineer 5 - Newark, CA - Onsite](https://www.linkedin.com/jobs/view/4481002252/) — Dew Software
-- 📍 **Location:** Newark, CA
-- 💰 **Salary:** $80.00/hr - $90.00/hr
+### [DevOps Engineer](https://www.linkedin.com/jobs/view/4485751293/) — Theoris
+- 📍 **Location:** Berkeley Heights, NJ
 - 🕒 **Posted:** 2026-11-02
 
-### [Site Reliability Engineer](https://www.linkedin.com/jobs/view/4483647499/) — Photon
-- 📍 **Location:** Sunnyvale, CA
+### [Software Engineer (Python & AI Solutions)](https://www.linkedin.com/jobs/view/4486409467/) — The Depository Trust & Clearing Corporation (DTCC)
+- 📍 **Location:** Jersey City, NJ
 - 🕒 **Posted:** 2026-11-02
 
-### [Java Backend Developer](https://www.linkedin.com/jobs/view/4486192605/) — Siri InfoSolutions, Inc.
-- 📍 **Location:** Rutherford, NJ
+### [Software Engineer - New Grad](https://www.linkedin.com/jobs/view/4474479777/) — Chalk
+- 📍 **Location:** New York City Metropolitan Area
+- 💰 **Salary:** $170,000.00/yr - $180,000.00/yr
 - 🕒 **Posted:** 2026-11-02
