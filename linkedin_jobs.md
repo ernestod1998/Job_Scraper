@@ -1,92 +1,80 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-11-02 06:42 UTC*
+*Last updated: 2026-11-02 16:19 UTC*
 
-**20 new role(s)** since last run · 20 total in last 1h
+**18 new role(s)** since last run · 18 total in last 1h
 
-### [AI/ML Engineer](https://www.linkedin.com/jobs/view/4484316532/) — Stealth Startup
+### [Computational Scientist](https://www.linkedin.com/jobs/view/4486194241/) — Russell Tobin
+- 📍 **Location:** South San Francisco, CA
+- 💰 **Salary:** $50.00/hr - $54.50/hr
+- 🕒 **Posted:** 2026-11-02
+
+### [Computational Scientist - Deep Learning & Computational Biology](https://www.linkedin.com/jobs/view/4484360908/) — Rose International
+- 📍 **Location:** South San Francisco, CA
+- 🕒 **Posted:** 2026-11-02
+
+### [MLOps Developer / Engineer](https://www.linkedin.com/jobs/view/4485746226/) — COVET IT INC
 - 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-11-01
+- 🕒 **Posted:** 2026-11-02
 
-### [Full Stack Engineer](https://www.linkedin.com/jobs/view/4486131174/) — AfterQuery Experts
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-11-01
-
-### [Frontend Engineer](https://www.linkedin.com/jobs/view/4486124399/) — AfterQuery Experts
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-11-01
-
-### [Bioinformatics Engineer](https://www.linkedin.com/jobs/view/4485444660/) — Abstract Bio
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-11-01
-
-### [Software Engineer](https://www.linkedin.com/jobs/view/4484308698/) — Applied Materials
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-11-01
-
-### [Backend Engineer](https://www.linkedin.com/jobs/view/4486119614/) — AfterQuery Experts
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $50.00/hr - $100.00/hr
-- 🕒 **Posted:** 2026-11-01
-
-### [Software Engineer](https://www.linkedin.com/jobs/view/4486127327/) — AfterQuery Experts
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-11-01
-
-### [Software Developer](https://www.linkedin.com/jobs/view/4486130185/) — AfterQuery Experts
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $50.00/hr - $100.00/hr
-- 🕒 **Posted:** 2026-11-01
-
-### [Software Engineer, Bachelors Degree, New College Grad (Santa Clara)](https://www.linkedin.com/jobs/view/4478905533/) — Applied Materials
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-11-01
-
-### [Software Engineer IV (E4)](https://www.linkedin.com/jobs/view/4480054769/) — Applied Materials
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-11-01
-
-### [Software Engineer](https://www.linkedin.com/jobs/view/4477770320/) — Applied Materials
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-11-01
-
-### [Machine Learning Engineer - Lendscore](https://www.linkedin.com/jobs/view/4486127363/) — Plaid
-- 📍 **Location:** New York City Metropolitan Area
-- 💰 **Salary:** $211,680.00/yr - $272,160.00/yr
-- 🕒 **Posted:** 2026-11-01
-
-### [Data Scientist - Credit (Retros)](https://www.linkedin.com/jobs/view/4486116958/) — Plaid
-- 📍 **Location:** New York City Metropolitan Area
-- 🕒 **Posted:** 2026-11-01
-
-### [Full Stack Engineer](https://www.linkedin.com/jobs/view/4486121596/) — AfterQuery Experts
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $50.00/hr - $100.00/hr
-- 🕒 **Posted:** 2026-11-01
-
-### [Backend Engineer](https://www.linkedin.com/jobs/view/4486129239/) — AfterQuery Experts
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $50.00/hr - $100.00/hr
-- 🕒 **Posted:** 2026-11-01
-
-### [Frontend Engineer](https://www.linkedin.com/jobs/view/4486137030/) — AfterQuery Experts
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $50.00/hr - $100.00/hr
-- 🕒 **Posted:** 2026-11-01
-
-### [Software Developer](https://www.linkedin.com/jobs/view/4486118666/) — AfterQuery Experts
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $50.00/hr - $100.00/hr
-- 🕒 **Posted:** 2026-11-01
-
-### [AI Infra Software Engineer](https://www.linkedin.com/jobs/view/4486123447/) — KI people
+### [Data Scientist](https://www.linkedin.com/jobs/view/4484367749/) — Jerry
 - 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-11-01
+- 🕒 **Posted:** 2026-11-02
 
-### [C, C++ Software Engineer II](https://www.linkedin.com/jobs/view/4484325027/) — Applied Materials
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-11-01
+### [Associate Data Scientist](https://www.linkedin.com/jobs/view/4484361867/) — Jerry
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-11-02
 
-### [Software Engineer](https://www.linkedin.com/jobs/view/4486137032/) — AfterQuery Experts
+### [AI/LLM Engineer  : NYC , United States (Hybrid) :  FTE](https://www.linkedin.com/jobs/view/4485732409/) — AceStack
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $50.00/hr - $100.00/hr
-- 🕒 **Posted:** 2026-11-01
+- 💰 **Salary:** $120.00/yr - $135.00/yr
+- 🕒 **Posted:** 2026-11-02
+
+### [Data Scientist](https://www.linkedin.com/jobs/view/4484382038/) — Jerry
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-11-02
+
+### [Associate Data Scientist](https://www.linkedin.com/jobs/view/4484367726/) — Jerry
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-11-02
+
+### [Software Engineer, Data Infrastructure](https://www.linkedin.com/jobs/view/4414761530/) — Cohere
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-11-02
+
+### [Software Engineer](https://www.linkedin.com/jobs/view/4482210559/) — Albert Bow
+- 📍 **Location:** New York City Metropolitan Area
+- 🕒 **Posted:** 2026-11-02
+
+### [Software Engineer, Data Developer Platform](https://www.linkedin.com/jobs/view/4441139292/) — Whatnot
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $200,000.00/yr - $275,000.00/yr
+- 🕒 **Posted:** 2026-11-02
+
+### [Java Software Engineer](https://www.linkedin.com/jobs/view/4485741280/) — Marlabs
+- 📍 **Location:** Englewood Cliffs, NJ
+- 🕒 **Posted:** 2026-11-02
+
+### [Software Engineer, Core Product](https://www.linkedin.com/jobs/view/4310532920/) — Character.ai
+- 📍 **Location:** Redwood City, CA
+- 🕒 **Posted:** 2026-11-02
+
+### [Software Engineer (Cloud Platforms)](https://www.linkedin.com/jobs/view/4484378066/) — Medilinkers LLC
+- 📍 **Location:** San Mateo, CA
+- 🕒 **Posted:** 2026-11-02
+
+### [Full Stack Engineer](https://www.linkedin.com/jobs/view/4483662078/) — Photon
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-11-02
+
+### [Embedded Software Engineer 5 - Newark, CA - Onsite](https://www.linkedin.com/jobs/view/4481002252/) — Dew Software
+- 📍 **Location:** Newark, CA
+- 💰 **Salary:** $80.00/hr - $90.00/hr
+- 🕒 **Posted:** 2026-11-02
+
+### [Site Reliability Engineer](https://www.linkedin.com/jobs/view/4483647499/) — Photon
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-11-02
+
+### [Java Backend Developer](https://www.linkedin.com/jobs/view/4486192605/) — Siri InfoSolutions, Inc.
+- 📍 **Location:** Rutherford, NJ
+- 🕒 **Posted:** 2026-11-02
