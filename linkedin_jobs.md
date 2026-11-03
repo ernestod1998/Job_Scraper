@@ -1,73 +1,110 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-11-03 19:20 UTC*
+*Last updated: 2026-11-03 20:19 UTC*
 
-**16 new role(s)** since last run · 51 total in last 1h
+**25 new role(s)** since last run · 47 total in last 1h
 
-### [Machine Learning Engineer](https://www.linkedin.com/jobs/view/4486077784/) — Gotion Inc.
-- 📍 **Location:** Fremont, CA
-- 💰 **Salary:** $110,000.00/yr - $135,000.00/yr
+### [Computer Vision Research Engineer](https://www.linkedin.com/jobs/view/4485019152/) — Acceler8 Talent
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $180,000.00/yr - $220,000.00/yr
 - 🕒 **Posted:** 2026-11-03
 
-### [Applied Scientist, AGI](https://www.linkedin.com/jobs/view/4487038055/) — Amazon
-- 📍 **Location:** Sunnyvale, CA
+### [Robotics Software Researcher - Reinforcement Learning & Embodied AI](https://www.linkedin.com/jobs/view/4485007652/) — Acceler8 Talent
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $180,000.00/yr - $220,000.00/yr
 - 🕒 **Posted:** 2026-11-03
 
-### [Computational Scientist - Regev Lab, gRED (Contract role)](https://www.linkedin.com/jobs/view/4487045191/) — IT Engagements, Inc.
-- 📍 **Location:** South San Francisco, CA
+### [Software Engineer II](https://www.linkedin.com/jobs/view/4487041581/) — Samsara
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-11-03
 
-### [Software Engineer – AI/ML Systems](https://www.linkedin.com/jobs/view/4485010582/) — Cogniify
-- 📍 **Location:** Santa Clara, CA
+### [Data Scientist, Marketing](https://www.linkedin.com/jobs/view/4486091445/) — Wealthfront
+- 📍 **Location:** Palo Alto, CA
 - 🕒 **Posted:** 2026-11-03
 
-### [Machine Learning Engineer, Data Mining (Ads Core)](https://www.linkedin.com/jobs/view/4486089382/) — TikTok
+### [Data Scientist, Marketing](https://www.linkedin.com/jobs/view/4486079691/) — Wealthfront
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-11-03
+
+### [Full Stack Engineer [84543]](https://www.linkedin.com/jobs/view/4485002955/) — Onward Search
+- 📍 **Location:** Brooklyn, NY
+- 💰 **Salary:** $62.00/hr - $67.00/hr
+- 🕒 **Posted:** 2026-11-03
+
+### [Data Scientist, Marketing](https://www.linkedin.com/jobs/view/4486078767/) — Wealthfront
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-11-03
+
+### [Software Engineer (Backend)](https://www.linkedin.com/jobs/view/4487038524/) — Peak Energy
+- 📍 **Location:** Burlingame, CA
+- 🕒 **Posted:** 2026-11-03
+
+### [Software Engineer (Backend)](https://www.linkedin.com/jobs/view/4487046211/) — Peak Energy
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-11-03
+
+### [Software Engineer](https://www.linkedin.com/jobs/view/4486079754/) — ProSomnus® Sleep Technologies
+- 📍 **Location:** Pleasanton, CA
+- 🕒 **Posted:** 2026-11-03
+
+### [DevOps Engineer Backend](https://www.linkedin.com/jobs/view/4478627737/) — Air Apps
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-11-03
+
+### [DevOps Engineer](https://www.linkedin.com/jobs/view/4476089961/) — Air Apps
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-11-03
+
+### [DevOps Engineer](https://www.linkedin.com/jobs/view/4487035486/) — Peak Energy
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-11-03
+
+### [DevOps Engineer](https://www.linkedin.com/jobs/view/4487036553/) — Peak Energy
 - 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-11-03
 
-### [Front-end Engineer 4](https://www.linkedin.com/jobs/view/4470435792/) — Capital One
-- 📍 **Location:** New York, NY
+### [DevOps Engineer Mobile](https://www.linkedin.com/jobs/view/4481484454/) — Air Apps
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-11-03
 
-### [Forward Deployed Software Engineer](https://www.linkedin.com/jobs/view/4487030466/) — Glocomms
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $200,000.00/yr - $200,000.00/yr
-- 🕒 **Posted:** 2026-11-03
-
-### [Backend Software Engineer -Core Java](https://www.linkedin.com/jobs/view/4487029697/) — Korn Ferry
+### [DevOps Consultant](https://www.linkedin.com/jobs/view/4486085631/) — Clevanoo LLC
 - 📍 **Location:** Jersey City, NJ
-- 💰 **Salary:** $60.00/hr - $68.00/hr
 - 🕒 **Posted:** 2026-11-03
 
-### [Associate Software Engineer (New Grad)](https://www.linkedin.com/jobs/view/4468020578/) — Study.com
-- 📍 **Location:** Mountain View, CA
+### [Embedded Software Engineer](https://www.linkedin.com/jobs/view/4479552807/) — Strativ Group
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $200,000.00/yr - $300,000.00/yr
 - 🕒 **Posted:** 2026-11-03
 
-### [Software Engineer(Java,Mercurial Guice experience)](https://www.linkedin.com/jobs/view/4484691011/) — PDSSOFT INC.
-- 📍 **Location:** Mountain View, CA
+### [Software Engineer 2 - Java/Spring Boot Backend](https://www.linkedin.com/jobs/view/4487052047/) — Bartech Staffing
+- 📍 **Location:** Palo Alto, CA
+- 💰 **Salary:** $55.00/hr - $60.00/hr
 - 🕒 **Posted:** 2026-11-03
 
-### [Software Engineer, AI & Automation - Systematic Hedge Fund - $400k+](https://www.linkedin.com/jobs/view/4417664178/) — Saragossa
+### [Cloud Engineer](https://www.linkedin.com/jobs/view/4485009839/) — Ascii Group, LLC
 - 📍 **Location:** New York City Metropolitan Area
-- 💰 **Salary:** $300,000.00/yr - $400,000.00/yr
 - 🕒 **Posted:** 2026-11-03
 
-### [Full-Stack Software Engineer | Hedge Fund (0362FFC)](https://www.linkedin.com/jobs/view/4487033380/) — Referment
+### [Software Developer (3B4633C)](https://www.linkedin.com/jobs/view/4487018989/) — Referment
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $274,930.00/yr - $325,000.00/yr
+- 💰 **Salary:** $275,000.00/yr - $275,000.00/yr
 - 🕒 **Posted:** 2026-11-03
 
-### [Full-Stack Software Engineer - Ruby on Rails : 26-02584](https://www.linkedin.com/jobs/view/4484064166/) — Akraya, Inc.
+### [Software Engineer, Ads Infra - Serving and Foundation](https://www.linkedin.com/jobs/view/4486093334/) — TikTok
 - 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-11-03
 
-### [Robotics Software Engineer, DC Robotics](https://www.linkedin.com/jobs/view/4487038285/) — Amazon Web Services (AWS)
-- 📍 **Location:** Santa Clara, CA
+### [Software Engineer - AI (Level determined by experience)](https://www.linkedin.com/jobs/view/4449019531/) — Synack
+- 📍 **Location:** San Mateo, CA
 - 🕒 **Posted:** 2026-11-03
 
-### [Full Stack Engineer 4- People Tech- GenAI & Agentic Systems (LangChain, LangGraph)](https://www.linkedin.com/jobs/view/4470448207/) — Capital One
+### [DevOps Engineer](https://www.linkedin.com/jobs/view/4485794749/) — CORTEX
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-11-03
+
+### [Robotics Software Engineer, DC Robotics](https://www.linkedin.com/jobs/view/4487044083/) — Amazon Web Services (AWS)
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-11-03
+
+### [Battery Management System (BMS) software Engineer](https://www.linkedin.com/jobs/view/4411514420/) — Lyten
 - 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-11-03
-
-### [Site Reliability Engineer](https://www.linkedin.com/jobs/view/4487039282/) — Ziff Davis
-- 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-11-03
