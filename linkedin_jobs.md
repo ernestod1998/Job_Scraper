@@ -1,12 +1,18 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-11-04 02:17 UTC*
+*Last updated: 2026-11-04 03:17 UTC*
 
-**2 new role(s)** since last run · 4 total in last 1h
+**3 new role(s)** since last run · 5 total in last 1h
 
-### [Software Engineer, App Ads Bidding and Optimization](https://www.linkedin.com/jobs/view/4486312944/) — Google
-- 📍 **Location:** Mountain View, CA
+### [Applied Scientist, Amazon Books Ads](https://www.linkedin.com/jobs/view/4487062366/) — Amazon
+- 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-11-03
 
-### [Product Data Scientist - (Product Analytics, Payments / E-Commerce) - Only W2 Contract](https://www.linkedin.com/jobs/view/4486312984/) — Xforia Global Talent & Technology Solutions
-- 📍 **Location:** Cupertino, CA
+### [Backend Software Engineer](https://www.linkedin.com/jobs/view/4486313997/) — Caspian Staffing Inc.
+- 📍 **Location:** San Jose, CA
+- 💰 **Salary:** $195,000.00/yr - $230,000.00/yr
+- 🕒 **Posted:** 2026-11-03
+
+### [Embedded Software Engineer](https://www.linkedin.com/jobs/view/4474605830/) — Align Technology
+- 📍 **Location:** San Jose, CA
+- 💰 **Salary:** $131,200.00/yr - $180,400.00/yr
 - 🕒 **Posted:** 2026-11-03
