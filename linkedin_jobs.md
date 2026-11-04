@@ -1,18 +1,27 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-11-04 03:17 UTC*
+*Last updated: 2026-11-04 04:18 UTC*
 
-**3 new role(s)** since last run · 5 total in last 1h
+**5 new role(s)** since last run · 5 total in last 1h
 
-### [Applied Scientist, Amazon Books Ads](https://www.linkedin.com/jobs/view/4487062366/) — Amazon
+### [Software Engineer, Agent Eval Platform](https://www.linkedin.com/jobs/view/4487094928/) — ServiceNow
+- 📍 **Location:** Mountain View, CA
+- 🕒 **Posted:** 2026-11-03
+
+### [Data Science Expert - AI Content Specialist](https://www.linkedin.com/jobs/view/4487205504/) — Alignerr
 - 📍 **Location:** New York, NY
+- 💰 **Salary:** $40.00/hr - $80.00/hr
 - 🕒 **Posted:** 2026-11-03
 
-### [Backend Software Engineer](https://www.linkedin.com/jobs/view/4486313997/) — Caspian Staffing Inc.
-- 📍 **Location:** San Jose, CA
-- 💰 **Salary:** $195,000.00/yr - $230,000.00/yr
+### [Software Engineer Task Author (AI Training)](https://www.linkedin.com/jobs/view/4487210135/) — Alignerr
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $70.00/hr - $120.00/hr
 - 🕒 **Posted:** 2026-11-03
 
-### [Embedded Software Engineer](https://www.linkedin.com/jobs/view/4474605830/) — Align Technology
+### [Software Engineer - Frontend Platform](https://www.linkedin.com/jobs/view/4486329368/) — Applied Intuition
+- 📍 **Location:** Sunnyvale, CA
+- 💰 **Salary:** $165,000.00/yr - $270,000.00/yr
+- 🕒 **Posted:** 2026-11-03
+
+### [Data Center Infrastructure Engineer](https://www.linkedin.com/jobs/view/4486326703/) — Foxconn Industrial Internet - FII
 - 📍 **Location:** San Jose, CA
-- 💰 **Salary:** $131,200.00/yr - $180,400.00/yr
 - 🕒 **Posted:** 2026-11-03
