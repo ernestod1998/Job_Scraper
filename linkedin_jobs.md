@@ -1,56 +1,69 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-11-05 17:17 UTC*
+*Last updated: 2026-11-05 18:17 UTC*
 
-**13 new role(s)** since last run · 15 total in last 1h
+**16 new role(s)** since last run · 20 total in last 1h
 
-### [Full Stack Engineer, Applied AI](https://www.linkedin.com/jobs/view/4485842374/) — DoorDash
+### [Machine Learning Engineer 4 (Python, AWS, SQL, GenAI) (Enterprise Platforms Technology)](https://www.linkedin.com/jobs/view/4470610388/) — Capital One
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-11-05
 
-### [Full Stack Engineer, Applied AI](https://www.linkedin.com/jobs/view/4485850082/) — DoorDash
-- 📍 **Location:** Sunnyvale, CA
+### [Software Engineer, Data Infrastructure](https://www.linkedin.com/jobs/view/4485849454/) — Insight Recruitment
+- 📍 **Location:** Redwood City, CA
+- 💰 **Salary:** $180,000.00/yr - $270,000.00/yr
 - 🕒 **Posted:** 2026-11-05
 
-### [Data Science Leader, HCM](https://www.linkedin.com/jobs/view/4469656876/) — SAP
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-11-05
-
-### [Bioinformatics Software Engineer](https://www.linkedin.com/jobs/view/4486756938/) — ACL Digital
-- 📍 **Location:** Foster City, CA
-- 🕒 **Posted:** 2026-11-05
-
-### [AI Engineer 5 (MLX, Agentic AI, Gen AI platform Services)](https://www.linkedin.com/jobs/view/4470938853/) — Capital One
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-11-05
-
-### [AI Engineer 4 (MLX, Agentic AI, Gen AI platform Services)](https://www.linkedin.com/jobs/view/4470956267/) — Capital One
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-11-05
-
-### [AI Engineer 4 (Gen AI Platform Services)](https://www.linkedin.com/jobs/view/4479580923/) — Capital One
+### [Software Engineer Generalist](https://www.linkedin.com/jobs/view/4479762163/) — TypeSafe AI
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-11-05
 
-### [Research Scientist Intern, Generative AI & Computational Photography (PhD)](https://www.linkedin.com/jobs/view/4485852159/) — Meta
-- 📍 **Location:** Sunnyvale, CA
+### [AI Research Scientist | Machine Learning | Deep Learning |Natural Language Processing | LLM | Hybrid | San Jose, CA](https://www.linkedin.com/jobs/view/4486799017/) — Enigma
+- 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-11-05
 
-### [Research Scientist Intern, Generative AI & Computational Photography (PhD)](https://www.linkedin.com/jobs/view/4485841608/) — Meta
-- 📍 **Location:** Burlingame, CA
+### [AI Engineer 5 (MLX, Agentic AI, Gen AI platform Services)](https://www.linkedin.com/jobs/view/4471103790/) — Capital One
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-11-05
 
-### [Software Engineer, Integrations](https://www.linkedin.com/jobs/view/4451920131/) — Cohere
+### [AI Engineer 5 (MLX, Agentic AI, Gen AI platform Services)](https://www.linkedin.com/jobs/view/4470951465/) — Capital One
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-11-05
+
+### [AI Engineer 4 (Gen AI Platform Services)](https://www.linkedin.com/jobs/view/4479591323/) — Capital One
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-11-05
+
+### [Artificial Intelligence / Machine Learning Engineer - Associate](https://www.linkedin.com/jobs/view/4487796373/) — iCapital
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-11-05
 
-### [Intern - Software Engineer](https://www.linkedin.com/jobs/view/4478484226/) — LSEG
+### [Data Scientist II](https://www.linkedin.com/jobs/view/4487782976/) — New York Power Authority
+- 📍 **Location:** White Plains, NY
+- 🕒 **Posted:** 2026-11-05
+
+### [Machine Learning Engineer 4 (Python, AWS, SQL, GenAI) (Enterprise Platforms Technology)](https://www.linkedin.com/jobs/view/4470493924/) — Capital One
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-11-05
 
-### [AI Engineer 4 (Gen AI Platform Services)](https://www.linkedin.com/jobs/view/4479700110/) — Capital One
-- 📍 **Location:** New York, NY
+### [Tactile Sensing Research Engineer](https://www.linkedin.com/jobs/view/4485851351/) — Insight Recruitment
+- 📍 **Location:** San Carlos, CA
 - 🕒 **Posted:** 2026-11-05
 
-### [Data Scientist II](https://www.linkedin.com/jobs/view/4485849140/) — Oscar Health
-- 📍 **Location:** New York, NY
+### [Metrology/Precision Research Engineer](https://www.linkedin.com/jobs/view/4470681389/) — Lawrence Livermore National Laboratory
+- 📍 **Location:** Livermore, CA
+- 🕒 **Posted:** 2026-11-05
+
+### [Software Engineer](https://www.linkedin.com/jobs/view/4485860004/) — Applied Materials
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-11-05
+
+### [Data Platform Engineer](https://www.linkedin.com/jobs/view/4488008616/) — Pacific Gas and Electric Company
+- 📍 **Location:** Oakland, CA
+- 🕒 **Posted:** 2026-11-05
+
+### [Site Reliability Engineer (SRE)](https://www.linkedin.com/jobs/view/4480081289/) — Air Apps
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-11-05
+
+### [Software Engineer III, Media Delivery](https://www.linkedin.com/jobs/view/4469606955/) — Crunchyroll
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-11-05
