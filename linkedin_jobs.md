@@ -1,87 +1,122 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-11-05 09:48 UTC*
+*Last updated: 2026-11-05 16:19 UTC*
 
-**19 new role(s)** since last run · 19 total in last 1h
+**27 new role(s)** since last run · 27 total in last 1h
 
-### [Software Engineer, ML Infrastructure (MDX)](https://www.linkedin.com/jobs/view/4477016810/) — DoorDash
+### [Software Engineer, Applied ML (Discovery, Recommendation & Search)](https://www.linkedin.com/jobs/view/4344683557/) — Character.ai
+- 📍 **Location:** Redwood City, CA
+- 🕒 **Posted:** 2026-11-05
+
+### [Applied Robotics Engineer](https://www.linkedin.com/jobs/view/4469919472/) — Xaba Inc.
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-11-05
+
+### [AI Infrastructure Software Engineer](https://www.linkedin.com/jobs/view/4484535789/) — The Mice Groups, Inc.
+- 📍 **Location:** Livermore, CA
+- 💰 **Salary:** $75.00/hr - $90.00/hr
+- 🕒 **Posted:** 2026-11-05
+
+### [Bioinformatics Software Engineer](https://www.linkedin.com/jobs/view/4486767494/) — ACL Digital
+- 📍 **Location:** San Mateo, CA
+- 🕒 **Posted:** 2026-11-05
+
+### [Bioinformatics Software Engineer](https://www.linkedin.com/jobs/view/4486756725/) — I.T. Solutions, Inc.
+- 📍 **Location:** Foster City, CA
+- 💰 **Salary:** $65.00/hr - $72.00/hr
+- 🕒 **Posted:** 2026-11-05
+
+### [Software Engineer, Data Platform](https://www.linkedin.com/jobs/view/4394204415/) — Whatnot
 - 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $190,000.00/yr - $270,000.00/yr
 - 🕒 **Posted:** 2026-11-05
 
-### [Software Engineer, ML Infrastructure (MDX)](https://www.linkedin.com/jobs/view/4477020570/) — DoorDash
-- 📍 **Location:** Sunnyvale, CA
+### [Full Stack Engineer](https://www.linkedin.com/jobs/view/4487784105/) — Protech Talent
+- 📍 **Location:** New York City Metropolitan Area
 - 🕒 **Posted:** 2026-11-05
 
-### [AI Research Scientist, Reinforcement Learning (LLM) and Post-Training](https://www.linkedin.com/jobs/view/4459595486/) — AMD
-- 📍 **Location:** Santa Clara, CA
-- 💰 **Salary:** $204,000.00/yr - $306,000.00/yr
+### [Software Engineer, Product](https://www.linkedin.com/jobs/view/4485833667/) — Warp
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $150,000.00/yr - $220,000.00/yr
 - 🕒 **Posted:** 2026-11-05
 
-### [2027 Intern - Machine Learning Engineer](https://www.linkedin.com/jobs/view/4460230297/) — Adobe
-- 📍 **Location:** San Jose, CA
+### [Software Engineer](https://www.linkedin.com/jobs/view/4468598434/) — Albert Bow
+- 📍 **Location:** New York City Metropolitan Area
 - 🕒 **Posted:** 2026-11-05
 
-### [AI Research Scientist | Machine Learning | Deep Learning |Natural Language Processing | LLM | Hybrid | San Jose, CA](https://www.linkedin.com/jobs/view/4486598280/) — Enigma
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-11-05
-
-### [Software Engineer](https://www.linkedin.com/jobs/view/4440197019/) — WD
-- 📍 **Location:** San Jose, CA
-- 💰 **Salary:** $110,900.00/yr - $147,800.00/yr
-- 🕒 **Posted:** 2026-11-05
-
-### [Software Engineer](https://www.linkedin.com/jobs/view/4479514529/) — Intuitive
-- 📍 **Location:** Sunnyvale, CA
-- 💰 **Salary:** $130,300.00/yr - $220,700.00/yr
-- 🕒 **Posted:** 2026-11-05
-
-### [Measurement Data Scientist](https://www.linkedin.com/jobs/view/4454342815/) — AppLovin
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-11-05
-
-### [Research Engineer (Options)](https://www.linkedin.com/jobs/view/4275201305/) — DRW
+### [Data Scientist, Machine Learning](https://www.linkedin.com/jobs/view/4461209464/) — AQR Capital Management
 - 📍 **Location:** Greenwich, CT
 - 🕒 **Posted:** 2026-11-05
 
-### [Software Engineer II- Full-stack Developer](https://www.linkedin.com/jobs/view/4461523478/) — Deloitte
-- 📍 **Location:** New York, NY
+### [Applied Scientist, Automated Reasoning](https://www.linkedin.com/jobs/view/4461506484/) — Amazon Web Services (AWS)
+- 📍 **Location:** Santa Clara, CA
 - 🕒 **Posted:** 2026-11-05
 
-### [Software Engineer II Python/Observation](https://www.linkedin.com/jobs/view/4468349792/) — JPMorganChase
-- 📍 **Location:** Jersey City, NJ
-- 💰 **Salary:** $123,500.00/yr - $150,000.00/yr
+### [Modeling and Simulation Software Engineer](https://www.linkedin.com/jobs/view/4459986176/) — Metis Technology Solutions, Inc.
+- 📍 **Location:** Mountain View, CA
+- 💰 **Salary:** $140,000.00/yr - $200,000.00/yr
 - 🕒 **Posted:** 2026-11-05
 
-### [Full Stack Software Engineer 4 - Localization Engineering](https://www.linkedin.com/jobs/view/4459568861/) — Netflix
-- 📍 **Location:** Los Gatos, CA
+### [Full Stack Engineer](https://www.linkedin.com/jobs/view/4358570627/) — Nash
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-11-05
 
-### [Forward Deployed Software Engineer](https://www.linkedin.com/jobs/view/4485813058/) — Jobot
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $150,000.00/yr - $210,000.00/yr
-- 🕒 **Posted:** 2026-11-05
-
-### [Software Engineer III (Full Stack Engineer)](https://www.linkedin.com/jobs/view/4459903049/) — JPMorganChase
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $137,750.00/yr - $185,000.00/yr
-- 🕒 **Posted:** 2026-11-05
-
-### [Platform Engineer](https://www.linkedin.com/jobs/view/4478460264/) — Veeam Software
+### [Cloud Infrastructure Engineer - AWS](https://www.linkedin.com/jobs/view/4486752901/) — Lorven Technologies Inc.
 - 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-11-05
 
-### [DevOps AWS Software Engineer III](https://www.linkedin.com/jobs/view/4462165122/) — JPMorganChase
-- 📍 **Location:** Jersey City, NJ
-- 💰 **Salary:** $137,750.00/yr - $185,000.00/yr
+### [Software Engineer - Platform Engineer](https://www.linkedin.com/jobs/view/4451930175/) — Clear Street
+- 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-11-05
 
-### [GovCloud Software Engineer](https://www.linkedin.com/jobs/view/4479734747/) — Salesforce
+### [Software Engineer - AI Teammates Platform](https://www.linkedin.com/jobs/view/4477027414/) — Asana
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-11-05
 
-### [Software Engineer Intern, 2027 Summer U.S.](https://www.linkedin.com/jobs/view/4462069578/) — Atlassian
+### [Software Engineer, Storage](https://www.linkedin.com/jobs/view/4487785042/) — Anza
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-11-05
 
-### [Autonomy Platform Engineer](https://www.linkedin.com/jobs/view/4469345539/) — DoorDash
+### [Software Engineer (Mobile Applications)](https://www.linkedin.com/jobs/view/4363078884/) — Globus Medical
+- 📍 **Location:** Redwood City, CA
+- 🕒 **Posted:** 2026-11-05
+
+### [Software Engineer](https://www.linkedin.com/jobs/view/4317469113/) — Opal Security
 - 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $140,000.00/yr - $250,000.00/yr
+- 🕒 **Posted:** 2026-11-05
+
+### [Full Stack Software Engineer](https://www.linkedin.com/jobs/view/4459987141/) — Metis Technology Solutions, Inc.
+- 📍 **Location:** Mountain View, CA
+- 💰 **Salary:** $120,000.00/yr - $220,000.00/yr
+- 🕒 **Posted:** 2026-11-05
+
+### [Software Engineer in Test](https://www.linkedin.com/jobs/view/4486757633/) — NLB Services
+- 📍 **Location:** Cupertino, CA
+- 💰 **Salary:** $120,000.00/yr - $130,000.00/yr
+- 🕒 **Posted:** 2026-11-05
+
+### [Software Engineer, 2027 New Grad](https://www.linkedin.com/jobs/view/4460205602/) — Whatnot
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $155,000.00/yr - $160,000.00/yr
+- 🕒 **Posted:** 2026-11-05
+
+### [Associate, Software Engineer - Aladdin Graph](https://www.linkedin.com/jobs/view/4470938106/) — BlackRock
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-11-05
+
+### [Software Engineer, Storage](https://www.linkedin.com/jobs/view/4487763978/) — Anza
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-11-05
+
+### [Software Engineer](https://www.linkedin.com/jobs/view/4486757680/) — Green Key Resources
+- 📍 **Location:** New York City Metropolitan Area
+- 💰 **Salary:** $170,000.00/yr - $210,000.00/yr
+- 🕒 **Posted:** 2026-11-05
+
+### [Azure Cloud Engineer](https://www.linkedin.com/jobs/view/4487775284/) — Gotham Technology Group
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-11-05
+
+### [AWS Devops Architect](https://www.linkedin.com/jobs/view/4486768633/) — Falcon Smart IT (FalconSmartIT)
+- 📍 **Location:** Alameda County, CA
 - 🕒 **Posted:** 2026-11-05
