@@ -1,16 +1,18 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-11-06 03:17 UTC*
+*Last updated: 2026-11-06 04:18 UTC*
 
 **3 new role(s)** since last run · 4 total in last 1h
 
-### [Software Engineer, AI Agents at Blockit (Sequoia-Backed AI Scheduling Agent), San Francisco](https://www.linkedin.com/jobs/view/4483856624/) — Harper
-- 📍 **Location:** San Francisco, CA
+### [Software Engineer (AI Training) — Remote Contract](https://www.linkedin.com/jobs/view/4488106438/) — Alignerr
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $20.00/hr - $100.00/hr
 - 🕒 **Posted:** 2026-11-05
 
-### [Machine Learning Engineer at Amazon](https://www.linkedin.com/jobs/view/4488108012/) — MeeBoss
-- 📍 **Location:** Manhattan, NY
+### [Software Engineer](https://www.linkedin.com/jobs/view/4486950332/) — Haystack
+- 📍 **Location:** San Francisco Bay Area
 - 🕒 **Posted:** 2026-11-05
 
-### [Software Engineer, Infrastructure (4+ yrs), SF at Blockit, Seeded by Sequoia's Pat Grady](https://www.linkedin.com/jobs/view/4483869221/) — Harper
-- 📍 **Location:** San Francisco, CA
+### [Cloud Engineer](https://www.linkedin.com/jobs/view/4485894444/) — Atlas Search
+- 📍 **Location:** New York City Metropolitan Area
+- 💰 **Salary:** $130,000.00/yr - $170,000.00/yr
 - 🕒 **Posted:** 2026-11-05
