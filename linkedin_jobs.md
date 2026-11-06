@@ -1,154 +1,128 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-11-06 16:19 UTC*
+*Last updated: 2026-11-06 17:19 UTC*
 
-**35 new role(s)** since last run · 35 total in last 1h
+**30 new role(s)** since last run · 49 total in last 1h
 
-### [Software Engineer - Customer Facing Applied AI](https://www.linkedin.com/jobs/view/4480177743/) — Addepar
-- 📍 **Location:** Mountain View, CA
-- 🕒 **Posted:** 2026-11-06
-
-### [Python Software Engineer](https://www.linkedin.com/jobs/view/4488178258/) — Venture Up
+### [Applied Scientist, Amazon Ads](https://www.linkedin.com/jobs/view/4480114441/) — Amazon
 - 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $250,000.00/yr - $320,000.00/yr
 - 🕒 **Posted:** 2026-11-06
 
-### [Internal Acceleration, Research Engineer (Hardware)](https://www.linkedin.com/jobs/view/4480197002/) — Etched
-- 📍 **Location:** San Jose, CA
-- 💰 **Salary:** $150,000.00/yr - $400,000.00/yr
+### [Software Engineer, ML Infrastructure, ML Platform Level 5](https://www.linkedin.com/jobs/view/4480102845/) — Snap Inc.
+- 📍 **Location:** Palo Alto, CA
 - 🕒 **Posted:** 2026-11-06
 
-### [Full Stack Engineer](https://www.linkedin.com/jobs/view/4486992692/) — Digital Waffle
-- 📍 **Location:** San Francisco Bay Area
-- 💰 **Salary:** $200,000.00/yr - $350,000.00/yr
+### [Software Engineer, Machine Learning RecSys](https://www.linkedin.com/jobs/view/4486266091/) — Meta
+- 📍 **Location:** Fremont, CA
+- 💰 **Salary:** $154,003.00/yr - $217,000.00/yr
 - 🕒 **Posted:** 2026-11-06
 
-### [Software Engineer III (L4) – Backend & GCP](https://www.linkedin.com/jobs/view/4488171505/) — Yoh, A Day & Zimmermann Company
+### [Software Engineer, Machine Learning RecSys](https://www.linkedin.com/jobs/view/4486270026/) — Meta
 - 📍 **Location:** Mountain View, CA
+- 💰 **Salary:** $154,003.00/yr - $217,000.00/yr
 - 🕒 **Posted:** 2026-11-06
 
-### [Software Engineer – TigerGraph](https://www.linkedin.com/jobs/view/4486998518/) — Programmers.io
-- 📍 **Location:** Sunnyvale, CA
+### [Data Scientist, Storefront](https://www.linkedin.com/jobs/view/4434626267/) — Quince
+- 📍 **Location:** Palo Alto, CA
 - 🕒 **Posted:** 2026-11-06
 
-### [Software Engineer – TigerGraph](https://www.linkedin.com/jobs/view/4486987865/) — Programmers.io
-- 📍 **Location:** Sunnyvale, CA
+### [Full Stack Engineer](https://www.linkedin.com/jobs/view/4488193062/) — Storm2
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $180,000.00/yr - $280,000.00/yr
 - 🕒 **Posted:** 2026-11-06
 
-### [Software Engineer, AI Agents](https://www.linkedin.com/jobs/view/4487300806/) — Epiq
-- 📍 **Location:** New York, NY
+### [Applied Scientist III, AWS Account Management and Governance](https://www.linkedin.com/jobs/view/4480368300/) — Amazon Web Services (AWS)
+- 📍 **Location:** Santa Clara, CA
 - 🕒 **Posted:** 2026-11-06
 
-### [AI Full Stack Engineer (Prime Brokerage Technology)](https://www.linkedin.com/jobs/view/4478136087/) — Morgan Stanley
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-11-06
-
-### [Data Scientist – Equity Research](https://www.linkedin.com/jobs/view/4470991185/) — Jefferies
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-11-06
-
-### [Software Engineer, Backend](https://www.linkedin.com/jobs/view/4487307148/) — Epiq
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-11-06
-
-### [Aeronautics Project Support Software Engineer](https://www.linkedin.com/jobs/view/4459967949/) — Metis Technology Solutions, Inc.
-- 📍 **Location:** Mountain View, CA
-- 💰 **Salary:** $120,000.00/yr - $220,000.00/yr
-- 🕒 **Posted:** 2026-11-06
-
-### [AI Foundations - Software Engineer - Research Internship 2027](https://www.linkedin.com/jobs/view/4460401152/) — IBM
-- 📍 **Location:** San Jose, CA
-- 💰 **Salary:** $83,160.00/yr - $166,320.00/yr
-- 🕒 **Posted:** 2026-11-06
-
-### [AI Research Scientist | Machine Learning | Deep Learning |Natural Language Processing | LLM | Hybrid | San Jose, CA](https://www.linkedin.com/jobs/view/4486998787/) — Enigma
+### [Optical AI Software Engineer](https://www.linkedin.com/jobs/view/4486258348/) — Nokia
 - 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-11-06
 
-### [Internal Acceleration, Research Engineer (Kernels)](https://www.linkedin.com/jobs/view/4480188437/) — Etched
-- 📍 **Location:** San Jose, CA
-- 💰 **Salary:** $150,000.00/yr - $400,000.00/yr
+### [2027 Summer Intern, MS/PhD, Software Engineer, Multiverse](https://www.linkedin.com/jobs/view/4488189338/) — EngRadar
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-11-06
 
-### [Full Stack Software Engineer (96223)](https://www.linkedin.com/jobs/view/4477359472/) — Weill Cornell Medicine
+### [Data DevOps Engineer](https://www.linkedin.com/jobs/view/4453691711/) — Versa Networks
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-11-06
+
+### [Applied AI/ML Engineer](https://www.linkedin.com/jobs/view/4443643517/) — Objective Partners
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-11-06
 
-### [Software engineer, cloud infrastructure](https://www.linkedin.com/jobs/view/4479306723/) — Watershed
+### [ML Research Scientist -Deep Learning & Transformer Architectures](https://www.linkedin.com/jobs/view/4425289010/) — Millennium
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-11-06
+
+### [Full Stack Engineer](https://www.linkedin.com/jobs/view/4488179662/) — Baker Charles
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-11-06
+
+### [Full-Stack Engineer 4  (Java, Spring, DynamoDB, S3, GraphQL, GenAI)](https://www.linkedin.com/jobs/view/4471113244/) — Capital One
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-11-06
+
+### [Applied Scientist, Center for Quantum Computing, Physical Design and Simulation](https://www.linkedin.com/jobs/view/4480195034/) — Amazon Web Services (AWS)
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-11-06
 
-### [Cloud Infrastructure – Site Reliability Engineer (SRE)-Sunnyvale](https://www.linkedin.com/jobs/view/4471420799/) — Alibaba Cloud
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-11-06
-
-### [Site Reliability Engineer-Sunnyvale](https://www.linkedin.com/jobs/view/4460439106/) — Alibaba Cloud
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-11-06
-
-### [Cloud Platform Engineer](https://www.linkedin.com/jobs/view/4442088431/) — Rockstar Games
-- 📍 **Location:** Manhattan, NY
-- 🕒 **Posted:** 2026-11-06
-
-### [Software Engineer, Integrations](https://www.linkedin.com/jobs/view/4451908243/) — Cohere
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-11-06
-
-### [Software Engineer II](https://www.linkedin.com/jobs/view/4488173530/) — Microsoft
-- 📍 **Location:** Mountain View, CA
-- 🕒 **Posted:** 2026-11-06
-
-### [Software Engineer, Scheduled Tasks](https://www.linkedin.com/jobs/view/4471681769/) — Vercel
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-11-06
-
-### [Software Engineer - Next.js](https://www.linkedin.com/jobs/view/4462492057/) — Vercel
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-11-06
-
-### [Software Engineer IV](https://www.linkedin.com/jobs/view/4471649164/) — Lead
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-11-06
-
-### [Software Engineer - Recent Grad](https://www.linkedin.com/jobs/view/4462747981/) — Kikoff
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-11-06
-
-### [Full Stack Engineer](https://www.linkedin.com/jobs/view/4488180415/) — Goliath Partners
+### [Robotics Software Engineer](https://www.linkedin.com/jobs/view/4486259433/) — Careerscape
 - 📍 **Location:** San Francisco Bay Area
 - 🕒 **Posted:** 2026-11-06
 
-### [Flight Software Engineer - Spacecraft & Laser Payload](https://www.linkedin.com/jobs/view/4488173651/) — Approach Venture
+### [2027 Summer Intern, MS/PhD, Software Engineer, Multiverse](https://www.linkedin.com/jobs/view/4487324263/) — Waymo
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-11-06
 
-### [Platform Engineer, Workplace Engineering](https://www.linkedin.com/jobs/view/4480131526/) — Modular, a Qualcomm company
-- 📍 **Location:** Los Altos, CA
+### [Agentic Search Infrastructure Engineer - Moveworks](https://www.linkedin.com/jobs/view/4424953643/) — ServiceNow
+- 📍 **Location:** Mountain View, CA
 - 🕒 **Posted:** 2026-11-06
 
-### [DevOps Architect](https://www.linkedin.com/jobs/view/4488188106/) — Wall Street Consulting Services LLC
-- 📍 **Location:** Foster City, CA
+### [Software Engineer, Agentic Infrastructure](https://www.linkedin.com/jobs/view/4469105025/) — Vercel
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-11-06
 
-### [Software Engineer - Game Integrations](https://www.linkedin.com/jobs/view/4443418068/) — Medal
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $180,000.00/yr - $275,000.00/yr
-- 🕒 **Posted:** 2026-11-06
-
-### [Full-stack Engineer 5, Marketing and Messaging](https://www.linkedin.com/jobs/view/4488188128/) — Capital One
+### [DevOps Engineer (AWS)](https://www.linkedin.com/jobs/view/4488178912/) — Qvest US
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-11-06
 
-### [Software Engineer, Anti-Adblock](https://www.linkedin.com/jobs/view/4487307010/) — Ad-Shield
-- 📍 **Location:** New York City Metropolitan Area
-- 💰 **Salary:** $150,000.00/yr - $300,000.00/yr
+### [Full-stack Engineer 5 (Python, Typescript, React, AWS)](https://www.linkedin.com/jobs/view/4471474968/) — Capital One
+- 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-11-06
 
-### [Software Engineer, Revenue](https://www.linkedin.com/jobs/view/4487304124/) — Ad-Shield
-- 📍 **Location:** New York City Metropolitan Area
-- 💰 **Salary:** $150,000.00/yr - $300,000.00/yr
+### [Full Stack Engineer - Onsite - San Francisco, CA](https://www.linkedin.com/jobs/view/4486269014/) — RS Global Services
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-11-06
 
-### [Internal Acceleration, Research Engineer (ASIC)](https://www.linkedin.com/jobs/view/4480190395/) — Etched
+### [Software Engineer Sys 3](https://www.linkedin.com/jobs/view/4487305678/) — Lam Research
+- 📍 **Location:** Fremont, CA
+- 🕒 **Posted:** 2026-11-06
+
+### [Front-End Engineer – React / TypeScript](https://www.linkedin.com/jobs/view/4488168976/) — Programming.com
 - 📍 **Location:** San Jose, CA
-- 💰 **Salary:** $150,000.00/yr - $400,000.00/yr
+- 🕒 **Posted:** 2026-11-06
+
+### [Software Engineering Internship - San Francisco](https://www.linkedin.com/jobs/view/4488191189/) — Samsara
+- 📍 **Location:** Oakland, CA
+- 🕒 **Posted:** 2026-11-06
+
+### [Software Engineering Internship - San Francisco](https://www.linkedin.com/jobs/view/4488187296/) — Samsara
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-11-06
+
+### [Full stack Frontend Developer](https://www.linkedin.com/jobs/view/4487043393/) — Amtex Systems Inc
+- 📍 **Location:** Parsippany, NJ
+- 🕒 **Posted:** 2026-11-06
+
+### [Platform Engineer (HPC): $450,000 + Bonus/Benefits - Elite Fintech](https://www.linkedin.com/jobs/view/4486250581/) — Hunter Bond
+- 📍 **Location:** New York City Metropolitan Area
+- 🕒 **Posted:** 2026-11-06
+
+### [Software Engineering Internship - San Francisco](https://www.linkedin.com/jobs/view/4488190230/) — Samsara
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-11-06
+
+### [Principle Software Engineer – Systems software](https://www.linkedin.com/jobs/view/4471631712/) — ASML
+- 📍 **Location:** San Jose, CA
+- 💰 **Salary:** $189,375.00/yr - $315,625.00/yr
 - 🕒 **Posted:** 2026-11-06
