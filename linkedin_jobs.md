@@ -1,42 +1,43 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-11-06 19:19 UTC*
+*Last updated: 2026-11-06 20:18 UTC*
 
-**9 new role(s)** since last run · 38 total in last 1h
+**9 new role(s)** since last run · 15 total in last 1h
 
-### [Machine Learning Engineer, AI Coding Tools](https://www.linkedin.com/jobs/view/4487342396/) — ByteDance
+### [Machine Learning Infrastructure Engineer, Recommendations and Search](https://www.linkedin.com/jobs/view/4488423417/) — TikTok USDS Joint Venture
 - 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-11-06
 
-### [Machine Learning Engineer, AI Agent](https://www.linkedin.com/jobs/view/4487344458/) — TikTok
-- 📍 **Location:** San Jose, CA
+### [Data Scientist](https://www.linkedin.com/jobs/view/4486282424/) — iTech US Inc
+- 📍 **Location:** Mountain View, CA
 - 🕒 **Posted:** 2026-11-06
 
-### [Machine Learning Scientist II - Agentic Experiences](https://www.linkedin.com/jobs/view/4487332133/) — Expedia Group
-- 📍 **Location:** San Jose, CA
-- 💰 **Salary:** $112,000.00/yr - $156,500.00/yr
+### [Quantum Software Engineer](https://www.linkedin.com/jobs/view/4488429044/) — TectoniQ
+- 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-11-06
 
-### [Data Scientist, Clinical Outcomes](https://www.linkedin.com/jobs/view/4488408502/) — Midi Health
+### [Software Engineer, Product](https://www.linkedin.com/jobs/view/4486265894/) — Warp
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $150,000.00/yr - $220,000.00/yr
+- 🕒 **Posted:** 2026-11-06
+
+### [Cloud Platform / DevOps Engineer](https://www.linkedin.com/jobs/view/4487337651/) — Cywarden Inc.
+- 📍 **Location:** Dublin, CA
+- 🕒 **Posted:** 2026-11-06
+
+### [DevOps Engineer](https://www.linkedin.com/jobs/view/4488413917/) — Clinisoltech
+- 📍 **Location:** New York City Metropolitan Area
+- 🕒 **Posted:** 2026-11-06
+
+### [Cloud Infrastructure Engineer | Azure | Recent Grad | Hybrid](https://www.linkedin.com/jobs/view/4486277601/) — CyberCoders
+- 📍 **Location:** Harrison, NY
+- 💰 **Salary:** $115,000.00/yr - $125,000.00/yr
+- 🕒 **Posted:** 2026-11-06
+
+### [Software Engineer, Scheduled Tasks](https://www.linkedin.com/jobs/view/4471681769/) — Vercel
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-11-06
 
-### [Software Engineer, Data Governance Team](https://www.linkedin.com/jobs/view/4488406867/) — TikTok USDS Joint Venture
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-11-06
-
-### [Principle Software Engineer – Systems software](https://www.linkedin.com/jobs/view/4471631712/) — ASML
-- 📍 **Location:** San Jose, CA
-- 💰 **Salary:** $189,375.00/yr - $315,625.00/yr
-- 🕒 **Posted:** 2026-11-06
-
-### [Software Engineer, Cross Platform](https://www.linkedin.com/jobs/view/4487334515/) — ByteDance
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-11-06
-
-### [Full Stack Engineer 5](https://www.linkedin.com/jobs/view/4472006843/) — Capital One
+### [Software Engineer](https://www.linkedin.com/jobs/view/4486282423/) — Globant
 - 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-11-06
-
-### [Full-stack Engineer 4](https://www.linkedin.com/jobs/view/4471486350/) — Capital One
-- 📍 **Location:** New York, NY
+- 💰 **Salary:** $105,000.00/yr - $118,000.00/yr
 - 🕒 **Posted:** 2026-11-06
