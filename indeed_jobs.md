@@ -1,78 +1,63 @@
 # 🟦 Indeed — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-11-06 09:48 UTC*
+*Last updated: 2026-11-06 21:02 UTC*
 
-**15 new role(s)** since last run · 52 total in last 24h
+**12 new role(s)** since last run · 36 total in last 24h
 
-### [Computer Vision & Machine Learning Engineer](https://www.indeed.com/viewjob?jk=a911b24293c8c1db) — Tesla
-- 📍 **Location:** Palo Alto, CA, USA
-- 💰 **Salary:** $100k–$372k/yr
+### [Machine Learning Engineer](https://www.indeed.com/viewjob?jk=84aae62c4fe5690c) — Apple
+- 📍 **Location:** Cupertino, CA, USA
+- 💰 **Salary:** $150k–$225k/yr
 - 🕒 **Posted:** 2026-11-06
 
-### [Research Engineer, Agentic Video Editing - TikTok](https://www.indeed.com/viewjob?jk=25ce81ab15eec456) — TikTok
-- 📍 **Location:** San Jose, CA, USA
-- 💰 **Salary:** $162k–$388k/yr
+### [Software Engineer, Machine Learning RecSys](https://www.indeed.com/viewjob?jk=8b918099ec0c0452) — Meta
+- 📍 **Location:** Fremont, CA, USA
+- 💰 **Salary:** $154k–$217k/yr
 - 🕒 **Posted:** 2026-11-06
 
-### [Software Engineer II - Engineer](https://www.indeed.com/viewjob?jk=bbc6b60e7e7ddbe8) — Uber
-- 📍 **Location:** San Francisco, CA, USA
-- 💰 **Salary:** $171k–$190k/yr
-- 🕒 **Posted:** 2026-11-06
-
-### [Devops Engineer](https://www.indeed.com/viewjob?jk=c590f9a1fc0c4d78) — Robotics Technologies
-- 📍 **Location:** San Jose, CA, USA
-- 🕒 **Posted:** 2026-11-06
-
-### [DevOps Engineer](https://www.indeed.com/viewjob?jk=299c905b45a50c3e) — Robotics Technologies
+### [AI/ML Software Engineer](https://www.indeed.com/viewjob?jk=b92957feab865b8f) — Apple
 - 📍 **Location:** Sunnyvale, CA, USA
-- 💰 **Salary:** $74/hr
+- 💰 **Salary:** $150k–$278k/yr
 - 🕒 **Posted:** 2026-11-06
 
-### [Software Engineer for Packet Forwarding (Sunnyvale, California)](https://www.indeed.com/viewjob?jk=a789be6a8b62b865) — Hewlett Packard Enterprise | HPE
-- 📍 **Location:** Sunnyvale, CA, USA
-- 💰 **Salary:** $108k–$218k/yr
+### [Software Developer III, AI/ML GenAI, Google Ads](https://www.indeed.com/viewjob?jk=2958724f7859fda2) — Google
+- 📍 **Location:** Mountain View, CA, USA
+- 💰 **Salary:** $147k–$210k/yr
 - 🕒 **Posted:** 2026-11-06
 
-### [Systems Software Engineer, BMC & Management Plane](https://www.indeed.com/viewjob?jk=8ffd2b59c4861de8) — OpenAI
+### [Software Engineer](https://www.indeed.com/viewjob?jk=e0db0959617cf108) — The SeventhHire LLC
 - 📍 **Location:** San Francisco, CA, USA
-- 💰 **Salary:** $266k–$445k/yr
 - 🕒 **Posted:** 2026-11-06
 
-### [Teleop Platform Engineer, Real-Time Systems & UI](https://www.indeed.com/viewjob?jk=37b74ecbfd639145) — mecka
+### [Software Engineer II](https://www.indeed.com/viewjob?jk=48c580222a8a6386) — Microsoft
+- 📍 **Location:** Mountain View, CA, USA
+- 💰 **Salary:** $102k–$219k/yr
+- 🕒 **Posted:** 2026-11-06
+
+### [Software Engineer, AI Agents](https://www.indeed.com/viewjob?jk=0f05f1f4c312a73f) — Epiq
 - 📍 **Location:** New York, NY, USA
-- 💰 **Salary:** $200k–$240k/yr
+- 💰 **Salary:** $180k–$260k/yr
 - 🕒 **Posted:** 2026-11-06
 
-### [Business Data Scientist, Growth and Opportunity Marketing](https://www.indeed.com/viewjob?jk=d19c1416f381d304) — Google
+### [Software Engineer, Backend](https://www.indeed.com/viewjob?jk=3f6fff9b38f9ff5c) — Epiq
 - 📍 **Location:** New York, NY, USA
-- 💰 **Salary:** $138k–$197k/yr
+- 💰 **Salary:** $180k–$260k/yr
 - 🕒 **Posted:** 2026-11-06
 
-### [Robotics Software Engineer, Teleoperation](https://www.indeed.com/viewjob?jk=7f2c22cee6044dcb) — mecka
+### [Devops Engineer](https://www.indeed.com/viewjob?jk=400ea40223b5b706) — Robotics Technologies
+- 📍 **Location:** Newark, NJ, USA
+- 💰 **Salary:** $76/hr
+- 🕒 **Posted:** 2026-11-06
+
+### [Delivery Consultant- DevOps, AWS Professional Services](https://www.indeed.com/viewjob?jk=a41e17c3cd91a425) — Amazon Web Services
 - 📍 **Location:** New York, NY, USA
-- 💰 **Salary:** $200k–$240k/yr
-- 🕒 **Posted:** 2026-11-06
-
-### [Software Engineer II](https://www.indeed.com/viewjob?jk=c05e389ae415ef11) — JPMorganChase
-- 📍 **Location:** Jersey City, NJ, USA
-- 💰 **Salary:** $124k–$150k/yr
-- 🕒 **Posted:** 2026-11-06
-
-### [Devops Engineer](https://www.indeed.com/viewjob?jk=d021bbb83b46de77) — Robotics Technologies
-- 📍 **Location:** New York, NY, USA
-- 💰 **Salary:** $70/hr
-- 🕒 **Posted:** 2026-11-06
-
-### [Delivery Consultant- DevOps, AWS Professional Services](https://www.indeed.com/viewjob?jk=2385fbe0429dea8d) — Amazon Web Services
-- 📍 **Location:** Jersey City, NJ, USA
 - 💰 **Salary:** $131k–$195k/yr
 - 🕒 **Posted:** 2026-11-06
 
-### [Associate Software Engineer](https://www.indeed.com/viewjob?jk=b8bdbd6d513c262d) — Priceline.com
+### [Software Engineer (AI Agents)](https://www.indeed.com/viewjob?jk=e123a400ef74afff) — Fluent
 - 📍 **Location:** New York, NY, USA
-- 💰 **Salary:** $100k–$125k/yr
+- 💰 **Salary:** $130k–$155k/yr
 - 🕒 **Posted:** 2026-11-06
 
-### [Software Engineer II](https://www.indeed.com/viewjob?jk=8aff95de74965a00) — JPMorganChase
-- 📍 **Location:** Jersey City, NJ, USA
-- 💰 **Salary:** $124k–$150k/yr
+### [Platform Engineer](https://www.indeed.com/viewjob?jk=11ca6a6d30af1976) — Advocate Technologies Inc.
+- 📍 **Location:** Long Island City, NY, USA
+- 💰 **Salary:** $140k–$200k/yr
 - 🕒 **Posted:** 2026-11-06
