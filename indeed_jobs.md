@@ -1,73 +1,78 @@
 # 🟦 Indeed — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-11-06 01:48 UTC*
+*Last updated: 2026-11-06 09:48 UTC*
 
-**14 new role(s)** since last run · 52 total in last 24h
+**15 new role(s)** since last run · 52 total in last 24h
 
-### [Software Engineer](https://www.indeed.com/viewjob?jk=84e05acdb22cd1e7) — Cisco
-- 📍 **Location:** Milpitas, CA, USA
-- 💰 **Salary:** $149k–$282k/yr
-- 🕒 **Posted:** 2026-11-05
+### [Computer Vision & Machine Learning Engineer](https://www.indeed.com/viewjob?jk=a911b24293c8c1db) — Tesla
+- 📍 **Location:** Palo Alto, CA, USA
+- 💰 **Salary:** $100k–$372k/yr
+- 🕒 **Posted:** 2026-11-06
 
-### [Software Engineer - Android (Technical Leadership)](https://www.indeed.com/viewjob?jk=5e8f531c93f18592) — Meta
-- 📍 **Location:** Menlo Park, CA, USA
-- 💰 **Salary:** $219k–$301k/yr
-- 🕒 **Posted:** 2026-11-05
+### [Research Engineer, Agentic Video Editing - TikTok](https://www.indeed.com/viewjob?jk=25ce81ab15eec456) — TikTok
+- 📍 **Location:** San Jose, CA, USA
+- 💰 **Salary:** $162k–$388k/yr
+- 🕒 **Posted:** 2026-11-06
 
-### [Software Engineer, AI Co-design](https://www.indeed.com/viewjob?jk=cff44c6e7835e12f) — Meta
+### [Software Engineer II - Engineer](https://www.indeed.com/viewjob?jk=bbc6b60e7e7ddbe8) — Uber
+- 📍 **Location:** San Francisco, CA, USA
+- 💰 **Salary:** $171k–$190k/yr
+- 🕒 **Posted:** 2026-11-06
+
+### [Devops Engineer](https://www.indeed.com/viewjob?jk=c590f9a1fc0c4d78) — Robotics Technologies
+- 📍 **Location:** San Jose, CA, USA
+- 🕒 **Posted:** 2026-11-06
+
+### [DevOps Engineer](https://www.indeed.com/viewjob?jk=299c905b45a50c3e) — Robotics Technologies
 - 📍 **Location:** Sunnyvale, CA, USA
-- 💰 **Salary:** $184k–$257k/yr
-- 🕒 **Posted:** 2026-11-05
+- 💰 **Salary:** $74/hr
+- 🕒 **Posted:** 2026-11-06
 
-### [Software Engineer, Engine Harmony](https://www.indeed.com/viewjob?jk=81cc0f95e3ffa92f) — Roblox
-- 📍 **Location:** San Mateo, CA, USA
-- 💰 **Salary:** $153k–$197k/yr
-- 🕒 **Posted:** 2026-11-05
-
-### [Flight Software Engineer](https://www.indeed.com/viewjob?jk=d765791a6d639381) — EraDrive
-- 📍 **Location:** Palo Alto, CA, USA
-- 🕒 **Posted:** 2026-11-05
-
-### [Embedded Software Engineer](https://www.indeed.com/viewjob?jk=019f223b863ef422) — Cisco
-- 📍 **Location:** San Jose, CA, USA
-- 💰 **Salary:** $138k–$256k/yr
-- 🕒 **Posted:** 2026-11-05
-
-### [Software Engineer 2](https://www.indeed.com/viewjob?jk=d31d5e4710eb37b4) — eBay
-- 📍 **Location:** San Jose, CA, USA
-- 💰 **Salary:** $188k–$263k/yr
-- 🕒 **Posted:** 2026-11-05
-
-### [Software Engineer 2 – Wireless Access Point Development](https://www.indeed.com/viewjob?jk=c95e9b830a7d5860) — Hewlett Packard Enterprise | HPE
-- 📍 **Location:** Cupertino, CA, USA
+### [Software Engineer for Packet Forwarding (Sunnyvale, California)](https://www.indeed.com/viewjob?jk=a789be6a8b62b865) — Hewlett Packard Enterprise | HPE
+- 📍 **Location:** Sunnyvale, CA, USA
 - 💰 **Salary:** $108k–$218k/yr
-- 🕒 **Posted:** 2026-11-05
+- 🕒 **Posted:** 2026-11-06
 
-### [Développeur.se de logiciels - Flux de travaux agentifs / Software Developer - Agentic Workflows](https://www.indeed.com/viewjob?jk=e3063f087d209209) — Electronic Arts
-- 📍 **Location:** Redwood City, CA, USA
-- 💰 **Salary:** $121k–$184k/yr
-- 🕒 **Posted:** 2026-11-05
+### [Systems Software Engineer, BMC & Management Plane](https://www.indeed.com/viewjob?jk=8ffd2b59c4861de8) — OpenAI
+- 📍 **Location:** San Francisco, CA, USA
+- 💰 **Salary:** $266k–$445k/yr
+- 🕒 **Posted:** 2026-11-06
 
-### [Software Engineer, Design Technology, Simulation Technology](https://www.indeed.com/viewjob?jk=8063f1e9a4ba4b68) — Tesla
-- 📍 **Location:** Palo Alto, CA, USA
-- 💰 **Salary:** $140k–$210k/yr
-- 🕒 **Posted:** 2026-11-05
+### [Teleop Platform Engineer, Real-Time Systems & UI](https://www.indeed.com/viewjob?jk=37b74ecbfd639145) — mecka
+- 📍 **Location:** New York, NY, USA
+- 💰 **Salary:** $200k–$240k/yr
+- 🕒 **Posted:** 2026-11-06
 
-### [Software Engineer, Cloud Infrastructure](https://www.indeed.com/viewjob?jk=974d668519ab08e4) — Verkada
-- 📍 **Location:** San Mateo, CA, USA
-- 💰 **Salary:** $180k–$260k/yr
-- 🕒 **Posted:** 2026-11-05
+### [Business Data Scientist, Growth and Opportunity Marketing](https://www.indeed.com/viewjob?jk=d19c1416f381d304) — Google
+- 📍 **Location:** New York, NY, USA
+- 💰 **Salary:** $138k–$197k/yr
+- 🕒 **Posted:** 2026-11-06
 
-### [Software Engineer III, AI/ML GenAI](https://www.indeed.com/viewjob?jk=4f5e841a214877b9) — Google
-- 📍 **Location:** Mountain View, CA, USA
-- 💰 **Salary:** $147k–$210k/yr
-- 🕒 **Posted:** 2026-11-05
+### [Robotics Software Engineer, Teleoperation](https://www.indeed.com/viewjob?jk=7f2c22cee6044dcb) — mecka
+- 📍 **Location:** New York, NY, USA
+- 💰 **Salary:** $200k–$240k/yr
+- 🕒 **Posted:** 2026-11-06
 
-### [Mobile Engineer (Union)](https://www.indeed.com/viewjob?jk=552d04c6c3e6e30c) — JLL
-- 📍 **Location:** Palo Alto, CA, USA
-- 💰 **Salary:** $159k/yr
-- 🕒 **Posted:** 2026-11-05
+### [Software Engineer II](https://www.indeed.com/viewjob?jk=c05e389ae415ef11) — JPMorganChase
+- 📍 **Location:** Jersey City, NJ, USA
+- 💰 **Salary:** $124k–$150k/yr
+- 🕒 **Posted:** 2026-11-06
 
-### [AI and Data Science Engineer III - Marketing Measurement](https://www.indeed.com/viewjob?jk=9acb3edf25a57a03) — Deloitte
-- 📍 **Location:** San Jose, CA, USA
-- 💰 **Salary:** $113k–$189k/yr
-- 🕒 **Posted:** 2026-11-05
+### [Devops Engineer](https://www.indeed.com/viewjob?jk=d021bbb83b46de77) — Robotics Technologies
+- 📍 **Location:** New York, NY, USA
+- 💰 **Salary:** $70/hr
+- 🕒 **Posted:** 2026-11-06
+
+### [Delivery Consultant- DevOps, AWS Professional Services](https://www.indeed.com/viewjob?jk=2385fbe0429dea8d) — Amazon Web Services
+- 📍 **Location:** Jersey City, NJ, USA
+- 💰 **Salary:** $131k–$195k/yr
+- 🕒 **Posted:** 2026-11-06
+
+### [Associate Software Engineer](https://www.indeed.com/viewjob?jk=b8bdbd6d513c262d) — Priceline.com
+- 📍 **Location:** New York, NY, USA
+- 💰 **Salary:** $100k–$125k/yr
+- 🕒 **Posted:** 2026-11-06
+
+### [Software Engineer II](https://www.indeed.com/viewjob?jk=8aff95de74965a00) — JPMorganChase
+- 📍 **Location:** Jersey City, NJ, USA
+- 💰 **Salary:** $124k–$150k/yr
+- 🕒 **Posted:** 2026-11-06
