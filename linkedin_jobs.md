@@ -1,98 +1,131 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-11-05 23:19 UTC*
+*Last updated: 2026-11-06 00:19 UTC*
 
-**22 new role(s)** since last run · 34 total in last 1h
+**31 new role(s)** since last run · 36 total in last 1h
 
-### [Generative AI Engineer](https://www.linkedin.com/jobs/view/4483895127/) — Photon
-- 📍 **Location:** New York City Metropolitan Area
-- 💰 **Salary:** $70,000.00/yr - $100,000.00/yr
-- 🕒 **Posted:** 2026-11-05
-
-### [Applied Scientist, Fauna Robotics](https://www.linkedin.com/jobs/view/4485859988/) — Amazon Science
+### [Data Scientist - Supply Chain](https://www.linkedin.com/jobs/view/4488080414/) — Integrated Resources, Inc ( IRI )
 - 📍 **Location:** Sunnyvale, CA
 - 🕒 **Posted:** 2026-11-05
 
-### [Applied Scientist, Engineering](https://www.linkedin.com/jobs/view/4486908342/) — Anthropic
+### [Research Engineer, Model Evaluation and Improvement](https://www.linkedin.com/jobs/view/4488074513/) — Benchling
 - 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $136,435.00/yr - $166,754.00/yr
 - 🕒 **Posted:** 2026-11-05
 
-### [Data Science Extern](https://www.linkedin.com/jobs/view/4486908442/) — BetterHelp
-- 📍 **Location:** Mountain View, CA
+### [Physics AI Scientist III](https://www.linkedin.com/jobs/view/4485876676/) — Applied Materials
+- 📍 **Location:** Santa Clara, CA
 - 🕒 **Posted:** 2026-11-05
 
-### [Software Engineer](https://www.linkedin.com/jobs/view/4488062464/) — Mintive
+### [Machine Learning Engineer - Agentic AI](https://www.linkedin.com/jobs/view/4488091079/) — DiDi
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-11-05
+
+### [Software Engineer, Engine Harmony](https://www.linkedin.com/jobs/view/4486919973/) — Roblox
 - 📍 **Location:** San Mateo, CA
 - 🕒 **Posted:** 2026-11-05
 
-### [Software Engineer](https://www.linkedin.com/jobs/view/4488068137/) — Mintive
+### [Software Engineer, Agent Platform](https://www.linkedin.com/jobs/view/4486926642/) — OpenAI
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $230,000.00/yr - $385,000.00/yr
+- 🕒 **Posted:** 2026-11-05
+
+### [Embedded Software Engineer](https://www.linkedin.com/jobs/view/4488088166/) — Cisco
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-11-05
 
-### [Software Engineer, Intern](https://www.linkedin.com/jobs/view/4486910544/) — Nooks
+### [AI Scientist, Computational Protein Design](https://www.linkedin.com/jobs/view/4486918784/) — Xaira Therapeutics
+- 📍 **Location:** South San Francisco, CA
+- 🕒 **Posted:** 2026-11-05
+
+### [AI Scientist - Agentic Verticals](https://www.linkedin.com/jobs/view/4488078346/) — Zoom
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-11-05
+
+### [Cloud Services Software Engineer](https://www.linkedin.com/jobs/view/4488076281/) — Thomas To
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-11-05
+
+### [Software Engineer, AI Gateway](https://www.linkedin.com/jobs/view/4465333600/) — Vercel
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-11-05
 
-### [Full Stack Engineer, Builder Experience](https://www.linkedin.com/jobs/view/4476317334/) — Stripe
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-11-05
-
-### [Software Engineer III, Performance, Platforms Infrastructure Engineering](https://www.linkedin.com/jobs/view/4486923151/) — Google
+### [Software Engineer, GPU Inference](https://www.linkedin.com/jobs/view/4477880146/) — Cerebras
 - 📍 **Location:** Sunnyvale, CA
 - 🕒 **Posted:** 2026-11-05
 
-### [Robotics Software Engineer](https://www.linkedin.com/jobs/view/4488074275/) — Mytra
-- 📍 **Location:** Brisbane, CA
+### [Lab Software Engineer](https://www.linkedin.com/jobs/view/4467131141/) — Xaira Therapeutics
+- 📍 **Location:** South San Francisco, CA
 - 🕒 **Posted:** 2026-11-05
 
-### [Platform Engineer](https://www.linkedin.com/jobs/view/4485553700/) — Engram
+### [Robotics Control Software Engineer](https://www.linkedin.com/jobs/view/4454791877/) — Xaira Therapeutics
+- 📍 **Location:** South San Francisco, CA
+- 🕒 **Posted:** 2026-11-05
+
+### [Cluster Operations Software Engineer](https://www.linkedin.com/jobs/view/4454098845/) — Cerebras
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-11-05
+
+### [AI Fleet Platform Software Engineer](https://www.linkedin.com/jobs/view/4475036302/) — Cerebras
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-11-05
+
+### [Data Scientist](https://www.linkedin.com/jobs/view/4485007117/) — Vestwell
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-11-05
+
+### [Software Engineer (Java/Python) - AVP](https://www.linkedin.com/jobs/view/4486923451/) — Citi
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-11-05
+
+### [Scientist, Drug Metabolism](https://www.linkedin.com/jobs/view/4486904922/) — Gilead Sciences
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-11-05
+
+### [Full Stack Engineer](https://www.linkedin.com/jobs/view/4486926444/) — Veritis Group Inc
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-11-05
+
+### [BioMedical AI Research Engineer](https://www.linkedin.com/jobs/view/4486905996/) — Xaira Therapeutics
+- 📍 **Location:** South San Francisco, CA
+- 🕒 **Posted:** 2026-11-05
+
+### [Software Engineer, Agentic Infrastructure](https://www.linkedin.com/jobs/view/4469105025/) — Vercel
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-11-05
 
-### [Mobile Engineer](https://www.linkedin.com/jobs/view/4485857965/) — Betterment
-- 📍 **Location:** New York, NY
+### [Software Engineer, Cluster Deployment](https://www.linkedin.com/jobs/view/4470991439/) — Cerebras
+- 📍 **Location:** Sunnyvale, CA
 - 🕒 **Posted:** 2026-11-05
 
-### [Infra DevOps and Backend Engineer](https://www.linkedin.com/jobs/view/4481784847/) — GMI Cloud
-- 📍 **Location:** Mountain View, CA
+### [Cloud Infrastructure Engineer](https://www.linkedin.com/jobs/view/4482413351/) — Cerebras
+- 📍 **Location:** Sunnyvale, CA
 - 🕒 **Posted:** 2026-11-05
 
-### [SubContractor - DevOps Engineer](https://www.linkedin.com/jobs/view/4488062527/) — Qvest US
-- 📍 **Location:** New York, NY
+### [Backend Engineer - Typescript](https://www.linkedin.com/jobs/view/4486912916/) — Air Apps
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $80,000.00/yr - $160,000.00/yr
 - 🕒 **Posted:** 2026-11-05
 
-### [Cloud Infrastructure Engineer | Azure | Recent Grad | Hybrid](https://www.linkedin.com/jobs/view/4485864814/) — CyberCoders
-- 📍 **Location:** Harrison, NY
-- 💰 **Salary:** $115,000.00/yr - $125,000.00/yr
+### [Software Engineer, Inference Platform](https://www.linkedin.com/jobs/view/4470992437/) — Cerebras
+- 📍 **Location:** Sunnyvale, CA
 - 🕒 **Posted:** 2026-11-05
 
-### [Site Reliability Engineer](https://www.linkedin.com/jobs/view/4486905585/) — Harvey Nash
-- 📍 **Location:** New York City Metropolitan Area
+### [Software Engineer - Host and Network IO](https://www.linkedin.com/jobs/view/4465866826/) — Cerebras
+- 📍 **Location:** Sunnyvale, CA
 - 🕒 **Posted:** 2026-11-05
 
-### [W2 Role: Jr Fullstack Engineer - NodeJS & ReactJS , REMOTE](https://www.linkedin.com/jobs/view/4486906096/) — Xforia Global Talent & Technology Solutions
-- 📍 **Location:** San Jose, CA
-- 💰 **Salary:** $45.00/hr - $50.00/hr
+### [Cloud Infrastructure Engineer](https://www.linkedin.com/jobs/view/4440048618/) — Cerebras
+- 📍 **Location:** Sunnyvale, CA
 - 🕒 **Posted:** 2026-11-05
 
-### [Software Engineer](https://www.linkedin.com/jobs/view/4488046895/) — Aditi Consulting
-- 📍 **Location:** Menlo Park, CA
-- 💰 **Salary:** $85.00/hr - $91.00/hr
+### [Software Engineer - Tools & Infrastructure / DevOps](https://www.linkedin.com/jobs/view/4441200391/) — Cerebras
+- 📍 **Location:** Sunnyvale, CA
 - 🕒 **Posted:** 2026-11-05
 
-### [Software Engineer](https://www.linkedin.com/jobs/view/4488049925/) — C1
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $180,000.00/yr - $250,000.00/yr
+### [Infrastructure Engineer (Data Center Operations)](https://www.linkedin.com/jobs/view/4471100241/) — Cerebras
+- 📍 **Location:** Sunnyvale, CA
 - 🕒 **Posted:** 2026-11-05
 
-### [Embedded Linux & VoIP Software Engineer](https://www.linkedin.com/jobs/view/4488063306/) — General Devices (GD)
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-11-05
-
-### [Site Reliability Engineer](https://www.linkedin.com/jobs/view/4488046840/) — MethodHub
-- 📍 **Location:** Jersey City, NJ
-- 💰 **Salary:** $70.00/hr - $80.00/hr
-- 🕒 **Posted:** 2026-11-05
-
-### [Software Engineer](https://www.linkedin.com/jobs/view/4488069529/) — Cisco
-- 📍 **Location:** Milpitas, CA
+### [AI Datacenter Infra engineer](https://www.linkedin.com/jobs/view/4469969808/) — Cerebras
+- 📍 **Location:** Sunnyvale, CA
 - 🕒 **Posted:** 2026-11-05
