@@ -1,5 +1,5 @@
 # 🟪 ZipRecruiter + Google — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-11-06 20:48 UTC*
+*Last updated: 2026-11-07 02:40 UTC*
 
 **0 new role(s)** since last run · 0 total in last 24h
 
