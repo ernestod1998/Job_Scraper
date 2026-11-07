@@ -1,6 +1,8 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-11-07 02:17 UTC*
+*Last updated: 2026-11-07 03:17 UTC*
 
-**0 new role(s)** since last run · 1 total in last 1h
+**1 new role(s)** since last run · 1 total in last 1h
 
-No new roles since the last run.
+### [Software Engineer, Infrastructure (4+ yrs), SF at Blockit, Seeded by Sequoia's Pat Grady](https://www.linkedin.com/jobs/view/4483869221/) — Harper
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-11-06
