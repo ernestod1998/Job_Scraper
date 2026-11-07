@@ -1,30 +1,24 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-11-07 00:18 UTC*
+*Last updated: 2026-11-07 01:08 UTC*
 
-**6 new role(s)** since last run · 27 total in last 1h
+**5 new role(s)** since last run · 13 total in last 1h
 
-### [IT Infrastructure & DevOps Engineer](https://www.linkedin.com/jobs/view/4487358680/) — TetraMem - Accelerate The World
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-11-06
-
-### [Software Engineer in Test 5 - Android Player](https://www.linkedin.com/jobs/view/4486292734/) — Netflix
+### [Software Engineer 4 - TV & Web Player](https://www.linkedin.com/jobs/view/4486288780/) — Netflix
 - 📍 **Location:** Los Gatos, CA
 - 🕒 **Posted:** 2026-11-06
 
-### [Research Engineer](https://www.linkedin.com/jobs/view/4488450971/) — Gauntlet
-- 📍 **Location:** New York City Metropolitan Area
+### [Software Engineer 5 - TV & Web Player](https://www.linkedin.com/jobs/view/4486296528/) — Netflix
+- 📍 **Location:** Los Gatos, CA
 - 🕒 **Posted:** 2026-11-06
 
-### [Cloud/DevOps Engineer - III](https://www.linkedin.com/jobs/view/4487362550/) — SGS Consulting
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $70.00/hr - $100.00/hr
+### [Wireless Embedded Software Developer, Simulation Foundations, Amazon Leo](https://www.linkedin.com/jobs/view/4488476010/) — Amazon
+- 📍 **Location:** Sunnyvale, CA
 - 🕒 **Posted:** 2026-11-06
 
-### [Software Engineer Data & AI II (Full Time) – United States](https://www.linkedin.com/jobs/view/4488456322/) — Cisco
-- 📍 **Location:** San Jose, CA
+### [Software Engineer, Wireless - Cellular](https://www.linkedin.com/jobs/view/4488476160/) — Proven Recruiting
+- 📍 **Location:** Palo Alto, CA
 - 🕒 **Posted:** 2026-11-06
 
-### [Software Engineer](https://www.linkedin.com/jobs/view/4488441962/) — Blossom
+### [Associate - Full-Stack Software Developer](https://www.linkedin.com/jobs/view/4488463566/) — New York Life
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $150,000.00/yr - $220,000.00/yr
 - 🕒 **Posted:** 2026-11-06
