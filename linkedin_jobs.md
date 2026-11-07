@@ -1,9 +1,8 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-11-07 22:17 UTC*
+*Last updated: 2026-11-07 23:17 UTC*
 
-**1 new role(s)** since last run · 1 total in last 1h
+**1 new role(s)** since last run · 2 total in last 1h
 
-### [Software Engineer - Project Creation](https://www.linkedin.com/jobs/view/4488735681/) — Alignerr
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $20.00/hr - $100.00/hr
+### [Machine Learning Engineer - New Grad](https://www.linkedin.com/jobs/view/4486066764/) — SambaNova
+- 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-11-07
