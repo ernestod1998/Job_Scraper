@@ -1,54 +1,32 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-11-10 01:18 UTC*
+*Last updated: 2026-11-10 02:18 UTC*
 
-**12 new role(s)** since last run · 26 total in last 1h
+**7 new role(s)** since last run · 15 total in last 1h
 
-### [Research Engineer - Robotics AI](https://www.linkedin.com/jobs/view/4487429321/) — Bosch USA
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-11-09
-
-### [Backend Software Engineer - Mission Planning Strategy](https://www.linkedin.com/jobs/view/4487435145/) — Loft Orbital
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $150,000.00/yr - $195,000.00/yr
-- 🕒 **Posted:** 2026-11-09
-
-### [Data Science Analyst II-Pathology, Molecular and Cell Based Medicine](https://www.linkedin.com/jobs/view/4489404000/) — Mount Sinai Morningside
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-11-09
-
-### [Associate, Data Platform Engineering](https://www.linkedin.com/jobs/view/4487419859/) — Ares Management
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-11-09
-
-### [Junior Fullstack Engineer](https://www.linkedin.com/jobs/view/4489176670/) — Quo
+### [Computer Vision Research Engineer - Intern](https://www.linkedin.com/jobs/view/4475886314/) — Bobyard
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-11-09
 
-### [Software Engineer — Device Software Support (Associate / Junior)](https://www.linkedin.com/jobs/view/4489169886/) — Tiposi
-- 📍 **Location:** Milpitas, CA
-- 🕒 **Posted:** 2026-11-09
-
-### [Platform Engineer [AQ-26080]](https://www.linkedin.com/jobs/view/4487427382/) — Aquent
-- 📍 **Location:** San Mateo, CA
-- 💰 **Salary:** $78.00/hr - $87.00/hr
-- 🕒 **Posted:** 2026-11-09
-
-### [Junior Fullstack Engineer](https://www.linkedin.com/jobs/view/4489176549/) — Quo
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-11-09
-
-### [Software Engineer II](https://www.linkedin.com/jobs/view/4487967904/) — Crunchyroll
+### [Software Engineer, AI Agents at Blockit (Sequoia-Backed AI Scheduling Agent), San Francisco](https://www.linkedin.com/jobs/view/4483856624/) — Harper
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-11-09
 
-### [Machine Learning Engineer, Driver Refinement & Validation, Perception](https://www.linkedin.com/jobs/view/4468025356/) — Waymo
+### [Software Engineer, Infrastructure (4+ yrs), SF at Blockit, Seeded by Sequoia's Pat Grady](https://www.linkedin.com/jobs/view/4483869221/) — Harper
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-11-09
 
-### [Data Scientist II](https://www.linkedin.com/jobs/view/4489158884/) — Early Warning
+### [Site Reliability Engineer, E-Commerce](https://www.linkedin.com/jobs/view/4489405052/) — TikTok USDS Joint Venture
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-11-09
+
+### [Software Engineer](https://www.linkedin.com/jobs/view/4487988235/) — Haystack
+- 📍 **Location:** Santa Clara County, CA
+- 🕒 **Posted:** 2026-11-09
+
+### [Software Engineer, Product & Growth (Full-Stack) at Blockit, Founded by an Ex-Sequoia Partner](https://www.linkedin.com/jobs/view/4483847893/) — Harper
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-11-09
 
-### [Data Scientist II](https://www.linkedin.com/jobs/view/4489152972/) — Early Warning
-- 📍 **Location:** New York, NY
+### [Software Engineer, Observability](https://www.linkedin.com/jobs/view/4489197263/) — Postman
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-11-09
