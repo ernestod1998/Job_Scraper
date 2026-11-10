@@ -1,61 +1,54 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-11-10 00:19 UTC*
+*Last updated: 2026-11-10 01:18 UTC*
 
-**13 new role(s)** since last run · 42 total in last 1h
+**12 new role(s)** since last run · 26 total in last 1h
 
-### [Full-Stack Software Engineer, Child Safety Tools & Systems](https://www.linkedin.com/jobs/view/4487967891/) — OpenAI
+### [Research Engineer - Robotics AI](https://www.linkedin.com/jobs/view/4487429321/) — Bosch USA
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-11-09
+
+### [Backend Software Engineer - Mission Planning Strategy](https://www.linkedin.com/jobs/view/4487435145/) — Loft Orbital
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $150,000.00/yr - $195,000.00/yr
+- 🕒 **Posted:** 2026-11-09
+
+### [Data Science Analyst II-Pathology, Molecular and Cell Based Medicine](https://www.linkedin.com/jobs/view/4489404000/) — Mount Sinai Morningside
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-11-09
 
-### [Software Engineer](https://www.linkedin.com/jobs/view/4487416872/) — Applied Materials
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-11-09
-
-### [Full-Stack Software Engineer, Child Safety Tools & Systems](https://www.linkedin.com/jobs/view/4487980210/) — OpenAI
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $266,000.00/yr - $445,000.00/yr
-- 🕒 **Posted:** 2026-11-09
-
-### [Software Engineer III](https://www.linkedin.com/jobs/view/4487967581/) — Uber Freight
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-11-09
-
-### [Platform Engineer](https://www.linkedin.com/jobs/view/4487958894/) — Andiamo! Group Talent Partners
-- 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-11-09
-
-### [Software Engineer - C++ Quantitative Trading](https://www.linkedin.com/jobs/view/4441003793/) — Acquire Me
-- 📍 **Location:** New York City Metropolitan Area
-- 💰 **Salary:** $250,000.00/yr - $350,000.00/yr
-- 🕒 **Posted:** 2026-11-09
-
-### [Software Developer](https://www.linkedin.com/jobs/view/4489157947/) — Lawrence Livermore National Laboratory
-- 📍 **Location:** Livermore, CA
-- 🕒 **Posted:** 2026-11-09
-
-### [Site Reliability Engineer - Quantitative Trading](https://www.linkedin.com/jobs/view/4429410207/) — Acquire Me
-- 📍 **Location:** New York City Metropolitan Area
-- 💰 **Salary:** $250,000.00/yr - $350,000.00/yr
-- 🕒 **Posted:** 2026-11-09
-
-### [Software Engineer, Financial Data & Payments](https://www.linkedin.com/jobs/view/4489159789/) — Gusto
-- 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-11-09
-
-### [Platform Engineer, Billing Systems](https://www.linkedin.com/jobs/view/4442837822/) — Wispr Flow
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $220,000.00/yr - $350,000.00/yr
-- 🕒 **Posted:** 2026-11-09
-
-### [Software Engineer - .NET](https://www.linkedin.com/jobs/view/4489137617/) — BridgeView
+### [Associate, Data Platform Engineering](https://www.linkedin.com/jobs/view/4487419859/) — Ares Management
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $70.00/hr - $80.00/hr
 - 🕒 **Posted:** 2026-11-09
 
-### [Software Engineer Intern](https://www.linkedin.com/jobs/view/4487970774/) — FormFactor Inc.
-- 📍 **Location:** Livermore, CA
+### [Junior Fullstack Engineer](https://www.linkedin.com/jobs/view/4489176670/) — Quo
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-11-09
 
-### [Software Engineer, Frontend/Web App](https://www.linkedin.com/jobs/view/4489181341/) — Beacon AI
-- 📍 **Location:** San Carlos, CA
+### [Software Engineer — Device Software Support (Associate / Junior)](https://www.linkedin.com/jobs/view/4489169886/) — Tiposi
+- 📍 **Location:** Milpitas, CA
+- 🕒 **Posted:** 2026-11-09
+
+### [Platform Engineer [AQ-26080]](https://www.linkedin.com/jobs/view/4487427382/) — Aquent
+- 📍 **Location:** San Mateo, CA
+- 💰 **Salary:** $78.00/hr - $87.00/hr
+- 🕒 **Posted:** 2026-11-09
+
+### [Junior Fullstack Engineer](https://www.linkedin.com/jobs/view/4489176549/) — Quo
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-11-09
+
+### [Software Engineer II](https://www.linkedin.com/jobs/view/4487967904/) — Crunchyroll
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-11-09
+
+### [Machine Learning Engineer, Driver Refinement & Validation, Perception](https://www.linkedin.com/jobs/view/4468025356/) — Waymo
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-11-09
+
+### [Data Scientist II](https://www.linkedin.com/jobs/view/4489158884/) — Early Warning
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-11-09
+
+### [Data Scientist II](https://www.linkedin.com/jobs/view/4489152972/) — Early Warning
+- 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-11-09
