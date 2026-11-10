@@ -1,132 +1,184 @@
 # 🟦 Indeed — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-11-10 07:42 UTC*
+*Last updated: 2026-11-10 21:26 UTC*
 
-**26 new role(s)** since last run · 53 total in last 24h
+**36 new role(s)** since last run · 62 total in last 24h
 
-### [Machine Learning Engineer, 3D Simulation](https://www.indeed.com/viewjob?jk=4a5547cb907f5574) — Zoox
-- 📍 **Location:** Foster City, CA, USA
-- 💰 **Salary:** $155k–$239k/yr
-- 🕒 **Posted:** 2026-11-09
+### [Data Scientist](https://www.indeed.com/viewjob?jk=7bdaeb8f27dc3c6d) — Robotics Technologies
+- 📍 **Location:** San Francisco, CA, USA
+- 💰 **Salary:** $90/hr
+- 🕒 **Posted:** 2026-11-10
 
-### [Software Engineering Generalist](https://www.indeed.com/viewjob?jk=c1ee5b52173d66f5) — Zeromatter Technologies Inc
+### [Software Engineer, Machine Learning - Ads Infra and Ranking](https://www.indeed.com/viewjob?jk=5f1dba7fee5ef4c3) — Meta
+- 📍 **Location:** Menlo Park, CA, USA
+- 💰 **Salary:** $184k–$257k/yr
+- 🕒 **Posted:** 2026-11-10
+
+### [Software Engineer III, AI/ML, Google Ads](https://www.indeed.com/viewjob?jk=396fe2abd3160256) — Google
 - 📍 **Location:** Mountain View, CA, USA
-- 💰 **Salary:** $100k–$300k/yr
-- 🕒 **Posted:** 2026-11-09
+- 💰 **Salary:** $147k–$210k/yr
+- 🕒 **Posted:** 2026-11-10
 
-### [Software Engineer II - Engineer](https://www.indeed.com/viewjob?jk=a218071a86bf0545) — Uber
-- 📍 **Location:** San Francisco, CA, USA
-- 💰 **Salary:** $171k–$190k/yr
-- 🕒 **Posted:** 2026-11-09
-
-### [Full-Stack Software Engineer, Child Safety Tools & Systems](https://www.indeed.com/viewjob?jk=34e6cb8a08282ae3) — OpenAI
-- 📍 **Location:** San Francisco, CA, USA
-- 💰 **Salary:** $266k–$385k/yr
-- 🕒 **Posted:** 2026-11-09
-
-### [Android Engineer, Growth](https://www.indeed.com/viewjob?jk=9d113bade1e6c051) — OpenAI
-- 📍 **Location:** San Francisco, CA, USA
-- 💰 **Salary:** $266k–$385k/yr
-- 🕒 **Posted:** 2026-11-09
-
-### [Generalist Software Engineer(s)](https://www.indeed.com/viewjob?jk=207ee30e3f0913f4) — Pylon
-- 📍 **Location:** San Francisco, CA, USA
-- 🕒 **Posted:** 2026-11-09
-
-### [Software Engineer, Applied AI- Evals](https://www.indeed.com/viewjob?jk=568a7f4f4b082f47) — MERCOR
-- 📍 **Location:** San Francisco, CA, USA
-- 💰 **Salary:** $220k–$250k/yr
-- 🕒 **Posted:** 2026-11-09
-
-### [Software Engineer, Infra](https://www.indeed.com/viewjob?jk=2f6437f613812888) — General Translation
-- 📍 **Location:** San Francisco, CA, USA
-- 🕒 **Posted:** 2026-11-09
-
-### [Software Engineer, Contacts](https://www.indeed.com/viewjob?jk=8e6cb5de3fc19190) — Apple
+### [Computer Vision Engineer](https://www.indeed.com/viewjob?jk=792884070719e8c4) — Apple
 - 📍 **Location:** Cupertino, CA, USA
-- 💰 **Salary:** $185k–$325k/yr
-- 🕒 **Posted:** 2026-11-09
+- 💰 **Salary:** $150k–$278k/yr
+- 🕒 **Posted:** 2026-11-10
 
-### [GNC Software Engineer](https://www.indeed.com/viewjob?jk=e34d160231f381c3) — Xona Space Systems
-- 📍 **Location:** Burlingame, CA, USA
-- 💰 **Salary:** $165k–$190k/yr
-- 🕒 **Posted:** 2026-11-09
+### [Applied Scientist](https://www.indeed.com/viewjob?jk=36a5447cadcb0106) — Amazon.com
+- 📍 **Location:** Palo Alto, CA, USA
+- 💰 **Salary:** $143k–$222k/yr
+- 🕒 **Posted:** 2026-11-10
 
-### [Software Developer](https://www.indeed.com/viewjob?jk=a21ba739b92505f7) — Lawrence Livermore National Laboratory
+### [AI Software Engineer - Calendar Intelligence](https://www.indeed.com/viewjob?jk=cb2f16541a3e1772) — Apple
+- 📍 **Location:** Cupertino, CA, USA
+- 💰 **Salary:** $150k–$278k/yr
+- 🕒 **Posted:** 2026-11-10
+
+### [Software Engineer, AI/ML, ML Infrastructure, Search Ads](https://www.indeed.com/viewjob?jk=48e650235833bff4) — Google
+- 📍 **Location:** Mountain View, CA, USA
+- 💰 **Salary:** $147k–$210k/yr
+- 🕒 **Posted:** 2026-11-10
+
+### [ML Research Engineer, Performance Optimization](https://www.indeed.com/viewjob?jk=546d9d64c9ad025a) — Lila Sciences
+- 📍 **Location:** San Francisco, CA, USA
+- 💰 **Salary:** $148k–$240k/yr
+- 🕒 **Posted:** 2026-11-10
+
+### [Data Scientist, Strategic Finance](https://www.indeed.com/viewjob?jk=0abdb09c14990c64) — Rippling
+- 📍 **Location:** San Francisco, CA, USA
+- 💰 **Salary:** $120k–$190k/yr
+- 🕒 **Posted:** 2026-11-10
+
+### [ML / AI Research Engineer](https://www.indeed.com/viewjob?jk=45386e460c613d38) — Alldus
+- 📍 **Location:** San Francisco, CA, USA
+- 💰 **Salary:** $180k–$240k/yr
+- 🕒 **Posted:** 2026-11-10
+
+### [Business Data Scientist, AI Foundations](https://www.indeed.com/viewjob?jk=363cb1446453b232) — Google
+- 📍 **Location:** San Jose, CA, USA
+- 💰 **Salary:** $138k–$197k/yr
+- 🕒 **Posted:** 2026-11-10
+
+### [Software Engineer II, Backend - IT Product](https://www.indeed.com/viewjob?jk=0f0c8723a4f4f443) — Rippling
+- 📍 **Location:** San Francisco, CA, USA
+- 💰 **Salary:** $152k–$225k/yr
+- 🕒 **Posted:** 2026-11-10
+
+### [Software Engineer II, Backend - Platform Team](https://www.indeed.com/viewjob?jk=43b2fc7877ce7066) — Rippling
+- 📍 **Location:** San Francisco, CA, USA
+- 💰 **Salary:** $152k–$225k/yr
+- 🕒 **Posted:** 2026-11-10
+
+### [Software Engineer](https://www.indeed.com/viewjob?jk=7ae6c912bc27484c) — CLERA
+- 📍 **Location:** San Francisco, CA, USA
+- 💰 **Salary:** $150k–$300k/yr
+- 🕒 **Posted:** 2026-11-10
+
+### [Java Backend Developer](https://www.indeed.com/viewjob?jk=617b14e1429c782e) — Cognizant
+- 📍 **Location:** Sunnyvale, CA, USA
+- 💰 **Salary:** $90k–$130k/yr
+- 🕒 **Posted:** 2026-11-10
+
+### [Full Stack Software Engineer](https://www.indeed.com/viewjob?jk=f469956a2a1b293d) — Lawrence Livermore National Laboratory
 - 📍 **Location:** Livermore, CA, USA
 - 💰 **Salary:** $146k–$223k/yr
-- 🕒 **Posted:** 2026-11-09
+- 🕒 **Posted:** 2026-11-10
 
-### [Software Engineer, Deployment Platform MultiCloud](https://www.indeed.com/viewjob?jk=6759f1c65debba44) — Apple
-- 📍 **Location:** Cupertino, CA, USA
-- 💰 **Salary:** $150k–$225k/yr
-- 🕒 **Posted:** 2026-11-09
-
-### [Site Reliability Engineer, E-Commerce](https://www.indeed.com/viewjob?jk=4900842f86183b12) — TikTok USDS JV
+### [Software Engineer, AI-Powered Software Assurance](https://www.indeed.com/viewjob?jk=61c536ddafc6fa2d) — TikTok USDS JV
 - 📍 **Location:** San Jose, CA, USA
 - 💰 **Salary:** $137k–$360k/yr
-- 🕒 **Posted:** 2026-11-09
+- 🕒 **Posted:** 2026-11-10
 
-### [Site Reliability Engineer](https://www.indeed.com/viewjob?jk=90bed0168b4a7c55) — Bay Systems Consulting, Inc.
-- 📍 **Location:** Berkeley, CA, USA
-- 💰 **Salary:** $80/hr
-- 🕒 **Posted:** 2026-11-09
+### [Java Backend Developer, Server Side Technologies](https://www.indeed.com/viewjob?jk=06ec94d238d4d11b) — NetApp
+- 📍 **Location:** San Jose, CA, USA
+- 💰 **Salary:** $148k–$220k/yr
+- 🕒 **Posted:** 2026-11-10
 
-### [Machine Learning Engineer, Wallet Intelligence and Machine Learning](https://www.indeed.com/viewjob?jk=ff665659a7e4baaa) — Apple
+### [Software Engineer — Prisma Access](https://www.indeed.com/viewjob?jk=bbaebd71d32ecd8a) — Palo Alto Networks
+- 📍 **Location:** Santa Clara, CA, USA
+- 💰 **Salary:** $95k–$154k/yr
+- 🕒 **Posted:** 2026-11-10
+
+### [Platform Engineer](https://www.indeed.com/viewjob?jk=3407480e72fc3505) — Alldus
+- 📍 **Location:** San Francisco, CA, USA
+- 💰 **Salary:** $200k–$250k/yr
+- 🕒 **Posted:** 2026-11-10
+
+### [Site Reliability Engineer](https://www.indeed.com/viewjob?jk=fd241ca3e1a00e46) — Hewlett Packard Enterprise | HPE
+- 📍 **Location:** Sunnyvale, CA, USA
+- 💰 **Salary:** $126k–$253k/yr
+- 🕒 **Posted:** 2026-11-10
+
+### [Software Engineer (New Grad)](https://www.indeed.com/viewjob?jk=551f469437c583d7) — Alldus
 - 📍 **Location:** New York, NY, USA
-- 💰 **Salary:** $150k–$278k/yr
-- 🕒 **Posted:** 2026-11-09
+- 💰 **Salary:** $130k–$140k/yr
+- 🕒 **Posted:** 2026-11-10
 
-### [Software Engineer II: Fullstack](https://www.indeed.com/viewjob?jk=9794aa5bd04a7a00) — JPMorganChase
-- 📍 **Location:** Jersey City, NJ, USA
-- 💰 **Salary:** $124k–$150k/yr
-- 🕒 **Posted:** 2026-11-09
-
-### [Software Developer, GO Systems](https://www.indeed.com/viewjob?jk=e7d9ac2f18948d39) — Meta
+### [Software Engineers (C++)](https://www.indeed.com/viewjob?jk=810f23cd98f3ee1a) — Alldus
 - 📍 **Location:** New York, NY, USA
-- 💰 **Salary:** $114k–$167k/yr
-- 🕒 **Posted:** 2026-11-09
+- 💰 **Salary:** $275k–$350k/yr
+- 🕒 **Posted:** 2026-11-10
 
-### [Data & ML Engineer (Azure)](https://www.indeed.com/viewjob?jk=01d6a7637f329aa7) — Robotics Technologies
+### [Software Engineers (Python/QDE)](https://www.indeed.com/viewjob?jk=85d8b5a966472ff4) — Alldus
 - 📍 **Location:** New York, NY, USA
-- 💰 **Salary:** $76/hr
-- 🕒 **Posted:** 2026-11-09
+- 💰 **Salary:** $275k–$350k/yr
+- 🕒 **Posted:** 2026-11-10
 
-### [Software Engineer II - Engineer](https://www.indeed.com/viewjob?jk=63d9c0f0bf874cfa) — Uber
+### [Software Engineer II - Client Engineering](https://www.indeed.com/viewjob?jk=535f33d654e989e7) — Kraken
 - 📍 **Location:** New York, NY, USA
-- 💰 **Salary:** $171k–$190k/yr
-- 🕒 **Posted:** 2026-11-09
+- 💰 **Salary:** $100k–$155k/yr
+- 🕒 **Posted:** 2026-11-10
 
-### [Software Engineer II (Java)](https://www.indeed.com/viewjob?jk=993c69d87063b85e) — JPMorganChase
-- 📍 **Location:** Jersey City, NJ, USA
-- 💰 **Salary:** $100k–$125k/yr
-- 🕒 **Posted:** 2026-11-09
-
-### [Software Engineer III (Full Stack Java)](https://www.indeed.com/viewjob?jk=c5ba598a7d94ef58) — JPMorganChase
+### [Data Scientist, Strategic Finance](https://www.indeed.com/viewjob?jk=7f47557850bd73a0) — Rippling
 - 📍 **Location:** New York, NY, USA
-- 💰 **Salary:** $138k–$185k/yr
-- 🕒 **Posted:** 2026-11-09
+- 💰 **Salary:** $120k–$190k/yr
+- 🕒 **Posted:** 2026-11-10
 
-### [DevOps Engineer / Site Reliability Engineer](https://www.indeed.com/viewjob?jk=cf2a7b1382343582) — Council On Foreign Relations
+### [Software Engineer, Marketing](https://www.indeed.com/viewjob?jk=6bf3be4918f07ee1) — Kalshi
 - 📍 **Location:** New York, NY, USA
-- 💰 **Salary:** $150k–$175k/yr
-- 🕒 **Posted:** 2026-11-09
+- 💰 **Salary:** $115k/yr
+- 🕒 **Posted:** 2026-11-10
 
-### [Software Engineer](https://www.indeed.com/viewjob?jk=86402402b53da9b8) — GovEagle
+### [Full-Stack Engineer](https://www.indeed.com/viewjob?jk=478db9f2ff7f209d) — Alldus
 - 📍 **Location:** New York, NY, USA
-- 💰 **Salary:** $170k–$210k/yr
-- 🕒 **Posted:** 2026-11-09
+- 💰 **Salary:** $175k/yr
+- 🕒 **Posted:** 2026-11-10
 
-### [Software Engineer II, Client Experience, Cost Journey](https://www.indeed.com/viewjob?jk=354584b311b933a0) — Spring Health
+### [Full-Stack Engineer](https://www.indeed.com/viewjob?jk=7654ee96ef1ac71f) — Alldus
 - 📍 **Location:** New York, NY, USA
-- 💰 **Salary:** $120k–$153k/yr
-- 🕒 **Posted:** 2026-11-09
+- 💰 **Salary:** $200k/yr
+- 🕒 **Posted:** 2026-11-10
 
-### [Infrastructure engineer II - Amazon connect](https://www.indeed.com/viewjob?jk=e689b9d13455897f) — JPMorganChase
+### [Software Engineer](https://www.indeed.com/viewjob?jk=5d834c725fa38cfa) — Alldus
 - 📍 **Location:** New York, NY, USA
-- 💰 **Salary:** $71k–$95k/yr
-- 🕒 **Posted:** 2026-11-09
+- 💰 **Salary:** $180k–$220k/yr
+- 🕒 **Posted:** 2026-11-10
 
-### [Infrastructure Engineer II - Amazon connect](https://www.indeed.com/viewjob?jk=38197c2367166719) — JPMorganChase
+### [Software Engineer](https://www.indeed.com/viewjob?jk=df3f3637183932a8) — Alldus
 - 📍 **Location:** New York, NY, USA
-- 💰 **Salary:** $95k–$130k/yr
-- 🕒 **Posted:** 2026-11-09
+- 💰 **Salary:** $150k–$200k/yr
+- 🕒 **Posted:** 2026-11-10
+
+### [Software Engineer](https://www.indeed.com/viewjob?jk=a42274e5b7a3c52a) — Alldus
+- 📍 **Location:** New York, NY, USA
+- 💰 **Salary:** $150k–$200k/yr
+- 🕒 **Posted:** 2026-11-10
+
+### [Back-End Engineer](https://www.indeed.com/viewjob?jk=3ba88b0142b26256) — Alldus
+- 📍 **Location:** New York, NY, USA
+- 💰 **Salary:** $200k–$300k/yr
+- 🕒 **Posted:** 2026-11-10
+
+### [Agent Platform Engineer, Voice](https://www.indeed.com/viewjob?jk=b3acdb90551f8ab2) — Alldus
+- 📍 **Location:** New York, NY, USA
+- 💰 **Salary:** $160k–$210k/yr
+- 🕒 **Posted:** 2026-11-10
+
+### [DevOps and Production Support Specialist for the Division of HPD Tech](https://www.indeed.com/viewjob?jk=9b2df5364e81f2dc) — New York City Department of Housing Preservation & Development
+- 📍 **Location:** New York, NY, USA
+- 💰 **Salary:** $100k/yr
+- 🕒 **Posted:** 2026-11-10
+
+### [Software Engineer](https://www.indeed.com/viewjob?jk=30b61294c579fda5) — Alldus
+- 📍 **Location:** New York, NY, USA
+- 💰 **Salary:** $150k–$170k/yr
+- 🕒 **Posted:** 2026-11-10
