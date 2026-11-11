@@ -1,133 +1,104 @@
 # 🟦 Indeed — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-11-11 08:18 UTC*
+*Last updated: 2026-11-11 22:19 UTC*
 
-**28 new role(s)** since last run · 81 total in last 24h
+**20 new role(s)** since last run · 61 total in last 24h
 
-### [AI and Data Science Engineer I](https://www.indeed.com/viewjob?jk=858db29c60858c9e) — Deloitte
+### [Applied Scientist, PXT Central Science](https://www.indeed.com/viewjob?jk=1cd9b623b82c0757) — Amazon.com
 - 📍 **Location:** San Francisco, CA, USA
-- 💰 **Salary:** $89k–$148k/yr
+- 💰 **Salary:** $143k–$222k/yr
 - 🕒 **Posted:** 2026-11-11
 
-### [Software Engineer II](https://www.indeed.com/viewjob?jk=a1818cb089e27368) — Uber
+### [Software Engineer II, Fintech](https://www.indeed.com/viewjob?jk=d68d345e333e3732) — Twitch
 - 📍 **Location:** San Francisco, CA, USA
-- 💰 **Salary:** $171k–$190k/yr
+- 💰 **Salary:** $165k–$224k/yr
 - 🕒 **Posted:** 2026-11-11
 
-### [Software Engineer III, AI/ML GenAI, YouTube](https://www.indeed.com/viewjob?jk=06c0a3ac9e56c57a) — Youtube
-- 📍 **Location:** Mountain View, CA, USA
-- 💰 **Salary:** $147k–$210k/yr
-- 🕒 **Posted:** 2026-11-11
-
-### [AI and Machine Learning Engineer III](https://www.indeed.com/viewjob?jk=2e0cf4bf55482436) — Hewlett Packard Enterprise | HPE
-- 📍 **Location:** Milpitas, CA, USA
-- 💰 **Salary:** $143k–$290k/yr
-- 🕒 **Posted:** 2026-11-11
-
-### [Software Engineer, Applied ML](https://www.indeed.com/viewjob?jk=13851261d5045cc4) — Apple
-- 📍 **Location:** Cupertino, CA, USA
-- 💰 **Salary:** $185k–$325k/yr
-- 🕒 **Posted:** 2026-11-11
-
-### [Machine Learning Engineer — Risk & AI](https://www.indeed.com/viewjob?jk=141831ad9dcccc19) — OKG
-- 📍 **Location:** San Jose, CA, USA
-- 💰 **Salary:** $215k–$322k/yr
-- 🕒 **Posted:** 2026-11-11
-
-### [Software Engineer I, Commerce](https://www.indeed.com/viewjob?jk=ca847d24ebeef085) — Amazon.com
-- 📍 **Location:** San Francisco, CA, USA
-- 💰 **Salary:** $110k–$185k/yr
-- 🕒 **Posted:** 2026-11-11
-
-### [Full-stack Engineer 4](https://www.indeed.com/viewjob?jk=b05008c2209d542c) — Capital One
-- 📍 **Location:** San Francisco, CA, USA
-- 🕒 **Posted:** 2026-11-11
-
-### [DevOps Engineer - Retail Engineering Apps & Services](https://www.indeed.com/viewjob?jk=2c03381e7c295fb2) — Apple
+### [Machine Learning Engineer, (Applied Machine Learning), AI & Data Platforms (AiDP)](https://www.indeed.com/viewjob?jk=db7ec2a161ae5f5a) — Apple
 - 📍 **Location:** Sunnyvale, CA, USA
 - 💰 **Salary:** $150k–$225k/yr
 - 🕒 **Posted:** 2026-11-11
 
-### [Software Engineer, Applied AI – AI-Native Accounting Platform](https://www.indeed.com/viewjob?jk=ef916949feb388ab) — MaxIT Consulting - Max Corporate Group
-- 📍 **Location:** San Francisco, CA, USA
-- 🕒 **Posted:** 2026-11-11
-
-### [Forward Deployed Research Engineer – Enterprise AI Agents](https://www.indeed.com/viewjob?jk=a151dbd89721012f) — MaxIT Consulting - Max Corporate Group
-- 📍 **Location:** San Francisco, CA, USA
-- 🕒 **Posted:** 2026-11-11
-
-### [Software Engineer, Autonomous Revenue Operations](https://www.indeed.com/viewjob?jk=4745525b86a5253f) — Commure
-- 📍 **Location:** Mountain View, CA, USA
-- 💰 **Salary:** $170k–$190k/yr
-- 🕒 **Posted:** 2026-11-11
-
-### [Software Engineer, Product – Financial Data Platform](https://www.indeed.com/viewjob?jk=11f76f816cac6ab0) — MaxIT Consulting - Max Corporate Group
-- 📍 **Location:** San Francisco, CA, USA
-- 🕒 **Posted:** 2026-11-11
-
-### [Software Engineer II](https://www.indeed.com/viewjob?jk=dc11c293f0aef843) — Cadence Design Systems
-- 📍 **Location:** San Jose, CA, USA
-- 💰 **Salary:** $105k–$195k/yr
-- 🕒 **Posted:** 2026-11-11
-
-### [Software Engineer, Developer Infrastructure – Fintech Platform](https://www.indeed.com/viewjob?jk=c80ef108cbd4a6b3) — MaxIT Consulting - Max Corporate Group
-- 📍 **Location:** San Francisco, CA, USA
-- 🕒 **Posted:** 2026-11-11
-
-### [Platform / DevOps Engineer – AWS, Terraform & CI/CD](https://www.indeed.com/viewjob?jk=8280e8dfeca93b56) — MaxIT Consulting - Max Corporate Group
-- 📍 **Location:** San Francisco, CA, USA
-- 🕒 **Posted:** 2026-11-11
-
-### [Software Engineer, AI-Powered Software Assurance](https://www.indeed.com/viewjob?jk=61c536ddafc6fa2d) — TikTok USDS JV
-- 📍 **Location:** San Jose, CA, USA
-- 💰 **Salary:** $137k–$360k/yr
-- 🕒 **Posted:** 2026-11-10
-
-### [Backend Engineer, Applied Agents – AI Platform for Life Sciences](https://www.indeed.com/viewjob?jk=dcf08937fcd94ac9) — MaxIT Consulting - Max Corporate Group
-- 📍 **Location:** Los Altos, CA, USA
-- 🕒 **Posted:** 2026-11-11
-
-### [Full Stack Engineer, Applied AI – AI Platform for Life Sciences](https://www.indeed.com/viewjob?jk=7a95922edc6b6923) — MaxIT Consulting - Max Corporate Group
-- 📍 **Location:** Los Altos, CA, USA
-- 🕒 **Posted:** 2026-11-11
-
-### [Software Engineering LMTS](https://www.indeed.com/viewjob?jk=13d30d66fc72f592) — Salesforce
-- 📍 **Location:** San Francisco, CA, USA
-- 💰 **Salary:** $172k–$286k/yr
-- 🕒 **Posted:** 2026-11-11
-
-### [AWS DevOps Engineer](https://www.indeed.com/viewjob?jk=80db02c91a529551) — Robotics Technologies
+### [Software Engineer - 3D Vision & Perception](https://www.indeed.com/viewjob?jk=95c9db662045cf0d) — Apple
 - 📍 **Location:** Sunnyvale, CA, USA
-- 💰 **Salary:** $82/hr
+- 💰 **Salary:** $150k–$278k/yr
 - 🕒 **Posted:** 2026-11-11
 
-### [AI and Data Science Engineer I](https://www.indeed.com/viewjob?jk=c7e9609895cdfee1) — Deloitte
+### [Data Scientist II - Amazon Identity Program , Amazon Identity Program (AIP)](https://www.indeed.com/viewjob?jk=fdc2a1acd372a970) — Amazon.com
+- 📍 **Location:** Palo Alto, CA, USA
+- 💰 **Salary:** $136k–$208k/yr
+- 🕒 **Posted:** 2026-11-11
+
+### [Software Engineer III, AI/ML Recommendations, Rankings, Predictions](https://www.indeed.com/viewjob?jk=99cd8ca141483115) — Google
+- 📍 **Location:** Mountain View, CA, USA
+- 💰 **Salary:** $147k–$210k/yr
+- 🕒 **Posted:** 2026-11-11
+
+### [Data & Infrastructure Engineer](https://www.indeed.com/viewjob?jk=ce3525509be375c0) — mecka
+- 📍 **Location:** San Francisco, CA, USA
+- 💰 **Salary:** $140k–$165k/yr
+- 🕒 **Posted:** 2026-11-11
+
+### [Software Engineer, Agentic Model Serving, Robotics, DeepMind](https://www.indeed.com/viewjob?jk=20b37c7fa17f6cbc) — DeepMind
+- 📍 **Location:** Mountain View, CA, USA
+- 💰 **Salary:** $174k–$252k/yr
+- 🕒 **Posted:** 2026-11-11
+
+### [Software Engineer, Product - Central Integrity](https://www.indeed.com/viewjob?jk=ac1315c24651b9d2) — Meta
+- 📍 **Location:** Menlo Park, CA, USA
+- 💰 **Salary:** $184k–$257k/yr
+- 🕒 **Posted:** 2026-11-11
+
+### [AI Software Engineer, Multimodal Agentic AI for Glasses](https://www.indeed.com/viewjob?jk=5d1d07e23a5ed695) — Google
+- 📍 **Location:** San Jose, CA, USA
+- 💰 **Salary:** $174k–$252k/yr
+- 🕒 **Posted:** 2026-11-11
+
+### [ML Engineer](https://www.indeed.com/viewjob?jk=d12dce2df6841089) — LiteLLM
+- 📍 **Location:** San Francisco, CA, USA
+- 💰 **Salary:** $200k–$250k/yr
+- 🕒 **Posted:** 2026-11-11
+
+### [Software Engineer, ROS Open Platform & AI Enablement](https://www.indeed.com/viewjob?jk=55faed9d6ab40709) — Roblox
+- 📍 **Location:** San Mateo, CA, USA
+- 💰 **Salary:** $153k–$197k/yr
+- 🕒 **Posted:** 2026-11-11
+
+### [Software Engineer- Advanced](https://www.indeed.com/viewjob?jk=877fbe3f00903fec) — Siemens
+- 📍 **Location:** Fremont, CA, USA
+- 💰 **Salary:** $90k–$162k/yr
+- 🕒 **Posted:** 2026-11-11
+
+### [Software Engineer - Database Search](https://www.indeed.com/viewjob?jk=b76ee829508f3ed0) — Snowflake
+- 📍 **Location:** Dublin, CA, USA
+- 💰 **Salary:** $132k–$173k/yr
+- 🕒 **Posted:** 2026-11-11
+
+### [Data Scientist II - Amazon Identity Program , Amazon Identity Program (AIP)](https://www.indeed.com/viewjob?jk=0f4b0f054e5fc07b) — Amazon.com
 - 📍 **Location:** New York, NY, USA
-- 💰 **Salary:** $89k–$148k/yr
+- 💰 **Salary:** $136k–$208k/yr
 - 🕒 **Posted:** 2026-11-11
 
-### [Java Data Platform Engineer](https://www.indeed.com/viewjob?jk=5348f1eeaa8ee2dc) — All IT Solutions LLC
+### [Data & Infrastructure Engineer](https://www.indeed.com/viewjob?jk=96ceb435775c2ca1) — mecka
 - 📍 **Location:** New York, NY, USA
+- 💰 **Salary:** $140k–$165k/yr
 - 🕒 **Posted:** 2026-11-11
 
-### [Mobile Engineer 4](https://www.indeed.com/viewjob?jk=aeaedc6154d6e995) — Capital One
+### [Applied Scientist III - Amazon Identity Program, Amazon Identity Program (AIP)](https://www.indeed.com/viewjob?jk=5e1c4b73982ce701) — Amazon.com
 - 📍 **Location:** New York, NY, USA
+- 💰 **Salary:** $184k–$249k/yr
 - 🕒 **Posted:** 2026-11-11
 
-### [Java AWS Software Developer](https://www.indeed.com/viewjob?jk=ba544369e3a52e7a) — All IT Solutions LLC
+### [Mainframe Software Engineer III](https://www.indeed.com/viewjob?jk=31b8eff751052bf1) — JPMorganChase
 - 📍 **Location:** Jersey City, NJ, USA
-- 💰 **Salary:** $14/hr
+- 💰 **Salary:** $138k–$185k/yr
 - 🕒 **Posted:** 2026-11-11
 
-### [Java AWS Platform Engineer](https://www.indeed.com/viewjob?jk=51d69ad9fbec7820) — All IT Solutions LLC
+### [Software Engineer III, Infrastructure, Google Cloud Platforms](https://www.indeed.com/viewjob?jk=1706efd7e1794e8d) — Google
 - 📍 **Location:** New York, NY, USA
+- 💰 **Salary:** $147k–$210k/yr
 - 🕒 **Posted:** 2026-11-11
 
-### [Software Engineering PMTS](https://www.indeed.com/viewjob?jk=921effcf11d6d450) — Salesforce
-- 📍 **Location:** New York, NY, USA
-- 💰 **Salary:** $197k–$345k/yr
-- 🕒 **Posted:** 2026-11-11
-
-### [AWS Cloud DevOps Engineer](https://www.indeed.com/viewjob?jk=7d3b2bab163fbe5a) — Robotics Technologies
-- 📍 **Location:** Manhattan, NY, USA
-- 💰 **Salary:** $82/hr
+### [Clinical Bioinformatician - Clinical Genomics Laboratory](https://www.indeed.com/viewjob?jk=7f6ca8280a790a9f) — Regeneron
+- 📍 **Location:** Tarrytown, NY, USA
+- 💰 **Salary:** $96k–$156k/yr
 - 🕒 **Posted:** 2026-11-11
