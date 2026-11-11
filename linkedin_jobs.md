@@ -1,70 +1,47 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-11-11 00:18 UTC*
+*Last updated: 2026-11-11 01:17 UTC*
 
-**15 new role(s)** since last run · 22 total in last 1h
+**10 new role(s)** since last run · 18 total in last 1h
 
-### [Software Engineer, Sandbox & Agent Executor](https://www.linkedin.com/jobs/view/4471772929/) — Retool
+### [Google Cloud Engineer, Experienced Associate](https://www.linkedin.com/jobs/view/4489676471/) — PwC
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-11-10
 
-### [Software Engineer, Applied AI (RCM)](https://www.linkedin.com/jobs/view/4484274524/) — Commure
-- 📍 **Location:** Mountain View, CA
-- 💰 **Salary:** $170,000.00/yr - $190,000.00/yr
+### [Data Platform Engineer](https://www.linkedin.com/jobs/view/4489681207/) — Pacific Gas and Electric Company
+- 📍 **Location:** Oakland, CA
 - 🕒 **Posted:** 2026-11-10
 
-### [Software Engineer, AI Gateway](https://www.linkedin.com/jobs/view/4489614680/) — Vercel
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-11-10
-
-### [Software Engineer, Scribe AI](https://www.linkedin.com/jobs/view/4471134237/) — Commure
-- 📍 **Location:** Mountain View, CA
-- 💰 **Salary:** $130,000.00/yr - $180,000.00/yr
-- 🕒 **Posted:** 2026-11-10
-
-### [Software Engineer, AI Integrations](https://www.linkedin.com/jobs/view/4476389373/) — Commure
-- 📍 **Location:** Mountain View, CA
-- 💰 **Salary:** $130,000.00/yr - $190,000.00/yr
-- 🕒 **Posted:** 2026-11-10
-
-### [Software Engineer IV - (E4)](https://www.linkedin.com/jobs/view/4485013065/) — Applied Materials
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-11-10
-
-### [Research Engineer - LLMs](https://www.linkedin.com/jobs/view/4489652568/) — TTN Talent
-- 📍 **Location:** San Francisco Bay Area
-- 💰 **Salary:** $200,000.00/yr - $350,000.00/yr
-- 🕒 **Posted:** 2026-11-10
-
-### [Platform Engineer](https://www.linkedin.com/jobs/view/4487845658/) — Pulley
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-11-10
-
-### [DevOps Engineer](https://www.linkedin.com/jobs/view/4487842890/) — Instrumental Inc.
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-11-10
-
-### [Software Engineer II](https://www.linkedin.com/jobs/view/4489665349/) — Cadence
+### [Site Reliability Engineer - Intern (Data Platform, Computer Platform) - 2027 Start](https://www.linkedin.com/jobs/view/4487859561/) — ByteDance
 - 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-11-10
 
-### [Software Engineer, Billing Agents](https://www.linkedin.com/jobs/view/4442173513/) — Commure
-- 📍 **Location:** Mountain View, CA
-- 💰 **Salary:** $130,000.00/yr - $190,000.00/yr
+### [AI/ML Engineering Intern](https://www.linkedin.com/jobs/view/4481984608/) — Amperesand
+- 📍 **Location:** Sunnyvale, CA
 - 🕒 **Posted:** 2026-11-10
 
-### [Software Engineer, AI Billing](https://www.linkedin.com/jobs/view/4444506847/) — Commure
-- 📍 **Location:** Mountain View, CA
-- 💰 **Salary:** $130,000.00/yr - $190,000.00/yr
+### [Systems: Cloud Engineer (F3DAFCE)](https://www.linkedin.com/jobs/view/4489678547/) — Referment
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $225,000.00/yr - $300,000.00/yr
 - 🕒 **Posted:** 2026-11-10
 
-### [Summer 2027 Software Engineer Intern- Bachelor's/Master's (Santa Clara, CA)](https://www.linkedin.com/jobs/view/4486696560/) — Applied Materials
-- 📍 **Location:** Santa Clara, CA
+### [Infrastructure Software Engineer: Application Engineering (FCA5F50)](https://www.linkedin.com/jobs/view/4489684068/) — Referment
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $225,000.00/yr - $300,000.00/yr
 - 🕒 **Posted:** 2026-11-10
 
-### [C, C++ Software Engineer II](https://www.linkedin.com/jobs/view/4487858361/) — Applied Materials
-- 📍 **Location:** Santa Clara, CA
+### [Google Cloud Engineer, Experienced Associate](https://www.linkedin.com/jobs/view/4489667767/) — PwC
+- 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-11-10
 
-### [Software Engineering Summer Intern (Masters - Santa Clara, CA)](https://www.linkedin.com/jobs/view/4484370992/) — Applied Materials
-- 📍 **Location:** Santa Clara, CA
+### [Google Cloud Engineer, Experienced Associate](https://www.linkedin.com/jobs/view/4489680212/) — PwC
+- 📍 **Location:** Stamford, CT
+- 🕒 **Posted:** 2026-11-10
+
+### [Behavior Planning Software Engineer](https://www.linkedin.com/jobs/view/4487860639/) — Aurora
+- 📍 **Location:** San Francisco Bay Area
+- 💰 **Salary:** $139,000.00/yr - $223,000.00/yr
+- 🕒 **Posted:** 2026-11-10
+
+### [AI and Machine Learning Engineer III](https://www.linkedin.com/jobs/view/4489671424/) — Hewlett Packard Enterprise
+- 📍 **Location:** Milpitas, CA
 - 🕒 **Posted:** 2026-11-10
