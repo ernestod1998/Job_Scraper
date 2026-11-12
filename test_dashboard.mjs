@@ -7,7 +7,7 @@ import { fileURLToPath } from 'node:url';
 
 const root = dirname(fileURLToPath(import.meta.url));
 const html = readFileSync(join(root, 'assets/triage/app.mjs'), 'utf8');
-import { classifySource, EXCLUDED_TITLE_RE as veto, EXCLUDED_SECURITY_RE as secVeto, repairBiotechSourceCollision } from './assets/triage/model.mjs';
+import { classifySource, classifyRole, EXCLUDED_TITLE_RE as veto, EXCLUDED_SECURITY_RE as secVeto, EXCLUDED_INTERNSHIP_RE as internVeto, EXCLUDED_STACK_RE as stackVeto, repairBiotechSourceCollision } from './assets/triage/model.mjs';
 import { CACHE_KEY, TRANSITION_CACHE_KEY, DECIDE_KEY, mergeJobCaches, finishTransitionCacheMigration } from './assets/triage/decisions.mjs';
 
 let failed = 0;
@@ -31,13 +31,14 @@ check('legacy feed string is accepted',
   classifySource({ ats: 'Custom', feed: 'biotech', url: 'https://example.test' }) === 'Biotech');
 
 for (const title of [
-  'Senior Software Engineer', 'Sr. Data Scientist', 'ML Engineering Lead',
-  'Product Manager',
+  'ML Engineering Lead', 'Product Manager', 'Senior Staff Engineer',
   'Staff Engineer', 'Principal Scientist', 'Director of AI',
   'Vice President, Data', 'VP Engineering', 'SVP Research', 'Chief Data Officer',
   'Head of Machine Learning', 'Founding Engineer', 'Distinguished Engineer',
 ]) check(`seniority veto: ${title}`, veto.test(title));
-for (const title of ['Machine Learning Engineer', 'Leadership Program Analyst', 'Managerial Economics Analyst']) {
+// Senior / Sr. are allowed since 2026-11-12 (4+ years of experience).
+for (const title of ['Machine Learning Engineer', 'Leadership Program Analyst', 'Managerial Economics Analyst',
+                     'Senior Software Engineer', 'Sr. Data Scientist']) {
   check(`seniority boundary allows: ${title}`, !veto.test(title));
 }
 
@@ -51,6 +52,29 @@ for (const title of [
 for (const title of ['Software Engineer', 'Machine Learning Engineer', 'Data Scientist, Insecurity Index']) {
   check(`security boundary allows: ${title}`, !secVeto.test(title));
 }
+
+for (const title of [
+  'Software Engineer Intern', 'Software Engineering Intern, Frontend (Summer 2027)',
+  '2027 Summer Intern - Machine Learning Engineer', 'Software Engineer Co-op',
+  'ML Engineer Graduate - 2027 Start',
+]) check(`internship veto: ${title}`, internVeto.test(title));
+for (const title of ['Machine Learning Engineer, Internal Tools', 'Software Engineer I', 'Software Engineer, International',
+                     'Software Engineer, New Grad 2027', 'Junior Data Scientist', 'Software Engineer II, Early Career',
+                     'Entry-Level Data Scientist']) {
+  check(`internship boundary allows: ${title}`, !internVeto.test(title));
+}
+for (const title of ['Software Engineer - .NET', '.Net Software Engineer', 'ASP.NET Developer', 'Software Engineer (C#)']) {
+  check(`stack veto: ${title}`, stackVeto.test(title));
+}
+for (const title of ['Network Software Engineer', 'Software Engineer, C++']) {
+  check(`stack boundary allows: ${title}`, !stackVeto.test(title));
+}
+for (const title of ['Forward Deployed Engineer', 'Data Scientist (Forward Deployed)', 'Forward-Deployed Software Engineer']) {
+  check(`role bucket Forward Deployed: ${title}`, classifyRole(title) === 'Forward Deployed');
+}
+check('Forward Deployed is a Role filter option', /'Forward Deployed'/.test(html));
+check('pruneState applies the internship and stack vetoes',
+  /EXCLUDED_INTERNSHIP_RE\.test\(j\.title[\s\S]{0,80}EXCLUDED_STACK_RE\.test\(j\.title/.test(html));
 
 check('daily scoring feature flag is enabled', /const ENABLE_SCORING\s*=\s*true\s*;/.test(html));
 check('score fetch is feature-gated', /if \(ENABLE_SCORING\)\s*\{[\s\S]*?fetch\('ranking_results\.json\?v='/.test(html));

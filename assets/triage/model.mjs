@@ -1,6 +1,9 @@
 // ---------- Classifiers ----------
 export function classifyRole(title) {
   const t = (title || '').toLowerCase();
+  // Forward deployed first: "Data Scientist (Forward Deployed)" and "Forward
+  // Deployed Software Engineer" belong in this lane, not DS/SWE.
+  if (/forward[- ]deployed|\bfde\b|deployment strategist/.test(t)) return 'Forward Deployed';
   if (/bioinformatic|computational biolog|genomic|ngs/.test(t)) return 'Bioinformatics';
   // Comp-chem / DMPK / tox / imaging lane (mirrors the scraper's targeted
   // KEYWORDS) — checked before Scientist so "Toxicology Research Scientist"
@@ -166,10 +169,19 @@ export function compareByDate(a, b, dir) {
   return dir === 'oldest' ? af - bf : bf - af;
 }
 
-export const EXCLUDED_TITLE_RE = /\b(senior|sr|staff|principal|distinguished|founding|lead|manager|director|vice president|vp|svp|chief|head\s+of)\b/i;
+// Senior / Sr. allowed since 2026-11-12 — keep in sync with
+// EXCLUDED_SENIORITY_RE in scrape_jobs.py.
+export const EXCLUDED_TITLE_RE = /\b(staff|principal|distinguished|founding|lead|manager|director|vice president|vp|svp|chief|head\s+of)\b/i;
 // Security-domain veto (lane retired 2026-09-03) — keep in sync with
 // EXCLUDED_SECURITY_RE in scrape_jobs.py.
 export const EXCLUDED_SECURITY_RE = /\b(security|secure|securing|cyber\w*|infosec|appsec|devsecops|secops|threat|vulnerability|vulnerabilities|pentest\w*|penetration|red\s+team|incident\s+response|soc|iam|cryptograph\w*|grc)\b/i;
+// Internship / student-cohort veto (2026-11-12); junior, early-career and
+// new-grad roles are kept — keep in sync with EXCLUDED_INTERNSHIP_RE in
+// scrape_jobs.py.
+export const EXCLUDED_INTERNSHIP_RE = /\b(intern|interns|internship|internships|co-?op|apprentice\w*|(summer|fall|autumn|winter|spring)\s+20\d\d|20\d\d\s+start|class\s+of\s+20\d\d)\b/i;
+// .NET / C# stack veto (2026-11-12) — keep in sync with EXCLUDED_STACK_RE in
+// scrape_jobs.py.
+export const EXCLUDED_STACK_RE = /(?:(?<!\w)|\b(?:asp|vb))\.net\b|\bdotnet\b|(?<!\w)c#|\bc[\s-]?sharp\b/i;
 export function repairBiotechSourceCollision(j) {
   const company = String(j.company || '').normalize('NFKD')
     .replace(/[\u0300-\u036f]/g, '').replace(/[^a-z0-9]/gi, '').toLowerCase();

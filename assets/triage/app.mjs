@@ -1,5 +1,5 @@
 import { bestScore, parseRankings, rankingDetails } from './rankings.mjs?v=20260910-pending';
-import { classifyRole, classifySeniority, jobFeeds, classifySource, parseSalary, localToday, displayDate, jobDateMs, jobFreshMs, compareByDate, EXCLUDED_TITLE_RE, EXCLUDED_SECURITY_RE, repairBiotechSourceCollision } from './model.mjs';
+import { classifyRole, classifySeniority, jobFeeds, classifySource, parseSalary, localToday, displayDate, jobDateMs, jobFreshMs, compareByDate, EXCLUDED_TITLE_RE, EXCLUDED_SECURITY_RE, EXCLUDED_INTERNSHIP_RE, EXCLUDED_STACK_RE, repairBiotechSourceCollision } from './model.mjs';
 import { dedupe } from './groups.mjs?v=20260908-rank3';
 import { createDecisionStore, DECIDE_KEY, TOMB_MS, decide, normalizeTriage, mergeTriage, gcDecisions, resolveDecision, reconcileAliases } from './decisions.mjs?v=20260919-dismiss-date';
 import { createFeedLoader, validateFeed } from './feeds.mjs?v=20260919-dismiss-date';
@@ -575,10 +575,10 @@ function renderAll() {
   renderFilterGroup('filter-source', 'source',
     ['LinkedIn', 'Biotech', 'Direct ATS', 'Indeed', 'USAJOBS', 'NEOGOV', 'CalOpps', 'CalCareers']);
   renderFilterGroup('filter-role', 'role',
-    ['AI Engineer', 'MLE', 'MLOps/Platform', 'Scientist', 'Comp Chem/Sci',
+    ['AI Engineer', 'MLE', 'Forward Deployed', 'MLOps/Platform', 'Scientist', 'Comp Chem/Sci',
      'Data Science', 'SWE', 'Bioinformatics', 'Other']);
-  // Senior-track/management roles are excluded at the scraper;
-  // pruneState() clears any lingering untriaged ones from older sessions.
+  // Staff+/management roles are excluded at the scraper (Senior is allowed
+  // since 2026-11-12); pruneState() clears lingering untriaged ones.
   renderFilterGroup('filter-sen', 'sen', ['Senior', 'Mid', 'Intern']);
   renderDateFilter();
   renderSortFilter();
@@ -634,8 +634,8 @@ function rebuildGroups() {
   for (const group of VIEW) for (const url of group._dupUrls) aliases.set(url, group._dupUrls);
 }
 // ---------- Prune (keeps localStorage bounded) ----------
-// Drops untriaged jobs that are senior-track/exec (excluded at the scraper
-// since 2026-06 — keep this regex in sync with EXCLUDED_SENIORITY_RE in
+// Drops untriaged jobs that are staff-track/exec, internships, security or
+// .NET/C# (all excluded at the scraper — keep these regexes in sync with
 // scrape_jobs.py) or older than 30 days. Anything saved/applied/dismissed
 // is kept — that's the user's triage history.
 function pruneState() {
@@ -646,6 +646,8 @@ function pruneState() {
     if (tri(j.url)) return true;   // tri(), not truthiness — a tombstone is an object
     if (EXCLUDED_TITLE_RE.test(j.title || '')) return false;
     if (EXCLUDED_SECURITY_RE.test(j.title || '')) return false;
+    if (EXCLUDED_INTERNSHIP_RE.test(j.title || '')) return false;
+    if (EXCLUDED_STACK_RE.test(j.title || '')) return false;
     // Use the date shown on the card. A scraper rediscovering an old posting
     // must not make it look fresh enough to survive the history cutoff.
     const t = jobDateMs(j);

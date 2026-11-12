@@ -44,7 +44,7 @@ class RoleAndLocationPolicy(unittest.TestCase):
             with self.subTest(title=title):
                 self.assertTrue(sj.is_mle_role(title))
                 self.assertIn(title.replace(",", "").lower(), searches)
-                self.assertFalse(sj.is_mle_role("Senior " + title))
+                self.assertFalse(sj.is_mle_role("Staff " + title))
 
     def test_biotech_company_matching_is_exact_not_substring_based(self):
         self.assertFalse(sj._is_biotech_company("Meta"))
@@ -54,9 +54,14 @@ class RoleAndLocationPolicy(unittest.TestCase):
         self.assertTrue(sj._is_biotech_company("Buck Institute for Research on Aging"))
 
     def test_seniority_veto_is_word_bounded(self):
-        for prefix in ("Senior", "Sr", "Sr.", "Lead", "Manager", "Staff", "Principal"):
+        for prefix in ("Lead", "Manager", "Staff", "Principal", "Senior Staff", "Senior Manager"):
             self.assertFalse(sj.is_mle_role(f"{prefix} Machine Learning Engineer"), prefix)
         self.assertTrue(sj.is_mle_role("Machine Learning Engineer, Leadership Development"))
+
+    def test_senior_titles_are_allowed_for_four_years_experience(self):
+        for prefix in ("Senior", "Sr", "Sr."):
+            self.assertTrue(sj.is_mle_role(f"{prefix} Machine Learning Engineer"), prefix)
+        self.assertTrue(sj.is_mle_role("Senior Forward Deployed Engineer"))
 
     def test_security_veto_drops_security_flavored_titles(self):
         for title in (
@@ -70,6 +75,76 @@ class RoleAndLocationPolicy(unittest.TestCase):
             self.assertFalse(sj.is_mle_role(title), title)
         for title in ("Software Engineer", "Machine Learning Engineer", "Data Scientist, Insecurity Index"):
             self.assertTrue(sj.is_mle_role(title), title)
+
+    def test_forward_deployed_titles_pass_and_are_searched(self):
+        for title in (
+            "Forward Deployed Engineer", "Forward Deployed Engineer, Generative AI, Geo",
+            "Forward-Deployed Engineer", "FDE - Enterprise AI", "Data Scientist (Forward Deployed)",
+            "Forward Deployed Research Engineer – Enterprise AI Agents", "Deployment Strategist",
+        ):
+            self.assertTrue(sj.is_mle_role(title), title)
+        self.assertFalse(sj.is_mle_role("Staff Forward Deployed Engineer"))
+        self.assertFalse(sj.is_mle_role("Forward Deployed Software Engineer, Internship"))
+        self.assertIn("forward deployed engineer", sj.LINKEDIN_SEARCH_TERMS)
+        # The gov sources search a fixed slice; FDE was appended after it.
+        self.assertNotIn("forward deployed engineer", sj.GOV_SEARCH_TERMS)
+
+    def test_internship_veto_drops_interns_and_student_cohorts(self):
+        for title in (
+            "Software Engineer Intern", "Software Engineering Internship - San Francisco",
+            "Software Engineering Intern, Frontend (Summer 2027)",
+            "2027 Summer Intern - Machine Learning Engineer, Embodied AI",
+            "PhD Intern, Software Engineer - Interaction Design (2027)",
+            "Software Engineer Co-op", "ML Engineer Apprentice",
+            "Data Scientist - Fall 2026",
+            "Machine Learning Engineer Graduate (Performance Monetization) - 2027 Start",
+            "Software Engineer, Class of 2027",
+        ):
+            self.assertFalse(sj.is_mle_role(title), title)
+        for title in (
+            # Early-career, junior and new-grad roles are deliberately kept.
+            "Software Engineer, New Grad 2027", "Software Engineer - New Graduate",
+            "Machine Learning Engineer, University Grad", "Junior Software Engineer",
+            "Jr. Data Scientist", "Software Engineer II, Early Career",
+            "Entry-Level Data Scientist",
+            "Software Engineer 2031", "Machine Learning Engineer, Vision 2030",
+            "Machine Learning Engineer, Internal Tools", "Software Engineer, International",
+            "Software Engineer I", "Machine Learning Scientist I - Generative AI",
+            "Software Engineer, Cooperative Robotics", "Data Scientist, Graduate Admissions",
+        ):
+            self.assertTrue(sj.is_mle_role(title), title)
+
+    def test_stack_veto_drops_dotnet_and_csharp(self):
+        for title in (
+            "Software Engineer - .NET", ".Net Software Engineer", ".net Backend Developer",
+            "Mid-Level Full Stack Engineer (.NET / React)", "ASP.NET Software Developer",
+            "Software Engineer (C#) - Internal Tooling", "C# Infrastructure Engineer - Data Pipelines",
+            "Dotnet Backend Engineer", "Software Engineer, C Sharp",
+        ):
+            self.assertFalse(sj.is_mle_role(title), title)
+        for title in ("Network Software Engineer", "Software Engineer, Networking",
+                      "Backend Engineer, Data.Network Team", "Software Engineer, C++"):
+            self.assertTrue(sj.is_mle_role(title), title)
+
+    def test_new_vetoes_report_seniority_and_role_reasons(self):
+        rows = [role(url="https://example.com/job/1", title="Machine Learning Engineer Intern"),
+                role(url="https://example.com/job/2", title="Software Engineer - .NET"),
+                role(url="https://example.com/job/3", title="Forward Deployed Engineer")]
+        kept, _, stats = sj._filter_job_observations(rows, default_feed="general")
+        self.assertEqual([j["title"] for j in kept], ["Forward Deployed Engineer"])
+        self.assertEqual((stats["seniority"], stats["role"]), (1, 1))
+
+    def test_dashboard_vetoes_mirror_the_scraper(self):
+        model = open(os.path.join(os.path.dirname(os.path.abspath(__file__)),
+                                  "assets", "triage", "model.mjs"), encoding="utf-8").read()
+        pairs = {"EXCLUDED_TITLE_RE": "EXCLUDED_SENIORITY_RE",
+                 "EXCLUDED_INTERNSHIP_RE": "EXCLUDED_INTERNSHIP_RE",
+                 "EXCLUDED_STACK_RE": "EXCLUDED_STACK_RE"}
+        for js_name, py_name in pairs.items():
+            with self.subTest(name=js_name):
+                match = re.search(rf"export const {js_name} = /(.+)/i;", model)
+                self.assertIsNotNone(match, js_name)
+                self.assertEqual(match.group(1), getattr(sj, py_name).pattern)
 
     def test_general_nyc_and_close_nj_allowlist(self):
         accepted = (
@@ -109,7 +184,7 @@ class RoleAndLocationPolicy(unittest.TestCase):
     def test_filter_is_feed_aware_and_reports_stats(self):
         rows = [
             role("https://x/ok"),
-            role("https://x/senior", title="Senior Machine Learning Engineer"),
+            role("https://x/senior", title="Staff Machine Learning Engineer"),
             role("https://x/security", title="Software Engineer, Cloud Security"),
             role("https://x/far", location="Boston, MA"),
             role("https://x/company", company="Jack & Jill"),
@@ -327,7 +402,7 @@ class RefilterCommand(unittest.TestCase):
             path = os.path.join(tmp, "all_jobs.json")
             payload = {"updated_at": "old", "jobs": [
                 role("https://x/keep", first_seen="2026-08-01T00:00:00Z"),
-                role("https://x/drop", title="Senior Machine Learning Engineer",
+                role("https://x/drop", title="Staff Machine Learning Engineer",
                      first_seen="2026-08-01T00:00:00Z"),
             ]}
             with open(path, "w") as f:

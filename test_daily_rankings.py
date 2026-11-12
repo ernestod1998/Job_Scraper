@@ -11,7 +11,7 @@ from types import SimpleNamespace
 
 from benchmark.core import RESUMES, scores, validate_result
 from daily_rankings import Runner, schedule_due
-from ranking.core import projection, queue, shortlist
+from ranking.core import projection, queue, shortlist, track
 from benchmark.providers import APIError, http_json
 
 NOW = datetime(2026, 9, 8, 17, tzinfo=timezone.utc)
@@ -164,13 +164,18 @@ class Tests(unittest.TestCase):
     def test_queue_filters_deduplicates_and_balances(self):
         jobs = [job(i) for i in range(60)]
         jobs.append({**job(80), 'title': 'Data Scientist'})
-        jobs.append({**job(81), 'title': 'Senior Software Engineer'})
+        jobs.append({**job(81), 'title': 'Staff Software Engineer'})
         jobs.append({**job(82), 'date_posted': '2026-08-01'})
         jobs.append({**job(0), 'url': 'https://example.test/duplicate'})
         out = queue(jobs, NOW, True)
         self.assertEqual(len(out), 61)
         self.assertIn('Data Scientist', [j['title'] for j in out[:5]])
         self.assertEqual(out, queue(list(reversed(jobs)), NOW, True))
+
+    def test_track_allows_senior_but_not_staff(self):
+        self.assertIsNotNone(track({'title': 'Senior Machine Learning Engineer'}))
+        self.assertIsNotNone(track({'title': 'Sr. Forward Deployed Engineer'}))
+        self.assertIsNone(track({'title': 'Staff Machine Learning Engineer'}))
 
     def test_queue_keeps_nyc_commuter_ring(self):
         jobs = [

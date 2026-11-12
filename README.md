@@ -47,6 +47,8 @@ The generic `ai engineer` / `ai/ml engineer` lane is deliberately paused; the re
 
 **Applied / scientist:** `applied scientist`, `ai scientist`, `ml scientist`, `data scientist`, `data science`
 
+**Forward deployed:** `forward deployed`, `forward-deployed`, `fde`, `deployment strategist` (added 2026-11-12). `forward deployed engineer` is also a LinkedIn/Indeed search term, and the dashboard's Role filter has a **Forward Deployed** option.
+
 **Software engineering:** `software engineer`, `software developer`, `backend engineer`, `back-end engineer`, `backend developer`, `frontend engineer`, `front-end engineer`, `frontend developer`, `full stack engineer`, `full-stack engineer`, `fullstack engineer`, `mobile engineer`, `ios engineer`, `android engineer`
 
 **Platform / infra / ops:** `platform engineer`, `infrastructure engineer`, `infra engineer`, `cloud engineer`, `devops engineer`, `devops`, `site reliability engineer` — the `systems engineer` / `distributed systems` lane was paused 2026-08-19 (no systems-eng experience; commented out in `KEYWORDS`). The `security engineer` lane was retired 2026-09-03 and `EXCLUDED_SECURITY_RE` now vetoes any security-flavored title (cyber, appsec, threat, vulnerability, …) regardless of which keyword it matched
@@ -57,7 +59,11 @@ The generic `ai engineer` / `ai/ml engineer` lane is deliberately paused; the re
 
 **Computational / informatics (biotech):** `computational scientist`, `computational biologist`, `bioinformatics scientist`, `bioinformatics engineer`, `cheminformatics`, `biostatistician`, `bioinformatician`, `bioinformatics analyst`, `genomics scientist`, `research software engineer`, `scientific software engineer`, `associate computational biologist`, `research associate, computational`, `research scientist, ai`. The daily biotech sweep explicitly searches additional long-tail phrases including `machine learning scientist`, `computational chemistry`, `computational toxicology`, `drug metabolism`, `DMPK`, `ADMET`, `QSAR`, and `medical imaging`.
 
-**Excluded seniority:** titles containing word-bounded `senior`/`sr`, `staff`, `principal`, `lead`, `manager`, `distinguished`, `founding`, `director`, `vice president`, `vp`/`svp`, `chief`, or `head of` are dropped everywhere (early-to-mid-level IC focus). The description's years-of-experience language is not inspected. Single-word role keywords are word-bounded, so `mle` cannot match inside another word.
+**Excluded seniority:** titles containing word-bounded `staff`, `principal`, `lead`, `manager`, `distinguished`, `founding`, `director`, `vice president`, `vp`/`svp`, `chief`, or `head of` are dropped everywhere. `Senior`/`Sr.` titles are allowed since 2026-11-12 (the candidate has 4+ years of experience); `Senior Staff` and `Senior Manager` are still dropped by their other word. The description's years-of-experience language is not inspected. Single-word role keywords are word-bounded, so `mle` cannot match inside another word.
+
+**Excluded internships:** `EXCLUDED_INTERNSHIP_RE` drops internships, co-ops, apprenticeships and student cohort titles like `Summer 2027`, `2027 Start` or `Class of 2027` (added 2026-11-12). Early-career, junior, entry-level and new-grad roles are kept, and a bare year is not matched. Counted under the `"seniority"` filter reason.
+
+**Excluded tech stacks:** `EXCLUDED_STACK_RE` drops `.NET`, `ASP.NET`, `dotnet` and `C#` titles (added 2026-11-12). `Network` and `C++` titles are unaffected. Counted under the `"role"` filter reason. Both new vetoes are mirrored in `assets/triage/model.mjs`, which also prunes matching jobs from the browser cache; `test_scraper_core` fails if the two copies drift.
 
 **Excluded stale postings:** every persisted source drops rows provably older than `MAX_POSTING_AGE_DAYS = 14` (the `"stale"` reason in `_filter_job_observations`; added 2026-08-19 after the ATS registry — which had no date filter — surfaced reqs from 2024). Workday's `"Posted N Days Ago"` / `"Posted 30+ Days Ago"` strings and Lever's epoch-ms `createdAt` are now parseable for this check; rows whose age can't be proven (missing/unparseable dates) are kept.
 

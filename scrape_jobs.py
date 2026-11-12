@@ -51,6 +51,12 @@ KEYWORDS = [
     # Scientist", the most common title at ML-native biotechs (Insitro/Calico/
     # Profluent). Substring match also covers the "Senior …" prefix.
     "machine learning scientist", "machine learning research scientist",
+    # ---- Forward deployed (added 2026-11-12) ----
+    # Customer-embedded engineering. "Forward Deployed Software Engineer"
+    # already matched via "software engineer", but the plain "Forward Deployed
+    # Engineer" title matched nothing. "fde" is word-bounded by _KEYWORD_RE.
+    # "Deployment Strategist" is Palantir's non-engineer name for the same seat.
+    "forward deployed", "forward-deployed", "fde", "deployment strategist",
     # ---- Data science ----
     "data scientist", "data science",
     # ---- Software engineering (broad) ----
@@ -127,8 +133,11 @@ MAX_POSTING_AGE_DAYS = 14
 # Senior-track and executive titles are excluded everywhere: the candidate
 # targets early-to-mid IC roles. Covers IC senior tracks (staff/principal/
 # distinguished/founding) and management/exec tiers (director/VP/chief/head of).
+# Senior / Sr. titles are ALLOWED since 2026-11-12: Ernesto has 4+ years of
+# experience, and many "Senior" ML roles ask for 3-5. Keep in sync with
+# EXCLUDED_TITLE_RE in assets/triage/model.mjs and track() in ranking/core.py.
 EXCLUDED_SENIORITY_RE = re.compile(
-    r'\b(senior|sr\.?|staff|principal|distinguished|founding|lead|manager|director|'
+    r'\b(staff|principal|distinguished|founding|lead|manager|director|'
     r'vice president|vp|svp|chief|head\s+of)\b',
     re.IGNORECASE)
 
@@ -140,6 +149,27 @@ EXCLUDED_SECURITY_RE = re.compile(
     r'\b(security|secure|securing|cyber\w*|infosec|appsec|devsecops|secops|threat|'
     r'vulnerability|vulnerabilities|pentest\w*|penetration|red\s+team|'
     r'incident\s+response|soc|iam|cryptograph\w*|grc)\b',
+    re.IGNORECASE)
+
+# Internships and student cohort programs are excluded everywhere
+# (2026-11-12): internships, co-ops, apprenticeships and cohort titles
+# ("Summer 2027", "2027 Start", "Class of 2027"). Early-career, junior,
+# entry-level and new-grad roles are deliberately KEPT. A bare year is NOT
+# matched: it also appears in req numbers and product names. Reported under
+# the "seniority" filter reason.
+# Keep in sync with EXCLUDED_INTERNSHIP_RE in assets/triage/model.mjs.
+EXCLUDED_INTERNSHIP_RE = re.compile(
+    r'\b(intern|interns|internship|internships|co-?op|apprentice\w*|'
+    r'(summer|fall|autumn|winter|spring)\s+20\d\d|20\d\d\s+start|class\s+of\s+20\d\d)\b',
+    re.IGNORECASE)
+
+# Tech stacks outside Ernesto's experience (2026-11-12): .NET / C# roles
+# reach the feed through generic "software engineer" / "backend developer"
+# keywords. Reported under the "role" filter reason. The lookbehinds let
+# ".NET" match after a space or bracket without matching "Network".
+# Keep in sync with EXCLUDED_STACK_RE in assets/triage/model.mjs.
+EXCLUDED_STACK_RE = re.compile(
+    r'(?:(?<!\w)|\b(?:asp|vb))\.net\b|\bdotnet\b|(?<!\w)c#|\bc[\s-]?sharp\b',
     re.IGNORECASE)
 
 # Recruiting-platform / aggregator accounts that repost roles which mostly don't
@@ -187,7 +217,8 @@ def fetch(url, *, health=None):
 
 
 def is_mle_role(title: str) -> bool:
-    if EXCLUDED_SENIORITY_RE.search(title) or EXCLUDED_SECURITY_RE.search(title):
+    if (EXCLUDED_SENIORITY_RE.search(title) or EXCLUDED_INTERNSHIP_RE.search(title)
+            or EXCLUDED_SECURITY_RE.search(title) or EXCLUDED_STACK_RE.search(title)):
         return False
     return bool(_KEYWORD_RE.search(title))
 
@@ -1134,6 +1165,10 @@ LINKEDIN_SEARCH_TERMS = [
     "cheminformatics",
     "biostatistician",
     "research software engineer",
+    # Forward deployed (2026-11-12) — appended last so GOV_SEARCH_TERMS, the
+    # first eight entries, is unchanged. One phrase covers the FDE, FDSE and
+    # "(Forward Deployed)" title variants on LinkedIn/Indeed search.
+    "forward deployed engineer",
 ]
 
 BIOTECH_SPECIALTY_SEARCH_TERMS = [
@@ -1838,11 +1873,11 @@ def _filter_job_observations(jobs: list[dict], *, default_feed: str):
         title = str(job.get("title", "") or "")
         if is_excluded_company(str(job.get("company", "") or "")):
             reason = "company"
-        elif EXCLUDED_SENIORITY_RE.search(title):
+        elif EXCLUDED_SENIORITY_RE.search(title) or EXCLUDED_INTERNSHIP_RE.search(title):
             reason = "seniority"
         elif EXCLUDED_SECURITY_RE.search(title):
             reason = "security"
-        elif not _KEYWORD_RE.search(title):
+        elif not _KEYWORD_RE.search(title) or EXCLUDED_STACK_RE.search(title):
             reason = "role"
         else:
             location = str(job.get("location", "") or "")

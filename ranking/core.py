@@ -36,7 +36,8 @@ def projection(result, job, model):
 
 def track(job):
     title = job.get('title', '')
-    if re.search(r'\b(senior|sr\.?|staff|principal|director|manager|lead|head|chief|founding|security|cybersecurity|devsecops|vice president)\b', title, re.I):
+    # Senior / Sr. allowed since 2026-11-12 (4+ years); mirrors EXCLUDED_SENIORITY_RE.
+    if re.search(r'\b(staff|principal|director|manager|lead|head|chief|founding|security|cybersecurity|devsecops|vice president)\b', title, re.I):
         return None
     if re.search(r'forward.deployed|solutions engineer', title, re.I):
         return 'FDE'
