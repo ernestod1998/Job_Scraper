@@ -1,76 +1,55 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-11-11 23:18 UTC*
+*Last updated: 2026-11-12 00:18 UTC*
 
-**17 new role(s)** since last run · 24 total in last 1h
+**12 new role(s)** since last run · 16 total in last 1h
 
-### [Backend/Platform Engineer - Remote [84522]](https://www.linkedin.com/jobs/view/4488250924/) — Onward Search
-- 📍 **Location:** New York City Metropolitan Area
-- 💰 **Salary:** $60.00/hr - $67.00/hr
+### [Computer Vision Engineer](https://www.linkedin.com/jobs/view/4486508902/) — Harvey Nash
+- 📍 **Location:** Fremont, CA
 - 🕒 **Posted:** 2026-11-11
 
-### [Clinical Bioinformatician - Clinical Genomics Laboratory](https://www.linkedin.com/jobs/view/4489055175/) — Regeneron
-- 📍 **Location:** Tarrytown, NY
-- 🕒 **Posted:** 2026-11-11
-
-### [Research Scientist, AI](https://www.linkedin.com/jobs/view/4490047198/) — Pramaana Labs
+### [Software Engineer II, Autonomy Evaluation & Metrics Platform](https://www.linkedin.com/jobs/view/4489050741/) — Rivian
 - 📍 **Location:** Palo Alto, CA
 - 🕒 **Posted:** 2026-11-11
 
-### [Data Scientist Intern](https://www.linkedin.com/jobs/view/4490042191/) — Tacit
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $40.00/hr - $50.00/hr
-- 🕒 **Posted:** 2026-11-11
-
-### [Research Scientist, Reinforcement Learning](https://www.linkedin.com/jobs/view/4490034635/) — Pramaana Labs
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-11-11
-
-### [2027 Summer Intern - Biostatistics and Analytical Data Sciences](https://www.linkedin.com/jobs/view/4490042421/) — Genentech
-- 📍 **Location:** South San Francisco, CA
-- 🕒 **Posted:** 2026-11-11
-
-### [Research Engineer](https://www.linkedin.com/jobs/view/4490030760/) — Pramaana Labs
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-11-11
-
-### [Software Engineer, Full-Stack ML Infrastructure](https://www.linkedin.com/jobs/view/4490039537/) — Pramaana Labs
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-11-11
-
-### [Software Engineer – ML Infrastructure](https://www.linkedin.com/jobs/view/4490028777/) — People Culture Talent
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $150,000.00/yr - $350,000.00/yr
-- 🕒 **Posted:** 2026-11-11
-
-### [Software Engineer - Platform](https://www.linkedin.com/jobs/view/4488261415/) — IBM
+### [RMCC Data Science Intern](https://www.linkedin.com/jobs/view/4490064256/) — Bloom Energy
 - 📍 **Location:** San Jose, CA
-- 💰 **Salary:** $161,000.00/yr - $276,000.00/yr
 - 🕒 **Posted:** 2026-11-11
 
-### [Software Engineer](https://www.linkedin.com/jobs/view/4490047056/) — Mintive
-- 📍 **Location:** San Mateo, CA
+### [Backend Engineer](https://www.linkedin.com/jobs/view/4477720280/) — Bayview Asset Management, LLC
+- 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-11-11
 
-### [Software Engineer](https://www.linkedin.com/jobs/view/4490031708/) — Mintive
+### [Research Engineer/Research Scientist in World Models and Simulation](https://www.linkedin.com/jobs/view/4490066270/) — DeepRoute.ai
+- 📍 **Location:** Fremont, CA
+- 🕒 **Posted:** 2026-11-11
+
+### [junior software developer/data engineer/Scientist](https://www.linkedin.com/jobs/view/4489058090/) — SynergisticIT
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $78,000.00/yr - $136,000.00/yr
+- 🕒 **Posted:** 2026-11-11
+
+### [Java Backend Developer with AWS and AI Expereince](https://www.linkedin.com/jobs/view/4488275056/) — Infosys
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-11-11
+
+### [Software Engineer - QA Engineering & Tooling](https://www.linkedin.com/jobs/view/4490060041/) — Apex Systems
+- 📍 **Location:** Foster City, CA
+- 💰 **Salary:** $25.00/hr - $25.00/hr
+- 🕒 **Posted:** 2026-11-11
+
+### [Frontend Engineer, Link](https://www.linkedin.com/jobs/view/4490057179/) — Stripe
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-11-11
 
-### [Applied AI Software Engineer](https://www.linkedin.com/jobs/view/4490046281/) — Antithesis
-- 📍 **Location:** San Francisco, CA
+### [Full Stack Engineer](https://www.linkedin.com/jobs/view/4489057139/) — BayOne Solutions
+- 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-11-11
 
-### [Software Engineer I, Commerce](https://www.linkedin.com/jobs/view/4489055013/) — Twitch
-- 📍 **Location:** San Francisco, CA
+### [Cloud Infrastructure Engineer](https://www.linkedin.com/jobs/view/4488267324/) — Dew Software
+- 📍 **Location:** San Jose, CA
+- 💰 **Salary:** $50.00/hr - $53.00/hr
 - 🕒 **Posted:** 2026-11-11
 
-### [Software Engineer, Product](https://www.linkedin.com/jobs/view/4490048094/) — Pramaana Labs
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-11-11
-
-### [Robotics Software Engineer](https://www.linkedin.com/jobs/view/4488249849/) — Careerscape
-- 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-11-11
-
-### [Software Engineer](https://www.linkedin.com/jobs/view/4488253831/) — Globant
+### [Java Backend Developer](https://www.linkedin.com/jobs/view/4488265430/) — Infosys
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-11-11
