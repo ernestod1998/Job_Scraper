@@ -83,6 +83,33 @@ class MergeRules(unittest.TestCase):
             all_jobs_doc({"title": "no url"}), all_jobs_doc(job("u/1", "2026-07-25T10:00:00Z"))))
         self.assertEqual([j["url"] for j in merged["jobs"]], ["u/1"])
 
+    def test_all_jobs_remote_copy_cannot_undo_this_runs_prune(self):
+        # Regression: the remote still holds a row this run pruned. A plain
+        # union restored it on every push, so the master only grew (22k rows
+        # dating back to July against a 14-day window).
+        theirs = all_jobs_doc(job("u/old", "2026-07-01T00:00:00Z"),
+                              job("u/1", "2026-07-24T10:00:00Z"))
+        ours = all_jobs_doc(job("u/1", "2026-07-24T10:00:00Z"),
+                            job("u/2", "2026-07-25T10:00:00Z"))
+        merged = json.loads(ccp.merge_all_jobs(theirs, ours))
+        self.assertEqual({j["url"] for j in merged["jobs"]}, {"u/1", "u/2"})
+
+    def test_all_jobs_prune_window_is_measured_from_the_newest_write(self):
+        # updated_at 2026-07-25 00:00 UTC -> cutoff 2026-07-11T00:00:00Z
+        theirs = all_jobs_doc(job("u/edge", "2026-07-11T00:00:00Z"),
+                              job("u/stale", "2026-07-10T23:59:59Z"))
+        merged = json.loads(ccp.merge_all_jobs(theirs, all_jobs_doc()))
+        self.assertEqual([j["url"] for j in merged["jobs"]], ["u/edge"])
+
+    def test_all_jobs_prune_keeps_unstamped_rows(self):
+        merged = json.loads(ccp.merge_all_jobs(
+            all_jobs_doc({"url": "u/1", "title": "MLE"}), all_jobs_doc()))
+        self.assertEqual([j["url"] for j in merged["jobs"]], ["u/1"])
+
+    def test_all_jobs_prune_window_matches_the_scraper(self):
+        import scrape_jobs
+        self.assertEqual(ccp.ALL_JOBS_PRUNE_DAYS, scrape_jobs.ALL_JOBS_PRUNE_DAYS)
+
     def test_notified_unions_without_duplicates(self):
         merged = json.loads(ccp.merge_notified(
             json.dumps({"ids": ["a", "b"]}), json.dumps({"ids": ["b", "c"]})))
@@ -122,7 +149,7 @@ class GitRace(unittest.TestCase):
         subprocess.run(["git", "init", "--bare", "-b", "main", self.origin],
                        check=True, capture_output=True)
         seed = self.clone("seed")
-        self.write(seed, "all_jobs.json", all_jobs_doc(job("u/base", "2026-07-01T00:00:00Z")))
+        self.write(seed, "all_jobs.json", all_jobs_doc(job("u/base", "2026-07-20T00:00:00Z")))
         self.write(seed, "workflow_runs.jsonl", '{"run_id":"base"}\n')
         self.write(seed, "notified.json", json.dumps({"ids": ["base"]}))
         self.write(seed, "linkedin_jobs.json", json.dumps({"total": 0}))
@@ -176,7 +203,7 @@ class GitRace(unittest.TestCase):
         # The other watcher finishes first and pushes.
         self.write(theirs, "all_jobs.json",
                    all_jobs_doc(job("u/localgov", "2026-07-25T19:47:00Z"),
-                                job("u/base", "2026-07-01T00:00:00Z")))
+                                job("u/base", "2026-07-20T00:00:00Z")))
         self.write(theirs, "workflow_runs.jsonl", '{"run_id":"base"}\n{"run_id":"localgov"}\n')
         self.git(theirs, "add", "-A")
         self.git(theirs, "commit", "-m", "local-gov listings")
@@ -185,7 +212,7 @@ class GitRace(unittest.TestCase):
         # Our scrape lands on the now-stale checkout.
         self.write(ours, "all_jobs.json",
                    all_jobs_doc(job("u/linkedin", "2026-07-25T19:48:00Z"),
-                                job("u/base", "2026-07-01T00:00:00Z")))
+                                job("u/base", "2026-07-20T00:00:00Z")))
         self.write(ours, "workflow_runs.jsonl", '{"run_id":"base"}\n{"run_id":"linkedin"}\n')
         self.write(ours, "linkedin_jobs.json", json.dumps({"total": 1}))
 

@@ -25,7 +25,7 @@ commit on top of the current remote tip and merges the shared accumulators
 so a union is the correct merge — and, being order-independent, it gives the
 same result no matter which watcher happens to push first:
 
-    all_jobs.json        union by url, earliest first_seen wins
+    all_jobs.json        union by url, earliest first_seen wins, re-pruned to 14 days
     notified.json        union of ids, capped like notify.NOTIFIED_KEEP
     workflow_runs.jsonl  union of lines (append-only run log)
     scores.json          union by url, this run's fresh verdict wins
@@ -47,7 +47,7 @@ import os
 import subprocess
 import sys
 import time
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 REMOTE = "origin"
@@ -60,6 +60,9 @@ try:
     from notify import NOTIFIED_KEEP  # noqa: F811
 except Exception:
     pass
+
+# Mirrors scrape_jobs.ALL_JOBS_PRUNE_DAYS; test_ci_commit_push asserts they match.
+ALL_JOBS_PRUNE_DAYS = 14
 
 
 # ---------------------------------------------------------------- git helpers
@@ -117,15 +120,29 @@ def _first_seen(job: dict) -> str:
     return job.get("first_seen") or "9999-99-99"
 
 
+def _prune_cutoff(updated_at: str) -> str:
+    """first_seen floor for the master, measured from its newest write."""
+    try:
+        written = datetime.strptime(updated_at, "%Y-%m-%d %H:%M UTC").replace(tzinfo=timezone.utc)
+    except (TypeError, ValueError):
+        written = datetime.now(timezone.utc)
+    return (written - timedelta(days=ALL_JOBS_PRUNE_DAYS)).strftime("%Y-%m-%dT%H:%M:%SZ")
+
+
 def merge_all_jobs(theirs: str, ours: str) -> str:
     """
-    Union the cumulative master by url. first_seen is the "when did we first
-    surface this" stamp the dashboard sorts on, so when both sides carry the
-    same url the earlier sighting is the true one.
+    Union the cumulative master by url, then prune it to ALL_JOBS_PRUNE_DAYS.
+    first_seen is the "when did we first surface this" stamp the dashboard
+    sorts on, so when both sides carry the same url the earlier sighting is
+    the true one.
 
-    No re-prune: both sides were written by scrape_jobs._merge_into_all_jobs,
-    which prunes to ALL_JOBS_PRUNE_DAYS on every write, so their union is
-    already inside the window.
+    The re-prune is required. scrape_jobs._merge_into_all_jobs prunes this
+    run's copy, but this merge runs on every push, so a plain union with the
+    remote copy restores everything that run just dropped. The master could
+    then only grow (it reached 22k rows from July while the window is 14 days).
+    The cutoff comes from the newest updated_at, which scrape_jobs writes at
+    the moment it prunes, so the result stays deterministic and
+    order-independent.
     """
     theirs_data, ours_data = _load(theirs, {}), _load(ours, {})
     by_url = {}
@@ -136,13 +153,16 @@ def merge_all_jobs(theirs: str, ours: str) -> str:
         prev = by_url.get(url)
         if prev is None or _first_seen(job) < _first_seen(prev):
             by_url[url] = job
-    jobs = sorted(by_url.values(), key=lambda j: j.get("first_seen", ""), reverse=True)
     # Keep the later of the two stamps rather than stamping now: a run that
     # found nothing new must reproduce the remote's bytes exactly, or every
     # watcher would push an empty-but-different commit on every single run.
     stamps = [d.get("updated_at") for d in (theirs_data, ours_data) if d.get("updated_at")]
     updated_at = max(stamps) if stamps else \
         datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
+    cutoff = _prune_cutoff(updated_at)
+    # Unstamped rows are kept, as scrape_jobs keeps them (it stamps them now).
+    kept = [j for j in by_url.values() if not j.get("first_seen") or j["first_seen"] >= cutoff]
+    jobs = sorted(kept, key=lambda j: j.get("first_seen", ""), reverse=True)
     return json.dumps(
         {"updated_at": updated_at, "jobs": jobs},
         separators=(",", ":"),  # compact: the dashboard fetches this on every load
