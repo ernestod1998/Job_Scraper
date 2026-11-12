@@ -1,16 +1,62 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-11-12 02:17 UTC*
+*Last updated: 2026-11-12 03:18 UTC*
 
-**3 new role(s)** since last run · 9 total in last 1h
+**12 new role(s)** since last run · 15 total in last 1h
 
-### [Applied Scientist, PXT Central Science](https://www.linkedin.com/jobs/view/4490067468/) — Amazon
+### [Software Engineer, AI Data Application](https://www.linkedin.com/jobs/view/4490080475/) — TikTok USDS Joint Venture
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-11-11
+
+### [Full Stack Engineer](https://www.linkedin.com/jobs/view/4490077436/) — AfterQuery Experts
 - 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $50.00/hr - $100.00/hr
 - 🕒 **Posted:** 2026-11-11
 
-### [Data Scientist II - Amazon Identity Program , Amazon Identity Program (AIP)](https://www.linkedin.com/jobs/view/4490077319/) — Amazon
-- 📍 **Location:** Palo Alto, CA
+### [Frontend Engineer](https://www.linkedin.com/jobs/view/4490092020/) — AfterQuery Experts
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $50.00/hr - $100.00/hr
 - 🕒 **Posted:** 2026-11-11
 
-### [Software Engineer III, Infrastructure, Google Cloud Networking](https://www.linkedin.com/jobs/view/4489067347/) — Google
-- 📍 **Location:** Sunnyvale, CA
+### [Backend Engineer](https://www.linkedin.com/jobs/view/4490091024/) — AfterQuery Experts
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $50.00/hr - $100.00/hr
+- 🕒 **Posted:** 2026-11-11
+
+### [Software Engineer](https://www.linkedin.com/jobs/view/4490089092/) — AfterQuery Experts
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $50.00/hr - $100.00/hr
+- 🕒 **Posted:** 2026-11-11
+
+### [Software Developer](https://www.linkedin.com/jobs/view/4490080407/) — AfterQuery Experts
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $50.00/hr - $100.00/hr
+- 🕒 **Posted:** 2026-11-11
+
+### [Software Engineer](https://www.linkedin.com/jobs/view/4490078456/) — AfterQuery Experts
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $50.00/hr - $100.00/hr
+- 🕒 **Posted:** 2026-11-11
+
+### [Full Stack Engineer](https://www.linkedin.com/jobs/view/4490077439/) — AfterQuery Experts
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $50.00/hr - $100.00/hr
+- 🕒 **Posted:** 2026-11-11
+
+### [Frontend Engineer](https://www.linkedin.com/jobs/view/4490077435/) — AfterQuery Experts
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $50.00/hr - $100.00/hr
+- 🕒 **Posted:** 2026-11-11
+
+### [Backend Engineer](https://www.linkedin.com/jobs/view/4490081420/) — AfterQuery Experts
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $50.00/hr - $100.00/hr
+- 🕒 **Posted:** 2026-11-11
+
+### [Software Developer](https://www.linkedin.com/jobs/view/4490092024/) — AfterQuery Experts
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $50.00/hr - $100.00/hr
+- 🕒 **Posted:** 2026-11-11
+
+### [Software Engineer — Governance Platform & Enablement](https://www.linkedin.com/jobs/view/4490076568/) — TikTok USDS Joint Venture
+- 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-11-11
