@@ -1,22 +1,18 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-11-13 02:18 UTC*
+*Last updated: 2026-11-13 03:17 UTC*
 
-**4 new role(s)** since last run · 21 total in last 1h
+**3 new role(s)** since last run · 5 total in last 1h
 
-### [Software Engineer, Consumer DevAI](https://www.linkedin.com/jobs/view/4489298745/) — Google
+### [Software Engineer, Claims & AI Billing](https://www.linkedin.com/jobs/view/4490536671/) — Commure
 - 📍 **Location:** Mountain View, CA
+- 💰 **Salary:** $130,000.00/yr - $190,000.00/yr
 - 🕒 **Posted:** 2026-11-12
 
-### [Software Engineer III, Infrastructure, Google Cloud Storage](https://www.linkedin.com/jobs/view/4489288939/) — Google
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-11-12
-
-### [Junior Software Engineer](https://www.linkedin.com/jobs/view/4490559526/) — Switchboard
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $80,000.00/yr - $110,000.00/yr
-- 🕒 **Posted:** 2026-11-12
-
-### [Senior Java Software Engineer](https://www.linkedin.com/jobs/view/4490552773/) — Hexaware Technologies
+### [Senior Machine Learning Engineer - Hybrid](https://www.linkedin.com/jobs/view/4488588403/) — CyberCoders
 - 📍 **Location:** Jersey City, NJ
-- 💰 **Salary:** $100,000.00/yr - $130,000.00/yr
+- 🕒 **Posted:** 2026-11-12
+
+### [Forward Deployed Engineer](https://www.linkedin.com/jobs/view/4489514750/) — Stealth Startup
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $150,000.00/yr - $200,000.00/yr
 - 🕒 **Posted:** 2026-11-12
