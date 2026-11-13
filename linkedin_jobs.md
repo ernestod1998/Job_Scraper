@@ -1,110 +1,118 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-11-13 22:18 UTC*
+*Last updated: 2026-11-13 23:18 UTC*
 
-**25 new role(s)** since last run · 36 total in last 1h
+**27 new role(s)** since last run · 49 total in last 1h
 
-### [Machine Learning Engineer, GAI Search Relevance - Moveworks](https://www.linkedin.com/jobs/view/4490793365/) — ServiceNow
-- 📍 **Location:** Mountain View, CA
-- 🕒 **Posted:** 2026-11-13
-
-### [Senior Machine Learning Engineer](https://www.linkedin.com/jobs/view/4490781896/) — ServiceNow
+### [Machine Learning Engineer](https://www.linkedin.com/jobs/view/4491009101/) — Gatik
 - 📍 **Location:** Santa Clara, CA
 - 🕒 **Posted:** 2026-11-13
 
-### [Sr Data Scientist](https://www.linkedin.com/jobs/view/4489813828/) — CROSwiss
+### [Computer Vision Engineer](https://www.linkedin.com/jobs/view/4490782965/) — Bright Vision Technologies
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-11-13
+
+### [Senior Software Engineer, AI/ML, Platforms and Devices](https://www.linkedin.com/jobs/view/4489827696/) — Google
+- 📍 **Location:** Mountain View, CA
+- 🕒 **Posted:** 2026-11-13
+
+### [Senior Forward Deployed Engineer](https://www.linkedin.com/jobs/view/4488994394/) — IBM
 - 📍 **Location:** San Jose, CA
+- 💰 **Salary:** $172,000.00/yr - $321,000.00/yr
 - 🕒 **Posted:** 2026-11-13
 
-### [Senior Forward Deployed Engineer](https://www.linkedin.com/jobs/view/4488976831/) — Cloudflare
-- 📍 **Location:** San Francisco, CA
+### [MLOps Engineer](https://www.linkedin.com/jobs/view/4490795518/) — Bright Vision Technologies
+- 📍 **Location:** San Francisco Bay Area
 - 🕒 **Posted:** 2026-11-13
 
-### [Senior Software Engineer, Agentic AI Harness & Quality - Moveworks](https://www.linkedin.com/jobs/view/4490785668/) — ServiceNow
+### [Software Engineer III, Software Services (Applications)](https://www.linkedin.com/jobs/view/4490795701/) — Agility Robotics
+- 📍 **Location:** Fremont, CA
+- 🕒 **Posted:** 2026-11-13
+
+### [Senior Software Engineer, Agentic Test Systems](https://www.linkedin.com/jobs/view/4489830517/) — Waymo
 - 📍 **Location:** Mountain View, CA
 - 🕒 **Posted:** 2026-11-13
 
-### [Agentic Search Infrastructure Engineer - Moveworks](https://www.linkedin.com/jobs/view/4491000044/) — ServiceNow
-- 📍 **Location:** Mountain View, CA
+### [Senior Simulation Infrastructure Engineer](https://www.linkedin.com/jobs/view/4490791896/) — Gatik
+- 📍 **Location:** Santa Clara, CA
 - 🕒 **Posted:** 2026-11-13
 
-### [Data Science & Advanced Analytics](https://www.linkedin.com/jobs/view/4419376244/) — East West Bank
+### [Software Engineer, Fullstack, Spend Controls](https://www.linkedin.com/jobs/view/4490797621/) — Ramp
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-11-13
 
-### [Software Engineer](https://www.linkedin.com/jobs/view/4489821607/) — Grand Charter
+### [Senior Full-Stack Software Engineer](https://www.linkedin.com/jobs/view/4490798450/) — OXMAN
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $141,500.00/yr - $177,000.00/yr
+- 🕒 **Posted:** 2026-11-13
+
+### [Senior Full Stack Engineer (Node.js / TypeScript) - Hybrid](https://www.linkedin.com/jobs/view/4488995373/) — CyberCoders
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $175,000.00/yr - $210,000.00/yr
+- 🕒 **Posted:** 2026-11-13
+
+### [Senior Software Engineer (Python / AI Insurance SaaS)](https://www.linkedin.com/jobs/view/4491004163/) — CCC Intelligent Solutions
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-11-13
 
-### [Senior Software Engineer (Backend / Full Stack)](https://www.linkedin.com/jobs/view/4487527844/) — People In AI
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $170,000.00/yr - $200,000.00/yr
-- 🕒 **Posted:** 2026-11-13
-
-### [Senior Forward Deployed Engineer](https://www.linkedin.com/jobs/view/4488991282/) — Cloudflare
+### [Senior Software Engineer (Medhub / AI Insurance SaaS)](https://www.linkedin.com/jobs/view/4490789667/) — CCC Intelligent Solutions
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-11-13
 
-### [Software Engineer](https://www.linkedin.com/jobs/view/4488979746/) — Russell Tobin
-- 📍 **Location:** South San Francisco, CA
+### [Senior Software Engineer, ML Infrastructure](https://www.linkedin.com/jobs/view/4490798574/) — Gatik
+- 📍 **Location:** Santa Clara, CA
 - 🕒 **Posted:** 2026-11-13
 
-### [Software Engineer](https://www.linkedin.com/jobs/view/4489812903/) — DGN Technologies Inc
-- 📍 **Location:** South San Francisco, CA
-- 💰 **Salary:** $65.00/hr - $75.00/hr
-- 🕒 **Posted:** 2026-11-13
-
-### [Full Stack Engineer](https://www.linkedin.com/jobs/view/4490799120/) — Artech
-- 📍 **Location:** Jersey City, NJ
-- 💰 **Salary:** $70.00/hr - $75.00/hr
-- 🕒 **Posted:** 2026-11-13
-
-### [Associate Software Engineer, Core Infrastructure - Moveworks](https://www.linkedin.com/jobs/view/4490789422/) — ServiceNow
-- 📍 **Location:** Mountain View, CA
-- 🕒 **Posted:** 2026-11-13
-
-### [Cloud Engineer](https://www.linkedin.com/jobs/view/4485894444/) — Atlas Search
-- 📍 **Location:** New York City Metropolitan Area
-- 💰 **Salary:** $130,000.00/yr - $170,000.00/yr
-- 🕒 **Posted:** 2026-11-13
-
-### [Software Developer-EX Google](https://www.linkedin.com/jobs/view/4488982517/) — PDSSOFT INC.
-- 📍 **Location:** Mountain View, CA
-- 🕒 **Posted:** 2026-11-13
-
-### [Embedded System Software Engineer](https://www.linkedin.com/jobs/view/4489819622/) — Envision Technology Solutions
+### [Software Engineer 2](https://www.linkedin.com/jobs/view/4490783941/) — U.S. Bank
 - 📍 **Location:** Cupertino, CA
 - 🕒 **Posted:** 2026-11-13
 
-### [Software Engineer in Test](https://www.linkedin.com/jobs/view/4490786442/) — Roc Search
-- 📍 **Location:** San Francisco Bay Area
-- 💰 **Salary:** $140,000.00/yr - $160,000.00/yr
+### [Senior Software Engineer, Map Infrastructure](https://www.linkedin.com/jobs/view/4490787987/) — Gatik
+- 📍 **Location:** Santa Clara, CA
 - 🕒 **Posted:** 2026-11-13
 
-### [Senior Software Engineer, Agentic Systems - Moveworks](https://www.linkedin.com/jobs/view/4490786670/) — ServiceNow
-- 📍 **Location:** Mountain View, CA
+### [GenAI Engineer](https://www.linkedin.com/jobs/view/4489820915/) — Capgemini
+- 📍 **Location:** New York City Metropolitan Area
+- 💰 **Salary:** $100,000.00/yr - $150,000.00/yr
 - 🕒 **Posted:** 2026-11-13
 
-### [Senior Java Software Engineer](https://www.linkedin.com/jobs/view/4490783574/) — VForce Infotech
+### [Software Engineer, Ads](https://www.linkedin.com/jobs/view/4490798538/) — GameChanger
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $120,000.00/yr - $140,000.00/yr
+- 🕒 **Posted:** 2026-11-13
+
+### [Cloud Infrastructure Engineer](https://www.linkedin.com/jobs/view/4490507334/) — COGENT Infotech
+- 📍 **Location:** White Plains, NY
+- 🕒 **Posted:** 2026-11-13
+
+### [DevOps Engineer](https://www.linkedin.com/jobs/view/4488980792/) — WalkMe
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-11-13
+
+### [Senior Backend Software Engineer, Case Intelligence](https://www.linkedin.com/jobs/view/4488976937/) — Expert Institute
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-11-13
+
+### [Senior Software Engineer, Test Infrastructure & Quality Platforms](https://www.linkedin.com/jobs/view/4484997144/) — Interactive Brokers
+- 📍 **Location:** Greenwich, CT
+- 🕒 **Posted:** 2026-11-13
+
+### [Sr. Forward Deployed Engineer (Post-Sales)](https://www.linkedin.com/jobs/view/4491011001/) — Tennr
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-11-13
+
+### [Forward Deployed Engineer (Post-Sales)](https://www.linkedin.com/jobs/view/4491005442/) — Tennr
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-11-13
+
+### [Bioinformatician II - Allergy  Asthma Research - Genetics & Genomic Sciences](https://www.linkedin.com/jobs/view/4486532371/) — Mount Sinai Health System
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-11-13
+
+### [Senior Machine Learning Engineer - Hybrid](https://www.linkedin.com/jobs/view/4488988587/) — CyberCoders
 - 📍 **Location:** Jersey City, NJ
+- 💰 **Salary:** $180,000.00/yr - $240,000.00/yr
 - 🕒 **Posted:** 2026-11-13
 
-### [Senior Java Software Engineer](https://www.linkedin.com/jobs/view/4490778964/) — Themesoft Inc.
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-11-13
-
-### [Software Engineer, Consumer Subscriptions](https://www.linkedin.com/jobs/view/4490784656/) — SpaceX Super Intelligence
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-11-13
-
-### [Software Engineer, Full-Stack - Growth Platform](https://www.linkedin.com/jobs/view/4488974987/) — Superhuman
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $171,000.00/yr - $240,000.00/yr
-- 🕒 **Posted:** 2026-11-13
-
-### [Software Engineer Stf - E4](https://www.linkedin.com/jobs/view/4488989055/) — Lockheed Martin
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-11-13
-
-### [Software Engineer Stf - E4](https://www.linkedin.com/jobs/view/4488976668/) — Lockheed Martin
-- 📍 **Location:** Sunnyvale, CA
+### [Forward Deployed Engineer](https://www.linkedin.com/jobs/view/4488978912/) — depthfirst
+- 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-11-13
