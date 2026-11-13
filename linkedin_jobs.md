@@ -1,18 +1,32 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-11-13 03:17 UTC*
+*Last updated: 2026-11-13 04:17 UTC*
 
-**3 new role(s)** since last run · 5 total in last 1h
+**7 new role(s)** since last run · 9 total in last 1h
 
-### [Software Engineer, Claims & AI Billing](https://www.linkedin.com/jobs/view/4490536671/) — Commure
+### [Machine Learning Engineer](https://www.linkedin.com/jobs/view/4490572206/) — GMI Cloud
 - 📍 **Location:** Mountain View, CA
-- 💰 **Salary:** $130,000.00/yr - $190,000.00/yr
 - 🕒 **Posted:** 2026-11-12
 
-### [Senior Machine Learning Engineer - Hybrid](https://www.linkedin.com/jobs/view/4488588403/) — CyberCoders
-- 📍 **Location:** Jersey City, NJ
+### [Research Engineer, Post-Training & Vision-Language Models](https://www.linkedin.com/jobs/view/4489511991/) — Cohesity
+- 📍 **Location:** Santa Clara, CA
 - 🕒 **Posted:** 2026-11-12
 
-### [Forward Deployed Engineer](https://www.linkedin.com/jobs/view/4489514750/) — Stealth Startup
+### [Sr Software Engineer - ML Infrastructure](https://www.linkedin.com/jobs/view/4490565594/) — Uber
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-11-12
+
+### [Senior Software Engineer — Agentic Coding](https://www.linkedin.com/jobs/view/4490571226/) — Alignerr
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $150,000.00/yr - $200,000.00/yr
+- 🕒 **Posted:** 2026-11-12
+
+### [Senior Machine Learning Engineer](https://www.linkedin.com/jobs/view/4490557934/) — Alignerr
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-11-12
+
+### [Software Engineer, Backend](https://www.linkedin.com/jobs/view/4490563687/) — Epiq
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-11-12
+
+### [Data Infrastructure Engineer (Rust) - High Performance Computing](https://www.linkedin.com/jobs/view/4490571205/) — Alignerr
+- 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-11-12
