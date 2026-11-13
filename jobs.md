@@ -1,75 +1,60 @@
 # 🧬 Biotech LinkedIn — MLE / DS Roles
-*Last updated: 2026-11-12 11:14 UTC*
+*Last updated: 2026-11-13 11:11 UTC*
 
-**19 new role(s)** since last run · 45 total in last 24h
+**14 new role(s)** since last run · 50 total in last 24h
 
-### [Sr. Software Engineer (EHR Integration Team)](https://job-boards.greenhouse.io/natera/jobs/6233837004) — Natera
+### [Sr. Forward Deployed Data Engineer](https://job-boards.greenhouse.io/natera/jobs/6255111004) — Natera
 - 📍 **Location:** US Remote
-- 🕒 **Posted:** 2026-11-06
+- 🕒 **Posted:** 2026-11-12
 
-### [Machine Learning Engineer, AI](https://job-boards.greenhouse.io/biohub/jobs/7793658) — Chan Zuckerberg Biohub
-- 📍 **Location:** Redwood City, CA (Hybrid)
-- 🕒 **Posted:** 2026-11-10
+### [Computational Biologist, Immune Cell Repolarization](https://job-boards.greenhouse.io/biohub/jobs/8140482) — Chan Zuckerberg Biohub
+- 📍 **Location:** New York, NY (Hybrid)
+- 🕒 **Posted:** 2026-11-12
 
-### [Senior Software Engineer](https://flatiron.com/careers/open-positions/job?gh_jid=8210867) — Flatiron Health
-- 📍 **Location:** NY office
-- 🕒 **Posted:** 2026-10-30
-
-### [Senior Software Engineer, Data Engineering](https://flatiron.com/careers/open-positions/job?gh_jid=8079733) — Flatiron Health
-- 📍 **Location:** NY office
-- 🕒 **Posted:** 2026-11-10
-
-### [Clinical Bioinformatician - Clinical Genomics Laboratory](https://regeneron.wd1.myworkdayjobs.com/careers/job/TARRYTOWN/Clinical-Bioinformatician---Clinical-Genomics-Laboratory_R52913-1) — Regeneron
-- 📍 **Location:** TARRYTOWN
+### [Senior Scientist, Drug Metabolism](https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Sr-Scientist--Drug-Metabolism_R0052430-1) — Gilead Sciences
+- 📍 **Location:** United States - California - Foster City
 - 🕒 **Posted:** Posted Yesterday
 
-### [Senior Computational Biologist](https://jobs.ashbyhq.com/probablygenetic/a9094df9-fb1e-401a-bead-52c2939796cb) — Probably Genetic
-- 📍 **Location:** San Francisco
-- 🕒 **Posted:** 2026-11-09
+### [Senior Scientist I, Applied Machine Learning and Generative AI, Pharma R&D](https://www.linkedin.com/jobs/view/4472337041/) — Tempus AI
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-11-12
 
-### [Senior Software Engineer (Backend)](https://www.ycombinator.com/companies/apero-health/jobs/o2arkMCAw-senior-software-engineer-backend) — Apero Health
-- 📍 **Location:** San Francisco, CA
+### [Senior Data Scientist I, Real World Evidence (RWE), Life Sciences R&D](https://www.linkedin.com/jobs/view/4472321592/) — Tempus AI
+- 📍 **Location:** Redwood City, CA
+- 🕒 **Posted:** 2026-11-12
 
-### [Forward Deployed Engineer](https://www.medplum.com/careers/forward-deployed-engineer) — Medplum
+### [Data Scientist II, Real World Evidence, Life Sciences R&D](https://www.linkedin.com/jobs/view/4472318876/) — Tempus AI
+- 📍 **Location:** Redwood City, CA
+- 🕒 **Posted:** 2026-11-12
+
+### [Machine Learning Scientist, Frontier Research, AI for Drug Discovery (AIDD)](https://www.linkedin.com/jobs/view/4490376183/) — Genentech
+- 📍 **Location:** South San Francisco, CA
+- 🕒 **Posted:** 2026-11-12
+
+### [Data Scientist/Postdoctoral Researcher - Zhou & Gao Labs](https://www.linkedin.com/jobs/view/4465381452/) — Buck Institute for Research on Aging
 - 📍 **Location:** Novato, CA
-
-### [Deployment Strategist](https://www.ycombinator.com/companies/mdhub/jobs/SDArg7Y-deployment-strategist) — mdhub
-- 📍 **Location:** San Francisco, CA
-
-### [Forward Deployed Engineer](https://www.ycombinator.com/companies/mdhub/jobs/pZxi9cF-forward-deployed-engineer) — mdhub
-- 📍 **Location:** San Francisco, CA
-
-### [Senior I / Senior II Computational Biologist, External Collaborations](https://www.immunai.com/careers/#senior-i-senior-ii-computational-biologist-external-collabor) — Immunai
-- 📍 **Location:** New York, NY
-
-### [Senior Machine Learning Infrastructure Engineer](https://job-boards.greenhouse.io/schrdinger/jobs/8042252003) — Schrödinger
-- 📍 **Location:** New York
-- 🕒 **Posted:** 2026-11-09
-
-### [Computational Biologist II, Tempus Discover](https://www.linkedin.com/jobs/view/4489061255/) — Tempus AI
-- 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-11-12
 
-### [Senior Cloud Engineer](https://www.linkedin.com/jobs/view/4490052293/) — Pfizer
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-11-11
+### [Software Engineer III – Scientific Instrumentation and Process Engineering](https://www.linkedin.com/jobs/view/4488590181/) — Allen Institute
+- 📍 **Location:** Seattle, WA
+- 🕒 **Posted:** 2026-11-13
 
-### [Senior Scientific Software Engineer, Analytics and Workflows](https://www.linkedin.com/jobs/view/4490041407/) — Genentech
-- 📍 **Location:** South San Francisco, CA
-- 🕒 **Posted:** 2026-11-11
+### [Software Engineer II – Scientific Instrumentation and Process Engineering](https://www.linkedin.com/jobs/view/4488582592/) — Allen Institute
+- 📍 **Location:** Seattle, WA
+- 🕒 **Posted:** 2026-11-13
 
-### [Sr. Scientist -  Translational PBPK Modeling](https://www.linkedin.com/jobs/view/4455590899/) — Genentech
-- 📍 **Location:** South San Francisco, CA
-- 🕒 **Posted:** 2026-11-11
-
-### [Research Scientist / Research Engineer, Automated Safety](https://www.linkedin.com/jobs/view/4482142260/) — Lila Sciences
-- 📍 **Location:** Cambridge, MA
-- 🕒 **Posted:** 2026-11-12
-
-### [Computational Biologist - Dr. Yana Pikman Lab](https://www.linkedin.com/jobs/view/4488248979/) — Dana-Farber Cancer Institute
+### [Yeast Display and Machine Learning Scientist I/II – Antibody Discovery](https://www.linkedin.com/jobs/view/4446649800/) — Dana-Farber Cancer Institute
 - 📍 **Location:** Boston, MA
-- 🕒 **Posted:** 2026-11-11
+- 🕒 **Posted:** 2026-11-13
 
-### [Data Scientist](https://www.linkedin.com/jobs/view/4488234100/) — Bristol Myers Squibb
+### [Data Scientist](https://www.linkedin.com/jobs/view/4489254358/) — Bristol Myers Squibb
 - 📍 **Location:** San Diego, CA
-- 🕒 **Posted:** 2026-11-11
+- 🕒 **Posted:** 2026-11-12
+
+### [Research Senior Scientist, Cheminformatics AI/ML](https://www.linkedin.com/jobs/view/4452835478/) — Takeda
+- 📍 **Location:** Boston, MA
+- 🕒 **Posted:** 2026-11-12
+
+### [Biostatistician I](https://www.linkedin.com/jobs/view/4482128587/) — Foundation Medicine
+- 📍 **Location:** Boston, MA
+- 🕒 **Posted:** 2026-11-12
