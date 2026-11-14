@@ -1,9 +1,8 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-11-14 20:18 UTC*
+*Last updated: 2026-11-14 21:17 UTC*
 
-**1 new role(s)** since last run · 30 total in last 1h
+**1 new role(s)** since last run · 6 total in last 1h
 
-### [Senior Machine Learning Engineer - Hybrid](https://www.linkedin.com/jobs/view/4489345927/) — CyberCoders
-- 📍 **Location:** Jersey City, NJ
-- 💰 **Salary:** $180,000.00/yr - $240,000.00/yr
+### [Software Engineer](https://www.linkedin.com/jobs/view/4489896744/) — FOUND
+- 📍 **Location:** New York City Metropolitan Area
 - 🕒 **Posted:** 2026-11-14
