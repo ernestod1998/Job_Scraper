@@ -1,17 +1,12 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-11-14 22:17 UTC*
+*Last updated: 2026-11-14 23:17 UTC*
 
-**3 new role(s)** since last run · 3 total in last 1h
+**2 new role(s)** since last run · 5 total in last 1h
 
-### [Forward Deployed Engineer](https://www.linkedin.com/jobs/view/4491097567/) — OVERJET
-- 📍 **Location:** San Mateo, CA
-- 🕒 **Posted:** 2026-11-14
-
-### [Bioinformatics Engineer, QDI](https://www.linkedin.com/jobs/view/4491200517/) — QIAGEN
+### [Senior Software Engineer, Infrastructure](https://www.linkedin.com/jobs/view/4477013890/) — Liftoff Mobile
 - 📍 **Location:** Redwood City, CA
 - 🕒 **Posted:** 2026-11-14
 
-### [Cloud Site Reliability Engineer (SRE)](https://www.linkedin.com/jobs/view/4490200566/) — Adecco
-- 📍 **Location:** San Francisco Bay Area
-- 💰 **Salary:** $120,000.00/yr - $200,000.00/yr
+### [Sr. Applied Scientist, Sales AI](https://www.linkedin.com/jobs/view/4489359429/) — Amazon Science
+- 📍 **Location:** Sunnyvale, CA
 - 🕒 **Posted:** 2026-11-14
