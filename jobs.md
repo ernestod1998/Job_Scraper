@@ -1,40 +1,24 @@
 # 🧬 Biotech LinkedIn — MLE / DS Roles
-*Last updated: 2026-11-14 10:35 UTC*
+*Last updated: 2026-11-15 11:03 UTC*
 
-**9 new role(s)** since last run · 43 total in last 24h
+**5 new role(s)** since last run · 39 total in last 24h
 
-### [Machine Learning Engineer, AI](https://job-boards.greenhouse.io/biohub/jobs/7747522) — Chan Zuckerberg Biohub
-- 📍 **Location:** New York, NY (Hybrid)
+### [Machine Learning Engineer, AI](https://job-boards.greenhouse.io/biohub/jobs/7793658) — Chan Zuckerberg Biohub
+- 📍 **Location:** Redwood City, CA (Hybrid)
 - 🕒 **Posted:** 2026-11-10
 
-### [Sr. AI Scientist, Agentic Science/Generative Models, AI for Biology & Translation (AIBT)](https://www.linkedin.com/jobs/view/4451550391/) — Genentech
-- 📍 **Location:** South San Francisco, CA
-- 🕒 **Posted:** 2026-11-13
+### [Scientist, Drug Metabolism](https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Scientist--Drug-Metabolism_R0056377-1) — Gilead Sciences
+- 📍 **Location:** United States - California - Foster City
+- 🕒 **Posted:** Posted 10 Days Ago
 
-### [Senior Machine Learning Scientist, Protein ML, AI for Drug Discovery (AIDD)](https://www.linkedin.com/jobs/view/4455956394/) — Genentech
-- 📍 **Location:** South San Francisco, CA
-- 🕒 **Posted:** 2026-11-13
+### [Senior Scientist, Drug Metabolism](https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Sr-Scientist--Drug-Metabolism_R0052430-1) — Gilead Sciences
+- 📍 **Location:** United States - California - Foster City
+- 🕒 **Posted:** Posted 3 Days Ago
 
-### [Bioinformatics Scientist II](https://www.linkedin.com/jobs/view/4490794773/) — Veracyte, Inc.
-- 📍 **Location:** South San Francisco, CA
-- 🕒 **Posted:** 2026-11-13
+### [Clinical Bioinformatician - Clinical Genomics Laboratory](https://regeneron.wd1.myworkdayjobs.com/careers/job/TARRYTOWN/Clinical-Bioinformatician---Clinical-Genomics-Laboratory_R52913-1) — Regeneron
+- 📍 **Location:** TARRYTOWN
+- 🕒 **Posted:** Posted 4 Days Ago
 
-### [Senior Data Scientist I, Real World Evidence (RWE), Life Sciences R&D](https://www.linkedin.com/jobs/view/4472332118/) — Tempus AI
+### [Data Scientist II, Outcomes Research](https://www.linkedin.com/jobs/view/4473809341/) — Tempus AI
 - 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-11-13
-
-### [Senior Software Engineer, Data](https://www.linkedin.com/jobs/view/4419451247/) — Lila Sciences
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-11-13
-
-### [Data Science & AI Innovation Postdoctoral Fellow](https://www.linkedin.com/jobs/view/4443681939/) — Novartis
-- 📍 **Location:** Cambridge, MA
-- 🕒 **Posted:** 2026-11-13
-
-### [Data Scientist](https://www.linkedin.com/jobs/view/4488936590/) — Bristol Myers Squibb
-- 📍 **Location:** San Diego, CA
-- 🕒 **Posted:** 2026-11-13
-
-### [CD&A Data Scientist, Obesity and Related Conditions - Senior Associate](https://www.linkedin.com/jobs/view/4488735186/) — Amgen
-- 📍 **Location:** Thousand Oaks, CA
-- 🕒 **Posted:** 2026-11-13
+- 🕒 **Posted:** 2026-11-14
