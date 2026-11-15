@@ -1,39 +1,34 @@
 # 🟦 Indeed — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-11-15 00:11 UTC*
+*Last updated: 2026-11-15 07:05 UTC*
 
-**7 new role(s)** since last run · 50 total in last 24h
+**6 new role(s)** since last run · 26 total in last 24h
 
-### [Mid-Level Machine Learning Engineer](https://www.indeed.com/viewjob?jk=f62bdc158a1bf1fc) — CLERA
-- 📍 **Location:** San Francisco, CA, USA
-- 💰 **Salary:** $140k/yr
+### [Systems Software Developer, CAD Infrastructure](https://www.indeed.com/viewjob?jk=8ef40b2a6b1a306b) — Apple
+- 📍 **Location:** Cupertino, CA, USA
+- 💰 **Salary:** $150k–$278k/yr
 - 🕒 **Posted:** 2026-11-14
 
-### [Software Engineer - Data Center Tooling](https://www.indeed.com/viewjob?jk=348d7fda8d3c65af) — Lambda
-- 📍 **Location:** San Francisco, CA, USA
-- 💰 **Salary:** $230k–$340k/yr
+### [Systems Software Developer, CAD Infrastructure](https://www.indeed.com/viewjob?jk=cc8b473ce48da9b1) — Apple
+- 📍 **Location:** Cupertino, CA, USA
+- 💰 **Salary:** $185k–$325k/yr
 - 🕒 **Posted:** 2026-11-14
 
-### [Software Engineer - Data Center Tooling](https://www.indeed.com/viewjob?jk=f5e3e8c5cfa3dfc3) — Lambda
-- 📍 **Location:** San Jose, CA, USA
-- 💰 **Salary:** $230k–$340k/yr
-- 🕒 **Posted:** 2026-11-14
-
-### [Senior Robotics Software Engineer](https://www.indeed.com/viewjob?jk=498f49f0c790c1d7) — CLERA
-- 📍 **Location:** San Francisco, CA, USA
-- 💰 **Salary:** $185k–$235k/yr
-- 🕒 **Posted:** 2026-11-14
-
-### [Software Engineer II](https://www.indeed.com/viewjob?jk=5a0b06663c273f5e) — Sony Interactive Entertainment
-- 📍 **Location:** San Mateo, CA, USA
-- 💰 **Salary:** $164k–$246k/yr
-- 🕒 **Posted:** 2026-11-14
-
-### [Platform Engineer, Kubernetes](https://www.indeed.com/viewjob?jk=d21e41f8aca9d7f8) — CLERA
-- 📍 **Location:** San Francisco, CA, USA
-- 💰 **Salary:** $180k–$210k/yr
-- 🕒 **Posted:** 2026-11-14
-
-### [Data Scientist](https://www.indeed.com/viewjob?jk=ba1a74d37541df66) — S&P Global
+### [Data Scientist](https://www.indeed.com/viewjob?jk=41d527aad37bdc76) — Fractal Analytics
 - 📍 **Location:** New York, NY, USA
-- 💰 **Salary:** $90k–$150k/yr
+- 💰 **Salary:** $135k–$160k/yr
+- 🕒 **Posted:** 2026-11-14
+
+### [Full-Stack Java React Software Engineer III](https://www.indeed.com/viewjob?jk=ac2847f725c69a08) — JPMorganChase
+- 📍 **Location:** Jersey City, NJ, USA
+- 💰 **Salary:** $138k–$185k/yr
+- 🕒 **Posted:** 2026-11-14
+
+### [Python Software Engineer III](https://www.indeed.com/viewjob?jk=808344b84e558284) — JPMorganChase
+- 📍 **Location:** Jersey City, NJ, USA
+- 💰 **Salary:** $138k–$185k/yr
+- 🕒 **Posted:** 2026-11-14
+
+### [Python Java AWS Software Engineer III (ML) - Agentic Treasury](https://www.indeed.com/viewjob?jk=c7e7dcb70c1bcfd7) — JPMorganChase
+- 📍 **Location:** Jersey City, NJ, USA
+- 💰 **Salary:** $138k–$185k/yr
 - 🕒 **Posted:** 2026-11-14
