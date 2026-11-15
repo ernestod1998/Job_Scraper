@@ -1,49 +1,39 @@
 # 🟦 Indeed — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-11-14 20:04 UTC*
+*Last updated: 2026-11-15 00:11 UTC*
 
-**9 new role(s)** since last run · 68 total in last 24h
+**7 new role(s)** since last run · 50 total in last 24h
 
-### [Software Engineer (Framework Solutions), AI & Data Platforms (AiDP)](https://www.indeed.com/viewjob?jk=c7a58733647f12de) — Apple
-- 📍 **Location:** Cupertino, CA, USA
-- 💰 **Salary:** $150k–$225k/yr
-- 🕒 **Posted:** 2026-11-14
-
-### [Machine Learning Research Engineer, Fitness Intelligence – Watch Software](https://www.indeed.com/viewjob?jk=841a902d4685917b) — Apple
-- 📍 **Location:** Cupertino, CA, USA
-- 💰 **Salary:** $185k–$325k/yr
-- 🕒 **Posted:** 2026-11-14
-
-### [Sr. Software Engineer, AI & Data Platforms (AiDP)](https://www.indeed.com/viewjob?jk=3af1b66dc7343bc2) — Apple
-- 📍 **Location:** Sunnyvale, CA, USA
-- 💰 **Salary:** $150k–$278k/yr
-- 🕒 **Posted:** 2026-11-14
-
-### [Sr Machine Learning Engineer](https://www.indeed.com/viewjob?jk=049294be5512bc7a) — Uber
-- 📍 **Location:** Sunnyvale, CA, USA
-- 💰 **Salary:** $202k–$224k/yr
-- 🕒 **Posted:** 2026-11-14
-
-### [Senior Software Engineer](https://www.indeed.com/viewjob?jk=59c5d7bb437973ee) — Lambda
+### [Mid-Level Machine Learning Engineer](https://www.indeed.com/viewjob?jk=f62bdc158a1bf1fc) — CLERA
 - 📍 **Location:** San Francisco, CA, USA
-- 💰 **Salary:** $230k–$383k/yr
+- 💰 **Salary:** $140k/yr
 - 🕒 **Posted:** 2026-11-14
 
-### [GenAI Research Engineer](https://www.indeed.com/viewjob?jk=fd9b57be4cf31ef6) — Apple
-- 📍 **Location:** Cupertino, CA, USA
-- 💰 **Salary:** $150k–$278k/yr
-- 🕒 **Posted:** 2026-11-14
-
-### [Software Engineer, Full-Stack - Growth Platform](https://www.indeed.com/viewjob?jk=9505c3c8bdae2e99) — Superhuman
+### [Software Engineer - Data Center Tooling](https://www.indeed.com/viewjob?jk=348d7fda8d3c65af) — Lambda
 - 📍 **Location:** San Francisco, CA, USA
-- 💰 **Salary:** $171k–$240k/yr
+- 💰 **Salary:** $230k–$340k/yr
 - 🕒 **Posted:** 2026-11-14
 
-### [Sr. Platform Software Engineer, AI & Data Platforms (AiDP)](https://www.indeed.com/viewjob?jk=bb24a4377df52e08) — Apple
-- 📍 **Location:** Sunnyvale, CA, USA
-- 💰 **Salary:** $150k–$278k/yr
+### [Software Engineer - Data Center Tooling](https://www.indeed.com/viewjob?jk=f5e3e8c5cfa3dfc3) — Lambda
+- 📍 **Location:** San Jose, CA, USA
+- 💰 **Salary:** $230k–$340k/yr
 - 🕒 **Posted:** 2026-11-14
 
-### [AI Platform Engineering Consultant](https://www.indeed.com/viewjob?jk=dcb9b884404cb08d) — Logic, Inc.
+### [Senior Robotics Software Engineer](https://www.indeed.com/viewjob?jk=498f49f0c790c1d7) — CLERA
 - 📍 **Location:** San Francisco, CA, USA
-- 💰 **Salary:** $59k–$206k/yr
+- 💰 **Salary:** $185k–$235k/yr
+- 🕒 **Posted:** 2026-11-14
+
+### [Software Engineer II](https://www.indeed.com/viewjob?jk=5a0b06663c273f5e) — Sony Interactive Entertainment
+- 📍 **Location:** San Mateo, CA, USA
+- 💰 **Salary:** $164k–$246k/yr
+- 🕒 **Posted:** 2026-11-14
+
+### [Platform Engineer, Kubernetes](https://www.indeed.com/viewjob?jk=d21e41f8aca9d7f8) — CLERA
+- 📍 **Location:** San Francisco, CA, USA
+- 💰 **Salary:** $180k–$210k/yr
+- 🕒 **Posted:** 2026-11-14
+
+### [Data Scientist](https://www.indeed.com/viewjob?jk=ba1a74d37541df66) — S&P Global
+- 📍 **Location:** New York, NY, USA
+- 💰 **Salary:** $90k–$150k/yr
 - 🕒 **Posted:** 2026-11-14
