@@ -1,12 +1,8 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-11-16 04:17 UTC*
+*Last updated: 2026-11-16 07:10 UTC*
 
-**2 new role(s)** since last run · 2 total in last 1h
+**1 new role(s)** since last run · 1 total in last 1h
 
-### [Machine Learning Engineer (Remote | $90–$140/hr)](https://www.linkedin.com/jobs/view/4488209995/) — Synthires
-- 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-11-15
-
-### [Software Engineer (AI Training) — Remote Contract](https://www.linkedin.com/jobs/view/4491284405/) — Alignerr
-- 📍 **Location:** New York, NY
+### [Forward Deployed Engineer](https://www.linkedin.com/jobs/view/4491500116/) — Appen
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-11-15
