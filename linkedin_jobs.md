@@ -1,12 +1,9 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-11-17 02:18 UTC*
+*Last updated: 2026-11-17 03:17 UTC*
 
-**2 new role(s)** since last run · 21 total in last 1h
+**1 new role(s)** since last run · 1 total in last 1h
 
-### [Software Engineer, Enterprise Data Products & Integration](https://www.linkedin.com/jobs/view/4490969691/) — National Basketball Association (NBA)
-- 📍 **Location:** Secaucus, NJ
-- 🕒 **Posted:** 2026-11-16
-
-### [Junior Full Stack Software Engineer](https://www.linkedin.com/jobs/view/4490979233/) — iSoftstone Malaysia
-- 📍 **Location:** Palo Alto, CA
+### [Software Engineer, Privacy & Data Governance](https://www.linkedin.com/jobs/view/4484403099/) — Thinking Machines Lab
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $300,000.00/yr - $350,000.00/yr
 - 🕒 **Posted:** 2026-11-16
