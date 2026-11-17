@@ -76,6 +76,23 @@ for (const title of ['Solutions Architect', 'Solution Engineer, AI']) {
   check(`role bucket Forward Deployed: ${title}`, classifyRole(title) === 'Forward Deployed');
 }
 
+for (const [title, want] of [
+  ['Customer Engineer', 'Forward Deployed'], ['Field Deployment Engineer', 'Forward Deployed'],
+  ['Scientist, Computational Biology', 'Bioinformatics'], ['Statistical Geneticist', 'Bioinformatics'],
+  ['Biostatistician', 'Bioinformatics'], ['Scientific Software Engineer', 'Comp Chem/Sci'],
+  ['Lab Automation Engineer', 'Comp Chem/Sci'], ['Image Analysis Scientist', 'Comp Chem/Sci'],
+  ['Machine Learning Scientist', 'Scientist'], ['Scientist, Machine Learning', 'Scientist'],
+  ['Machine Learning Researcher', 'Scientist'], ['Decision Scientist', 'Data Science'],
+  ['Statistician II', 'Data Science'], ['Software Development Engineer', 'SWE'], ['SDE II', 'SWE'],
+  ['Member of Technical Staff', 'SWE'], ['Product Engineer, Full Stack', 'SWE'], ['Engineer, iOS', 'SWE'],
+  ['Member of Technical Staff (Machine Learning Engineer, Search)', 'MLE'],
+  ['ML Systems Performance Engineer', 'MLOps/Platform'],
+]) check(`role bucket ${want}: ${title}`, classifyRole(title) === want);
+check('MTS is exempt from the staff veto', !veto.test('Member of Technical Staff'));
+for (const title of ['Senior Member of Technical Staff', 'Staff Software Engineer', 'Staff Engineer']) {
+  check(`staff veto still applies: ${title}`, veto.test(title));
+}
+
 for (const title of ['AI Engineer', 'Generative AI Engineer', 'GenAI Engineer', 'LLM Engineer', 'Prompt Engineer']) {
   check(`AI-engineer veto: ${title}`, isExcludedAiEngineer(title));
 }

@@ -189,6 +189,45 @@ class RoleAndLocationPolicy(unittest.TestCase):
             self.assertIn(term, sj.LINKEDIN_SEARCH_TERMS)
             self.assertNotIn(term, sj.GOV_SEARCH_TERMS)
 
+    def test_biotech_swe_ds_and_fde_title_expansion(self):
+        # Titles verified missing on live boards on 2026-11-17.
+        for title in (
+            # Biotech / scientific computing
+            "Scientific Software Engineer", "Scientist, Computational Biology",
+            "Scientist I, Bioinformatics", "Bioinformatics Developer", "Computational Biology Scientist",
+            "Scientist, Computational Genomics", "Statistical Geneticist", "Computational Systems Biologist",
+            "Scientific Programmer", "Lab Automation Engineer", "LIMS Developer",
+            "Image Analysis Scientist", "Digital Pathology Scientist", "Computational Neuroscientist",
+            "Member of Technical Staff - Computational Biologist",
+            # DS / ML science
+            "Scientist, Machine Learning", "Machine Learning Researcher", "Applied Researcher",
+            "Decision Scientist", "Statistician II", "Machine Learning Specialist", "ML/AI Engineer",
+            "ML Systems Performance Engineer",
+            # SWE
+            "Software Development Engineer", "SDE II", "Member of Technical Staff",
+            "Member of Technical Staff (Software Engineer, Backend Platform)",
+            "Product Engineer, Full Stack", "Full Stack Developer", "Engineer, Backend", "Engineer, iOS",
+            # FDE-adjacent
+            "Deployment Engineer", "Field Deployment Engineer", "Customer Engineer", "Implementation Engineer",
+        ):
+            self.assertTrue(sj.is_mle_role(title), title)
+        for title in ("Customer Engineer", "Field Deployment Engineer", "Implementation Engineer II"):
+            self.assertTrue(sj.FORWARD_DEPLOYED_RE.search(title), title)
+        for title in (
+            # "Technical staff" is exempt from the staff veto; real seniority isn't.
+            "Senior Member of Technical Staff", "Founding Member of Technical Staff",
+            "Staff Software Development Engineer", "Senior Product Engineer",
+            # Broad words stay out on their own.
+            "Automation Engineer", "Clinical Informatics Specialist", "Research Scientist",
+            "Customer Success Manager", "Data Engineer",
+        ):
+            self.assertFalse(sj.is_mle_role(title), title)
+        self.assertTrue(sj.is_mle_role("Biostatistician"))
+        for term in ("member of technical staff", "scientific software engineer"):
+            self.assertIn(term, sj.LINKEDIN_SEARCH_TERMS)
+            self.assertNotIn(term, sj.GOV_SEARCH_TERMS)
+        self.assertIn("computational biology", sj.BIOTECH_SPECIALTY_SEARCH_TERMS)
+
     def test_general_nyc_and_close_nj_allowlist(self):
         accepted = (
             "New York, NY", "New York City", "Brooklyn, NY", "Queens, New York",

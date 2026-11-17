@@ -2,7 +2,7 @@
 // Forward deployed / solutions lane and the AI-engineer veto (2026-11-16) —
 // keep both in sync with FORWARD_DEPLOYED_RE / EXCLUDED_AI_ENGINEER_RE in
 // scrape_jobs.py (test_scraper_core compares the patterns).
-export const FORWARD_DEPLOYED_RE = /forward[\s-]+deployed|\bfde\b|deployment\s+strategist|\bsolutions?\s+(?:engineer|architect)/i;
+export const FORWARD_DEPLOYED_RE = /forward[\s-]+deployed|\bfde\b|deployment\s+strategist|\bsolutions?\s+(?:engineer|architect)|\b(?:deployment|customer|implementation)\s+engineer/i;
 export const EXCLUDED_AI_ENGINEER_RE = /(?<!\/)(?<!\/\s)\b(?:generative\s+ai|gen\s?ai|ai|llm|prompt)\s+(?:engineer|developer)\b(?!\s+(?:platform|tools|tooling|experience|productivity)\b)/i;
 export function isExcludedAiEngineer(title) {
   const t = String(title || '');
@@ -14,17 +14,17 @@ export function classifyRole(title) {
   // Deployed Software Engineer" and solutions engineer/architect titles
   // belong in this lane, not DS/SWE.
   if (FORWARD_DEPLOYED_RE.test(t)) return 'Forward Deployed';
-  if (/bioinformatic|computational biolog|genomic|ngs/.test(t)) return 'Bioinformatics';
+  if (/bioinformatic|computational biolog|genomic|ngs|systems biolog|statistical genetic|biostatistic/.test(t)) return 'Bioinformatics';
   // Comp-chem / DMPK / tox / imaging lane (mirrors the scraper's targeted
   // KEYWORDS) — checked before Scientist so "Toxicology Research Scientist"
   // lands here, not in the generic bucket.
-  if (/computational chem|computational scientist|cheminformatic|computational tox|predictive tox|toxicolog|\bdmpk\b|\badmet\b|\bqsar\b|\bpbpk\b|\bpkdm\b|drug metabolism|molecular property|computational patholog|imaging scientist|medical imaging/.test(t)) return 'Comp Chem/Sci';
-  if (/mlops|ml platform|ml infra|ml infrastructure|fullstack machine learning/.test(t)) return 'MLOps/Platform';
-  if (/applied scientist|ml scientist|research scientist|research engineer/.test(t)) return 'Scientist';
-  if (/data scientist|analytics/.test(t)) return 'Data Science';
+  if (/computational chem|computational scientist|cheminformatic|computational tox|predictive tox|toxicolog|\bdmpk\b|\badmet\b|\bqsar\b|\bpbpk\b|\bpkdm\b|drug metabolism|molecular property|computational patholog|imaging scientist|medical imaging|digital patholog|image analysis|computational research|computational neuro|computational protein|scientific software|scientific programmer|scientific computing|research software|scientific informatics|research informatics|informatics engineer|lab automation|laboratory automation|\blims\b/.test(t)) return 'Comp Chem/Sci';
+  if (/mlops|ml platform|ml infra|ml infrastructure|ml systems|fullstack machine learning/.test(t)) return 'MLOps/Platform';
+  if (/applied scientist|ml scientist|machine learning scientist|scientist, (?:machine learning|ml)\b|research scientist|research engineer|researcher/.test(t)) return 'Scientist';
+  if (/data scien|analytics|decision scientist|statistician/.test(t)) return 'Data Science';
   if (/\bai engineer|ai\/ml engineer|applied ai|genai|llm|agent/.test(t)) return 'AI Engineer';
-  if (/machine learning engineer|ml engineer|mle\b/.test(t)) return 'MLE';
-  if (/software engineer|swe\b|backend|frontend|full[- ]?stack/.test(t)) return 'SWE';
+  if (/machine learning engineer|ml engineer|mle\b|engineer, (?:machine learning|ml)\b|machine learning specialist/.test(t)) return 'MLE';
+  if (/software engineer|software develop|swe\b|\bsde\b|backend|frontend|full[- ]?stack|technical staff|product engineer|\bios\b|android|mobile engineer/.test(t)) return 'SWE';
   return 'Other';
 }
 // ---------- Location (2026-11-16) ----------
@@ -199,7 +199,7 @@ export function compareByDate(a, b, dir) {
 
 // Senior / Sr. excluded again since 2026-11-16 — keep in sync with
 // EXCLUDED_SENIORITY_RE in scrape_jobs.py.
-export const EXCLUDED_TITLE_RE = /\b(senior|sr\.?|staff|principal|distinguished|founding|lead|manager|director|vice president|vp|svp|chief|head\s+of)\b/i;
+export const EXCLUDED_TITLE_RE = /\b(senior|sr\.?|(?<!technical\s)staff|principal|distinguished|founding|lead|manager|director|vice president|vp|svp|chief|head\s+of)\b/i;
 // Security-domain veto (lane retired 2026-09-03) — keep in sync with
 // EXCLUDED_SECURITY_RE in scrape_jobs.py.
 export const EXCLUDED_SECURITY_RE = /\b(security|secure|securing|cyber\w*|infosec|appsec|devsecops|secops|threat|vulnerability|vulnerabilities|pentest\w*|penetration|red\s+team|incident\s+response|soc|iam|cryptograph\w*|grc)\b/i;

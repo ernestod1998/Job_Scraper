@@ -54,6 +54,12 @@ KEYWORDS = [
     # Scientist", the most common title at ML-native biotechs (Insitro/Calico/
     # Profluent). Substring match also covers the "Senior …" prefix.
     "machine learning scientist", "machine learning research scientist",
+    # Comma-form and researcher titles (added 2026-11-17): "Scientist, Machine
+    # Learning" and "Machine Learning Researcher" matched nothing above.
+    "scientist, machine learning", "scientist, ml",
+    "machine learning researcher", "applied researcher",
+    "machine learning specialist", "ml/ai engineer",
+    "ml infra", "ml systems",
     # ---- Forward deployed (added 2026-11-12) ----
     # Customer-embedded engineering. "Forward Deployed Software Engineer"
     # already matched via "software engineer", but the plain "Forward Deployed
@@ -64,13 +70,33 @@ KEYWORDS = [
     # technical seat next to FDE; the dashboard groups them under Forward
     # Deployed. Seniority/security vetoes still apply.
     "solutions engineer", "solution engineer", "solutions architect", "solution architect",
+    # Deployment / customer / implementation engineers (added 2026-11-17) —
+    # the same customer-embedded seat under other names ("Field Deployment
+    # Engineer", Google Cloud "Customer Engineer"). Grouped under Forward
+    # Deployed by FORWARD_DEPLOYED_RE.
+    "deployment engineer", "customer engineer", "implementation engineer",
     # ---- Data science ----
     "data scientist", "data science",
+    # Added 2026-11-17. "statistician" is word-bounded, so it never matches
+    # inside "biostatistician" (listed separately below).
+    "decision scientist", "statistician",
     # ---- Software engineering (broad) ----
     "software engineer", "software developer",
+    # Amazon-style "Software Development Engineer" / "SDE II" (added
+    # 2026-11-17); "sde" is word-bounded by _KEYWORD_RE.
+    "software development engineer", "sde",
+    # AI-lab and startup SWE titles (added 2026-11-17). "Member of Technical
+    # Staff" is exempt from the "staff" seniority veto; "Senior/Founding
+    # Member of Technical Staff" are still dropped.
+    "member of technical staff", "product engineer",
     "backend engineer", "back-end engineer", "backend developer",
     "frontend engineer", "front-end engineer", "frontend developer",
     "full stack engineer", "full-stack engineer", "fullstack engineer",
+    "full stack developer", "full-stack developer", "fullstack developer",
+    # Comma-form titles ("Engineer, Backend") added 2026-11-17.
+    "engineer, backend", "engineer, frontend", "engineer, full stack",
+    "engineer, machine learning", "engineer, ml",
+    "engineer, ios", "engineer, android", "engineer, mobile",
     "mobile engineer", "ios engineer", "android engineer",
     # ---- Platform / infra / ops ----
     "platform engineer",
@@ -102,6 +128,20 @@ KEYWORDS = [
     "biostatistician", "bioinformatician", "bioinformatics analyst",
     "genomics scientist", "research software engineer",
     "scientific software engineer",
+    # Broader biotech / scientific-computing lane (added 2026-11-17). Bare
+    # "bioinformatics" is word-bounded and covers "Scientist, Bioinformatics";
+    # "computational biology" covers "Scientist, Computational Biology", which
+    # "computational biologist" missed. Bare "informatics" and "automation"
+    # stay out: they admit clinical-IT and industrial/QA roles.
+    "bioinformatics", "bioinformatics developer",
+    "computational biology", "computational genomics", "computational research",
+    "computational neuroscience", "computational neuroscientist",
+    "computational protein", "systems biology", "systems biologist",
+    "statistical genetics", "statistical geneticist", "biostatistics",
+    "scientific programmer", "scientific computing", "scientific informatics",
+    "research informatics", "informatics engineer",
+    "lab automation", "laboratory automation", "lims developer", "lims engineer",
+    "image analysis", "digital pathology",
     # Entry-level computational research titles
     "associate computational biologist", "research associate, computational",
     # Narrow phrase (substring match) — catches Biohub-style "Research
@@ -142,10 +182,12 @@ MAX_POSTING_AGE_DAYS = 14
 # distinguished/founding) and management/exec tiers (director/VP/chief/head of).
 # Senior / Sr. titles are excluded again (2026-11-16). They were allowed on
 # 2026-11-12 and became 43% of new jobs in four days (1,388 of 3,210), mostly
-# general SWE and platform roles. Keep in sync with EXCLUDED_TITLE_RE in
+# general SWE and platform roles. "Member of Technical Staff" is not a
+# seniority tier, so "staff" right after "technical" is exempt (2026-11-17).
+# Keep in sync with EXCLUDED_TITLE_RE in
 # assets/triage/model.mjs and track() in ranking/core.py.
 EXCLUDED_SENIORITY_RE = re.compile(
-    r'\b(senior|sr\.?|staff|principal|distinguished|founding|lead|manager|director|'
+    r'\b(senior|sr\.?|(?<!technical\s)staff|principal|distinguished|founding|lead|manager|director|'
     r'vice president|vp|svp|chief|head\s+of)\b',
     re.IGNORECASE)
 
@@ -194,7 +236,8 @@ EXCLUDED_AI_ENGINEER_RE = re.compile(
     r'(?!\s+(?:platform|tools|tooling|experience|productivity)\b)',
     re.IGNORECASE)
 FORWARD_DEPLOYED_RE = re.compile(
-    r'forward[\s-]+deployed|\bfde\b|deployment\s+strategist|\bsolutions?\s+(?:engineer|architect)',
+    r'forward[\s-]+deployed|\bfde\b|deployment\s+strategist|\bsolutions?\s+(?:engineer|architect)'
+    r'|\b(?:deployment|customer|implementation)\s+engineer',
     re.IGNORECASE)
 
 
@@ -1296,6 +1339,9 @@ LINKEDIN_SEARCH_TERMS = [
     # Added 2026-11-16 with the matching KEYWORDS (FDE lane).
     "solutions engineer",
     "solutions architect",
+    # Added 2026-11-17 with the matching KEYWORDS.
+    "member of technical staff",
+    "scientific software engineer",
 ]
 
 BIOTECH_SPECIALTY_SEARCH_TERMS = [
@@ -1317,6 +1363,12 @@ BIOTECH_SPECIALTY_SEARCH_TERMS = [
     "ADMET",
     "QSAR",
     "medical imaging",
+    # Added 2026-11-17 with the broader biotech KEYWORDS lane.
+    "computational biology",
+    "statistical genetics",
+    "lab automation software engineer",
+    "bioinformatics software engineer",
+    "image analysis scientist",
 ]
 
 # The normal watcher remains a tight hourly query. A separate morning catch-up
