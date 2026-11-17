@@ -169,9 +169,9 @@ export function compareByDate(a, b, dir) {
   return dir === 'oldest' ? af - bf : bf - af;
 }
 
-// Senior / Sr. allowed since 2026-11-12 — keep in sync with
+// Senior / Sr. excluded again since 2026-11-16 — keep in sync with
 // EXCLUDED_SENIORITY_RE in scrape_jobs.py.
-export const EXCLUDED_TITLE_RE = /\b(staff|principal|distinguished|founding|lead|manager|director|vice president|vp|svp|chief|head\s+of)\b/i;
+export const EXCLUDED_TITLE_RE = /\b(senior|sr\.?|staff|principal|distinguished|founding|lead|manager|director|vice president|vp|svp|chief|head\s+of)\b/i;
 // Security-domain veto (lane retired 2026-09-03) — keep in sync with
 // EXCLUDED_SECURITY_RE in scrape_jobs.py.
 export const EXCLUDED_SECURITY_RE = /\b(security|secure|securing|cyber\w*|infosec|appsec|devsecops|secops|threat|vulnerability|vulnerabilities|pentest\w*|penetration|red\s+team|incident\s+response|soc|iam|cryptograph\w*|grc)\b/i;

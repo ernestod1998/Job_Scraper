@@ -54,14 +54,10 @@ class RoleAndLocationPolicy(unittest.TestCase):
         self.assertTrue(sj._is_biotech_company("Buck Institute for Research on Aging"))
 
     def test_seniority_veto_is_word_bounded(self):
-        for prefix in ("Lead", "Manager", "Staff", "Principal", "Senior Staff", "Senior Manager"):
+        for prefix in ("Senior", "Sr", "Sr.", "Lead", "Manager", "Staff", "Principal"):
             self.assertFalse(sj.is_mle_role(f"{prefix} Machine Learning Engineer"), prefix)
+        self.assertFalse(sj.is_mle_role("Senior Forward Deployed Engineer"))
         self.assertTrue(sj.is_mle_role("Machine Learning Engineer, Leadership Development"))
-
-    def test_senior_titles_are_allowed_for_four_years_experience(self):
-        for prefix in ("Senior", "Sr", "Sr."):
-            self.assertTrue(sj.is_mle_role(f"{prefix} Machine Learning Engineer"), prefix)
-        self.assertTrue(sj.is_mle_role("Senior Forward Deployed Engineer"))
 
     def test_security_veto_drops_security_flavored_titles(self):
         for title in (

@@ -31,14 +31,13 @@ check('legacy feed string is accepted',
   classifySource({ ats: 'Custom', feed: 'biotech', url: 'https://example.test' }) === 'Biotech');
 
 for (const title of [
-  'ML Engineering Lead', 'Product Manager', 'Senior Staff Engineer',
+  'Senior Software Engineer', 'Sr. Data Scientist', 'Sr Machine Learning Engineer',
+  'ML Engineering Lead', 'Product Manager',
   'Staff Engineer', 'Principal Scientist', 'Director of AI',
   'Vice President, Data', 'VP Engineering', 'SVP Research', 'Chief Data Officer',
   'Head of Machine Learning', 'Founding Engineer', 'Distinguished Engineer',
 ]) check(`seniority veto: ${title}`, veto.test(title));
-// Senior / Sr. are allowed since 2026-11-12 (4+ years of experience).
-for (const title of ['Machine Learning Engineer', 'Leadership Program Analyst', 'Managerial Economics Analyst',
-                     'Senior Software Engineer', 'Sr. Data Scientist']) {
+for (const title of ['Machine Learning Engineer', 'Leadership Program Analyst', 'Managerial Economics Analyst']) {
   check(`seniority boundary allows: ${title}`, !veto.test(title));
 }
 

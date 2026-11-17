@@ -133,11 +133,12 @@ MAX_POSTING_AGE_DAYS = 14
 # Senior-track and executive titles are excluded everywhere: the candidate
 # targets early-to-mid IC roles. Covers IC senior tracks (staff/principal/
 # distinguished/founding) and management/exec tiers (director/VP/chief/head of).
-# Senior / Sr. titles are ALLOWED since 2026-11-12: Ernesto has 4+ years of
-# experience, and many "Senior" ML roles ask for 3-5. Keep in sync with
-# EXCLUDED_TITLE_RE in assets/triage/model.mjs and track() in ranking/core.py.
+# Senior / Sr. titles are excluded again (2026-11-16). They were allowed on
+# 2026-11-12 and became 43% of new jobs in four days (1,388 of 3,210), mostly
+# general SWE and platform roles. Keep in sync with EXCLUDED_TITLE_RE in
+# assets/triage/model.mjs and track() in ranking/core.py.
 EXCLUDED_SENIORITY_RE = re.compile(
-    r'\b(staff|principal|distinguished|founding|lead|manager|director|'
+    r'\b(senior|sr\.?|staff|principal|distinguished|founding|lead|manager|director|'
     r'vice president|vp|svp|chief|head\s+of)\b',
     re.IGNORECASE)
 

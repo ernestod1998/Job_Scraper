@@ -577,8 +577,8 @@ function renderAll() {
   renderFilterGroup('filter-role', 'role',
     ['AI Engineer', 'MLE', 'Forward Deployed', 'MLOps/Platform', 'Scientist', 'Comp Chem/Sci',
      'Data Science', 'SWE', 'Bioinformatics', 'Other']);
-  // Staff+/management roles are excluded at the scraper (Senior is allowed
-  // since 2026-11-12); pruneState() clears lingering untriaged ones.
+  // Senior-track/management roles are excluded at the scraper;
+  // pruneState() clears lingering untriaged ones.
   renderFilterGroup('filter-sen', 'sen', ['Senior', 'Mid', 'Intern']);
   renderDateFilter();
   renderSortFilter();
@@ -634,7 +634,7 @@ function rebuildGroups() {
   for (const group of VIEW) for (const url of group._dupUrls) aliases.set(url, group._dupUrls);
 }
 // ---------- Prune (keeps localStorage bounded) ----------
-// Drops untriaged jobs that are staff-track/exec, internships, security or
+// Drops untriaged jobs that are senior-track/exec, internships, security or
 // .NET/C# (all excluded at the scraper — keep these regexes in sync with
 // scrape_jobs.py) or older than 30 days. Anything saved/applied/dismissed
 // is kept — that's the user's triage history.

@@ -172,10 +172,11 @@ class Tests(unittest.TestCase):
         self.assertIn('Data Scientist', [j['title'] for j in out[:5]])
         self.assertEqual(out, queue(list(reversed(jobs)), NOW, True))
 
-    def test_track_allows_senior_but_not_staff(self):
-        self.assertIsNotNone(track({'title': 'Senior Machine Learning Engineer'}))
-        self.assertIsNotNone(track({'title': 'Sr. Forward Deployed Engineer'}))
+    def test_track_rejects_senior_and_staff(self):
+        self.assertIsNone(track({'title': 'Senior Machine Learning Engineer'}))
+        self.assertIsNone(track({'title': 'Sr. Forward Deployed Engineer'}))
         self.assertIsNone(track({'title': 'Staff Machine Learning Engineer'}))
+        self.assertIsNotNone(track({'title': 'Machine Learning Engineer'}))
 
     def test_queue_keeps_nyc_commuter_ring(self):
         jobs = [
