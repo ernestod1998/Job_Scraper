@@ -1,52 +1,54 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-11-17 19:19 UTC*
+*Last updated: 2026-11-17 20:19 UTC*
 
-**12 new role(s)** since last run · 45 total in last 1h
+**11 new role(s)** since last run · 25 total in last 1h
 
-### [Software Engineer 5,  Ads Identity & Audiences](https://www.linkedin.com/jobs/view/4490470957/) — Netflix
-- 📍 **Location:** Los Gatos, CA
-- 🕒 **Posted:** 2026-11-17
-
-### [Software Engineering 5 - Ads Finance](https://www.linkedin.com/jobs/view/4490475945/) — Netflix
-- 📍 **Location:** Los Gatos, CA
-- 🕒 **Posted:** 2026-11-17
-
-### [Software Engineer](https://www.linkedin.com/jobs/view/4491704732/) — Abbott
+### [Software Engineer III, Infrastructure, Core Compute Analytics](https://www.linkedin.com/jobs/view/4491404989/) — Google
 - 📍 **Location:** Sunnyvale, CA
 - 🕒 **Posted:** 2026-11-17
 
-### [Forward Deployed Engineer](https://www.linkedin.com/jobs/view/4491721524/) — Baselayer
-- 📍 **Location:** San Francisco, CA
+### [Open Call – Research Engineer / Scientist](https://www.linkedin.com/jobs/view/4491735429/) — 1X
+- 📍 **Location:** San Carlos, CA
+- 💰 **Salary:** $250,000.00/yr - $300,000.00/yr
 - 🕒 **Posted:** 2026-11-17
 
-### [Early Careers: Software Developer Engineer](https://www.linkedin.com/jobs/view/4491727163/) — Fortinet
-- 📍 **Location:** Sunnyvale, CA
+### [Tactile Sensing Research Engineer](https://www.linkedin.com/jobs/view/4491727615/) — 1X
+- 📍 **Location:** San Carlos, CA
+- 💰 **Salary:** $200,000.00/yr - $250,000.00/yr
 - 🕒 **Posted:** 2026-11-17
 
-### [Software Engineer](https://www.linkedin.com/jobs/view/4491724280/) — January
+### [Software Engineer - Backend](https://www.linkedin.com/jobs/view/4491741126/) — 1X
+- 📍 **Location:** San Carlos, CA
+- 💰 **Salary:** $200,000.00/yr - $300,000.00/yr
+- 🕒 **Posted:** 2026-11-17
+
+### [Applied Scientists — Machine Learning](https://www.linkedin.com/jobs/view/4491718983/) — Pro Integrate
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-11-17
 
-### [Software Engineer, ML (Time Series Forecasting)](https://www.linkedin.com/jobs/view/4482772578/) — North
-- 📍 **Location:** Brooklyn, NY
-- 🕒 **Posted:** 2026-11-17
-
-### [Mosaic Platform Engineer | CIAM & Customer Identity](https://www.linkedin.com/jobs/view/4491419055/) — Timebox Pro
-- 📍 **Location:** Parsippany, NJ
-- 🕒 **Posted:** 2026-11-17
-
-### [Cloud Infrastructure Engineer](https://www.linkedin.com/jobs/view/4490507334/) — COGENT Infotech
-- 📍 **Location:** White Plains, NY
-- 🕒 **Posted:** 2026-11-17
-
-### [Forward Deployed Engineer](https://www.linkedin.com/jobs/view/4474634146/) — Cognizant
+### [Data Platform Engineer](https://www.linkedin.com/jobs/view/4382106856/) — Treeswift
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-11-17
 
-### [Data Scientist, Level 4](https://www.linkedin.com/jobs/view/4475898585/) — Snap Inc.
+### [Junior Cloud Infrastructure Engineer](https://www.linkedin.com/jobs/view/4491724720/) — STAFFWORXS
+- 📍 **Location:** Milpitas, CA
+- 🕒 **Posted:** 2026-11-17
+
+### [Wireless Software Engineer](https://www.linkedin.com/jobs/view/4491428229/) — LanceSoft, Inc.
+- 📍 **Location:** Cupertino, CA
+- 💰 **Salary:** $60.00/hr - $70.00/hr
+- 🕒 **Posted:** 2026-11-17
+
+### [Full Stack Software Engineer](https://www.linkedin.com/jobs/view/4429569313/) — Treeswift
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-11-17
 
-### [AI Research Scientist | Machine Learning | Deep Learning |Natural Language Processing | LLM | Hybrid | San Jose, CA](https://www.linkedin.com/jobs/view/4491406625/) — Enigma
-- 📍 **Location:** San Jose, CA
+### [Frontend Developer, Design Systems](https://www.linkedin.com/jobs/view/4490491976/) — Creative Circle
+- 📍 **Location:** Foster City, CA
+- 💰 **Salary:** $80.62/hr - $84.62/hr
+- 🕒 **Posted:** 2026-11-17
+
+### [Forward Deployed Manufacturing Engineer](https://www.linkedin.com/jobs/view/4491406851/) — Dirac, Inc.
+- 📍 **Location:** New York City Metropolitan Area
+- 💰 **Salary:** $90,000.00/yr - $110,000.00/yr
 - 🕒 **Posted:** 2026-11-17
