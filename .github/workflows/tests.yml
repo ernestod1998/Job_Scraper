@@ -70,7 +70,10 @@ on:
 jobs:
   tests:
     name: Scraper and local dashboard tests
-    runs-on: ubuntu-latest
+    # Pinned (2026-11-16): ubuntu-latest moved to 26.04, which the pinned
+    # @playwright/test 1.58.2 can't install Chromium on. Move back to
+    # ubuntu-latest after upgrading Playwright to a version that supports it.
+    runs-on: ubuntu-24.04
 
     permissions:
       contents: read
