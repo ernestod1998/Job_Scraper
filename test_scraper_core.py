@@ -46,6 +46,15 @@ class RoleAndLocationPolicy(unittest.TestCase):
                 self.assertIn(title.replace(",", "").lower(), searches)
                 self.assertFalse(sj.is_mle_role("Staff " + title))
 
+    def test_recruiting_agencies_are_blocked_but_real_employers_are_not(self):
+        for company in ("CyberCoders", "Jobot", "Harnham", "Kforce Inc", "Randstad Digital Americas",
+                        "Insight Global", "Alignerr", "MERCOR", "Hays", "Jack & Jill",
+                        "Integrated Resources, Inc ( IRI )", "David Joseph & Company"):
+            self.assertTrue(sj.is_excluded_company(company), company)
+        for company in ("Lam Research", "CareSource", "Tata Consultancy Services", "Haystack",
+                        "Rhays Labs", "Apex Fintech Solutions", "Mercury", "Insightful"):
+            self.assertFalse(sj.is_excluded_company(company), company)
+
     def test_biotech_company_matching_is_exact_not_substring_based(self):
         self.assertFalse(sj._is_biotech_company("Meta"))
         self.assertFalse(sj._is_biotech_company("Meta Platforms, Inc."))
@@ -135,12 +144,50 @@ class RoleAndLocationPolicy(unittest.TestCase):
                                   "assets", "triage", "model.mjs"), encoding="utf-8").read()
         pairs = {"EXCLUDED_TITLE_RE": "EXCLUDED_SENIORITY_RE",
                  "EXCLUDED_INTERNSHIP_RE": "EXCLUDED_INTERNSHIP_RE",
-                 "EXCLUDED_STACK_RE": "EXCLUDED_STACK_RE"}
+                 "EXCLUDED_STACK_RE": "EXCLUDED_STACK_RE",
+                 "EXCLUDED_AI_ENGINEER_RE": "EXCLUDED_AI_ENGINEER_RE",
+                 "FORWARD_DEPLOYED_RE": "FORWARD_DEPLOYED_RE"}
         for js_name, py_name in pairs.items():
             with self.subTest(name=js_name):
                 match = re.search(rf"export const {js_name} = /(.+)/i;", model)
                 self.assertIsNotNone(match, js_name)
-                self.assertEqual(match.group(1), getattr(sj, py_name).pattern)
+                # JS regex literals escape "/" as "\/"; Python patterns don't.
+                self.assertEqual(match.group(1).replace("\\/", "/"), getattr(sj, py_name).pattern)
+
+    def test_ai_engineer_veto_keeps_ml_and_forward_deployed(self):
+        for title in (
+            "AI Engineer", "AI Engineer 4 (Gen AI Platform Services: Agentic AI)",
+            "Generative AI Engineer", "Generative AI Engineer II - Federal Health",
+            "GenAI Engineer", "Gen AI Engineer", "LLM Engineer", "Prompt Engineer",
+            "Generative AI Developer – Python", "AI Engineer (C++ / Computer Vision)",
+        ):
+            self.assertTrue(sj.is_excluded_ai_engineer(title), title)
+            self.assertFalse(sj.is_mle_role(title), title)
+        for title in ("ML/AI Engineer", "Machine Learning / AI Engineer"):
+            # Not vetoed; whether a keyword admits them is a separate question.
+            self.assertFalse(sj.is_excluded_ai_engineer(title), title)
+        for title in (
+            "AI/ML Engineer", "AI / ML Engineer", "AI/ML Engineer - Model Inference",
+            "Forward Deployed AI Engineer", "AI Engineer (Forward Deployed)",
+            "Software Engineer, AI Developer Platform",
+            "Machine Learning Engineer, Generative AI", "Research Scientist, Generative AI",
+        ):
+            self.assertFalse(sj.is_excluded_ai_engineer(title), title)
+            self.assertTrue(sj.is_mle_role(title), title)
+        for kw in ("llm engineer", "genai engineer", "prompt engineer"):
+            self.assertNotIn(kw, sj.KEYWORDS)
+
+    def test_solutions_titles_pass_and_are_searched(self):
+        for title in ("Solutions Engineer", "Solution Engineer, AI", "Solutions Architect",
+                      "AWS Solutions Architect - Generative AI", "Solution Architect, Data & ML"):
+            self.assertTrue(sj.is_mle_role(title), title)
+            self.assertTrue(sj.FORWARD_DEPLOYED_RE.search(title), title)
+        for title in ("Senior Solutions Architect", "Principal Solutions Engineer",
+                      "Solutions Engineer, Security", "Solutions Engineer Intern"):
+            self.assertFalse(sj.is_mle_role(title), title)
+        for term in ("solutions engineer", "solutions architect"):
+            self.assertIn(term, sj.LINKEDIN_SEARCH_TERMS)
+            self.assertNotIn(term, sj.GOV_SEARCH_TERMS)
 
     def test_general_nyc_and_close_nj_allowlist(self):
         accepted = (
@@ -445,6 +492,59 @@ class RegistrySaveIntegration(unittest.TestCase):
         self.assertTrue(all("registry_notify_eligible" not in j for j in saved))
         notified = mocked_notify.call_args.args[0]
         self.assertEqual([j["url"] for j in notified], ["https://registry/loud"])
+
+    def test_registry_output_judges_then_drops_descriptions(self):
+        rows = [
+            role("https://registry/ok", ats="Greenhouse", description="3+ years of Python experience."),
+            role("https://registry/heavy", ats="Greenhouse",
+                 description="You have 10+ years of software engineering experience."),
+        ]
+        with tempfile.TemporaryDirectory() as tmp, \
+             patch.object(sj, "SCRIPT_DIR", tmp), patch("notify.notify_new_jobs"):
+            sj.save_registry_results({"jobs": rows})
+            with open(os.path.join(tmp, "registry_jobs.json")) as f:
+                saved = json.load(f)
+        self.assertEqual([j["url"] for j in saved["jobs"]], ["https://registry/ok"])
+        self.assertTrue(all("description" not in j for j in saved["jobs"] + saved["new_jobs"]))
+        self.assertEqual(saved["filter_stats"]["seniority"], 1)
+
+
+class JobDescriptionRequirements(unittest.TestCase):
+    def test_required_years_reads_the_strictest_requirement(self):
+        cases = {
+            "5+ years of experience with Python": 5,
+            "* 8 years of work experience using analytics": 8,
+            "At least 7 years of professional experience.": 7,
+            "Requirements: 3+ years Python experience; 10+ years of software engineering experience": 10,
+            "5-8 years of industry experience": 5,
+            "7+ years of experience is preferred.": 0,
+            "Nice to have: 10 years of experience with Kubernetes.": 0,
+            "Bachelor's degree. OR 7+ years of professional experience in lieu of a degree": 0,
+            "Our team has 20 years of experience serving clients.": 0,
+            "We offer 401k after 1 year.": 0,
+            "": 0,
+        }
+        for text, want in cases.items():
+            with self.subTest(text=text):
+                self.assertEqual(sj.required_experience_years(text), want)
+
+    def test_phd_only_when_strictly_required(self):
+        for text in ("PhD required.", "Must have a PhD in Computer Science.",
+                     "• PhD in Statistics (required)"):
+            self.assertTrue(sj.requires_phd(text), text)
+        for text in ("MS or PhD required.", "PhD preferred.", "Master's degree required; PhD a plus.",
+                     "PhD or equivalent experience required.", "Our founders hold PhDs.",
+                     "Bachelor's, Master's, or PhD in CS (required)."):
+            self.assertFalse(sj.requires_phd(text), text)
+
+    def test_filter_drops_heavy_requirements_under_seniority(self):
+        rows = [role("https://x/ok", description="4+ years of experience building ML systems."),
+                role("https://x/heavy", description="8+ years of experience building ML systems."),
+                role("https://x/phd", description="PhD required."),
+                role("https://x/nojd")]
+        kept, rejected, stats = sj._filter_job_observations(rows, default_feed="general")
+        self.assertEqual([j["url"] for j in kept], ["https://x/ok", "https://x/nojd"])
+        self.assertEqual(stats["seniority"], 2)
 
 
 if __name__ == "__main__":

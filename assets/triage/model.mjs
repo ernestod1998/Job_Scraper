@@ -1,9 +1,19 @@
 // ---------- Classifiers ----------
+// Forward deployed / solutions lane and the AI-engineer veto (2026-11-16) —
+// keep both in sync with FORWARD_DEPLOYED_RE / EXCLUDED_AI_ENGINEER_RE in
+// scrape_jobs.py (test_scraper_core compares the patterns).
+export const FORWARD_DEPLOYED_RE = /forward[\s-]+deployed|\bfde\b|deployment\s+strategist|\bsolutions?\s+(?:engineer|architect)/i;
+export const EXCLUDED_AI_ENGINEER_RE = /(?<!\/)(?<!\/\s)\b(?:generative\s+ai|gen\s?ai|ai|llm|prompt)\s+(?:engineer|developer)\b(?!\s+(?:platform|tools|tooling|experience|productivity)\b)/i;
+export function isExcludedAiEngineer(title) {
+  const t = String(title || '');
+  return EXCLUDED_AI_ENGINEER_RE.test(t) && !FORWARD_DEPLOYED_RE.test(t);
+}
 export function classifyRole(title) {
   const t = (title || '').toLowerCase();
-  // Forward deployed first: "Data Scientist (Forward Deployed)" and "Forward
-  // Deployed Software Engineer" belong in this lane, not DS/SWE.
-  if (/forward[- ]deployed|\bfde\b|deployment strategist/.test(t)) return 'Forward Deployed';
+  // Forward deployed first: "Data Scientist (Forward Deployed)", "Forward
+  // Deployed Software Engineer" and solutions engineer/architect titles
+  // belong in this lane, not DS/SWE.
+  if (FORWARD_DEPLOYED_RE.test(t)) return 'Forward Deployed';
   if (/bioinformatic|computational biolog|genomic|ngs/.test(t)) return 'Bioinformatics';
   // Comp-chem / DMPK / tox / imaging lane (mirrors the scraper's targeted
   // KEYWORDS) — checked before Scientist so "Toxicology Research Scientist"
@@ -16,6 +26,24 @@ export function classifyRole(title) {
   if (/machine learning engineer|ml engineer|mle\b/.test(t)) return 'MLE';
   if (/software engineer|swe\b|backend|frontend|full[- ]?stack/.test(t)) return 'SWE';
   return 'Other';
+}
+// ---------- Location (2026-11-16) ----------
+// Feeds are already location-gated by the scraper (is_watch_location /
+// is_target_location), so this only labels what survived. Mirrors the city
+// sets in scrape_jobs.py: NYC = the five boroughs plus the NJ / Westchester /
+// SW-CT commuter ring the scraper admits; Bay Area = BAY_AREA_LOCATIONS, with
+// out-of-state namesakes (Newark, Dublin, Richmond, Concord, Brisbane)
+// counted only when "CA" confirms them. A multi-city posting gets every metro.
+const NYC_LOCATION_RE = /\bnew york\b|\bnyc\b|\bmanhattan\b|\bbrooklyn\b|\bqueens\b|\bbronx\b|\bstaten island\b|\bjersey city\b|\bhoboken\b|\bsecaucus\b|\bweehawken\b|\bnorth bergen\b|\bfort lee\b|\benglewood cliffs\b|\bhackensack\b|\bteaneck\b|\bparamus\b|\brutherford\b|\bmontclair\b|\bclifton\b|\bshort hills\b|\bparsippany\b|\bnewark\b(?=,?\s*(?:nj|new jersey)\b)|\blong island city\b|\byonkers\b|\bwhite plains\b|\btarrytown\b|\bnew rochelle\b|\bport chester\b|\b(?:harrison|purchase|rye)\b(?=,?\s*(?:ny|new york)\b)|\bstamford\b|\bgreenwich\b/i;
+const BAY_LOCATION_RE = /\bbay area\b|\bsan francisco\b|\bdaly city\b|\boakland\b|\bberkeley\b|\balameda\b|\bemeryville\b|\bpalo alto\b|\bmountain view\b|\bmenlo park\b|\bsunnyvale\b|\bsanta clara\b|\bsan jose\b|\bcupertino\b|\blos altos\b|\blos gatos\b|\bsan mateo\b|\bfoster city\b|\bredwood city\b|\bsan carlos\b|\bmillbrae\b|\bsan bruno\b|\bburlingame\b|\bbelmont\b|\bfremont\b|\bhayward\b|\bunion city\b|\bmilpitas\b|\bwalnut creek\b|\bpleasanton\b|\bsan ramon\b|\bdanville\b|\blivermore\b|\bnovato\b|\bsan rafael\b|\bmill valley\b|\bsausalito\b|\bvacaville\b|\b(?:newark|dublin|richmond|concord|brisbane)\b(?=,?\s*(?:ca|california)\b)/i;
+export const METROS = ['Bay Area', 'NYC', 'Remote', 'Other'];
+export function classifyMetros(location) {
+  const loc = String(location || '');
+  const out = [];
+  if (BAY_LOCATION_RE.test(loc)) out.push('Bay Area');
+  if (NYC_LOCATION_RE.test(loc)) out.push('NYC');
+  if (!out.length && /\bremote\b|work from home|\banywhere\b/i.test(loc)) out.push('Remote');
+  return out.length ? out : ['Other'];
 }
 export function classifySeniority(title) {
   const t = (title || '').toLowerCase();

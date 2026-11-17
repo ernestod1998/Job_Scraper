@@ -1,5 +1,5 @@
 import { bestScore, parseRankings, rankingDetails } from './rankings.mjs?v=20260910-pending';
-import { classifyRole, classifySeniority, jobFeeds, classifySource, parseSalary, localToday, displayDate, jobDateMs, jobFreshMs, compareByDate, EXCLUDED_TITLE_RE, EXCLUDED_SECURITY_RE, EXCLUDED_INTERNSHIP_RE, EXCLUDED_STACK_RE, repairBiotechSourceCollision } from './model.mjs';
+import { classifyRole, classifySeniority, classifyMetros, METROS, jobFeeds, classifySource, parseSalary, localToday, displayDate, jobDateMs, jobFreshMs, compareByDate, EXCLUDED_TITLE_RE, EXCLUDED_SECURITY_RE, EXCLUDED_INTERNSHIP_RE, EXCLUDED_STACK_RE, isExcludedAiEngineer, repairBiotechSourceCollision } from './model.mjs';
 import { dedupe } from './groups.mjs?v=20260908-rank3';
 import { createDecisionStore, DECIDE_KEY, TOMB_MS, decide, normalizeTriage, mergeTriage, gcDecisions, resolveDecision, reconcileAliases } from './decisions.mjs?v=20260919-dismiss-date';
 import { createFeedLoader, validateFeed } from './feeds.mjs?v=20260919-dismiss-date';
@@ -40,6 +40,7 @@ function enrich(j) {
   j._role = classifyRole(j.title);
   j._sen  = classifySeniority(j.title);
   j._src  = classifySource(j);
+  j._metros = classifyMetros(j.location);
   const sal = parseSalary(j);
   j._salMin = sal ? sal.min : null;
   j._salMax = sal ? sal.max : null;
@@ -100,6 +101,7 @@ function mergeJobs(incoming) {
 // ---------- Filters ----------
 const filters = {
   source: new Set(),
+  metro: new Set(),   // Location: Bay Area / NYC / Remote / Other
   role: new Set(),
   sen: new Set(),
   state: new Set(['active', 'saved', 'applied']),
@@ -118,12 +120,16 @@ function resetLimitForFilters() {
   if (key !== lastFilterKey) { visibleLimit = 50; lastFilterKey = key; }
 }
 
+// A multi-city posting ("New York or San Francisco") belongs to every metro.
+function jobMetros(j) { return j._metros?.length ? j._metros : classifyMetros(j.location); }
+
 // `except` skips one dimension so a facet's pills don't constrain their own counts.
 function matchesFilters(j, except) {
   if (viewMode === 'rank' && ['applied', 'dismissed'].includes(tri(j.url))) return false;
   // Merged cross-posts carry every source in _srcs (single jobs: [_src]).
   const srcs = j._srcs || [j._src];
   if (except !== 'source' && filters.source.size && !srcs.some(s => filters.source.has(s))) return false;
+  if (except !== 'metro' && filters.metro.size && !jobMetros(j).some(m => filters.metro.has(m))) return false;
   if (except !== 'role'   && filters.role.size   && !filters.role.has(j._role)) return false;
   if (except !== 'sen'    && filters.sen.size    && !filters.sen.has(j._sen))   return false;
   if (except !== 'state') {
@@ -159,6 +165,7 @@ function renderFilterGroup(containerId, key, values) {
   VIEW.forEach(j => {
     if (!matchesFilters(j, key)) return;          // honor every filter except this facet's
     if (key === 'source') { (j._srcs || [j._src]).forEach(s => counts[s] = (counts[s] || 0) + 1); return; }
+    if (key === 'metro') { jobMetros(j).forEach(m => counts[m] = (counts[m] || 0) + 1); return; }
     const v = key === 'role' ? j._role : j._sen;
     counts[v] = (counts[v] || 0) + 1;
   });
@@ -574,6 +581,7 @@ function renderAll() {
 
   renderFilterGroup('filter-source', 'source',
     ['LinkedIn', 'Biotech', 'Direct ATS', 'Indeed', 'USAJOBS', 'NEOGOV', 'CalOpps', 'CalCareers']);
+  renderFilterGroup('filter-metro', 'metro', METROS);
   renderFilterGroup('filter-role', 'role',
     ['AI Engineer', 'MLE', 'Forward Deployed', 'MLOps/Platform', 'Scientist', 'Comp Chem/Sci',
      'Data Science', 'SWE', 'Bioinformatics', 'Other']);
@@ -648,6 +656,7 @@ function pruneState() {
     if (EXCLUDED_SECURITY_RE.test(j.title || '')) return false;
     if (EXCLUDED_INTERNSHIP_RE.test(j.title || '')) return false;
     if (EXCLUDED_STACK_RE.test(j.title || '')) return false;
+    if (isExcludedAiEngineer(j.title)) return false;
     // Use the date shown on the card. A scraper rediscovering an old posting
     // must not make it look fresh enough to survive the history cutoff.
     const t = jobDateMs(j);

@@ -41,13 +41,13 @@ Scheduled externally by cron-job.org at :47 PT, offset from the LinkedIn :17 slo
 
 A title is included if it contains any of (case-insensitive substring match):
 
-**ML / AI:** `machine learning engineer`, `ml engineer`, `mle`, `machine learning infra`, `ml platform`, `ai platform`, `mlops`, `research engineer`, `llm engineer`, `generative ai`, `genai engineer`, `prompt engineer`, `deep learning`, `reinforcement learning`, `computer vision`, `nlp engineer`
+**ML / AI:** `machine learning engineer`, `ml engineer`, `mle`, `machine learning infra`, `ml platform`, `ai platform`, `mlops`, `research engineer`, `generative ai`, `deep learning`, `reinforcement learning`, `computer vision`, `nlp engineer`
 
 The generic `ai engineer` / `ai/ml engineer` lane is deliberately paused; the research-oriented ML, LLM, and GenAI terms above remain active.
 
 **Applied / scientist:** `applied scientist`, `ai scientist`, `ml scientist`, `data scientist`, `data science`
 
-**Forward deployed:** `forward deployed`, `forward-deployed`, `fde`, `deployment strategist` (added 2026-11-12). `forward deployed engineer` is also a LinkedIn/Indeed search term, and the dashboard's Role filter has a **Forward Deployed** option.
+**Forward deployed:** `forward deployed`, `forward-deployed`, `fde`, `deployment strategist` (added 2026-11-12), plus `solutions engineer`, `solution engineer`, `solutions architect`, `solution architect` (added 2026-11-16). `forward deployed engineer`, `solutions engineer` and `solutions architect` are also LinkedIn/Indeed search terms, and the dashboard's Role filter groups all of them under **Forward Deployed**.
 
 **Software engineering:** `software engineer`, `software developer`, `backend engineer`, `back-end engineer`, `backend developer`, `frontend engineer`, `front-end engineer`, `frontend developer`, `full stack engineer`, `full-stack engineer`, `fullstack engineer`, `mobile engineer`, `ios engineer`, `android engineer`
 
@@ -63,7 +63,11 @@ The generic `ai engineer` / `ai/ml engineer` lane is deliberately paused; the re
 
 **Excluded internships:** `EXCLUDED_INTERNSHIP_RE` drops internships, co-ops, apprenticeships and student cohort titles like `Summer 2027`, `2027 Start` or `Class of 2027` (added 2026-11-12). Early-career, junior, entry-level and new-grad roles are kept, and a bare year is not matched. Counted under the `"seniority"` filter reason.
 
-**Excluded tech stacks:** `EXCLUDED_STACK_RE` drops `.NET`, `ASP.NET`, `dotnet` and `C#` titles (added 2026-11-12). `Network` and `C++` titles are unaffected. Counted under the `"role"` filter reason. Both new vetoes are mirrored in `assets/triage/model.mjs`, which also prunes matching jobs from the browser cache; `test_scraper_core` fails if the two copies drift.
+**Excluded tech stacks:** `EXCLUDED_STACK_RE` drops `.NET`, `ASP.NET`, `dotnet` and `C#` titles (added 2026-11-12). `Network` and `C++` titles are unaffected. Counted under the `"role"` filter reason.
+
+**Excluded AI-engineer titles:** `EXCLUDED_AI_ENGINEER_RE` drops `AI Engineer`, `Generative AI` / `GenAI Engineer`, `LLM Engineer` and `Prompt Engineer` titles (and their `Developer` forms), added 2026-11-16; the `llm engineer`, `genai engineer` and `prompt engineer` keywords were retired with it. Titles that pair AI with ML (`AI/ML Engineer`, `ML/AI Engineer`), product names (`AI Developer Platform`) and forward deployed / solutions titles are kept. Counted under the `"role"` filter reason.
+
+These vetoes are mirrored in `assets/triage/model.mjs`, which also prunes matching jobs from the browser cache; `test_scraper_core` fails if the copies drift.
 
 **Excluded stale postings:** every persisted source drops rows provably older than `MAX_POSTING_AGE_DAYS = 14` (the `"stale"` reason in `_filter_job_observations`; added 2026-08-19 after the ATS registry — which had no date filter — surfaced reqs from 2024). Workday's `"Posted N Days Ago"` / `"Posted 30+ Days Ago"` strings and Lever's epoch-ms `createdAt` are now parseable for this check; rows whose age can't be proven (missing/unparseable dates) are kept.
 
@@ -81,7 +85,7 @@ The generic `ai engineer` / `ai/ml engineer` lane is deliberately paused; the re
 | `jobs.json` / `.md` / `.html` | Biotech LinkedIn digest | Allowlisted biotech-company roles in the last 24h, deduped against the previous run |
 | `linkedin_jobs.json` / `.md` / `.html` | LinkedIn watcher | Roles posted in the last 1h, deduped against the previous run |
 | `indeed_jobs.json` / `.md` / `.html` | Indeed watcher | Indeed-sourced roles posted in the last 24h, deduped against the previous run |
-| `boards_jobs.json` / `.md` / `.html` | ZipRecruiter + Google | JobSpy-backed board results |
+| `boards_jobs.json` / `.md` / `.html` | ZipRecruiter + Google | **Retired 2026-11-16** — no scheduled runs; last written by the old `boards_watch.yml` |
 | `usajobs_jobs.json` / `.md` / `.html` | USAJOBS | Current federal results |
 | `governmentjobs_jobs.json` / `.md` / `.html` | NEOGOV | State/local government results |
 | `calopps_jobs.json` / `.md` / `.html` | CalOpps | California local-agency results |
@@ -155,7 +159,7 @@ they follow whatever roles you already target):
 | `--governmentjobs-only` | [governmentjobs.com](https://www.governmentjobs.com) (NEOGOV) | State & local government; filtered to Bay Area + NYC via `is_watch_location()`. |
 | `--calopps-only` | [calopps.org](https://www.calopps.org) | California local agencies (cities/counties/special districts). |
 | `--calcareers-only` | [calcareers.ca.gov](https://calcareers.ca.gov) | California state civil service (ASP.NET postback). |
-| `--boards-only` | ZipRecruiter + Google Jobs | Via `python-jobspy` (same library as Indeed); runs twice daily via `boards_watch.yml`. |
+| `--boards-only` | ZipRecruiter + Google Jobs | Via `python-jobspy`. **Retired 2026-11-16:** `boards_watch.yml` was deleted after every run since July returned nothing (ZipRecruiter answers GitHub's runners with 403 "use a proxy"; Google returns "no job data"). The flag still works for a manual local run. |
 
 Heavier per-term sources share `GOV_SEARCH_TERMS` (a slice of `LINKEDIN_SEARCH_TERMS`); widen it to taste. Each new source has a matching workflow (`usajobs_watch.yml`, `localgov_watch.yml`, `calcareers_watch.yml`).
 
@@ -169,6 +173,7 @@ registry baseline while also providing a second refresh once it is complete.
 **Dashboard additions:**
 - **🗺 Map view** — Leaflet map of roles by city (client-side geocoding, no API key), auto-fitting to wherever the jobs are.
 - **Salary distribution** chart + a salary-floor slider (filters by minimum annual pay; excludes unlisted-salary roles by default).
+- **Location filter** — Bay Area / NYC / Remote / Other pills under Filters (added 2026-11-16). NYC includes the NJ, Westchester and SW Connecticut commuter towns the scraper accepts; a multi-city posting counts under each metro.
 - **Cross-source de-duplication** — the same role cross-posted to multiple boards collapses into one card (matched on title + location + compatible company), showing all source badges; triage applies to every copy.
 - **Explicit source** shown on each card (`🔗 LinkedIn`, etc.).
 - `mergeJobs` now refreshes cached job fields (e.g. a later-added salary) instead of only adding new jobs.

@@ -60,6 +60,7 @@ function _mergeCluster(cluster) {
     _richness(b) - _richness(a) || (jobFreshMs(b) || 0) - (jobFreshMs(a) || 0))[0] };
   primary._dupUrls = cluster.map(j => j.url);
   primary._srcs = [...new Set(cluster.map(j => j._src))].sort();
+  primary._metros = [...new Set(cluster.flatMap(j => j._metros || []))];
   if (primary._salMin == null) {
     const w = cluster.find(j => j._salMin != null);
     if (w) { primary._salMin = w._salMin; primary._salMax = w._salMax; primary._salDisp = w._salDisp; }

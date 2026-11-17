@@ -423,6 +423,37 @@ def resolve_yc_homepages(
     return found
 
 
+# Hand-picked boards for NYC coverage (2026-11-16). The Simplify / YC /
+# Wayback seeds skew to Bay Area startups; each board below was confirmed
+# live on its public ATS API with at least 3 New York / NJ postings
+# (Stripe 153, Datadog 121, Braze 72, HRT 64, Rogo 59, Zocdoc 46 ...).
+# Merged as ordinary candidates, so verification and sharding apply as usual.
+CURATED_NYC_BOARDS = [
+    ("Stripe", "greenhouse", "stripe"),
+    ("Datadog", "greenhouse", "datadog"),
+    ("Braze", "greenhouse", "braze"),
+    ("Hudson River Trading", "greenhouse", "wehrtyou"),
+    ("Rogo", "ashby", "rogo"),
+    ("Zocdoc", "greenhouse", "zocdoc"),
+    ("Headway", "ashby", "headway"),
+    ("Modal", "ashby", "modal"),
+    ("Hex", "ashby", "hex"),
+    ("SeatGeek", "greenhouse", "seatgeek"),
+    ("Peloton", "greenhouse", "peloton"),
+    ("Taboola", "greenhouse", "taboola"),
+    ("Paxos", "ashby", "paxos"),
+    ("Cockroach Labs", "greenhouse", "cockroachlabs"),
+    ("Pinecone", "ashby", "pinecone"),
+    ("Recursion", "greenhouse", "recursionpharmaceuticals"),
+    ("Hopper", "ashby", "hopper"),
+]
+
+
+def curated_candidates() -> list[dict]:
+    return [{"name": name, "ats": ats, "locator": slug, "source": "curated-nyc"}
+            for name, ats, slug in CURATED_NYC_BOARDS]
+
+
 def seed_registry(
     registry: dict,
     client: BoundedClient,
@@ -431,6 +462,7 @@ def seed_registry(
     skip_keys: set[str] | None = None,
     include_wayback: bool = True,
     include_common_crawl: bool = False,
+    include_curated: bool = True,
 ) -> dict:
     """Fetch bounded seed inputs and merge up to ``limit`` new candidates."""
     added = 0
@@ -452,6 +484,11 @@ def seed_registry(
                 skip_keys=skip_keys,
             ):
                 added += 1
+
+    # Curated boards first: no network needed, and they must not lose the
+    # `limit` budget to a large Simplify batch.
+    if include_curated:
+        consume(curated_candidates())
 
     for url, source in ((YC_HIRING_URL, "yc-hiring"), (SIMPLIFY_LISTINGS_URL, "simplify")):
         if added >= limit or client.exhausted:
@@ -612,15 +649,34 @@ def _rows(ats: str, data: object) -> list:
     return []
 
 
+JD_MAX_CHARS = 6000  # matches scrape_jobs.INDEED_JD_MAX_CHARS
+
+
+def _plain_text(markup: str | None) -> str:
+    """Greenhouse `content` is HTML-escaped HTML; reduce it to plain lines."""
+    text = html.unescape(html.unescape(markup or ""))
+    text = re.sub(r'<\s*li[^>]*>', '\n• ', text, flags=re.IGNORECASE)
+    text = re.sub(r'<\s*(br|/p|/li|/div|/h\d|/ul|/ol)[^>]*>', '\n', text, flags=re.IGNORECASE)
+    text = re.sub(r'<[^>]+>', ' ', text)
+    lines = (re.sub(r'[ \t ]+', ' ', line).strip() for line in text.splitlines())
+    return "\n".join(line for line in lines if line)[:JD_MAX_CHARS]
+
+
 def _job_from_row(board: dict, row: dict) -> dict | None:
     ats = board["ats"]
     if ats == "greenhouse":
-        return {
+        job = {
             "company": board["name"], "title": row.get("title", ""),
             "location": (row.get("location") or {}).get("name", ""),
             "url": row.get("absolute_url") or f"https://boards.greenhouse.io/{board['slug']}",
             "date_posted": row.get("updated_at") or "", "ats": "Greenhouse",
         }
+        # The board is fetched with ?content=true. The description feeds the
+        # experience/PhD requirements veto in scrape_jobs and is stripped
+        # before registry_jobs.json is written.
+        if row.get("content"):
+            job["description"] = _plain_text(row.get("content"))
+        return job
     if ats == "lever":
         categories = row.get("categories") or {}
         # createdAt is epoch MILLISECONDS — convert at capture so stored rows

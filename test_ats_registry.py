@@ -94,7 +94,7 @@ class SchemaAndSeedTests(unittest.TestCase):
             "https://acme.example": '<a href="https://jobs.lever.co/Acme">Jobs</a>',
         }
         result = registry.seed_registry(
-            data, FakeClient(responses), limit=10, include_wayback=False
+            data, FakeClient(responses), limit=10, include_wayback=False, include_curated=False
         )
         self.assertEqual(result["added"], 1)
         self.assertEqual(data["boards"]["lever:acme"]["name"], "Acme")
@@ -104,7 +104,7 @@ class SchemaAndSeedTests(unittest.TestCase):
         responses = {registry.YC_HIRING_URL: [], registry.SIMPLIFY_LISTINGS_URL: []}
         for host in registry.DISCOVERY_HOSTS:
             responses[registry._cdx_url(host, 25, "a")] = [["original"]]
-        registry.seed_registry(data, FakeClient(responses), limit=10)
+        registry.seed_registry(data, FakeClient(responses), limit=10, include_curated=False)
         self.assertEqual(data["cursors"]["discovery_prefix"], 1)
 
     def test_wayback_prefix_does_not_advance_when_host_set_is_cut_short(self):
@@ -117,7 +117,7 @@ class SchemaAndSeedTests(unittest.TestCase):
                 ["original"], [f"https://{first}/OnlyCandidate"]
             ],
         }
-        registry.seed_registry(data, FakeClient(responses), limit=1)
+        registry.seed_registry(data, FakeClient(responses), limit=1, include_curated=False)
         self.assertEqual(data["cursors"]["discovery_prefix"], 0)
 
     def test_json_candidate_walk_associates_company_name(self):
@@ -136,13 +136,40 @@ class SchemaAndSeedTests(unittest.TestCase):
         })
         data = registry.empty_registry()
         result = registry.seed_registry(
-            data, client, limit=1, include_wayback=False,
+            data, client, limit=1, include_wayback=False, include_curated=False,
             skip_keys={registry.board_key("ashby", "Old")},
         )
         self.assertEqual(result["added"], 1)
         self.assertIn("lever:new", data["boards"])
         self.assertNotIn("ashby:old", data["boards"])
         self.assertEqual(client.requests, 1)  # limit stops before Simplify
+
+    def test_curated_nyc_boards_seed_first_as_candidates(self):
+        client = FakeClient({registry.YC_HIRING_URL: [], registry.SIMPLIFY_LISTINGS_URL: []})
+        data = registry.empty_registry()
+        result = registry.seed_registry(data, client, limit=200, include_wayback=False)
+        self.assertEqual(result["added"], len(registry.CURATED_NYC_BOARDS))
+        stripe = data["boards"][registry.board_key("greenhouse", "stripe")]
+        self.assertEqual((stripe["status"], stripe["sources"]), ("candidate", ["curated-nyc"]))
+        self.assertIn(registry.board_key("greenhouse", "wehrtyou"), data["boards"])  # HRT
+        # Re-seeding is idempotent, and an existing board just gains the source.
+        again = registry.seed_registry(data, client, limit=200, include_wayback=False)
+        self.assertEqual(again["added"], 0)
+        # Curated boards are consumed before network seeds, so a tiny limit
+        # is spent on them first.
+        small = registry.empty_registry()
+        registry.seed_registry(small, client, limit=2, include_wayback=False)
+        self.assertEqual(len(small["boards"]), 2)
+
+    def test_greenhouse_rows_carry_a_plain_text_description(self):
+        board = {"ats": "greenhouse", "name": "Acme", "slug": "acme"}
+        row = {"title": "MLE", "location": {"name": "New York, NY"}, "absolute_url": "https://x/1",
+               "updated_at": "2026-11-15",
+               "content": "&lt;p&gt;You have &lt;strong&gt;8+ years&lt;/strong&gt; of experience.&lt;/p&gt;"
+                          "&lt;ul&gt;&lt;li&gt;Python&lt;/li&gt;&lt;/ul&gt;"}
+        job = registry._job_from_row(board, row)
+        self.assertEqual(job["description"], "You have 8+ years of experience.\n• Python")
+        self.assertNotIn("description", registry._job_from_row(board, {**row, "content": ""}))
 
 
 class VerifyTests(unittest.TestCase):

@@ -137,6 +137,21 @@ class MaxAgePolicy(unittest.TestCase):
             self.NOW - timedelta(days=30),
         )
 
+    def test_workday_yesterday_parses(self):
+        # Workday's most common value; unparsed until 2026-11-16.
+        self.assertEqual(sj._parse_posted_at("Posted Yesterday", now=self.NOW),
+                         self.NOW - timedelta(days=1))
+
+    def test_workday_relative_dates_are_pinned_to_a_calendar_day(self):
+        # 2026-08-19 12:00 UTC is 05:00 on 2026-08-19 in Los Angeles.
+        cases = {"Posted Today": "2026-08-19", "Posted Yesterday": "2026-08-18",
+                 "Posted 16 Days Ago": "2026-08-03", "Posted 30+ Days Ago": "2026-07-20"}
+        for raw, day in cases.items():
+            with self.subTest(raw=raw):
+                self.assertEqual(sj._workday_posted_date(raw, now=self.NOW), day)
+        self.assertEqual(sj._workday_posted_date("", now=self.NOW), "")
+        self.assertEqual(sj._workday_posted_date("sometime", now=self.NOW), "sometime")
+
     def test_weeks_and_months_parse(self):
         self.assertEqual(
             sj._parse_posted_at("Posted 2 Weeks Ago", now=self.NOW),

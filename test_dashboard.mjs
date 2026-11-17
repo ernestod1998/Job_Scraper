@@ -7,7 +7,7 @@ import { fileURLToPath } from 'node:url';
 
 const root = dirname(fileURLToPath(import.meta.url));
 const html = readFileSync(join(root, 'assets/triage/app.mjs'), 'utf8');
-import { classifySource, classifyRole, EXCLUDED_TITLE_RE as veto, EXCLUDED_SECURITY_RE as secVeto, EXCLUDED_INTERNSHIP_RE as internVeto, EXCLUDED_STACK_RE as stackVeto, repairBiotechSourceCollision } from './assets/triage/model.mjs';
+import { classifySource, classifyRole, classifyMetros, isExcludedAiEngineer, EXCLUDED_TITLE_RE as veto, EXCLUDED_SECURITY_RE as secVeto, EXCLUDED_INTERNSHIP_RE as internVeto, EXCLUDED_STACK_RE as stackVeto, repairBiotechSourceCollision } from './assets/triage/model.mjs';
 import { CACHE_KEY, TRANSITION_CACHE_KEY, DECIDE_KEY, mergeJobCaches, finishTransitionCacheMigration } from './assets/triage/decisions.mjs';
 
 let failed = 0;
@@ -72,6 +72,28 @@ for (const title of ['Forward Deployed Engineer', 'Data Scientist (Forward Deplo
   check(`role bucket Forward Deployed: ${title}`, classifyRole(title) === 'Forward Deployed');
 }
 check('Forward Deployed is a Role filter option', /'Forward Deployed'/.test(html));
+for (const title of ['Solutions Architect', 'Solution Engineer, AI']) {
+  check(`role bucket Forward Deployed: ${title}`, classifyRole(title) === 'Forward Deployed');
+}
+
+for (const title of ['AI Engineer', 'Generative AI Engineer', 'GenAI Engineer', 'LLM Engineer', 'Prompt Engineer']) {
+  check(`AI-engineer veto: ${title}`, isExcludedAiEngineer(title));
+}
+for (const title of ['AI/ML Engineer', 'ML/AI Engineer', 'Machine Learning / AI Engineer',
+                     'Forward Deployed AI Engineer', 'Software Engineer, AI Developer Platform']) {
+  check(`AI-engineer veto allows: ${title}`, !isExcludedAiEngineer(title));
+}
+check('pruneState applies the AI-engineer veto', /isExcludedAiEngineer\(j\.title\)\) return false/.test(html));
+
+for (const [loc, want] of [
+  ['San Francisco, CA', 'Bay Area'], ['South San Francisco, CA', 'Bay Area'], ['Newark, CA', 'Bay Area'],
+  ['New York, NY', 'NYC'], ['New York City Metropolitan Area', 'NYC'], ['Brooklyn, New York, United States', 'NYC'],
+  ['Jersey City, NJ', 'NYC'], ['Newark, NJ', 'NYC'], ['Stamford, CT', 'NYC'], ['Harrison, NY', 'NYC'],
+  ['New York or San Francisco', 'Bay Area+NYC'], ['Remote - US', 'Remote'], ['Boston, MA', 'Other'], ['', 'Other'],
+]) check(`location "${loc}" -> ${want}`, classifyMetros(loc).join('+') === want);
+check('Location is a filter group', /renderFilterGroup\('filter-metro', 'metro', METROS\)/.test(html));
+check('dashboard has the Location filter row',
+  readFileSync(join(root, 'triage.html'), 'utf8').includes('id="filter-metro"'));
 check('pruneState applies the internship and stack vetoes',
   /EXCLUDED_INTERNSHIP_RE\.test\(j\.title[\s\S]{0,80}EXCLUDED_STACK_RE\.test\(j\.title/.test(html));
 

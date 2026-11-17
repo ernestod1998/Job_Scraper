@@ -42,7 +42,10 @@ KEYWORDS = [
     # biotech targets.
     # "ai engineer", "ai/ml engineer",
     "mlops", "research engineer",
-    "llm engineer", "generative ai", "genai engineer", "prompt engineer",
+    # "llm engineer", "genai engineer" and "prompt engineer" retired
+    # 2026-11-16 with EXCLUDED_AI_ENGINEER_RE below (not enough AI-engineer
+    # experience). "generative ai" stays: it also admits ML/scientist titles.
+    "generative ai",
     "deep learning", "reinforcement learning",
     "computer vision", "nlp engineer",
     # ---- Applied / AI / ML scientist ----
@@ -57,6 +60,10 @@ KEYWORDS = [
     # Engineer" title matched nothing. "fde" is word-bounded by _KEYWORD_RE.
     # "Deployment Strategist" is Palantir's non-engineer name for the same seat.
     "forward deployed", "forward-deployed", "fde", "deployment strategist",
+    # Solutions engineer / architect (added 2026-11-16) — the customer-facing
+    # technical seat next to FDE; the dashboard groups them under Forward
+    # Deployed. Seniority/security vetoes still apply.
+    "solutions engineer", "solution engineer", "solutions architect", "solution architect",
     # ---- Data science ----
     "data scientist", "data science",
     # ---- Software engineering (broad) ----
@@ -173,15 +180,113 @@ EXCLUDED_STACK_RE = re.compile(
     r'(?:(?<!\w)|\b(?:asp|vb))\.net\b|\bdotnet\b|(?<!\w)c#|\bc[\s-]?sharp\b',
     re.IGNORECASE)
 
+# AI-engineer titles are excluded everywhere (2026-11-16): Ernesto doesn't
+# have enough AI-engineer experience. Drops "AI Engineer", "Generative AI /
+# GenAI Engineer", "LLM Engineer" and "Prompt Engineer" (and "... Developer").
+# Kept: titles that pair AI with ML ("AI/ML Engineer", "ML/AI Engineer",
+# "Machine Learning / AI Engineer" — the lookbehinds skip an AI after a
+# slash), product names ("AI Developer Platform"), and anything in the
+# forward deployed / solutions lane (FORWARD_DEPLOYED_RE). Reported under the
+# "role" filter reason.
+# Keep both regexes in sync with assets/triage/model.mjs.
+EXCLUDED_AI_ENGINEER_RE = re.compile(
+    r'(?<!/)(?<!/\s)\b(?:generative\s+ai|gen\s?ai|ai|llm|prompt)\s+(?:engineer|developer)\b'
+    r'(?!\s+(?:platform|tools|tooling|experience|productivity)\b)',
+    re.IGNORECASE)
+FORWARD_DEPLOYED_RE = re.compile(
+    r'forward[\s-]+deployed|\bfde\b|deployment\s+strategist|\bsolutions?\s+(?:engineer|architect)',
+    re.IGNORECASE)
+
+
+def is_excluded_ai_engineer(title: str) -> bool:
+    return bool(EXCLUDED_AI_ENGINEER_RE.search(title)) and not FORWARD_DEPLOYED_RE.search(title)
+
+
+# Description-based requirements veto (2026-11-16). Only rows that carry a
+# job description are judged (Indeed via jobspy; Greenhouse boards in the ATS
+# registry); LinkedIn search cards have none. A role is dropped, under the
+# "seniority" reason, when its description REQUIRES more than
+# MAX_REQUIRED_YEARS of experience (7+ for a 4-year candidate) or REQUIRES a
+# PhD with no Master's / equivalent-experience alternative. Ranges count by
+# their low end ("5-8 years" stays); preferred / nice-to-have sentences and
+# sentences about the company itself ("our team has 20 years of
+# experience") are ignored.
+MAX_REQUIRED_YEARS = 6
+_JD_SENTENCE_SPLIT_RE = re.compile(r'(?<=[.!?;])\s+|\n+|[•·▪●]')
+_JD_YEARS_RE = re.compile(
+    r'(?<![\d.$])(\d{1,2})\s*\+?\s*(?:(?:-|–|—|to)\s*\d{1,2}\s*\+?\s*)?(?:years?|yrs?)\b'
+    r'(?=.{0,90}\bexperience\b)',
+    re.IGNORECASE)
+# Also skips degree-substitution clauses ("OR 7+ years ... in lieu of a
+# degree"): those are an alternative path, not the requirement.
+_JD_SOFT_RE = re.compile(
+    r'\b(prefer\w*|nice[\s-]+to[\s-]+have|bonus|a plus|ideally|desired|desirable|in lieu)\b'
+    r'|^\W*or\b', re.IGNORECASE)
+_JD_COMPANY_RE = re.compile(
+    r"\b(our|we|we've|company|founded|in business|history|clients)\b", re.IGNORECASE)
+_JD_PHD_RE = re.compile(r'\bph\.?\s?d\b', re.IGNORECASE)
+_JD_REQUIRED_RE = re.compile(r'\b(required|requires|require|must|minimum)\b', re.IGNORECASE)
+_JD_PHD_ALTERNATIVE_RE = re.compile(
+    r"\b(master'?s?|m\.?s\.?|msc|bachelor'?s?|b\.?s\.?|equivalent)\b|ms/phd|ms or phd", re.IGNORECASE)
+
+
+def required_experience_years(description: str) -> int:
+    """Highest required years of experience stated in a JD (0 if none)."""
+    best = 0
+    for sentence in _JD_SENTENCE_SPLIT_RE.split(description or ""):
+        if _JD_SOFT_RE.search(sentence) or _JD_COMPANY_RE.search(sentence):
+            continue
+        for m in _JD_YEARS_RE.finditer(sentence):
+            years = int(m.group(1))
+            if years <= 20:  # "50 years" is never a candidate requirement
+                best = max(best, years)
+    return best
+
+
+def requires_phd(description: str) -> bool:
+    for sentence in _JD_SENTENCE_SPLIT_RE.split(description or ""):
+        if (_JD_PHD_RE.search(sentence) and _JD_REQUIRED_RE.search(sentence)
+                and not _JD_PHD_ALTERNATIVE_RE.search(sentence) and not _JD_SOFT_RE.search(sentence)):
+            return True
+    return False
+
+
+def has_excessive_requirements(description: str) -> bool:
+    return bool(description) and (
+        required_experience_years(description) > MAX_REQUIRED_YEARS or requires_phd(description))
+
 # Recruiting-platform / aggregator accounts that repost roles which mostly don't
 # actually exist (e.g. "Jack & Jill" reposts other companies' jobs on LinkedIn).
 # Matched against the parsed company name; add a line to block the next one.
 EXCLUDED_COMPANIES = [
     "jack & jill",
     "jack and jill",
+    # Staffing / recruiting agencies (2026-11-16) — each seen in the 14-day
+    # master. They repost other companies' roles, usually without naming the
+    # employer. Real employers whose names merely contain "Research",
+    # "Solutions" or "Consulting" (Lam Research, CareSource, Tata Consultancy
+    # Services) are deliberately not listed.
+    "cybercoders", "motion recruitment", "acceler8 talent", "seventhhire", "jobot",
+    "randstad", "harnham", "futuretech recruitment", "kforce", "green key resources",
+    "recruiting from scratch", "onward search", "james search group", "apex systems",
+    "integrated resources, inc", "david joseph & company", "prestige staffing",
+    "insight global", "phaxis", "platform recruitment", "scion staffing",
+    "scion technology staffing", "atlas search", "ttn talent", "protech talent",
+    "career launch recruitment", "insight recruitment", "inspyr solutions",
+    "headhuntermorales", "sotalent", "hays", "corriculo recruitment", "submittd talent",
+    "clera talent", "adecco", "manpowergroup", "roc search", "xforia global talent",
+    "us tech solutions", "bayone solutions", "maxit consulting", "sgs consulting",
+    "all it solutions", "envision technology solutions", "digivance solutions",
+    "samson software solutions", "ztek consulting", "talently", "jobs via efinancialcareers",
+    "ziprecruiter", "futurejobs.ai", "talentally", "so jobs",
+    # Talent marketplaces and AI-training gig platforms (contract data work,
+    # not the advertised role).
+    "underdog: verified engineers", "alignerr", "mercor", "braintrust",
 ]
+# Word-bounded since 2026-11-16 so short names ("hays") can't match inside
+# another company's name.
 _EXCLUDED_COMPANY_RE = re.compile(
-    "|".join(re.escape(c) for c in EXCLUDED_COMPANIES), re.IGNORECASE
+    "|".join(rf"\b{re.escape(c)}\b" for c in EXCLUDED_COMPANIES), re.IGNORECASE
 )
 
 
@@ -219,7 +324,8 @@ def fetch(url, *, health=None):
 
 def is_mle_role(title: str) -> bool:
     if (EXCLUDED_SENIORITY_RE.search(title) or EXCLUDED_INTERNSHIP_RE.search(title)
-            or EXCLUDED_SECURITY_RE.search(title) or EXCLUDED_STACK_RE.search(title)):
+            or EXCLUDED_SECURITY_RE.search(title) or EXCLUDED_STACK_RE.search(title)
+            or is_excluded_ai_engineer(title)):
         return False
     return bool(_KEYWORD_RE.search(title))
 
@@ -523,6 +629,10 @@ def _parse_posted_at(value: str, *, now: datetime | None = None) -> datetime | N
 
     if text in {"today", "just posted", "just now"}:
         return now
+    # Workday's most common value ("Posted Yesterday") was unparsed until
+    # 2026-11-16, so those rows had no provable age.
+    if text == "yesterday":
+        return now - timedelta(days=1)
 
     relative_m = re.search(
         r'(\d+)\s*\+?\s*(minutes?|mins?|hours?|hrs?|days?|weeks?|months?)\b(?:\s*ago)?',
@@ -816,6 +926,19 @@ def _workday_posting_locations(entry: dict, ext_path: str, request_limiter=None)
     return "; ".join(locs)
 
 
+def _workday_posted_date(posted_on: str, *, now: datetime | None = None) -> str:
+    """Pin Workday's relative "Posted N Days Ago" to a calendar day at scrape time.
+
+    Stored as text, "Posted Yesterday" never aged: the dashboard showed a
+    week-old role as yesterday's and the 14-day stale check never fired.
+    Unparseable values pass through unchanged.
+    """
+    posted_at = _parse_posted_at(posted_on, now=now)
+    if posted_at is None:
+        return posted_on
+    return posted_at.astimezone(LOCAL_TZ).date().strftime("%Y-%m-%d")
+
+
 def probe_curated_workday(entry: dict, request_limiter=None) -> list:
     """
     Workday's /jobs endpoint sometimes 400s on empty searchText, so we hit it
@@ -883,7 +1006,7 @@ def probe_curated_workday(entry: dict, request_limiter=None) -> list:
                     "title": title,
                     "location": loc,
                     "url": public_url,
-                    "date_posted": posting.get("postedOn") or "",
+                    "date_posted": _workday_posted_date(posting.get("postedOn") or ""),
                     "ats": "Workday",
                 }
             offset += 20
@@ -1170,6 +1293,9 @@ LINKEDIN_SEARCH_TERMS = [
     # first eight entries, is unchanged. One phrase covers the FDE, FDSE and
     # "(Forward Deployed)" title variants on LinkedIn/Indeed search.
     "forward deployed engineer",
+    # Added 2026-11-16 with the matching KEYWORDS (FDE lane).
+    "solutions engineer",
+    "solutions architect",
 ]
 
 BIOTECH_SPECIALTY_SEARCH_TERMS = [
@@ -1878,7 +2004,8 @@ def _filter_job_observations(jobs: list[dict], *, default_feed: str):
             reason = "seniority"
         elif EXCLUDED_SECURITY_RE.search(title):
             reason = "security"
-        elif not _KEYWORD_RE.search(title) or EXCLUDED_STACK_RE.search(title):
+        elif (not _KEYWORD_RE.search(title) or EXCLUDED_STACK_RE.search(title)
+                or is_excluded_ai_engineer(title)):
             reason = "role"
         else:
             location = str(job.get("location", "") or "")
@@ -1890,6 +2017,8 @@ def _filter_job_observations(jobs: list[dict], *, default_feed: str):
                 # source values (ISO, epoch-ms, "Posted N Days Ago") — all of
                 # which _parse_posted_at handles.
                 reason = "stale"
+            elif has_excessive_requirements(str(job.get("description", "") or "")):
+                reason = "seniority"  # JD requires 7+ years or a PhD
         if reason:
             stats[reason] += 1
             rejected.append({
@@ -2025,7 +2154,8 @@ def _normalize_dates(jobs: list) -> None:
 
 def save_jobs_output(jobs: list, *, basename: str, title: str, subtitle: str,
                      accent: str, empty_message: str, window_label: str,
-                     default_feed: str = "general", run_metadata: dict | None = None):
+                     default_feed: str = "general", run_metadata: dict | None = None,
+                     keep_descriptions: bool = True):
     """
     Save jobs to {basename}.{json,md,html}. Dedupes against the previous JSON at
     the same path so each email surfaces only postings new to this run.
@@ -2074,6 +2204,12 @@ def save_jobs_output(jobs: list, *, basename: str, title: str, subtitle: str,
         ])
     except Exception as e:
         print(f"  ⚠️  Pushover notify failed (non-fatal): {e}")
+
+    # Descriptions were only needed by the requirements veto above; sources
+    # that don't publish them (the ATS registry) drop them before writing.
+    if not keep_descriptions:
+        for job in jobs:
+            job.pop("description", None)
 
     timestamp = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
 
@@ -2766,6 +2902,7 @@ def save_registry_results(result: dict) -> None:
         empty_message="No eligible registry roles in this shard.",
         window_label="current registry shard",
         default_feed="general",
+        keep_descriptions=False,
     )
 
 
