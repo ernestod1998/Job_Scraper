@@ -27,6 +27,10 @@ check('normalized lowercase ATS is supported',
   classifySource({ ats: 'greenhouse', feeds: [' GENERAL '], url: 'https://example.test' }) === 'Direct ATS');
 check('government source retains its own label',
   classifySource({ ats: 'USAJOBS', feeds: ['general'], url: 'https://usajobs.gov/job/1' }) === 'USAJOBS');
+check('HN rows get the HN source', classifySource({ ats: 'HN', url: 'https://news.ycombinator.com/item?id=1' }) === 'HN');
+check('Bluesky rows get the Bluesky source', classifySource({ ats: 'Bluesky', url: 'https://bsky.app/profile/a/post/b' }) === 'Bluesky');
+for (const file of ['hn_jobs.json', 'bluesky_jobs.json']) check(`dashboard loads ${file}`, html.includes(`'${file}'`));
+check('HN and Bluesky are Source filter options', /'CalCareers', 'HN', 'Bluesky'\]/.test(html));
 check('legacy feed string is accepted',
   classifySource({ ats: 'Custom', feed: 'biotech', url: 'https://example.test' }) === 'Biotech');
 

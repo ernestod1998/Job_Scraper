@@ -16,6 +16,8 @@ const SOURCES = [
   { name: 'governmentjobs_jobs.json', src: 'NEOGOV' },
   { name: 'calopps_jobs.json',  src: 'CalOpps'  },
   { name: 'calcareers_jobs.json', src: 'CalCareers' },
+  { name: 'hn_jobs.json',       src: 'HN'       },
+  { name: 'bluesky_jobs.json',  src: 'Bluesky'  },
   // Cumulative master kept by the scrapers (the rolling files above only hold
   // their latest window). Lets the Rank tab show every recently-seen role.
   { name: 'all_jobs.json',      src: 'Master'   },
@@ -580,7 +582,7 @@ function renderAll() {
 
 
   renderFilterGroup('filter-source', 'source',
-    ['LinkedIn', 'Biotech', 'Direct ATS', 'Indeed', 'USAJOBS', 'NEOGOV', 'CalOpps', 'CalCareers']);
+    ['LinkedIn', 'Biotech', 'Direct ATS', 'Indeed', 'USAJOBS', 'NEOGOV', 'CalOpps', 'CalCareers', 'HN', 'Bluesky']);
   renderFilterGroup('filter-metro', 'metro', METROS);
   renderFilterGroup('filter-role', 'role',
     ['AI Engineer', 'MLE', 'Forward Deployed', 'MLOps/Platform', 'Scientist', 'Comp Chem/Sci',

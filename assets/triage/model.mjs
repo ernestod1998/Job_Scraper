@@ -67,6 +67,8 @@ export function classifySource(j) {
   if (ats === 'neogov' || (j.url || '').includes('governmentjobs.com')) return 'NEOGOV';
   if (ats === 'calopps' || (j.url || '').includes('calopps.org')) return 'CalOpps';
   if (ats === 'calcareers' || (j.url || '').includes('calcareers.ca.gov')) return 'CalCareers';
+  if (ats === 'hn' || (j.url || '').includes('news.ycombinator.com')) return 'HN';
+  if (ats === 'bluesky' || (j.url || '').includes('bsky.app')) return 'Bluesky';
   if (ats === 'linkedin') return 'LinkedIn';
   if (['greenhouse', 'lever', 'ashby', 'gem', 'workday'].includes(ats)) return 'Direct ATS';
   if (ats === 'indeed' || (j.url || '').includes('indeed.com')) return 'Indeed';

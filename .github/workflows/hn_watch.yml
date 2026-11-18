@@ -1,0 +1,36 @@
+name: Hacker News Watcher
+
+on:
+  schedule:
+    - cron: "23 16 * * *"   # daily ~9am PT; the monthly thread keeps growing
+  workflow_dispatch:
+
+concurrency:
+  group: job-scraper-commit-push
+  cancel-in-progress: false
+
+jobs:
+  scrape:
+    name: Hacker News scrape
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Scrape Hacker News 'Who is hiring?'
+        run: python scrape_jobs.py --hn-only
+        env:
+          PUSHOVER_TOKEN: ${{ secrets.PUSHOVER_TOKEN }}
+          PUSHOVER_USER: ${{ secrets.PUSHOVER_USER }}
+          NOTIFY_TERMS: ${{ vars.NOTIFY_TERMS }}
+      - name: Commit results to repo
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          python ci_commit_push.py \
+            --message "chore: update hn listings [$(date -u '+%Y-%m-%d %H:%MZ')]" \
+            hn_jobs.json hn_jobs.md hn_jobs.html \
+            all_jobs.json notified.json

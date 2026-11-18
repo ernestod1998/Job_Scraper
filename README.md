@@ -90,6 +90,8 @@ These vetoes are mirrored in `assets/triage/model.mjs`, which also prunes matchi
 | `governmentjobs_jobs.json` / `.md` / `.html` | NEOGOV | State/local government results |
 | `calopps_jobs.json` / `.md` / `.html` | CalOpps | California local-agency results |
 | `calcareers_jobs.json` / `.md` / `.html` | CalCareers | California civil-service results |
+| `hn_jobs.json` / `.md` / `.html` | Hacker News | Replies to the newest monthly "Ask HN: Who is hiring?" thread |
+| `bluesky_jobs.json` / `.md` / `.html` | Bluesky | Hiring posts from the last 3 days of public Bluesky search |
 | `registry_jobs.json` / `.md` / `.html` | ATS registry | Verified-board shard output from the daily registry cycle |
 | `all_jobs.json` | All sources | Canonical 14-day master with `feeds` provenance |
 | `checked_companies.json` | (legacy) | Tracking file from earlier Wikipedia-based discovery |
@@ -159,9 +161,11 @@ they follow whatever roles you already target):
 | `--governmentjobs-only` | [governmentjobs.com](https://www.governmentjobs.com) (NEOGOV) | State & local government; filtered to Bay Area + NYC via `is_watch_location()`. |
 | `--calopps-only` | [calopps.org](https://www.calopps.org) | California local agencies (cities/counties/special districts). |
 | `--calcareers-only` | [calcareers.ca.gov](https://calcareers.ca.gov) | California state civil service (ASP.NET postback). |
+| `--hn-only` | [Hacker News](https://news.ycombinator.com) via the free Algolia API | Added 2026-11-17. Reads the newest "Who is hiring?" thread. Each reply's first line ("Company \| Role \| Location \| …") gives the company, role titles (a segment listing several is split on commas, `&` and "and", never `/`), location and salary. Rows keep the reply date but may be up to 35 days old (`HN_MAX_AGE_DAYS`), since the thread is posted once a month; on the dashboard they show under **Posted: Month**. |
+| `--bluesky-only` | [Bluesky](https://bsky.app) public search (`api.bsky.app`, no account) | Added 2026-11-17. Searches `BLUESKY_QUERIES` over the last 3 days. A post must say it's hiring and must not be from a job seeker or about academic posts (postdoc, faculty, fellowship). Title comes from a `Position:` field or the first clause naming a role; location from a 📍/`Location:` field, an explicit US-remote phrase, or a Bay Area/NYC place name. Most posts name no location and are dropped by the location filter. |
 | `--boards-only` | ZipRecruiter + Google Jobs | Via `python-jobspy`. **Retired 2026-11-16:** `boards_watch.yml` was deleted after every run since July returned nothing (ZipRecruiter answers GitHub's runners with 403 "use a proxy"; Google returns "no job data"). The flag still works for a manual local run. |
 
-Heavier per-term sources share `GOV_SEARCH_TERMS` (a slice of `LINKEDIN_SEARCH_TERMS`); widen it to taste. Each new source has a matching workflow (`usajobs_watch.yml`, `localgov_watch.yml`, `calcareers_watch.yml`).
+Heavier per-term sources share `GOV_SEARCH_TERMS` (a slice of `LINKEDIN_SEARCH_TERMS`); widen it to taste. Each new source has a matching workflow (`usajobs_watch.yml`, `localgov_watch.yml`, `calcareers_watch.yml`, `hn_watch.yml`, `bluesky_watch.yml`).
 
 The ATS registry keeps its daily seed/verify/scrape cycle and now has a second
 daily scrape-only pass. The extra pass advances through verified employer boards

@@ -6,6 +6,7 @@ allowlist-filtered LinkedIn). Each writes {basename}.{json,md,html} digests and
 accumulates into all_jobs.json for the dashboard and optional manual triage agent.
 """
 
+import html as _html
 import http.cookiejar
 import itertools
 import json
@@ -742,7 +743,8 @@ def is_recent_posting(job: dict, *, now: datetime | None = None) -> bool:
     return timedelta(0) <= now - posted_at <= FRESH_JOB_LOOKBACK
 
 
-def is_stale_posting(date_value, *, now: datetime | None = None) -> bool:
+def is_stale_posting(date_value, *, now: datetime | None = None,
+                     max_days: int = MAX_POSTING_AGE_DAYS) -> bool:
     """True when a posting is provably older than MAX_POSTING_AGE_DAYS.
 
     Unparseable or missing dates return False (kept): the registry's job of
@@ -758,7 +760,7 @@ def is_stale_posting(date_value, *, now: datetime | None = None) -> bool:
         now = now.replace(tzinfo=timezone.utc)
     else:
         now = now.astimezone(timezone.utc)
-    return (now - posted_at) > timedelta(days=MAX_POSTING_AGE_DAYS)
+    return (now - posted_at) > timedelta(days=max_days)
 
 
 # ---------------------------------------------------------------------------
@@ -2018,6 +2020,11 @@ def _job_identity(url: str) -> str:
     m = re.search(r'[?&]jk=([a-zA-Z0-9]+)', url)
     if m:
         return f"indeed:{m.group(1)}"
+    # HN links carry the post id in the query string ("item?id=123"), which
+    # the generic rule below would strip, collapsing every HN row into one.
+    m = re.search(r'news\.ycombinator\.com/item\?(?:.*&)?id=(\d+)', url)
+    if m:
+        return f"hn:{m.group(1)}"
     return url.split("?")[0].rstrip("/")
 
 
@@ -2064,7 +2071,7 @@ def _filter_job_observations(jobs: list[dict], *, default_feed: str):
             location_ok = is_target_location(location) if feed == "biotech" else is_watch_location(location)
             if not location_ok:
                 reason = "location"
-            elif is_stale_posting(job.get("date_posted", "")):
+            elif is_stale_posting(job.get("date_posted", ""), max_days=_max_posting_age(job)):
                 # Runs before _normalize_dates, so is_stale_posting sees raw
                 # source values (ISO, epoch-ms, "Posted N Days Ago") — all of
                 # which _parse_posted_at handles.
@@ -2958,6 +2965,307 @@ def save_registry_results(result: dict) -> None:
     )
 
 
+# ---- Hacker News "Who is hiring?" + Bluesky hiring posts (2026-11-17) ------
+# Both are free, keyless public APIs. Posts are free text, so each scraper
+# pulls a title, company and location out of the post and then relies on the
+# shared choke point (_filter_job_observations) for every veto.
+
+
+HN_THREADS_URL = ("https://hn.algolia.com/api/v1/search_by_date"
+                  "?tags=story,author_whoishiring&hitsPerPage=10")
+HN_ITEM_URL = "https://hn.algolia.com/api/v1/items/{id}"
+HN_POST_URL = "https://news.ycombinator.com/item?id={id}"
+HN_THREAD_TITLE = "ask hn: who is hiring?"
+# The thread is posted once a month and most companies reply in its first
+# days, so HN rows keep the comment date but get a month-long age ceiling
+# instead of MAX_POSTING_AGE_DAYS (see _max_posting_age).
+HN_MAX_AGE_DAYS = 35
+HN_MAX_TITLES = 4
+# Splits a "|" segment that lists several roles. "/" is deliberately not a
+# separator: splitting "Senior AI/ML Engineer" would leak "ML Engineer" past
+# the seniority veto.
+_HN_ROLE_SPLIT_RE = re.compile(r'\s*(?:,|;|&|\band\b|\s[–—-]\s)\s*', re.IGNORECASE)
+_HN_SALARY_RE = re.compile(r'[$€£]\s?\d')
+
+BLUESKY_SEARCH_URL = "https://api.bsky.app/xrpc/app.bsky.feed.searchPosts"
+BLUESKY_POST_URL = "https://bsky.app/profile/{handle}/post/{rkey}"
+BLUESKY_LOOKBACK = timedelta(days=3)
+# One page per query: the AppView answered deeper cursors with 403s when
+# tested on 2026-11-17, and 100 posts over three days covers each query.
+BLUESKY_PAGES = 1
+BLUESKY_QUERIES = [
+    'hiring "machine learning"', 'hiring "ML engineer"', 'hiring "data scientist"',
+    'hiring "software engineer"', 'hiring "research engineer"', 'hiring "applied scientist"',
+    'hiring "machine learning scientist"', 'hiring "forward deployed"',
+    'hiring "solutions engineer"', 'hiring "member of technical staff"',
+    'hiring bioinformatics', 'hiring "computational biology"',
+    'hiring "computational biologist"', 'hiring "scientific software"',
+]
+_BLUESKY_HIRING_RE = re.compile(
+    r"\b(?:we'?re hiring|we are hiring|now hiring|i'?m hiring|is hiring|are hiring|"
+    r"hiring (?:for|an?|our|two|multiple|several)|job (?:opening|alert)|open (?:role|position)s?|"
+    r"join (?:our|my|the) team|apply)\b|#hiring",
+    re.IGNORECASE)
+# Job seekers, hiring advice and market commentary also say "hiring".
+_BLUESKY_SEEKER_RE = re.compile(
+    r"\b(?:open to work|#opentowork|looking for (?:a|my next|new) (?:role|job|position)|"
+    r"i'?m (?:job )?(?:hunting|searching)|laid off|hire me|my resume|my cv)\b",
+    re.IGNORECASE)
+# Academic posts dominate Bluesky search and aren't the target.
+_BLUESKY_ACADEMIC_RE = re.compile(
+    r"\b(?:post-?docs?|post-?doctoral|professor|professorship|faculty|tenure|lecturer|"
+    r"phd (?:student|position|studentship)s?|studentships?|fellowships?)\b",
+    re.IGNORECASE)
+_BLUESKY_SEGMENT_RE = re.compile(r'[\n|•·!?]+|[\U0001F300-\U0001FAFF☀-➿]+|(?<=[a-z0-9)])\.\s')
+_BLUESKY_LEADIN_RE = re.compile(
+    r"^.*?\b(?:hiring|position|role|opening|job alert|job)\s*(?:an?|our|for|:|-|–)?\s*(?:an?\s+)?",
+    re.IGNORECASE)
+_BLUESKY_LOCATION_RE = re.compile(
+    r"(?:📍|\blocation:|\bbased in\b|\blocated in\b)\s*([^\n|•🔗💰📅⏰🏢🛠️📁]+)", re.IGNORECASE)
+# "US" is matched case-sensitively so "join us remotely" isn't US-remote.
+_BLUESKY_US_REMOTE_RE = re.compile(
+    r"(?i:remote)\W{0,3}\(?\s*(?:US|USA|U\.S\.|(?i:united states))\b|"
+    r"\b(?:US|USA|(?i:united states))[\s-]+(?i:remote)\b")
+# Job-bot posts carry labelled fields. When a "Position:" field exists it is
+# the only title considered, so a vetoed "Senior ..." position can't fall
+# back to a generic "Category: Software Engineer" line.
+_BLUESKY_POSITION_RE = re.compile(
+    r"\b(?:position|role|job title|title):\s*([^\n|•🏢🌍📍📁🛠️💰]+)", re.IGNORECASE)
+_BLUESKY_PRONOUNS = {"we", "i", "they", "our team", "my team", "who", "everyone"}
+_BLUESKY_COMPANY_RE = re.compile(r"\bcompany:\s*([^\n|•🌍📍📁🛠️]+)", re.IGNORECASE)
+_BLUESKY_IS_HIRING_RE = re.compile(
+    r"(?:^|[\s(])@?([A-Z][\w&.'’-]*(?:\s+[A-Z][\w&.'’-]*){0,3})\s+(?:is|are)\s+#?hiring\b")
+
+
+def _max_posting_age(job: dict) -> int:
+    return HN_MAX_AGE_DAYS if str(job.get("ats", "")) == "HN" else MAX_POSTING_AGE_DAYS
+
+
+def _html_to_text(markup: str) -> str:
+    text = re.sub(r'<p>', '\n', markup or '')
+    text = re.sub(r'<[^>]+>', '', text)
+    return _html.unescape(text).strip()
+
+
+def _get_json(url: str, *, health=None):
+    body = fetch(url, health=health)
+    if not body:
+        return None
+    try:
+        return json.loads(body)
+    except json.JSONDecodeError:
+        return None
+
+
+def _hn_titles(segment: str) -> list[str]:
+    """Role titles named in one "|" segment of an HN first line."""
+    segment = re.sub(r'\s+', ' ', segment).strip(" .")
+    if len(segment) <= 120 and is_mle_role(segment):
+        return [segment]
+    titles = []
+    for piece in _HN_ROLE_SPLIT_RE.split(segment):
+        piece = piece.strip(" .()")
+        if piece and len(piece) <= 100 and is_mle_role(piece):
+            titles.append(piece)
+    return titles
+
+
+def parse_hn_comment(comment: dict) -> dict | None:
+    """One HN "Who is hiring?" reply → a job row, or None when its first line
+    names no role the keyword gate admits. Companies put the facts on the
+    first line as "Company | Role | Location | ..."."""
+    text = _html_to_text(comment.get("text") or "")
+    if not text or not comment.get("id"):
+        return None
+    first = text.split("\n", 1)[0]
+    segments = [s.strip() for s in first.split("|") if s.strip()]
+    if len(segments) < 2:
+        return None
+    titles, role_idx = [], set()
+    for i, seg in enumerate(segments[1:], start=1):
+        found = _hn_titles(seg)
+        if found:
+            role_idx.add(i)
+            titles.extend(t for t in found if t not in titles)
+    if not titles:
+        return None
+    rest = [s for i, s in enumerate(segments) if i and i not in role_idx]
+    location = next((s for s in rest if is_watch_location(s)), " · ".join(rest))
+    salary = next((s for s in rest if _HN_SALARY_RE.search(s) and len(s) <= 80), "")
+    return {
+        "company": re.sub(r'\s+', ' ', segments[0])[:100],
+        "title": " / ".join(titles[:HN_MAX_TITLES]),
+        "location": location[:200],
+        "url": HN_POST_URL.format(id=comment["id"]),
+        "date_posted": comment.get("created_at") or "",
+        "salary": salary,
+        "description": text[:INDEED_JD_MAX_CHARS],
+        "ats": "HN",
+    }
+
+
+def scrape_hn_hiring(*, health=None) -> list:
+    """Replies to the newest "Ask HN: Who is hiring?" thread (Algolia API)."""
+    print("🟧 Scraping Hacker News 'Who is hiring?'...")
+    prev = os.path.join(SCRIPT_DIR, "hn_jobs.json")
+    threads = _get_json(HN_THREADS_URL, health=health)
+    hits = [h for h in (threads or {}).get("hits", [])
+            if str(h.get("title", "")).lower().startswith(HN_THREAD_TITLE)]
+    if not hits:
+        print("  ⛔ No HN hiring thread found; preserving previous results")
+        return _load_prev_jobs(prev)
+    thread = max(hits, key=lambda h: h.get("created_at_i", 0))
+    item = _get_json(HN_ITEM_URL.format(id=thread["objectID"]), health=health)
+    if not item:
+        print("  ⛔ HN thread unreachable; preserving previous results")
+        return _load_prev_jobs(prev)
+    jobs = [j for j in map(parse_hn_comment, item.get("children") or []) if j]
+    print(f"  ✅ HN: {len(jobs)} role post(s) from {len(item.get('children') or [])} "
+          f"replies to {thread.get('title')!r}")
+    return jobs
+
+
+def _bluesky_title(text: str) -> str:
+    """The first clause of a post that names an admitted role."""
+    labelled = _BLUESKY_POSITION_RE.search(text)
+    if labelled:
+        cand = re.sub(r'\s+', ' ', labelled.group(1)).strip(" :-–,")
+        return cand if is_mle_role(cand) else ""
+    for seg in _BLUESKY_SEGMENT_RE.split(text):
+        seg = re.sub(r'\s+', ' ', seg or '').strip(" :-–,")
+        if not seg or not _KEYWORD_RE.search(seg):
+            continue
+        seg = re.sub(r'#(\w)', r'\1', seg)
+        cut = _BLUESKY_LEADIN_RE.sub('', seg) if re.search(r'hiring|position|role|opening|job', seg, re.I) else seg
+        for cand in (cut, seg):
+            cand = cand.strip(" :-–,")
+            if len(cand) > 90:
+                m = _KEYWORD_RE.search(cand)
+                words_before = cand[:m.start()].split()[-3:]
+                words_after = cand[m.end():].split()[:3]
+                cand = " ".join(words_before + [m.group(0)] + words_after)
+            if cand and is_mle_role(cand):
+                return cand[:1].upper() + cand[1:]
+    return ""
+
+
+def _trim_location(text: str) -> str:
+    text = re.split(r'[!#]|\bapply\b', text, flags=re.IGNORECASE)[0]
+    return re.sub(r'^\W+', '', text).strip(" ,.")[:120]  # also drops a leading 🇺🇸
+
+
+def _bluesky_location(text: str) -> str:
+    m = _BLUESKY_LOCATION_RE.search(text)
+    if m and m.group(1).strip():
+        return _trim_location(m.group(1))
+    if _BLUESKY_US_REMOTE_RE.search(text):
+        return "Remote (US)"
+    for seg in re.split(r'[\n|•.;]+', text):
+        if _bay_area_confirmed(seg) or is_nyc(seg):
+            seg = _trim_location(seg)
+            # "... is hiring a Software Engineer in New York, NY" → the place.
+            tail = re.search(r'\b(?:in|at)\s+([A-Z][^;]*)$', seg)
+            if tail and (_bay_area_confirmed(tail.group(1)) or is_nyc(tail.group(1))):
+                return tail.group(1).strip()
+            return seg
+    return ""
+
+
+def parse_bluesky_post(post: dict) -> dict | None:
+    record = post.get("record") or {}
+    author = post.get("author") or {}
+    text = str(record.get("text") or "")
+    embed = (post.get("embed") or {}).get("external") or (record.get("embed") or {}).get("external") or {}
+    full = "\n".join(x for x in (text, embed.get("title"), embed.get("description")) if x)
+    if (not _BLUESKY_HIRING_RE.search(full) or _BLUESKY_SEEKER_RE.search(full)
+            or _BLUESKY_ACADEMIC_RE.search(full)):
+        return None
+    title = _bluesky_title(text) or _bluesky_title(str(embed.get("title") or ""))
+    rkey = str(post.get("uri", "")).rsplit("/", 1)[-1]
+    handle = author.get("handle") or author.get("did") or ""
+    if not title or not rkey or not handle:
+        return None
+    m = _BLUESKY_COMPANY_RE.search(full) or _BLUESKY_IS_HIRING_RE.search(text)
+    company = m.group(1).strip(" !.,") if m else ""
+    at = re.match(r'(.+?)\s+at\s+([A-Z][\w&.\'’ -]{1,60})$', title)
+    if at and is_mle_role(at.group(1)):
+        title, company = at.group(1), company or at.group(2).strip()
+    if company.lower() in _BLUESKY_PRONOUNS:
+        company = ""
+    company = company or author.get("displayName") or handle
+    link = embed.get("uri") or ""
+    return {
+        "company": company[:100],
+        "title": title,
+        "location": _bluesky_location(full),
+        "url": BLUESKY_POST_URL.format(handle=handle, rkey=rkey),
+        "date_posted": record.get("createdAt") or post.get("indexedAt") or "",
+        "salary": "",
+        "description": (full + (f"\n{link}" if link and link not in full else ""))[:INDEED_JD_MAX_CHARS],
+        "posted_by": f"@{handle}",
+        "ats": "Bluesky",
+    }
+
+
+def scrape_bluesky_hiring(*, health=None, now: datetime | None = None) -> list:
+    """Recent Bluesky posts announcing openings (public AppView search)."""
+    print("🦋 Scraping Bluesky hiring posts...")
+    now = now or datetime.now(timezone.utc)
+    since = (now - BLUESKY_LOOKBACK).strftime("%Y-%m-%dT%H:%M:%SZ")
+    jobs_by_url: dict[str, dict] = {}
+    answered = 0
+    for query in BLUESKY_QUERIES:
+        cursor = None
+        for _page in range(BLUESKY_PAGES):
+            params = {"q": query, "sort": "latest", "limit": 100, "since": since}
+            if cursor:
+                params["cursor"] = cursor
+            time.sleep(REQUEST_DELAY)
+            url = f"{BLUESKY_SEARCH_URL}?{urllib.parse.urlencode(params)}"
+            payload = _get_json(url, health=health)
+            if payload is None:  # the AppView drops the odd connection; retry once
+                time.sleep(2)
+                payload = _get_json(url, health=health)
+            if payload is None:
+                break
+            answered += 1
+            for post in payload.get("posts") or []:
+                job = parse_bluesky_post(post)
+                if job and job["url"] not in jobs_by_url:
+                    jobs_by_url[job["url"]] = job
+            cursor = payload.get("cursor")
+            if not cursor:
+                break
+    if not answered:
+        print("  ⛔ Bluesky search unreachable; preserving previous results")
+        return _load_prev_jobs(os.path.join(SCRIPT_DIR, "bluesky_jobs.json"))
+    jobs = list(jobs_by_url.values())
+    print(f"  ✅ Bluesky: {len(jobs)} hiring post(s) across {len(BLUESKY_QUERIES)} queries")
+    return jobs
+
+
+def save_hn_results(jobs: list):
+    save_jobs_output(
+        jobs, basename="hn_jobs",
+        title="🟧 Hacker News — Who is hiring?",
+        subtitle="news.ycombinator.com · monthly hiring thread",
+        accent="#ff6600",
+        empty_message="No new HN hiring posts since the last run.",
+        window_label="current HN hiring thread",
+    )
+
+
+def save_bluesky_results(jobs: list):
+    save_jobs_output(
+        jobs, basename="bluesky_jobs",
+        title="🦋 Bluesky — Hiring Posts",
+        subtitle="bsky.app · public post search",
+        accent="#1185fe",
+        empty_message="No new Bluesky hiring posts since the last run.",
+        window_label="recent Bluesky hiring posts",
+    )
+
+
 # ---- Existing-output policy migration ------------------------------------
 
 REFILTER_OUTPUTS = {
@@ -2970,6 +3278,8 @@ REFILTER_OUTPUTS = {
     "calopps_jobs": "general",
     "calcareers_jobs": "general",
     "registry_jobs": "general",
+    "hn_jobs": "general",
+    "bluesky_jobs": "general",
 }
 
 REFILTER_RENDER_CONFIG = {
@@ -2981,6 +3291,8 @@ REFILTER_RENDER_CONFIG = {
     "governmentjobs_jobs": ("🏛 NEOGOV — State & Local Government Roles", "governmentjobs.com", "#0e7490", "No new state/local-gov roles since the last run."),
     "calopps_jobs": ("🏛 CalOpps — California Local-Agency Roles", "calopps.org · CA cities, counties, special districts", "#15803d", "No new CalOpps roles since the last run."),
     "calcareers_jobs": ("🏛 CalCareers — California State Roles", "calcareers.ca.gov · California state civil service", "#b45309", "No new CalCareers roles since the last run."),
+    "hn_jobs": ("🟧 Hacker News — Who is hiring?", "news.ycombinator.com · monthly hiring thread", "#ff6600", "No new HN hiring posts since the last run."),
+    "bluesky_jobs": ("🦋 Bluesky — Hiring Posts", "bsky.app · public post search", "#1185fe", "No new Bluesky hiring posts since the last run."),
     "registry_jobs": ("🗃 Direct ATS Registry — Engineering / ML / DS Roles", "Verified public ATS boards", "#f59e0b", "No eligible registry roles in this shard."),
 }
 
@@ -3228,6 +3540,14 @@ if __name__ == "__main__":
     if "--linkedin-only" in sys.argv:
         run = collect_linkedin_recent()
         save_linkedin_results(run.jobs, run_metadata=run.metadata())
+        sys.exit(0)
+
+    if "--hn-only" in sys.argv:
+        save_hn_results(scrape_hn_hiring())
+        sys.exit(0)
+
+    if "--bluesky-only" in sys.argv:
+        save_bluesky_results(scrape_bluesky_hiring())
         sys.exit(0)
 
     if "--usajobs-only" in sys.argv:

@@ -93,7 +93,7 @@ test('cached history renders before stalled refresh and survives every failed fe
   await fixture(context,jobs,{fail:true});
   await context.addInitScript(jobs=>localStorage.setItem('jobTriage:v2',JSON.stringify({v:2,triage:{[jobs[0].url]:{s:'saved',t:1}},jobs})),jobs);
   await page.goto('triage.html');await expect(page.locator('.job')).toHaveCount(1);await loaded(page);
-  await expect(page.locator('#snapshot-line')).toContainText('8 source(s) unavailable');
+  await expect(page.locator('#snapshot-line')).toContainText('10 source(s) unavailable');
   await page.locator('.source-details summary').click();await expect(page.getByRole('button',{name:'Retry failed'})).toBeVisible();
 });
 test('duplicate clear and decisions coordinate across tabs, with conditional Undo',async({context,page})=>{

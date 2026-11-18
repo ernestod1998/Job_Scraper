@@ -586,5 +586,113 @@ class JobDescriptionRequirements(unittest.TestCase):
         self.assertEqual(stats["seniority"], 2)
 
 
+class SocialHiringSources(unittest.TestCase):
+    """Hacker News "Who is hiring?" and Bluesky hiring posts (2026-11-17)."""
+
+    def hn(self, text, cid=101, created="2026-11-02T16:30:00Z"):
+        return sj.parse_hn_comment({"id": cid, "text": text, "created_at": created})
+
+    def test_hn_first_line_gives_company_role_location_salary(self):
+        job = self.hn("Special | Forward Deployed Engineer | NYC | $200-300K + equity"
+                      "<p>We build things. Apply at example.com")
+        self.assertEqual(job["company"], "Special")
+        self.assertEqual(job["title"], "Forward Deployed Engineer")
+        self.assertEqual(job["location"], "NYC")
+        self.assertEqual(job["salary"], "$200-300K + equity")
+        self.assertEqual(job["url"], "https://news.ycombinator.com/item?id=101")
+        self.assertEqual(job["ats"], "HN")
+
+    def test_hn_multi_role_segment_never_leaks_senior_through_a_slash(self):
+        job = self.hn("Acme | Senior AI/ML Engineer, Data Scientist | REMOTE (US)")
+        self.assertEqual(job["title"], "Data Scientist")
+        self.assertIsNone(self.hn("Acme | Senior AI/ML Engineer | REMOTE (US)"))
+        self.assertIsNone(self.hn("Acme | Engineers, Designers, PMs | NYC"))
+        self.assertIsNone(self.hn("UPDATE: we are no longer taking applications."))
+
+    def test_hn_rows_go_through_the_shared_filters(self):
+        rows = [self.hn("A | Software Engineer | San Francisco, CA", cid=1),
+                self.hn("B | Software Engineer | Berlin, Germany", cid=2),
+                self.hn("C | Software Engineer | REMOTE (US)", cid=3)]
+        now = datetime(2026, 11, 30, tzinfo=timezone.utc)
+        with patch.object(sj, "datetime", wraps=datetime) as fake:
+            fake.now.return_value = now
+            kept, _, stats = sj._filter_job_observations(rows, default_feed="general")
+        self.assertEqual([j["company"] for j in kept], ["A", "C"])
+        self.assertEqual(stats["location"], 1)
+
+    def test_hn_rows_keep_distinct_identities(self):
+        self.assertEqual(sj._job_identity("https://news.ycombinator.com/item?id=101"), "hn:101")
+        self.assertNotEqual(sj._job_identity("https://news.ycombinator.com/item?id=101"),
+                            sj._job_identity("https://news.ycombinator.com/item?id=102"))
+
+    def test_hn_rows_get_a_month_long_age_ceiling(self):
+        now = datetime(2026, 11, 30, tzinfo=timezone.utc)
+        self.assertEqual(sj._max_posting_age({"ats": "HN"}), sj.HN_MAX_AGE_DAYS)
+        self.assertEqual(sj._max_posting_age({"ats": "LinkedIn"}), sj.MAX_POSTING_AGE_DAYS)
+        self.assertFalse(sj.is_stale_posting("2026-11-02", now=now, max_days=sj.HN_MAX_AGE_DAYS))
+        self.assertTrue(sj.is_stale_posting("2026-11-02", now=now))
+        self.assertTrue(sj.is_stale_posting("2026-10-01", now=now, max_days=sj.HN_MAX_AGE_DAYS))
+
+    def bsky(self, text, handle="e11bio.bsky.social", name="E11 Bio", embed=None):
+        record = {"text": text, "createdAt": "2026-11-16T18:00:00Z"}
+        post = {"uri": f"at://did:plc:x/app.bsky.feed.post/3abc", "record": record,
+                "author": {"handle": handle, "displayName": name}}
+        if embed:
+            post["embed"] = {"external": embed}
+        return sj.parse_bluesky_post(post)
+
+    def test_bluesky_hiring_post_parses(self):
+        job = self.bsky("📣 We are hiring a Machine Learning Scientist! 🧠 You'd build ML methods. "
+                        "📍 Alameda, CA (open to remote) 🔗 Apply here")
+        self.assertEqual(job["title"], "Machine Learning Scientist")
+        self.assertEqual(job["company"], "E11 Bio")
+        self.assertEqual(job["location"], "Alameda, CA (open to remote)")
+        self.assertEqual(job["url"], "https://bsky.app/profile/e11bio.bsky.social/post/3abc")
+        self.assertEqual(job["ats"], "Bluesky")
+
+    def test_bluesky_company_from_is_hiring_and_at_company(self):
+        job = self.bsky("Wehrtyou is hiring a Software Engineer - AI Tools in New York, NY, "
+                        "United States! Apply now #TechJobs", handle="bot.bsky.social", name="Bot")
+        self.assertEqual(job["company"], "Wehrtyou")
+        self.assertEqual(job["location"], "New York, NY, United States")
+        job = self.bsky("Job alert: Forward Deployed Software Engineer at Reveal Technology. Remote (US)",
+                        handle="bot.bsky.social", name="Bot")
+        self.assertEqual((job["title"], job["company"], job["location"]),
+                         ("Forward Deployed Software Engineer", "Reveal Technology", "Remote (US)"))
+
+    def test_bluesky_position_field_is_the_only_title(self):
+        # A vetoed Position must not fall back to the generic Category line.
+        self.assertIsNone(self.bsky("🚀 New Remote Job Alert! 💼 Position: Senior Software Engineer "
+                                    "🏢 Company: Dropbox 🌍 Location: Remote 📁 Category: Software Engineer"))
+        job = self.bsky("🚀 New Remote Job Alert! 💼 Position: Data Scientist II "
+                        "🏢 Company: Teamworks 🌍 Location: Remote (US)")
+        self.assertEqual((job["title"], job["company"]), ("Data Scientist II", "Teamworks"))
+
+    def test_bluesky_skips_seekers_academics_and_non_hiring_posts(self):
+        for text in (
+            "I'm open to work! Machine learning engineer with 4 years, hire me.",
+            "We're hiring a postdoc in machine learning for genomics. 📍 San Francisco",
+            "The department is hiring an Assistant Professor, Data Scientist track.",
+            "Thoughts on how machine learning engineer interviews have changed.",
+        ):
+            self.assertIsNone(self.bsky(text), text)
+
+    def test_bluesky_us_remote_needs_a_real_us_signal(self):
+        self.assertEqual(sj._bluesky_location("Fully remote (US) role"), "Remote (US)")
+        self.assertEqual(sj._bluesky_location("Come join us remotely!"), "")
+        self.assertEqual(sj._bluesky_location("Hybrid in San Francisco. Great team"), "San Francisco")
+
+    def test_sources_are_wired_end_to_end(self):
+        root = os.path.dirname(os.path.abspath(__file__))
+        for base, flag in (("hn_jobs", "--hn-only"), ("bluesky_jobs", "--bluesky-only")):
+            self.assertIn(base, sj.REFILTER_OUTPUTS)
+            self.assertIn(base, sj.REFILTER_RENDER_CONFIG)
+            name = base.split("_")[0]
+            with open(os.path.join(root, ".github", "workflows", f"{name}_watch.yml")) as fh:
+                workflow = fh.read()
+            self.assertIn(f"python scrape_jobs.py {flag}", workflow)
+            self.assertIn(f"{base}.json {base}.md {base}.html", workflow)
+
+
 if __name__ == "__main__":
     unittest.main()

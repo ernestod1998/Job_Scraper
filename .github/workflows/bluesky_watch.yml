@@ -1,0 +1,37 @@
+name: Bluesky Watcher
+
+on:
+  schedule:
+    - cron: "41 15 * * *"   # ~8am PT
+    - cron: "41 3 * * *"    # ~8pm PT
+  workflow_dispatch:
+
+concurrency:
+  group: job-scraper-commit-push
+  cancel-in-progress: false
+
+jobs:
+  scrape:
+    name: Bluesky scrape
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Scrape Bluesky hiring posts
+        run: python scrape_jobs.py --bluesky-only
+        env:
+          PUSHOVER_TOKEN: ${{ secrets.PUSHOVER_TOKEN }}
+          PUSHOVER_USER: ${{ secrets.PUSHOVER_USER }}
+          NOTIFY_TERMS: ${{ vars.NOTIFY_TERMS }}
+      - name: Commit results to repo
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          python ci_commit_push.py \
+            --message "chore: update bluesky listings [$(date -u '+%Y-%m-%d %H:%MZ')]" \
+            bluesky_jobs.json bluesky_jobs.md bluesky_jobs.html \
+            all_jobs.json notified.json
