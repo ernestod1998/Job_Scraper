@@ -1,6 +1,8 @@
 # 🦋 Bluesky — Hiring Posts
-*Last updated: 2026-11-18 04:21 UTC*
+*Last updated: 2026-11-18 22:42 UTC*
 
-**0 new role(s)** since last run · 4 total in recent Bluesky hiring posts
+**1 new role(s)** since last run · 5 total in recent Bluesky hiring posts
 
-No new Bluesky hiring posts since the last run.
+### [Data Forward Deployed Engineer in Remote - United States](https://bsky.app/profile/tryremote.bsky.social/post/3n2lwzborpi2p) — Tessera Labs
+- 📍 **Location:** Remote (US)
+- 🕒 **Posted:** 2026-11-18
