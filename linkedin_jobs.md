@@ -1,125 +1,165 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-11-19 18:19 UTC*
+*Last updated: 2026-11-19 19:19 UTC*
 
-**29 new role(s)** since last run · 67 total in last 1h
+**37 new role(s)** since last run · 54 total in last 1h
 
-### [AI Robotics Engineer](https://www.linkedin.com/jobs/view/4492458741/) — Global Connect Technologies
-- 📍 **Location:** Mountain View, CA
+### [ML Engineer](https://www.linkedin.com/jobs/view/4492512012/) — Fonzi AI
+- 📍 **Location:** San Francisco Bay Area
+- 💰 **Salary:** $180,000.00/yr - $260,000.00/yr
 - 🕒 **Posted:** 2026-11-19
 
-### [On-Device Machine Learning Engineer](https://www.linkedin.com/jobs/view/4490954177/) — Intelliswift - An LTTS Company
+### [Machine Learning Engineer, Foundational AI (FAI)](https://www.linkedin.com/jobs/view/4492494881/) — Amazon
 - 📍 **Location:** Sunnyvale, CA
-- 💰 **Salary:** $90.00/hr - $100.00/hr
 - 🕒 **Posted:** 2026-11-19
 
-### [Software Engineer, Core AI/ML](https://www.linkedin.com/jobs/view/4492479833/) — FloQast
+### [Research Engineer](https://www.linkedin.com/jobs/view/4492503214/) — Fonzi AI
+- 📍 **Location:** San Francisco Bay Area
+- 💰 **Salary:** $175,000.00/yr - $260,000.00/yr
+- 🕒 **Posted:** 2026-11-19
+
+### [Forward Deployed Engineer](https://www.linkedin.com/jobs/view/4492485741/) — Exodigo
 - 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-11-19
 
-### [ML Robotics Engineer](https://www.linkedin.com/jobs/view/4492485270/) — Global Connect Technologies
-- 📍 **Location:** Mountain View, CA
-- 🕒 **Posted:** 2026-11-19
-
-### [Site Reliability Engineer](https://www.linkedin.com/jobs/view/4492487375/) — Uplers
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-11-19
-
-### [Simulation CV/ML Engineer](https://www.linkedin.com/jobs/view/4492183672/) — Intelliswift - An LTTS Company
-- 📍 **Location:** Sunnyvale, CA
-- 💰 **Salary:** $90.00/hr - $100.00/hr
-- 🕒 **Posted:** 2026-11-19
-
-### [Full Stack AWS Solutions Architect](https://www.linkedin.com/jobs/view/4489281838/) — Silicontek Inc
-- 📍 **Location:** South San Francisco, CA
-- 🕒 **Posted:** 2026-11-19
-
-### [AWS Cloud Engineer US Citizens ONLY](https://www.linkedin.com/jobs/view/4490944047/) — DPP Tech
-- 📍 **Location:** Livermore, CA
-- 🕒 **Posted:** 2026-11-19
-
-### [Software Engineer, AI Gateway](https://www.linkedin.com/jobs/view/4489614680/) — Vercel
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-11-19
-
-### [Member of Technical Staff - Applied AI](https://www.linkedin.com/jobs/view/4492190599/) — Atoms
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-11-19
-
-### [Full-stack Engineer 4](https://www.linkedin.com/jobs/view/4476969486/) — Capital One
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-11-19
-
-### [Machine Learning Scientist](https://www.linkedin.com/jobs/view/4491643221/) — Columbia University Irving Medical Center
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-11-19
-
-### [Software Engineer, Trading Product](https://www.linkedin.com/jobs/view/4446256332/) — Aptos Labs
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-11-19
-
-### [Software Engineer, Scheduled Tasks](https://www.linkedin.com/jobs/view/4471681769/) — Vercel
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-11-19
-
-### [Software Engineer](https://www.linkedin.com/jobs/view/4424053124/) — Rundoo
+### [Software Engineer - Agentic Code Review (Gitar)](https://www.linkedin.com/jobs/view/4492498458/) — Sonar
 - 📍 **Location:** San Mateo, CA
 - 🕒 **Posted:** 2026-11-19
 
-### [Software Engineer](https://www.linkedin.com/jobs/view/4491637588/) — Applied Materials
-- 📍 **Location:** Santa Clara, CA
+### [Machine Learning Engineer 4](https://www.linkedin.com/jobs/view/4484480748/) — Capital One
+- 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-11-19
 
-### [Cloud Infrastructure Engineer](https://www.linkedin.com/jobs/view/4491630851/) — Dew Software
-- 📍 **Location:** San Jose, CA
+### [Research Engineer](https://www.linkedin.com/jobs/view/4492190863/) — Fonzi AI
+- 📍 **Location:** New York City Metropolitan Area
+- 💰 **Salary:** $175,000.00/yr - $260,000.00/yr
 - 🕒 **Posted:** 2026-11-19
 
-### [Software Engineer III, Web and Connected Experiences](https://www.linkedin.com/jobs/view/4492178933/) — Crunchyroll
+### [Member of Technical Staff](https://www.linkedin.com/jobs/view/4492197685/) — Fonzi AI
+- 📍 **Location:** New York City Metropolitan Area
+- 🕒 **Posted:** 2026-11-19
+
+### [Forward Deployed Engineer](https://www.linkedin.com/jobs/view/4492488616/) — Exodigo
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-11-19
+
+### [The Core Engineering-Corporate Treasury, New York, Associate, Software Engineering](https://www.linkedin.com/jobs/view/4439813433/) — Goldman Sachs
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-11-19
+
+### [Member of Technical Staff - AI Research](https://www.linkedin.com/jobs/view/4492180912/) — Atoms
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-11-19
 
-### [Backend Engineer - Data Infrastructure](https://www.linkedin.com/jobs/view/4492468847/) — Spotify
-- 📍 **Location:** New York, NY
+### [Software Engineer – Autonomy](https://www.linkedin.com/jobs/view/4490129169/) — TPMAI
+- 📍 **Location:** Alameda, CA
 - 🕒 **Posted:** 2026-11-19
 
-### [Software Engineer](https://www.linkedin.com/jobs/view/4491643338/) — Applied Materials
-- 📍 **Location:** Santa Clara, CA
+### [Software Engineer - Fullstack](https://www.linkedin.com/jobs/view/4467238148/) — Nextdoor
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-11-19
 
-### [Pre-Sales Solution Engineer](https://www.linkedin.com/jobs/view/4492501268/) — Schneider Electric
-- 📍 **Location:** Pleasanton, CA
-- 🕒 **Posted:** 2026-11-19
-
-### [Oracle HCM Cloud Solution Architect](https://www.linkedin.com/jobs/view/4491634801/) — Cleartech Recruiting
-- 📍 **Location:** New York City Metropolitan Area
-- 💰 **Salary:** $200,000.00/yr - $250,000.00/yr
-- 🕒 **Posted:** 2026-11-19
-
-### [Software Development Engineer in Test (SDET) – Java.](https://www.linkedin.com/jobs/view/4484745201/) — The Depository Trust & Clearing Corporation (DTCC)
-- 📍 **Location:** Jersey City, NJ
-- 🕒 **Posted:** 2026-11-19
-
-### [Forward Deployed Systems Engineer](https://www.linkedin.com/jobs/view/4484764740/) — Etched
+### [Site Reliability Engineer, Applied Machine Learning](https://www.linkedin.com/jobs/view/4492498858/) — TikTok USDS Joint Venture
 - 📍 **Location:** San Jose, CA
-- 💰 **Salary:** $150,000.00/yr - $240,000.00/yr
 - 🕒 **Posted:** 2026-11-19
 
-### [Machine Learning Scientist](https://www.linkedin.com/jobs/view/4491323166/) — Columbia University Irving Medical Center
+### [Software Engineer](https://www.linkedin.com/jobs/view/4492705320/) — Expo Experts
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-11-19
+
+### [Software Engineer, Full Stack, Level 4](https://www.linkedin.com/jobs/view/4476792517/) — Snap Inc.
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-11-19
 
-### [Solutions Engineer](https://www.linkedin.com/jobs/view/4492482148/) — Planhat
+### [Specialist, Full-Stack Engineer II](https://www.linkedin.com/jobs/view/4476915057/) — BNY
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-11-19
 
-### [Embedded Robotics Engineer](https://www.linkedin.com/jobs/view/4492480736/) — Global Connect Technologies
-- 📍 **Location:** Mountain View, CA
+### [Software Engineer, Full Stack](https://www.linkedin.com/jobs/view/4492197646/) — Fonzi AI
+- 📍 **Location:** New York City Metropolitan Area
 - 🕒 **Posted:** 2026-11-19
 
-### [iOS Engineer, Identity](https://www.linkedin.com/jobs/view/4484482972/) — Stripe
+### [Full Stack Engineer 4](https://www.linkedin.com/jobs/view/4484991146/) — Capital One
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-11-19
 
-### [Generative AI Research Scientist - Tech R&D](https://www.linkedin.com/jobs/view/4492501300/) — American Express
+### [Mobile Engineer 5 (Android)](https://www.linkedin.com/jobs/view/4476972409/) — Capital One
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $123,000.00/yr - $215,250.00/yr
+- 🕒 **Posted:** 2026-11-19
+
+### [Software Engineer, HR Technology (Workday Techno-Functional)](https://www.linkedin.com/jobs/view/4492502318/) — National Basketball Association (NBA)
+- 📍 **Location:** Secaucus, NJ
+- 🕒 **Posted:** 2026-11-19
+
+### [Software Engineer, Backend](https://www.linkedin.com/jobs/view/4492192752/) — Fonzi AI
+- 📍 **Location:** New York City Metropolitan Area
+- 💰 **Salary:** $180,000.00/yr - $250,000.00/yr
+- 🕒 **Posted:** 2026-11-19
+
+### [Product Engineer](https://www.linkedin.com/jobs/view/4492511068/) — Fonzi AI
+- 📍 **Location:** San Francisco Bay Area
+- 💰 **Salary:** $165,000.00/yr - $255,000.00/yr
+- 🕒 **Posted:** 2026-11-19
+
+### [Software Engineer, Full Stack, Level 4](https://www.linkedin.com/jobs/view/4476791654/) — Snap Inc.
+- 📍 **Location:** Palo Alto, CA
+- 🕒 **Posted:** 2026-11-19
+
+### [Software Engineer, Full Stack, Level 4](https://www.linkedin.com/jobs/view/4476905036/) — Snap Inc.
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-11-19
+
+### [Software Engineer](https://www.linkedin.com/jobs/view/4492197649/) — Fonzi AI
+- 📍 **Location:** New York City Metropolitan Area
+- 💰 **Salary:** $170,000.00/yr - $245,000.00/yr
+- 🕒 **Posted:** 2026-11-19
+
+### [Product Engineer](https://www.linkedin.com/jobs/view/4492508103/) — Fonzi AI
+- 📍 **Location:** New York City Metropolitan Area
+- 💰 **Salary:** $165,000.00/yr - $255,000.00/yr
+- 🕒 **Posted:** 2026-11-19
+
+### [Java Full Stack Developer (contract)](https://www.linkedin.com/jobs/view/4474800042/) — BNY
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-11-19
+
+### [Mobile Engineer](https://www.linkedin.com/jobs/view/4492503222/) — Fonzi AI
+- 📍 **Location:** New York City Metropolitan Area
+- 💰 **Salary:** $190,000.00/yr - $275,000.00/yr
+- 🕒 **Posted:** 2026-11-19
+
+### [Front-End Engineer (React Three Fiber · AI-Assisted Development](https://www.linkedin.com/jobs/view/4491644525/) — HCLTech
+- 📍 **Location:** Hoboken, NJ
+- 🕒 **Posted:** 2026-11-19
+
+### [Infrastructure Engineer](https://www.linkedin.com/jobs/view/4492502395/) — Fonzi AI
+- 📍 **Location:** San Francisco Bay Area
+- 💰 **Salary:** $185,000.00/yr - $260,000.00/yr
+- 🕒 **Posted:** 2026-11-19
+
+### [Infrastructure Engineer](https://www.linkedin.com/jobs/view/4492501546/) — Fonzi AI
+- 📍 **Location:** New York City Metropolitan Area
+- 💰 **Salary:** $185,000.00/yr - $260,000.00/yr
+- 🕒 **Posted:** 2026-11-19
+
+### [Member of Technical Staff](https://www.linkedin.com/jobs/view/4492500645/) — Fonzi AI
+- 📍 **Location:** San Francisco Bay Area
+- 💰 **Salary:** $170,000.00/yr - $295,000.00/yr
+- 🕒 **Posted:** 2026-11-19
+
+### [Full Stack Engineer](https://www.linkedin.com/jobs/view/4492196741/) — Fonzi AI
+- 📍 **Location:** San Francisco Bay Area
+- 💰 **Salary:** $165,000.00/yr - $230,000.00/yr
+- 🕒 **Posted:** 2026-11-19
+
+### [Enterprise Data Sales Specialist – Research & Data Science, Financial Solutions](https://www.linkedin.com/jobs/view/4427800457/) — Bloomberg
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-11-19
+
+### [Software Development Engineer - GPU Drivers](https://www.linkedin.com/jobs/view/4492713067/) — Trilyon, Inc.
+- 📍 **Location:** San Jose, CA
+- 💰 **Salary:** $40.00/hr - $90.00/hr
+- 🕒 **Posted:** 2026-11-19
+
+### [Switch SDK Software Engineer](https://www.linkedin.com/jobs/view/4492183999/) — Broadcom
+- 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-11-19
