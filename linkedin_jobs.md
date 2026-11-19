@@ -1,124 +1,64 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-11-19 00:19 UTC*
+*Last updated: 2026-11-19 01:18 UTC*
 
-**29 new role(s)** since last run · 64 total in last 1h
+**15 new role(s)** since last run · 34 total in last 1h
 
-### [Junior ML Engineer](https://www.linkedin.com/jobs/view/4492117096/) — MinDD
+### [Applied AI Scientist](https://www.linkedin.com/jobs/view/4492245653/) — Jobverse.io
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-11-18
+
+### [Associate Bioinformatician - Statistical Genetics - AI & Human Health Research](https://www.linkedin.com/jobs/view/4492260169/) — Mount Sinai Morningside
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-11-18
+
+### [Software Engineer, Machine Learning Operations, Manufacturing Quality](https://www.linkedin.com/jobs/view/4492239564/) — Tesla
+- 📍 **Location:** Fremont, CA
+- 🕒 **Posted:** 2026-11-18
+
+### [Forward Deployed Engineer, Forward Deployment Engineering](https://www.linkedin.com/jobs/view/4492259111/) — Amazon Web Services (AWS)
+- 📍 **Location:** East Palo Alto, CA
+- 🕒 **Posted:** 2026-11-18
+
+### [DevOps Engineer / Site Reliability Engineer](https://www.linkedin.com/jobs/view/4492251190/) — Council on Foreign Relations
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-11-18
+
+### [Software Engineer, Product & Growth (Full-Stack) at Blockit (Sequoia-Backed), San Francisco](https://www.linkedin.com/jobs/view/4491156678/) — Harper
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-11-18
+
+### [Software Engineer, AI Agents at Blockit (Sequoia-Backed AI Scheduling Agent), San Francisco](https://www.linkedin.com/jobs/view/4491164391/) — Harper
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-11-18
+
+### [Applied Scientist , Amazon Customer Service](https://www.linkedin.com/jobs/view/4492241738/) — Amazon
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-11-18
+
+### [Applied Scientist, Superconducting Qubit Devices and Scaling Architectures, Amazon Center for Quantum Computing, Physical Design and Simulation-Enabling Technologies Team](https://www.linkedin.com/jobs/view/4492248442/) — Amazon Web Services (AWS)
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-11-18
+
+### [Forward Deployed Engineer, Forward Deployment Engineering](https://www.linkedin.com/jobs/view/4492256217/) — Amazon Web Services (AWS)
+- 📍 **Location:** East Palo Alto, CA
+- 🕒 **Posted:** 2026-11-18
+
+### [Forward Deployed Engineer, Forward Deployment Engineering](https://www.linkedin.com/jobs/view/4492235906/) — Amazon Web Services (AWS)
+- 📍 **Location:** East Palo Alto, CA
+- 🕒 **Posted:** 2026-11-18
+
+### [Junior Fullstack Engineer](https://www.linkedin.com/jobs/view/4489176549/) — Quo
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-11-18
+
+### [Ai Infrastructure Engineer](https://www.linkedin.com/jobs/view/4491875290/) — Amaya Cloud
+- 📍 **Location:** Livermore, CA
+- 🕒 **Posted:** 2026-11-18
+
+### [Enterprise Solutions Engineer, West](https://www.linkedin.com/jobs/view/4492117175/) — Glean
 - 📍 **Location:** San Francisco Bay Area
 - 🕒 **Posted:** 2026-11-18
 
-### [Research Engineer — Post-Training, Mountain View, CA](https://www.linkedin.com/jobs/view/4492108385/) — Granica
-- 📍 **Location:** San Francisco Bay Area
-- 💰 **Salary:** $160,000.00/yr - $240,000.00/yr
-- 🕒 **Posted:** 2026-11-18
-
-### [Data Scientist jobs in San Francisco, CA (30)](https://www.linkedin.com/jobs/view/4491366116/) — Fortune Jobs AI
-- 📍 **Location:** San Francisco County, CA
-- 🕒 **Posted:** 2026-11-18
-
-### [Platform Software Engineering Architect](https://www.linkedin.com/jobs/view/4491366076/) — Oracle
-- 📍 **Location:** Pleasanton, CA
-- 🕒 **Posted:** 2026-11-18
-
-### [Software Engineer, Data](https://www.linkedin.com/jobs/view/4492230723/) — FloQast
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-11-18
-
-### [Platform Software Engineering Architect](https://www.linkedin.com/jobs/view/4491360237/) — Oracle
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-11-18
-
-### [Software Engineer, Identity Platform](https://www.linkedin.com/jobs/view/4492103471/) — OpenAI
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-11-18
-
-### [DevOps Engineer (AWS)](https://www.linkedin.com/jobs/view/4492240270/) — Talener
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-11-18
-
-### [Software Engineer, Agent Identity](https://www.linkedin.com/jobs/view/4491893968/) — OpenAI
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $350,000.00/yr - $405,000.00/yr
-- 🕒 **Posted:** 2026-11-18
-
-### [Software Engineer, Agent Identity](https://www.linkedin.com/jobs/view/4492117074/) — OpenAI
-- 📍 **Location:** Mountain View, CA
-- 💰 **Salary:** $350,000.00/yr - $405,000.00/yr
-- 🕒 **Posted:** 2026-11-18
-
-### [Machine Learning Engineer jobs in San Francisco, CA (46)](https://www.linkedin.com/jobs/view/4491358302/) — Fortune Jobs AI
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-11-18
-
-### [Data Scientist jobs in San Jose, CA (5)](https://www.linkedin.com/jobs/view/4491349776/) — Fortune Jobs AI
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-11-18
-
-### [Software Engineer (up to $250k)](https://www.linkedin.com/jobs/view/4491479993/) — Dex
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-11-18
-
-### [Cloud Platform Engineer](https://www.linkedin.com/jobs/view/4492111262/) — Enexus Global Inc.
-- 📍 **Location:** Oakland, CA
-- 🕒 **Posted:** 2026-11-18
-
-### [AWS DevOps Architect](https://www.linkedin.com/jobs/view/4492217849/) — Hyring®
-- 📍 **Location:** Alameda, CA
-- 🕒 **Posted:** 2026-11-18
-
-### [(USA) Software Engineer III](https://www.linkedin.com/jobs/view/4491346802/) — Walmart
-- 📍 **Location:** Sunnyvale, CA
-- 💰 **Salary:** $117,000.00/yr - $234,000.00/yr
-- 🕒 **Posted:** 2026-11-18
-
-### [Software Engineer II, Backend - HR Product](https://www.linkedin.com/jobs/view/4492233406/) — Rippling
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-11-18
-
-### [Machine Learning Engineer jobs in New York, NY (23)](https://www.linkedin.com/jobs/view/4491359290/) — Fortune Jobs AI
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-11-18
-
-### [Full Stack Developer jobs in New York, NY (22)](https://www.linkedin.com/jobs/view/4491356534/) — Fortune Jobs AI
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-11-18
-
-### [Machine Learning Engineer jobs in Jersey City, NJ (5)](https://www.linkedin.com/jobs/view/4491354639/) — Fortune Jobs AI
-- 📍 **Location:** Jersey City, NJ
-- 🕒 **Posted:** 2026-11-18
-
-### [Data Scientist jobs in Jersey City, NJ (5)](https://www.linkedin.com/jobs/view/4491345935/) — Fortune Jobs AI
-- 📍 **Location:** Jersey City, NJ
-- 🕒 **Posted:** 2026-11-18
-
-### [Data Scientist jobs in New York, NY (40)](https://www.linkedin.com/jobs/view/4491352749/) — Fortune Jobs AI
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-11-18
-
-### [Full Stack Developer jobs in Jersey City, NJ (8)](https://www.linkedin.com/jobs/view/4491358308/) — Fortune Jobs AI
-- 📍 **Location:** Jersey City, NJ
-- 🕒 **Posted:** 2026-11-18
-
-### [Software Engineer](https://www.linkedin.com/jobs/view/4491349679/) — Syntrace
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-11-18
-
-### [Software Engineer, Vercel Agent](https://www.linkedin.com/jobs/view/4492225480/) — Vercel
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-11-18
-
-### [Software Engineer jobs in Jersey City, NJ (20)](https://www.linkedin.com/jobs/view/4491346939/) — Fortune Jobs AI
-- 📍 **Location:** Jersey City, NJ
-- 🕒 **Posted:** 2026-11-18
-
-### [Product Engineer](https://www.linkedin.com/jobs/view/4492212592/) — JotPsych
-- 📍 **Location:** Brooklyn, NY
-- 🕒 **Posted:** 2026-11-18
-
-### [AI Engineer / Forward Deployed Engineer](https://www.linkedin.com/jobs/view/4492103315/) — L'Oréal
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-11-18
-
-### [Software Engineer II, Backend - IT Product](https://www.linkedin.com/jobs/view/4492215953/) — Rippling
-- 📍 **Location:** New York, NY
+### [Junior Full Stack Software Engineer](https://www.linkedin.com/jobs/view/4463496752/) — iSoftStone
+- 📍 **Location:** Palo Alto, CA
 - 🕒 **Posted:** 2026-11-18
