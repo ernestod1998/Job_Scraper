@@ -1,208 +1,212 @@
 # 🗃 Direct ATS Registry — Engineering / ML / DS Roles
-*Last updated: 2026-11-21 08:57 UTC*
+*Last updated: 2026-11-21 20:14 UTC*
 
-**51 new role(s)** since last run · 51 total in current registry shard
+**52 new role(s)** since last run · 52 total in current registry shard
 
-### [Software Engineering PMTS](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Software-Engineering-PMTS_JR368923) — Salesforce
-- 📍 **Location:** California - San Francisco
-- 🕒 **Posted:** 2026-11-20
-
-### [Software Engineer Infrastructure and Distributed Systems](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Software-Engineer-Infrastructure-and-Distributed-Systems_JR368687) — Salesforce
-- 📍 **Location:** California - San Francisco
-- 🕒 **Posted:** 2026-11-19
-
-### [Software Engineering AMTS (College Grad)](https://salesforce.wd12.myworkdayjobs.com/Futureforce_NewGradRoles/job/California---San-Francisco/Software-Engineering-AMTS--College-Grad-_JR368047) — Salesforce
-- 📍 **Location:** California - San Francisco
-- 🕒 **Posted:** 2026-11-11
-
-### [Presales Solutions Architect - Dell](https://shi.wd12.myworkdayjobs.com/shicareers/job/US---TX---Home-Office/Presales-Solutions-Architect---Dell_JR4000) — SHI International
-- 📍 **Location:** US - Remote
+### [Member of Technical Staff - Product Engineer (Console/API)](https://jobs.ashbyhq.com/liquid-ai/3914c96f-0fbe-4bae-92fa-5a98f9a927f1) — Liquid AI
+- 📍 **Location:** San Francisco
 - 🕒 **Posted:** 2026-11-18
 
-### [Data Scientist, Dynamic Pricing](https://turo.wd12.myworkdayjobs.com/Turo_careers/job/San-Francisco/Data-Scientist--Dynamic-Pricing_R-102761) — Turo
+### [Member of Technical Staff -  GPU Inference Engineer ](https://jobs.ashbyhq.com/liquid-ai/bc1f64c2-d0d0-495b-b70f-edf7bd520dd6) — Liquid AI
 - 📍 **Location:** San Francisco
 - 🕒 **Posted:** 2026-11-19
 
-### [Software Engineer III](https://walmart.wd504.myworkdayjobs.com/Non-WorkdayInternal/job/Sunnyvale-CA/Software-Engineer-III_R-2709823) — Walmart
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-11-19
+### [Member of Technical Staff - Evaluations ](https://jobs.ashbyhq.com/liquid-ai/a9f4af46-7714-4ec4-8a74-eb1c903aa5f5) — Liquid AI
+- 📍 **Location:** San Francisco
+- 🕒 **Posted:** 2026-11-10
 
-### [Software Engineer III](https://walmart.wd504.myworkdayjobs.com/Non-WorkdayInternal/job/Hoboken-NJ/Software-Engineer-III_R-2709828-1) — Walmart
-- 📍 **Location:** Hoboken, NJ
-- 🕒 **Posted:** 2026-11-19
+### [Software Engineer, Agents ](https://jobs.ashbyhq.com/mirage/e3ea3be5-779b-4488-813b-7debc6996c45) — Mirage
+- 📍 **Location:** Union Square, New York City
+- 🕒 **Posted:** 2026-11-14
 
-### [Software Engineer III](https://walmart.wd504.myworkdayjobs.com/Non-WorkdayInternal/job/Sunnyvale-CA/Software-Engineer-III_R-2709805) — Walmart
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-11-19
+### [Software Engineer, AI Developer Platform ](https://jobs.ashbyhq.com/mirage/894f89d9-8687-462f-8040-9ac535214885) — Mirage
+- 📍 **Location:** Union Square, New York City
+- 🕒 **Posted:** 2026-11-14
 
-### [Software Engineer III, DevOps](https://walmart.wd504.myworkdayjobs.com/Non-WorkdayInternal/job/Sunnyvale-CA/Software-Engineer-III--DevOps_R-2709818) — Walmart
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-11-19
+### [Software Engineer, Backend ](https://jobs.ashbyhq.com/mirage/5de29162-c5ca-41ad-b8fa-e4bfa8a2b145) — Mirage
+- 📍 **Location:** Union Square, New York City
+- 🕒 **Posted:** 2026-11-14
 
-### [Member of Technical Staff, Machine Learning](https://jobs.ashbyhq.com/Abridge/097490e8-48c6-46e3-a0ce-882151fb4fa2) — Abridge
-- 📍 **Location:** SF Office
-- 🕒 **Posted:** 2026-11-18
+### [Software Engineer, iOS](https://jobs.ashbyhq.com/mirage/d9805fdf-950e-45ec-b9be-be18f1cb6b5e) — Mirage
+- 📍 **Location:** Union Square, New York City
+- 🕒 **Posted:** 2026-11-14
 
-### [Computer Vision Engineer](https://jobs.ashbyhq.com/applied/a2ddad24-2147-406f-81c9-a88f8acc77c2) — Applied Intuition
-- 📍 **Location:** Sunnyvale
+### [Software Engineer, 3D Rendering](https://jobs.ashbyhq.com/mirage/e1da4a65-5b18-4a9b-873e-5b261a350104) — Mirage
+- 📍 **Location:** Union Square, New York City
+- 🕒 **Posted:** 2026-11-14
+
+### [Research Engineer, Reinforcement Learning Systems](https://jobs.ashbyhq.com/mistral.ai/74b8a9d7-f014-4a57-86aa-42be4896bf57) — Mistral AI
+- 📍 **Location:** Palo Alto
+- 🕒 **Posted:** 2026-11-17
+
+### [Early Software Engineer (AI-Native)](https://jobs.ashbyhq.com/multiplyai/5b30aa69-b2a6-480b-b5b9-3ad5d67f1a55) — Multiply
+- 📍 **Location:** San Francisco
+- 🕒 **Posted:** 2026-11-20
+
+### [Junior AI/ML Engineer](https://jobs.ashbyhq.com/netholabs/a16457f4-63a5-4a75-82d4-04ea2fc4e393) — Netholabs
+- 📍 **Location:** San Francisco
 - 🕒 **Posted:** 2026-11-09
 
-### [Software Engineer - Controls](https://jobs.ashbyhq.com/applied/351d255a-42cf-43ec-b2f1-2a15369415d1) — Applied Intuition
-- 📍 **Location:** Sunnyvale
-- 🕒 **Posted:** 2026-11-10
-
-### [Software Engineer - Cloud Platform](https://jobs.ashbyhq.com/baseten/bbf1b1a9-c90e-438d-8e5c-2bac67cc8df0) — Baseten
+### [Machine Learning Engineer ](https://jobs.ashbyhq.com/netholabs/d4a9d940-54ab-4483-a5b2-cd54ba904021) — Netholabs
 - 📍 **Location:** San Francisco
-- 🕒 **Posted:** 2026-11-13
+- 🕒 **Posted:** 2026-11-09
 
-### [Software Engineer - Inference Product](https://jobs.ashbyhq.com/baseten/fddec35f-9dbc-4344-b1df-b8ff6e05472a) — Baseten
-- 📍 **Location:** San Francisco
+### [Robotics Engineer](https://jobs.ashbyhq.com/nidus-technologies/daba56ea-48ff-46ed-a573-aad8a4f10604) — Nidus Technologies
+- 📍 **Location:** New York City
+- 🕒 **Posted:** 2026-11-09
+
+### [Software Engineer, Web Infrastructure](https://jobs.ashbyhq.com/notion/06c2599d-4dd5-4f97-843f-7194b546f042) — Notion
+- 📍 **Location:** San Francisco, California
+- 🕒 **Posted:** 2026-11-09
+
+### [Software Engineer, Collections Infra](https://jobs.ashbyhq.com/notion/0fb1f7e2-ffe4-433c-a27d-62fa7f1d880f) — Notion
+- 📍 **Location:** San Francisco, California
 - 🕒 **Posted:** 2026-11-19
 
-### [Software Engineer, iOS/Mobile](https://jobs.ashbyhq.com/beaconai/dcd30454-b8c7-4a13-b0dd-ec590b5632fd) — Beacon AI
-- 📍 **Location:** San Carlos  - Hybrid
-- 🕒 **Posted:** 2026-11-17
+### [Member of Technical Staff, Forward Deployed Machine Learning Engineer](https://jobs.ashbyhq.com/odysseyml/1b82838a-f5c9-4246-86bf-f6f40993736b) — Odyssey
+- 📍 **Location:** Palo Alto
+- 🕒 **Posted:** 2026-11-08
 
-### [Software Engineer, Frontend/Web App](https://jobs.ashbyhq.com/beaconai/58b0c4e6-4f5c-4833-891f-3d50082a4c39) — Beacon AI
-- 📍 **Location:** San Carlos  - Hybrid
-- 🕒 **Posted:** 2026-11-16
-
-### [AI Product Engineer](https://jobs.ashbyhq.com/brainco/f7cdb12f-9224-4e02-bbbd-ca77e054e7d9) — Brain Co.
-- 📍 **Location:** New York City, NY
-- 🕒 **Posted:** 2026-11-12
-
-### [Forward Deployed Engineer - New Grad](https://jobs.ashbyhq.com/chalk/927c74a5-1b40-490d-b3be-a29baec4db6f) — Chalk
-- 📍 **Location:** SF
-- 🕒 **Posted:** 2026-11-10
-
-### [Machine Learning Engineer](https://jobs.ashbyhq.com/claylabs/f8d2a754-8ac4-4ba8-9c36-ed56184132a7) — Clay
-- 📍 **Location:** San Francisco
-- 🕒 **Posted:** 2026-11-13
-
-### [Member of Technical Staff](https://jobs.ashbyhq.com/Clera/4d6d4b8a-3104-4ec0-af00-cc35fa0e82d6) — Clera
-- 📍 **Location:** San Francisco
-- 🕒 **Posted:** 2026-11-17
-
-### [Fullstack Engineer](https://jobs.ashbyhq.com/Clera/ec9a9c56-3876-49df-b0c9-f8afac490c98) — Clera
-- 📍 **Location:** San Francisco
-- 🕒 **Posted:** 2026-11-17
-
-### [Data Infrastructure Engineer, Query Engine](https://jobs.ashbyhq.com/Clera/10add56b-cc60-48cd-80ca-4d2ec4081113) — Clera
-- 📍 **Location:** San Mateo
-- 🕒 **Posted:** 2026-11-17
-
-### [Platform Engineer (Kubernetes)](https://jobs.ashbyhq.com/Clera/f6fb829e-bdcd-4a37-922d-7f8834db3db0) — Clera
+### [Data Scientist, Integrity](https://jobs.ashbyhq.com/openai/f6cada21-0f54-4d8a-884e-e3c64edd4789) — OpenAI
 - 📍 **Location:** San Francisco
 - 🕒 **Posted:** 2026-11-20
 
-### [Machine Learning Engineer, Mid-Level](https://jobs.ashbyhq.com/Clera/9554e35a-bdc4-4095-95f0-210f42f31cf8) — Clera
+### [Android Engineer, Growth](https://jobs.ashbyhq.com/openai/57bbaedc-30c1-4f1d-b194-e32a6adf874c) — OpenAI
 - 📍 **Location:** San Francisco
-- 🕒 **Posted:** 2026-11-20
+- 🕒 **Posted:** 2026-11-09
 
-### [Research Engineer, Privacy and Anonymization](https://jobs.ashbyhq.com/Clera/60f23b98-6ec5-4edd-ab16-6938e4eb5baa) — Clera
+### [Software Engineer, Presence ](https://jobs.ashbyhq.com/openai/1327d083-c932-4aed-aadc-57586521ee60) — OpenAI
 - 📍 **Location:** San Francisco
-- 🕒 **Posted:** 2026-11-19
+- 🕒 **Posted:** 2026-11-17
 
-### [Product Engineer](https://jobs.ashbyhq.com/Clera/8a733d9f-0f5c-4c6b-a5ec-e8791275acd3) — Clera
-- 📍 **Location:** remote
+### [Full Stack Software Engineer, DotCom](https://jobs.ashbyhq.com/openai/60f8bcbc-3ca5-42f4-a73b-e864a6340a16) — OpenAI
+- 📍 **Location:** San Francisco
+- 🕒 **Posted:** 2026-11-17
+
+### [Full-Stack Software Engineer, Child Safety Tools & Systems](https://jobs.ashbyhq.com/openai/d7dfc19d-e508-4522-91fa-e31c3b612a47) — OpenAI
+- 📍 **Location:** San Francisco
+- 🕒 **Posted:** 2026-11-09
+
+### [Software Engineer, Agent Identity](https://jobs.ashbyhq.com/openai/a9a5a979-06a5-49af-95f3-7c537e3105c0) — OpenAI
+- 📍 **Location:** San Francisco
+- 🕒 **Posted:** 2026-11-18
+
+### [Full Stack Software Engineer, ChatGPT Finances](https://jobs.ashbyhq.com/openai/26cfb873-f30a-4a13-b7b6-52833ea48ec9) — OpenAI
+- 📍 **Location:** San Francisco
+- 🕒 **Posted:** 2026-11-13
+
+### [Full Stack Software Engineer, Consumer Health](https://jobs.ashbyhq.com/openai/cc1ea124-47ad-4b81-9e4e-0c69e525b62a) — OpenAI
+- 📍 **Location:** San Francisco
+- 🕒 **Posted:** 2026-11-13
+
+### [Full Stack Software Engineer, Travel](https://jobs.ashbyhq.com/openai/2320fe69-df26-4d1d-ada6-d1a46c0e68a1) — OpenAI
+- 📍 **Location:** San Francisco
 - 🕒 **Posted:** 2026-11-15
 
-### [Software Engineer](https://jobs.ashbyhq.com/Clera/65880e46-4822-449b-87e6-3ca8f93d5784) — Clera
+### [Applied Scientist, Product Policy Research & Measurement](https://jobs.ashbyhq.com/openai/73875295-889e-4373-b20f-654e85c66ba4) — OpenAI
 - 📍 **Location:** San Francisco
-- 🕒 **Posted:** 2026-11-16
+- 🕒 **Posted:** 2026-11-14
 
-### [Automation Engineer, Dealership Integrations (Software Engineer)](https://jobs.ashbyhq.com/Clera/86113ab2-201e-46d2-8cab-d1aca655764a) — Clera
-- 📍 **Location:** remote
-- 🕒 **Posted:** 2026-11-20
-
-### [Expert Talent Pool, Agents and Reinforcement Learning](https://jobs.ashbyhq.com/Clera/1fade7be-b536-4c57-bfc8-d2522b212159) — Clera
-- 📍 **Location:** remote
-- 🕒 **Posted:** 2026-11-16
-
-### [Expert Talent Pool, Agents and Reinforcement Learning (Associate, 0-5 Years)](https://jobs.ashbyhq.com/Clera/f58f1989-5446-4965-af1c-81706feb7171) — Clera
-- 📍 **Location:** remote
-- 🕒 **Posted:** 2026-11-16
-
-### [Platform Engineer](https://jobs.ashbyhq.com/Clera/890ed347-bbe9-4f0b-abd8-72994873a230) — Clera
-- 📍 **Location:** remote
-- 🕒 **Posted:** 2026-11-20
-
-### [Product Engineer](https://jobs.ashbyhq.com/Clera/58a8e48d-81d7-4e55-8603-12f469ec4602) — Clera
-- 📍 **Location:** San Francisco
-- 🕒 **Posted:** 2026-11-20
-
-### [Mid-Level Product Engineer](https://jobs.ashbyhq.com/Clera/b0732312-def9-4db7-8d79-d9d8aba37385) — Clera
-- 📍 **Location:** San Francisco
-- 🕒 **Posted:** 2026-11-20
-
-### [Software Engineer, Video Pipeline](https://jobs.ashbyhq.com/Clera/2f86e8ee-1e44-40b4-bf47-a0db71a2d246) — Clera
-- 📍 **Location:** San Francisco
-- 🕒 **Posted:** 2026-11-20
-
-### [Full-Stack Software Engineer, Design](https://jobs.ashbyhq.com/Clera/c0517878-58a9-41e0-83c6-f1d41fbf4e37) — Clera
+### [Data Science Leader, B2B Marketing & Demand Generation](https://jobs.ashbyhq.com/openai/145f2801-4c59-4e90-a847-32085d20511c) — OpenAI
 - 📍 **Location:** San Francisco
 - 🕒 **Posted:** 2026-11-19
 
-### [Product Engineer (Consumer, Design Heavy)](https://jobs.ashbyhq.com/Clera/90740d3e-aed1-4e52-b6f3-b356204ef124) — Clera
-- 📍 **Location:** Palo Alto
-- 🕒 **Posted:** 2026-11-20
-
-### [Software Engineer, Claims & AI Billing](https://jobs.ashbyhq.com/Commure/3380135f-ab20-44a4-b73f-8378ed40e1be) — Commure
-- 📍 **Location:** Mountain View, CA
-- 🕒 **Posted:** 2026-11-12
-
-### [Software Engineer, Autonomous Revenue Operations ](https://jobs.ashbyhq.com/Commure/3e3934a8-ef1e-47bc-84a9-9807b01bc666) — Commure
-- 📍 **Location:** Mountain View, CA
-- 🕒 **Posted:** 2026-11-10
-
-### [Software Engineer, Pretraining Data](https://jobs.ashbyhq.com/cursor/d06d229f-eb2c-46d7-8e0f-96da5ecaec88) — Anysphere
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-11-09
-
-### [Full-Stack Engineer (Backend Leaning) - Platform Engineering](https://jobs.ashbyhq.com/ElevenLabs/ce3d5a59-fb8c-482b-bc3f-60e44576c5e0) — ElevenLabs
-- 📍 **Location:** Remote
+### [Full Stack Software Engineer, Dots for Companies](https://jobs.ashbyhq.com/openai/7447dd43-9bf5-445f-bb8c-ba57756c8d04) — OpenAI
+- 📍 **Location:** San Francisco
 - 🕒 **Posted:** 2026-11-17
 
-### [Full-Stack Engineer (Backend Leaning) - Payments Engineering](https://jobs.ashbyhq.com/ElevenLabs/e4e0450f-d139-4f8e-b210-2f326a680d90) — ElevenLabs
-- 📍 **Location:** Remote
-- 🕒 **Posted:** 2026-11-17
+### [Member of Technical Staff, Developer Experience](https://jobs.ashbyhq.com/parallel/fa55e4f5-e580-4530-89eb-914f16f8f9f9) — Parallel Web Systems
+- 📍 **Location:** San Francisco
+- 🕒 **Posted:** 2026-11-19
 
-### [Full-Stack Engineer - ElevenAPI](https://jobs.ashbyhq.com/ElevenLabs/108c99e6-ba2b-44a0-b830-7d535e14a152) — ElevenLabs
-- 📍 **Location:** Remote
-- 🕒 **Posted:** 2026-11-09
-
-### [Full-Stack Engineer - ElevenMusic](https://jobs.ashbyhq.com/ElevenLabs/0547cf3a-856f-4db2-8307-73db634c4096) — ElevenLabs
-- 📍 **Location:** Remote
-- 🕒 **Posted:** 2026-11-17
-
-### [Software Engineer, Machine Learning](https://jobs.ashbyhq.com/ema/9728a171-9617-4533-9f03-10c14c3b6ca5) — Ema
-- 📍 **Location:** Mountain View (Hybrid)
-- 🕒 **Posted:** 2026-11-18
-
-### [Infrastructure Engineer - Labs](https://jobs.ashbyhq.com/Etched/b4ad6323-3d69-4881-a2db-e3967afbae65) — Etched.ai
-- 📍 **Location:** San Jose
+### [Member of Technical Staff, Developer Productivity](https://jobs.ashbyhq.com/parallel/769b266b-e639-4fe9-8451-46f164333bd4) — Parallel Web Systems
+- 📍 **Location:** San Francisco
 - 🕒 **Posted:** 2026-11-11
 
-### [Machine Learning Engineer ](https://jobs.ashbyhq.com/handshake/42aca7f5-2f58-40ef-a6ce-19027d32a12f) — Handshake
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-11-10
-
-### [Forward Deployed Engineer ](https://jobs.ashbyhq.com/handshake/52be2db3-794d-466e-b3be-cae5d1ab5232) — Handshake
-- 📍 **Location:** San Francisco, CA
+### [Member of Technical Staff, Core Infrastructure](https://jobs.ashbyhq.com/parallel/6b2d216d-b726-4970-80a1-d3cc735e3600) — Parallel Web Systems
+- 📍 **Location:** San Francisco
 - 🕒 **Posted:** 2026-11-20
 
-### [Product Engineer](https://jobs.ashbyhq.com/harperinsure/7d678dba-885a-4432-94c7-a9c20852db35) — Harper Group
-- 📍 **Location:** San Francisco
-- 🕒 **Posted:** 2026-11-16
+### [Software Engineer – ML Infrastructure](https://jobs.ashbyhq.com/people-culture-talent/555aac85-9640-4c91-af92-a16887f4c705) — People Culture Talent
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-11-11
 
-### [Forward Deployed Operator, Customer Operations](https://jobs.ashbyhq.com/harperinsure/d7b7ebb7-4100-4111-8066-b7c1382a3d25) — Harper Group
+### [Software Engineer](https://jobs.ashbyhq.com/PointOne/bb42f37c-8a7c-434d-aae8-089820a7171d) — PointOne
+- 📍 **Location:** New York City
+- 🕒 **Posted:** 2026-11-09
+
+### [Forward Deployed Engineer](https://jobs.ashbyhq.com/PointOne/834a8648-5581-4d69-80cb-41382928d220) — PointOne
+- 📍 **Location:** New York City
+- 🕒 **Posted:** 2026-11-09
+
+### [Product Engineer](https://jobs.ashbyhq.com/PointOne/18352be9-a049-49e0-819c-bf4b40b8db2b) — PointOne
+- 📍 **Location:** New York City
+- 🕒 **Posted:** 2026-11-09
+
+### [Solutions Engineer](https://jobs.ashbyhq.com/PointOne/ead81d8b-5d51-4d1e-bfe5-63165ad2870d) — PointOne
+- 📍 **Location:** New York City
+- 🕒 **Posted:** 2026-11-15
+
+### [Site Reliability Engineer, Data Platform](https://jobs.ashbyhq.com/revel/a7801a26-a562-423f-9cc1-6e3f3fa69430) — Revel
+- 📍 **Location:** North America | Los Angeles | San Francisco
+- 🕒 **Posted:** 2026-11-12
+
+### [Software Engineer, Embedded Systems/ Firmware](https://jobs.ashbyhq.com/rivet/b8170f55-6900-417b-9534-8c37f6346279) — Rivet Industries
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-11-17
+
+### [IT Infrastructure Engineer](https://jobs.ashbyhq.com/Sierra/742020b7-5a2a-495d-8ac9-d74d31dc91c6) — Sierra
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-11-18
+
+### [Software Engineer](https://jobs.ashbyhq.com/simple-ai/9a5f5694-e066-4087-9a13-b1a62d8d8025) — Simple AI
 - 📍 **Location:** San Francisco
 - 🕒 **Posted:** 2026-11-12
 
-### [Associate Data Scientist](https://jobs.ashbyhq.com/Jerry.ai/67b832c4-8d9f-4953-ba43-ba892d06fe8a) — Jerry
-- 📍 **Location:** New York, New York
+### [Deployment Strategist](https://jobs.ashbyhq.com/simple-ai/e226ec37-4f5b-4110-9fbf-885211fd8eff) — Simple AI
+- 📍 **Location:** San Francisco
+- 🕒 **Posted:** 2026-11-17
+
+### [Infrastructure Engineer](https://jobs.ashbyhq.com/simple-ai/1dbaca6f-92cd-4ad9-ac3f-8fe6dce7e20c) — Simple AI
+- 📍 **Location:** San Francisco
+- 🕒 **Posted:** 2026-11-12
+
+### [Forward Deployed Engineer](https://jobs.ashbyhq.com/simple-ai/652b88c5-199e-41d1-86f6-c367d737a84e) — Simple AI
+- 📍 **Location:** San Francisco
+- 🕒 **Posted:** 2026-11-12
+
+### [Solutions Engineer - Highway, Safety, and Transit](https://jobs.ashbyhq.com/skydio/4b4218a0-0025-4859-98a2-b6f2a23fc47e) — Skydio
+- 📍 **Location:** US Remote
+- 🕒 **Posted:** 2026-11-16
+
+### [Software Engineer](https://jobs.ashbyhq.com/snapmagic/d06f6752-1110-4708-9d80-8cfaf73795fe) — SnapMagic
+- 📍 **Location:** San Francisco Office
 - 🕒 **Posted:** 2026-11-20
 
-### [Data Scientist](https://jobs.ashbyhq.com/Jerry.ai/0081a0a9-e34a-4932-bf55-f6737a17b46a) — Jerry
-- 📍 **Location:** New York, New York
-- 🕒 **Posted:** 2026-11-20
+### [Software Engineer, Full-Stack - Growth Platform](https://jobs.ashbyhq.com/Superhuman%20Platform%20Inc/277e3b4a-2e6b-4638-94b5-d65986f1bb14) — Superhuman
+- 📍 **Location:** Hub - San Francisco
+- 🕒 **Posted:** 2026-11-13
+
+### [Data Scientist, Growth](https://jobs.ashbyhq.com/Superhuman%20Platform%20Inc/08d1b5f5-69e9-443a-a8df-56a9012739fb) — Superhuman
+- 📍 **Location:** Hub - San Francisco
+- 🕒 **Posted:** 2026-11-19
+
+### [Forward Deployed Engineer II](https://jobs.ashbyhq.com/swarmaero/60050a43-819f-41fd-a02b-a652d7461dce) — Swarm Aero
+- 📍 **Location:** Remote
+- 🕒 **Posted:** 2026-11-12
+
+### [Data Scientist II, Marketing](https://jobs.ashbyhq.com/thumbtack/41a2b5a1-eff3-4a32-9e5f-e51f7e7856e8) — Thumbtack
+- 📍 **Location:** Remote, United States
+- 🕒 **Posted:** 2026-11-19
+
+### [Forward Deployed Engineer, Customer Deployments](https://jobs.ashbyhq.com/titan-msp/e1e6ea7c-aadb-4e08-9f5b-f2739f52ed5c) — Titan
+- 📍 **Location:** New York City
+- 🕒 **Posted:** 2026-11-17
+
+### [Cloud Infrastructure Engineer - Platform Engineering ](https://jobs.ashbyhq.com/xona-space/5f9603fa-1412-480e-a2bb-f8b85778094f) — xona-space
+- 📍 **Location:** Burlingame, California
+- 🕒 **Posted:** 2026-11-19
+
+### [GNC Software Engineer ](https://jobs.ashbyhq.com/xona-space/727154d2-d33c-45ca-9f6a-c6ffdc4ade53) — xona-space
+- 📍 **Location:** Burlingame, California
+- 🕒 **Posted:** 2026-11-09
