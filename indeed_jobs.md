@@ -1,123 +1,119 @@
 # 🟦 Indeed — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-11-21 03:26 UTC*
+*Last updated: 2026-11-21 11:41 UTC*
 
-**24 new role(s)** since last run · 76 total in last 24h
+**24 new role(s)** since last run · 78 total in last 24h
 
-### [Machine Learning Engineer II](https://www.indeed.com/viewjob?jk=b84f769cea7fed50) — Uber
+### [Research Engineer / Scientist (SLAM)](https://www.indeed.com/viewjob?jk=9406800959c67ba2) — AMD
 - 📍 **Location:** San Francisco, CA, USA
-- 💰 **Salary:** $171k–$190k/yr
-- 🕒 **Posted:** 2026-11-20
+- 🕒 **Posted:** 2026-11-21
 
-### [Backend Engineer, WhatsApp](https://www.indeed.com/viewjob?jk=e9ee2e0756ad3116) — Meta
+### [Research Engineer / Scientist (Robot Learning)](https://www.indeed.com/viewjob?jk=e5122a493348c653) — AMD
+- 📍 **Location:** San Francisco, CA, USA
+- 🕒 **Posted:** 2026-11-21
+
+### [Member of Technical Staff, Generalist - Supercompute](https://www.indeed.com/viewjob?jk=83cf663249a8ea03) — dmodel
+- 📍 **Location:** San Francisco, CA, USA
+- 💰 **Salary:** $200k–$300k/yr
+- 🕒 **Posted:** 2026-11-21
+
+### [Full Stack Engineer, Central Integrity](https://www.indeed.com/viewjob?jk=3e5f049391ada93c) — Meta
 - 📍 **Location:** Menlo Park, CA, USA
 - 💰 **Salary:** $184k–$257k/yr
-- 🕒 **Posted:** 2026-11-20
+- 🕒 **Posted:** 2026-11-21
 
-### [AI Data Foundation Research Engineer](https://www.indeed.com/viewjob?jk=eae68b78c5ca98b2) — Hewlett Packard Enterprise | HPE
-- 📍 **Location:** Milpitas, CA, USA
-- 💰 **Salary:** $148k–$282k/yr
-- 🕒 **Posted:** 2026-11-20
+### [Software Engineer, Audio](https://www.indeed.com/viewjob?jk=d55b08f96f7180cb) — Meta
+- 📍 **Location:** Burlingame, CA, USA
+- 💰 **Salary:** $154k–$217k/yr
+- 🕒 **Posted:** 2026-11-21
 
-### [Software Engineer, Data Infrastructure (C++)](https://www.indeed.com/viewjob?jk=4eb3789dd3768959) — Bot Auto
-- 📍 **Location:** San Jose, CA, USA
-- 🕒 **Posted:** 2026-11-20
-
-### [iOS Engineer, WhatsApp](https://www.indeed.com/viewjob?jk=dcf1e1b130b85292) — Meta
-- 📍 **Location:** Menlo Park, CA, USA
-- 💰 **Salary:** $184k–$257k/yr
-- 🕒 **Posted:** 2026-11-20
-
-### [Android Engineer (Technical Leadership), WhatsApp](https://www.indeed.com/viewjob?jk=d9125048c54e6b42) — Meta
-- 📍 **Location:** Menlo Park, CA, USA
-- 💰 **Salary:** $219k–$301k/yr
-- 🕒 **Posted:** 2026-11-20
-
-### [Member of Technical Staff, Model Training](https://www.indeed.com/viewjob?jk=f96f61809b825044) — Parallel Web Systems
-- 📍 **Location:** Palo Alto, CA, USA
-- 💰 **Salary:** $150k–$300k/yr
-- 🕒 **Posted:** 2026-11-20
-
-### [Software Engineer III (Full Time) - United States](https://www.indeed.com/viewjob?jk=dcf4c03392c8b81b) — Cisco
-- 📍 **Location:** San Jose, CA, USA
-- 💰 **Salary:** $138k–$256k/yr
-- 🕒 **Posted:** 2026-11-20
-
-### [Assoc Software Engineer](https://www.indeed.com/viewjob?jk=07ee82d4e62b120e) — ServiceNow
-- 📍 **Location:** Santa Clara, CA, USA
-- 💰 **Salary:** $121k–$136k/yr
-- 🕒 **Posted:** 2026-11-20
-
-### [Member of Technical Staff, Back-end & API](https://www.indeed.com/viewjob?jk=73c1401e79a01fa4) — Parallel Web Systems
-- 📍 **Location:** Palo Alto, CA, USA
-- 💰 **Salary:** $150k–$300k/yr
-- 🕒 **Posted:** 2026-11-20
-
-### [Full Stack Engineer](https://www.indeed.com/viewjob?jk=bb4ca9a68d2c1538) — Robotics Technologies
-- 📍 **Location:** San Jose, CA, USA
-- 💰 **Salary:** $77/hr
-- 🕒 **Posted:** 2026-11-20
-
-### [Full Stack Developer- PHP](https://www.indeed.com/viewjob?jk=1f947886241a8512) — JP Techno Park
-- 📍 **Location:** Santa Clara, CA, USA
-- 💰 **Salary:** $120k–$130k/yr
-- 🕒 **Posted:** 2026-11-20
-
-### [Member of Technical Staff, Developer Experience](https://www.indeed.com/viewjob?jk=1ff4106175dfe4eb) — Parallel Web Systems
-- 📍 **Location:** Palo Alto, CA, USA
-- 💰 **Salary:** $150k–$300k/yr
-- 🕒 **Posted:** 2026-11-20
-
-### [Software Development Engineer](https://www.indeed.com/viewjob?jk=9ae03c0b3995eecf) — Zscaler
-- 📍 **Location:** Santa Clara, CA, USA
-- 💰 **Salary:** $102k–$145k/yr
-- 🕒 **Posted:** 2026-11-20
-
-### [Software Engineer III, Workforce Automation - Hybrid (Remote Considered) - 26-132](https://www.indeed.com/viewjob?jk=0af334258bdceac1) — Hill Physicians Medical Group
-- 📍 **Location:** San Ramon, CA, USA
-- 💰 **Salary:** $109k–$144k/yr
-- 🕒 **Posted:** 2026-11-20
-
-### [Member of Technical Staff, Core Infrastructure](https://www.indeed.com/viewjob?jk=3ef93bedc03aae32) — Parallel Web Systems
+### [Member of Technical Staff: Alignment](https://www.indeed.com/viewjob?jk=c2d2c9b097b93d2b) — dmodel
 - 📍 **Location:** San Francisco, CA, USA
-- 💰 **Salary:** $150k–$300k/yr
-- 🕒 **Posted:** 2026-11-20
+- 💰 **Salary:** $150k–$220k/yr
+- 🕒 **Posted:** 2026-11-21
 
-### [Self-Built CDN Platform Engineer](https://www.indeed.com/viewjob?jk=2468286bc143e30a) — ByteDance
+### [Robotics Machine Learning Engineer](https://www.indeed.com/viewjob?jk=d8590c79df041215) — PANTOGRAPH
+- 📍 **Location:** San Francisco, CA, USA
+- 💰 **Salary:** $150k–$260k/yr
+- 🕒 **Posted:** 2026-11-21
+
+### [Data Scientist II, Region Flexibility](https://www.indeed.com/viewjob?jk=3098611180fe4ac7) — Amazon.com
+- 📍 **Location:** Sunnyvale, CA, USA
+- 💰 **Salary:** $157k–$213k/yr
+- 🕒 **Posted:** 2026-11-21
+
+### [Open Source Research Software Engineer: Computational Infrastructure (0652) Job #87957 - Berkeley In](https://www.indeed.com/viewjob?jk=e627bcd3fac0415b) — University of California Berkeley
+- 📍 **Location:** Berkeley, CA, USA
+- 💰 **Salary:** $105k–$196k/yr
+- 🕒 **Posted:** 2026-11-21
+
+### [Software Engineer, Devops Platform Engineering](https://www.indeed.com/viewjob?jk=b96d10dec32ac586) — AMD
 - 📍 **Location:** San Jose, CA, USA
-- 💰 **Salary:** $162k–$388k/yr
-- 🕒 **Posted:** 2026-11-20
+- 🕒 **Posted:** 2026-11-21
 
-### [Bioinformatics Associate, Prenatal](https://www.indeed.com/viewjob?jk=5cccf2fe75ac60f6) — BillionToOne
-- 📍 **Location:** Menlo Park, CA, USA
-- 💰 **Salary:** $87k–$97k/yr
-- 🕒 **Posted:** 2026-11-20
+### [HW/SW Interface Software Engineer](https://www.indeed.com/viewjob?jk=6535c263b20183af) — Apple
+- 📍 **Location:** Cupertino, CA, USA
+- 💰 **Salary:** $150k–$278k/yr
+- 🕒 **Posted:** 2026-11-21
 
-### [Member of Technical Staff, Search Ranking](https://www.indeed.com/viewjob?jk=ebe4d9743ae64ca6) — Parallel Web Systems
-- 📍 **Location:** Palo Alto, CA, USA
-- 💰 **Salary:** $150k–$300k/yr
-- 🕒 **Posted:** 2026-11-20
+### [Software Development Engineer – Apps, Identity Management Services](https://www.indeed.com/viewjob?jk=094b306af0c5c333) — Apple
+- 📍 **Location:** Sunnyvale, CA, USA
+- 💰 **Salary:** $185k–$278k/yr
+- 🕒 **Posted:** 2026-11-21
 
-### [Member of Technical Staff, Core Infrastructure](https://www.indeed.com/viewjob?jk=6306346b844d2d09) — Parallel Web Systems
-- 📍 **Location:** Palo Alto, CA, USA
-- 💰 **Salary:** $150k–$300k/yr
-- 🕒 **Posted:** 2026-11-20
+### [Embedded SDE II, Hardware Engineering Services](https://www.indeed.com/viewjob?jk=365f4f4a6e2d4626) — Amazon.com
+- 📍 **Location:** Cupertino, CA, USA
+- 💰 **Salary:** $165k–$224k/yr
+- 🕒 **Posted:** 2026-11-21
 
-### [Machine Learning Engineer II](https://www.indeed.com/viewjob?jk=d3e49a077aa34c5c) — Uber
+### [Software Engineer](https://www.indeed.com/viewjob?jk=e22158c6c61d0681) — SnapMagic
+- 📍 **Location:** San Francisco, CA, USA
+- 💰 **Salary:** $160k–$200k/yr
+- 🕒 **Posted:** 2026-11-21
+
+### [Software Engineer, Video Pipeline](https://www.indeed.com/viewjob?jk=c39b99e912064b26) — CLERA
+- 📍 **Location:** San Francisco, CA, USA
+- 💰 **Salary:** $225k–$330k/yr
+- 🕒 **Posted:** 2026-11-21
+
+### [Member of Technical Staff (Infrastructure)](https://www.indeed.com/viewjob?jk=508301f53d46dafe) — MaxInsights
+- 📍 **Location:** Santa Clara, CA, USA
+- 🕒 **Posted:** 2026-11-21
+
+### [Applied Scientist , Sponsored Products](https://www.indeed.com/viewjob?jk=68f99bc16d5af06f) — Amazon.com
 - 📍 **Location:** New York, NY, USA
-- 💰 **Salary:** $171k–$190k/yr
-- 🕒 **Posted:** 2026-11-20
+- 💰 **Salary:** $143k–$223k/yr
+- 🕒 **Posted:** 2026-11-21
 
-### [Software Engineer](https://www.indeed.com/viewjob?jk=013ba4d1e3258f25) — MSCI
+### [AI Solutions Engineer](https://www.indeed.com/viewjob?jk=328e9217abc0ade0) — WTW
 - 📍 **Location:** New York, NY, USA
-- 💰 **Salary:** $133k–$173k/yr
-- 🕒 **Posted:** 2026-11-20
+- 🕒 **Posted:** 2026-11-21
 
-### [Software Engineer - Private capital index calculation](https://www.indeed.com/viewjob?jk=69f41615be1a10f0) — MSCI
+### [Software Development Engineer, Amazon Legal Technologies](https://www.indeed.com/viewjob?jk=01a4a15660f7ea93) — Amazon.com
 - 📍 **Location:** New York, NY, USA
-- 💰 **Salary:** $133k–$173k/yr
-- 🕒 **Posted:** 2026-11-20
+- 💰 **Salary:** $158k–$214k/yr
+- 🕒 **Posted:** 2026-11-21
 
-### [Member of Technical Staff, Core Infrastructure](https://www.indeed.com/viewjob?jk=06c5a638a2cabe6e) — Parallel Web Systems
+### [Python / Agentic AI Software Engineer III](https://www.indeed.com/viewjob?jk=884f688d43c077b2) — JPMorganChase
+- 📍 **Location:** Jersey City, NJ, USA
+- 💰 **Salary:** $138k–$185k/yr
+- 🕒 **Posted:** 2026-11-21
+
+### [Software Engineer III - Salesforce](https://www.indeed.com/viewjob?jk=eacc288fd107eafb) — JPMorganChase
+- 📍 **Location:** Jersey City, NJ, USA
+- 💰 **Salary:** $138k–$185k/yr
+- 🕒 **Posted:** 2026-11-21
+
+### [Software Engineer III- Mainframe](https://www.indeed.com/viewjob?jk=f0de70695d0b4ebd) — JPMorganChase
+- 📍 **Location:** Jersey City, NJ, USA
+- 💰 **Salary:** $138k–$185k/yr
+- 🕒 **Posted:** 2026-11-21
+
+### [Software Engineer III - Selenium Automation](https://www.indeed.com/viewjob?jk=5964e2e1d9ccd5b1) — JPMorganChase
+- 📍 **Location:** Jersey City, NJ, USA
+- 💰 **Salary:** $138k–$185k/yr
+- 🕒 **Posted:** 2026-11-21
+
+### [Partner Solutions Architect, Global Partner Tech](https://www.indeed.com/viewjob?jk=3ae6da5f4fc54ac8) — Amazon.com
 - 📍 **Location:** New York, NY, USA
-- 💰 **Salary:** $150k–$300k/yr
-- 🕒 **Posted:** 2026-11-20
+- 💰 **Salary:** $144k–$195k/yr
+- 🕒 **Posted:** 2026-11-21
