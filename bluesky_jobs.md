@@ -1,12 +1,12 @@
 # 🦋 Bluesky — Hiring Posts
-*Last updated: 2026-11-20 22:21 UTC*
+*Last updated: 2026-11-21 11:44 UTC*
 
-**2 new role(s)** since last run · 6 total in recent Bluesky hiring posts
+**2 new role(s)** since last run · 8 total in recent Bluesky hiring posts
 
-### [Research Software Engineering, Oxford UK topos.institute/blog/2026-11…](https://bsky.app/profile/toposinstitute.newsmast.social.ap.brid.gy/post/3n2qqfyw3pvq2) — ToposInstitute
-- 📍 **Location:** Type theory, Berkeley CA topos
+### [Software Engineer III role open](https://bsky.app/profile/tryremote.bsky.social/post/3n2rsrg4xuq2h) — Humata Health
+- 📍 **Location:** Remote (US)
 - 🕒 **Posted:** 2026-11-20
 
-### [Research Software Engineering, Oxford UK topos.institute/blog/2026-11...](https://bsky.app/profile/toposinstitute.bsky.social/post/3n2qqft3sxs2n) — Topos Institute
-- 📍 **Location:** Type theory, Berkeley CA topos
-- 🕒 **Posted:** 2026-11-20
+### [Solutions Engineer](https://bsky.app/profile/remotestake.com/post/3n2sqs7voug2k) — Pinecone
+- 📍 **Location:** 207k–$240k · San Francisco · New York City ·
+- 🕒 **Posted:** 2026-11-21
