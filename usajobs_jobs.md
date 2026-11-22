@@ -1,6 +1,6 @@
 # 🇺🇸 USAJOBS — Federal Roles
-*Last updated: 2026-11-21 21:05 UTC*
+*Last updated: 2026-11-22 21:14 UTC*
 
-**0 new role(s)** since last run · 1 total in current USAJOBS postings
+**0 new role(s)** since last run · 0 total in current USAJOBS postings
 
 No new federal roles since the last run.
