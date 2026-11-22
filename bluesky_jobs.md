@@ -1,16 +1,12 @@
 # 🦋 Bluesky — Hiring Posts
-*Last updated: 2026-11-22 11:57 UTC*
+*Last updated: 2026-11-22 21:13 UTC*
 
-**3 new role(s)** since last run · 5 total in recent Bluesky hiring posts
+**2 new role(s)** since last run · 6 total in recent Bluesky hiring posts
 
-### [Software Engineer II at Renaissance in Remote - United States. Apply → https://tryremote.com/remote-jobs/463426-software-engineer-ii-renaissance](https://bsky.app/profile/tryremote.bsky.social/post/3n2tp4mjxql2n) — TRYremote
-- 📍 **Location:** Remote (US)
-- 🕒 **Posted:** 2026-11-21
-
-### [Software Engineer (Go)](https://bsky.app/profile/jobsinuk.bsky.social/post/3n2ta3bcl6327) — Paddle
+### [Forward Deployed Engineer](https://bsky.app/profile/jobsinuk.bsky.social/post/3n2vxsmmojd2p) — Leena AI
 - 📍 **Location:** Remote
-- 🕒 **Posted:** 2026-11-21
+- 🕒 **Posted:** 2026-11-22
 
-### [New on tryremote.com: Forward Deployed Engineer at Tiger Analytics, Remote - United States](https://bsky.app/profile/tryremote.bsky.social/post/3n2udadv3pa2a) — TRYremote
-- 📍 **Location:** Remote (US)
-- 🕒 **Posted:** 2026-11-21
+### [PreSales Solutions Engineer](https://bsky.app/profile/spotdhire.bsky.social/post/3n2vuxomvw72b) — Sumo Logic
+- 📍 **Location:** Remote
+- 🕒 **Posted:** 2026-11-22
