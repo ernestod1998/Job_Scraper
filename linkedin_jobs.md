@@ -1,9 +1,6 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-11-22 04:17 UTC*
+*Last updated: 2026-11-22 08:44 UTC*
 
-**1 new role(s)** since last run · 4 total in last 1h
+**0 new role(s)** since last run · 0 total in last 1h
 
-### [Software Engineer (SDS Hardware-in-the-Loop)](https://www.linkedin.com/jobs/view/4461921799/) — Applied Intuition
-- 📍 **Location:** Sunnyvale, CA
-- 💰 **Salary:** $125,000.00/yr - $220,000.00/yr
-- 🕒 **Posted:** 2026-11-21
+No new roles since the last run.
