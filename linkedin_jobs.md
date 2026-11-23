@@ -1,52 +1,22 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-11-23 03:17 UTC*
+*Last updated: 2026-11-23 04:17 UTC*
 
-**10 new role(s)** since last run · 10 total in last 1h
+**4 new role(s)** since last run · 9 total in last 1h
 
-### [Full Stack Engineer](https://www.linkedin.com/jobs/view/4493608325/) — AfterQuery Experts
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $50.00/hr - $100.00/hr
+### [Software Engineer](https://www.linkedin.com/jobs/view/4493595232/) — Haystack
+- 📍 **Location:** Santa Clara County, CA
 - 🕒 **Posted:** 2026-11-22
 
-### [Frontend Engineer](https://www.linkedin.com/jobs/view/4493399498/) — AfterQuery Experts
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $50.00/hr - $100.00/hr
+### [Robotics Software Engineer (C++ & Python)](https://www.linkedin.com/jobs/view/4493399604/) — Simbe
+- 📍 **Location:** San Francisco Bay Area
+- 💰 **Salary:** $120,000.00/yr - $170,000.00/yr
 - 🕒 **Posted:** 2026-11-22
 
-### [Backend Engineer](https://www.linkedin.com/jobs/view/4493396599/) — AfterQuery Experts
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $50.00/hr - $100.00/hr
-- 🕒 **Posted:** 2026-11-22
-
-### [Software Engineer](https://www.linkedin.com/jobs/view/4493600457/) — AfterQuery Experts
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $50.00/hr - $100.00/hr
-- 🕒 **Posted:** 2026-11-22
-
-### [Software Developer](https://www.linkedin.com/jobs/view/4493611073/) — AfterQuery Experts
+### [Software Engineer, Infrastructure (4+ yrs) at Blockit, San Francisco: Sequoia-Backed AI Agent With All-Inbound Growth](https://www.linkedin.com/jobs/view/4493701001/) — Harper
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-11-22
 
-### [Full Stack Engineer](https://www.linkedin.com/jobs/view/4493608327/) — AfterQuery Experts
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $50.00/hr - $100.00/hr
-- 🕒 **Posted:** 2026-11-22
-
-### [Backend Engineer](https://www.linkedin.com/jobs/view/4493393661/) — AfterQuery Experts
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-11-22
-
-### [Frontend Engineer](https://www.linkedin.com/jobs/view/4493607363/) — AfterQuery Experts
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $50.00/hr - $100.00/hr
-- 🕒 **Posted:** 2026-11-22
-
-### [Software Developer](https://www.linkedin.com/jobs/view/4493601466/) — AfterQuery Experts
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $50.00/hr - $100.00/hr
-- 🕒 **Posted:** 2026-11-22
-
-### [Software Engineer](https://www.linkedin.com/jobs/view/4493609274/) — AfterQuery Experts
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $50.00/hr - $100.00/hr
+### [Forward Deployed Engineer (enterprise)](https://www.linkedin.com/jobs/view/4492364825/) — AustinWorks
+- 📍 **Location:** San Francisco Bay Area
+- 💰 **Salary:** $300,000.00/yr - $400,000.00/yr
 - 🕒 **Posted:** 2026-11-22
