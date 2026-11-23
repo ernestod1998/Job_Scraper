@@ -1,176 +1,130 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-11-23 18:18 UTC*
+*Last updated: 2026-11-23 19:19 UTC*
 
-**40 new role(s)** since last run · 52 total in last 1h
+**30 new role(s)** since last run · 48 total in last 1h
 
-### [Member of Technical Staff, AI Data and Evals Engineer at Tech Careers](https://www.linkedin.com/jobs/view/4493682695/) — MeeBoss
+### [Forward Deployed Engineer | Python | API's | AWS | Docker | Kubernetes | Hybrid | San Francisco, CA](https://www.linkedin.com/jobs/view/4494042352/) — Enigma
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-11-23
 
-### [Deployment Engineer, AI Platform](https://www.linkedin.com/jobs/view/4494029654/) — Intelix.AI
-- 📍 **Location:** San Francisco Bay Area
+### [Software Engineer, ML Infrastructure, ML Platform Level 5](https://www.linkedin.com/jobs/view/4493687862/) — Snap Inc.
+- 📍 **Location:** Sunnyvale, CA
 - 🕒 **Posted:** 2026-11-23
 
-### [Applied Researcher 4 (AI Foundations, LLM Core and Agentic AI)](https://www.linkedin.com/jobs/view/4469531994/) — Capital One
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-11-23
-
-### [Software Engineer](https://www.linkedin.com/jobs/view/4492651042/) — Applied Materials
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-11-23
-
-### [Operations Research Data Scientist](https://www.linkedin.com/jobs/view/4485859604/) — Pacer Group
-- 📍 **Location:** Menlo Park, CA
-- 🕒 **Posted:** 2026-11-23
-
-### [Software Engineer](https://www.linkedin.com/jobs/view/4494046023/) — Jack
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $180,000.00/yr - $280,000.00/yr
-- 🕒 **Posted:** 2026-11-23
-
-### [AI Research Scientist | Machine Learning | Deep Learning |Natural Language Processing | LLM | Hybrid | San Jose, CA](https://www.linkedin.com/jobs/view/4494017852/) — Enigma
+### [Applied Scientist, Recommendation, E-Commerce Alliance](https://www.linkedin.com/jobs/view/4494033749/) — TikTok
 - 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-11-23
 
-### [Member of Technical Staff (Model Behavior)](https://www.linkedin.com/jobs/view/4467892767/) — Perplexity
-- 📍 **Location:** Palo Alto, CA
-- 💰 **Salary:** $200,000.00/yr - $330,000.00/yr
-- 🕒 **Posted:** 2026-11-23
-
-### [DevOps Machine Learning Infrastructure](https://www.linkedin.com/jobs/view/4494029473/) — Syntiant Corp.
-- 📍 **Location:** Redwood City, CA
-- 💰 **Salary:** $185,000.00/yr - $215,000.00/yr
-- 🕒 **Posted:** 2026-11-23
-
-### [Platform Software Engineer](https://www.linkedin.com/jobs/view/4492630909/) — Oracle
-- 📍 **Location:** Pleasanton, CA
-- 🕒 **Posted:** 2026-11-23
-
-### [Forward Deployed Engineer](https://www.linkedin.com/jobs/view/4486081798/) — Syntiant Corp.
-- 📍 **Location:** Redwood City, CA
-- 💰 **Salary:** $195,000.00/yr - $225,000.00/yr
-- 🕒 **Posted:** 2026-11-23
-
-### [Platform Software Engineer](https://www.linkedin.com/jobs/view/4492651050/) — Oracle
-- 📍 **Location:** Redwood City, CA
-- 🕒 **Posted:** 2026-11-23
-
-### [Platform Software Engineer](https://www.linkedin.com/jobs/view/4492640383/) — Oracle
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-11-23
-
-### [Software Engineer](https://www.linkedin.com/jobs/view/4492631867/) — Applied Materials
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-11-23
-
-### [Machine Learning Engineer](https://www.linkedin.com/jobs/view/4494046090/) — Evlo AI
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-11-23
-
-### [Forward Deployed AI Engineer](https://www.linkedin.com/jobs/view/4493681728/) — CompSciPrep
-- 📍 **Location:** New York City Metropolitan Area
-- 💰 **Salary:** $200,000.00/yr - $225,000.00/yr
-- 🕒 **Posted:** 2026-11-23
-
-### [Biostatistician II](https://www.linkedin.com/jobs/view/4480690915/) — Public Health Institute
-- 📍 **Location:** Berkeley, CA
-- 🕒 **Posted:** 2026-11-23
-
-### [Data Science Analyst - Growth, Marketing & Sales](https://www.linkedin.com/jobs/view/4493683807/) — McKinsey & Company
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-11-23
-
-### [Software Engineer](https://www.linkedin.com/jobs/view/4493672858/) — Flow
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $130,000.00/yr - $230,000.00/yr
-- 🕒 **Posted:** 2026-11-23
-
-### [Data & AI Solution Architect - North America](https://www.linkedin.com/jobs/view/4493677869/) — Quantexa
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $160,000.00/yr - $200,000.00/yr
-- 🕒 **Posted:** 2026-11-23
-
-### [Full-Stack Developer](https://www.linkedin.com/jobs/view/4490383923/) — Marotta Controls
-- 📍 **Location:** Parsippany, NJ
-- 🕒 **Posted:** 2026-11-23
-
-### [AI Software Engineer - (Java)](https://www.linkedin.com/jobs/view/4491956830/) — BeaconFire Inc.
-- 📍 **Location:** New York City Metropolitan Area
-- 💰 **Salary:** $62,000.00/yr - $80,000.00/yr
-- 🕒 **Posted:** 2026-11-23
-
-### [Product Engineer](https://www.linkedin.com/jobs/view/4454565966/) — Revivn
-- 📍 **Location:** Brooklyn, NY
-- 🕒 **Posted:** 2026-11-23
-
-### [Site Reliability Engineer](https://www.linkedin.com/jobs/view/4494046093/) — Evlo AI
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-11-23
-
-### [Software Engineer](https://www.linkedin.com/jobs/view/4494024497/) — Haystack
+### [Research Engineer | Post-Training | LLM | Large Language Models | Python | PyTorch | San Francisco, CA](https://www.linkedin.com/jobs/view/4494048200/) — Enigma
 - 📍 **Location:** San Francisco Bay Area
 - 🕒 **Posted:** 2026-11-23
 
-### [Cellular Software Development Engineer](https://www.linkedin.com/jobs/view/4494025494/) — Hallmark Global Solutions Ltd
+### [Machine Learning Engineer, Generative ML, Level 4](https://www.linkedin.com/jobs/view/4493687908/) — Snap Inc.
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-11-23
+
+### [Software Engineer, Specs Lenses C++, Level 5](https://www.linkedin.com/jobs/view/4493695404/) — Snap Inc.
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-11-23
+
+### [Software Development Engineer, Playback Insights & Optimization](https://www.linkedin.com/jobs/view/4493692557/) — Audible
+- 📍 **Location:** Newark, NJ
+- 🕒 **Posted:** 2026-11-23
+
+### [Forward Deployed Engineer](https://www.linkedin.com/jobs/view/4491167049/) — Mitchell Martin Inc.
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $73.00/hr - $83.00/hr
+- 🕒 **Posted:** 2026-11-23
+
+### [Solutions Architect](https://www.linkedin.com/jobs/view/4492651298/) — JustBacked
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-11-23
+
+### [Software Engineer, Agents](https://www.linkedin.com/jobs/view/4493908080/) — MoonPay
+- 📍 **Location:** New York City Metropolitan Area
+- 🕒 **Posted:** 2026-11-23
+
+### [Software Development Engineer](https://www.linkedin.com/jobs/view/4493695449/) — Amazon
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-11-23
+
+### [Full Stack AWS Solutions Architect](https://www.linkedin.com/jobs/view/4494052030/) — Apptad
+- 📍 **Location:** South San Francisco, CA
+- 🕒 **Posted:** 2026-11-23
+
+### [Cloud Infrastructure Engineer](https://www.linkedin.com/jobs/view/4492454356/) — COGENT Infotech
+- 📍 **Location:** White Plains, NY
+- 🕒 **Posted:** 2026-11-23
+
+### [Software Engineer, Backend, Level 5](https://www.linkedin.com/jobs/view/4493695603/) — Snap Inc.
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-11-23
+
+### [Software Engineer (Party Cell)](https://www.linkedin.com/jobs/view/4494045338/) — Nex
+- 📍 **Location:** San Jose, CA
+- 💰 **Salary:** $100,000.00/yr - $130,000.00/yr
+- 🕒 **Posted:** 2026-11-23
+
+### [Software Engineer](https://www.linkedin.com/jobs/view/4486413742/) — Kaleidoscope Innovation
+- 📍 **Location:** Cupertino, CA
+- 💰 **Salary:** $120,000.00/yr - $140,000.00/yr
+- 🕒 **Posted:** 2026-11-23
+
+### [Mid-Level Full Stack Engineer (Ruby on Rails)](https://www.linkedin.com/jobs/view/4493685864/) — Cosign
+- 📍 **Location:** New York City Metropolitan Area
+- 🕒 **Posted:** 2026-11-23
+
+### [Software Engineer, Backend, Level 4](https://www.linkedin.com/jobs/view/4493699384/) — Snap Inc.
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-11-23
+
+### [Software Engineer](https://www.linkedin.com/jobs/view/4493693569/) — The JAM l People in Robotics
+- 📍 **Location:** Berkeley, CA
+- 💰 **Salary:** $130,000.00/yr - $150,000.00/yr
+- 🕒 **Posted:** 2026-11-23
+
+### [SOFTWARE ENGINEER – TeraWave – RF and Optical Systems](https://www.linkedin.com/jobs/view/4492645402/) — Blue Origin
 - 📍 **Location:** Cupertino, CA
 - 🕒 **Posted:** 2026-11-23
 
-### [Software Engineer (US)](https://www.linkedin.com/jobs/view/4494024939/) — Onehouse
+### [Solution Engineer, Ads](https://www.linkedin.com/jobs/view/4493904628/) — TikTok USDS Joint Venture
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-11-23
+
+### [Software Engineer, Full Stack, Level 5](https://www.linkedin.com/jobs/view/4493695605/) — Snap Inc.
 - 📍 **Location:** Sunnyvale, CA
 - 🕒 **Posted:** 2026-11-23
 
-### [Full Stack Engineer - Cloud & On Premise](https://www.linkedin.com/jobs/view/4486086776/) — Syntiant Corp.
-- 📍 **Location:** Redwood City, CA
-- 💰 **Salary:** $135,000.00/yr - $175,000.00/yr
-- 🕒 **Posted:** 2026-11-23
-
-### [Member of Technical Staff (Software Engineer, Infrastructure & Platform)](https://www.linkedin.com/jobs/view/4468004602/) — Perplexity
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-11-23
-
-### [Software Engineer](https://www.linkedin.com/jobs/view/4424053124/) — Rundoo
-- 📍 **Location:** San Mateo, CA
-- 🕒 **Posted:** 2026-11-23
-
-### [Full-Stack Software Engineer at RainesDev](https://www.linkedin.com/jobs/view/4493679846/) — MeeBoss
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-11-23
-
-### [Software Engineer, Data Tooling](https://www.linkedin.com/jobs/view/4494044144/) — Roblox
-- 📍 **Location:** San Mateo, CA
-- 🕒 **Posted:** 2026-11-23
-
-### [Solutions Engineer [Pre and Post-Sales] - Mid-Market](https://www.linkedin.com/jobs/view/4343915952/) — Attio
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $160,000.00/yr - $200,000.00/yr
-- 🕒 **Posted:** 2026-11-23
-
-### [Software Engineer IV](https://www.linkedin.com/jobs/view/4493905067/) — EPITEC
+### [Software Engineer, Full Stack, Level 4](https://www.linkedin.com/jobs/view/4493900514/) — Snap Inc.
 - 📍 **Location:** Sunnyvale, CA
 - 🕒 **Posted:** 2026-11-23
 
-### [Forward Deployment Engineer](https://www.linkedin.com/jobs/view/4494022622/) — Cypress HCM
+### [Software Engineer, Specs C++, Level 5](https://www.linkedin.com/jobs/view/4493905310/) — Snap Inc.
 - 📍 **Location:** Sunnyvale, CA
 - 🕒 **Posted:** 2026-11-23
 
-### [Site Reliability Engineer](https://www.linkedin.com/jobs/view/4494028808/) — Evlo AI
-- 📍 **Location:** San Francisco, CA
+### [Software Engineer](https://www.linkedin.com/jobs/view/4493697774/) — Goliath Partners
+- 📍 **Location:** New York City Metropolitan Area
+- 💰 **Salary:** $550,000.00/yr - $800,000.00/yr
 - 🕒 **Posted:** 2026-11-23
 
-### [Site Reliability Engineer](https://www.linkedin.com/jobs/view/4494046043/) — Centraprise
-- 📍 **Location:** Santa Clara, CA
+### [Software Engineer, Android, Level 4](https://www.linkedin.com/jobs/view/4493687699/) — Snap Inc.
+- 📍 **Location:** Sunnyvale, CA
 - 🕒 **Posted:** 2026-11-23
 
-### [Software Engineer, Product Infrastructure](https://www.linkedin.com/jobs/view/4452014248/) — Notion
-- 📍 **Location:** New York, NY
+### [Software Engineer, Android, Level 5](https://www.linkedin.com/jobs/view/4493906129/) — Snap Inc.
+- 📍 **Location:** Sunnyvale, CA
 - 🕒 **Posted:** 2026-11-23
 
-### [Software Engineer (on-site)](https://www.linkedin.com/jobs/view/4492639357/) — CFS
-- 📍 **Location:** Tarrytown, NY
-- 💰 **Salary:** $85,000.00/yr - $125,000.00/yr
+### [Software Engineer, iOS, Level 5](https://www.linkedin.com/jobs/view/4493696458/) — Snap Inc.
+- 📍 **Location:** Sunnyvale, CA
 - 🕒 **Posted:** 2026-11-23
 
-### [Solution Architect](https://www.linkedin.com/jobs/view/4494016941/) — Delta System & Software, Inc.
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $55.00/hr - $60.00/hr
+### [Software Engineer, Augmented Reality, Level 4](https://www.linkedin.com/jobs/view/4493687861/) — Snap Inc.
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-11-23
+
+### [DevOps Engineer](https://www.linkedin.com/jobs/view/4493698775/) — Clinisoltech
+- 📍 **Location:** New York City Metropolitan Area
+- 💰 **Salary:** $75,000.00/yr - $90,000.00/yr
 - 🕒 **Posted:** 2026-11-23
