@@ -1,8 +1,6 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-11-23 00:17 UTC*
+*Last updated: 2026-11-23 01:17 UTC*
 
-**1 new role(s)** since last run · 5 total in last 1h
+**0 new role(s)** since last run · 1 total in last 1h
 
-### [Legal Solutions Engineer ›](https://www.linkedin.com/jobs/view/4493563157/) — Filevine EU
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-11-22
+No new roles since the last run.
