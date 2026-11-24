@@ -1,41 +1,65 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-11-24 18:17 UTC*
+*Last updated: 2026-11-24 19:18 UTC*
 
-**9 new role(s)** since last run · 9 total in last 1h
+**14 new role(s)** since last run · 18 total in last 1h
 
-### [Machine Learning Engineer](https://www.linkedin.com/jobs/view/4494705235/) — Digital Waffle
-- 📍 **Location:** San Francisco Bay Area
+### [Reference Data Software Engineer](https://www.linkedin.com/jobs/view/4466923856/) — BIP US
+- 📍 **Location:** New York City Metropolitan Area
+- 💰 **Salary:** $120,000.00/yr - $160,000.00/yr
 - 🕒 **Posted:** 2026-11-24
 
-### [AI Data Foundation Research Engineer](https://www.linkedin.com/jobs/view/4493262642/) — Hewlett Packard Enterprise
-- 📍 **Location:** Milpitas, CA
+### [Computer Vision Research Scientist](https://www.linkedin.com/jobs/view/4494189864/) — Huxley
+- 📍 **Location:** San Francisco County, CA
+- 💰 **Salary:** $150,000.00/yr - $170,000.00/yr
 - 🕒 **Posted:** 2026-11-24
 
-### [AI and ML Solution Architect](https://www.linkedin.com/jobs/view/4494189157/) — Hewlett Packard Enterprise
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-11-24
-
-### [AI/ML Engineer 3](https://www.linkedin.com/jobs/view/4494712135/) — Sunrise Systems, Inc.
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-11-24
-
-### [Forward Deployed Engineer](https://www.linkedin.com/jobs/view/4494705280/) — Digital Waffle
-- 📍 **Location:** San Francisco Bay Area
-- 💰 **Salary:** $200,000.00/yr - $350,000.00/yr
-- 🕒 **Posted:** 2026-11-24
-
-### [Computational and Data Science Research Specialist 5](https://www.linkedin.com/jobs/view/4491760828/) — University of California, San Francisco
+### [Worldwide Specialist Solutions Architect - GenAI, Data & AI GTM](https://www.linkedin.com/jobs/view/4494195511/) — Amazon Web Services (AWS)
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-11-24
 
-### [Software Engineer](https://www.linkedin.com/jobs/view/4493049055/) — Applied Materials
-- 📍 **Location:** Santa Clara, CA
+### [Member of Technical Staff, AI Data and Evals Engineer at Tech Careers](https://www.linkedin.com/jobs/view/4494407244/) — MeeBoss
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-11-24
 
-### [AI Forward Deployed Engineer](https://www.linkedin.com/jobs/view/4474627553/) — Cognizant
+### [Embedded Software Engineer, Annapurna Ml Software](https://www.linkedin.com/jobs/view/4494199503/) — Annapurna Labs
+- 📍 **Location:** Cupertino, CA
+- 🕒 **Posted:** 2026-11-24
+
+### [Database Cloud Engineer](https://www.linkedin.com/jobs/view/4494724368/) — Intelliswift - An LTTS Company
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $85.00/hr - $100.00/hr
+- 🕒 **Posted:** 2026-11-24
+
+### [Full-Stack Software Engineer at RainesDev](https://www.linkedin.com/jobs/view/4494187863/) — MeeBoss
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-11-24
+
+### [SJ Robotics Software Engineer](https://www.linkedin.com/jobs/view/4494185982/) — Pasona N A, Inc.
+- 📍 **Location:** San Jose, CA
+- 💰 **Salary:** $105,000.00/yr - $125,000.00/yr
+- 🕒 **Posted:** 2026-11-24
+
+### [Platform Engineer](https://www.linkedin.com/jobs/view/4494188907/) — CodeAnalytiqa Consultancy and Services
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-11-24
+
+### [Site Reliability Engineer](https://www.linkedin.com/jobs/view/4471938194/) — Luma Financial Technologies
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-11-24
 
-### [AI Research Scientist | Machine Learning | Deep Learning |Natural Language Processing | LLM | Hybrid | San Jose, CA](https://www.linkedin.com/jobs/view/4494394818/) — Enigma
-- 📍 **Location:** San Jose, CA
+### [Cloud Engineer](https://www.linkedin.com/jobs/view/4493028849/) — Akkodis
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $125.00/hr - $130.00/hr
+- 🕒 **Posted:** 2026-11-24
+
+### [Worldwide Specialist Solutions Architect - GenAI, Data & AI GTM](https://www.linkedin.com/jobs/view/4494189567/) — Amazon Web Services (AWS)
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-11-24
+
+### [Forward Deployed Strategist (NYC)](https://www.linkedin.com/jobs/view/4474052737/) — Hyro
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-11-24
+
+### [Anaplan Solution Architect](https://www.linkedin.com/jobs/view/4494401505/) — Shrive Technologies
+- 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-11-24
