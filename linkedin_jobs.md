@@ -1,61 +1,68 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-11-24 00:18 UTC*
+*Last updated: 2026-11-24 01:18 UTC*
 
-**13 new role(s)** since last run · 21 total in last 1h
+**15 new role(s)** since last run · 34 total in last 1h
 
-### [Software Engineer](https://www.linkedin.com/jobs/view/4492662410/) — Applied Materials
+### [Machine Learning Engineer, Generative ML, Level 4](https://www.linkedin.com/jobs/view/4493687908/) — Snap Inc.
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-11-23
+
+### [Robotics Software Engineer, Data Center Robotics](https://www.linkedin.com/jobs/view/4493944813/) — Amazon Web Services (AWS)
 - 📍 **Location:** Santa Clara, CA
 - 🕒 **Posted:** 2026-11-23
 
-### [Software Engineer](https://www.linkedin.com/jobs/view/4492667293/) — Applied Materials
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-11-23
-
-### [Software Engineer, Full Stack (People Innovation Labs)](https://www.linkedin.com/jobs/view/4494090411/) — OpenAI
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $153,000.00/yr - $385,000.00/yr
-- 🕒 **Posted:** 2026-11-23
-
-### [Member of Technical Staff (Software Engineer, SPACE - Sandbox Platform)](https://www.linkedin.com/jobs/view/4494078870/) — Perplexity
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $220,000.00/yr - $405,000.00/yr
-- 🕒 **Posted:** 2026-11-23
-
-### [Member of Technical Staff (Software Engineer, SPACE - Sandbox Platform)](https://www.linkedin.com/jobs/view/4494092225/) — Perplexity
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $220,000.00/yr - $405,000.00/yr
-- 🕒 **Posted:** 2026-11-23
-
-### [Microsoft Dynamics 365 Supply Chain Management (SCM) Solution Architect](https://www.linkedin.com/jobs/view/4493951411/) — Crowe
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-11-23
-
-### [Microsoft Dynamics 365 Supply Chain Management (SCM) Solution Architect](https://www.linkedin.com/jobs/view/4493944550/) — Crowe
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-11-23
-
-### [Forward Deployed Engineer](https://www.linkedin.com/jobs/view/4493945442/) — SPECTRAFORCE
+### [Computational Scientist](https://www.linkedin.com/jobs/view/4485226879/) — Empire AI
 - 📍 **Location:** New York City Metropolitan Area
-- 💰 **Salary:** $120,000.00/yr - $160,000.00/yr
 - 🕒 **Posted:** 2026-11-23
 
-### [Software Engineer](https://www.linkedin.com/jobs/view/4493952287/) — VantageScore®
-- 📍 **Location:** San Francisco, CA
+### [Software Development Engineer - Data](https://www.linkedin.com/jobs/view/4493948691/) — Audible
+- 📍 **Location:** Newark, NJ
 - 🕒 **Posted:** 2026-11-23
 
-### [Java Full-Stack Developer](https://www.linkedin.com/jobs/view/4492308517/) — BeaconFire Inc.
-- 📍 **Location:** New York City Metropolitan Area
-- 💰 **Salary:** $62,000.00/yr - $80,000.00/yr
-- 🕒 **Posted:** 2026-11-23
-
-### [Software Engineer, Product Infrastructure](https://www.linkedin.com/jobs/view/4452022203/) — Notion
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-11-23
-
-### [Workday HCM Solution Architect](https://www.linkedin.com/jobs/view/4492667199/) — RandomTrees
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-11-23
-
-### [Solutions Engineer, SMB](https://www.linkedin.com/jobs/view/4493952093/) — T-Mobile
+### [Data Scientist I - Windreich Department of AI & Human Health](https://www.linkedin.com/jobs/view/4493969118/) — Mount Sinai Morningside
 - 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-11-23
+
+### [Applied Data Scientist – Gensler Research Institute](https://www.linkedin.com/jobs/view/4493963209/) — Gensler
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-11-23
+
+### [Software Engineer, Backend, Level 5](https://www.linkedin.com/jobs/view/4493695603/) — Snap Inc.
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-11-23
+
+### [Software Engineer](https://www.linkedin.com/jobs/view/4493958399/) — Intuitive
+- 📍 **Location:** Sunnyvale, CA
+- 💰 **Salary:** $134,600.00/yr - $227,700.00/yr
+- 🕒 **Posted:** 2026-11-23
+
+### [Software Engineer, Full Stack, Level 5](https://www.linkedin.com/jobs/view/4493695605/) — Snap Inc.
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-11-23
+
+### [Robotics Software Engineer, Data Center Robotics](https://www.linkedin.com/jobs/view/4493950719/) — Amazon Web Services (AWS)
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-11-23
+
+### [Full Stack Developer](https://www.linkedin.com/jobs/view/4494087671/) — Collabera
+- 📍 **Location:** Fremont, CA
+- 💰 **Salary:** $65.00/hr - $73.00/hr
+- 🕒 **Posted:** 2026-11-23
+
+### [Salesforce Solution Architect](https://www.linkedin.com/jobs/view/4493953769/) — Intuitive
+- 📍 **Location:** Sunnyvale, CA
+- 💰 **Salary:** $136,600.00/yr - $231,300.00/yr
+- 🕒 **Posted:** 2026-11-23
+
+### [Software Engineer](https://www.linkedin.com/jobs/view/4480824763/) — Robert Half
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $76.00/hr - $88.00/hr
+- 🕒 **Posted:** 2026-11-23
+
+### [Computational Research Support Specialist, Research Computing](https://www.linkedin.com/jobs/view/4485225931/) — Empire AI
+- 📍 **Location:** New York City Metropolitan Area
+- 🕒 **Posted:** 2026-11-23
+
+### [Software Engineer](https://www.linkedin.com/jobs/view/4494059747/) — M1B
+- 📍 **Location:** Brooklyn, NY
 - 🕒 **Posted:** 2026-11-23
