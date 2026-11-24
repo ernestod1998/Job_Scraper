@@ -1,149 +1,215 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-11-24 12:54 UTC*
+*Last updated: 2026-11-24 16:19 UTC*
 
-**34 new role(s)** since last run · 34 total in last 1h
+**52 new role(s)** since last run · 52 total in last 1h
 
-### [Software Engineer, Generative Media AI, Apparel ML](https://www.linkedin.com/jobs/view/4485720864/) — Google
-- 📍 **Location:** Mountain View, CA
-- 🕒 **Posted:** 2026-11-24
-
-### [AI Scientist](https://www.linkedin.com/jobs/view/4486020336/) — Capital Group
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-11-24
-
-### [Software Engineer, Recommendation Systems](https://www.linkedin.com/jobs/view/4439603829/) — Meta
-- 📍 **Location:** Sunnyvale, CA
-- 💰 **Salary:** $271,000.00/yr - $347,000.00/yr
-- 🕒 **Posted:** 2026-11-24
-
-### [Research Engineer/Research Scientist-Post Training](https://www.linkedin.com/jobs/view/4432916001/) — OpenAI
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $380,000.00/yr - $500,000.00/yr
-- 🕒 **Posted:** 2026-11-24
-
-### [Software Engineer, AI Specialist - Monetization (Technical Leadership)](https://www.linkedin.com/jobs/view/4449298123/) — Meta
-- 📍 **Location:** Menlo Park, CA
-- 💰 **Salary:** $219,000.00/yr - $301,000.00/yr
-- 🕒 **Posted:** 2026-11-24
-
-### [Data Scientist, Global Data & Analytics (GDA) Team](https://www.linkedin.com/jobs/view/4494119894/) — Amazon
+### [Research Engineer / Scientist, Pre-training](https://www.linkedin.com/jobs/view/4485786561/) — Anthropic
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-11-24
 
-### [Member of Technical Staff, Product Engineering](https://www.linkedin.com/jobs/view/4405471694/) — Listen Labs
+### [Research Engineer / Research Scientist, RL Frontiers](https://www.linkedin.com/jobs/view/4485777798/) — Anthropic
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-11-24
 
-### [Machine Learning Research Scientist](https://www.linkedin.com/jobs/view/4473902927/) — Point One - Hedge Fund Talent
+### [GenAI Solutions Engineer - Python, LLMs & Market Risk](https://www.linkedin.com/jobs/view/4493020607/) — Rose International
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-11-24
 
-### [AI Software Engineer, Full-Stack (NY)](https://www.linkedin.com/jobs/view/4434029672/) — Loop
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-11-24
-
-### [Data Scientist (Technical Leadership)](https://www.linkedin.com/jobs/view/4430697095/) — Meta
-- 📍 **Location:** Sunnyvale, CA
-- 💰 **Salary:** $210,000.00/yr - $281,000.00/yr
-- 🕒 **Posted:** 2026-11-24
-
-### [Computational Scientist - Deep Learning & Computational Biology](https://www.linkedin.com/jobs/view/4484360908/) — Rose International
-- 📍 **Location:** South San Francisco, CA
-- 🕒 **Posted:** 2026-11-24
-
-### [AI Deployment Strategist](https://www.linkedin.com/jobs/view/4484259342/) — Pigment
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-11-24
-
-### [Full Stack Software Engineer - AI Applications](https://www.linkedin.com/jobs/view/4442455135/) — Ford Motor Company
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-11-24
-
-### [Software Engineer](https://www.linkedin.com/jobs/view/4492696853/) — Applied Materials
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-11-24
-
-### [Product Engineer](https://www.linkedin.com/jobs/view/4339004693/) — Reducto
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-11-24
-
-### [Software Engineer - AI Agent Infra](https://www.linkedin.com/jobs/view/4491842549/) — ByteDance
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-11-24
-
-### [New Grad Product Engineer](https://www.linkedin.com/jobs/view/4461288859/) — Nuvo
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-11-24
-
-### [Software Engineer](https://www.linkedin.com/jobs/view/4450290161/) — Imagen Technologies
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-11-24
-
-### [AI Software Engineer - (Java)](https://www.linkedin.com/jobs/view/4491956830/) — BeaconFire Inc.
+### [AI Platform Engineer](https://www.linkedin.com/jobs/view/4494146823/) — DBI Staffing
 - 📍 **Location:** New York City Metropolitan Area
-- 💰 **Salary:** $62,000.00/yr - $80,000.00/yr
 - 🕒 **Posted:** 2026-11-24
 
-### [Software Engineer, Resilience Engineering](https://www.linkedin.com/jobs/view/4485748855/) — OpenAI
+### [GenAI Solutions Engineer – Global Markets](https://www.linkedin.com/jobs/view/4494377540/) — Software Guidance & Assistance, Inc. (SGA, Inc.)
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $230,000.00/yr - $490,000.00/yr
+- 💰 **Salary:** $90.58/hr - $108.70/hr
 - 🕒 **Posted:** 2026-11-24
 
-### [Backend Software Engineer - University Graduate 2027](https://www.linkedin.com/jobs/view/4486485457/) — Verkada
-- 📍 **Location:** San Mateo, CA
-- 🕒 **Posted:** 2026-11-24
-
-### [Software Engineer (C++, OOD/OOP, Linux)](https://www.linkedin.com/jobs/view/4411540228/) — KLA
-- 📍 **Location:** Milpitas, CA
-- 🕒 **Posted:** 2026-11-24
-
-### [Software Engineer - Network Switching](https://www.linkedin.com/jobs/view/4484654840/) — Meta
-- 📍 **Location:** Menlo Park, CA
-- 💰 **Salary:** $183,997.00/yr - $257,000.00/yr
-- 🕒 **Posted:** 2026-11-24
-
-### [Software Engineer, Frontend](https://www.linkedin.com/jobs/view/4404256612/) — Serval
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $200,000.00/yr - $325,000.00/yr
-- 🕒 **Posted:** 2026-11-24
-
-### [Software Engineer, Facilities](https://www.linkedin.com/jobs/view/4441384264/) — Fluidstack
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $224,000.00/yr - $264,000.00/yr
-- 🕒 **Posted:** 2026-11-24
-
-### [Wireless Embedded Software Developer, RTI, Amazon Leo](https://www.linkedin.com/jobs/view/4494125796/) — Amazon
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-11-24
-
-### [Software Engineer II](https://www.linkedin.com/jobs/view/4492695959/) — Applied Materials
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-11-24
-
-### [Frontend Developer, Design Systems [AQ-28224]](https://www.linkedin.com/jobs/view/4492697867/) — Aquent
-- 📍 **Location:** San Mateo, CA
-- 🕒 **Posted:** 2026-11-24
-
-### [Software Engineer II](https://www.linkedin.com/jobs/view/4494131345/) — Deloitte
+### [AI Solution Architect](https://www.linkedin.com/jobs/view/4493011907/) — Galent
 - 📍 **Location:** Stamford, CT
 - 🕒 **Posted:** 2026-11-24
 
-### [Computer Vision Engineer, Reality Labs](https://www.linkedin.com/jobs/view/4484652963/) — Meta
-- 📍 **Location:** Burlingame, CA
+### [Azure/Databricks platform engineer (Terraforms) - Onsite in Jersey City, NJ -Hybrid - Open for C2C](https://www.linkedin.com/jobs/view/4494147871/) — Yoh, A Day & Zimmermann Company
+- 📍 **Location:** Jersey City, NJ
 - 🕒 **Posted:** 2026-11-24
 
-### [Software Infrastructure Engineer](https://www.linkedin.com/jobs/view/4486809969/) — Cylake
-- 📍 **Location:** Sunnyvale, CA
+### [Software Engineer, Data Infrastructure](https://www.linkedin.com/jobs/view/4414761530/) — Cohere
+- 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-11-24
 
-### [Site Reliability Engineer- EDI](https://www.linkedin.com/jobs/view/4486493114/) — Hyve Solutions
-- 📍 **Location:** Fremont, CA
+### [Software Engineer, Data Developer Platform](https://www.linkedin.com/jobs/view/4441139292/) — Whatnot
+- 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-11-24
 
-### [Software Engineer - Forensics](https://www.linkedin.com/jobs/view/4485787136/) — Everpure
+### [Machine Learning Infrastructure Engineer, Safeguards Research](https://www.linkedin.com/jobs/view/4485788528/) — Anthropic
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-11-24
+
+### [Research Engineer, Code RL (Reinforcement Learning)](https://www.linkedin.com/jobs/view/4485798259/) — Anthropic
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-11-24
+
+### [Model Performance Software Engineer, Claude Code](https://www.linkedin.com/jobs/view/4485790473/) — Anthropic
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-11-24
+
+### [Data Scientist, Safeguards](https://www.linkedin.com/jobs/view/4485783666/) — Anthropic
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-11-24
+
+### [Data Scientist, Product](https://www.linkedin.com/jobs/view/4485779685/) — Anthropic
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-11-24
+
+### [Data Scientist, Safeguards](https://www.linkedin.com/jobs/view/4485783667/) — Anthropic
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-11-24
+
+### [Applied Scientist II, Kiro Science](https://www.linkedin.com/jobs/view/4486858727/) — Amazon Web Services (AWS)
 - 📍 **Location:** Santa Clara, CA
 - 🕒 **Posted:** 2026-11-24
 
-### [Field Solutions Architect IV, AI Infrastructure, Google Cloud](https://www.linkedin.com/jobs/view/4485748445/) — Google
+### [Customer-Facing Software Engineer](https://www.linkedin.com/jobs/view/4494395103/) — Speak to Kit
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-11-24
+
+### [Applied AI, Research Engineer](https://www.linkedin.com/jobs/view/4485784624/) — Anthropic
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-11-24
+
+### [Pre-training Data Infrastructure Engineer](https://www.linkedin.com/jobs/view/4485776993/) — Anthropic
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-11-24
+
+### [Cloud Engineer 4](https://www.linkedin.com/jobs/view/4494157604/) — Capital One
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-11-24
+
+### [Software Development Engineer III, Efficiency & Performance, Alloy, Region Flex Efficiency](https://www.linkedin.com/jobs/view/4486861624/) — Amazon
 - 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-11-24
+
+### [Software Engineer, Scheduled Tasks](https://www.linkedin.com/jobs/view/4471681769/) — Vercel
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-11-24
+
+### [Software Engineer, AI Gateway](https://www.linkedin.com/jobs/view/4489614680/) — Vercel
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-11-24
+
+### [Software Engineer, Full Stack](https://www.linkedin.com/jobs/view/4494376672/) — Fonzi AI
+- 📍 **Location:** San Francisco Bay Area
+- 💰 **Salary:** $165,000.00/yr - $230,000.00/yr
+- 🕒 **Posted:** 2026-11-24
+
+### [Software Engineer](https://www.linkedin.com/jobs/view/4494367979/) — Haystack
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-11-24
+
+### [Full-stack Engineer 4 (Python, Vue, AWS)](https://www.linkedin.com/jobs/view/4494164209/) — Capital One
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-11-24
+
+### [Full-stack Engineer 4](https://www.linkedin.com/jobs/view/4494169148/) — Capital One
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-11-24
+
+### [Blockchain Infrastructure Engineer](https://www.linkedin.com/jobs/view/4494143967/) — Natsoft
+- 📍 **Location:** New York City Metropolitan Area
+- 🕒 **Posted:** 2026-11-24
+
+### [Software Engineer, Core Product](https://www.linkedin.com/jobs/view/4310532920/) — Character.ai
+- 📍 **Location:** Redwood City, CA
+- 🕒 **Posted:** 2026-11-24
+
+### [Full Stack Software Engineer](https://www.linkedin.com/jobs/view/4371575959/) — Cape
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-11-24
+
+### [Anthropic Fellows Program, ML Systems & Reinforcement Learning](https://www.linkedin.com/jobs/view/4485783647/) — Anthropic
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-11-24
+
+### [Cloud Engineer 4](https://www.linkedin.com/jobs/view/4494153722/) — Capital One
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-11-24
+
+### [Software Engineer, Sandboxing](https://www.linkedin.com/jobs/view/4485792419/) — Anthropic
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-11-24
+
+### [Model Performance Software Engineer, Claude Code](https://www.linkedin.com/jobs/view/4485799171/) — Anthropic
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-11-24
+
+### [Software Development Engineer, AWS EC2 Nitro Team](https://www.linkedin.com/jobs/view/4486855944/) — Amazon Web Services (AWS)
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-11-24
+
+### [Software Development Engineer, AWS EC2 Nitro Team](https://www.linkedin.com/jobs/view/4486855943/) — Amazon Web Services (AWS)
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-11-24
+
+### [IT Systems Engineer, Client Platform Engineer, macOS](https://www.linkedin.com/jobs/view/4485796311/) — Anthropic
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-11-24
+
+### [Research Engineer, Machine Learning (RL Velocity)](https://www.linkedin.com/jobs/view/4485799149/) — Anthropic
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-11-24
+
+### [Infrastructure Engineer (Blockchain Expertise)](https://www.linkedin.com/jobs/view/4494394100/) — Delta System & Software, Inc.
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-11-24
+
+### [Blockchain Infrastructure Engineer](https://www.linkedin.com/jobs/view/4494392121/) — Delta System & Software, Inc.
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-11-24
+
+### [Full-stack Engineer 3](https://www.linkedin.com/jobs/view/4494157607/) — Capital One
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-11-24
+
+### [Research Engineer, Life Sciences](https://www.linkedin.com/jobs/view/4485783631/) — Anthropic
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-11-24
+
+### [Embedded Software Engineer](https://www.linkedin.com/jobs/view/4494382571/) — Marotta Controls
+- 📍 **Location:** Parsippany, NJ
+- 🕒 **Posted:** 2026-11-24
+
+### [Solutions Architect, Integrations](https://www.linkedin.com/jobs/view/4486013884/) — MaintainX
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $122,000.00/yr - $172,000.00/yr
+- 🕒 **Posted:** 2026-11-24
+
+### [EMC Solutions Engineer - Seattle or Bay Area](https://www.linkedin.com/jobs/view/4478532223/) — Rohde & Schwarz
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-11-24
+
+### [Cloud Engineer 4](https://www.linkedin.com/jobs/view/4494168195/) — Capital One
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-11-24
+
+### [Infrastructure Engineer – Data Center](https://www.linkedin.com/jobs/view/4494391142/) — Smart IT Frame LLC
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-11-24
+
+### [Full-stack Engineer 3](https://www.linkedin.com/jobs/view/4494173038/) — Capital One
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-11-24
+
+### [Software Engineer - E2](https://www.linkedin.com/jobs/view/4493019747/) — Lockheed Martin
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-11-24
+
+### [Research Engineer, Code RL (Reinforcement Learning)](https://www.linkedin.com/jobs/view/4485791478/) — Anthropic
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-11-24
+
+### [Research Engineer / Scientist, Pre-training](https://www.linkedin.com/jobs/view/4485798279/) — Anthropic
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-11-24
+
+### [Research Engineer, Knowledge Team](https://www.linkedin.com/jobs/view/4485788534/) — Anthropic
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-11-24
