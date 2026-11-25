@@ -1,120 +1,161 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-11-24 23:27 UTC*
+*Last updated: 2026-11-25 00:04 UTC*
 
-**28 new role(s)** since last run · 31 total in last 14h
+**38 new role(s)** since last run · 41 total in last 1h
 
-### [Machine Learning Engineer](https://www.linkedin.com/jobs/view/4494378330/) — Digital Waffle
-- 📍 **Location:** San Francisco Bay Area
-- 💰 **Salary:** $235,000.00/yr - $400,000.00/yr
-- 🕒 **Posted:** 2026-11-24
-
-### [Machine Learning Engineer](https://www.linkedin.com/jobs/view/4402997955/) — Reducto
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-11-24
-
-### [ML Engineer](https://www.linkedin.com/jobs/view/4494381391/) — Fonzi AI
-- 📍 **Location:** San Francisco Bay Area
-- 💰 **Salary:** $180,000.00/yr - $260,000.00/yr
-- 🕒 **Posted:** 2026-11-24
-
-### [Machine Learning Engineer, Content Platform & Experience](https://www.linkedin.com/jobs/view/4442400541/) — Quizlet
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-11-24
-
-### [Machine Learning Engineer](https://www.linkedin.com/jobs/view/4491876560/) — Shields Group Search
-- 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-11-24
-
-### [Autonomy Engineer - Deep Learning](https://www.linkedin.com/jobs/view/4344003396/) — Skydio
-- 📍 **Location:** San Mateo, CA
-- 🕒 **Posted:** 2026-11-24
-
-### [Machine Learning Engineer - 3D Sensor Simulation](https://www.linkedin.com/jobs/view/4478749097/) — Zoox
-- 📍 **Location:** Foster City, CA
-- 🕒 **Posted:** 2026-11-24
-
-### [Machine Learning Engineer, Bellwether, X](https://www.linkedin.com/jobs/view/4485780933/) — X, The Moonshot Factory
-- 📍 **Location:** Mountain View, CA
-- 🕒 **Posted:** 2026-11-24
-
-### [Machine Learning Engineer | Python | Pytorch | Distributed Training | Optimisation | GPU | Hybrid, San Jose, CA](https://www.linkedin.com/jobs/view/4494738006/) — Enigma
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-11-24
-
-### [Autonomy Engineer - Deep Learning Model Acceleration](https://www.linkedin.com/jobs/view/4343844305/) — Skydio
-- 📍 **Location:** San Mateo, CA
-- 🕒 **Posted:** 2026-11-24
-
-### [Machine Learning Engineer](https://www.linkedin.com/jobs/view/4494386265/) — Lorven Technologies Inc.
-- 📍 **Location:** Mountain View, CA
-- 🕒 **Posted:** 2026-11-24
-
-### [Research Engineer, Production Model Post-Training](https://www.linkedin.com/jobs/view/4485798263/) — Anthropic
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-11-24
-
-### [Member of Technical Staff, Frontier AI & Robotics (FAR)](https://www.linkedin.com/jobs/view/4478510624/) — Amazon
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-11-24
-
-### [Research Engineer](https://www.linkedin.com/jobs/view/4494368958/) — Fonzi AI
-- 📍 **Location:** San Francisco Bay Area
-- 💰 **Salary:** $175,000.00/yr - $260,000.00/yr
-- 🕒 **Posted:** 2026-11-24
-
-### [AI Data Foundation Research Engineer](https://www.linkedin.com/jobs/view/4493262642/) — Hewlett Packard Enterprise
-- 📍 **Location:** Milpitas, CA
-- 🕒 **Posted:** 2026-11-24
-
-### [AI and ML Solution Architect](https://www.linkedin.com/jobs/view/4494189157/) — Hewlett Packard Enterprise
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-11-24
-
-### [Member of Technical Staff, Pre-Training Data](https://www.linkedin.com/jobs/view/4256124536/) — Cohere
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-11-24
-
-### [Engineer - MLOps & Scientific Platforms - Data Foundry](https://www.linkedin.com/jobs/view/4494170499/) — Eli Lilly and Company
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-11-24
-
-### [AI Scientist](https://www.linkedin.com/jobs/view/4486020336/) — Capital Group
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-11-24
-
-### [Research Engineer | Post-Training | LLM | Large Language Models | Python | PyTorch | San Francisco, CA](https://www.linkedin.com/jobs/view/4494734084/) — Enigma
-- 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-11-24
-
-### [Software Engineer, Recommendation Systems](https://www.linkedin.com/jobs/view/4439603829/) — Meta
-- 📍 **Location:** Sunnyvale, CA
-- 💰 **Salary:** $271,000.00/yr - $347,000.00/yr
-- 🕒 **Posted:** 2026-11-24
-
-### [Machine Learning Infra Engineer](https://www.linkedin.com/jobs/view/4413774666/) — Reducto
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-11-24
-
-### [Research Engineer/Research Scientist-Post Training](https://www.linkedin.com/jobs/view/4432916001/) — OpenAI
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-11-24
-
-### [ML Systems Research Engineer, RL / Inference / Agent Systems](https://www.linkedin.com/jobs/view/4476058099/) — AMD
+### [Software Engineer](https://www.linkedin.com/jobs/view/4493061371/) — Applied Materials
 - 📍 **Location:** Santa Clara, CA
 - 🕒 **Posted:** 2026-11-24
 
-### [Member of Technical Staff, AI Data and Evals Engineer at Tech Careers](https://www.linkedin.com/jobs/view/4494407244/) — MeeBoss
+### [Software Engineer, Backend — ChatGPT Voice](https://www.linkedin.com/jobs/view/4494746636/) — OpenAI
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-11-24
 
-### [Software Engineer, AI Specialist - Monetization (Technical Leadership)](https://www.linkedin.com/jobs/view/4449298123/) — Meta
-- 📍 **Location:** Menlo Park, CA
+### [Software Engineer](https://www.linkedin.com/jobs/view/4493067153/) — Applied Materials
+- 📍 **Location:** Santa Clara, CA
 - 🕒 **Posted:** 2026-11-24
 
-### [Machine Learning Engineer 4](https://www.linkedin.com/jobs/view/4494157639/) — Capital One
+### [Software Engineer, Full Stack — ChatGPT Voice](https://www.linkedin.com/jobs/view/4494738984/) — OpenAI
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $347,000.00/yr - $385,000.00/yr
+- 🕒 **Posted:** 2026-11-24
+
+### [Forward Deployed Engineer](https://www.linkedin.com/jobs/view/4494745440/) — TTE Staffing
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-11-24
+
+### [Product Engineer - Onboarding Automation](https://www.linkedin.com/jobs/view/4494443174/) — Stuut
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-11-24
+
+### [Software Engineer I – Compiler & Runtime](https://www.linkedin.com/jobs/view/4494733907/) — TetraMem - Accelerate The World
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-11-24
+
+### [Solutions Architect, AI Intake](https://www.linkedin.com/jobs/view/4493657870/) — Eve
+- 📍 **Location:** San Mateo, CA
+- 🕒 **Posted:** 2026-11-24
+
+### [Applied Scientist II, Performance Algorithms](https://www.linkedin.com/jobs/view/4494748044/) — The Trade Desk
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-11-24
 
-### [ML Engineer](https://www.linkedin.com/jobs/view/4494379506/) — Fonzi AI
+### [Forward Deployed Engineer, Evals](https://www.linkedin.com/jobs/view/4493050646/) — David AI
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-11-24
+
+### [Forward Deployed Engineer](https://www.linkedin.com/jobs/view/4494429365/) — Franklin Templeton
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-11-24
+
+### [Product Engineer](https://www.linkedin.com/jobs/view/4493053469/) — Manifest OS
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-11-24
+
+### [DevOps Engineer](https://www.linkedin.com/jobs/view/4494733676/) — Versana
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-11-24
+
+### [Software Engineer, Applied AI](https://www.linkedin.com/jobs/view/4480269290/) — AKASA
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-11-24
+
+### [Software Engineer II - Slack Developer Workspaces](https://www.linkedin.com/jobs/view/4494434910/) — Slack
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-11-24
+
+### [Forward Deployed Engineer](https://www.linkedin.com/jobs/view/4494420905/) — Franklin Templeton
+- 📍 **Location:** San Ramon, CA
+- 🕒 **Posted:** 2026-11-24
+
+### [Frontend Developer](https://www.linkedin.com/jobs/view/4494748373/) — thebridge.ai
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-11-24
+
+### [Member of Technical Staff, TLM, Context Engineering](https://www.linkedin.com/jobs/view/4493045759/) — Profound
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-11-24
+
+### [Forward Deployed Engineer](https://www.linkedin.com/jobs/view/4494415870/) — Franklin Templeton
+- 📍 **Location:** San Mateo, CA
+- 🕒 **Posted:** 2026-11-24
+
+### [Forward Deployed Engineer](https://www.linkedin.com/jobs/view/4494748119/) — Autopoiesis Sciences
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-11-24
+
+### [Forward Deployed Engineer, Evals](https://www.linkedin.com/jobs/view/4493052437/) — David AI
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $165,000.00/yr - $225,000.00/yr
+- 🕒 **Posted:** 2026-11-24
+
+### [Software Engineer III - Fullstack, Java, AWS](https://www.linkedin.com/jobs/view/4494440366/) — JPMorganChase
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $137,750.00/yr - $185,000.00/yr
+- 🕒 **Posted:** 2026-11-24
+
+### [Software Engineer II, Backend Full Stack - Emerging Products](https://www.linkedin.com/jobs/view/4494444337/) — Rippling
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-11-24
+
+### [Front-End Engineer II - Data Marketplace Experiences](https://www.linkedin.com/jobs/view/4494735476/) — The Trade Desk
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-11-24
+
+### [CAD Infra Engineer](https://www.linkedin.com/jobs/view/4494742659/) — Tenstorrent
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-11-24
+
+### [Software Engineer](https://www.linkedin.com/jobs/view/4494429516/) — Mintive
+- 📍 **Location:** San Mateo, CA
+- 🕒 **Posted:** 2026-11-24
+
+### [Software Engineer](https://www.linkedin.com/jobs/view/4494427565/) — Mintive
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-11-24
+
+### [Software Engineer, PMRA Systems](https://www.linkedin.com/jobs/view/4494433685/) — Point72
+- 📍 **Location:** Stamford, CT
+- 🕒 **Posted:** 2026-11-24
+
+### [Software Engineer, PMRA Systems](https://www.linkedin.com/jobs/view/4494436654/) — Point72
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-11-24
+
+### [Java Backend Developer](https://www.linkedin.com/jobs/view/4494747293/) — Cognizant
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-11-24
+
+### [Java Full-Stack Developer](https://www.linkedin.com/jobs/view/4493011865/) — BeaconFire Inc.
 - 📍 **Location:** New York City Metropolitan Area
+- 💰 **Salary:** $62,000.00/yr - $80,000.00/yr
+- 🕒 **Posted:** 2026-11-24
+
+### [Full stack Developer (React, Java)](https://www.linkedin.com/jobs/view/4492667000/) — Capgemini
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-11-24
+
+### [Software Engineer II - Slack Developer Workspaces](https://www.linkedin.com/jobs/view/4494409814/) — Salesforce
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-11-24
+
+### [Infrastructure Platform Engineer (Containerization and Automation focus)](https://www.linkedin.com/jobs/view/4438807818/) — Mizuho
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-11-24
+
+### [Software Engineer II, Backend - Emerging Products](https://www.linkedin.com/jobs/view/4494433747/) — Rippling
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-11-24
+
+### [Solutions Architect](https://www.linkedin.com/jobs/view/4494454143/) — Cisco
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-11-24
+
+### [Solutions Engineer](https://www.linkedin.com/jobs/view/4494736721/) — TTE Staffing
+- 📍 **Location:** New York City Metropolitan Area
+- 🕒 **Posted:** 2026-11-24
+
+### [Product Engineer - Onboarding Automation](https://www.linkedin.com/jobs/view/4494435220/) — Stuut
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $190,000.00/yr - $220,000.00/yr
 - 🕒 **Posted:** 2026-11-24
