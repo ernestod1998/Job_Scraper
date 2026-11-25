@@ -1,225 +1,175 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-11-25 16:19 UTC*
+*Last updated: 2026-11-25 17:19 UTC*
 
-**49 new role(s)** since last run · 49 total in last 1h
+**39 new role(s)** since last run · 80 total in last 1h
 
-### [ML Engineer](https://www.linkedin.com/jobs/view/4494933195/) — Fonzi AI
-- 📍 **Location:** San Francisco Bay Area
-- 💰 **Salary:** $180,000.00/yr - $260,000.00/yr
-- 🕒 **Posted:** 2026-11-25
-
-### [Software Development Engineer, AI/ML, AWS Neuron, Model Inference](https://www.linkedin.com/jobs/view/4470412952/) — Annapurna Labs
-- 📍 **Location:** Cupertino, CA
-- 🕒 **Posted:** 2026-11-25
-
-### [Research Engineer](https://www.linkedin.com/jobs/view/4494922728/) — Fonzi AI
-- 📍 **Location:** San Francisco Bay Area
-- 💰 **Salary:** $175,000.00/yr - $260,000.00/yr
-- 🕒 **Posted:** 2026-11-25
-
-### [Robotics Software Engineer, Perception](https://www.linkedin.com/jobs/view/4449807918/) — Hadrian
+### [Machine Learning Engineer, Voice](https://www.linkedin.com/jobs/view/3955622226/) — Speak
 - 📍 **Location:** San Francisco Bay Area
 - 🕒 **Posted:** 2026-11-25
 
-### [Member of Technical Staff - Post-training (Data Infrastructure)](https://www.linkedin.com/jobs/view/4478442330/) — Cohere
+### [Software Engineer, Backend/Applied ML (Safety & Integrity)](https://www.linkedin.com/jobs/view/4358631563/) — Character.ai
+- 📍 **Location:** Redwood City, CA
+- 🕒 **Posted:** 2026-11-25
+
+### [AI/ML Engineer 3](https://www.linkedin.com/jobs/view/4494926814/) — TekWissen ®
+- 📍 **Location:** San Jose, CA
+- 💰 **Salary:** $70.00/hr - $75.00/hr
+- 🕒 **Posted:** 2026-11-25
+
+### [Research Engineer, Media Forensics and Information Quality, DeepMind](https://www.linkedin.com/jobs/view/4494940124/) — Google DeepMind
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-11-25
 
-### [Software Engineer, Edge](https://www.linkedin.com/jobs/view/4473720142/) — Kargo
-- 📍 **Location:** San Francisco Bay Area
-- 💰 **Salary:** $130,000.00/yr - $150,000.00/yr
-- 🕒 **Posted:** 2026-11-25
-
-### [Software Engineer, Data Infrastructure](https://www.linkedin.com/jobs/view/4414764582/) — Cohere
+### [Partner Solutions Engineer](https://www.linkedin.com/jobs/view/4470640027/) — Vercel
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-11-25
 
-### [Forward Deployed Engineer (Palantir Foundry & Custom Development)](https://www.linkedin.com/jobs/view/4487227248/) — Jacobs
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $80,000.00/yr - $110,000.00/yr
+### [Software Engineer - SaaS Data Protection](https://www.linkedin.com/jobs/view/4461501945/) — Rubrik
+- 📍 **Location:** Palo Alto, CA
 - 🕒 **Posted:** 2026-11-25
 
-### [Robotics Software Engineer](https://www.linkedin.com/jobs/view/4493436422/) — Careerscape
+### [Software Engineer](https://www.linkedin.com/jobs/view/4494919956/) — Fonzi AI
 - 📍 **Location:** San Francisco Bay Area
+- 💰 **Salary:** $170,000.00/yr - $245,000.00/yr
 - 🕒 **Posted:** 2026-11-25
 
-### [Member of Technical Staff](https://www.linkedin.com/jobs/view/4494923610/) — Fonzi AI
-- 📍 **Location:** San Francisco Bay Area
-- 💰 **Salary:** $170,000.00/yr - $295,000.00/yr
-- 🕒 **Posted:** 2026-11-25
-
-### [Backend Engineer](https://www.linkedin.com/jobs/view/4494928322/) — Fonzi AI
+### [Software Engineer, Backend](https://www.linkedin.com/jobs/view/4494921901/) — Fonzi AI
 - 📍 **Location:** San Francisco Bay Area
 - 💰 **Salary:** $180,000.00/yr - $250,000.00/yr
 - 🕒 **Posted:** 2026-11-25
 
-### [Forward Deployed Engineer](https://www.linkedin.com/jobs/view/4494925372/) — Fonzi AI
-- 📍 **Location:** San Francisco Bay Area
-- 💰 **Salary:** $160,000.00/yr - $220,000.00/yr
+### [Software Engineer (Technical Leadership), Privacy](https://www.linkedin.com/jobs/view/4493437576/) — Meta
+- 📍 **Location:** Menlo Park, CA
+- 💰 **Salary:** $271,000.00/yr - $347,000.00/yr
 - 🕒 **Posted:** 2026-11-25
 
-### [Full Stack Engineer](https://www.linkedin.com/jobs/view/4494921765/) — Fonzi AI
-- 📍 **Location:** San Francisco Bay Area
+### [Full Stack Engineer, Product Risk & Compliance](https://www.linkedin.com/jobs/view/4493441421/) — Meta
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $183,997.00/yr - $257,000.00/yr
+- 🕒 **Posted:** 2026-11-25
+
+### [Software Engineer](https://www.linkedin.com/jobs/view/4494668046/) — People In AI
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $180,000.00/yr - $210,000.00/yr
+- 🕒 **Posted:** 2026-11-25
+
+### [Databricks platform engineer with Terraform and Azure Cloud - Onsite NJ- - no corps- w2 only](https://www.linkedin.com/jobs/view/4494664579/) — Yoh, A Day & Zimmermann Company
+- 📍 **Location:** Jersey City, NJ
+- 🕒 **Posted:** 2026-11-25
+
+### [Software Engineer](https://www.linkedin.com/jobs/view/4494917974/) — Fonzi AI
+- 📍 **Location:** New York City Metropolitan Area
+- 💰 **Salary:** $170,000.00/yr - $245,000.00/yr
+- 🕒 **Posted:** 2026-11-25
+
+### [Software Engineer, Backend](https://www.linkedin.com/jobs/view/4494937162/) — Fonzi AI
+- 📍 **Location:** New York City Metropolitan Area
+- 💰 **Salary:** $180,000.00/yr - $250,000.00/yr
+- 🕒 **Posted:** 2026-11-25
+
+### [Member of Technical Staff, Modeling](https://www.linkedin.com/jobs/view/4116726790/) — Cohere
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-11-25
+
+### [Software Engineer, Full Stack](https://www.linkedin.com/jobs/view/4494938133/) — Fonzi AI
+- 📍 **Location:** New York City Metropolitan Area
 - 💰 **Salary:** $165,000.00/yr - $230,000.00/yr
 - 🕒 **Posted:** 2026-11-25
 
-### [ML Engineer](https://www.linkedin.com/jobs/view/4494925433/) — Fonzi AI
-- 📍 **Location:** New York City Metropolitan Area
-- 💰 **Salary:** $180,000.00/yr - $260,000.00/yr
+### [GenAI Fullstack Engineer- Bilingual - (English / Koreann)](https://www.linkedin.com/jobs/view/4494662295/) — Marlabs
+- 📍 **Location:** Englewood Cliffs, NJ
 - 🕒 **Posted:** 2026-11-25
 
-### [Research Engineer](https://www.linkedin.com/jobs/view/4494924499/) — Fonzi AI
-- 📍 **Location:** New York City Metropolitan Area
-- 💰 **Salary:** $175,000.00/yr - $260,000.00/yr
-- 🕒 **Posted:** 2026-11-25
-
-### [AI Forward Deployed Engineer](https://www.linkedin.com/jobs/view/4459584049/) — Stagwell
+### [Applied Scientist, Amazon Books Ads](https://www.linkedin.com/jobs/view/4487062366/) — Amazon
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-11-25
 
-### [Software Development Engineer, 3P Measurement Tech](https://www.linkedin.com/jobs/view/4470429074/) — Amazon
-- 📍 **Location:** New York, NY
+### [Software Engineer](https://www.linkedin.com/jobs/view/4494669318/) — BCforward
+- 📍 **Location:** Burlingame, CA
 - 🕒 **Posted:** 2026-11-25
 
-### [Data Scientist, Marketing](https://www.linkedin.com/jobs/view/4486078767/) — Wealthfront
-- 📍 **Location:** New York, NY
+### [iOS Engineer](https://www.linkedin.com/jobs/view/4493429673/) — Mitchell Martin Inc.
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $71.00/hr - $76.00/hr
 - 🕒 **Posted:** 2026-11-25
 
-### [Forward Deployed Engineer (Palantir Foundry & Custom Development)](https://www.linkedin.com/jobs/view/4487208935/) — Jacobs
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $80,000.00/yr - $110,000.00/yr
-- 🕒 **Posted:** 2026-11-25
-
-### [Solutions Engineer](https://www.linkedin.com/jobs/view/4494647766/) — Solace
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-11-25
-
-### [Forward Deployed Engineer](https://www.linkedin.com/jobs/view/4493945442/) — SPECTRAFORCE
-- 📍 **Location:** New York City Metropolitan Area
-- 💰 **Salary:** $120,000.00/yr - $160,000.00/yr
-- 🕒 **Posted:** 2026-11-25
-
-### [Full-stack Engineer 4 - CORE Technology (Python, DynamoDB)](https://www.linkedin.com/jobs/view/4494664245/) — Capital One
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-11-25
-
-### [Member of Technical Staff](https://www.linkedin.com/jobs/view/4494916849/) — Fonzi AI
-- 📍 **Location:** New York City Metropolitan Area
-- 💰 **Salary:** $170,000.00/yr - $295,000.00/yr
-- 🕒 **Posted:** 2026-11-25
-
-### [Forward Deployed Engineer](https://www.linkedin.com/jobs/view/4494912964/) — Fonzi AI
-- 📍 **Location:** New York City Metropolitan Area
-- 💰 **Salary:** $160,000.00/yr - $220,000.00/yr
-- 🕒 **Posted:** 2026-11-25
-
-### [Solutions Engineer (Model Studio)](https://www.linkedin.com/jobs/view/4476648918/) — Bitdeer (NASDAQ: BTDR)
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-11-25
-
-### [Software Development Engineer (Embedded Systems) Early Career - 2027 (US)](https://www.linkedin.com/jobs/view/4487070129/) — Amazon
-- 📍 **Location:** Cupertino, CA
-- 🕒 **Posted:** 2026-11-25
-
-### [Infrastructure Engineer](https://www.linkedin.com/jobs/view/4494921777/) — Fonzi AI
+### [Full Stack Engineer](https://www.linkedin.com/jobs/view/4494676168/) — Expo Experts
 - 📍 **Location:** San Francisco Bay Area
 - 🕒 **Posted:** 2026-11-25
 
-### [Software Development Engineer, Agentic Workspaces](https://www.linkedin.com/jobs/view/4478706864/) — Amazon Web Services (AWS)
+### [Full Stack Engineer - Onsite - San Francisco, CA](https://www.linkedin.com/jobs/view/4494936529/) — RS Global Services
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-11-25
+
+### [(IT PSP) Cloud Platform Engineer II](https://www.linkedin.com/jobs/view/4494935295/) — Axelon Services Corporation
+- 📍 **Location:** Oakland, CA
+- 💰 **Salary:** $90.00/hr - $90.00/hr
+- 🕒 **Posted:** 2026-11-25
+
+### [Software Engineer, Product Infrastructure](https://www.linkedin.com/jobs/view/4452022203/) — Notion
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-11-25
+
+### [Software Development Engineer II, Efficiency & Performance, Alloy, Region Flex Efficiency](https://www.linkedin.com/jobs/view/4486864394/) — Amazon
 - 📍 **Location:** Sunnyvale, CA
 - 🕒 **Posted:** 2026-11-25
 
-### [Infrastructure Engineer](https://www.linkedin.com/jobs/view/4494937010/) — Fonzi AI
-- 📍 **Location:** New York City Metropolitan Area
-- 🕒 **Posted:** 2026-11-25
-
-### [Backend Engineer](https://www.linkedin.com/jobs/view/4494917784/) — Fonzi AI
-- 📍 **Location:** New York City Metropolitan Area
-- 💰 **Salary:** $180,000.00/yr - $250,000.00/yr
-- 🕒 **Posted:** 2026-11-25
-
-### [Associate, Software Engineering](https://www.linkedin.com/jobs/view/4487084600/) — L3Harris Technologies
-- 📍 **Location:** Clifton, NJ
-- 🕒 **Posted:** 2026-11-25
-
-### [Full Stack Engineer (React/TypeScript)](https://www.linkedin.com/jobs/view/4494929361/) — Fonzi AI
-- 📍 **Location:** New York City Metropolitan Area
-- 💰 **Salary:** $165,000.00/yr - $230,000.00/yr
-- 🕒 **Posted:** 2026-11-25
-
-### [Software Engineer II](https://www.linkedin.com/jobs/view/4494647725/) — Microsoft
+### [Software Engineer, Product Backend](https://www.linkedin.com/jobs/view/4477944366/) — Glean
 - 📍 **Location:** Mountain View, CA
 - 🕒 **Posted:** 2026-11-25
 
-### [Software Engineer, Connect](https://www.linkedin.com/jobs/view/4487027049/) — Vercel
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-11-25
-
-### [Software Engineer, Agent Auth](https://www.linkedin.com/jobs/view/4487012291/) — Vercel
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-11-25
-
-### [Embedded SDE, Payload Radio Gateway](https://www.linkedin.com/jobs/view/4486854926/) — Amazon
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-11-25
-
-### [Full Stack Engineer (React/TypeScript)](https://www.linkedin.com/jobs/view/4494920739/) — Fonzi AI
-- 📍 **Location:** San Francisco Bay Area
-- 💰 **Salary:** $165,000.00/yr - $230,000.00/yr
-- 🕒 **Posted:** 2026-11-25
-
-### [Frontend Engineer](https://www.linkedin.com/jobs/view/4494915848/) — Fonzi AI
-- 📍 **Location:** San Francisco Bay Area
-- 💰 **Salary:** $165,000.00/yr - $240,000.00/yr
-- 🕒 **Posted:** 2026-11-25
-
-### [Product Engineer](https://www.linkedin.com/jobs/view/4494933222/) — Fonzi AI
-- 📍 **Location:** San Francisco Bay Area
-- 💰 **Salary:** $165,000.00/yr - $255,000.00/yr
-- 🕒 **Posted:** 2026-11-25
-
-### [Frontend Engineer](https://www.linkedin.com/jobs/view/4494926383/) — Fonzi AI
-- 📍 **Location:** New York City Metropolitan Area
-- 💰 **Salary:** $165,000.00/yr - $240,000.00/yr
-- 🕒 **Posted:** 2026-11-25
-
-### [Product Engineer](https://www.linkedin.com/jobs/view/4494927482/) — Fonzi AI
-- 📍 **Location:** New York City Metropolitan Area
-- 💰 **Salary:** $165,000.00/yr - $255,000.00/yr
-- 🕒 **Posted:** 2026-11-25
-
-### [Full Stack Engineer](https://www.linkedin.com/jobs/view/4494933160/) — Fonzi AI
-- 📍 **Location:** New York City Metropolitan Area
-- 💰 **Salary:** $165,000.00/yr - $230,000.00/yr
-- 🕒 **Posted:** 2026-11-25
-
-### [Mobile Engineer](https://www.linkedin.com/jobs/view/4494930417/) — Fonzi AI
-- 📍 **Location:** San Francisco Bay Area
-- 💰 **Salary:** $190,000.00/yr - $275,000.00/yr
-- 🕒 **Posted:** 2026-11-25
-
-### [Mobile Engineer 4 - Android Applications](https://www.linkedin.com/jobs/view/4494658453/) — Capital One
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-11-25
-
-### [Mobile Engineer](https://www.linkedin.com/jobs/view/4494925442/) — Fonzi AI
-- 📍 **Location:** New York City Metropolitan Area
-- 💰 **Salary:** $190,000.00/yr - $275,000.00/yr
-- 🕒 **Posted:** 2026-11-25
-
-### [ASIC Embedded Software Engineer](https://www.linkedin.com/jobs/view/4493086686/) — QFocus Technologies
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-11-25
-
-### [Solutions Architect](https://www.linkedin.com/jobs/view/4487075352/) — Amphenol Communications Solutions
+### [Software Development Engineer, AWS EC2 Nitro Team](https://www.linkedin.com/jobs/view/4486876021/) — Amazon Web Services (AWS)
 - 📍 **Location:** Santa Clara, CA
-- 💰 **Salary:** $180,000.00/yr - $215,000.00/yr
 - 🕒 **Posted:** 2026-11-25
 
-### [Deployment Strategist](https://www.linkedin.com/jobs/view/4493413167/) — Scout Global
+### [E11 Bio - Associate Computational Scientist](https://www.linkedin.com/jobs/view/4488895431/) — Convergent Research
+- 📍 **Location:** Alameda, CA
+- 🕒 **Posted:** 2026-11-25
+
+### [Full Stack Engineer, Product Risk & Compliance](https://www.linkedin.com/jobs/view/4493433664/) — Meta
+- 📍 **Location:** Menlo Park, CA
+- 💰 **Salary:** $183,997.00/yr - $257,000.00/yr
+- 🕒 **Posted:** 2026-11-25
+
+### [Software Engineer - Orchestrated Application Recovery](https://www.linkedin.com/jobs/view/4487082635/) — Rubrik
+- 📍 **Location:** Palo Alto, CA
+- 🕒 **Posted:** 2026-11-25
+
+### [Software Engineer, Full Stack](https://www.linkedin.com/jobs/view/4494924609/) — Fonzi AI
+- 📍 **Location:** San Francisco Bay Area
+- 💰 **Salary:** $165,000.00/yr - $230,000.00/yr
+- 🕒 **Posted:** 2026-11-25
+
+### [Full Stack Engineer (Technical Leadership), Product Risk & Compliance](https://www.linkedin.com/jobs/view/4493435679/) — Meta
+- 📍 **Location:** Menlo Park, CA
+- 💰 **Salary:** $219,000.00/yr - $301,000.00/yr
+- 🕒 **Posted:** 2026-11-25
+
+### [Research Engineer, Media Forensics and Information Quality, DeepMind](https://www.linkedin.com/jobs/view/4494923873/) — Google DeepMind
+- 📍 **Location:** Mountain View, CA
+- 🕒 **Posted:** 2026-11-25
+
+### [AI Research Scientist | Machine Learning | Deep Learning |Natural Language Processing | LLM | Hybrid | San Jose, CA](https://www.linkedin.com/jobs/view/4494928706/) — Enigma
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-11-25
+
+### [DevOps Engineer](https://www.linkedin.com/jobs/view/4494926594/) — Eliassen Group
 - 📍 **Location:** New York City Metropolitan Area
+- 💰 **Salary:** $80.00/hr - $90.00/hr
 - 🕒 **Posted:** 2026-11-25
 
-### [Solution Architect (Northeast)](https://www.linkedin.com/jobs/view/4494646702/) — AppViewX
+### [Member of Technical Staff - Post-Training (Reinforcement Learning & Generalization)](https://www.linkedin.com/jobs/view/4478430619/) — Cohere
 - 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-11-25
+
+### [Frontend Developer (Strong React.js)](https://www.linkedin.com/jobs/view/4493446335/) — iTech US Inc
+- 📍 **Location:** Mountain View, CA
+- 🕒 **Posted:** 2026-11-25
+
+### [Product Engineer (PE) — NAND Flash](https://www.linkedin.com/jobs/view/4494727005/) — Global Vision Technology
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-11-25
+
+### [Product Engineer](https://www.linkedin.com/jobs/view/4494940340/) — The Mice Groups, Inc.
+- 📍 **Location:** San Francisco Bay Area
 - 🕒 **Posted:** 2026-11-25
