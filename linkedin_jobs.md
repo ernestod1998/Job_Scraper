@@ -1,138 +1,72 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-11-25 19:19 UTC*
+*Last updated: 2026-11-25 20:19 UTC*
 
-**33 new role(s)** since last run · 57 total in last 1h
+**16 new role(s)** since last run · 45 total in last 1h
 
-### [Backend Engineer – Python & Generative AI](https://www.linkedin.com/jobs/view/4494689499/) — ApTask
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-11-25
-
-### [Applied Researcher 4 (AI Foundations - LLM, Optimization and Finetuning)](https://www.linkedin.com/jobs/view/4470431903/) — Capital One
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-11-25
-
-### [Applied Researcher 4](https://www.linkedin.com/jobs/view/4470433824/) — Capital One
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-11-25
-
-### [Full Stack Engineer 4- People Tech- GenAI & Agentic Systems (LangChain, LangGraph)](https://www.linkedin.com/jobs/view/4470429985/) — Capital One
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-11-25
-
-### [Applied Researcher 4 (AI Foundations, Graph and Behavioral Models)](https://www.linkedin.com/jobs/view/4470441692/) — Capital One
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-11-25
-
-### [Applied Researcher 4 (AI Foundations, Graph and Behavioral Models)](https://www.linkedin.com/jobs/view/4470442521/) — Capital One
+### [New Grads 2027 - Software Engineer - Perception/Computer Vision](https://www.linkedin.com/jobs/view/4494694363/) — WeRide
 - 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-11-25
 
-### [Machine Learning Engineer](https://www.linkedin.com/jobs/view/4494693216/) — Intuitive
-- 📍 **Location:** Sunnyvale, CA
-- 💰 **Salary:** $167,300.00/yr - $283,200.00/yr
+### [Fullstack Engineer, Ambient AI](https://www.linkedin.com/jobs/view/4438516340/) — Commure
+- 📍 **Location:** Mountain View, CA
 - 🕒 **Posted:** 2026-11-25
 
-### [Software Engineer - TikTok Search Engine](https://www.linkedin.com/jobs/view/4494953374/) — TikTok
+### [Software Engineer, Claims & AI Billing](https://www.linkedin.com/jobs/view/4490536671/) — Commure
+- 📍 **Location:** Mountain View, CA
+- 💰 **Salary:** $130,000.00/yr - $190,000.00/yr
+- 🕒 **Posted:** 2026-11-25
+
+### [Software Engineer, AI Integrations](https://www.linkedin.com/jobs/view/4476389373/) — Commure
+- 📍 **Location:** Mountain View, CA
+- 💰 **Salary:** $130,000.00/yr - $190,000.00/yr
+- 🕒 **Posted:** 2026-11-25
+
+### [Forward Deployed Engineer ($170K- 220K)](https://www.linkedin.com/jobs/view/4493442983/) — CodeRound AI
+- 📍 **Location:** New York City Metropolitan Area
+- 🕒 **Posted:** 2026-11-25
+
+### [Navigation Software Engineer](https://www.linkedin.com/jobs/view/4494679921/) — Spanidea
 - 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-11-25
 
-### [Applied Researcher 5 (AI Foundations)](https://www.linkedin.com/jobs/view/4487295504/) — Capital One
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-11-25
-
-### [Applied Researcher 4](https://www.linkedin.com/jobs/view/4470443381/) — Capital One
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-11-25
-
-### [Applied Researcher 4 (AI Foundations - LLM, Optimization and Finetuning)](https://www.linkedin.com/jobs/view/4470438801/) — Capital One
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-11-25
-
-### [Machine Learning Engineer 4](https://www.linkedin.com/jobs/view/4470957227/) — Capital One
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-11-25
-
-### [Full Stack Engineer 4- People Tech- GenAI & Agentic Systems (LangChain, LangGraph)](https://www.linkedin.com/jobs/view/4470448207/) — Capital One
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-11-25
-
-### [Full Stack Engineer 4- People Tech- GenAI & Agentic Systems (LangChain, LangGraph)](https://www.linkedin.com/jobs/view/4470431904/) — Capital One
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-11-25
-
-### [AI Product Engineer](https://www.linkedin.com/jobs/view/4478197837/) — Samba
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-11-25
-
-### [Full-stack Engineer 4 (Python, Typescript)](https://www.linkedin.com/jobs/view/4470437766/) — Capital One
+### [POC / Deployment Engineer](https://www.linkedin.com/jobs/view/4494682963/) — TekWissen India
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-11-25
 
-### [Full-stack Engineer 5](https://www.linkedin.com/jobs/view/4470427984/) — Capital One
+### [Infrastructure Engineer - Advanced](https://www.linkedin.com/jobs/view/4495203038/) — PTR Global
+- 📍 **Location:** Palo Alto, CA
+- 🕒 **Posted:** 2026-11-25
+
+### [DevOps Engineer](https://www.linkedin.com/jobs/view/4494687383/) — STAFFWORXS
+- 📍 **Location:** Jersey City, NJ
+- 🕒 **Posted:** 2026-11-25
+
+### [Java Software Engineer](https://www.linkedin.com/jobs/view/4493445849/) — Synechron
+- 📍 **Location:** Menlo Park, CA
+- 🕒 **Posted:** 2026-11-25
+
+### [Frontend Developer (local to California)](https://www.linkedin.com/jobs/view/4493456224/) — iTech US Inc
+- 📍 **Location:** Mountain View, CA
+- 🕒 **Posted:** 2026-11-25
+
+### [Network DevOps Engineer With Terraform](https://www.linkedin.com/jobs/view/4494958269/) — InfiCare Staffing
+- 📍 **Location:** Palo Alto, CA
+- 🕒 **Posted:** 2026-11-25
+
+### [Java Full stack Developer with AI](https://www.linkedin.com/jobs/view/4494963038/) — Smart IT Frame LLC
 - 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-11-25
 
-### [Full-stack Engineer 4](https://www.linkedin.com/jobs/view/4470446222/) — Capital One
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-11-25
-
-### [Full-stack Engineer 4 (Java, Scala, AWS)](https://www.linkedin.com/jobs/view/4470431913/) — Capital One
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-11-25
-
-### [Full Stack Engineer - Music](https://www.linkedin.com/jobs/view/4487078550/) — Spotify
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-11-25
-
-### [Software Engineer](https://www.linkedin.com/jobs/view/4480824763/) — Robert Half
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $76.00/hr - $88.00/hr
-- 🕒 **Posted:** 2026-11-25
-
-### [Fullstack Software Engineer](https://www.linkedin.com/jobs/view/4478403489/) — Samba
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-11-25
-
-### [Full Stack Engineering- SME (PostgreSQL & Prisma)](https://www.linkedin.com/jobs/view/4491325778/) — Celebal Technologies
+### [Solutions Architect, Networking](https://www.linkedin.com/jobs/view/4494964008/) — Rolejob
 - 📍 **Location:** Santa Clara, CA
 - 🕒 **Posted:** 2026-11-25
 
-### [Site Reliability Engineer, CapCut](https://www.linkedin.com/jobs/view/4494693310/) — TikTok USDS Joint Venture
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-11-25
-
-### [Front-end Engineer 4](https://www.linkedin.com/jobs/view/4470435792/) — Capital One
+### [Software Development Engineer II](https://www.linkedin.com/jobs/view/4493453413/) — Seated
 - 📍 **Location:** New York, NY
+- 💰 **Salary:** $160,000.00/yr - $180,000.00/yr
 - 🕒 **Posted:** 2026-11-25
 
-### [HPC Platform Engineer, Software, Center for Quantum Computing](https://www.linkedin.com/jobs/view/4494680661/) — Amazon Web Services (AWS)
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-11-25
-
-### [AI Infrastructure Engineer - Recommendation & LLM](https://www.linkedin.com/jobs/view/4494958156/) — TikTok
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-11-25
-
-### [Software Engineer, Tech & Product](https://www.linkedin.com/jobs/view/4494691351/) — TikTok USDS Joint Venture
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-11-25
-
-### [AI Solutions Engineer](https://www.linkedin.com/jobs/view/4493441870/) — JustBacked
+### [Software Engineer (Atlassian Platform Support)](https://www.linkedin.com/jobs/view/4494682546/) — NBCUniversal
 - 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-11-25
-
-### [Associate Deployment Strategist, Future Platforms | Housing](https://www.linkedin.com/jobs/view/4493449587/) — JustBacked
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-11-25
-
-### [Software Development Engineer, Annapurna Labs - LibNVMe](https://www.linkedin.com/jobs/view/4494689294/) — Annapurna Labs
-- 📍 **Location:** Cupertino, CA
-- 🕒 **Posted:** 2026-11-25
-
-### [Software Development Engineer, Distributed NoSQL Database Systems](https://www.linkedin.com/jobs/view/4494948637/) — ByteDance
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-11-25
-
-### [New Grads 2027 - Software Engineer, Algorithm](https://www.linkedin.com/jobs/view/4494679852/) — WeRide
-- 📍 **Location:** San Jose, CA
+- 💰 **Salary:** $105,000.00/yr - $135,000.00/yr
 - 🕒 **Posted:** 2026-11-25
