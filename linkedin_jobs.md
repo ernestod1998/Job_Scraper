@@ -1,21 +1,16 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-11-25 02:17 UTC*
+*Last updated: 2026-11-25 03:17 UTC*
 
-**4 new role(s)** since last run · 13 total in last 1h
+**3 new role(s)** since last run · 5 total in last 1h
 
-### [Member of Technical Staff - ML Research](https://www.linkedin.com/jobs/view/4494756830/) — Architect Labs
-- 📍 **Location:** Palo Alto, CA
+### [Machine Learning Engineer](https://www.linkedin.com/jobs/view/4494768488/) — The Carrera Agency
+- 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-11-24
 
-### [Member of Technical Staff - Software](https://www.linkedin.com/jobs/view/4494758768/) — Architect Labs
-- 📍 **Location:** Palo Alto, CA
+### [Software Engineer](https://www.linkedin.com/jobs/view/4494773206/) — Binary, Inc.
+- 📍 **Location:** New York City Metropolitan Area
 - 🕒 **Posted:** 2026-11-24
 
-### [Machine Learning Engineer – GPU Performance & Low-Latency Inference](https://www.linkedin.com/jobs/view/4494766451/) — Fintal Partners
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-11-24
-
-### [Machine Learning Engineer – Distributed Training & Research Infrastructure](https://www.linkedin.com/jobs/view/4494772216/) — Fintal Partners
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $500,000.00/yr - $1,500,000.00/yr
+### [Forward Deployed Engineer, Enterprise AI Deployments at Tech Careers](https://www.linkedin.com/jobs/view/4494468444/) — MeeBoss
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-11-24
