@@ -1,12 +1,9 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-11-26 21:17 UTC*
+*Last updated: 2026-11-26 22:17 UTC*
 
-**2 new role(s)** since last run · 2 total in last 1h
+**1 new role(s)** since last run · 3 total in last 1h
 
-### [Software Engineer, AI Gateway](https://www.linkedin.com/jobs/view/4489614680/) — Vercel
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-11-26
-
-### [Fractional Full-Stack Software Engineer](https://www.linkedin.com/jobs/view/4495050406/) — Pepper
-- 📍 **Location:** San Francisco, CA
+### [Machine Learning Engineer](https://www.linkedin.com/jobs/view/4491876560/) — Shields Group Search
+- 📍 **Location:** San Francisco Bay Area
+- 💰 **Salary:** $220,000.00/yr - $300,000.00/yr
 - 🕒 **Posted:** 2026-11-26
