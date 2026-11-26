@@ -1,6 +1,8 @@
 # 🦋 Bluesky — Hiring Posts
-*Last updated: 2026-11-26 13:06 UTC*
+*Last updated: 2026-11-26 23:59 UTC*
 
-**0 new role(s)** since last run · 2 total in recent Bluesky hiring posts
+**1 new role(s)** since last run · 1 total in recent Bluesky hiring posts
 
-No new Bluesky hiring posts since the last run.
+### [Data Scientist, Performance Marketing](https://bsky.app/profile/remotestake.com/post/3n37xanzfmy2p) — Pinterest
+- 📍 **Location:** Remote (US)
+- 🕒 **Posted:** 2026-11-26
