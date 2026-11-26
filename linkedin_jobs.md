@@ -1,52 +1,37 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-11-26 00:18 UTC*
+*Last updated: 2026-11-26 01:18 UTC*
 
-**12 new role(s)** since last run · 37 total in last 1h
+**8 new role(s)** since last run · 23 total in last 1h
 
-### [Solutions Engineer - Logistics Automation](https://www.linkedin.com/jobs/view/4495225443/) — LG CNS America
-- 📍 **Location:** Englewood Cliffs, NJ
-- 🕒 **Posted:** 2026-11-25
-
-### [Software Developer (OpenSHMEM/MPI)](https://www.linkedin.com/jobs/view/4494192303/) — Hewlett Packard Enterprise
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-11-25
-
-### [Software Engineer (C++ Systems)](https://www.linkedin.com/jobs/view/4495220707/) — OP Recruiting
+### [Forward Deployed Engineer](https://www.linkedin.com/jobs/view/4494980412/) — Clicks Health
 - 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $140,000.00/yr - $190,000.00/yr
 - 🕒 **Posted:** 2026-11-25
 
-### [Systems Software Engineer 3](https://www.linkedin.com/jobs/view/4495214884/) — Hewlett Packard Enterprise
-- 📍 **Location:** Sunnyvale, CA
+### [Member of Technical Staff - EDA Algorithms](https://www.linkedin.com/jobs/view/4494975521/) — Architect Labs
+- 📍 **Location:** Palo Alto, CA
 - 🕒 **Posted:** 2026-11-25
 
-### [Frontend Engineer II (Hybrid)](https://www.linkedin.com/jobs/view/4493456983/) — CrowdStrike
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-11-25
-
-### [Research Engineer](https://www.linkedin.com/jobs/view/4494963717/) — NYU Langone Health
-- 📍 **Location:** Queens, NY
-- 🕒 **Posted:** 2026-11-25
-
-### [Software Engineer - Platform / Applied AI (Full-Stack)](https://www.linkedin.com/jobs/view/4494958891/) — JeffreyM Consulting
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-11-25
-
-### [T-Ads Software Engineer, React](https://www.linkedin.com/jobs/view/4495218585/) — T-Mobile
-- 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-11-25
-
-### [Software Engineer II](https://www.linkedin.com/jobs/view/4493473227/) — Sony Interactive Entertainment
+### [Software Engineer](https://www.linkedin.com/jobs/view/4494976454/) — IXL Learning
 - 📍 **Location:** San Mateo, CA
 - 🕒 **Posted:** 2026-11-25
 
-### [Software Engineer, Product Infrastructure](https://www.linkedin.com/jobs/view/4452022203/) — Notion
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-11-25
-
-### [Leader, Software Engineering](https://www.linkedin.com/jobs/view/4495210770/) — Cisco
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-11-25
-
-### [Software Engineer (US)](https://www.linkedin.com/jobs/view/4495210798/) — TD
+### [AI Solution Architect](https://www.linkedin.com/jobs/view/4494979438/) — Resourceful
 - 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-11-25
+
+### [Software Development Engineer](https://www.linkedin.com/jobs/view/4495233509/) — Amazon
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-11-25
+
+### [Software Engineer, Core Technology](https://www.linkedin.com/jobs/view/4494986062/) — IXL Learning
+- 📍 **Location:** San Mateo, CA
+- 🕒 **Posted:** 2026-11-25
+
+### [Robotics Engineer, Electrical & Embedded](https://www.linkedin.com/jobs/view/4494987103/) — LuminX
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-11-25
+
+### [Member of Technical Staff - Design for Test (DFT)](https://www.linkedin.com/jobs/view/4494980331/) — Architect Labs
+- 📍 **Location:** Palo Alto, CA
 - 🕒 **Posted:** 2026-11-25
