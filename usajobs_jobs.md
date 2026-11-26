@@ -1,6 +1,9 @@
 # 🇺🇸 USAJOBS — Federal Roles
-*Last updated: 2026-11-25 00:05 UTC*
+*Last updated: 2026-11-26 23:58 UTC*
 
-**0 new role(s)** since last run · 0 total in current USAJOBS postings
+**1 new role(s)** since last run · 1 total in current USAJOBS postings
 
-No new federal roles since the last run.
+### [Data Scientist (Healthcare)](https://www.usajobs.gov/job/894394900) — Veterans Health Administration
+- 📍 **Location:** Palo Alto, California
+- 💰 **Salary:** Starting at $133,060 Per year (GS 13)
+- 🕒 **Posted:** 2026-11-25
