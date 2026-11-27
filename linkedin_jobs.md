@@ -1,20 +1,13 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-11-27 20:18 UTC*
+*Last updated: 2026-11-27 21:17 UTC*
 
-**4 new role(s)** since last run · 18 total in last 1h
+**2 new role(s)** since last run · 5 total in last 1h
 
-### [Machine Learning Engineer — AI Safety & Assurance](https://www.linkedin.com/jobs/view/4495864132/) — TikTok USDS Joint Venture
-- 📍 **Location:** San Jose, CA
+### [Forward Deployed Engineer](https://www.linkedin.com/jobs/view/4495051270/) — Zoskie
+- 📍 **Location:** San Francisco Bay Area
 - 🕒 **Posted:** 2026-11-27
 
-### [Software Engineer, Payment Risk - Global Payment - Global Payment](https://www.linkedin.com/jobs/view/4495336438/) — ByteDance
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-11-27
-
-### [Robotics Engineer, Mission Autonomy](https://www.linkedin.com/jobs/view/4491944275/) — Andromeda
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-11-27
-
-### [Software Engineer](https://www.linkedin.com/jobs/view/4495847729/) — Faropoint
-- 📍 **Location:** Hoboken, NJ
+### [Full Stack Engineer](https://www.linkedin.com/jobs/view/4404858188/) — Syndesus, Inc.
+- 📍 **Location:** San Francisco Bay Area
+- 💰 **Salary:** $190,000.00/yr - $280,000.00/yr
 - 🕒 **Posted:** 2026-11-27
