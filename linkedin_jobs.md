@@ -1,61 +1,81 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-11-27 08:59 UTC*
+*Last updated: 2026-11-27 16:18 UTC*
 
-**14 new role(s)** since last run · 14 total in last 1h
+**18 new role(s)** since last run · 18 total in last 1h
 
-### [Machine Learning Engineer ($175K- 250K)](https://www.linkedin.com/jobs/view/4493877353/) — CodeRound AI
-- 📍 **Location:** San Francisco Bay Area
+### [Software Engineer - Customer Facing Applied AI](https://www.linkedin.com/jobs/view/4480177743/) — Addepar
+- 📍 **Location:** Mountain View, CA
 - 🕒 **Posted:** 2026-11-27
 
-### [Remote Python/Typescript Full Stack Engineer](https://www.linkedin.com/jobs/view/4495092085/) — Turing
-- 📍 **Location:** San Francisco Bay Area
+### [Software Engineer (Java/Python) - AVP](https://www.linkedin.com/jobs/view/4486923451/) — Citi
+- 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-11-27
 
-### [Remote Full Stack Developer - Python/Typescript](https://www.linkedin.com/jobs/view/4495078661/) — Turing
-- 📍 **Location:** San Francisco Bay Area
+### [AI Product Engineer](https://www.linkedin.com/jobs/view/4488027740/) — Capco
+- 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-11-27
 
-### [Remote Full Stack Developer - Python/Typescript](https://www.linkedin.com/jobs/view/4495075807/) — Turing
-- 📍 **Location:** New York City Metropolitan Area
+### [Applied Researcher 5 (AI Foundations - LLM, Optimization and Finetuning)](https://www.linkedin.com/jobs/view/4471481594/) — Capital One
+- 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-11-27
 
-### [Agent Infrastructure Engineer](https://www.linkedin.com/jobs/view/4495093054/) — Teli Labs
+### [Applied Researcher 4 (AI Foundations)](https://www.linkedin.com/jobs/view/4479751304/) — Capital One
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-11-27
+
+### [Applied Scientist, Engineering](https://www.linkedin.com/jobs/view/4486908342/) — Anthropic
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-11-27
 
-### [Remote Software Engineer ($300/hr)](https://www.linkedin.com/jobs/view/4495087109/) — Turing
-- 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-11-27
-
-### [ML Engineer: LLM Interpretability & Systems](https://www.linkedin.com/jobs/view/4495591440/) — Calyptus
+### [Software engineer, cloud infrastructure](https://www.linkedin.com/jobs/view/4479306723/) — Watershed
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-11-27
 
-### [Full Stack Engineer ($140K- 300K)](https://www.linkedin.com/jobs/view/4493878307/) — CodeRound AI
-- 📍 **Location:** San Francisco Bay Area
-- 💰 **Salary:** $140,000.00/yr - $300,000.00/yr
+### [Full-stack Engineer 4 (IC)](https://www.linkedin.com/jobs/view/4470998884/) — Capital One
+- 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-11-27
 
-### [Remote Backend Engineer (Python/FastAPI)](https://www.linkedin.com/jobs/view/4495074725/) — Turing
-- 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-11-27
-
-### [Remote Full Stack Engineer](https://www.linkedin.com/jobs/view/4495081479/) — Turing
+### [Java Software Engineer](https://www.linkedin.com/jobs/view/4494207230/) — Triunity Software, Inc.
 - 📍 **Location:** San Francisco Bay Area
 - 🕒 **Posted:** 2026-11-27
 
-### [Remote Software Engineer - Python/Typescript](https://www.linkedin.com/jobs/view/4495088087/) — Turing
-- 📍 **Location:** San Francisco Bay Area
+### [Mobile Engineer](https://www.linkedin.com/jobs/view/4485857965/) — Betterment
+- 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-11-27
 
-### [Remote Full Stack Developer](https://www.linkedin.com/jobs/view/4495079445/) — Turing
+### [Software Engineer III](https://www.linkedin.com/jobs/view/4471629847/) — Lead
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-11-27
+
+### [Software Engineer, Developer Relations](https://www.linkedin.com/jobs/view/4471617799/) — PTR Global
+- 📍 **Location:** Cupertino, CA
+- 🕒 **Posted:** 2026-11-27
+
+### [Software Engineer](https://www.linkedin.com/jobs/view/4495300771/) — Fonzi AI
+- 📍 **Location:** San Francisco Bay Area
+- 💰 **Salary:** $170,000.00/yr - $245,000.00/yr
+- 🕒 **Posted:** 2026-11-27
+
+### [Software Engineer, Backend](https://www.linkedin.com/jobs/view/4495307556/) — Fonzi AI
+- 📍 **Location:** San Francisco Bay Area
+- 💰 **Salary:** $180,000.00/yr - $250,000.00/yr
+- 🕒 **Posted:** 2026-11-27
+
+### [Software Engineer, Full Stack](https://www.linkedin.com/jobs/view/4495305664/) — Fonzi AI
+- 📍 **Location:** San Francisco Bay Area
+- 💰 **Salary:** $165,000.00/yr - $230,000.00/yr
+- 🕒 **Posted:** 2026-11-27
+
+### [Software Engineer](https://www.linkedin.com/jobs/view/4495309381/) — Fonzi AI
 - 📍 **Location:** New York City Metropolitan Area
+- 💰 **Salary:** $170,000.00/yr - $245,000.00/yr
 - 🕒 **Posted:** 2026-11-27
 
-### [Remote Software Engineer ($300/hr)](https://www.linkedin.com/jobs/view/4495078510/) — Turing
-- 📍 **Location:** New York City Metropolitan Area
+### [Oracle Cloud HCM Solution Architect](https://www.linkedin.com/jobs/view/4469753590/) — IBM
+- 📍 **Location:** Jersey City, NJ
+- 💰 **Salary:** $144,000.00/yr - $268,000.00/yr
 - 🕒 **Posted:** 2026-11-27
 
-### [Remote Software Developer ($200/hr)](https://www.linkedin.com/jobs/view/4495075633/) — Turing
-- 📍 **Location:** New York City Metropolitan Area
+### [Applied Scientist , Fauna](https://www.linkedin.com/jobs/view/4488086452/) — Amazon
+- 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-11-27
