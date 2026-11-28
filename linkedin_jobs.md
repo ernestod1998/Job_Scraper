@@ -1,12 +1,22 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area + NYC)
-*Last updated: 2026-11-28 04:17 UTC*
+*Last updated: 2026-11-28 08:21 UTC*
 
-**2 new role(s)** since last run · 2 total in last 1h
+**4 new role(s)** since last run · 4 total in last 1h
 
-### [PeopleSoft Advanced Software Engineer](https://www.linkedin.com/jobs/view/4494224916/) — HRUCKUS
+### [Forward Deployed Engineer](https://www.linkedin.com/jobs/view/4494241538/) — FDE Times
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-11-28
+
+### [AI Software Engineer - (Java)](https://www.linkedin.com/jobs/view/4494244292/) — BeaconFire Inc.
+- 📍 **Location:** New York City Metropolitan Area
+- 🕒 **Posted:** 2026-11-28
+
+### [Forward Deployed Engineer, Infrastructure Development & Delivery](https://www.linkedin.com/jobs/view/4495367228/) — Fluidstack
 - 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-11-27
+- 💰 **Salary:** $224,000.00/yr - $300,000.00/yr
+- 🕒 **Posted:** 2026-11-28
 
-### [PeopleSoft Developer - Advanced Software Engineer](https://www.linkedin.com/jobs/view/4494230637/) — HRUCKUS
+### [Product Engineer, Infrastructure Development & Delivery](https://www.linkedin.com/jobs/view/4495368227/) — Fluidstack
 - 📍 **Location:** New York, NY
-- 🕒 **Posted:** 2026-11-27
+- 💰 **Salary:** $224,000.00/yr - $300,000.00/yr
+- 🕒 **Posted:** 2026-11-28
